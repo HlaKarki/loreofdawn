@@ -17,12 +17,15 @@
     "db:push": "turbo -F server db:push",
     "db:studio": "turbo -F server db:studio",
     "db:generate": "turbo -F server db:generate",
-    "db:migrate": "turbo -F server db:migrate"
+    "db:migrate": "turbo -F server db:migrate",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check"
   },
   "dependencies": {},
   "devDependencies": {
-    "turbo": "^2.5.4",
-    "oxlint": "^1.12.0"
+    "oxlint": "^1.12.0",
+    "prettier": "^3.6.2",
+    "turbo": "^2.5.4"
   },
   "packageManager": "bun@1.2.10"
 }
