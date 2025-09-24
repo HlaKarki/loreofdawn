@@ -8,11 +8,7 @@ import { Input } from "./ui/input";
 import { Label } from "./ui/label";
 import { useRouter } from "next/navigation";
 
-export default function SignInForm({
-	onSwitchToSignUp,
-}: {
-	onSwitchToSignUp: () => void;
-}) {
+export default function SignInForm({ onSwitchToSignUp }: { onSwitchToSignUp: () => void }) {
 	const router = useRouter();
 	const { isPending } = authClient.useSession();
 
@@ -29,7 +25,7 @@ export default function SignInForm({
 				},
 				{
 					onSuccess: () => {
-						router.push("/dashboard");
+						router.push("/");
 						toast.success("Sign in successful");
 					},
 					onError: (error) => {
