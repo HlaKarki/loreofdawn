@@ -1,4 +1,4 @@
-[service.web]
+[loreofdawn]
 root = "."
 build = "bun install --frozen-lockfile && bun run --filter web build"
 start = "bun run --filter web start -- --port $PORT"
