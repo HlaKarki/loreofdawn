@@ -1,4 +1,4 @@
-import { protectedProcedure, publicProcedure, router } from "@/lib/trpc";
+import { router } from "@/lib/trpc";
 import { testRouter } from "@/routers/testing.router";
 
 export const appRouter = router({

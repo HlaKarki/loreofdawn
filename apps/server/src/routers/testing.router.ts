@@ -13,11 +13,8 @@ export const testRouter = router({
 				name: z.string(),
 			}),
 		)
-		.mutation(async ({ input }) => {
-			// fetch from database
-			// from table "test", fetch all
+		.mutation(async () => {
 			const rows = await db.select().from(testTable);
-			// push
 			return {
 				rows,
 			};
