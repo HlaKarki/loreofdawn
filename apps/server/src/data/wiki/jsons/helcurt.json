@@ -1,0 +1,876 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The nightmare of the Abyss who's Willing to betray anyone in order to survive.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Helcurt was born into the Styx Clan of the Abyss and bore the stigma of his clan's betrayal against the Lord of the Abyss."
+          },
+          {
+            "text": "However, in a twist of fate, he was put on the Tribunal tasked with executing traitors for the Lord."
+          },
+          {
+            "text": "To survive, Helcurt was willing to do anything, including hunting his own kin."
+          },
+          {
+            "text": "Yet, during the great uprising against the Lord of the Abyss, Helcurt was the one who slew him."
+          },
+          {
+            "text": "He was born a traitor and never knew the honor of loyalty, but even as a traitor, he had the right to live."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "11",
+          "1"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "The nightmare of the Abyss who's Willing to betray anyone in order to survive.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "File:HellcurtImposing.png"
+        },
+        "chinese_name": {
+          "text": "哈卡特 (hākǎtè)"
+        },
+        "alias": {
+          "text": "Shadowbringer"
+        },
+        "origin": {
+          "text": "Abyss Crack, The Barren Lands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Abyss Crack"
+            },
+            {
+              "type": "internal",
+              "page": "The Barren Lands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Unknown"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "affiliation": {
+          "text": "The Abyss",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Venomous stingers"
+        },
+        "traits": {
+          "text": "Traitorous"
+        },
+        "relationships": {
+          "text": "* Lord of the Abyss (Former Master/Enemy)\n* (rival)\n*  (enemy)"
+        },
+        "en_va": {
+          "text": "Cian Hoyne (2017–2024)",
+          "links": [
+            {
+              "text": "Cian Hoyne",
+              "type": "internal",
+              "page": "IMDB:nm9240513"
+            }
+          ]
+        },
+        "name": {
+          "text": "Helcurt"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Born in the Darkness",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Born in the darkness, Helcurt was bestowed with the genius of stalking and ambushing. He dwelt in the shadows, seeking only his prey. Enslaved by the Abyss, he waited for that split second his prey would falter. Now, Helcurt steps forth from the gloom, his blade at the ready. The time of lurking has ended, and the hunt shall begin. Official MLBB socials\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "They were traitors the moment they were born."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the darkest depths of the Abyss, the Styx Clan once bared their fangs against the Lord of the Abyss."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Styx Clan were the deadliest hunters to roam the shadows, born to spread the darkness."
+          },
+          {
+            "text": "They could stalk their enemies for days in complete silence before finally slitting their throats and vanishing into the night."
+          },
+          {
+            "text": "Their talents made them the most feared assassins of the Abyss."
+          },
+          {
+            "text": "But even more terrifying was their beast-like nature, because when survival is at stake, there is no predicting what a beast would do."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Survive...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Confronted with the Styx Clan's rebellion, even the mighty Lord of the Abyss felt fear."
+          },
+          {
+            "text": "But he could not allow such transgressions against the name of the darkness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Against the sheer power of the Lord of the Abyss, the Styx Clan was defeated."
+          },
+          {
+            "text": "They were branded as traitors and suffered a most cruel punishment: they were \"gifted\" the Lord of the Abyss's blood, to be forever shackled to his will."
+          },
+          {
+            "text": "This not only physically prevented them from raising their claws against the Lord of the Abyss, but also served as the greatest form of humiliation."
+          },
+          {
+            "text": "The beasts of the Abyss were thus tamed like dogs."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Helcurt was the offspring of this clan of traitors."
+          },
+          {
+            "text": "He was born in the midst of the great war and witnessed his kin being used as cannon fodder."
+          },
+          {
+            "text": "Their broken bodies filled the battlefields, and eventually, it would be his turn."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Survive...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The only thought going through Helcurt's mind was to survive."
+          },
+          {
+            "text": "He ran and fought with all his might across the battlefield, and emerged victorious from the merciless meat grinder."
+          },
+          {
+            "text": "After the battle, he was summoned by the Lord of the Abyss."
+          },
+          {
+            "text": "Seeing Helcurt's short, feral stature, the Lord mockingly declared that Helcurt was the \"most loyal dog\" of his clan, and placed him in the Tribunal to judge and execute traitors."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"You wretched thing. do as I will and you'll get your share of scraps.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Helcurt obeyed."
+          },
+          {
+            "text": "The first traitor judged was one of his clansmen."
+          },
+          {
+            "text": "A veil of darkness shrouded his path that night."
+          },
+          {
+            "text": "and amidst the fearful expressions from his kin, Helcurt slit the traitors throat with a flash of the blade, fulfilling his mission."
+          },
+          {
+            "text": "The blood flowed silently as he dropped the lifeless body."
+          },
+          {
+            "text": "He carried out the execution without hesitation, but in that instant, he experienced an eternity of anguish."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Survive...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He was born with the stigma of a traitor, and now he must live up to that name and hunt his own."
+          },
+          {
+            "text": "He became the Blade of the Tribunal, slaughtering his brethren who had betrayed the Lord of the Abyss, even if they were only trying to survive."
+          },
+          {
+            "text": "No one knew what Helcurt was thinking on these hunts."
+          },
+          {
+            "text": "All he knew was that he had to live on."
+          },
+          {
+            "text": "Though he was born in the darkness, walked in the darkness, and shall forever remain in the darkness, he was still alive."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the murky swamps where he could alone, Helcurt marked each passing year by tying a knot on a rope."
+          },
+          {
+            "text": "This was his proof that he was alive."
+          },
+          {
+            "text": "Living was his most humble and proud desire, even if he did so like a dog in the shadows......"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Helcurt had survived to see the end of the war, but with the absence of the gods."
+          },
+          {
+            "text": "madness to spread through the Abyss."
+          },
+          {
+            "text": "The source of it all was the Lord of the Abyss, who had lost his way without his dark god, For thousands of years, he controlled the Abyss using his corrupted blood, and now his madness infected them in the same manner."
+          },
+          {
+            "text": "This was the 310CX-i Curse."
+          },
+          {
+            "text": "Left with no choice, the demons of the Abyss, led by Thamuz."
+          },
+          {
+            "text": "turned against the Lord of the Abyss, They surged toward the Lord of the Abyss's palace."
+          },
+          {
+            "text": "and Helcurt."
+          },
+          {
+            "text": "leading the Tribunal, stood as the last line of defense like an imposing wall."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Amidst the chaos, Helcurt gripped his tightly."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"A thousand knots, a thousand years...'"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The coarse feel of the reminded him that he was still alive."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Though born in the darkness, born a traitor, he had the right to live."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Survive...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Helcurt turned around and came face to face With the towering Lord of the Abyss before emitting a beastly roar."
+          },
+          {
+            "text": "With all his might, he purged the cursed blood and caused It to burst out of his body."
+          },
+          {
+            "text": "The sheer force caused his bones to jet out from his skin like blades."
+          },
+          {
+            "text": "In an instant, he was on top of the Lord of the Abyss, slashing away with his blades of one, freeing himself"
+          },
+          {
+            "text": "from the shackles of the Blood Curse in a most fitting fashion."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"When you decided my fate, you should have remembered that I was born a traitor...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He had bared his tangs against the Lord of the Abyss."
+          },
+          {
+            "text": "Just like his ancestors a thousand years ago."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He was born a traitor."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He had always been a traitor."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "text": "Born in the darkness, Helcurt was bestowed with the genius of stalking and ambushing.\nHe dwelt in the shadows, seeking only his prey.\nEnslaved by the Abyss, he waited for that split second his prey would falter.\nNow, Helcurt steps forth from the gloom, his blade at the ready.\nThe time of lurking has ended, and the hunt shall begin. Official MLBB socials",
+        "template": "quote"
+      }
+    ]
+  },
+  {
+    "title": "Help! I Almost Got Killed in the Abyss!",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Help! I Almost Got Killed in the Abyss!"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Prowler",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "total-pa": "30",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Prowler",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "dark fog",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "dark fog",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Shadow of Styx",
+        "skill-effect-1": "Buff",
+        "quote": "He who hides in the shadow.",
+        "description": "Helcurt remains in the state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating  HP if he has not dealt any damage. \nHe gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4 seconds upon being spotted and leaves  state 0.75 second later.\nAny hero killed after hit by Helcurt leaves a  that explodes and spreads with a cooldown of 10 seconds. Helcurt Conceals himself while within the.",
+        "notes": "*In the description, Helcurt's \"Conceal\" grants him Invisibility. The only other hero to possess an Conceal skill is .\n\n*The sound effect when losing the state is audible to all nearby units.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Prowler",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Active",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "150-300",
+        "total-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Hidden Terror",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "CC",
+        "cooldown": "15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0",
+        "description": ": When Helcurt is in state, the skill terrifies enemy heroes hit and its cooldown decreases 3 times as fast : Helcurt blinks to the target location and deals  to enemies within the area, reducing their Movement Speed by 60% for 0.75s.",
+        "level-scaling": "Base Damage: 150 / 180 / 210 / 240 / 270 / 300",
+        "term-1": "Blink",
+        "term-2": "CC",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Deadly Stinger"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Prowler",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Active:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Deadly Stinger",
+          "Deadly Stingers"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "180-280",
+        "extra-pa": "42",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Golden Staff"
+        ],
+        "template": "ii"
+      },
+      {
+        "image-2": "Deadly Stinger 2",
+        "image-3": "Deadly Stinger 3",
+        "image-4": "Deadly Stinger 4",
+        "image-5": "Deadly Stinger 5",
+        "name": "Deadly Stinger",
+        "skill-effect-1": "Burst",
+        "cooldown": "4.0 / 3.7 / 3.4 / 3.1 / 2.8 / 2.5",
+        "quote": "He who awakes in the slaughter.",
+        "description": "Helcurt gains one for every 1.5s spent in  state or on each Basic Attack. Up to 5 stingers can be stored.  Helcurt fires all  forward, each dealing  to enemies (Minions and Creeps only take 70% of the damage) Deadly Stinger counts as a Basic Attack, but it cannot Crit.",
+        "atk-effects": "100%",
+        "level-scaling": "Base Damage: 180 / 200 / 220 / 240 / 260 / 280",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Extra Physical Attack",
+        "term-3": "Movement Speed",
+        "notes": "*This skill cannot trigger the attack effect stacking part of 's Unique Passive, Endless Strike.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Dark Night",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Dark Night",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Dark Night",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Dark Night Falls",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Debuff",
+        "cooldown": "60.0 / 55.0 / 50.0",
+        "quote": "He who resurrects in the night.",
+        "description": "Helcurt summons the, reducing all enemies' sight range and making them lose sight of their allies for 3s. During , Helcurt gains 40% Movement Speed. The  makes it easier for Helcurt to leave enemies' sight range.",
+        "level-scaling": "Movement Speed Bonus: 40% / 45% / 50%",
+        "notes": "*Does not affect enemy turrets.\n*Does not affect units inside 's .\n*Enemies' attack and abilities are not restricted by vision\n*Is not consider as an assist if an enemy hero is killed within the duration without any Helcurt's damage.",
+        "duration": "3 seconds",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Painted avatar icons",
+    "depth": 2,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Hero516-color01-icon.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hero516-color01-icon.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hero516-color01-icon.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Evolved Prowler in the Dark: Making of Shadowbringer Helcurt Revamp",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Evolved_Prowler_in_the_Dark_p1.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p1.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p1.jpg"
+          },
+          {
+            "file": "File:Evolved_Prowler_in_the_Dark_p2.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p2.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p2.jpg"
+          },
+          {
+            "file": "File:Evolved_Prowler_in_the_Dark_p3.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p3.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p3.jpg"
+          },
+          {
+            "file": "File:Evolved_Prowler_in_the_Dark_p4.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p4.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p4.jpg"
+          },
+          {
+            "file": "File:Evolved_Prowler_in_the_Dark_p5.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p5.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p5.jpg"
+          },
+          {
+            "file": "File:Evolved_Prowler_in_the_Dark_p6.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p6.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Evolved_Prowler_in_the_Dark_p6.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "name": "Dark Night Falls",
+        "list": [
+          "Ultimate quote"
+        ],
+        "hero": "Helcurt/Audio",
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Silence 1.5s",
+          "CC"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Slow 1.5s",
+          "slow"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Dark Night Falls",
+        "list": [
+          "ultimate"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Shadow Transition",
+        "list": [
+          "1st skill (without )"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Silence effect",
+          "CC"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Dark Night Falls",
+        "list": [
+          "ultimate"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Shadow Transition",
+        "list": [
+          "1st skill"
+        ],
+        "template": "ai"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Helcurt is one of the heroes who doesn't walk, but rather crawls."
+        },
+        {
+          "text": "If you look closely at Helcurt's portrait, you can notice his white, cat-like pupils."
+        },
+        {
+          "text": "He is heavily inspired by Alma from Magic Rush, another game developed by Moonton.",
+          "links": [
+            {
+              "text": "Alma",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/Alma"
+            }
+          ]
+        },
+        {
+          "text": "He was banned due to for 41 days and 21 hours from 16 May 2023 01:00:00 to 26 June 2023 22:00:00, which is the longest official ban in the history of MLBB.",
+          "formatting": {
+            "italic": [
+              "MLBB"
+            ]
+          }
+        },
+        {
+          "text": "Helcurt's could previously be heard by enemies. This has since been removed."
+        },
+        {
+          "text": "He is the heroes are only got nerfed in Patch 1.5.32, which are removing from to replaced with  in  to making  only during  in active when using.",
+          "links": [
+            {
+              "text": "Patch",
+              "type": "internal",
+              "page": "Patch Notes"
+            },
+            {
+              "text": "1.5.32",
+              "type": "internal",
+              "page": "Patch Notes 1.5.32"
+            }
+          ]
+        },
+        {
+          "text": "Helcurt is the last hero to receive \"Zodiac\" type skins (Scorpio)."
+        }
+      ]
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  }
+]

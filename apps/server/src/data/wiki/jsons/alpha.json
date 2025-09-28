@@ -1,0 +1,786 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A pure cyborg made by Laboratory 1718\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A pure cyborg made by Laboratory 1718."
+          },
+          {
+            "text": "Tasked with hunting down and slaying Saber by its creator, Alpha's burning hatred for Saber makes him a candidate for the role."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "10",
+          "29"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Angela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Saber"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Johnson"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "A pure cyborg made by Laboratory 1718",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Alpha lethalnexusIntegration.jpg"
+        },
+        "chinese_name": {
+          "text": "阿尔法 (ā'ěrfǎ)"
+        },
+        "caption": {
+          "text": "Alpha and Beta (right) on their 2017-2021 design"
+        },
+        "alias": {
+          "text": "Blade of Enmity\nUltimate Weapon (formerly)"
+        },
+        "origin": {
+          "text": "Laboratory 1718, Baker Island",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Laboratory 1718"
+            },
+            {
+              "type": "internal",
+              "page": "Baker Island"
+            }
+          ]
+        },
+        "species": {
+          "text": "Cyborg"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "affiliation": {
+          "text": "*Laboratory 1718\n*Eruditio (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Laboratory 1718"
+            },
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Aircraft Beta\n*Mechanical blade"
+        },
+        "relationships": {
+          "text": "*Octavius (creator)\n*Beta (twin)\n*,, (enemies)"
+        },
+        "en_va": {
+          "text": "Con Eyre (2017–2021)"
+        },
+        "ja_va": {
+          "text": "Omoto Yu (大本 裕)",
+          "links": [
+            {
+              "text": "Omoto Yu (大本 裕)",
+              "type": "internal",
+              "page": "imdb:nm10834512"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The birth of human life is usually a matter that marks hope."
+          },
+          {
+            "text": "Yet to the artificial life created by Laboratory 1718, what lay behind their inception was little more than evil conspiracy and murder, with no blessings nor joy.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Laboratory 1718"
+              }
+            ]
+          },
+          {
+            "text": "And the pure cyborg Alpha is the extreme form of the blasphemy to life forged by Laboratory 1718."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fifty years ago, as a result of his divergence in ideas regarding human experimentation, the great scientist Dr. Baker split off from Eruditio.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eruditio"
+              }
+            ]
+          },
+          {
+            "text": "Fueled by dreams of human augmentation as a means to advance the human race, he founded Laboratory 1718 upon an island."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As far as he was concerned, while he and his Laboratory may have parted from Eruditio, their ultimate goals were the same: to bring about a prosperous future for the human race."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yet what he had never expected was that the joining of additional mad scientists to his Laboratory team would lead to a gradual loss of control."
+          },
+          {
+            "text": "In the end the wildly idealistic scientist was stabbed in the back by his colleague, Professor Giraad, and the fanatical scientism believer stole from him all control over Laboratory 1718."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yet his prestige and appeal paled in comparison to Dr. Baker, the Laboratory’s founder."
+          },
+          {
+            "text": "There began a conflict of interest with many parties of differing ideas."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Octavius was another scientist driven out of Eruditio, and different to the others who obsessed over human and biological experimentation, he had a greater goal: to create a human comprised entirely of mechanical materials with a conscious mind of their own."
+          },
+          {
+            "text": "He proposed the ‘Alpha-Beta’ project, a plan in which a set of superpowered twins would be created – Alpha, and Beta."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yet those higher up in Laboratory 1718 were disinterested in such ideas, and Octavius’ project was dismissed by all."
+          },
+          {
+            "text": "However, he continued to wait patiently, until his opportunity presented itself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Until that day finally came, Octavius was almost brought to complete destruction."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On that deep night, the augmented human Saber could bear no longer the torment of the system that manipulated in his nervous system.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Saber"
+              }
+            ]
+          },
+          {
+            "text": "He laid waste to a huge portion of Laboratory 1718 and fled, Octavius’ own Laboratory not spared in the chaos."
+          },
+          {
+            "text": "A huge amount of costly scientific apparatus were damaged, and Beta who was still in development completely destroyed."
+          },
+          {
+            "text": "Only Alpha, yet to be installed in a body of his own, was left unaffected."
+          },
+          {
+            "text": "Almost the entirety of Octavius’ countless years of sweat and toil has gone up in flames."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Rushing onto the scene, Octavius howled in laughter – all around assuming him to have finally given in to insanity."
+          },
+          {
+            "text": "Yet only he knew that a brighter dawn was yet to come."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Saber's chaotic escaped had spelled disaster for the plan for ‘human weapons’."
+          },
+          {
+            "text": "These were the experiments that Professor Giraad had presided over, the most important of Laboratory 1718’s projects."
+          },
+          {
+            "text": "Those scientists, boiling with rage toward Eruditio, had planned to utilize Saber in laying waste to the city that had humiliated them so."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With the plan scuppered and all hope lost, Professor Giraad fell under heavy criticism and was forced to exit from the timelight."
+          },
+          {
+            "text": "It was at this time that Octavius grasped at the opportunity that had represented itself, and presented a proposition of his own: “Self-aware cyborgs shall bring only betrayal, yet a pure, man-made human: they would always be loyal to the ideals of Laboratory 1718.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And so, with the unprecedented financial and technical superpower that was Laboratory 1718, Alpha came into being."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "His appearance was akin to that of a knight decked out in heavy armor."
+          },
+          {
+            "text": "Just as his creator had planned, he was inbuilt with an unwavering loyalty to Laboratory 1718."
+          },
+          {
+            "text": "In addition, he also possessed the latest technology in terms of his power and weaponry systems, far superseding that of the other robotic beings created by the scientists, a true Alpha in both name and nature: a superior mechanical fighter."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alpha had a body of flesh and cortex the same as that of a young adult male, yet at the same time, he was in reality still a newborn being."
+          },
+          {
+            "text": "Like a puppet, he relied upon Octavius and was at his disposal."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alpha’s first mission was to destroy the traitor, Saber."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alpha brought with him a special companion – the transformed combat machine, Beta."
+          },
+          {
+            "text": "Thus they set out to seek Saber."
+          },
+          {
+            "text": "What even their creator Octavius hadn’t predicted, however, was that the seeds of sentinent thought had begun to sprout in the recesses of Alpha’s mind."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alpha remembered clear as day the night Saber had betrayed them: he and Beta had attained consciousness at the exact same time, and they were even linked together on a deeper level."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Saber has forged his way into the Laboratory, and slashed down upon Beta, Alpha had felt every ounce of Beta’s crushing terror as if it were his own, and a new agonizing feeling too – even though he knew not even what it was at that time…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "From the viewpoint of humanity, this feeling could be described as ‘hatred’."
+          },
+          {
+            "text": "Beta and Alpha’s consciousness connection was so strong, it was as if they had been a single entity."
+          },
+          {
+            "text": "This was a bond that extended far, far further than mere blood relations as experienced by humanity."
+          },
+          {
+            "text": "More than just machines from the same batch, they were true brothers that came into existence together."
+          },
+          {
+            "text": "However, Saber had taken Alpha’s brother from him…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On a dark and stormy night, much like that of Saber’s escape, Alpha found the traitor."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The first time they crossed swords, Alpha was heavily damaged and Saber readied the killing blow."
+          },
+          {
+            "text": "Yet is was just then that Beta charged between them to block it."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Most unexpectedly, Saber sheathed his blade."
+          },
+          {
+            "text": "He looked at Alpha and Beta, both in a sorry state."
+          },
+          {
+            "text": "He had once considered them naught but mere puppets, controlled by the scientists of Laboratory 1718."
+          },
+          {
+            "text": "Now, though, he saw that beneath their flesh and mechanical skeletons there laid greater possibility."
+          },
+          {
+            "text": "He smiled, as if to provoke 'Alpha, and drawled mockingly: “You soulless hunks of scrap can never hope to defeat me in battle.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Disappearing into the rainy night, a question wacked Alpha’s brain: just what, exactly, is the soul?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alpha did not give up hope on his revenge."
+          },
+          {
+            "text": "Yet he believed that the secrets to this ‘soul’ Saber mentioned must surely lay in the act of making himself stronger."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When the ragging storm finally cleared, Alpha was staggering with Beta in his arms, calculation results flickering wildly throughout his core: the soul, is power."
+          },
+          {
+            "text": "I must find my soul!"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lethal Nexus",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Octavius' sidekick, an artificial human made by Laboratory 1718. As the strongest armed force of Laboratory 1718, he followed Octavius to Eruditio and plotted to destroy the city.\""
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Alpha_Lethal_Nexus_Map_Profile.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Alpha_Lethal_Nexus_Map_Profile.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Alpha_Lethal_Nexus_Map_Profile.png"
+          },
+          {
+            "file": "File:Alpha_Lethal_Nexus_Map_Background_Story.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Alpha_Lethal_Nexus_Map_Background_Story.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Alpha_Lethal_Nexus_Map_Background_Story.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Eruditio's lore has been revamped on July 2023."
+        ],
+        "date": "11 December 2023",
+        "template": "outdated"
+      },
+      {
+        "text": "Octavius' sidekick, an artificial human made by Laboratory 1718. As the strongest armed force of Laboratory 1718, he followed Octavius to Eruditio and plotted to destroy the city.",
+        "template": "quote"
+      },
+      {
+        "template": "clr"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Locked On",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Locked On",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "80",
+        "extra-pa": "100",
+        "level": "8",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Beta, Advance!",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Slow",
+        "description": "When Alpha uses a skill, Beta will be summoned to attack. [Non-minion enemies] that are hit by Beta 2 time(s) will be .<BR>: After Alpha deals damage to the target, Beta will fire a laser at them, dealing and briefly applying a powerful [90% slow for 0.2 seconds].",
+        "ls-1": "Base Damage: 88 / 96 / 104 / 112 / 120 / 128 / 136 / 144 / 152 / 160 / 168 / 176 / 184 / 192 / 200",
+        "term-1": "True Damage Skill",
+        "term-2": "True Damage",
+        "notes": "Locked On can only be activated by Alpha's skills and basic attacks.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100-200",
+        "extra-pa": "90",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "60-120",
+        "extra-pa": "30",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Rotary Impact",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slow",
+        "cooldown": "4.0",
+        "mana-cost": "50",
+        "description": "Alpha unleashes an energy wave in the target direction, dealing to enemies in its path and slowing them by 40% for 1 second. Beta then strafes enemies along the same path, dealing.",
+        "ls-1": "Base Damage: 100 / 120 / 140 / 160 / 180 / 200",
+        "ls-2": "Spray Damage: 60 / 72 / 84 / 96 / 108 / 120",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-500",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "100-200",
+        "extra-pa": "30",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "60-120",
+        "extra-pa": "30",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Force Swing",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "HEAL",
+        "cooldown": "6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
+        "mana-cost": "45 / 50 / 55 / 60 / 65 / 70",
+        "description": "After a short delay, Alpha swings his blade in the target direction, dealing to enemies in a fan-shaped area and recovering  for each enemy hit. Beta then strafes enemies in the same area, dealing.",
+        "ls-1": "Base Damage: 250 / 300 / 350 / 400 / 450 / 500",
+        "ls-2": "HP Regen: 100 / 120 / 140 / 160 / 180 / 200",
+        "ls-3": "Spray Damage: 60 / 72 / 84 / 96 / 108 / 120",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100-200",
+        "total-pa": "20",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "250-500",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "15-30",
+        "extra-pa": "30",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Spear of Alpha",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "20.0 / 18.0 / 16.0",
+        "mana-cost": "70 / 80 / 90",
+        "description": "Beta dives into target location, dealing to enemies hit and stunning them for 1 second. Alpha then leaps towards the same location, knocking enemies in his path airborne and carrying them to the landing location. Alpha then slams down, dealing  and slowing the enemies by 40% for 1.5 seconds. Beta then strafes enemies in the same area 5 times, dealing.",
+        "ls-1": "Base Damage: 100 / 150 / 200",
+        "ls-2": "End Damage: 250 / 375 / 500",
+        "ls-3": "Beta Damage: 15 / 22.5 / 30",
+        "term-1": "Blink",
+        "term-2": "Stun",
+        "term-3": "Airborne",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Alpha comes from the Greek alphabet, where it is the first letter (Α, α). It symbolizes \"the beginning\" or \"first\", often associated with leadership, dominance, and superiority."
+        },
+        {
+          "text": "Alpha's name reflects his origin as one of the first advanced cyborg warriors. It also hints at his strength and resilience as a fighter. His robotic companion, Beta, follows the naming pattern, with \"Beta\" being the second letter of the Greek alphabet, reinforcing their connection as a duo.",
+          "formatting": {
+            "bold": [
+              "Beta"
+            ]
+          }
+        },
+        {
+          "text": "His older design is based by the character Saizo from another Moonton game Magic Rush: Heroes.",
+          "links": [
+            {
+              "text": "Saizo",
+              "type": "external",
+              "site": "https://magicrush.wikia.com/wiki/Saizo"
+            },
+            {
+              "text": "Magic Rush: Heroes",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/Magic_Rush_Wiki"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Magic Rush: Heroes"
+            ]
+          }
+        },
+        {
+          "text": "Old version Alpha was a kind and loving cyborg."
+        },
+        {
+          "text": "Alpha was created alongside Beta in a lab by Dr. Baker, intended as a biological weapon.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Dr. Baker"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Beta"
+            ]
+          }
+        },
+        {
+          "text": "His lore reflects themes seen in franchises like Metal Gear Solid and Halo, where warriors are created through unethical experiments.",
+          "links": [
+            {
+              "text": "Metal Gear Solid",
+              "type": "external",
+              "site": "https://metalgear.fandom.com/wiki/Metal_Gear_Solid"
+            },
+            {
+              "text": "Halo",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Halo_(franchise)"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Metal Gear Solid",
+              "Halo"
+            ]
+          }
+        },
+        {
+          "text": "His weapon and robotic enhancements take inspiration from Raiden (Metal Gear Rising) and Gray Fox (Metal Gear Solid).",
+          "links": [
+            {
+              "text": "Raiden",
+              "type": "external",
+              "site": "https://metalgear.fandom.com/wiki/Raiden"
+            },
+            {
+              "text": "Gray Fox",
+              "type": "external",
+              "site": "https://metalgear.fandom.com/wiki/Gray_Fox"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Raiden (Metal Gear Rising)",
+              "Gray Fox (Metal Gear Solid)"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

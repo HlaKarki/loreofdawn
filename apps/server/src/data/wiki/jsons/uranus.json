@@ -1,0 +1,322 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "templates": [
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Edith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kaja"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Rafaela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Argus"
+        ],
+        "template": "hi"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "*Aesthereal Defender\n*Guardians of the Celestial Palace\n* Lord Uranus"
+        },
+        "species": {
+          "text": "Aethereal"
+        },
+        "gender": {
+          "text": "Genderless"
+        },
+        "weapons": {
+          "text": "Celestial Nimbus"
+        },
+        "abilities": {
+          "text": "Aether Manipulation Self-healing"
+        },
+        "relationships": {
+          "text": "(ally) (ally)  (ally)  (ally/master)  (ally)  (enemy)"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Celestial Palace - Legend has it that the city floating above the skies of the Land of Dawn was once home to the Gods.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              },
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "It is also rumored that this mysterious place holds the key to ruling the world."
+          },
+          {
+            "text": "Eons ago, the ruler of the Celestial Palace utilized the technological secret of the ancients to create Uranus, then commanded it to guard the city and await the emergence of a new ruler.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Uranus"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When the scholars of the Land of Dawn found and opened the gates to the Celestial Palace, the battle between the Dawn Zenith and the Dark Abyss quickly spread throughout the realm, disrupting the solitude of the ancient city.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              },
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              }
+            ]
+          },
+          {
+            "text": "The two forces sought to occupy the Celestial Palace as a symbol of victory, their heroes unleashing the full extent of their power and finally reaching an impasse.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              }
+            ]
+          },
+          {
+            "text": "The massive influx of energy generated throughout the incessant battles eventually awakened the city's defense system, converting the released energy into pure lightning, fed into Uranus and reawakened after dormancy within the depths of the Celestial Palace.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Uranus"
+              ]
+            }
+          },
+          {
+            "text": "\"Leave now, intruders!\" he roared upon awakening, charging into the battlefield fueled by lightning, aether and ready to fulfill his destiny.",
+            "formatting": {
+              "italic": [
+                "\"Leave now, intruders!\""
+              ]
+            }
+          },
+          {
+            "text": "His goal—to purge these savage intruders that had disturbed the tranquility of the Celestial Palace.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "name": "Radiance",
+        "skill-effect-1": "Heal",
+        "description": "Uranus absorbs the energy generated by incoming attacks to strengthen himself, regenerating a certain amount of HP every 0.8s. Each stack lasts 10s. When at max stacks (20), Uranus regenerates 48-224 HP (scales with level).",
+        "term-1": "Healing Effect",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "155-255",
+        "total-mp": "30",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Ionic Edge",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slow",
+        "cooldown": "4.0",
+        "mana-cost": "60 / 65 / 70 / 75 / 80 / 85",
+        "description": "Uranus releases two energy blades that orbit around him, dealing to enemy targets and slowing them by 30% for 2s. Each time this skill deals damage to a target, they will be marked with stack for 6s (max of 1 stack per target per cast). Each stack increases the damage of this skill by 40% (to a max of 320%). Each energy blade will only deal damage to the same target once.",
+        "ls-1": "Base Damage: 155 / 175 / 195 / 215 / 235 / 255",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "80-200",
+        "total-mp": "20",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "160-400",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "300-750",
+        "total-mp": "200",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "300-750",
+        "total-mp": "150",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "image-2": "Transcendent Ward 2",
+        "name": "Transcendent Ward",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Shield",
+        "cooldown": "10.0",
+        "mana-cost": "80 / 90 / 100 / 110 / 120 / 130",
+        "description": "Uranus charges to the target location, dealing  to enemies along the way, and  to enemies at the target location and slowing them by 25%. Uranus also generates a  for 4s. The shield explodes at the end of its duration or when destroyed, dealing  to enemies nearby.",
+        "ls-1": "Path Damage: 80 / 104 / 128 / 152 / 176 / 200",
+        "ls-2": "Area Damage: 160 / 208 / 256 / 304 / 352 / 400",
+        "ls-3": "Energy Shield: 300 / 390 / 480 / 570 / 660 / 750",
+        "ls-4": "AOE Damage: 300 / 390 / 480 / 570 / 660 / 750",
+        "term-1": "Shield",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "name": "Consecration",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Speed Up",
+        "cooldown": "42.0 / 39.0 / 36.0",
+        "mana-cost": "100 / 125 / 150",
+        "description": "Uranus unleashes the energy stored within his body, removing slow effects on himself, recovering 200-400 HP, and gaining 60% Movement Speed for 8s (decays over time). Uranus directly gains 5-15 stacks of Radiance, increasing shields received and HP Regen by 20% for 8s.",
+        "ls-1": "Basic Heal: 200 / 300 / 400",
+        "ls-2": "Stacks: 5 / 10 / 15",
+        "term-1": "Healing Effect",
+        "term-2": "Slow Immunity",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "His name, \"Uranus,\" comes from the primordial Greek god of the sky, who was the father of the Titans. Uranus is also the name of the seventh planet in the solar system, which aligns with the hero’s cosmic theme."
+        },
+        {
+          "text": "His name was nearly \"Ouranos,\" the original Greek spelling of the god Uranus. The developers decided on \"Uranus\" to match the planet's name and make it easier to recognize globally."
+        },
+        {
+          "text": "Uranus is one of the oldest being in lore of the game."
+        },
+        {
+          "text": "He is the guardian of the Celestial Palace which is one of the playable maps in game before it was replaced by Sanctum Island."
+        },
+        {
+          "text": "Unlike most tanks that rely on shields or lifesteal, Uranus regenerates HP rapidly over time, making him one of the hardest heroes to take down. His Passive (Radiance) allows him to stack HP regeneration whenever he takes damage, making him excel in prolonged fights."
+        }
+      ]
+    ]
+  }
+]

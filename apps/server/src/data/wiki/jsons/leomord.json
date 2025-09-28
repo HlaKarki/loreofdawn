@@ -1,0 +1,850 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero info"
+      },
+      {
+        "template": "hero stats"
+      }
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A sworn knight who vowed to guard Necrokeep until his last breath.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once a sworn knight of Ridgeburg, Leomord was forced to shatter the oath he made with his own sword in an unfortunate turn of events."
+          },
+          {
+            "text": "Since then, he had borne the curse of the Mist and guarded the land abandoned even by death."
+          },
+          {
+            "text": "The light had faded, yet his watch had just begun..."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Necrokeep_Leomord_Info.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep_Leomord_Info.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep_Leomord_Info.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "1",
+          "8"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Vexana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Faramis"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "A sworn knight who vowed to guard Necrokeep until his last breath.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Sworn Sword\nThe Oathkeeper"
+        },
+        "chinese_name": {
+          "text": "雷蒙 (Léi méng)"
+        },
+        "born": {
+          "text": "Ridgeburg, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Ridgeburg"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Undead"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "*Knight\n*Royal guard"
+        },
+        "affiliation": {
+          "text": "Necrokeep"
+        },
+        "weapons": {
+          "text": "Sword of Oath"
+        },
+        "battles_fought": {
+          "text": "*Invasion of Ridgeburg"
+        },
+        "nationality": {
+          "text": "Moniyan (formerly)"
+        },
+        "likes": {
+          "text": "Moments alone with Barbiel in a quiet place"
+        },
+        "relationships": {
+          "text": "*Unnamed royal guard ancestors\n*Atticus (close friend, deceased)\n*Barbiel (pet)\n*, (ally)\n* (enemy)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Atticus"
+            },
+            {
+              "text": "Barbiel",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Con Eyre (2018–2022)"
+        },
+        "ja_va": {
+          "text": "Okai Katsunori (岡井 カツノリ)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "The Oath",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Perched upon the crags of the Lantis Mountains, the colossal spires of Ridgeburg overlooked the blackened plains of the Abyss."
+          },
+          {
+            "text": "The rot had almost crept up to the city's outskirts, but no farther."
+          },
+          {
+            "text": "For thousands of years, the fortified towers had stood guard right at the doorstep of the Abyss, keeping the Moniyan Empire untouched by its blight."
+          },
+          {
+            "text": "Leomord was born in this border fortress."
+          },
+          {
+            "text": "Coming from a long line of Royal Guards under the Lords of the South, he was pledged as personal squire to Atticus, the son of the Duke of Ridgeburg, not long after he was born."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Together, the two boys trained under the finest champions of the Ridgeburg army and listened to grey-bearded tutors droning on about history and politics."
+          },
+          {
+            "text": "Atticus excelled in every lesson, showing remarkable maturity beyond his years, while Leomord found it hard to keep up with his young master."
+          },
+          {
+            "text": "Reluctant to being left behind, he kept training in secret, toiling alone day and night to further hone his skills."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Being the slightly older one, Atticus would often help the young Leomord during their training."
+          },
+          {
+            "text": "Leomord, in turn, looked up to Atticus as not only his future lord but also an older brother."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Upon reaching the age of seven, the two boys took part in the birthing of their horses, as was customary among the people of Ridgeburg."
+          },
+          {
+            "text": "Leomord named his pony Barbiel, with whom he grew to become allies and close friends."
+          },
+          {
+            "text": "Although Leomord never openly expressed his feelings, Barbiel always seemed to know what he had in mind."
+          },
+          {
+            "text": "And whenever Leomord felt down, Barbiel would rub his head to offer some form of relief."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Over the next few years, the two boys grew into formidable fighters on the training ground, and that was when fate struck."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After the Old Duke's untimely passing, Atticus was forced to take on his father's mantle as the new Duke of Ridgeburg, with Leomord standing beside him as captain of his Royal Guard."
+          },
+          {
+            "text": "The boys had never had a taste of real battle, but seeing the gravity of the situation, they shortly set off to rid the border outposts of demonic intruders."
+          },
+          {
+            "text": "For years, the two fought endlessly, until they finally cleansed every trace of the Abyss from the outskirts."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once the city regained some respite from the onslaught, Atticus decided it was time to start forging bonds with other noble houses of the Empire."
+          },
+          {
+            "text": "He sought an alliance with the Royal House of Gaius, offering a marriage proposal to Princess Vexana.",
+            "links": [
+              {
+                "text": "Princess Vexana",
+                "type": "internal",
+                "page": "Vexana"
+              }
+            ]
+          },
+          {
+            "text": "Lord Gaius welcomed the offer and promptly arranged for the Princess to set forth for Ridgeburg and meet her betrothed."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And yet, fate had something else in mind for the young Duke."
+          },
+          {
+            "text": "Shortly before Vexana was expected to arrive, he received a letter from one of the border towns."
+          },
+          {
+            "text": "An unusually vicious breed of demons had started turning up along the border, and strangely enough, they bore traces of the very same putrid magic that had once plagued his father."
+          },
+          {
+            "text": "Some townsfolk had gone missing as well, and the outpost sought the Duke's aid in ridding the town of this threat."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Atticus gathered his men right away."
+          },
+          {
+            "text": "He had no doubt this quest could finally unravel the mystery of his father's death."
+          },
+          {
+            "text": "Leomord, on the other hand, only felt a dreadful sense of foreboding."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Before the departure, Atticus led Leomord to the top of the city wall."
+          },
+          {
+            "text": "He pulled out his sword and motioned Leomord to kneel on one knee."
+          },
+          {
+            "text": "Knowing exactly what was coming, the young soldier took a deep breath and solemnly knelt in front of Atticus as he was told."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Duke Atticus, I hereby swear this oath, in the name of my father and his House, that I shall always lend my sword to your service, provide counsel when you seek it, and lay my life down should your safety require it. This I swear on this day, unto the day of my death.\""
+          },
+          {
+            "text": "Atticus placed the blunt of his sword on Leomord's shoulder and declared him a Sworn Knight of Ridgeburg."
+          },
+          {
+            "text": "The young soldier found it hard to contain himself."
+          },
+          {
+            "text": "For more than twenty years, they trained and rode to battle together."
+          },
+          {
+            "text": "And on this day, Atticus had deemed him worthy of his trust."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the Duke handed him the Sword of Oath, Leomord knew this was his fate—to ride with his lord on this battle that might very well be his last."
+          },
+          {
+            "text": "Except, Atticus had a different task for him—Leomord was to remain and stand guard at Ridgeburg."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The knight couldn't believe what he had just heard, but Atticus's eyes were grave and stern."
+          },
+          {
+            "text": "Princess Vexana would be arriving any day soon; she would need all the help and protection she could get."
+          },
+          {
+            "text": "And there was no one else the Duke could trust to carry this delicate burden than his closest friend, Leomord."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And thus, by first light, the young knight watched as Atticus and his party faded into the horizon."
+          },
+          {
+            "text": "He clenched the Duke's Sword of Oath, pondering upon the new task at hand, which he reckoned was far heavier than any battle he had ever fought."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For two years, Leomord and Princess Vexana waited."
+          },
+          {
+            "text": "The quest took much longer than expected, and at some point, Atticus even stopped sending back letters."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And then one day, out of blue, a messenger came announcing the Duke's return."
+          },
+          {
+            "text": "Leomord let out a long sigh, as his mind finally felt at ease."
+          },
+          {
+            "text": "Except, instead of the joy he'd expected to see in Atticus's eyes, he saw nothing but…emptiness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The campaign must have been brutal and arduous, he could only surmise."
+          },
+          {
+            "text": "Leomord opted not to prod any further and promptly set out to join the city folk in preparation for the long-delayed wedding of Duke Atticus and Princess Vexana."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The people of Ridgeburg greeted the evening with festivity and cheer."
+          },
+          {
+            "text": "The time had come at last for Atticus to give Vexana the wedding ring."
+          },
+          {
+            "text": "However, as the Duke opened the box, what came out instead was a pair of magic wings, as a deep, grating voice shook the stone walls of the fortress:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Embrace the world of death!' Atticus and his men turned into demons at that exact moment, their eyes burning with malice."
+          },
+          {
+            "text": "They reeked of foul magic—rotten and vile—the putrid blight of the Abyss."
+          },
+          {
+            "text": "The once devoted guardians of the city became destroyers and the bane of their existence; the holy wedding morphed into a massacre."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leomord clasped at the Sword of Oath, his mind blank as bloodcurdling screams pierced his ears and drilled into his skull."
+          },
+          {
+            "text": "He couldn't fathom what was happening before him, and most importantly, why Atticus would draw his blade against the people he'd loved as his own, against the girl he'd sworn to protect to his death."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The rampaging Duke lunged at Princess Vexana."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"STOP!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Vexana's voice echoed throughout the hall."
+          },
+          {
+            "text": "Atticus froze, his legs shaking as his labored breaths scraped against his lungs."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Kill me…Leo— K-kill me…beg of you—\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leomord could only stare in horror."
+          },
+          {
+            "text": "All he could think of was the vow he had made two years ago."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I hereby swear this oath…in the name of my father and his House, that I shall…lay my life down should your safety require it.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Does the safety of the Duke weigh heavier than the safety of the city?"
+          },
+          {
+            "text": "The young knight silently asked himself, right before he clenched his teeth and drove his blade into Atticus's chest."
+          },
+          {
+            "text": "The Duke's eyes cleared up, as if he was lifted from a curse."
+          },
+          {
+            "text": "Grasping at Leomord's vest, the words that came out of his mouth were raspy and garbled."
+          },
+          {
+            "text": "\"Bro…ther… I am…free—\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And as he breathed his last, he turned his eyes to Vexana and whispered."
+          },
+          {
+            "text": "\"The Mist… If there is no other choice—\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Watching Atticus's body slowly wither into ashes, Leomord wished nothing more than to follow his lord into death, but he couldn't die yet."
+          },
+          {
+            "text": "He had a more important mission on his shoulders—Ridgeburg, sieged from both sides, needed his sword."
+          },
+          {
+            "text": "Ridgeburg would fight till the last, even at the cost of releasing the Mist."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A hundred years had passed, yet time in Ridgeburg seemed to have frozen in place."
+          },
+          {
+            "text": "Shrouded by heavy, dark fog, the city was known to be cursed, shunned by both the light and the dark."
+          },
+          {
+            "text": "Necrokeep, they called it."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leomord could sometimes be seen standing on one of its towers, gazing far into the horizon."
+          },
+          {
+            "text": "His skin was sickly pale, neither living nor dead."
+          },
+          {
+            "text": "His eyes were tired from a hundred years of half-death, but they still sparkled with a glimmer of hope."
+          },
+          {
+            "text": "He knew in his heart that he and Vexana would eventually find a way to reverse the curse of the Mist."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "From that day a hundred years ago, his life no longer belonged to himself, but to Ridgeburg."
+          },
+          {
+            "text": "As long as there was still one soul in the city, he would guard them until his last breath.\""
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Necrokeep.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:The_Oath_1.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Oath_1.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Oath_1.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:The_Oath_2.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Oath_2.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Oath_2.jpg",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Wedding in the Mist",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Wedding_in_the_Mist_-Animated_Trailer_of_Project_NEXT_-_Rise_of_Necrokeep_-Mobile_Legends-_Bang_Bang",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wedding_in_the_Mist_-Animated_Trailer_of_Project_NEXT_-_Rise_of_Necrokeep_-Mobile_Legends-_Bang_Bang?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wedding_in_the_Mist_-Animated_Trailer_of_Project_NEXT_-_Rise_of_Necrokeep_-Mobile_Legends-_Bang_Bang",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "The Oath Keeper",
+        "skill-effect-1": "Buff",
+        "description": "Leomord's Basic Attacks are guaranteed to critically strike against enemies below 50%, dealing 200% damage. Leomord converts every 1% Crit Chance gained into 2 Physical Attack.",
+        "term-1": "Crit Damage",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "150-300",
+        "total-pa": "150",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "500-800",
+        "total-pa": "180",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[calculation needed]",
+        "template": "sup"
+      },
+      {
+        "image-2": "Momentum 2",
+        "name": "Momentum",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slow",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "6.0 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5",
+        "description": "Leomord gains a and begins channeling [for 1 second], slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to  to enemies hit (scales with channel time)[calculation needed] and slowing them by 40% for 1 second. Leomord can cast this skill again to actively interrupt the channeling.",
+        "ls-1": "Base Shield: 150 / 180 / 210 / 240 / 270 / 300",
+        "ls-2": "Base Damage: 500 / 560 / 620 / 680 / 740 / 800",
+        "term-1": "Shield",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Movement Speed",
+        "template": "ability"
+      },
+      {
+        "base": "325-600",
+        "total-pa": "120",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Phantom Stomp",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slow",
+        "cooldown": "5.0 / 4.8 / 4.5 / 4.3 / 4.0 / 3.8",
+        "description": "Barbiel leaps forward, dealing to enemy units in the area where he lands and slowing them by 40% for 1 second.",
+        "ls-1": "Base Damage: 320 / 380 / 435 / 490 / 545 / 600",
+        "term-1": "Blink",
+        "term-2": "Movement Speed",
+        "term-3": "Physical Damage Skill",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Mounted State="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "300-400",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Decimation Assault",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Slow",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "14.0 / 13.0 / 12.0 / 11.0 / 10.0 / 9.0",
+        "description": "Leomord charges towards a designated direction, dealing to enemies along the way and slowing them by 30% for 1 second.",
+        "ls-1": "Base Damage: 300 / 320 / 340 / 360 / 380 / 400",
+        "term-1": "Blink",
+        "term-2": "Movement Speed",
+        "term-3": "Physical Damage Skill",
+        "template": "ability"
+      },
+      {
+        "base": "300",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Phantom Charge",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Blink",
+        "cooldown": "7.5 / 7.0 / 6.5 / 6.0 / 5.5 / 5.0",
+        "description": "Barbiel charges forward and knocks back all enemies in the lane. Deals.",
+        "ls-1": "Base Damage: 300 / 320 / 340 / 360 / 380 / 400",
+        "term-1": "Blink",
+        "term-2": "Displacement",
+        "notes": "*Despite its name, \"Phantom Charge\" is technically a blink skill.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Mounted State="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "350-550",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Mounted State",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "image-2": "Phantom Steed 2",
+        "name": "Phantom Steed",
+        "skill-effect-1": "Summon",
+        "skill-effect-2": "Morph",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "55.0 / 50.0 / 45.0",
+        "description": "Leomord summons Barbiel to rush to him, dealing to enemies on the path. If Barbiel comes in contact with Leomord, they will enter the Mounted State, gaining 30% Movement Speed that decays over 2 seconds. : Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area. Leomord also gains extra 60 Movement Speed and 30–90 Physical & Magic Defense.",
+        "ls-1": "Base Damage: 350 / 450 / 550",
+        "ls-2": "[Hybrid] Defense Increase: 40 / 60 / 80",
+        "term-1": "Displacement",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Movement Speed",
+        "notes": "*Enemies will be knocked back by charging Barbiel and will be displaced to the side of the AOE.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Leomord's name is inspired by \"Leon\" (lion) and \"Mord\" (death/murder). This could symbolize his bravery (like a lion) and his tragic fate (as an undead knight)."
+        },
+        {
+          "text": "His name may be a reference to Sir Mordred from Arthurian legend – Mordred was a knight who betrayed King Arthur, though Leomord’s story is more about loyalty and tragedy."
+        },
+        {
+          "text": "He is the only hero in the game who can summon a mount mid-battle, changing his skill set."
+        },
+        {
+          "text": "Leomord's \"Diavel V4 Rider\" skin had a bug where it was immune to displacement effect but it was later fixed."
+        }
+      ]
+    ]
+  }
+]

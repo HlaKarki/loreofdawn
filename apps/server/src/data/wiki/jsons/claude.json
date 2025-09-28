@@ -1,0 +1,898 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Excellent thief who comes and gies without a trace\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Claude grew up living in Los Pecados.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Los Pecados"
+              }
+            ]
+          },
+          {
+            "text": "The circumstances in his life forced him into becoming an incredible thief."
+          },
+          {
+            "text": "But he was used by Kane and went to prison and chains.",
+            "links": [
+              {
+                "text": "Kane",
+                "type": "internal",
+                "page": "Waldo Kane"
+              }
+            ]
+          },
+          {
+            "text": "In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Merlin"
+              }
+            ]
+          },
+          {
+            "text": "After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "2",
+          "6"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Barats"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fredrinn"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Excellent thief who comes and gies without a trace",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Claude trailer.png"
+        },
+        "chinese_name": {
+          "text": "克劳德 (kèláodé)"
+        },
+        "alias": {
+          "text": "*Master Thief\n*Partners in Crime (former)\n*Lord of Thieves"
+        },
+        "age": {
+          "text": "23",
+          "number": 23
+        },
+        "origin": {
+          "text": "Los Pecados, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Los Pecados"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Thief"
+        },
+        "affiliation": {
+          "text": "Los Pecados",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Los Pecados"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Arm blaster\n*Holographic mirror device",
+          "links": [
+            {
+              "text": "Holographic mirror device",
+              "type": "internal",
+              "page": "Claude",
+              "anchor": "Skill 2"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Art of Thievery",
+          "links": [
+            {
+              "text": "Art of Thievery",
+              "type": "internal",
+              "page": "Claude",
+              "anchor": "Skill 1"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Dexter (sidekick)\n*,, Merlin (companions)\n* (love interest)\n*, , (allies)\n*Waldo Kane, ,  (enemies)\n*Blandy (enemy, deceased)\n* (other)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Waldo Kane"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Tony Waldman"
+        },
+        "ja_va": {
+          "text": "Zaima Kenta (財満 健太)",
+          "links": [
+            {
+              "text": "Zaima Kenta (財満 健太)",
+              "type": "internal",
+              "page": "imdb:nm8688160"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Ferry Kurniawan"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Claude was born in Los Pecados, a western city in the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Los Pecados"
+              },
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "An infamous city of sins without a ruler or order, lawless and ravaged by crime."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Growing up in such a place as an orphan, Claude soon learned how to fight, lie, gamble and steal: tricks of the trade he had to rely upon to survive."
+          },
+          {
+            "text": "He was especially talented in the latter, and no cutpurse he'd ever met matched him when it came to his sharp eye and nimble fingers."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It wasn't long until he became leader of a vagrant band, relying upon his 'skills', and making a name for himself in Los Pecados."
+          },
+          {
+            "text": "He found one who would offer him and his gang protection—Waldo Kane.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Waldo Kane"
+              }
+            ]
+          },
+          {
+            "text": "Kane was yet to achieve the monopoly over Los Pecados that he'd dreamed of."
+          },
+          {
+            "text": "Wild ambition and conspiracy brewed deep within him."
+          },
+          {
+            "text": "To him, this motley crew of street roamers with no place to call home were the perfect tools to achieve his goals."
+          },
+          {
+            "text": "Behind a mask of benevolence, he manipulated these kids, with smooth lies and false compassion leading them down a dark path."
+          },
+          {
+            "text": "He molded them into becoming members of his criminal group, each misguided child referring to him as 'Father'."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the age of 18, Claude was given a monumental task: he was to head to Castle Grandrock in northern Moniyan, sneak into the Duke of Vance's home.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Castle Grandrock"
+              },
+              {
+                "text": "Moniyan",
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "Then, he would feign stealing secret accounts, while actually casting the blame on another gang."
+          },
+          {
+            "text": "Kane promised Claude that he'd have people waiting for him once he was inside."
+          },
+          {
+            "text": "Once he'd completed his mission Claude and his team would be rewarded with a place to live of their own."
+          },
+          {
+            "text": "No longer would they need to live in the slums."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The truth, however, was nothing Claude could have ever imagined."
+          },
+          {
+            "text": "There was nobody waiting for him: he was but a mere pawn, and neither he nor his brothers would be receiving any kind of reward."
+          },
+          {
+            "text": "Like Claude, they were just stepping stones for their 'Father' to become king of Los Pecados."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And so, when he slipped into the Duke's mansion, he found an inescapable trap awaiting him."
+          },
+          {
+            "text": "All Claude could do was accept his fate, and he was taken into custody."
+          },
+          {
+            "text": "Following a hasty trial[,] he was soon pronounced guilty of all charges, and thrown into a cold, dark cell."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Locked up in chains, Claude burned with regret."
+          },
+          {
+            "text": "The only thing in his mind that kept him going was his gang of brothers, lost with nowhere to go."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The days passed slowly."
+          },
+          {
+            "text": "One day, Claude was made to switch cells, his new cell shared with an old man with a beard and hair as white as snow."
+          },
+          {
+            "text": "That peculiar old fellow was none other than the master thief of legend—Merlin.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Merlin"
+              }
+            ]
+          },
+          {
+            "text": "The powerful and incredibly resourceful Merlin had a reason for being locked up in a cell."
+          },
+          {
+            "text": "A reason that left Claude dumbstruck: he just wanted a quiet place to retire."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The cunning Claude reminded Merlin of his younger self."
+          },
+          {
+            "text": "Hence, he decided to pass on to him his legacy."
+          },
+          {
+            "text": "Yet, in return, Claude would need to acquiesce to a most peculiar request of Merlin's. Once out of prison, he must loot each city across the Land of Dawn, leaving behind his name as a calling card."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the two years that followed, Claude inherited each of Merlin's wondrous techniques of deceit, escape and combat among others."
+          },
+          {
+            "text": "His abilities grew until he was ready to steal anything he could imagine."
+          },
+          {
+            "text": "One night, Claude enacted upon his perfect prison break plan, stealing back his freedom."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To make good on his promise, Claude traveled throughout the Land of Dawn in the several years that followed."
+          },
+          {
+            "text": "The streets bristled with whispers of the master thief Claude, his charm and his incredible skill."
+          },
+          {
+            "text": "With his trademark carefree smile, Claude was your man if you ever needed something stolen, no matter what."
+          },
+          {
+            "text": "All he asked is that the pay be generous, and the one to be stolen from, evil."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As this continued, Claude came to be joined by the perfect partner—the mysterious Dexter."
+          },
+          {
+            "text": "This mischievous little monkey first met Claude in Moniyan, when he stole a lucky gold coin straight from under his nose."
+          },
+          {
+            "text": "After a brief pursuit, their friendship blossomed, and Claude took Dexter on as his partner-in-crime."
+          },
+          {
+            "text": "And so[,] their adventures began."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the fifth year of his departure from Los Pecados, Claude finally completed the promise he'd made to Merlin."
+          },
+          {
+            "text": "He'd left his traces in every city in the Land of Dawn."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Next, he would return to Los Pecados."
+          },
+          {
+            "text": "Yet nothing could have prepared Claude for what he saw when he returned after those five years away."
+          },
+          {
+            "text": "His brethren of old hadn't risen up the underworld ranks, escaped from poverty with their manipulative 'Father'."
+          },
+          {
+            "text": "No, a fate quite different had befallen them."
+          },
+          {
+            "text": "Instead, he saw that not only were there still pitiable street kids around every corner of this run-down city, ones like Claude of the past; there were even more than before."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Claude had been deceived and it filled him with a violent rage."
+          },
+          {
+            "text": "He began to plan his revenge as it swirled up inside him."
+          },
+          {
+            "text": "Waldo Kane had achieved his monopoly over the city, becoming the kingpin of Los Pecados."
+          },
+          {
+            "text": "In order to exact his revenge, Claude slipped into Eruditio and with Dexter's aid feigned capture, entering prison.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eruditio"
+              }
+            ]
+          },
+          {
+            "text": "He then stole Dr. Rooney's latest invention—a most odd holographic mirror device."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Pleased with his success, it was then that Claude noticed a line of text upon the device: \"I hope this device serves you well. If you've any ideas or suggestions on how to improve it, contact me immediately!—Rooney.\"",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rooney"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With this 'gift' from Dr. Rooney, Claude and Dexter made tracks for Los Pecados."
+          },
+          {
+            "text": "In this chaotic city of nefarious deals outside of the law, he would make he who had deceived him in the past pay the price."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blazing West",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Blazing West (side story)"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "A Journey to Blacksnake Town",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "A Journey to Blacksnake Town"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Dexter",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "20",
+        "total-pa": "35",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "image-sanrio": "Battle Side-by-side",
+        "name": "Battle Side-by-side",
+        "skill-effect-1": "BUFF",
+        "description": "launches an extra attack each time Claude's lands, dealing  to the same target. Dexter's  can also trigger Claude's attack effects with 30% effectiveness.",
+        "term-1": "Physical Basic Attack",
+        "term-2": "ATK Effect",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "160-285",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Movement Speed"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Attack Speed"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Movement",
+          "Movement Speed"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Attack Speed"
+        ],
+        "template": "avc1"
+      },
+      {
+        "image-sanrio": "Art of Thievery",
+        "name": "Art of Thievery",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "BUFF",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "5.0",
+        "mana-cost": "65 / 70 / 75 / 80 / 85 / 90",
+        "description": "Claude attacks enemies in a fan-shaped area ahead, dealing and reducing their  by 20% and  by 10%. For each target hit, Claude gains 3% extra  and  (doubled if the target is an enemy hero, up to 5 stacks) for 6 seconds.",
+        "ls-1": "Base Damage: 160 / 185 / 210 / 235 / 260 / 285",
+        "ls-2": "Movement Speed Reduction: 20% / 20% / 25% / 25% / 30% / 30%",
+        "ls-3": "Attack Speed Reduction: 10% / 12% / 14% / 16% / 18% / 20%",
+        "ls-4": "Movement & Attack Speed Bonus: 4% / 4.6% / 5.2% / 5.8% / 6.4% / 7%",
+        "term-1": "Physical Skill",
+        "term-2": "Movement Speed",
+        "term-3": "ATK Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "20",
+        "total-pa": "35",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Cooldown"
+        ],
+        "template": "b"
+      },
+      {
+        "image-sanrio": "Battle Mirror Image",
+        "image-sanrio-2": "Battle Mirror Image 2",
+        "name": "Battle Mirror Image",
+        "image-2": "Battle Mirror Image 2",
+        "skill-effect-1": "Summon",
+        "skill-effect-2": "Blink",
+        "skill-type-1": "Blink",
+        "cooldown": "11.0 / 10.5 / 10.0 / 9.5 / 9.0 / 8.5",
+        "mana-cost": "70 / 80 / 90 / 100 / 110 / 120",
+        "description": "Claude leaves a mirror image of Dexter at a designated location. Dexter’s mirror image automatically attacks enemies. Lasts 5.5 seconds. Claude can activate this skill again to switch places with the mirror image. Dexter's deals  and can trigger Claude's attack effects.",
+        "term-1": "Blink",
+        "notes": "* starts after summoning the mirror image.\n*Claude can switch places, with a duration for 3 seconds.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100-130",
+        "total-pa": "10",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "20",
+        "total-pa": "3",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "airborne",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "suppressed",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "frozen",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "transformed",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "image-sanrio": "Blazing Duet",
+        "name": "Blazing Duet",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Shield",
+        "skill-type-1": "Physical Basic ATK",
+        "cooldown": "50.0 / 45.0 / 40.0",
+        "mana-cost": "150 / 175 / 200",
+        "description": "Claude and Dexter rapidly fire at the enemies nearby over 3 seconds, dealing to up to two targets each time they shoot. This skill benefits from Claude's Basic Attack effects and grants him a shield that can absorb  damage.",
+        "ls-1": "Base Damage: 100 / 115 / 130",
+        "term-1": "Physical Basic Attack",
+        "term-2": "ATK Effect",
+        "term-3": "Shield",
+        "notes": "* This skill can only be interrupted by, , or  crowd control effect.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Deadly bloom"
+        ],
+        "link": "no",
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Howitzer",
+          "ultimate"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Ultimate"
+        ],
+        "name": "Blazing Duet",
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Roger"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Open Fire",
+        "list": [
+          "1st skill"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Jawhead",
+        "template": "hi"
+      },
+      {
+        "name": "Leomord",
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Claude somewhat resembles Aladdin: they are both thieves and have a monkey by their side.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Aladdin"
+            }
+          ]
+        },
+        {
+          "text": "Claude's pal, Dexter, was named after the monkey on the movie Night at The Museum (2006) who stole the security keys."
+        },
+        {
+          "text": "His ultimate skill reuses 's old /."
+        },
+        {
+          "text": "Claude is the main character in the story of the Jade Path: Claude's Grand Heist."
+        },
+        {
+          "text": "Claude's was called Open Fire before it was changed to Blazing Duet. It was likely changed because the name is already used for 's."
+        },
+        {
+          "text": "Claude is one of the few heroes to break the fourth wall in two of his old quotes:"
+        },
+        {
+          "text": "\"Sshh, why don't we go steal the enemy base next?\"",
+          "formatting": {
+            "italic": [
+              "Sshh, why don't we go steal the enemy base next?"
+            ]
+          }
+        },
+        {
+          "text": "\"*yawn* I'm tired of farming, let's go fight some enemies!\"",
+          "formatting": {
+            "italic": [
+              "*yawn* I'm tired of farming, let's go fight some enemies!"
+            ]
+          }
+        },
+        {
+          "text": "Claude was originally going to have a tournament special skin for MSC 2020 along with (2018: Space Explorer) and  (2019: Triumph - Eagle), but the skin was delayed along with the tournament due to the COVID-19 Pandemic and ended up released on 2021.",
+          "links": [
+            {
+              "text": "COVID-19 Pandemic",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Impact_of_the_COVID-19_pandemic_on_the_video_game_industry"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

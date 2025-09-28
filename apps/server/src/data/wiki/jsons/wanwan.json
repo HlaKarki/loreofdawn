@@ -1,0 +1,1278 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The Agile Tiger of the Oriental Fighters an a lively young girl who wields the Crossbow of Tang.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Wanwan grew up in a secluded mountain abode and lived a carefree childhood."
+          },
+          {
+            "text": "It was only after encountering Yu Zhong, the reincarnation of the Black Dragon, Yin, the current vessel of the Evil God Lieh, and the other Oriental Fighters who guard the Dragon Altar that she realized she had long been chosen by the Agile Tiger of the Four Immortals.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yu Zhong"
+              },
+              {
+                "type": "internal",
+                "page": "Yin"
+              },
+              {
+                "type": "internal",
+                "page": "Oriental Fighters"
+              },
+              {
+                "type": "internal",
+                "page": "Dragon Altar"
+              }
+            ]
+          },
+          {
+            "text": "Wanwan would find herself involved in events that would affect the past and future of the Cadia Riverlands.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cadia Riverlands"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Can a young girl just venturing into the world bear the duty of protecting all of Cadia Riverlands?"
+          },
+          {
+            "text": "Despite everything she's experienced, Wanwan still has many questions and has decided to set out into the vast world to find her own truth."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Wanwan_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_child.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_child.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_child.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Profile_CN_Wanwan.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Wanwan.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Wanwan.jpg"
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:</ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[Oriental_Fighters]]",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BOriental_Fighters%5D%5D?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BOriental_Fighters%5D%5D"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[Wanwan#Passive",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BWanwan%23Passive?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BWanwan%23Passive",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[Wanwan#Skill_1",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BWanwan%23Skill_1?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BWanwan%23Skill_1",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[Wanwan#Skill_2",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BWanwan%23Skill_2?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BWanwan%23Skill_2",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:[https://www.facebook.com/photo/?fbid=583582592379142&set=a.482268555843880_Mobile_Legends:_Bang_Bang_—_Facebook_Post]",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%5Bhttps%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D583582592379142%26set%3Da.482268555843880_Mobile_Legends%3A_Bang_Bang_%E2%80%94_Facebook_Post%5D?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%5Bhttps%3A%2F%2Fwww.facebook.com%2Fphoto%2F%3Ffbid%3D583582592379142%26set%3Da.482268555843880_Mobile_Legends%3A_Bang_Bang_%E2%80%94_Facebook_Post%5D"
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Wanwan_Profile.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_Profile.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_Profile.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Baxia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zilong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zetian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yu Zhong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "The Agile Tiger of the Oriental Fighters an a lively young girl who wields the Crossbow of Tang.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "relationships": {
+          "text": "*Master of Tang Clan (foster father)\n* (close friend)\n*,, (co-Oriental Fighters)\n* (companion)\n* (friend/enemy)\n* (enemy)\n*The Spirit of Agile Tiger",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Oriental Fighters"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Jaclyn Castaneda",
+          "links": [
+            {
+              "text": "Jaclyn Castaneda",
+              "type": "internal",
+              "page": "imdb:nm11231542"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Akane Fujikawa (藤川茜)",
+          "links": [
+            {
+              "text": "Akane Fujikawa (藤川茜)",
+              "type": "internal",
+              "page": "imdb:nm7352361"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Leni M. Tarra"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Beyond the Mountains",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Many years ago, a stillborn infant was left in the mountains."
+          },
+          {
+            "text": "The Spirit of the Agile Tiger, who was searching for a successor at the time, came upon the scene and felt sorrow for the child who was never given a chance."
+          },
+          {
+            "text": "Thus, he ended his search and gave his power to give new life to the baby girl."
+          },
+          {
+            "text": "As she inherited the power of an Oriental Fighter, marks appeared on her face and she grew a tiger's tail."
+          },
+          {
+            "text": "And as if by fate, the master of the Tang Clan happened to be strolling through the forest and found the blessed child."
+          },
+          {
+            "text": "He adopted her and named her Tang Wanwan."
+          },
+          {
+            "text": "Thus, the mountains now had an extra noisy \"little tiger.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under her adopted father's care, Wanwan grew into an exuberant girl."
+          },
+          {
+            "text": "She loved to talk, as if trying to make up for not being able to greet the world when she was born."
+          },
+          {
+            "text": "She was always chatting away, usually to herself, and bouncing around with her tail swaying in the wind."
+          },
+          {
+            "text": "The mountains and forests became her playground."
+          },
+          {
+            "text": "Sometimes she would shoot her arrows into the blue sky, imagining that she was flying towards the vast world beyond."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But the arrows always fell back to the ground."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Only the wind, which passed through the forest freely, noticed the disappointment in the girl's eyes, so it reached out as it passed to pat her on the head."
+          },
+          {
+            "text": "But little did the wind know, before it could even pass, the girl's smile had already returned, brighter than ever."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"It's okay,\" Wanwan thought, \"I'll definitely see the world someday!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But before Wanwan could leave the mountains, someone barged in first."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On that day, Wanwan found a severely injured stranger passed out in the mountains."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When the man regained consciousness, he told Wanwan that his name was Yu Zhong."
+          },
+          {
+            "text": "Finally, Wanwan had found someone to talk to!"
+          },
+          {
+            "text": "Then began the daily barrage of questions, although they were seldom answered."
+          },
+          {
+            "text": "But when he spoke, his insight into the outside world reignited Wanwan's curiosity."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This went on for a few years as Yu Zhong slowly recuperated, but one day he suddenly decided to leave."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Where are you going?\" Wanwan asked.",
+            "formatting": {
+              "italic": [
+                "\"Where are you going?\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"The world.\"",
+            "formatting": {
+              "italic": [
+                "\"The world.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I want to go too! Can I come?!\"",
+            "formatting": {
+              "italic": [
+                "\"I want to go too! Can I come?!\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"There is nothing to see of the old world, for I will forge a new one.\"",
+            "formatting": {
+              "italic": [
+                "\"There is nothing to see of the old world, for I will forge a new one.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Wanwan didn't understand the meaning of those words but knew the answer."
+          },
+          {
+            "text": "Before Yu Zhong departed, he gave her a Dragon Orb."
+          },
+          {
+            "text": "\"One day, this will lead you to me.\"",
+            "formatting": {
+              "italic": [
+                "\"One day, this will lead you to me.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Dragon Orb was an enigmatic object that was always cold to the touch, as if it could never attain any warmth from Yu Zhong's presence."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Before Wanwan could feel sad about her friend's departure, her father, who had been away for a long time, suddenly returned."
+          },
+          {
+            "text": "He hurriedly had Wanwan pack her things and they left the mountains that night."
+          },
+          {
+            "text": "\"Are we running from something?\" Wanwan wondered.",
+            "formatting": {
+              "italic": [
+                "\"Are we running from something?\""
+              ]
+            }
+          },
+          {
+            "text": "Her father did not explain, and she did not ask."
+          },
+          {
+            "text": "Wanwan just hid the Dragon Orb and followed along."
+          },
+          {
+            "text": "She was excited to be able to see the things Yu Zhong had said for herself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "They eventually arrived at the Floral Falls.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Floral Falls"
+              }
+            ]
+          },
+          {
+            "text": "Hidden by huge mechanisms, it was a utopia for those seeking refuge from the conflicts of the world."
+          },
+          {
+            "text": "Here, Wanwan finally met someone her age; someone she could have a lively exchange with."
+          },
+          {
+            "text": "And that person was Yin, a somewhat simple but righteous and passionate young man."
+          },
+          {
+            "text": "Similar in age and upbringing, the pair became best friends and were almost inseparable."
+          },
+          {
+            "text": "Often, when the adults were busy, they would sneak out of the valley to listen to stories about the happenings throughout the Cadia Riverlands."
+          },
+          {
+            "text": "Yin was apprehensive about many things, but Wanwan could barely contain her excitement."
+          },
+          {
+            "text": "Although the Floral Falls was also secluded from the world, it was a step closer than her abode in the mountains."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And step by step, Wanwan believed she would finally see the world she had imagined as a child, the world Yu Zhong mentioned, and the world she and Yin talked about."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Years passed."
+          },
+          {
+            "text": "Rumors about the reincarnation of the Black Dragon began spreading throughout the Cadia Riverlands."
+          },
+          {
+            "text": "At first, Wanwan thought it was just the latest gossip."
+          },
+          {
+            "text": "But a few days later, she heard a familiar name among the rumors and felt unease in her heart."
+          },
+          {
+            "text": "Just then, the Dragon Orb began to get hot, as if giving a warning or perhaps pointing to answers."
+          },
+          {
+            "text": "Wanwan bid farewell to her father and Yin, and left to find Yu Zhong."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With a new purpose in her step, Wanwan followed the news about the Black Dragon, and with the help of the Dragon Orb, eventually arrived at the Dragon Altar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Within, the new Oriental Fighters came together for the first time, but could not stop Yu Zhong from merging with the Black Dragon's power."
+          },
+          {
+            "text": "Wanwan had unknowingly played a part in Yu Zhong's plan, bringing the Dragon Orb that allowed him to defeat the Evil God Lieh."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As Yu Zhong and Luo Yi chased after Lieh, he gave one last glance back at Wanwan.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luo Yi"
+              }
+            ]
+          },
+          {
+            "text": "A thousand questions came to her mind."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''—Come back..."
+          },
+          {
+            "text": "Did you know from the beginning that I was the Agile Tiger of the Oriental Fighters?''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "—Did you lead me all this way just to obtain the Black Dragon's power?",
+            "formatting": {
+              "italic": [
+                "—Did you lead me all this way just to obtain the Black Dragon's power?"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "—I've traveled so far, but never even took a moment to see the world.",
+            "formatting": {
+              "italic": [
+                "—I've traveled so far, but never even took a moment to see the world."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "—It's the duty of the Oriental Fighters to protect the Cadia Riverlands, but I never lived my life as an Oriental Fighter; all this time, I lived as Tang Wanwan.",
+            "formatting": {
+              "italic": [
+                "—It's the duty of the Oriental Fighters to protect the Cadia Riverlands, but I never lived my life as an Oriental Fighter; all this time, I lived as Tang Wanwan."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Countless questions tangled in her mind."
+          },
+          {
+            "text": "Wanwan sat down where she was, buried her face in her hands, closed her eyes, and tried to sort through all the thoughts running through her mind."
+          },
+          {
+            "text": "Her thoughts drifted with the wind, back to the forest where she was born, back to the cottage with Yu Zhong, back to the Floral Falls where she played with Yin, and onwards, all the way to the Dragon Altar and beyond..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The girl took a deep breath and bounced to her feet."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was already dawn."
+          },
+          {
+            "text": "She had been sitting there for a whole day and night."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Ahhh—I still don't get it!\"",
+            "formatting": {
+              "italic": [
+                "\"Ahhh—I still don't get it!\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Oriental Fighters, Cadia Riverlands, the Black Dragons and Evil Gods... it's all too much!\"",
+            "formatting": {
+              "italic": [
+                "\"Oriental Fighters, Cadia Riverlands, the Black Dragons and Evil Gods... it's all too much!\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Whether I'm the Agile Tiger or an Oriental Fighter, I'm still Tang Wanwan! And I make my own decisions!\"",
+            "formatting": {
+              "italic": [
+                "\"Whether I'm the Agile Tiger or an Oriental Fighter, I'm still Tang Wanwan! And I make my own decisions!\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Just you wait, Black Dragon—No, Yu Zhong! One day I will ask you in person about the truth of the dragon orb! Dragon Altar! I will return to tell everyone my decision!\"",
+            "formatting": {
+              "italic": [
+                "\"Just you wait, Black Dragon—No, Yu Zhong! One day I will ask you in person about the truth of the dragon orb! Dragon Altar! I will return to tell everyone my decision!\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The girl grabbed her crossbows, packed her things, and left the Dragon Altar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Wanwan stepped out of the mountain gate, she raised her hand and shot an arrow into the sky."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Carried by the wind, it flew higher and higher, beyond the mountains and into the great unknown."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Secret History of Dragons Altar",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Secret History of Dragons Altar"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Oriental Fighters Assemble",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Oriental Fighters Assemble"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "depth": 2,
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "67",
+        "level": "3",
+        "list": [
+          "extra-td"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Basic Attacks"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Khufra"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bouncing Ball"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Tiger Pace",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Blink",
+        "atk-effects": "110%",
+        "description": "Enemy heroes hit by Wanwan's attacks will have their weakness[es] exposed and position revealed for 5 seconds. When hitting an enemy's weakness, Wanwan deals and increases their damage taken from her subsequent attacks by 10% for 5 seconds. Wanwan can dash a short distance after each arrow fired from her . The dash speed scales with her Attack Speed.",
+        "level-scaling": "True Damage: 58 / 61 / 64 / 67 / 70 / 73 / 76 / 79 / 82 / 85 / 88 / 91 / 94 / 97 / 100",
+        "stack-scaling": "Damage Increase: 10% / 20% / 30%",
+        "term-1": "True Damage",
+        "term-2": "Attack Speed",
+        "notes": "*Additional damage dealt to enemy heroes only includes damage from skills and .\n*Applies 3 Weaknesses visuals upon hitting an enemy Hero. The angle of Weaknesses' visuals is related to the angle between Wanwan and her opponent; First visual is always behind the target, while the other 2 visuals are positioned 60 degrees towards its left and right.\n*Weaknesses exposed to enemies will immediately disappear after Wanwan dies.\n*Wanwan gets 30% extra attack speed after getting a kill for an unknown duration.\n*The dash after each attack is fully disabled by root and blocked by 's, and trigger '.",
+        "bugs": "*Wanwan cannot actually get the attack speed buff when getting an assist. (Original text: Get extra Attack Speed after a kill or assist.)",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Tiger Pace"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "120",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "60",
+        "total-pa": "65",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Swallow's Path",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "mana-cost": "85 / 90 / 95 / 100 / 105 / 110",
+        "description": "Wanwan throws a Fire Swallow in the target direction, triggering while dealing  to enemies in its path. The Fire Swallow then turns into 3 rotating Swallow Daggers. After a short delay, these Swallow Daggers will fly back to Wanwan one after another, dealing  to enemies on their way back and slowing them by 30% for 1.5 seconds. Enemies hit by the Swallow Dagger twice are immobilized for 0.5 seconds.",
+        "level-scaling": "Base Damage: 120 / 140 / 160 / 180 / 200 / 220\nSwallow Dagger Damage: 60 / 72 / 84 / 96 / 108 / 120",
+        "note": "*Swallow Daggers returns to Wanwan once every 0.5 seconds.",
+        "term-1": "Immobilize",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Tiger Pace"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "150",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Needles in Flowers",
+        "skill-effect-1": "Remove CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Damage Skill",
+        "cooldown": "24.0 / 23.2 / 22.4 / 21.6 / 20.8 / 20.0",
+        "mana-cost": "100 / 95 / 90 / 85 / 80 / 75",
+        "description": "Wanwan removes all control effects on herself and triggers . Meanwhile, she shoots Deadly Needles in all directions, dealing to enemies hit.",
+        "level-scaling": "Base Damage: 150 / 170 / 190 / 210 / 230 / 250",
+        "term-1": "Exceptional Status",
+        "term-2": "Physical Skill",
+        "notes": "*This skill removes all debuffs (excluding suppressed) on Wanwan in general, not specifically limited to crowd controls.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "\\mathrm{Attack\\ rate} = \\frac {160 \\times total\\ attack\\ speed} {99} + 2",
+        "raw": "\\mathrm{Attack\\ rate} = \\frac {160 \\times total\\ attack\\ speed} {99} + 2"
+      },
+      {
+        "base": "60",
+        "total-pa": "35",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Tiger Pace"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Crossbow of Tang",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Tiger Pace"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Inspire"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Basic Attack",
+          "8 Basic Attacks"
+        ],
+        "template": "ai"
+      },
+      {
+        "image": "Crossbow of Tang",
+        "image-2": "Crossbow of Tang (grayscale)",
+        "name": "Crossbow of Tang",
+        "skill-effect-1": "Burst",
+        "atk-effects": "35%",
+        "cooldown": "50.0 / 46.0 / 42.0",
+        "mana-cost": "130 / 150 / 170",
+        "description": "Wanwan leaps into the air and fires arrows at the target enemy hero for 2.5 seconds in rapid succession, dealing per arrow. If the target is killed during this attack, Wanwan will switch to another enemy hero in her attack range, gain 30% Attack Speed, and extend the skill duration by 1 second (this effect can trigger up to 3 times). Wanwan is untargetable and invincible for the duration and can trigger  upon killing an enemy and at the end of the duration.  can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. This damage is regarded as  damage, and the firing rate scales with Wanwan's Attack Speed.",
+        "level-scaling": "Base Damage: 60 / 75 / 90",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Attack Effect",
+        "notes": "* is the one giving extra attack speed. Not her ultimate, Crossbow of Tang, despite being briefly mentioned in this ability. (See the notes of Tiger Pace.)  \n*Additional damage dealt to creeps includes all types of damage from any source.\n*Wanwan can cast her ultimate while jumping (see Patch Notes 1.6.66). \n*Wanwan is invincible throughout the duration of Crossbow of Tang.\n*This skill removes all existing debuffs on Wanwan, however, it remains unusable while under the control of basic or higher-level crowd control effects.\n*She can freely move through joystick, but cannot pass through obstacles in spite of her flying animation.\n*This skill's base damage cannot be critical.\n*The Attack Speed bonus from  is not limited to  for this skill.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "BUFF",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "fullpagename"
+      },
+      {
+        "name": "The Oriental Fighters",
+        "image": "The Oriental Fighters BUFF",
+        "description": "[] will gain [1] movement speed boost [for each allied] Oriental [Fighter] in the battlefield. (Original text: The Oriental Fighters: A team will gain higher movement speed boost with more Oriental Fighters in the battlefield.)",
+        "stack-scaling": "Extra Movement Speed: 1 / 2 / 3 / 4",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Wanwan_(Agile_Tiger).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Agile_Tiger).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Agile_Tiger).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(Darting_Star).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Darting_Star).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Darting_Star).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(Shoujo_Commander).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Shoujo_Commander).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Shoujo_Commander).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(Teen_Pop).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Teen_Pop).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Teen_Pop).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(Pixel_Blast).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Pixel_Blast).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Pixel_Blast).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(E-girl).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(E-girl).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(E-girl).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(M-World_Wanwan).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(M-World_Wanwan).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(M-World_Wanwan).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(Flying_Swallow).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Flying_Swallow).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Flying_Swallow).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wanwan_(Summer_Splash).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Summer_Splash).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wanwan_(Summer_Splash).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Zilong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Baxia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "\"Wan\" (丸) can mean \"round\" or \"small\", possibly referencing her petite size or \"Wan\" (玩) means \"play\" or \"fun\", matching her playful, mischievous personality. In Chinese, repeating syllables (like \"Wanwan\") is a common naming style for cute, playful characters."
+        },
+        {
+          "text": "She's based on the Four Symbols (White Tiger of the West).",
+          "links": [
+            {
+              "text": "Four Symbols (White Tiger of the West)",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Four Symbols"
+            }
+          ]
+        },
+        {
+          "text": "Wanwan \"Darting Star\" is somewhat referencing the accurate description of the White Tiger. It is sometimes called the White Tiger of the West (西方白虎; Xīfāng Báihǔ)",
+          "links": [
+            {
+              "text": "White Tiger",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "White Tiger (mythology)"
+            },
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Tiger"
+            }
+          ]
+        },
+        {
+          "text": "If she is allied with the Oriental Fighters, she will interact with their members. She'll say the following lines:",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Oriental Fighters"
+            }
+          ]
+        },
+        {
+          "text": "\"You're so good at telling lame jokes, Zilong.\" —Wanwan to."
+        },
+        {
+          "text": "\"Baxia! I didn't paint that turtle on your face! [giggles]\" —Wanwan to"
+        },
+        {
+          "text": "\"Ling, it's so hard to see your smile!\" —Wanwan to"
+        },
+        {
+          "text": "Wanwan and the others will gain a bonus movement speed on the battlefield if they team up with one or more members of the Oriental Fighters.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Oriental Fighters"
+            }
+          ]
+        },
+        {
+          "text": "Wanwan's form-fitting, lightweight outfit resembles attire worn by Chinese martial artists and acrobats. The short, high-collared top and arm wraps are practical for agility, mirroring traditional wuxia (martial arts heroes) and kunoichi (female ninjas).",
+          "links": [
+            {
+              "text": "wuxia",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Wuxia"
+            },
+            {
+              "text": "kunoichi",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Kunoichi"
+            }
+          ]
+        },
+        {
+          "text": "Wanwan is one of the only Marksmen with a built-in Purify effect, making her one of the hardest heroes to CC in the game!"
+        },
+        {
+          "text": "Unlike other Marksmen who can freely cast their Ultimates, Wanwan must first hit all Weaknesses (Vital Points) of an enemy to unlock Crossbow of Tang.",
+          "formatting": {
+            "bold": [
+              "Crossbow of Tang"
+            ]
+          }
+        },
+        {
+          "text": "Wanwan \"Pixel Blast\" had the music from 515 UNITE but abridged."
+        },
+        {
+          "text": "One of the biggest running jokes in the Mobile Legends community is that Wanwan is constantly getting nerfed, no matter how balanced or weak she becomes. Every time new patch notes drop, players joke that Wanwan is always in the \"Adjusted\" section."
+        }
+      ]
+    ]
+  }
+]

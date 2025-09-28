@@ -1,0 +1,931 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "magic_def1": "15",
+        "magic_def15": "71",
+        "physical_def1": "19",
+        "physical_def15": "122",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Once an eccentric master smith, but now an avenger siding with the Abyss.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The once-revered master craftsman was now known as the notorious Executioner of the Abyss, but Terizla didn't care."
+          },
+          {
+            "text": "From the moment he was framed as a heretic by the Church, he had been wielding his hammer solely for revenge, for the day he could at last soothe the restless souls of his kin."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Terizla_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Terizla_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Terizla_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Terizla_comic_(past).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Terizla_comic_(past).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Terizla_comic_(past).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Metalsmith",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Metalsmith?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Metalsmith"
+          },
+          {
+            "file": "File:*Head_of_the_[[Free_Smiths'_Guild]]_(formerly)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Head_of_the_%5B%5BFree_Smiths'_Guild%5D%5D_(formerly)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Head_of_the_%5B%5BFree_Smiths'_Guild%5D%5D_(formerly)"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[Church_of_Light]],_[[Moniyan_Empire]]_(hostile)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BChurch_of_Light%5D%5D%2C_%5B%5BMoniyan_Empire%5D%5D_(hostile)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BChurch_of_Light%5D%5D%2C_%5B%5BMoniyan_Empire%5D%5D_(hostile)"
+          },
+          {
+            "file": "File:*Free_Smiths'_Guild_(previously)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Free_Smiths'_Guild_(previously)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Free_Smiths'_Guild_(previously)"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*Anne_(wife,_deceased)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Anne_(wife%2C_deceased)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Anne_(wife%2C_deceased)"
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Necrokeep_Terizla_Info.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep_Terizla_Info.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep_Terizla_Info.jpg"
+          }
+        ]
+      },
+      {
+        "text": "Once an eccentric master smith, but now an avenger siding with the Abyss.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "The Fallen Smith",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "As one of the most powerful institutions in the Land of Dawn, the inquisition of the Monastery of Light evoked both extreme reverence and absolute dread from its people.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              },
+              {
+                "type": "internal",
+                "page": "Monastery of Light"
+              }
+            ]
+          },
+          {
+            "text": "The very thought of having to traverse its hallowed halls and cryptic depths would send an involuntary shudder even among the most devout followers of Light."
+          },
+          {
+            "text": "For at the very depths of this solemn place was the Gate of Rebirth, the dungeon holding the Church's deepest secret—a past so dark it could leave even the bravest of souls petrified in fear.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gate of Rebirth"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ten years ago, deep in the dungeons of the inquisition, a guard slowly unlocked an iron gate to check on the imprisoned victim, only to find it completely abandoned."
+          },
+          {
+            "text": "The dark and desolate cell lay empty, except for a bloody message that stained its unforgiving walls."
+          },
+          {
+            "text": "Heavy with hatred, the vile words read:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''Overthrow faith..."
+          },
+          {
+            "text": "Light will perish...''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aghast, the guard stood in the deserted dungeons in silence and sheer horror."
+          },
+          {
+            "text": "Soon enough, news of the breakout spread, taking the entire Monastery of Light by storm: the heretic Terizla has escaped!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Smiths must uphold freedom, maintain craftsmanship in their work, and never be subject to the Church's rules!\""
+          },
+          {
+            "text": "That was what Terizla openly shouted at a major gathering of the smiths."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As head of the Free Smiths' Guild and spiritual leader of the anti-Church alliance in Lumina City, Terizla repeatedly ignored the Church's commandments while openly advocating for fellow smiths sanctioned by the Church.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lumina City"
+              }
+            ]
+          },
+          {
+            "text": "His blatant defiance of the Monastery's teachings earned him both the disfavor of the Church and the label of Lumina City's \"known heretic\"."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Besides his rebellious streak, the principled Terizla was also known for his exceptional craftsmanship."
+          },
+          {
+            "text": "He was a man of great skill, respected by his peers for his unrivaled rigor and precision."
+          },
+          {
+            "text": "His meticulous eye would not allow even for the slightest mistake in the forge."
+          },
+          {
+            "text": "Any apprentice who tried to fool him with flawed works was severely punished."
+          },
+          {
+            "text": "Frustrated apprentices often complained about this among themselves, but not a single one dared to speak of their grievances against Terizla out loud."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Terizla's craftsmanship and standards, as severe and exacting as they were, always yielded the best."
+          },
+          {
+            "text": "creations from the forge."
+          },
+          {
+            "text": "Because of their fine quality, works by the Free Smiths' Guild were beloved across the Moniyan Empire and quickly snapped up as soon as they went on the market."
+          },
+          {
+            "text": "And so, seething with jealousy from the Guild's success, competitors bribed Terizla's apprentices into sending a secret message to the Church: the\" Heretic\" Terizla had always been crafting his creations using Black Magic!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Before his son's sixth birthday, Terizla spent days in his workshop just outside the city, preparing a special gift for his son-an intricately detailed statue of their family."
+          },
+          {
+            "text": "Terizla skillfully worked on the statue with such care and attention that it took him until the very day of his son's birthday to finally complete it."
+          },
+          {
+            "text": "Eager to surprise his young boy with his gift, Terizla rushed back home in excitement."
+          },
+          {
+            "text": "What awaited him, however, was the ambush of the Raven assassins sent by the Church."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Realizing something was off, Terizla struggled to break away from the siege, but was just as soon pinned to the ground."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"My wife! My son!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Amid Terizla's heart-wrenching cries, the knights of the Church and the Ravens stormed the fortress of the Free Smiths' Guild."
+          },
+          {
+            "text": "Within minutes, the air filled with echoes of shouting and anguished screams."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The leader of the Ravens gripped Terizla by the hair and forced him to watch the fortress burn down to the ground."
+          },
+          {
+            "text": "\"See them burn. Hear them shriek. This is what the heretics deserve!\""
+          },
+          {
+            "text": "The Ravens then brought Terizla back to the Monastery of Light."
+          },
+          {
+            "text": "They threw him deep into the dungeons and shackled his bloodied and beaten body with enchanted chains."
+          },
+          {
+            "text": "Alone in his cell, Terizla carefully lifted his tired head and stared at his iron cuffs, only to find the symbol of the Free Smiths' Guild engraved deep in the links."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Iron forged by his own hands now imprisoned their masterful creator."
+          },
+          {
+            "text": "Struck by the irony of his situation, Terizla felt white-hot hatred surging through his veins."
+          },
+          {
+            "text": "In a fit of rage, Terizla lashed out, violently pulling at the chains, shouting in both anger and agony."
+          },
+          {
+            "text": "He swore to fight the Church to the death and make them pay for everything they had done."
+          },
+          {
+            "text": "But no matter how hard he tried, he could not break free from the strength of his own creation."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When he was about to give up, Alice, the Demon Queen, sauntered into the cell.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alice"
+              }
+            ]
+          },
+          {
+            "text": "\"How pathetic, getting your entire family wiped out by the Church. The Blood Demon lifted Terizla's chin with her long, sharpened nail. Want revenge? I can help...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Terizla raised his head as Alice leaned closer and whispered."
+          },
+          {
+            "text": "\"The only thing I ask in return? Join the Abyss. Unleash the horror of your legendary craftsmanship upon all that have wronged you.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As soon as he heard her cursed promise of revenge, the flickering glow of the lone dungeon lamp roared in Terizla's emotionless eyes and the master smith was no more."
+          },
+          {
+            "text": "Alice succeeded in earning the Abyss a new craftsman with an insatiable appetite for vengeance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As he walked away from Lumina City forever, the only thing Terizla brought with him was the statue he crafted before that horrific event."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In his condemned Abyssal forge."
+          },
+          {
+            "text": "Terizla crafted enchanted weapons for the demon army in desolation, accompanied only by the faint illusion of his wife standing by his side."
+          },
+          {
+            "text": "Time and again he would try to speak to her, telling her illusion just how much he yearned to touch her face again."
+          },
+          {
+            "text": "And every single time, Terizla was met with nothing but the rhythmic echo of his hammer slamming against the anvil."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Over time, his hatred for the Church and its followers grew even deeper."
+          },
+          {
+            "text": "Driven by unfathomable anguish and loathing, Terizla would throw every follower of Light captured by the Abyss into his furnace, using them as raw materials for his dreadful, enchanted creations."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Terrifying, talented, and tormented, the once-revered master smith had transformed into the notorious Executioner of the Abyss."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Anyone unfortunate enough to find themselves in Terizla's unholy forge would find the walls stained with the blood of his victims, depicting a grisly mural: a man with arms outstretched, protecting his family."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"One day, I will destroy the Church and Moniyan with my own hands...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I will take revenge!\""
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:The_Fallen_Smith_1.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fallen_Smith_1.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fallen_Smith_1.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:The_Fallen_Smith_2.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fallen_Smith_2.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fallen_Smith_2.jpg",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Anne",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Anne"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Attack Speed"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Body of Smith",
+        "skill-effect-1": "BUFF",
+        "description": "Terizla gains 1% Damage Reduction for every 2.5% HP lost (up to 20% + Hero Level). He cannot gain  and will convert every 1% attack speed he's supposed to recieve into 1 Physical Attack.",
+        "term-1": "Damage Reduction",
+        "term-2": "Extra ATK Speed",
+        "notes": "*Reduction of Terizla's base Attack Speed will result to decrease.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-450",
+        "extra-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "slow"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Movement Speed"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "300-450",
+        "extra-pa": "80",
+        "lost-hp": "enemy's 20",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Revenge Strike",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Speed Up",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "7.0",
+        "mana-cost": "75 / 80 / 85 / 90 / 95 / 100",
+        "description": "Terizla cracks the ground with his hammer and the fissure will spread out, dealing . After the fissure hits the first target, it will drill into the target and them by 30%. At the same time, Terizla's  will be increased by 25% for 3 seconds. The fissure on target will then explode, dealing.",
+        "ls-1": "Fissure Damage: 300 / 330 / 360 / 390 / 420 / 450",
+        "ls-2": "Movement Speed Bonus: 25% / 28% / 31% / 34% / 37% / 40%",
+        "ls-3": "Explosive Damage: 300 / 330 / 360 / 390 / 420 / 450",
+        "term-1": "Physical Skill",
+        "term-2": "Extra Physical ATK",
+        "term-3": "Lost HP",
+        "notes": "*This skill only deals up to 1000 Physical Damage no matter how critical is the enemy's HP.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "135-310",
+        "total-pa": "160-185",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "225-450",
+        "total-pa": "220-320",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "slowed"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "60%-100% damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Execution Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "mana"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Cooldown"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Supression",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "image-2": "Execution Strike 2",
+        "image-3": "Execution Strike 3",
+        "name": "Execution Strike",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Slowed",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "5.0",
+        "mana-cost": "25",
+        "description": "Terizla waves his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal each, while the third deals . Enemies hit will also be  by 15% for 1.5 seconds (the slow effect can stack). Deals only  to minions.",
+        "ls-1": "1st/2nd Wave Damage: 135 / 170 / 205 / 240 / 275 / 310",
+        "ls-2": "3rd Wave Damage: 225 / 270 / 315 / 360 / 405 / 450",
+        "ls-3": "Damage to Minions: 60% / 68% / 76% / 84% / 92% / 100%",
+        "ss-1": "Slow Effect: {15%, 30%, 45%}",
+        "term-1": "Physical Skill",
+        "term-2": "Movement Speed",
+        "notes": "*2nd and 3rd can be casted within 4 seconds; they also cost .\n** starts when the duration of the skill ends, or when the final phase has been casted.\n**This skill can only be interrupted by  effects.\n*Terizla can move briefly while casting, but will be momentarily unable to move when the skill is executed.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "jumps",
+          "blink"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "300-500",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "knocking enemy heroes up",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "slowing"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Scaffold",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "pull",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "150-250",
+        "total-pa": "30",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Penalty Zone",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "40.0 / 35.0 / 30.0",
+        "mana-cost": "100 / 120 / 140",
+        "description": "Terizla to the designated area to smash down, causing [,  for approximately 0.7 seconds] and  [them] by 45%-50%. Meanwhile, he summons, which will reach out a hook to the [enemy heroes] and  the target for [3] times, causing  each time.",
+        "ls-1": "Smash Damage: 300 / 400 / 500",
+        "ls-2": "Slow Effect: 40% / 45% / 50%",
+        "ls-3": "Pulling Damage: 150 / 200 / 250",
+        "term-1": "Physical Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Hilda"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "In the latter patch note, he shared the role (Fighter/Tank) as, as both are equipped with axe as their own weapon.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Fighter"
+            },
+            {
+              "type": "internal",
+              "page": "Tank"
+            }
+          ]
+        },
+        {
+          "text": "However, skill 2 is different than Hilda because of the delay that he need to spam his skill."
+        },
+        {
+          "text": "Terizla does not gain any attack speed from items."
+        },
+        {
+          "text": "Execution Strike (second skill) can out-damage some Mages' skills if all hits land."
+        },
+        {
+          "text": "Penalty Zone (Ultimate) was tested with different CC effects before the pull mechanic was finalized."
+        }
+      ]
+    ]
+  }
+]

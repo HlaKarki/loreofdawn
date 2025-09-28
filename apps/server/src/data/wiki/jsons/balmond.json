@@ -1,0 +1,715 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Leader of the Orc Legion\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Balmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons."
+          },
+          {
+            "text": "During a battle, he consumed the blood of a Blood Demon and went into a rage."
+          },
+          {
+            "text": "This aroused Alice's interest, so she signed a contract with Balmond on the condition of returning the Stormeye Wasteland.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alice"
+              }
+            ]
+          },
+          {
+            "text": "Balmond, and his Orc army have since fought for the Demons."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "11",
+          "21"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Estes"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Dyrroth"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Leader of the Orc Legion",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Balmond teaser.jpg"
+        },
+        "chinese_name": {
+          "text": "巴蒙 (bāméng)"
+        },
+        "alias": {
+          "text": "*Bloody Beast\n*Berserker (former)"
+        },
+        "born": {
+          "text": "Stormeye Wasteland, The Barren Lands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Stormeye Wasteland"
+            },
+            {
+              "type": "internal",
+              "page": "The Barren Lands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Orc"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Leader of Orc Legion"
+        },
+        "affiliation": {
+          "text": "*Orc Legion\n*The Abyss",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Battleaxe"
+        },
+        "abilities": {
+          "text": "Bloodthirst",
+          "links": [
+            {
+              "text": "Bloodthirst",
+              "type": "internal",
+              "page": "Balmond",
+              "anchor": "Passive"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "Invasion of Moonlit Forest"
+        },
+        "relationships": {
+          "text": "*Unnamed father\n* (mutually exploit)\n* (rival)\n*,, , (enemies)\n* (conqueror/defeater)"
+        },
+        "religion": {
+          "text": "Lord of Abyss"
+        },
+        "en_va": {
+          "text": "Con Eyre (2017–2021) \nPatrick Seitz (2021–)"
+        },
+        "id_va": {
+          "text": "Edy Rachmat"
+        },
+        "ja_va": {
+          "text": "Sanpei Yuuki (三瓶 雄樹)",
+          "links": [
+            {
+              "text": "Sanpei Yuuki (三瓶 雄樹)",
+              "type": "internal",
+              "page": "imdb:nm9846051"
+            }
+          ]
+        },
+        "ar_va": {
+          "text": "Khaled El Shershaby"
+        },
+        "pt_va": {
+          "text": "Fransisco Junior"
+        },
+        "ru_va": {
+          "text": "Dakhnenko Maksim"
+        },
+        "tk_va": {
+          "text": "Kadir Özübek"
+        },
+        "es_va": {
+          "text": "Carlos Segundo"
+        },
+        "zh_va": {
+          "text": "Sheng Feng (图特哈蒙)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Orcs are a race with a long history and perhaps the most common of those in the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "Throughout the mists of time, they have served under Lord of Abyss as they fought throughout the fierce of Endless War; and also engaged mankind in savage battle during the Golden Era."
+          },
+          {
+            "text": "A series of successive defeats left the once strong United Demi-humans divided instead into Orcs, Minotaurs, and Centaurs, among other peoples."
+          },
+          {
+            "text": "It also left them bereft of their home, forced into exile, and the southern lands where they eked out a meagre [sic] existence.",
+            "links": [
+              {
+                "text": "sic",
+                "type": "interwiki",
+                "wiki": "wikipedia",
+                "page": "sic"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "sic"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Despite all this, it seemed fate had not yet finished toying with this ancient race."
+          },
+          {
+            "text": "As the Abyss encroach once more powerful demons emerged again from the south presenting a perilous threat to their declining Orc populations.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abyss"
+              }
+            ]
+          },
+          {
+            "text": "Under the demons' oppression the Orcs were made to split into several small clans scattered throughout the vast expanse of the roaring wilderness, exploited to the utmost."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Balmond was born in a traditional orc tribe within the Roaring Wilderness, and from a young age his father had always taught him all kinds of combat skills."
+          },
+          {
+            "text": "Along with this, he would also regale him tiles of the Orcs' former glories; how they once resided in their homeland in the north of Lantis Mountains and their millennia of fierce battles waged against the elves and humans.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lantis Mountains"
+              }
+            ]
+          },
+          {
+            "text": "He hoped that Balmond would, one day, be able to become a true Orc leader and return them to their former glory."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Over twenty years later, Balmond had grown into a mighty Orc under his father's teaching."
+          },
+          {
+            "text": "And during this time, the demons' brutality had instilled Balmond with deep, dark memories, only making him yearn even more for the day when the Orcs could return to power, bringing back their once-formidable kingdom."
+          },
+          {
+            "text": "To this end the young Balmond not only trained relentlessly, but also dedicated himself to studying all kinds of ancient Orc tomes, which gifted him with an astute strategic knowledge."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But this was when the flames of war were just beginning to kindle."
+          },
+          {
+            "text": "In order to amass the strength required to attack the Empire, the terrible demons invaded the Orc tribes tirelessly, plundering and pillaging their resources causing the Orcs unspeakable suffering."
+          },
+          {
+            "text": "Prior to this the Orcs were powerless to resist the demon forces, and had no choice but to submit to preserve the peace, however short-lived it may be."
+          },
+          {
+            "text": "But this time, Balmond led the warriors of his clan into battle and slayed the demon leader who had come to rob them of their resources, in doing so sparking the Orc rebellion."
+          },
+          {
+            "text": "The Orc race had taken enough of the demons' oppression, and now each tribe lent Balmond their strength: they were no longer scattered clans, instead becoming a truly powerful force to be reckoned with."
+          },
+          {
+            "text": "The rebellion spread throughout the Roaring Wilderness like wildfire."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under Balmond's command, the fierce Orc warriors successfully fought back the demon armies that came to suppress them, dealing a heavy blow."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This gigantic counterattack launched by the Orcs shocked the demons, enraging Lord Lava, Thamuz."
+          },
+          {
+            "text": "He dispatched numerous terrible troops formed of Blood Demons and Fiends to the Roaring Wilderness, as he would never stand for resistance against his demons within the Wretched Expanse."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Despite the disparity in power, a relentless fight to the death between the Orcs and demons was raged, yet the latter surged like tidal waves and things began to take a turn for the worse for the Orcs."
+          },
+          {
+            "text": "Their power waned by the day, their defensive lines shrinking until they were entirely surrounded."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To protect his race from extinction, Balmond decided he would fight right to the bitter end, and led an effort to break through their ranks."
+          },
+          {
+            "text": "In this blazing battle the demons again flooded in, their numbers seemingly infinite, and the bodies of Orc warriors were strewn all around as they advanced."
+          },
+          {
+            "text": "Balmond shook with fury: and cast aside his now-blunted battleax as he gripped a demon by the neck to bite at its throat, severing its head with his teeth."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yet this attack sent copious amounts of demon blood flowing into Balmond's body, which resulted in an incredible transformation."
+          },
+          {
+            "text": "It fueled him as he went utterly berserk, with unimaginable power that he wielded to break through the enemy lines."
+          },
+          {
+            "text": "The Orcs were showered in demon blood, igniting a fearsome battle power within them that shook their demon oppressors to their core."
+          },
+          {
+            "text": "New possibilities had presented themselves, and this caused them to change their plans on wiping out the Orcs."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To this end, the cunning Alice managed to track down Balmond and present him with an offer: once the Empire had been defeated, the entire Roaring Wilderness would be returned to the Orc peoples in exchange for Balmond's loyalty to the demons.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alice"
+              }
+            ]
+          },
+          {
+            "text": "In order to preserve the power of his Orc brethren, Balmond reached an agreement with Alice, and his forces swore loyalty to the Abyss."
+          },
+          {
+            "text": "They would then serve as the demons' vanguard forces as they stormed Azrya.",
+            "links": [
+              {
+                "text": "Azrya",
+                "type": "internal",
+                "page": "Azrya Woodlands"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, even Alice could never have imagined that an even greater plan had been brewing deep in Balmond's mind."
+          },
+          {
+            "text": "First, he would command the demon forces to breach the Moonlit Forest and occupy the elven kingdom, where he would build his strength steadily."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Following that, the union of the Orcs and the revival of their kingdom that they'd yearned for over millennia would finally come to be."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Bloodthirst",
+        "term-1": "Max HP",
+        "skill-effect-1": "Heal",
+        "description": "Balmond recovers 5% after killing a Minion or Creep, and 20%  after killing a hero.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-275",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Soul Lock",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Slow",
+        "cooldown": "8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0",
+        "term-1": "Blink",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Movement Speed",
+        "description": "Balmond charges to the target direction for a set distance or until he hits an enemy hero, dealing to enemies along the way. The enemy hero hit will be knocked back slightly and slowed by 60% for 2 seconds.",
+        "level-scaling": "Base Damage: 150 / 175 / 200 / 225 / 250 / 275",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "25-100",
+        "total-pa": "25",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Cyclone Sweep",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Buff",
+        "cooldown": "6.0",
+        "term-1": "Physical Damage Skill",
+        "description": "Balmond gains 15% Movement Speed that decays over time and spins his axe for 3 seconds, dealing to nearby enemies up to 14 times. Each subsequent hit on the same enemy will deal 7.5% increased damage (up to 60%). The Physical Attack bonus portion of the damage can Crit.",
+        "level-scaling": "Base Damage: 25 / 40 / 55 / 70 / 85 / 100\nMax Damage: 350 / 560 / 770 / 980 / 1190 / 1400",
+        "stack-scaling": "Damage Increase per Subsequent Hit: 7.5% / 15% / 22.5% / 30% / 37.5% / 45% / 52.5% / 60.0%",
+        "notes": "*Cyclone Sweep can only be cancelled by using his other skills. (added Patch Notes 1.7.82)\n*Cyclone Sweep cannot be interrupted by Crowd Control. (added Patch Notes 1.8.44)",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150",
+        "total-pa": "70",
+        "lost-hp": "target's 30%-45",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Lethal Counter",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Slow",
+        "cooldown": "34.0/29.0/24.0",
+        "term-1": "True Damage Skill",
+        "term-2": "Lost HP",
+        "term-3": "True Damage",
+        "description": "Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing [ . ] This skill deals up to 1000–2000 damage to non-hero units.",
+        "level-scaling": "Extra Damage: 30% / 37.5% / 45%\nNon-Hero Unit Damage Cap: 1000 / 1500 / 2000",
+        "list": [
+          ""
+        ],
+        "notes": "*Does not show an area of effect pre-animation with Savage Pointguard skin.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Artwork",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Balmond_(Bloody_Beast).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Bloody_Beast).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Bloody_Beast).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(Power_Source).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Power_Source).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Power_Source).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(Ghoul's_Fury).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Ghoul's_Fury).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Ghoul's_Fury).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(Savage_Hunter).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Savage_Hunter).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Savage_Hunter).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(God_of_Mountains).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(God_of_Mountains).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(God_of_Mountains).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(Savage_Pointguard).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Savage_Pointguard).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Savage_Pointguard).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(Bioroid).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Bioroid).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Bioroid).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(Infernal_Warlord).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Infernal_Warlord).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Infernal_Warlord).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Balmond_(Razor_Edge).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Razor_Edge).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Balmond_(Razor_Edge).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Bloodthirst.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bloodthirst.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bloodthirst.png",
+        "caption": "\"Bloodthirst\" skill icon.",
+        "links": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The old Balmond design can still be seen in his \"Bloodthirst\" skill icon."
+        },
+        {
+          "text": "The previous iteration of Balmond was probably inspired by the character Axe from Dota: Allstars, which itself is based on Grommash Hellscream.",
+          "links": [
+            {
+              "text": "Axe",
+              "type": "external",
+              "site": "https://dota.fandom.com/wiki/Axe"
+            },
+            {
+              "text": "Grommash Hellscream",
+              "type": "external",
+              "site": "https://wowpedia.fandom.com/wiki/Grommash_Hellscream"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Dota: Allstars"
+            ]
+          }
+        },
+        {
+          "text": "In his old lore, he went from being 's slave to being a mutually exploited ally in the new lore."
+        },
+        {
+          "text": "Balmond's \"Celestial General\" (now \"God of Mountains\") is the skin with the longest release postponement; it was supposed to be released at 2018 but the skin was released on August 2021 for the Grand Collection event.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Grand Collection"
+            }
+          ]
+        },
+        {
+          "text": "Balmond is notorious within the community as he can be seen in almost every MLBB Google Ads.",
+          "formatting": {
+            "italic": [
+              "MLBB"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

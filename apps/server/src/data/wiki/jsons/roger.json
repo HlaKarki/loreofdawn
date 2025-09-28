@@ -1,0 +1,650 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "hp1": "2530",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A werewolf wandering in the dark forests longing for revenge\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Roger was once a human being."
+          },
+          {
+            "text": "During a battle with the werewolf White Fang, he was killed by White Fang's sharp teeth and resurrected as a werewolf."
+          },
+          {
+            "text": "Roger, who had been reborn, vowed to take revenge and eradicate the threat of the werewolves from this world."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "4",
+          "26"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Ruby"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chang'e"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "A werewolf wandering in the dark forests longing for revenge",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "罗杰 (luójié)"
+        },
+        "alias": {
+          "text": "Dire Wolf Hunter"
+        },
+        "origin": {
+          "text": "Black Forest, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Werewolf (orginally human)"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Hunter"
+        },
+        "weapons": {
+          "text": "Revolving gun"
+        },
+        "relationships": {
+          "text": "* (companion)\n*Whitefang (enemy)\n*",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Whitefang"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Tsuyuzaki Wataru (露崎 亘)",
+          "links": [
+            {
+              "text": "Tsuyuzaki Wataru (露崎 亘)",
+              "type": "internal",
+              "page": "imdb:nm10437553"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Ignoring the villagers' warnings, Roger decided to settle right by the edge of the Black Forest, a mere few miles east of the Megalith Wastelands."
+          },
+          {
+            "text": "His countless years in the imperial army had made him a man of strong resolve... and perhaps too stubborn for his own good."
+          },
+          {
+            "text": "Regardless, now that his days as a soldier had passed, he was determined to hunt in the dark woodlands and live off of its bounty."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Black Forest was home to all manners of unsavory vermin."
+          },
+          {
+            "text": "But none was more terrifying than the hundreds of wolves prowling in the shadows."
+          },
+          {
+            "text": "With their new Wolf King, Whitefang, having awakened ancient magic abilities within him, they became even more ferocious."
+          },
+          {
+            "text": "And with the forest running out of prey, the wolves gradually expanded their hunting ranges and began to appear outside the woodlands."
+          },
+          {
+            "text": "Always hunting in packs, they started attacking unwary travelers who dared to pass by."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hell-bent on keeping this threat at bay."
+          },
+          {
+            "text": "Roger tracked Whitefang's pack."
+          },
+          {
+            "text": "ultimately finding them huddled around a small village."
+          },
+          {
+            "text": "No sooner had he arrived than a guttural howl broke the quiet of the night."
+          },
+          {
+            "text": "sending the pack of wolves in and ravaging everyone in their path."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The village erupted into chaos, with Whitefang himself standing in the middle, about to feast on an injured little girl."
+          },
+          {
+            "text": "With no time to waste, Roger lunged straight at the beast and snatched the girl right out of his clutch."
+          },
+          {
+            "text": "Whitefang snapped back, digging his claws into the hunter's chest as he attempted to deliver the girl to safety."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Undeterred by his wounds, Roger managed to push the vicious horde back, warning Whitefang never to return to the village with the same ferocity as the wolves'."
+          },
+          {
+            "text": "The Wolf King did retreat with his pack, but when he looked back, Roger felt his blood turning ice-cold by the hatred in the wolf's eyes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Haunted by the dread he felt that day, Roger couldn't stop worrying that Whitefang would come back for revenge."
+          },
+          {
+            "text": "He began to train the surviving villagers in how to fight the wolves, particularly the little girl he rescued, whose name he later learned, was Ruby."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Before long, however, Roger noticed bizarre changes happening to his body."
+          },
+          {
+            "text": "He suspected they were somehow related to the wounds Whitefang gave him."
+          },
+          {
+            "text": "Worried about the safety of the others, the hunter fled the village in secret."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Returning to his home, Roger's suspicions were soon confirmed, as the ancient magic Whitefang carried had begun to infect his own body."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Even one of a pure heart, one who misses not once his nightly prayers, is helpless to resist the lupine curse when the full moon looms in the night's sky.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The time soon arrived."
+          },
+          {
+            "text": "When the gleam of the full moon illuminated the vast meadows around the Black Forest, Roger could do nothing but look on in horror as his body slowly shifted in shape, turning into a spitting image of Whitefang himself."
+          },
+          {
+            "text": "Fearing that he would hurt those he swore to protect, he had no choice but to leave his home, embarking on a lone journey of his own."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "(+target's 4% Current HP)",
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "(+target's 4% Lost HP)",
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Golden Staff"
+        ],
+        "template": "ii"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Full Moon Curse",
+        "skill-effect-1": "Buff",
+        "description": "Roger can freely switch between human and wolf forms. In human form, Roger's Basic Attacks and skills deal additional damage equal to [ . ]   In wolf form, Roger's Basic Attack and skills deal additional damage equal to [ . ]   This effect can only deal up to 60 additional damage against Creeps.",
+        "term-1": "Current HP",
+        "term-2": "Lost HP",
+        "term-3": "Lost HP",
+        "notes": "*Roger's extra damage will be triggered three times with and it is identified as skill damage.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "|-|Human Form="
+          }
+        ]
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "250-500",
+        "total-pa": "125",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "10-30",
+        "template": "scale"
+      },
+      {
+        "base": "50 / 60 / 70 / 80 / 90 / 100",
+        "total-pa": "25",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200 / 240 / 280 / 320 / 360 / 400",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Open Fire",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Debuff",
+        "cooldown": "7.0",
+        "mana-cost": "70 / 80 / 90 / 100 / 110 / 120",
+        "quote": "Even one pure of heart can't escape the Full Moon Curse.",
+        "description": "Roger fires two quick shots in the target direction, dealing in total to the enemy hit. The first shot is a hunter net that slows the enemy by 80% for 1.5 seconds, while the second is a bullet that reduces the enemy's Physical Defense by  for 5 seconds.",
+        "properties": "*Base Damage: 250 / 300 / 350 / 400 / 480 / 450 / 500\n*[Physical Defense Reduction:] 10 / 14 / 22 / 26 / 30",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "term-3": "Physical Defense",
+        "notes": "*Individually, the hunter net deals and the bullet deals.",
+        "template": "ability"
+      },
+      {
+        "base": "250-500",
+        "total-pa": "125",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Lycan Pounce",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Burst",
+        "cooldown": "15.0 / 14.4 / 13.8 / 13.2 / 12.6 / 12.0",
+        "mana-cost": "110 / 120 / 130 / 140 / 150 / 160",
+        "quote": "Even one pure of heart can't escape the Full Moon Curse.",
+        "description": "Roger lunges at the enemy, becoming untargetable while dealing to up to 3 enemies in the area. Getting a kill or assist will reduce the cooldown of this skill by 80%.",
+        "properties": "*Base Damage: 250 / 300 / 350 / 400 / 480 / 450 / 500",
+        "term-1": "Blink",
+        "term-2": "Physical Skill",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Wolf Form="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "math",
+        "formula": "\\mathrm{total ATK\\ SPD} = (base\\ ATK\\ SPD + extra\\ ATK\\ SPD) \\times \\bigl[1.10 + (5 \\times hero\\ lv.) \\bigr]",
+        "raw": "\\mathrm{total ATK\\ SPD} = (base\\ ATK\\ SPD + extra\\ ATK\\ SPD) \\times \\bigl[1.10 + (5 \\times hero\\ lv.) \\bigr]"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Hunter's Steps",
+        "skill-effect-1": "Speed Up",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "mana-cost": "50",
+        "description": "Roger gains 20%–40% Movement Speed and 20%–40% Attack Speed for 2.5 seconds.",
+        "term-1": "Movement Speed",
+        "term-2": "Attack Speed",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Bloodthirsty Howl",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Speed Up",
+        "cooldown": "10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "description": "Roger lets out a howl, increasing his Attack Speed to 1.15–1.4 times for 5 seconds. Within this duration, he gains 50% Movement Speed if an enemy hero below 40% is within his vision.",
+        "properties": "*Base Damage: 1.15 / 1.2 / 1.25 / 1.30 / 1.35 / 1.40",
+        "term-1": "Attack Speed",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Human Form="
+        }
+      ],
+      [
+        {
+          "text": "-|Wolf Form="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "150-300",
+        "extra-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Wolf Transformation",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "Blink",
+        "cooldown": "6.0 / 5.5 / 5.0 / 4.5",
+        "description": "Roger lunges in the target direction and turns into wolf form, dealing to enemies hit and slowing enemies by 90% for 0.8 seconds.  In Wolf form, Roger gains 20–65 Physical and Magic Defense and 25 Movement Speed.",
+        "properties": "*Base Damage: 150 / 200 / 250 / 300\n*Hybrid Defense: 20 / 35 / 50 / 65",
+        "term-1": "Blink",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Movement Speed",
+        "notes": "*Roger starts the match with this skill at level 1, with it having 4 levels.\n*The lunge has no backswing time. He can move or attack immediately after he lunges. (Patch Notes 1.8.30)",
+        "template": "ability"
+      },
+      {
+        "base": "200-350",
+        "extra-pa": "200",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Restore Human Form",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "Blink",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "6.0 / 5.5 / 5.0 / 4.5",
+        "description": "Roger rolls in the target direction and reverts back to human form, gaining for 1.5 seconds.",
+        "properties": "*Shield Effect: 200 / 250 / 300 / 350",
+        "term-1": "Blink",
+        "term-2": "Shield",
+        "notes": "*Roger starts the match with this skill at level 1, with it having 4 levels.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Human Form="
+        }
+      ],
+      [
+        {
+          "text": "-|Wolf Form ="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Ruby"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chang'e"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Roger has Germanic origins and means \"famous spear\" or \"renowned warrior.\" It comes from the Old High German name Hrodger, which is composed of two elements:\"hrod\" meaning \"fame\" or \"glory\" and \"ger\" meaning \"spear\"."
+        },
+        {
+          "text": "Roger is currently the only Fighter/Marksman hybrid hero in MLBB, known for his ability to switch between human and werewolf forms.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Fighter"
+            },
+            {
+              "type": "internal",
+              "page": "Marksman"
+            }
+          ]
+        },
+        {
+          "text": "Roger's character is the amalgamation of both the Huntsman and the Big Bad Wolf from Little Red Riding Hood, similarly to whom she is based on the titular character.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Little Red Riding Hood"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Little Red Riding Hood"
+            ]
+          }
+        },
+        {
+          "text": "Roger smokes a cigar on his initial release but was removed to comply with MLBB's age ratings. His in-match model still has his cigar when observed closely.",
+          "formatting": {
+            "italic": [
+              "MLBB"
+            ]
+          }
+        },
+        {
+          "text": "Roger is mentioned by in one of her quotes. This is a reference to his wolf form, as wolves are known for hunting many kinds of prey, including rabbits, Chang'e's favorite animal."
+        },
+        {
+          "text": "He is also somewhat inspired by Warwick from League of Legends. Warwick is a a monstrous werewolf-like champion with enhanced senses and a beastly transformation. His aggressive playstyle and bloodlust are similar to Roger’s Wolf Form.",
+          "links": [
+            {
+              "text": "Warwick",
+              "type": "external",
+              "site": "https://leagueoflegends.fandom.com/wiki/Warwick/LoL"
+            },
+            {
+              "text": "League of Legends",
+              "type": "external",
+              "site": "https://leagueoflegends.fandom.com/wiki/League_of_Legends"
+            }
+          ]
+        },
+        {
+          "text": "Roger's skin \"Anubis\" is inspired by the Egyptian god Anubis, featuring golden armor and a jackal-like werewolf form.",
+          "links": [
+            {
+              "text": "Anubis",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Anubis"
+            }
+          ]
+        },
+        {
+          "text": "His skin \"Phantom Pirate\" is somewhat inspired by cursed pirate myths like The Flying Dutchman and Davy Jones' crew from Pirates of the Caribbean.",
+          "links": [
+            {
+              "text": "The Flying Dutchman",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Flying_Dutchman"
+            },
+            {
+              "text": "Pirates of the Caribbean",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Pirates_of_the_Caribbean"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "The Flying Dutchman",
+              "Davy Jones' crew",
+              "Pirates of the Caribbean"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

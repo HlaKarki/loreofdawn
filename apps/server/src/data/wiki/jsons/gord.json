@@ -1,0 +1,441 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Dean of the Icarus School of the Magic Academy\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One of the best students of the Magic Academy, but he mixed ancient sorcery into the process of practicing arcane arts, which led to him being possessed by the Demons."
+          },
+          {
+            "text": "It was lucky that Elward acted in a timely manner, helping Gord control the energy running away in his body."
+          },
+          {
+            "text": "After that, Gord had no hope of reaching the peak of arcane magic in his life, eventually becoming a mentor of the Magic Academy."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "8",
+          "3"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Eudora"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Valir"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lylia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Guinevere"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "[verification needed]",
+        "template": "sup"
+      },
+      {
+        "text": "Dean of the Icarus School of the Magic Academy",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "古德 (gǔdé)"
+        },
+        "alias": {
+          "text": "*Professor of the Mystic\n*Dean of the Icarus School of the Magic Academy"
+        },
+        "origin": {
+          "text": "Magic Academy, Northern Vale",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Magic Academy"
+            },
+            {
+              "type": "internal",
+              "page": "Northern Vale"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Magic Academy professor\n*Dean of the Icarus School",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Magic Academy"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Arcane hoverboard"
+        },
+        "fields_of_study": {
+          "text": "Arcane magic"
+        },
+        "abilities": {
+          "text": "Arcane magic"
+        },
+        "relationships": {
+          "text": "*Elward (mentor)\n* (colleague)\n* (ex-apprentice)\n*, (students)\n* (possible student)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Elward"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Con Eyre (2017–[verification needed])"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Gord has always been the living proof of excellence in the magic academy."
+          },
+          {
+            "text": "He was born with the gift to manipulate the mystic powers which allowed him to master several sophisticated spells at an early age."
+          },
+          {
+            "text": "But this is clearly a double-edged sword as Gord became increasingly arrogant over time."
+          },
+          {
+            "text": "Once he stumbled across a forbidden book in the academy which recorded the method to forge the pure mystic existence out of human body using mystic powers."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The young wizard buried himself in the book and launched his study without respecting the opinions from the outside."
+          },
+          {
+            "text": "It worked out successfully in the beginning, the pure mystic energy started to flow in Gord's veins, thus he was able to cast even more powerful spells."
+          },
+          {
+            "text": "Unfortunately, Gord was not able to control this power and he became overwhelmed with mystic energy."
+          },
+          {
+            "text": "Gord then tried to seek a solution from ancient magic sources."
+          },
+          {
+            "text": "With the combination of the two different energies, Gord's body was almost devastated."
+          },
+          {
+            "text": "Thanks to the help from Elward, the chief wizard, the turbulence in his body was finally able to be controlled."
+          },
+          {
+            "text": "The incident took a huge toll on Gord, leaving his body half red and half blue."
+          },
+          {
+            "text": "While he was saved, Gord can never again control the magic contained in pure mystic energy."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Elward encouraged Gord until he finally got back on his feet."
+          },
+          {
+            "text": "Elward then invited Gord to continue his career as a wizard and invited him to teach at the academy."
+          },
+          {
+            "text": "After careful consideration, Gord accepted the offer."
+          },
+          {
+            "text": "He wished to find a student who will carry on his studies without making the same mistakes."
+          },
+          {
+            "text": "From that day, Gord started a new life as the strictest professor in the magic academy."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "140",
+        "total-mp": "60",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Mystic Favor",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Slow",
+        "description": "After Gord hits an enemy 4 times with Basic Attacks or skills within a short period of time, the next attack on the target will deal an additional and slow them by 20% for 1 second (the slow effect stacks up to 2 times).",
+        "properties": "*Slow Effect per Stack: 20% / 40%",
+        "term-1": "True Damage Skill",
+        "term-2": "True Damage",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "270-495",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Mystic Projectile",
+        "skill-effect-1": "CC",
+        "description": "Gord conjures a Mystic Orb that bounces in the target direction and explodes on the first enemy hit, dealing to enemies in the area, while stunning them and revealing their locations for 1 second.",
+        "properties": "*Spell Vamp Ratio: 50%\n*Base Damage: 270 / 315 / 360 / 405 / 450 / 495",
+        "term-1": "Stun",
+        "term-2": "Magic Damage Skill",
+        "cooldown": "10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5",
+        "mana-cost": "90 / 100 / 110 / 120 / 130 / 140",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "55-105",
+        "total-mp": "16",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Mystic Injunction",
+        "skill-effect-1": "AOE",
+        "description": "Gord create an energy field in the target area, dealing every 0.3 second to enemies within (up to 13 times).",
+        "properties": "*Damage Per Hit: 55 / 65 / 75 / 85 / 95 / 105",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "mana-cost": "55 / 65 / 75 / 85 / 95 / 105",
+        "term-1": "Magic Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "110-210",
+        "total-mp": "32",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Mystic Gush",
+        "skill-effect-1": "Burst",
+        "description": "Gord unleashes an energy beam in the target direction, dealing to enemies hit every 0.2 seconds (up to 16 times). The direction of the beam can be adjusted using the Joystick.",
+        "properties": "*Spell Vamp Ratio: 50%\n*Damage Per Hit: 110 / 160 / 210",
+        "cooldown": "44.0 / 40.0 / 36.0",
+        "mana-cost": "150 / 170 / 190",
+        "term-1": "Magic Damage Skill",
+        "notes": "*Gord is stationary within the skill's duration.\n*This skill can only be interrupted by airborne, frozen, suppressed or transformed crowd control effects.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "True Damage",
+          "td"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Mystic Gush",
+        "template": "ai"
+      },
+      {
+        "name": "Pharsa",
+        "template": "hero icon"
+      },
+      {
+        "name": "Kimmy",
+        "template": "hero icon"
+      },
+      {
+        "name": "Lesley",
+        "template": "hero icon"
+      },
+      {
+        "name": "Gatotkaca",
+        "template": "hero icon"
+      },
+      {
+        "name": "Yi Sun-Shin",
+        "template": "hero icon"
+      },
+      {
+        "name": "Blood Floods",
+        "template": "ai"
+      },
+      {
+        "name": "Valir",
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "He has a small resemblance to Silver Surfer, both riding on a floating surfboard-like craft.",
+          "links": [
+            {
+              "text": "Silver Surfer",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Silver_Surfer"
+            }
+          ]
+        },
+        {
+          "text": "Gord is one of the heroes who doesn't walk, but instead he rides his floating board."
+        }
+      ],
+      [
+        {
+          "text": "Before his rework, he executes his ultimate through his floating board. Now, he executes it with his hands only."
+        },
+        {
+          "text": "Gord is one of the heroes who can deal more than one type of damage with his skills ( and )."
+        },
+        {
+          "text": "Gord is one of the heroes that can zoom-out in gameplay, when using . The other heroes are, , , and , all with their Ultimates, as well as 's while charging."
+        }
+      ],
+      [
+        {
+          "text": "Gord was 's mentor during his time in the Magic Academy, and is currently seeking to put a stop to his student after Valir's arcane flame went loose on the academy."
+        },
+        {
+          "text": "Gord's First ConceptSketch art gord.png"
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,424 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Stone man awakened from sleep\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The stone man who signed a contract with the Ancient Ones has a kind-hearted nature and infinite power."
+          },
+          {
+            "text": "He sleeps most of his life."
+          },
+          {
+            "text": "After Grock woke up, he found that the Ancient Ones he was guarding had disappeared, so he carried the Castle of the Ancient Ones on his shoulders and walked out of the mountains to find the whereabouts of the Ancient Ones."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "text": "Stone man awakened from sleep",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Fortress Titan"
+        },
+        "origin": {
+          "text": "Lantis Mountains, The Barren Lands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Lantis Mountains"
+            },
+            {
+              "type": "internal",
+              "page": "The Barren Lands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Castle"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Guardian"
+        },
+        "affiliation": {
+          "text": "*Ancient Ones\n*The Abyss (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Weathered Citadel"
+        },
+        "abilities": {
+          "text": "*Power of nature\n*Summons guardian's barrier",
+          "links": [
+            {
+              "text": "Power of nature",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "guardian's barrier",
+              "type": "internal",
+              "page": "",
+              "anchor": "skill 2"
+            }
+          ]
+        },
+        "likes": {
+          "text": "Sleeping"
+        },
+        "ja_va": {
+          "text": "Nakamura Taishi (中村 大志)",
+          "links": [
+            {
+              "text": "Nakamura Taishi (中村 大志)",
+              "type": "external",
+              "site": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=150106"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Deep within the mountains of the Land of Dawn sits an ancient fortress.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "Though the owner is unknown, it is rumored that it could be a descendant of the legendary race that once walked the Lands of Dawn."
+          },
+          {
+            "text": "It said that this race is older than the earth itself, and having a special affinity for nature, they were able to build deep connections and relations with various beings of nature, especially the Stone Titans."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "These amiable giants possess rocky skin that is almost impervious to all physical force, but due to their kind nature, they mainly use their physical prowess to sleep safely."
+          },
+          {
+            "text": "These stony giants love sleeping so much that they will hibernate for up to half a year sometimes, however once they are awakened, it is hard for them fall asleep again."
+          },
+          {
+            "text": "One day when Grock awoke again, he found himself to be alone with the guardians of the fortress long gone."
+          },
+          {
+            "text": "He proceeded to saddle the fortress onto his back to find the owners, setting out all over the Land of Dawn to find any news of their whereabouts, so he may one day return their home to them."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "4",
+        "total-pdef": "2",
+        "template": "scale"
+      },
+      {
+        "base": "300",
+        "level": "20",
+        "template": "scale"
+      },
+      {
+        "base": "30",
+        "level": "4",
+        "template": "scale"
+      },
+      {
+        "name": "Bastion of Stone",
+        "skill-effect-1": "BUFF",
+        "description": "Grock gains a Shield equal to 10% of his Max HP and empowers the next Basic Attack to deal equal to % of the target's Max HP (capped at  against non-hero units). This effect has a 18-12 seconds cooldown (decreases with level), which reduces by 200% when near terrain. Grock gains Control Immunity while casting skills and % extra Physical Defense while the Shield is active.",
+        "term-1": "Physical Defense",
+        "term-2": "Control Immunity",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "240-440",
+        "extra-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "4",
+        "total-pdef": "2",
+        "template": "scale"
+      },
+      {
+        "base": "300",
+        "level": "20",
+        "template": "scale"
+      },
+      {
+        "name": "Mighty Swing",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "description": "Grock strikes forward with massive force, dealing . Enemies with obstacle, launched airborne, and take extra equal to % of their Max HP (capped at  against non-hero units). If there are no obstacles behind, enemies are only knocked back slightly.",
+        "ls-1": "Base Damage: 240 / 280 / 320 / 360 / 400 / 440",
+        "term-1": "Airborne",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100-200",
+        "extra-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Use Again"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Badang"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fist Break"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Earthen Rampart",
+        "cooldown": "14.0 / 13.2 / 12.4 / 11.6 / 10.8 / 10.0",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "description": "After a brief delay, Grock summons a stone wall in the target area, dealing and knocking enemies towards him. : Cancel the wall early.",
+        "ls-1": "Base Damage: 100 / 120 / 140 / 160 / 180 / 200",
+        "notes": "*Placing a wall near a nearby unit (including himself) will displace them while disrupting their skills, whether it is an ally or an enemy and even if they are immune to crowd control. Because the displacing effect is not counted as a control effect, but rather as a result of the way obstacles work, any units who can manage to place themselves on the obstacle's way will automatically be moved on the valid ground (except when flying over or ignores an obstacle until the duration ends) to avoid becoming stuck. The same effect applies to 's.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "650-1050",
+          "pd"
+        ],
+        "total-pa": "300",
+        "template": "scale"
+      },
+      {
+        "name": "Tectonic Charge",
+        "quote": "The brave fear nothing.",
+        "cooldown": "55.0 / 50.0 / 45.0",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Charge",
+        "description": "Grock charges forward, dealing to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1 second and deals . If this skill doesn't hit terrain, 50% of its cooldown is refunded.",
+        "ls-1": "Base Damage: 100 / 100 / 100",
+        "ls-2": "Added Damage: 650 / 850 / 1050",
+        "term-1": "Airborne",
+        "term-2": "Charge",
+        "term-3": "Cooldown",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Artwork",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Grock_(Fortress_Titan).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Fortress_Titan).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Fortress_Titan).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Grock_(Grave_Guardian).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Grave_Guardian).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Grave_Guardian).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Grock_(Castle_Guard).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Castle_Guard).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Castle_Guard).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Grock_(V.E.N.O.M._Monitor_Lizard).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(V.E.N.O.M._Monitor_Lizard).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(V.E.N.O.M._Monitor_Lizard).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Iceland_Golem_wall.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Iceland_Golem_wall.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Iceland_Golem_wall.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Grock_(Codename_Rhino).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Codename_Rhino).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Codename_Rhino).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Grock_(Ancient_Golem).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Ancient_Golem).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grock_(Ancient_Golem).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Wasteland_Psycho_.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wasteland_Psycho_.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wasteland_Psycho_.jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hero spotlight",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Mobile_Legends_Bang_bang!_New_Hero_Fortress_Titan_Grock_Gameplay",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Mobile_Legends_Bang_bang!_New_Hero_Fortress_Titan_Grock_Gameplay?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Mobile_Legends_Bang_bang!_New_Hero_Fortress_Titan_Grock_Gameplay"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Grock’s design is heavily influenced by golems, which are stone or earth-based protectors in mythology and fantasy."
+        },
+        {
+          "text": "Grock is the first hero to summon a physical wall in the game."
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,647 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "physical_def1": "20",
+        "physical_def15": "132",
+        "magic_def1": "15",
+        "magic_def15": "71",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Leader of the Light's Order, guardian of the Moniyan Empire\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Tigreal is the rising star of the Moniyan Empire."
+          },
+          {
+            "text": "But in a battle, the Second Army that he was leading went deep into the enemy territory alone under the orders of high-level officials and suffered heavy losses, for which Tigreal was eventually forced to take responsibility."
+          },
+          {
+            "text": "Because of this, he left the Empire and came to the Northern Vale."
+          },
+          {
+            "text": "During this period of time, Tigreal finally resolved the problems in his mind."
+          },
+          {
+            "text": "Eventually, he returned to the Empire and became the leader of the Light's Order."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Tigreal.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Tigreal.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Tigreal.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits"
+        ],
+        "template": "translation"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "list": [
+          "7",
+          "24"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Granger"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Leader of the Light's Order, guardian of the Moniyan Empire",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "full_name": {
+          "text": "Tigreal Wertz"
+        },
+        "chinese_name": {
+          "text": "泰格 (Tài gé)"
+        },
+        "alias": {
+          "text": "*Warrior of Dawn\n*Leader of the Light's Order\n*Guardian of the Moniyan Empire"
+        },
+        "origin": {
+          "text": "Lumina City, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Lumina City"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Imperial Knight leader"
+        },
+        "affiliation": {
+          "text": "*Wertz family\n*Moniyan Empire\n**Imperial Army\n***Knights of Light\n***Garrison Army\n***Second Regiment\n*The Abyss (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            },
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Sacred Hammer\n*Shield\n*Longsword (formerly)"
+        },
+        "traits": {
+          "text": "Courageous & Justice, Chivalry Spirit"
+        },
+        "relationships": {
+          "text": "*Gareth (father)\n*Eckert (uncle)\n* (younger sister, Lightborn co-member)\n*,, , (Lightborn co-members)\n*,  (allies) \n*,  (companions)\n* (enemy)"
+        },
+        "en_va": {
+          "text": "Zach Lazar Hoffman",
+          "links": [
+            {
+              "text": "Zach Lazar Hoffman",
+              "type": "internal",
+              "page": "imdb:nm12037303"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Yano Masaaki (矢野 正明)",
+          "links": [
+            {
+              "text": "Yano Masaaki (矢野 正明)",
+              "type": "internal",
+              "page": "imdb:nm7295649"
+            }
+          ]
+        },
+        "name": {
+          "text": "Tigreal"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Tigreal was born into the noble Wertz family."
+          },
+          {
+            "text": "Since the establishment of the Moniyan Empire, the House Wertz has continuously provided military talents for the empire, and has guarded Moniyan’s imperial power and national security for generations.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "Tigreal’s generation is no exception."
+          },
+          {
+            "text": "His father Gareth is the empire’s Minister of Defense and the emperor’s right-hand man, while his uncle Eckert is in charge of the border guards stationed at the most dangerous area between the southern part of the empire and the land of despair."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Although thousands of years have passed since the shocking changes that split the empire, the rumors and threats about the Abyss, heretics, and terrible creatures have never been far away."
+          },
+          {
+            "text": "Since he was a child, Tigreal received systematic military training in the Lumina City, constantly learning various combat skills such as fighting, swordsmanship, and riding."
+          },
+          {
+            "text": "The whole family had high hopes for him, hoping that one day he would be able to take over the banner of his father's generation and become the most steadfast and loyal guardian of Moniyan."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the age of sixteen, Tigreal joined the Imperial Army with full devotion, and was incorporated into the Garrison Army ranks."
+          },
+          {
+            "text": "During his four years in the Garrison Army, Tigreal led his troops to almost every part of Moniyan, which further exercised Tigreal's command ability and leadership ability, earning him the favor of the Light's Order."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Subsequently, Tigreal joined the Knights of Light with his outstanding military talent and leadership ability."
+          },
+          {
+            "text": "In the Moniyan Empire, only the most loyal and brave fighters who had undergone intensive training were eligible to be elected to the Knights of Light, and Tigreal became the youngest member of the Knights in history."
+          },
+          {
+            "text": "He was the glory of his family and a genius in the eyes of the Moniyan people."
+          },
+          {
+            "text": "Everyone believed that he would become a hero in the history of Moniyan, just like the martyrs of previous generations in Promenade of Heroes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, few peoples’ lives are such smooth sailing."
+          },
+          {
+            "text": "Just when people thought that a star was about to rise, a blow soon befell Tigreal."
+          },
+          {
+            "text": "In The Barren Lands, in a battle launched to completely drive the Abyss demons, who had been holding the area for a long time, back underground, Tigreal served as the commander of the Second Regiment in an army that was composed of the Light's Order and the Imperial Border Guard."
+          },
+          {
+            "text": "He was deployed on the left flank of the battlefield, and launched an attack on the demon army."
+          },
+          {
+            "text": "However, due to a mistake by the command center, the Second Regiment went in deep alone and was besieged by the demon army."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Subsequently, the command center ordered the Second Regiment to leave some of the soldiers behind to bring up the rear and disperse to break through the envelopment."
+          },
+          {
+            "text": "At this time, Tigreal was determined to live or die with his troops, but the elderly and experienced deputy Roland stopped Tigreal and made him retreat with the main force that he was commanding, while he and a small number of fighters would hold up the enemy."
+          },
+          {
+            "text": "On the premise of retaining some effective soldiers, Tigreal reluctantly led the troops to withdraw."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After the battle, the demon army, which had long been entrenched where the southern part of the empire met the Barren Lands, was completely wiped out, but only the Second Regiment had suffered heavy casualties, with the unit that remained in place to hold up the enemy having been totally annihilated."
+          },
+          {
+            "text": "Looking at the corpses and blood all over the ground, Tigreal felt full of guilt for the decision he made."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After this battle, in order to cover up their mistakes, the high-levels of the Knights refused to give the soldiers of the Second Regiment the honor they deserved, and called these soldiers \"disobedient\" because they were greedy for merit and this led to unnecessary sacrifice."
+          },
+          {
+            "text": "Afterwards, they tried to use medals and promotions as a way of tempting Tigreal to keep silent."
+          },
+          {
+            "text": "Feeling the stress of the unsuccessful struggle and pressure from the family, Tigreal left Moniyan and came to the cold Northern Vale.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "In the icy and snowy north, Tigreal established a deep friendship with the rugged Northern Vale tribes, and more importantly, by fighting side by side again and again, Tigreal realized that as a knight, the life of a companion is more important than the outcome of a battle: because we choose to fight to protect everyone around us."
+          },
+          {
+            "text": "If fighting only means sacrifice, then victory is meaningless."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After that, Tigreal returned to Moniyan, returned to the Knights of Light, and became the leader of the Knights over the years, guarding everything in Moniyan with determination and bravery day after day."
+          },
+          {
+            "text": "In folklore, as long as there is a place where darkness invades, there will be the fearless Warrior of Dawn to lead everyone in driving away the darkness."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Accompanied by the Land of Dawn",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Accompanied by the Land of Dawn"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Fearless"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Implosion"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Fearless",
+        "skill-effect-1": "Buff",
+        "description": "Tigreal gains a stack of each time he casts a skills or is hit by Basic Attack. After getting 4 stacks, Tigreal will consume all Fearless stacks to block the next incoming Basic Attack (including attacks from turrets). Attacks from Minions do not grant Fearless atacks nor trigger this effect.",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Magic Basic Attack",
+        "notes": "*Fearless stacks will completely deplete 6 seconds after is unable to maintain it.\n*Fully gain stacks from Lord and Turtle damage but not Altar.\n*Only gain stack from  after the pull step.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "270-520",
+        "total-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Sacred Hammer"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Attack Wave",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Slow",
+        "cooldown": "7.0 / 6.4 / 5.8 / 5.2 / 4.6 / 4.0",
+        "mana-cost": "45",
+        "description": "Tigreal smashes the ground with his hammer and sends a shockwave forward that erupts 3 times, each time dealing to enemies along the fan-shaped area and slowing them by 20%/40%/60% for 1.5 seconds.",
+        "level-scaling": "'Base Damage:270 / 300 / 330 / 360 / 390 / 420",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "notes": "*The wave travel at the same speed with his .\n**It is possible for a unit to be hit by multiple waves.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Used Again:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "280-380",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Sacred Hammer",
+        "image-2": "Sacred Hammer 2",
+        "skill-effect-1": "Charge",
+        "skill-effect-2": "CC",
+        "cooldown": "12.5 / 12.0 / 11.5 / 11.0 / 10.5 / 10.0",
+        "mana-cost": "70",
+        "description": "Tigreal charges in a target direction, dealing to enemies along the way and pushing them to the end of the charge.  Tigreal can cast this skill again within 4 seconds, dealing  to enemies in front of him and knocking them airborne for 1 second.",
+        "level-scaling": "Airborne Damage 280 / 300 / 320 / 340 / 360 / 380",
+        "term-2": "Charge",
+        "term-3": "Displacement",
+        "term-1": "Physical Skill",
+        "notes": "*Cooldown starts when the skill is first cast.\n*Tigreal can blink by using the battle spell,, during this skill.\n*The knockback will control enemies for the full duration if they do not use CC immune.\n**If an enemy is hit by the end of this ability, they will be briefly knockbacked and stunned in position instead.\n**Which means the total duration can be reduced by resilience if stunned.\n*Death removes the second phase.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "270-430",
+        "total-pa": "130",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Implosion",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "cooldown": "45.0 / 41.0 / 37.0",
+        "mana-cost": "120 / 140 / 160",
+        "description": "Tigreal unleashes the power of his hammer, stunning and pulling nearby enemies to him for 2 seconds while dealing . The first half of the channeling can be interrupted by control effects. The second part of the channeling cannot be interrupted except by Suppression.",
+        "level-scaling": "Base Damage 270 / 350 / 430",
+        "term-2": "Stun",
+        "term-3": "Physical Damage Skill",
+        "term-1": "Pull",
+        "notes": "*Tigreal can blink by using the battle spell,, during this skill.\n*The skill executes in 3 steps.\n**Delay step. Tigreal applies a weak pull which doesn't count as knockback. It now applies stun, and it goes into cooldown if cancelled.\n**Pull step. Tigreal pulls enemies towards him. It doesn't stun yet, but it immobilizes. When ultimate is cancelled in this step, it goes into cooldown.\n**Stun. Tigreal stuns his enemies for 2s while dealing damage.\n*Can pull through obstacles. If the enemy does not pass by the obstacle, they will be displaced next to Tigreal at the time of stun.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Battle emote",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Follow_me!.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Follow_me!.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Follow_me!.png",
+            "caption": {}
+          },
+          {
+            "file": "File:Final_Verdict.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Final_Verdict.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Final_Verdict.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Tigreal's passive has been reworked twice up to this day."
+        },
+        {
+          "text": "His first passive granted him bonus armor and magic resistance when he performs a basic attack, which stacks up to 5 times.",
+          "links": [
+            {
+              "text": "basic attack",
+              "type": "internal",
+              "page": "basic attack"
+            }
+          ]
+        },
+        {
+          "text": "His second passive granted him 15% more armor and magic defense from items."
+        },
+        {
+          "text": "There are numerous inconsistencies & ironies with Tigreal's quotes:"
+        },
+        {
+          "text": "\"A real man never hides in a bush\", when all Tigreal players DO hide in bushes."
+        },
+        {
+          "text": "\"A true knight never says die\", but he already said it.",
+          "formatting": {
+            "bold": [
+              "die"
+            ]
+          }
+        },
+        {
+          "text": "He is based from Bedivere from Magic Rush.",
+          "links": [
+            {
+              "text": "Bedivere",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/Bedivere"
+            },
+            {
+              "text": "Magic Rush",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/Magic_Rush_Wiki"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

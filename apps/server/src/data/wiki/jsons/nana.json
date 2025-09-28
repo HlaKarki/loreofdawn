@@ -1,0 +1,749 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Little Leonin with no worries\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In order to have the means of controlling the magic in her body and stop causing trouble, Nana went to the Shadow Swamp in search of a magical fruit with her good friend Molina.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shadow Swamp"
+              }
+            ]
+          },
+          {
+            "text": "But when danger came, Molina died protecting Nana."
+          },
+          {
+            "text": "Although Nana got what she wanted, she also lost her friend."
+          },
+          {
+            "text": "With the strength that Molina left her, Nana embarked on a new journey."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Nana.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Nana.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Nana.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "5",
+          "23"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Irithel"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Little Leonin with no worries",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "*Sweet Leonin"
+        },
+        "chinese_name": {
+          "text": "娜娜 (nànà)"
+        },
+        "age": {
+          "text": "7",
+          "number": 7
+        },
+        "born": {
+          "text": "Moonlit Forest, Azrya Woodlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moonlit Forest"
+            },
+            {
+              "type": "internal",
+              "page": "Azrya Woodlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Leonin"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "weapons": {
+          "text": "Wings of Molina"
+        },
+        "abilities": {
+          "text": "*Blessing bestowed by Molina, making Nana morph into an invincible cat\n*Summoning Molina",
+          "links": [
+            {
+              "text": "Blessing bestowed by Molina, making Nana morph into an invincible cat",
+              "type": "internal",
+              "page": "",
+              "anchor": "Passive"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Molina (friend, deceased)\n* (companions)\n* (friends)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Molina"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Aria Nice"
+        },
+        "ja_va": {
+          "text": "Shishido Chie (宍戸 智恵)"
+        },
+        "id_va": {
+          "text": "Inen Rahmasuci Bismarck"
+        },
+        "ar_va": {
+          "text": "Bouthina Hani"
+        },
+        "pt_va": {
+          "text": "Leticia Celini"
+        },
+        "ru_va": {
+          "text": "Martirosova Eliza"
+        },
+        "tk_va": {
+          "text": "Ceren Menekşedağ"
+        },
+        "es_va": {
+          "text": "Jessica Angeles"
+        },
+        "zh_va": {
+          "text": "Yan Yeqiao (闫夜桥)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "After the Endless War, the Land of Dawn was covered scars, but the Moonlit Forest of Azrya was still bathed in the light of the Moon Goddess.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              },
+              {
+                "type": "internal",
+                "page": "Moonlit Forest"
+              },
+              {
+                "text": "Azrya",
+                "type": "internal",
+                "page": "Azrya Woodlands"
+              },
+              {
+                "text": "Moon Goddess",
+                "type": "internal",
+                "page": "Gavana"
+              }
+            ]
+          },
+          {
+            "text": "I addition to the elves, there were various other strange creatures living in this dense forest with a most unrestrained bearing."
+          },
+          {
+            "text": "There were very few disputes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leonins were the most peculiar race in this forest."
+          },
+          {
+            "text": "They were few in number, but they were born with a cute appearance, agile demeanor, and some talent for using spiritual power."
+          },
+          {
+            "text": "They used their spiritual power to bake apple pies, catch fish, and jump around in the woods… So long as the Leonins were awake, the Moonlit Forest was especially lively."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nana was the [naughtiest] Leonin among them."
+          },
+          {
+            "text": "She was born on a moonlit night with great spiritual powers."
+          },
+          {
+            "text": "Nana was naturally enthusiastic and energetic, and liked to use her own power to help her friends in the jungle."
+          },
+          {
+            "text": "It is just a pity that she, being rash and reckless, either baked other people’s apple pies to ashes or uprooted the berry bushes."
+          },
+          {
+            "text": "Gradually, everyone began to distance themselves from Nana."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fortunately, there was a little Tanuki called Molina who was always by Nana’s side."
+          },
+          {
+            "text": "Molina was a small Tanuki living on the edge of the Moonlit Forest."
+          },
+          {
+            "text": "She had no father, no mother, and no friends."
+          },
+          {
+            "text": "She lived alone ever since she could remember."
+          },
+          {
+            "text": "Owing to an accident, Molina broke into the gathering place of the Leonins, got stuck in a dangerous cave and it was Nana who saved her."
+          },
+          {
+            "text": "Since then, Molina always liked to pester Nana."
+          },
+          {
+            "text": "But Nana didn’t like being with Molina all day long."
+          },
+          {
+            "text": "She felt that Molina, who only had ability to change, was too weak and given that Nana always like to make trouble, felt like Molina shouldn’t always be by her side."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nana preferred to play with her fellow Leonins."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Although she felt disappointed because of everyone’s rejection, Nana, who was naturally optimistic, would soon try to help everyone."
+          },
+          {
+            "text": "One time, the indolent Leonins had a rare get-together and held a discussion about building a playground that would belong to the Leonin race."
+          },
+          {
+            "text": "For the Leonins, this was a rare, serious event, and Nana also enthusiastically participated in it."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After months of hard work, with the efforts of all the Leonins, they used moonlight stones gifted by the elves, long logs gifted by the forest, colorful stucco paint mixed evenly with berry juice, and other treasures gifted by the spirits of nature to build the exquisite Meow Playground."
+          },
+          {
+            "text": "It had a cat climbing frame, fish catching pond, dessert room, big trampoline…everything."
+          },
+          {
+            "text": "On the day it was built, to celebrate, the Leonins took out some old and dusty fruit wine, baked hundreds of apple pies and grilled sea bass, and drank in the garden of Meow Playground."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nana liked this kind of event the most."
+          },
+          {
+            "text": "She jumped around happily, picking up the fruit wine and slurping it."
+          },
+          {
+            "text": "She drank so happily."
+          },
+          {
+            "text": "When the moonlight came, the drunken Nana jumped on to the stage."
+          },
+          {
+            "text": "She wanted to use her spiritual power to bake more apple pie for everyone to celebrate."
+          },
+          {
+            "text": "But when she started to cast her spell, the power in her hands began to lose control, and a hurricane set off, blowing the Meow Playground into such disarray that it completely lost its original appearance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Seeing that the whole race’s efforts were ruined by her own mistake, Nana felt guilty and frightened."
+          },
+          {
+            "text": "Before everyone woke up, she quietly left her fellow Leonins without taking anything with her, wanting to find a way to control her power so that she could come back and help everyone build a more fun paradise."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nana walked all the way to the west, her path filled with strange creatures."
+          },
+          {
+            "text": "She tried to talk to some little creatures, but everyone ignored her, causing Nana to feel extremely depressed."
+          },
+          {
+            "text": "Nana, who had never walked out of the Moonlit Forest, felt an unprecedented sense of loss and loneliness, until she found out that Molina had been following her secretly from the beginning."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Molina understood Nana’s guilt and how she must be feeling."
+          },
+          {
+            "text": "She told Nana: In the southern part of Azrya – the Shadow Swamp near the Land of Despair, there is a kind of mystical fruit that grows in dangerous places that can help the user to control their own energy.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shadow Swamp"
+              },
+              {
+                "text": "Land of Despair",
+                "type": "internal",
+                "page": "The Barren Lands"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nana was a little surprised that the little Tanuki was still following her, and she was a little moved."
+          },
+          {
+            "text": "But Nana still refused Molina’s request to go with her to the Shadow Swamp."
+          },
+          {
+            "text": "She was worried that there would be some dangers on the way that would hurt her little friend."
+          },
+          {
+            "text": "Nana pretended to frighten Molina harshly: ''“You’re so weak and small."
+          },
+          {
+            "text": "Don’t follow me.”''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But shortly after she left, Molina caught up and stubbornly refused to leave."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nana discovered for the first time that the weak and small Tanuki was also persistent."
+          },
+          {
+            "text": "She was happy inside, but on the surface[,] she accepted Molina’s company with reluctance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The two passed through numerous obstacles and finally reached the Shadow Swamp."
+          },
+          {
+            "text": "In the depths of the cave, they found the magical fruit they’d been looking for."
+          },
+          {
+            "text": "Nana happily went to get the fruit, but did not notice the gradually approaching danger."
+          },
+          {
+            "text": "Near the Land of Despair, there lived many monsters corroded by the Abyss, the pure nature of Nana made this pitch black and ugly creature lick its chops and open its fiercely-looking mouth."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Molina by her side noticed the danger."
+          },
+          {
+            "text": "Seeing her good friend Nana was about to pick the fruit, she yelled and put to use the power of transformation that would only work from time to time – Molina became Nana’s likeness and stood in front of the defenseless Nana."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“As weak as I am, I can still protect my friend.”",
+            "formatting": {
+              "italic": [
+                "“As weak as I am, I can still protect my friend.”"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nana, who had gotten the fruit, was stunned by everything that had happened in front of her."
+          },
+          {
+            "text": "With the help of the fruit, Nana sent a powerful force to repel the monster, but Molina was also dying."
+          },
+          {
+            "text": "Nana cried and shared her spiritual power with Molina, but it was no use."
+          },
+          {
+            "text": "Finally, Molina grabbed Nana’s hand and shared her transformation power with Nana, hoping that she would be with her only friend forever."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Stay happy, stay happy forever.”",
+            "formatting": {
+              "italic": [
+                "“Stay happy, stay happy forever.”"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In turned out that learning control was only the beginning of her growth."
+          },
+          {
+            "text": "Nana continued on the road with Molina’s blessing and entrustment."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Those who have never forgotten will always survive in another way; those who have never forgotten their hometown will always return to their hometown."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Nana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Immortality"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Monlina's Gift"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Molina's Gift",
+        "cooldown": "150.0",
+        "skill-effect-1": "Death Immune",
+        "description": "Upon taking fatal damage, Nana removes all debuffs on her and transforms, becoming untargetable and invincible, and gains 70% Movement Speed for 2 seconds. She also recovers 10% over the duration. Nana can only transform once every 150 seconds and cannot cast skills in the transformed form.",
+        "term21": "Transformed",
+        "term-2": "Damage Immunity",
+        "notes": "*A visual indicator is shown around Nana when Molina's Gift is ready. (see Patch Notes 1.6.58)\n*If has  available,  will trigger first, end does not cancel 's.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "320-440",
+        "total-mp": "100",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Magic Boomerang",
+        "cooldown": "5.5 / 5.2 / 4.9 / 4.6 / 4.3 / 4.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "skill-effect-1": "AOE",
+        "description": "Nana hurls her Magical Boomerang in the target direction, dealing damage to enemies hit on its way out and back. The boomerang deals to the first enemy For every additional enemy hit, the damage is reduced by 20%  (max reduction of 60%).",
+        "properties": "*Spell Vamp Ratio: 50%\n*Base Damage: 320 / 344 / 368 / 392 / 416 / 440",
+        "ss-1": "Damage Reduction Stacks: 0% / 20% / 40% / 60% / 60% / 60% / ...",
+        "term-1": "Magic Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-375",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[how much?]",
+        "template": "sup"
+      },
+      {
+        "name": "Molina Smooch",
+        "cooldown": "14.5 / 14.0 / 13.5 / 13.0 / 12.5 / 12.0",
+        "mana-cost": "80 / 85 / 90 / 95 / 100 / 105",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Debuff",
+        "description": "Nana summons Molina at the target location. After a short delay. Molina will chase the nearest enemy hero in range for 2.5 seconds. Molina Will deal to the first enemy hero it collides with and transform them for 1.5 seconds, and also slow them by 50% and reduce their Magic Defense by 25% for the duration. If there are no enemy heroes in range, Molina will disappear after 12 seconds.",
+        "properties": "*Morph Damage: 250 / 275 / 300 / 325 / 350 / 375\n*Slowing Effect: 50% / 54% / 58% / 62% / 66% / 70%",
+        "term-1": "Transform",
+        "term-2": "Magic Damage Skill",
+        "term-3": "Magic Defense",
+        "notes": "*Affected enemies are revealed.\n*Molina will chase the enemy hero at an exponential rate[how much?] before it disappears.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "440-660",
+        "total-mp": "160",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Molina Blitz",
+        "cooldown": "36.0 / 32.0 / 28.0",
+        "mana-cost": "135 / 150 / 165",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "description": "Nana summons Molina to strike the target area 3 times, each time dealing  to enemies within the area and slowing them by 50% for 1 second. Enemies hit consecutively will be stunned for 1 second.",
+        "properties": "*Spell Vamp Ratio: 50%\n*Base Damage: 440 / 550 / 660",
+        "term-1": "Stunn",
+        "term-2": "Magic Damage Skill",
+        "term-3": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Ruby"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Her name (なな; na na) means seven in Japanese and it is a common feminine Japanese name."
+        },
+        {
+          "text": "Nana is the only hero in the game capable of transforming enemies.",
+          "links": [
+            {
+              "text": "transforming",
+              "type": "internal",
+              "page": "transforming"
+            }
+          ]
+        },
+        {
+          "text": "Nana has illeism, the act of referring to oneself in the third person instead of first person.",
+          "links": [
+            {
+              "text": "illeism",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Illeism"
+            }
+          ]
+        },
+        {
+          "text": "Her old voice lines is mostly based from the character Ruby from Magic Rush (not to be confused with in MLBB), another cat-like hero.",
+          "links": [
+            {
+              "text": "Ruby",
+              "type": "internal",
+              "page": "w:c:magicrush:Ruby"
+            },
+            {
+              "text": "''Magic Rush''",
+              "type": "internal",
+              "page": "w:c:magicrush"
+            },
+            {
+              "type": "internal",
+              "page": "MLBB"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Magic Rush",
+              "MLBB"
+            ]
+          }
+        },
+        {
+          "text": "Nana's old passive allowed her to give gold to nearby allies every 10 seconds (see Nana/History)",
+          "links": [
+            {
+              "text": "gold",
+              "type": "internal",
+              "page": "gold"
+            },
+            {
+              "type": "internal",
+              "page": "Nana/History"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

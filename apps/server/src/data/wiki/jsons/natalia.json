@@ -1,0 +1,469 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "list": [
+          "Main"
+        ],
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Assassin exiled by the Moniyan Empire.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The chief assassin of the Church of Light.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Church of Light"
+              }
+            ]
+          },
+          {
+            "text": "She once made a mistake during an assassination mission, making companion encounter unprecedented disaster."
+          },
+          {
+            "text": "Although she was able to escape with the assistance of Tigreal, she was later exiled to the border to the Empire to perform more dangerous tasks.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tigreal"
+              },
+              {
+                "text": "Empire",
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Natalia.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Natalia.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Natalia.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "11",
+          "15"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Assassin exiled by the Moniyan Empire.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Bright Claw"
+        },
+        "chinese_name": {
+          "text": "娜塔莉 (Nàtǎlì)"
+        },
+        "origin": {
+          "text": "Monastery of Light, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Monastery of Light"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "occupation": {
+          "text": "Chief assassin of Monastery of Light"
+        },
+        "affiliation": {
+          "text": "Monastery of Light"
+        },
+        "weapons": {
+          "text": "*Claw blade\n*Smoke bomb",
+          "links": [
+            {
+              "text": "Smoke bomb",
+              "type": "internal",
+              "page": "Natalia",
+              "anchor": "Skill 2"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "Invisibility",
+          "links": [
+            {
+              "text": "Invisibility",
+              "type": "internal",
+              "page": "Natalia",
+              "anchor": "Passive"
+            }
+          ]
+        },
+        "traits": {
+          "text": "Cruel, Solitary"
+        },
+        "relationships": {
+          "text": "(companion)"
+        },
+        "ja_va": {
+          "text": "Iwasaki Chiaki (岩崎 千明)",
+          "links": [
+            {
+              "text": "Iwasaki Chiaki (岩崎 千明)",
+              "type": "external",
+              "site": "https://ja.wikipedia.org/wiki/岩崎千明"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Natalia was orphaned from the war and she was raised as a little girl by the Monastery of Light.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monastery of Light"
+              }
+            ]
+          },
+          {
+            "text": "Natalia was trained into becoming one of the Light assassins."
+          },
+          {
+            "text": "This young phenom had risen to become the top assassin for the Monastery, via her outstanding talents."
+          },
+          {
+            "text": "However, on one assassination mission, she failed in her execution, causing her companions to meet with unprecedented disaster and death."
+          },
+          {
+            "text": "Although she managed to escape danger, with Tigreal's help, this was undoubtedly a severe blow to Natalia's pride.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tigreal"
+              }
+            ]
+          },
+          {
+            "text": "To prove herself again, she exiled herself to the outskirts of the land, far from the Moniyan Empire and the Monastery of Light, to carry out more dangerous missions.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "It is never known who her target is or where she might strike next."
+          },
+          {
+            "text": "All that people know is that Natalia intends to win back all that she once possessed."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200",
+        "total-pa": "110%",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Assassin Instinct",
+        "skill-effect-1": "Buff",
+        "term-1": "Blink",
+        "term-2": "Silence",
+        "description": "If Natalia stays in a bush without taking damage for 1 second, she will enter Camouflage state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal while silencing the target for 0.25 seconds. Dealing damage, taking damage or using skills will immediately end the Camouflage state, but her next Basic Attack will remain enhanced for another 1 second. Natalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%.",
+        "notes": "*Her basic attack range is also increased to 3.8 units during Camouflage state.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-350",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Claw Dash",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "AoE",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "term-1": "Blink",
+        "term-2": "Physical Damage Skill",
+        "description": "Natalia dashes in the target direction, dealing to enemies in her path. After hitting an enemy, she can cast this skill again within 5 seconds.",
+        "ls-1": "Base Damage: 250 / 270 / 290 / 310 / 330 / 350",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "name": "Smoke Bomb",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Slow",
+        "cooldown": "12.0",
+        "mana-cost": "80 / 85 / 90 / 95 / 100 / 105",
+        "quote": "No one beats me in my own game.",
+        "term-1": "Dodge",
+        "term-2": "Movement Speed",
+        "description": "Natalia releases a Smoke Bomb at her location, slowing enemies within by 25%–75% while Natalia becomes immune to enemy Basic Attacks for 4 seconds.",
+        "ls-2": "Slow Effect: 25% / 35% / 45% / 55% / 65% / 75%",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Active",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "The Hunt",
+        "cooldown": "3.0",
+        "skill-effect-1": "Conceal",
+        "skill-effect-2": "Buff",
+        "mana-cost": "90 / 110 / 130",
+        "recharging-time": "30.0 / 27.0 / 24.0",
+        "term-1": "Blink",
+        "term-3": "Crit Rate",
+        "term-2": "Physical Basic Attack",
+        "description": ": Natalia gains 15%–45% extra Crit Chance. : Natalia immediately enters Assassin Instinct state. Natalia can store up to 2 charges of her\nUltimate and each charge has a recharge time of 30 seconds. Creep kills will reduce the current remaining recharge time 50% of the full recharge time.",
+        "ls-1": "Crit Chance: 15% / 30% / 45%",
+        "notes": "*The cooldown of this skill is not affected by Cooldown Reduction.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Natalia_(Bright_Claw).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Bright_Claw).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Bright_Claw).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Natalia_(Glass_Blade).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Glass_Blade).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Glass_Blade).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Natalia_(Phantom_Dancer).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Phantom_Dancer).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Phantom_Dancer).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Natalia_(Deadly_Mamba).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Deadly_Mamba).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Deadly_Mamba).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Natalia_(Midnight_Raven).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Midnight_Raven).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Midnight_Raven).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Natalia_(Grim_Strangler).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Grim_Strangler).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Grim_Strangler).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Natalia_(Cyber_Spectre).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Cyber_Spectre).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Cyber_Spectre).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Natalia_(Warrioress_Paragon).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Warrioress_Paragon).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Natalia_(Warrioress_Paragon).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Natalia's name has Latin origins and means \"Christmas Day;\" the name was usually given to girls born in Christmas period. Coincidentally, she was released on the month of December 2016."
+        },
+        {
+          "text": "Natalia is likely inspired by the Assassins of the Assassin's Creed video game series as evident on her design and quotes.",
+          "links": [
+            {
+              "text": "''Assassin's Creed'' video game series",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Assassin's Creed"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Assassin's Creed"
+            ]
+          }
+        },
+        {
+          "text": "Natalia is one of the heroes who has an ability that interacts with the environment (the bush)."
+        },
+        {
+          "text": "Her ultimate quote ultimate quote, \"Nothing is true!\", is a phrase attributed to Hassan-i Sabbah, the founder of Order of the Hashshashin from which the term \"assassin\" originates."
+        },
+        {
+          "text": "Cyber Spectre is the skin of Best Design in MLBB 1st Skin Design Competition by MGL."
+        },
+        {
+          "text": "Natalia's Collector Skin \"Warrioress Paragon\" was given away for a limited-time, Making it the first free collector skin ever."
+        },
+        {
+          "text": "Natalia free collector skin and Miiya collector skin are related. 's arrows can open portals to the future. Natalia came through this portal."
+        }
+      ]
+    ]
+  }
+]

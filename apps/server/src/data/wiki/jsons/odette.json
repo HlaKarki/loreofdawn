@@ -1,0 +1,983 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the daughter of Prince Alvin, Princess Odette was a romantic that seemed a well-behaved, obedient lady but actually yearned for adventures instead."
+          },
+          {
+            "text": "After she became acquainted with Lancelot and rescued him in a duel ruckus, Odette slowly became aware of her own feelings towards Lancelot."
+          },
+          {
+            "text": "Finally, she made the decision to leave the Swan Castle and set out on an adventure in search of her loved one."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Odette.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Odette.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Odette.jpg"
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:</ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*House_Alvin",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*House_Alvin?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*House_Alvin"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Sword_(not_used_in_combat)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Sword_(not_used_in_combat)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Sword_(not_used_in_combat)"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Dealing_damage_using_sound_waves_and_unknown_energy",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Dealing_damage_using_sound_waves_and_unknown_energy?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Dealing_damage_using_sound_waves_and_unknown_energy"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Unnamed_uncle",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Unnamed_uncle?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Unnamed_uncle"
+          },
+          {
+            "file": "File:*Prince_Alvin_I_(grandfather)<ref_name=\"Discord\">According_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_[[Moniyan_Empire]]_subjects_[https://discord.com/channels/342452785658331137/602741774716370959/1369934179713679420_Part_1_Link]_[https://discord.com/channels/342452785658331137/602741774716370959/1369934180372320348_Part_2_Link]",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_Alvin_I_(grandfather)%3Cref_name%3D%22Discord%22%3EAccording_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_%5B%5BMoniyan_Empire%5D%5D_subjects_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934179713679420_Part_1_Link%5D_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934180372320348_Part_2_Link%5D?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_Alvin_I_(grandfather)%3Cref_name%3D%22Discord%22%3EAccording_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_%5B%5BMoniyan_Empire%5D%5D_subjects_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934179713679420_Part_1_Link%5D_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934180372320348_Part_2_Link%5D"
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Part_1_of_Odettes_Expanded_Lore_in_official_discord.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Part_1_of_Odettes_Expanded_Lore_in_official_discord.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Part_1_of_Odettes_Expanded_Lore_in_official_discord.png"
+          },
+          {
+            "file": "File:Part_2_of_Odettes_Expanded_Lore_in_official_discord.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Part_2_of_Odettes_Expanded_Lore_in_official_discord.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Part_2_of_Odettes_Expanded_Lore_in_official_discord.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "8",
+          "31"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Dyrroth"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Vexana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "full_name": {
+          "text": "Princess Odette of House Alvin"
+        },
+        "chinese_name": {
+          "text": "奥黛塔 (àodàitǎ)"
+        },
+        "image": {
+          "text": "Odette comic.jpg"
+        },
+        "alias": {
+          "text": "Swan Princess"
+        },
+        "birthday": {
+          "text": "*Sirius IV (great-uncle) \n*Aurelius II (1st cousin once removed) \n*Gaius Alvin (ancestor) \n*, (2nd cousins) \n* (relative) \n*Lord Gaius (relative) \n* (lover)",
+          "links": [
+            {
+              "text": "Gaius Alvin",
+              "type": "internal",
+              "page": "Emperor Gaius of Moniyan"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Dosaka Yuki (堂坂 有希)"
+        },
+        "id_va": {
+          "text": "Tisa Julianti"
+        },
+        "es_va": {
+          "text": "Jessica Ángeles",
+          "links": [
+            {
+              "text": "Jessica Ángeles",
+              "type": "internal",
+              "page": "w:c:doblaje:Jessica Ángeles"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Swan Castle located near the Azure Lake was the fief of Prince Alvin of the Moniyan Empire.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "The first liege of this land—Prince Alvin I was a desperately romantic crown prince."
+          },
+          {
+            "text": "To marry a woman of humble birth, he resigned and gave up the throne to his brother—Sirius IV, leaving the Lumina City and settling down in the countryside now known as the Swan Castle."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "House Alvin and their romanticism were then passed down through generations."
+          },
+          {
+            "text": "Prince Alvin II also assumed his royal title at a young age—his brother and the eldest son of Prince Alvin I focused on religious endeavors and later became the archbishop of the Church of Light."
+          },
+          {
+            "text": "Princess Odette was the [third-generation] scion of the family, and this elegant, lovable Swan Princess's love story perfectly attested to the romantic nature of House Alvin's descendants."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Owning right to the throne, Prince Alvin and his family understood the tricky situation they were in and rarely got involved in domestic politics or had much contact with the other nobles."
+          },
+          {
+            "text": "Since childhood, Odette had been leading a peaceful, tranquil life within the Swan Castle, without ever setting foot out of their territory."
+          },
+          {
+            "text": "But the seemingly quiet girl had been filled with curiosity and longing for the outside world."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "By the time she reached adolescence, she worked up the courage to conceal herself under a mantle and sneak out to visit the market nearby without her parents' permission."
+          },
+          {
+            "text": "The naive princess once tried to pay for bread with a whole bag of gold coins and offered a beggar all the jewelry she had on her after hearing his routine tear-jerking story, but these little delinquencies just outside her home were enough for Odette to feel adventurous."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But eventually her adventures brought her trouble—this clueless young princess only learned what powerless felt like when she was harassed by a few thugs in a tavern... Thankfully in a drunken stupor, drew his sword and drove those men away."
+          },
+          {
+            "text": "But Odette felt at a loss of what to do seeing her rescuer get injured and fall on the ground, her eyes brimming with tears."
+          },
+          {
+            "text": "So, she made a decision that went against her family rules—to bring the unconscious Lancelot back to the Swan Castle."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In a room atop their castle tower, Odette dressed Lancelot's wound and casted her family's healing spell with a scepter to treat him with the help of a young maid."
+          },
+          {
+            "text": "She spent the whole day and night watching over Lancelot who was on the verge of death, and only let out a sigh of relief and smiled wearily when the man finally opened his eyes again…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For the following days, Odette hid Lancelot inside the Swan Castle so that he could recover, and she would bring food to him every day with the maid and listen to the interesting romantic knight of Castle Gorge as he played the harp and sang songs about the adventures he'd had throughout the land."
+          },
+          {
+            "text": "These songs were fun melodies Odette had never heard as she'd only known royal music, and the lyrics once again piqued her strong curiosity and yearning for the outside world."
+          }
+        ]
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": [
+          {
+            "text": "Odette 's meetings with Lancelot became the greatest fun of her days."
+          },
+          {
+            "text": "As she gradually opened up to this new friend of hers, she would also tell him about her little adventures of rebellious delinquencies and even learned from him a few sword fighting techniques for self[-]defense."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As they bounded over time, Lancelot slowly became reticent and withdrawn."
+          },
+          {
+            "text": "He no longer played those funny songs in praise of the hero Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The innocent Odette didn't understand the reason behind his change, until the sneaky maid suddenly asked her in a whisper, \"Who do you think Lancelot is playing these songs to, Your Grace?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The maid's words awoke the blind princess."
+          },
+          {
+            "text": "Odette finally came to realize that someone was subtly courting her!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was once again the mischievous young maid persuading Odette to not run away or ignore his courtship that the princess had the courage to face Lancelot's feelings."
+          },
+          {
+            "text": "But she still hadn't worked out whether she was also in love with him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As Lancelot's injury healed with each day, Odette knew that the day of his departure was nearing."
+          },
+          {
+            "text": "Her spirits sank low, and one day a letter delivered by his father disturbed her mind even more—\"Duke Baroque was proposing to me on behalf of his son? What an annoying suitor!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But Odette suddenly came to a realization: wasn't the \"romantic knight of Castle Gorge\" from House Baroque's fief?"
+          },
+          {
+            "text": "So, the duke's son must be..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Despite her heart beating out of her chest, Odette had to feign calmness before her parents."
+          },
+          {
+            "text": "But when she returned to her bedchamber, she couldn't help but giggle to herself and even danced cheerfully with the maid."
+          },
+          {
+            "text": "But unsure how to face Lancelot, Odette realized that she couldn't bring herself to see him now."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But unexpectedly, Lancelot left a letter and went away without a farewell a few days later."
+          },
+          {
+            "text": "Feeling dejected, Odette finally realized how much she'd adored him…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Until one night, having made up her mind, Odette wrote a letter to her parents before quietly leaving the Swan Castle."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She would follow the traces Lancelot left behind and search for the love of her life…"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Odette_Lore.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_Lore.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_Lore.png",
+        "caption": "512px",
+        "links": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      }
+    ]
+  },
+  {
+    "title": "Glimmer Amidst the Icy Night",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Glimmer Amidst the Icy Night"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "140",
+        "level": "4",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Lakeshore Ambience"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "magic skill",
+          "md"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Odette"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Lakeshore Ambience",
+        "skill-effect-1": "BUFF",
+        "description": "After each skill cast, Odette's next or skill will cast a sound wave that rebounds between her and enemies, each bounce dealing.",
+        "ls-1": "Base Damage: 144 / 148 / 152 / 156 / 160 / 164 / 168 / 172 / 176 / 180 / 184 / 188 / 192 / 196 / 200",
+        "term-1": "Magic Basic Attack",
+        "notes": "* only benefits 50% of Magic Lifesteal.\n*This skill stacks up to 3 times.\n**Stack(s) lasts for 8 seconds; time resets by consuming it.\n*Sound waves can bounce up to 4 times.\n*This skill is a and only benefits from skill effects.\n*Can bounce to or from turrets and trigger item effects.\n*Still bounce to and from but does not damage enemies untargetability.\n**Still bounce to and from.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-550",
+        "total-mp": "150",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "slowing"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Avian Authority"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Avian Authority",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slowed",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "6.0 / 5.8 / 5.6 / 5.4 / 5.2 / 5.0",
+        "mana-cost": "90 / 100 / 110 / 120 / 130 / 140",
+        "description": "Odette concentrates energy to summon a swan to attack enemies, dealing and  them by 30%. Lasts 2 seconds.",
+        "ls-1": "Base Damage: 300 / 350 / 400 / 450 / 500 / 550",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "notes": "* only benefits 50% of Magic Lifesteal.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-400",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "immobilizing",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "250-400",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "immobilizing",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Blue Nova"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Blue Nova",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0",
+        "mana-cost": "90 / 95 / 100 / 105 / 100 / 115",
+        "description": "Odette releases a set of magic energy balls forward, dealing to the enemy hit and  them for 1.5 seconds. Another energy ball will then spawn and attack a nearby enemy (prioritizes enemy heroes), dealing  and  them for 1.5 seconds.",
+        "ls-1": "Base Damage: 250 / 280 / 310 / 340 / 370 / 400",
+        "ls-2": "Diffusion Damage: 250 / 280 / 310 / 340 / 370 / 400",
+        "notes": "* only benefits 50% of Magic Lifesteal.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm extra\\ movement\\ SPD} = (-0.45 \\times time) + 90%",
+        "raw": "{\\rm extra\\ movement\\ SPD} = (-0.45 \\times time) + 90%"
+      },
+      {
+        "base": "1400-1800",
+        "total-mp": "150",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "240-320",
+        "total-mp": "90",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "slows"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Lakeshore Ambience"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Swan Song"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Recall"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Swan Song",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Burst",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "50.0 / 45.0 / 40.0",
+        "mana-cost": "200 / 240 / 280",
+        "description": "Odette leaps in a designated direction, gains a, and begins gathering energy, dealing to enemies within the area every 0.5 seconds for 5 seconds. Odette  nearby enemies by 90% (decays over 2 seconds) upon casting this skill. The rebounding speed and count of 's sound wave in the area are also enhanced when the skill is active. This skill requires constant channeling and will be interrupted if Odette is controlled or performs other actions.",
+        "ls-1": "Base Shield: 1400 / 1600 / 1800",
+        "ls-2": "Base Damage: 240 / 280 / 320",
+        "term-1": "Magic Skill",
+        "term-2": "Shield",
+        "term-3": "Movement Speed",
+        "notes": "*The effect has a radius of 5.5 unit.\n* only benefits 25% of Spell Vamp.\n*Sound waves rebound up to 7 times when the skill is active.\n**Sound waves will travel in a straight line, instead of the usual upward trajectory.\n*This skill gets spell vamp without being reduced, unlike magic lifesteal.\n*This skill is only interrupted by high crowd control effects, namely airborne, frozen, transformed, petrified or Suppressed\n*The shield still lingers shortly after the ability ends.\n*Battle Spells, Items and can be used during the duration.\n*'s  cancels this ability upon entering and exitting.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Odette_(Swan_Princess).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Swan_Princess).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Swan_Princess).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Black_Swan).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Black_Swan).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Black_Swan).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Christmas_Carnival).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Christmas_Carnival).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Christmas_Carnival).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Mermaid_Princess).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Mermaid_Princess).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Mermaid_Princess).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Butterfly_Goddess).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Butterfly_Goddess).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Butterfly_Goddess).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Virgo).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Virgo).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Virgo).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Auspicious_Charm).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Auspicious_Charm).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Auspicious_Charm).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Sage_of_the_Currents).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Sage_of_the_Currents).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Sage_of_the_Currents).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Wisdom_of_the_Stars).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Wisdom_of_the_Stars).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Wisdom_of_the_Stars).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:;_Painted_skins",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3B_Painted_skins?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3B_Painted_skins"
+          },
+          {
+            "file": "File:<gallery_captionalign=\"center\"_spacing=\"small\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22%3E"
+          },
+          {
+            "file": "File:Odette_(Butterfly_Faerie).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Butterfly_Faerie).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Butterfly_Faerie).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Wisdom_of_Hearts).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Wisdom_of_Hearts).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Wisdom_of_Hearts).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Odette_(Wisdom_of_Devotion).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Wisdom_of_Devotion).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Odette_(Wisdom_of_Devotion).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Battle Points"
+        ],
+        "template": "bp cost"
+      },
+      {
+        "list": [
+          "120"
+        ],
+        "template": "hfragment"
+      },
+      {
+        "list": [
+          "20"
+        ],
+        "template": "lucky gem"
+      },
+      {
+        "list": [
+          "Battle Points"
+        ],
+        "template": "bp cost"
+      },
+      {
+        "list": [
+          "Diamonds"
+        ],
+        "template": "diamond cost"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Odette full name is Princess Odette Alvin."
+        },
+        {
+          "text": "The sword Odette carries is used as a focus for her spells. She doesn't use the sword by conventional means."
+        },
+        {
+          "text": "Since the founding of the empire by Gaius, the ruling Monian dynasty has never changed, as Silvanna is a direct descendant of Gaius. This means that Odette and Silvanna and Dyrroth have a common ancestor."
+        },
+        {
+          "text": "The fact that the ruling dynasty has never changed shows us its connection to Vexana, who was also a princess of the Monian Empire."
+        },
+        {
+          "text": "It is hinted in one of her quotes that the sword is a gift. The sword gifted by Lancelot."
+        },
+        {
+          "text": "Lancelot is referenced in two of her quotes: \"Don't ask me why a mage is carrying a sword!\" \"This sword is a gift.\""
+        },
+        {
+          "text": "Odette is inspired by a character with the same name in Swan Lake.",
+          "links": [
+            {
+              "text": "Swan Lake",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Swan_Lake"
+            }
+          ]
+        },
+        {
+          "text": "Her \"Black Swan\" skin is also a reference to another character from the same opera."
+        },
+        {
+          "text": "The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suitte), OP. 20"
+        },
+        {
+          "text": "She was purchasable with at first. Now, she can only be obtained by new players through quests, be bought in the Fragment Shop using  Hero Fragments, or in the Lucky Shop using  Lucky Gems.",
+          "links": [
+            {
+              "text": "Fragment Shop",
+              "type": "internal",
+              "page": "Fragments Shop"
+            },
+            {
+              "text": "Lucky Shop",
+              "type": "internal",
+              "page": "Lucky Spin"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Hero Fragments",
+              "Lucky Gems"
+            ]
+          }
+        },
+        {
+          "text": "Odette is the only hero that cannot be purchased using nor."
+        },
+        {
+          "text": "The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suitte), OP."
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,1010 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:X.Borg_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/X.Borg_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/X.Borg_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:X.Borg_human.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/X.Borg_human.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/X.Borg_human.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Nightmare_of_Eruditio",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Nightmare_of_Eruditio?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Nightmare_of_Eruditio"
+          },
+          {
+            "file": "File:*Nemesis_of_Eruditio",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Nemesis_of_Eruditio?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Nemesis_of_Eruditio"
+          },
+          {
+            "file": "File:*Child_of_Disaster",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Child_of_Disaster?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Child_of_Disaster"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:</ref><ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref%3E"
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Xborg_Info_Card.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Xborg_Info_Card.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Xborg_Info_Card.png"
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:</ref><ref_name=\"XBorgCNProfile\">[https://weibo.com/7711876938/P30HjdRTo_Official_profile_from_Weibo]",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_name%3D%22XBorgCNProfile%22%3E%5Bhttps%3A%2F%2Fweibo.com%2F7711876938%2FP30HjdRTo_Official_profile_from_Weibo%5D?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_name%3D%22XBorgCNProfile%22%3E%5Bhttps%3A%2F%2Fweibo.com%2F7711876938%2FP30HjdRTo_Official_profile_from_Weibo%5D"
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Profile_CN_X.Borg.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_X.Borg.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_X.Borg.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Birthday (生日 \"shēngrì\" meaning \"birthday\"), Age (年龄 \"niánlíng\" meaning \"age\"), Official Chinese Name"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "Beatrix"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Layla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Johnson"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bruno"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chou"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Diggie"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ixia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kimmy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Nolan"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "infoboxes": [
+      {
+        "origin": {
+          "text": "Eruditio",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            }
+          ]
+        },
+        "age": {
+          "text": "18",
+          "number": 18
+        },
+        "species": {
+          "text": "Cyborg"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "*Mechanical engineering\n*Terrorist (arsonist)"
+        },
+        "affiliation": {
+          "text": "Laboratory 1718",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Laboratory 1718"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Firaga Armor\n*Flamethrower\n*Fire Stakes",
+          "links": [
+            {
+              "text": "Firaga Armor",
+              "type": "internal",
+              "page": "X.Borg",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Flamethrower",
+              "type": "internal",
+              "page": "X.Borg",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "Fire Stakes",
+              "type": "internal",
+              "page": "X.Borg",
+              "anchor": "Skill 2"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "Self-destruction",
+          "links": [
+            {
+              "text": "Self-destruction",
+              "type": "internal",
+              "page": "X.Borg",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "Eruditio Crisis",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio Crisis"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Octavius (accomplice) \n*, Dr. Rooney,, , , , , , , (enemies)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Octavius"
+            },
+            {
+              "type": "internal",
+              "page": "Dr. Rooney"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Shiki Yoshida (吉田 史記)"
+        },
+        "id_va": {
+          "text": "Irfan Setiawan"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "So you finally came out of hiding, Rooney."
+          },
+          {
+            "text": "It's a shame that I had to burn down your precious lab to get you here."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Oh right, you're tied up and can't talk."
+          },
+          {
+            "text": "It doesn't matter, you don't need to talk."
+          },
+          {
+            "text": "I've heard enough of your lies."
+          },
+          {
+            "text": "Today, you listen."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Don't give me that look."
+          },
+          {
+            "text": "You know damn well who I am!"
+          },
+          {
+            "text": "It's X.Borg!"
+          },
+          {
+            "text": "How could you forget that name?"
+          },
+          {
+            "text": "Oh, nowadays they also call me the Nightmare of Eruditio, a monster that's neither man nor ghost.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eruditio"
+              }
+            ]
+          },
+          {
+            "text": "A being cursed by fire."
+          },
+          {
+            "text": "Some even call me the Child of Disaster..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Why do you still have that look of disbelief?"
+          },
+          {
+            "text": "Getting forgetful in your old age?"
+          },
+          {
+            "text": "Let me refresh your memory then."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The story begins with this scar on my forehead."
+          },
+          {
+            "text": "When my brother and I were working in the mine, a rock came loose and nearly hit my brother."
+          },
+          {
+            "text": "I got this scar when I used my head to shield him."
+          },
+          {
+            "text": "Why my head?"
+          },
+          {
+            "text": "Well, if another part of our body was hit and disabled, we wouldn't be able to work!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I'm sure you're wondering what all that had to do with you, right?"
+          },
+          {
+            "text": "What a stupid question."
+          },
+          {
+            "text": "That energy tower used to mine the mountain was built on your orders, wasn't it?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Your great Eruditio built that tower in our town, yet none of us knew what it was mining."
+          },
+          {
+            "text": "We were just happy to have work, after all."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "You could say that my fate was my own doing, that I should have known the risks of the job when I signed up."
+          },
+          {
+            "text": "But if you were from a poor town like me, maybe you'd see how precious the things you take for granted are to us."
+          },
+          {
+            "text": "Maybe, just maybe, working in that mine could help move my family to Eruditio."
+          },
+          {
+            "text": "For a poor kid like me, it was a once-in-a-lifetime opportunity."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But who would have thought that you, who gave us so much hope, cared so little for the lives of so many, including children like me."
+          },
+          {
+            "text": "You great scholars saw us as tools and looked the other way when it came to your research."
+          },
+          {
+            "text": "You knew what you were mining, but you didn't care."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "First, the people who came into contact with the ore began to fall sick one by one."
+          },
+          {
+            "text": "I tried to ignore it, but then I fainted and fell into that liquid agent we were mining with."
+          },
+          {
+            "text": "The pain... It felt like every inch of my skin was burning from underneath."
+          },
+          {
+            "text": "Can you imagine what I went through?"
+          },
+          {
+            "text": "Of course you can, you're the prodigy of Eruditio!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Funny enough, I finally managed to get to Eruditio, but as a lab rat."
+          },
+          {
+            "text": "They operated on me and transformed me into what I am now."
+          },
+          {
+            "text": "At that time, I recall your voice yelling frantically, like a little bug buzzing in my ear."
+          },
+          {
+            "text": "You must have been afraid that they would ruin your precious science experiment, right?"
+          },
+          {
+            "text": "After the pain finally subsided, you personally came and told me that I was the first successful case, that I was the \"chosen one.\""
+          },
+          {
+            "text": "I had fused with the power of the ore and survived."
+          },
+          {
+            "text": "Boy, you sure had a way with words."
+          },
+          {
+            "text": "You convinced me that as the chosen one, I should stay in Eruditio and continue to help your research."
+          },
+          {
+            "text": "And in exchange, you would take care of my family and town."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And I believed it... I really believed it."
+          },
+          {
+            "text": "The scar on my head, the searing pain, the operation, and being separated from my family... all of that was worth it to be the chosen one."
+          },
+          {
+            "text": "I really thought I was going to make a name for myself, that I would be a part of some magnificent future."
+          },
+          {
+            "text": "After all, a few months ago I was just a poor brat worrying about food and clothes, but now I had a mission!"
+          },
+          {
+            "text": "I was the chosen one!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "You have no right to judge me."
+          },
+          {
+            "text": "You were born with a silver spoon, a citizen of Eruditio with the riches of the world laid before you."
+          },
+          {
+            "text": "Do you even know what hunger feels like?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Later, when I finally went back to my hometown, can you guess what I found?"
+          },
+          {
+            "text": "That damn ore, poisoning the land and tormenting my people."
+          },
+          {
+            "text": "The ones who could leave, were already gone."
+          },
+          {
+            "text": "The ones who couldn't, simply accepted their fate."
+          },
+          {
+            "text": "They asked me where I've been all these years, and I told them."
+          },
+          {
+            "text": "I was with the monsters who did this to them."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "All those... eyes filled with anguish... staring at me... their hatred... consuming me... GO AWAY!"
+          },
+          {
+            "text": "Ugh, my head."
+          },
+          {
+            "text": "No wait, those were all illusions... just illusions..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "There was no one to even stare at me, Rooney."
+          },
+          {
+            "text": "Every one of them were already buried to pave the way for your research."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "So I set it all ablaze."
+          },
+          {
+            "text": "The fire burned for three days and three nights."
+          },
+          {
+            "text": "This was the only thing I could give them."
+          },
+          {
+            "text": "I burned away your sins, and I purified my home."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Afterwards, I came to the Eruditio with a gift for all of you."
+          },
+          {
+            "text": "Don't get me wrong, I don't hate Eruditio."
+          },
+          {
+            "text": "I don't even hate you."
+          },
+          {
+            "text": "After all, it's thanks to you that I finally understood this so-called magnificent future had no place for me."
+          },
+          {
+            "text": "But I found my own purpose."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "You see, the world is a cruel place."
+          },
+          {
+            "text": "And fire is my gift back to this cruel world."
+          },
+          {
+            "text": "Is there anything more fitting?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Huh?"
+          },
+          {
+            "text": "What's that?"
+          },
+          {
+            "text": "Let me guess, you want to tell me that the people of the Eruditio are innocent?"
+          },
+          {
+            "text": "You should know in this world, bad things happen to good people, and worse things happen to worse people."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As your lab was going up in flames, I was born again."
+          },
+          {
+            "text": "The place where you planned to change the world is now a pile of ash."
+          },
+          {
+            "text": "HAHAHAHA!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Shut up, Rooney!"
+          },
+          {
+            "text": "Stop buzzing my ear!"
+          },
+          {
+            "text": "It's too late for your lies."
+          },
+          {
+            "text": "Look, it's already dawn."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:X.Borg_lore.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/X.Borg_lore.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/X.Borg_lore.png",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Lethal Nexus",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A mad arsonist who has a deep hatred for Eruditio, has been lurking around waiting for an opportunity to take revenge. After obtaining confidential information about the \"Iron Guardians\", he quietly set out to Laboratory 1718 and plotted a big conspiracy with Octavius.\""
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:XBorg_Lethal_Nexus_Map_Profile.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/XBorg_Lethal_Nexus_Map_Profile.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/XBorg_Lethal_Nexus_Map_Profile.png"
+          },
+          {
+            "file": "File:XBorg_Lethal_Nexus_Map_Background_Story.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/XBorg_Lethal_Nexus_Map_Background_Story.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/XBorg_Lethal_Nexus_Map_Background_Story.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Eruditio's lore has been revamped on July 2023."
+        ],
+        "date": "11 December 2023",
+        "template": "outdated"
+      },
+      {
+        "text": "A mad arsonist who has a deep hatred for Eruditio, has been lurking around waiting for an opportunity to take revenge. After obtaining confidential information about the \"Iron Guardians\", he quietly set out to Laboratory 1718 and plotted a big conspiracy with Octavius.",
+        "template": "quote"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "depth": 2,
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "extra-hp": "20",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Firaga Armor",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "extra-hp": "120",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Fire Missiles (Armorless State)",
+          "Fire Missiles"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Fire Stake (Armorless State)",
+          "Fire Stake"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Last Insanity"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Firaga Armor",
+        "skill-effect-1": "Buff",
+        "term-1": "Max HP",
+        "term-2": "Blink",
+        "term-3": "Damage Immunity",
+        "description": "X.Borg's [HP inherits, and his inherits ] and absorbs all incoming damage when it's active. When the Armor is destroyed, X.Borg will disengage from it and roll in the direction of the Joystick (he is immune to damage [and control effects] in this process). The Armor's energy will gradually regenerate [for 3 energy per second] while X.Borg is in the Armorless State. At full energy, X.Borg re-equips the Armor and restore it to 30% of his [ Armor HP ] . X.Borg's skills deal True Damage in Overheated state.",
+        "notes": "*The HP Armor's \"energy\" is technically not an energy attribute since X.Borg's doesn't benefit from the purple buff and the energy is omitted on his stats.\n*X.Borg's Basic Attack becomes ranged, and  are adjusted, and X.Borg becomes unable to cast  during his Armorless State.\n*X.Borg's state determines HP scaling (including Max HP, Lost HP, and Current HP) from abilities, battle spells, and equipment unique passives, as his HP and Armor HP cannot be combined during the scaling. His Armor HP can only be scaled in his Armored state, while HP can only be scaled during Armorless State.\n*\"Fire damage\" refers only to damage dealt by X.Borg's basic attacks and skills.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "25-100",
+        "total-pa": "60",
+        "total-mp": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Armorless state:",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Fire Missiles",
+        "image-2": "Fire Missiles - Armorless State",
+        "cooldown": "4.0",
+        "skill-effect-1": "AOE",
+        "term-1": "Physical Damage Skill",
+        "term-2": "True Damage",
+        "description": "X.Borg sprays fire, dealing 7 times over 2 seconds to enemies in range (75%–100% damage to Minions).  The attack area becomes narrower but longer, while the damage is reduced to 60%.",
+        "properties": "*Base Damage: 25 / 40 / 55 / 70 / 85 / 100\n*Damage to Minions: 75% / 80% / 85% / 90% / 95% / 100%",
+        "notes": "*Fire Missiles is not visible during stealth. \n*This skill can only be interrupted by high- and ultimate-level control effects.\n*'s cancels this ability upon entering and leaving.",
+        "template": "ability"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "50-100",
+        "total-pa": "20",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Armorless",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Fire Stake",
+        "image-2": "Fire Stake - Armorless State",
+        "cooldown": "12 / 11.4 / 10.8 / 10.2 / 9.6 / 9",
+        "skill-effect-1": "CC",
+        "term-1": "Physical Skill",
+        "term-2": "Displacement",
+        "description": "X.Borg shoots 5 Fire Stakes at the edge of the fan-shaped indicator and retrieves them after 1.7 seconds, each dealing and pulling the enemies in the path toward him. Firaga Supplies in the path will also be retrieved if touched by Fire Stakes.  State: X.Borg adjusts Fire Stake Launcher to increase its range and shorten the distance between Fire Stakes.",
+        "properties": "*Base Damage: 50 / 60 / 70 / 80 / 90 / 100",
+        "notes": "*Retrieving Fire Stakes apply a micro stun to enemies. (Patch Notes 1.7.58)",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "90-110",
+        "extra-pa": "130",
+        "total-mp": "90",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Firaga Armor"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "300-700",
+        "total-hp": "enemy's 15",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Armorless State",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Use Again:",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Last Insanity"
+        ],
+        "template": "ai"
+      },
+      {
+        "text": "[amount needed]",
+        "template": "sup"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Transformers",
+        "name": "Last Insanity",
+        "image-2": "Last Insanity 2",
+        "cooldown": "30.0 / 27.0 / 24.0",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Blink",
+        "energy-cost": "100",
+        "term-1": "Physical Damage Skill",
+        "term-2": "True Damage",
+        "term-3": "Blink",
+        "quote": "My hometown was once a beautiful place.",
+        "description": "X.Borg charges forward in the target direction while rotating and spraying fire, dealing 12 times and slowing enemies by 25%. He stops upon running into an enemy hero and will slow them by an additional 40%. After 3 seconds from the start of the skill, X.Borg's  will detonate, dealing [ to nearby enemies]. If the Armor is destroyed before it can self-detonate, it will only deal 50% of the damage. When his Armor detonates, X.Borg will dash a short distance in the Joystick's direction and enter  while removing all debuffs from himself. This skill cannot be used in the Armorless State.  X.Borg stops spraying fire and immediately detonates his Firaga Armor.",
+        "ls-1": "Base Damage: 200 / 225 / 250",
+        "ls-2": "True Damage: 300 / 500 / 700",
+        "notes": "*X.Borg's movement speed during gradually decays.[amount needed]\n*He gains control immunity within the skill duration.\n*'s  does not cancel this ability.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Masha"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name X.Borg could be likely stands for \"Experimental Cyborg\", referring to his part-human, part-machine nature. \"X\" could symbolize \"Experimental\", as X.Borg was a test subject in Eruditio’s failed technology project. \"Borg\" comes from \"Cyborg\", meaning a human with mechanical enhancements."
+        },
+        {
+          "text": "X.Borg appears to be suffering from pyromania based on his personality and abilities in the game.",
+          "links": [
+            {
+              "text": "pyromania",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "pyromania"
+            }
+          ]
+        },
+        {
+          "text": "Alongside, X.Borg is the only hero to have more than one HP bar."
+        },
+        {
+          "text": "X.Borg is the first hero in MLBB to have two separate HP bars: Armor HP (outer bar), works like a shield and absorbs damage. Real HP (inner bar), when his armor breaks, he enters a weaker \"Frenzy\" state."
+        },
+        {
+          "text": "With Armor HP included and excluded, X.Borg has the lowest base HP in the game at level 1, with 998 and 2499 respectively. He also has the lowest base HP at level 15 with 2524 (with HP Armor excluded.)"
+        },
+        {
+          "text": "Pecados Rioter is the first-ever MLBB skin that could be obtained by playing and reaching Grandmaster in Magic Chess!",
+          "formatting": {
+            "bold": [
+              "Pecados Rioter"
+            ]
+          }
+        },
+        {
+          "text": "The hero's name is similar to Power Rangers Megaforce called X Borgs."
+        }
+      ]
+    ]
+  }
+]

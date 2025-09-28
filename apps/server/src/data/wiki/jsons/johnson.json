@@ -1,0 +1,1026 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "physical_def1": "27",
+        "physical_def15": "139",
+        "magic_def1": "15",
+        "magic_def15": "71",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A super cyborg who can transform into a car and lead his teammates into battle.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Johnson was originally from a planet called Varis, where he worked as a delivery driver."
+          },
+          {
+            "text": "On his world, auto racing was the most illustrious sport, but the major races were almost entirely monopolized by the rich and elite."
+          },
+          {
+            "text": "One day, while on a routine delivery, Johnson became mixed up in a race and even managed to win first place March, to the dismay of the wealthy patrons."
+          },
+          {
+            "text": "To punish this upstart, they plotted for him to have an accident."
+          },
+          {
+            "text": "While driving home a speeding truck sidelined Johnson's car, mangling his body with the twisted steel of the wreck."
+          },
+          {
+            "text": "Miraculously, he survived, and chose to be integrated with his car to create a cyborg body."
+          },
+          {
+            "text": "After a successful operation, he had a roaring engine as his new heart, and began racing to satiate his need for speed."
+          },
+          {
+            "text": "As Johnson raced to his heart's content, he kept going faster and faster until he triggered the slip-space device secretly built into his chassis and crossed into the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Johnson_Lethal_Nexus_Map_Profile.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson_Lethal_Nexus_Map_Profile.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson_Lethal_Nexus_Map_Profile.png"
+          },
+          {
+            "file": "File:Johnson_Lethal_Nexus_Map_Background_Story.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson_Lethal_Nexus_Map_Background_Story.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson_Lethal_Nexus_Map_Background_Story.png"
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:</ref><ref_group=\"note\">Age_information_may_be_out_of_date._This_in-game_event,_which_included_ages_and_other_character_information,_was_held_before_the_Eruditio_region_update_in_2023._For_example,_in_this_event,_[[X.Borg]]'s_age_is_listed_as_26,_but_his_canon_age_is_currently_18,_according_to_his_official_Weibo_profile._For_these_reasons,_all_information_from_this_event_may_be_inaccurate_for_the_current_version.</ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_group%3D%22note%22%3EAge_information_may_be_out_of_date._This_in-game_event%2C_which_included_ages_and_other_character_information%2C_was_held_before_the_Eruditio_region_update_in_2023._For_example%2C_in_this_event%2C_%5B%5BX.Borg%5D%5D's_age_is_listed_as_26%2C_but_his_canon_age_is_currently_18%2C_according_to_his_official_Weibo_profile._For_these_reasons%2C_all_information_from_this_event_may_be_inaccurate_for_the_current_version.%3C%2Fref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_group%3D%22note%22%3EAge_information_may_be_out_of_date._This_in-game_event%2C_which_included_ages_and_other_character_information%2C_was_held_before_the_Eruditio_region_update_in_2023._For_example%2C_in_this_event%2C_%5B%5BX.Borg%5D%5D's_age_is_listed_as_26%2C_but_his_canon_age_is_currently_18%2C_according_to_his_official_Weibo_profile._For_these_reasons%2C_all_information_from_this_event_may_be_inaccurate_for_the_current_version.%3C%2Fref%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Octavius,_{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Octavius%2C_%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Octavius%2C_%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:</ref><ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref%3E"
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Johnson's_info_card.webp",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson's_info_card.webp?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson's_info_card.webp"
+          }
+        ]
+      },
+      {
+        "text": "A super cyborg who can transform into a car and lead his teammates into battle.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "强森 (qiángshēn)"
+        },
+        "alias": {
+          "text": "Wild Engine"
+        },
+        "born": {
+          "text": "Planet Varis"
+        },
+        "origin": {
+          "text": "Eruditio, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "age": {
+          "text": "30",
+          "number": 30
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Johnson was a legend on the world of Varis, a place where speed is everything."
+          },
+          {
+            "text": "Here, the sport of auto racing was monopolized by the rich and elite until Johnson became the first commoner to shatter that mold."
+          },
+          {
+            "text": "But just when he shocked the world by winning his first official race, he vanished without a trace."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The only person who had a clue to Johnson's whereabouts was an old man who claimed to have ridden in his car."
+          },
+          {
+            "text": "According to him, Johnson drove so fast that he tore open the fabric of space and went beyond the stars."
+          },
+          {
+            "text": "However, all of those who have heard the story simply dismissed the old man as being senile."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This old man lived an ordinary life and spent most of it in the slums of the city."
+          },
+          {
+            "text": "He was a construction worker in his youth and helped build many of the city's extravagant sights, including the famous Varis Speedway racetrack."
+          },
+          {
+            "text": "He earned a meager salary for his labor, but enjoyed gazing at the downtown lights and getting lost in their promises of a better life."
+          },
+          {
+            "text": "Years and years passed, and he grew old."
+          },
+          {
+            "text": "He could no longer work like he used to, but his debts continued to pile up."
+          },
+          {
+            "text": "Visits from debt collectors became increasingly frequent and violent, and one night they came for blood."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man ran with everything he had, but he felt like he was sinking in mud."
+          },
+          {
+            "text": "This city that he helped build would surely give him a way out, right?"
+          },
+          {
+            "text": "Little did he know, his salvation was heading towards him at 180 miles an hour..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Hey, get in the car!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man was suddenly pulled into the passenger seat by a firm grip as his pursuers disappeared in the rear-view mirror."
+          },
+          {
+            "text": "Everything happened so quickly that the old man only saw a flash of light, and thought he was finally going to meet his maker."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When he came to his senses, he realized that the driver was just a kid."
+          },
+          {
+            "text": "A young boy that filled up nearly the whole driver's seat."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This was the old man's first time in Johnson's car."
+          },
+          {
+            "text": "He had spent his entire life in Varis, but he had never seen the city like this; at least not at this speed."
+          },
+          {
+            "text": "Johnson drove like he was possessed, speeding around every corner of the city."
+          },
+          {
+            "text": "They were going so fast that the world outside seemed to be moving in slow motion."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"My pops always said to be fast!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man didn't know what kind of father this boy had, but the boy spoke of him with a sparkle in his eyes and held those words dear to his heart."
+          },
+          {
+            "text": "For the first time, the old man began to understand why the people of Varis kept saying that speed was passion, and the pinnacle of speed was the limits of the universe."
+          },
+          {
+            "text": "After experiencing such extreme speed, he gained a deeper understanding of the city."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The people were always coming and going in a hurry, and it was all exemplified by the words of Johnson's father: \"Be fast!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man did not see the boy for many years after that fateful ride."
+          },
+          {
+            "text": "He returned to the construction site despite being too old and sickly for the work."
+          },
+          {
+            "text": "He looked up just as a pipe came crashing down from the top floors."
+          },
+          {
+            "text": "He closed his eyes and thought he would finally be free of his debts."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Suddenly, there was another flash of light, and a figure, or rather the silhouette of a car sped through and grabbed the old man."
+          },
+          {
+            "text": "For a moment, he could not comprehend what he was seeing..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I've gotten faster, right? Hahaha!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was Johnson!"
+          },
+          {
+            "text": "He's become... half machine, half car?"
+          },
+          {
+            "text": "A roaring engine was now Johnson's new heart, and a carbon frame was his body."
+          },
+          {
+            "text": "On both sides of him stood exhaust pipes that looked like bottle rockets."
+          },
+          {
+            "text": "In this world where speed is everything, the old man couldn't think of a more fitting body for Johnson."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But it was tragedy that led to this moment."
+          },
+          {
+            "text": "Johnson and his father had gotten into a terrible car accident, and only Johnson survived the crash."
+          },
+          {
+            "text": "He didn't have the money to pay for expensive prosthetics, so he allowed the doctors to perform an experimental procedure to fuse him with his car."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man furrowed his brow."
+          },
+          {
+            "text": "This kid had managed to outrun death."
+          },
+          {
+            "text": "And not once, but twice!"
+          },
+          {
+            "text": "Despite his age, he saw in Johnson the true meaning of speed."
+          },
+          {
+            "text": "It felt strange, yet real."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the old man said goodbye to Johnson for the second time, he had a feeling that they would meet at the edge of the universe someday."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man's life went on uneventfully after that, until the day he saw Johnson on a jumbotron, crossing the finish line at Varis Speedway."
+          },
+          {
+            "text": "That kid had performed a miracle!"
+          },
+          {
+            "text": "He was the first commoner to win an official race."
+          },
+          {
+            "text": "He became a trailblazer and a beacon of hope for the lower class; the catalyst that will change this world forever."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Excitement surged through the old man's veins, and he began dreaming of becoming like Johnson; to have passion pumped through a roaring engine into his soul."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Johnson did not show up at the podium after his win."
+          },
+          {
+            "text": "When he crossed the finish line, something triggered in his mechanical body and a blinding light appeared ahead like a doorway to another world."
+          },
+          {
+            "text": "And just like that, Johnson, who had just become a legend in his world, vanished into the light."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Johnson was my apprentice, you know. Now he's out there among the stars. There! That's him!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man got his wish and became like Johnson, and now lives his life at breakneck speed."
+          },
+          {
+            "text": "In his spare time, the old man would tell stories about his time with Johnson."
+          },
+          {
+            "text": "He still believes that if you can go fast enough, you can leave this mundane world and soar into the cosmos, just like Johnson did."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Johnson, at this time, had just arrived on a strange new world."
+          },
+          {
+            "text": "To him, this just meant new faces to meet, new places to explore, and new speed limits to break."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Hey, you with the ponytails. Wanna race?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The roar of his engine echoed throughout Eruditio."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Johnson_lore.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson_lore.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Johnson_lore.png",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Lethal Nexus",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A car transformer and the member of Eruditio Rangers. At the final of \"Survival: Nexus\", a large number of Eruditio residents gathered at Plaza Circular to watch the game. Johnson and Chou maintain the order of the plaza together. After riot of the Iron Guardians, the Plaza Circular was thrown into chaos. Johnson and the others evacuated civilians while fighting with the Iron Guardians, but were outnumbered. They are in grave peril.\""
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Eruditio's lore has been revamped on July 2023."
+        ],
+        "date": "11 December 2023",
+        "template": "outdated"
+      },
+      {
+        "text": "A car transformer and the member of Eruditio Rangers. At the final of \"Survival: Nexus\", a large number of Eruditio residents gathered at Plaza Circular to watch the game. Johnson and Chou maintain the order of the plaza together. After riot of the Iron Guardians, the Plaza Circular was thrown into chaos. Johnson and the others evacuated civilians while fighting with the Iron Guardians, but were outnumbered. They are in grave peril.",
+        "template": "quote"
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "depth": 2
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "300",
+        "total-pdef": "700",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Transformers",
+        "variations-2": "Legend",
+        "name": "Electro Airbag",
+        "skill-effect-1": "Shield",
+        "description": "When Johnson's drops below 30%, he gains a  for 10 seconds. Cooldown: 100.0 seconds.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "120-220",
+        "total-pdef": "220",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Transformers",
+        "variations-2": "Legend",
+        "name": "Impact Wrench",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "spellvamp-ratio": "50%",
+        "cooldown": "8.0",
+        "description": "Johnson throws his wrench toward the target location, dealing to enemies in its path. Enemies around the landing point are stunned for 0.8 seconds.",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Stun",
+        "level-scaling": "Base Damage: 120 / 140 / 160 / 180 / 200 / 220",
+        "notes": "*This skill is disabled when Johnson transforms into a car.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm total\\ skill\\ DMG\\ against\\ Creeps} = \\Bigl\\{\\bigl[ 60 + (20 \\times skill\\ lv.) + 60%\\ total\\ magic\\ power \\bigr] + 60% \\Bigr\\}+ (15% \\times no.\\ of\\ stacks),\\ where\\ 0 \\leq no.\\ of\\ stacks \\leq 3",
+        "raw": "{\\rm total\\ skill\\ DMG\\ against\\ Creeps} = \\Bigl\\{\\bigl[ 60 + (20 \\times skill\\ lv.) + 60%\\ total\\ magic\\ power \\bigr] + 60% \\Bigr\\}+ (15% \\times no.\\ of\\ stacks),\\ where\\ 0 \\leq no.\\ of\\ stacks \\leq 3"
+      },
+      {
+        "base": "80-180",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Purify"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Transformers",
+        "variations-2": "Legend",
+        "name": "Electromagnetic Waves",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Slow",
+        "spellvamp-ratio": "50%",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "description": "Johnson raises his shield, continuously dealing to enemies in a fan-shaped area in the target direction and slowing them by 20%. Each instance of damage also increases the enemy's subsequent damage taken from the skill by 15% (up to 45%). This damage is increased by 60% against creeps. Johnson can cast Basic Attacks and skills for the duration.",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Stun",
+        "stack-scaling": "Damage Increase Per Enemy's Subsequent Damage Taken: 0% / 15% / 30% / 45%",
+        "level-scaling": "Duration: 3.5\nBase Damage: 80 / 100 / 120 / 140 / 160 / 180",
+        "notes": "*Electromagnetic Waves can deal up to 8 times within the duration. The interval in between damage is undetermined.\n*This skill can only be interrupted by high- and ultimate-level control effects.\n*The damage increase applied to an enemy counts as a debuff and can be removed by skills such as.",
+        "template": "ability"
+      },
+      {
+        "variations-1": "Transformers",
+        "variations-2": "Legend",
+        "name": "Nitrous",
+        "skill-effect-1": "Speed Up",
+        "cooldown": "0.0",
+        "description": "Hold the \"Nitrous\" skill to increase speed for up to 5 seconds, the acceleration stopping immediately once released.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Car="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Hop In",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "300-400",
+        "total-mp": "160",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "450-600",
+        "total-mp": "280",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[speed unknown]",
+        "template": "sup"
+      },
+      {
+        "base": "60-80",
+        "total-mp": "20",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Brake"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Nitrous"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Imperial Justice"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Angela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Heartguard"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Hanzo"
+        ],
+        "template": "hi"
+      },
+      {
+        "variations-1": "Transformers",
+        "variations-2": "Legend",
+        "name": "Full Throttle",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "CC",
+        "spellvamp-ratio": "50%",
+        "cooldown": "36.0 / 33.0 / 30.0",
+        "description": "Johnson transforms into a car and begins accelerating over time. An allied hero can use when near Johnson to board the car (only 1 allied hero can ride with Johnson). The car will explode upon hitting an enemy hero or obstacle, dealing – to nearby enemies. stunning them for 0.5–1 second (scales with the car's speed before impact),[speed unknown] and creating an electrified zone at the location. The zone continuously deals  and slows enemies within. While in car state, tap  to stop immediately or hold  to continuously gain speed for up to 5 seconds. Johnson's location will be\nrevealed to the enemy for 3 seconds when casting this skill.  Johnson's Physical Defense is increased by 10%–30%.",
+        "term-1": "Charge",
+        "term-2": "Stun",
+        "term-3": "Physical Defense",
+        "properties": "Skill Duration: &approx;2 hours, or until he bumps into something\nElectrified Zone Duration: 4.0\nPhysical Defense Bonus: 10% / 20% / 30%\nMin Damage: 300 / 350 / 400\nMax Damage: 450 / 525 / 600\nSustained Damage: 60 / 70 / 80",
+        "notes": "*Full Throttle deals damage against Turrets.\n*The damage scales on speed is capped at the top speed achieved without Nitrous, and activating one will not increase the damage further.\n* With enough speed, it is possible for Johnson to outdrive incoming turret damage while driving.\n* 's can restrain Johnson from moving in car.\n*Electrified zone an deal up to 9 times within the duration. The interval in between damage is undetermined.\n* It is possible to carry up to 2 passengers at a time, if  possesses Johnson or his passenger with .\n* Johnson can't carry 's body but his Hanekage.\n*This skill can only be interrupted by suppression.",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Full Throttle"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Transformers",
+        "variations-2": "Legend",
+        "name": "Brake",
+        "skill-effect-1": "Cancel",
+        "skill-effect-2": "CC",
+        "cooldown": "0.0",
+        "description": "Same description as .",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Car="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "name": "Electro Airbag",
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Impact Wrench"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Physical Defense"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Odette",
+        "template": "hero icon"
+      },
+      {
+        "name": "Swan Song",
+        "template": "ability icon"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Johnson is one of the most unique heroes not only in Mobile Legends but in the world of MOBA."
+        },
+        {
+          "text": "The old version of Johnson was one of the characters in Mobile Battleground - Blitz.",
+          "formatting": {
+            "italic": [
+              "Mobile Battleground - Blitz"
+            ]
+          }
+        },
+        {
+          "text": "Johnson's \"Jeepney Racer\" is a tribute to the Philippines. This special Elite skin turns Johnson into a colorful Philippine jeepney, honoring the country’s iconic public transport.",
+          "links": [
+            {
+              "text": "Philippines",
+              "type": "external",
+              "site": "https://www.britannica.com/place/Philippines"
+            },
+            {
+              "text": "jeepney",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Jeepney"
+            }
+          ]
+        },
+        {
+          "text": "Johnson's and  are the only skills in the game that scales with."
+        },
+        {
+          "text": "Johnson's ultimate pairs very well on heroes with high damage AoE abilities; his most popular pair being thanks to her  (Ultimate). This is referenced on his Mastery Code."
+        },
+        {
+          "text": "Johnson in his quote \"Autobots? Sounds familiar.\", and when transforming into a car using his ultimate ability are references to Autobots from the Transformers franchise which later became a collaboration skin in the game.",
+          "links": [
+            {
+              "text": "Autobots",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Autobot"
+            },
+            {
+              "text": "Transformers",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Transformers_(film_series)"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

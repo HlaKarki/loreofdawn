@@ -1,0 +1,830 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ],
+    "lists": [
+      [
+        {
+          "text": "\"Bane\" redirects here. For the Passive skill \"Enemy's Bane,\" see Saber &sect; Passive.",
+          "links": [
+            {
+              "text": "Saber &sect; Passive",
+              "type": "internal",
+              "page": "Saber",
+              "anchor": "Passive"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "\"Bane\" redirects here. For the Passive skill \"Enemy's Bane,\" see Saber &sect; Passive."
+            ]
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Cruel pirate leader, Franco's sworn enemy\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bane is a pirate stationed in the Frozen Ocean."
+          },
+          {
+            "text": "He once ruthlessly ruled the vast seas of the Northern Vale.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "He was a sworn enemy of Franco, later suffering a defeat at Franco's hands."
+          },
+          {
+            "text": "By chance, he became the half-man, half-octopus he is today."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Atlas"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Franco"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Freya"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Cruel pirate leader, Franco's sworn enemy",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Bane trailer.png"
+        },
+        "alias": {
+          "text": "*Frozen King\n*Lord of Heptaseas (prev.)\n*Lord of the Seven Seas (prev.)"
+        },
+        "species": {
+          "text": "Half-man, half-octopus"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "*Leader of Black Shark Pirates\n*Captain of Behemoth pirate ship"
+        },
+        "affiliation": {
+          "text": "Black Shark Pirates"
+        },
+        "weapons": {
+          "text": "*Blade of the Heptaseas\n*Crab Claw Cannon",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Blade of the Heptaseas"
+            },
+            {
+              "text": "Crab Claw Cannon",
+              "type": "internal",
+              "page": "Bane",
+              "anchor": "SKill 1"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Infuses his blade with Tidal Energy\n*Drinks ale and spits venom afterwards\n*Summons school of sharks",
+          "links": [
+            {
+              "text": "Infuses his blade with Tidal Energy",
+              "type": "internal",
+              "page": "Bane",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Drinks ale and spits venom afterwards",
+              "type": "internal",
+              "page": "Bane",
+              "anchor": "Skill 2"
+            },
+            {
+              "text": "Summons school of sharks",
+              "type": "internal",
+              "page": "Bane",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "Fighters on the Stormy Sea",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Fighters on the Stormy Sea"
+            }
+          ]
+        },
+        "traits": {
+          "text": "Cruel, cunning, violent, and tyrannical"
+        },
+        "relationships": {
+          "text": "*Unnamed uncle (killed by Bane)\n*,, (enemies)"
+        },
+        "en_va": {
+          "text": "Andy Mack (2021–)",
+          "links": [
+            {
+              "text": "Andy Mack",
+              "type": "internal",
+              "page": "imdb:nm2578595"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Takeda Taichi (武田 太一)",
+          "links": [
+            {
+              "text": "Takeda Taichi (武田 太一)",
+              "type": "internal",
+              "page": "imdb:nm9927957"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The excellent jewelry and leather products of the people of the Northern Vale not only gave rise to their booming maritime trade economy, but also brought about many illegal dealings, such as with the notorious pirates of the Northern Vale.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "For a long time, the pirates of the Frozen Seas and other sea regions existed as bands.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frozen Seas"
+              }
+            ]
+          },
+          {
+            "text": "They divided territories between themselves, and held to a principle of non-interference, plundering only merchant ships that passed through their own territories, to enrich themselves."
+          },
+          {
+            "text": "This became the de facto rule of the Pirate community."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This widely respected order lasted until the arrival of Bane and his men."
+          },
+          {
+            "text": "Cruel, cunning, violent, and tyrannical&#8230; No list of adjectives commonly given to pirates would be enough to describe Bane's terrible reputation."
+          },
+          {
+            "text": "Born into a family of pirates, Bane was raised and trained in the strictest manner from childhood."
+          },
+          {
+            "text": "By the time he became an adult, Bane was already the most feared pirate of his time."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But young Bane's ambition was far greater than this."
+          },
+          {
+            "text": "Not long after, Bane murdered his uncle, and assumed control of the Behemoth, a seaborne fortress with an enormous battering ram and dozens of cannons, hence truly becoming Captain Bane."
+          },
+          {
+            "text": "He then broke the ancient rule of the pirates, and started to encroach upon other pirates' territories."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Facing Bane's incredible firepower and terrible cruelty, the other pirates had only two options: submit, or be annihilated."
+          },
+          {
+            "text": "More and more fugitives and opportunists gathered under Bane's flag, earning him enough funds to establish a huge Pirate fleet, which came to be known as the Black Sharks."
+          },
+          {
+            "text": "For many years, Bane dominated all of the Frozen Seas's sea routes, literally ruling the people of Northern Vale's coast with an iron fist, and the ever-victorious sea dweller, named himself Lord of the Seven Seas."
+          },
+          {
+            "text": "Some people within Northern Vale who could no longer bear Bane's despotic rule armed themselves and gathered under the banner of his nemesis Franco, to wage a war of resistance against Bane.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franco"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The desperate Bane ordered his men to risk everything to sink Franco's fleet, but after even after several hours of battle, he was still unable to gain an advantage."
+          },
+          {
+            "text": "At this time, Bane learned of a secret: the Aurora Heart, one of the fragments of the mysterious and powerful Twilight Orb, lay somewhere in the depths the Frozen Sea, and it contained a powerful regenerative power that could help him achieve his dream of conquering the world.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Twilight Orb"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bane came up with a cunning plan to kill two birds with one stone."
+          },
+          {
+            "text": "First, he would let the information out, to attract the attention of the Moniyan Empire's Navy.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "Then, he would pretend to sue for peace with Franco, revealing the location of the Aurora Heart, and falsely expressing an intention for them to jointly rule the Frozen Sea."
+          },
+          {
+            "text": "However, the true intention of his goal was to use Franco's forces and the Moniyan Empire to help him locate the Ionic Heart, while provoking a battle between them, so the Empire would probably destroy his arch nemesis."
+          },
+          {
+            "text": "He would then swoop in amidst the chaos to seize the Aurora Heart for himself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Everything went just as Bane had planned."
+          },
+          {
+            "text": "The Moniyan Empire's massive navy had departed from Castle Grandrock's harbour.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Castle Grandrock"
+              }
+            ]
+          },
+          {
+            "text": "Meanwhile, Franco seemed to have believed in him, and led his fleet to search for the Aurora Heart."
+          },
+          {
+            "text": "Both parties finally ran into each other in a narrow region on the eastern edge of the Frozen Sea."
+          },
+          {
+            "text": "As each had been unaware of the other's existence, the Moniyan fleet and Franco's fleet were caught in a tense face-off."
+          },
+          {
+            "text": "Bane's opportunity had arrived."
+          },
+          {
+            "text": "He ordered his men to sneak into both fleets with fast and stealthy boats and suddenly open fire, thus igniting a massive naval battle."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After both sides had been heavily decimated in the ensuing battle, the mastermind Bane arrived aboard the enormous Behemoth."
+          },
+          {
+            "text": "He looked upon the terrible aftermath of his plan with glee, while commanding his men to destroy the surviving ships and seize the Aurora Heart."
+          },
+          {
+            "text": "Bane smiled contemptuously as he appreciated the \"beautiful\" scene before him, and savored the hateful curses of the Moniyans."
+          },
+          {
+            "text": "With almost no effort at all, he had manipulated the Moniyans, and eradicated Franco."
+          },
+          {
+            "text": "All he needed now was to find the Aurora Heart, and he would have power enough to conquer the world."
+          },
+          {
+            "text": "Then, neither the Moniyan Empire nor the demons of the Abyss would be able to stand against him..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Just as Bane was exalting in his victory, a huge cannon fired from the fleet behind the Behemoth, making a direct hit on the flagship."
+          },
+          {
+            "text": "The battle-hardened Behemoth and its owner were blown up to pieces that sank to the bottom of the sea and were never seen again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bane suffered a tragic death, or so was what those who witnessed the explosion and sinking of the Behemoth believed."
+          },
+          {
+            "text": "His enormous pirate fleet disintegrated and scattered, and peace was restored to the Frozen Sea."
+          },
+          {
+            "text": "The man who had fired the cannon was none other than Bane's nemesis, Franco."
+          },
+          {
+            "text": "Franco had never trusted Bane, and was suspicious of his sudden peaceful overtures."
+          },
+          {
+            "text": "Hence, he ordered his men to pretend to take the bait and search the seas, while he led a small contingent of sailors to infiltrate and seize one of Bane's ships during the night."
+          },
+          {
+            "text": "When Bane was at his most complacent, Franco gave the order to fire upon his flagship, dealing Bane a fatal blow."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bane's age of piracy was over, and would gradually be forgotten, while Franco would become the new ruler of the Northern Vale coastline."
+          },
+          {
+            "text": "But in the depths of the ocean, the shattered Captain Bane suddenly opened his eyes amidst an ancient and abandoned ruin, awakened by a bright light."
+          },
+          {
+            "text": "The strange object before him radiated a mesmerizing power."
+          },
+          {
+            "text": "As if possessed, his broken body regained consciousness."
+          },
+          {
+            "text": "He was brought back to life and he could now have his [long-lost] revenge, because of the Aurora Heart that Bane had spent so much effort searching for."
+          },
+          {
+            "text": "Having been in despair at his complete defeat, Bane smiled grimly as he approached the Aurora Heart."
+          },
+          {
+            "text": "Upon touching it, a tremendous power surged through him, repairing his shattered body, completely."
+          },
+          {
+            "text": "Even though, Bane resurrected, he looked like a zombie, since his body was torn apart in the explosion and many parts were missing."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "What Bane could not imagine was that a giant octopus had just then picked him out as its prey, reaching out to him as he laid hands on the Aurora Heart."
+          },
+          {
+            "text": "As he fought the octopus, Bane was forced to release his grip on the Aurora Heart, letting it fly from his hands and sink into the sea."
+          },
+          {
+            "text": "However, it's residual energy enveloped Bane and the octopus, and started fusing them into one, transforming him into an anthropomorphic octopus."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the Northern Vale's shores, the coming and going merchant ships were busily loading and unloading cargo."
+          },
+          {
+            "text": "In the distant waters, the resurrected Captain Bane was no longer bemoaned his repeated failures."
+          },
+          {
+            "text": "Looking at his new cursed body and the familiar seas, he smiled once again."
+          },
+          {
+            "text": "He had finally awakened from the briny depths, and bringing about his tattered Black Pearl, he was ready to announce his return and renew his reign as the undignified pirate, that he was."
+          },
+          {
+            "text": "This was just the beginning of the game."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Teeth of the Storm",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "After Bane died at sea, the pirates who once served him were plunged into chaos."
+          },
+          {
+            "text": "Some of them fled."
+          },
+          {
+            "text": "Others were reformed, becoming fishermen."
+          },
+          {
+            "text": "Still others rose up again, fighting one another for territory."
+          },
+          {
+            "text": "Sigismund and his men belonged to the latter group."
+          },
+          {
+            "text": "They had just fought a fierce battle, and suffered heavy losses."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That night, when Sigismund was alone, contemplating his next move, a shadowy figure knocked lightly on his cabin door."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Your captain has returned.\""
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Fighters on the Stormy Sea",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Fighters on the Stormy Sea"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Tidal Energy",
+          "stack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "total-pa": "100",
+        "template": "scale"
+      },
+      {
+        "base": "3.5",
+        "level": "0.3",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "200",
+        "level": "20",
+        "template": "scale"
+      },
+      {
+        "total-pa": "100",
+        "template": "scale"
+      },
+      {
+        "name": "Shark Bite",
+        "skill-effect-1": "Burst",
+        "description": "Bane infuses his weapon with a stack of each time he uses a skill (up to 2 stacks). Each of his subsequent Basic Attacks consumes a stack to deal  equal to  plus  of the target's  to nearby enemies. (Percent damage dealt based on Max HP Damage Cap against Creeps: . (see Patch Notes 1.7.82 Balance Adjustment))",
+        "cast-range": "3",
+        "level-scaling": "Damage dealt based on enemy's Max HP: 3.8% / 4.1% / 4.4% / 4.7% / 5.0% / 5.3% / 5.6% / 5.9% / 6.2% / 6.5% / 6.8% / 7.1% / 7.4% / 7.7% / 8.0%\nEnemy's Max HP Damage Cap against Creeps: 220 / 240 / 260 / 280 / 300 / 320 / 340 / 360 / 380 / 400 / 420 / 440 / 460 / 480 / 500",
+        "term-1": "Physical Basic Attack",
+        "notes": "*Bane's enhanced basic attacks deals splash damage around him.\n*Stack(s) lasts for 8 seconds. Its timer resets when it is until consumed by Bane's next enhanced Basic Attack.\n*Only the portion of his enhanced basic attack can critically strike.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm Skill\\ 1\\ CD} = \\Bigl\\{\\bigl[8.4 - (0.4 \\times hero\\ lv.)\\bigr] \\times (1 - CD\\ reduction)\\Bigr\\} \\times \\bigl[ 1 -(physical\\ attack \\times 0.08%)\\bigr]",
+        "raw": "{\\rm Skill\\ 1\\ CD} = \\Bigl\\{\\bigl[8.4 - (0.4 \\times hero\\ lv.)\\bigr] \\times (1 - CD\\ reduction)\\Bigr\\} \\times \\bigl[ 1 -(physical\\ attack \\times 0.08%)\\bigr]"
+      },
+      {
+        "base": "150-350",
+        "total-pa": "160",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "10",
+        "total-mp": "10",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Crab Claw Cannon"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Total Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Total Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Crab Claw Cannon",
+        "skill-effect-1": "Damage",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "mana-cost": "40",
+        "description": "Bane fires his Crab Claw Cannon in the target direction, dealing to the first enemy hit and then 150%–200% damage to a random enemy behind them (prioritizes enemy heroes). Enemies hit are slowed by % for 1 second. Every 100  that Bane possesses reduces this skill's cooldown by an additional 8%.",
+        "level-scaling": "Base Damage: 150 / 190 / 230 / 270 / 310 / 350\n*Extra Damage: 150% / 160% / 170% / 180% / 190% / 200%",
+        "term-1": "Physical Damage Skill",
+        "notes": "*'s cooldown reduction is linear to Bane's and not stepwise at every 100 points of  that Bane possesses.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "\\mathrm{total\\ skill\\ damage} = skill\\ damage \\times [1 + (0.2 \\times charging\\ time)]",
+        "raw": "\\mathrm{total\\ skill\\ damage} = skill\\ damage \\times [1 + (0.2 \\times charging\\ time)]"
+      },
+      {
+        "template": "math",
+        "formula": "{\\rm Skill\\ 1\\ CD} = \\Bigl\\{\\bigl[8.1 - (0.6 \\times hero\\ lv.)\\bigr] \\times (1 - CD\\ reduction)\\Bigr\\} \\times \\bigl[ 1 -(magic\\ power \\times 0.07%)\\bigr]",
+        "raw": "{\\rm Skill\\ 1\\ CD} = \\Bigl\\{\\bigl[8.1 - (0.6 \\times hero\\ lv.)\\bigr] \\times (1 - CD\\ reduction)\\Bigr\\} \\times \\bigl[ 1 -(magic\\ power \\times 0.07%)\\bigr]"
+      },
+      {
+        "base": "200",
+        "total-mp": "150",
+        "template": "scale"
+      },
+      {
+        "base": "5-10",
+        "total-mp": "1.5",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "lost HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Use Again:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "250-450",
+        "total-mp": "180",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Magic Power"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Ale"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Total Magic Power"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Total Magic Power"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Ale",
+        "skill-effect-1": "Heal",
+        "skill-effect-2": "AOE",
+        "cooldown": "7.5 / 6.9 / 6.3 / 5.7 / 5.1 / 4.5",
+        "mana-cost": "60 / 70 / 80 / 90 / 100 / 110",
+        "description": "Bane chugs his ale, recovering plus % of his  and gaining 50% extra Movement Speed that decays over 2.5 seconds.  Bane spits venom in the target direction, dealing   (scales up to 150% with charging time) to enemies in a fan-shaped area. Every 100  Bane possesses additionally reduces this skill's cooldown by 7%.",
+        "list": [
+          "spellvamp-ratio-50%"
+        ],
+        "level-scaling": "HP Regen: 5% / 6% / 7% / 8% / 9% / 10%\nVenom Damage: 250 / 290 / 330 / 370 / 410 / 450",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Healing Effect",
+        "term-3": "Movement Speed",
+        "notes": "*'s cooldown reduction is linear to Bane's and not stepwise at every 100 points of  that Bane possesses.\n*Bane can fully charge the skill for 2.5 seconds, and can overcharge for another 2 seconds.\n*Cooldown starts when the skill ends.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "600-1000",
+        "total-pa": "100",
+        "total-mp": "170",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Deadly Catch",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "CC",
+        "cooldown": "40.0 / 35.0 / 30.0",
+        "mana-cost": "120 / 140 / 160",
+        "description": "Bane summons a school of sharks to charge in a target direction, dealing, knocking them airborne for 0.8 seconds, and slowing them by 65% (decays over 3 seconds). This skill deals 40% of damage to turrets.",
+        "list": [
+          "spellvamp-ratio-50%"
+        ],
+        "level-scaling": "Base Damage: 600 / 800 / 1000",
+        "term-1": "Airborne",
+        "term-2": "Movement Speed",
+        "notes": "*Deadly Catch also applies knockback effect.\n*Turrets are not affected by Deadly Catch's item effects.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Valir"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "His 2016–2021 voice and quotes are from the character Pandarus from Magic Rush: Heroes. Bane and Pandarus have nothing in common nor any similarity in design or playstyle.",
+          "links": [
+            {
+              "text": "Pandarus",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/Pandarus"
+            }
+          ]
+        },
+        {
+          "text": "When Bane's rework was first leaked, he had the face of an anglerfish."
+        },
+        {
+          "text": "His character design, as well as his background, are somewhat based on Davy Jones of the Pirates of the Caribbean film series.",
+          "links": [
+            {
+              "text": "Davy Jones",
+              "type": "internal",
+              "page": "wp:Davy_Jones_(character)"
+            },
+            {
+              "text": "Pirates of the Caribbean film series",
+              "type": "internal",
+              "page": "wp:Pirates_of_the_Caribbean_(film_series)"
+            }
+          ]
+        },
+        {
+          "text": "His season 11 skin \"Warlord\" was changed to \"Dictator,\" but it was secretly changed again because the then-newly-released 's starlight skin's name is also \"Dictator.\""
+        }
+      ]
+    ]
+  }
+]

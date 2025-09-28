@@ -1,0 +1,1141 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermillion Bird's power.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling once belonged to the Finch Sect, a mysterious and feared order of assassins from the Cadia Riverlands.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cadia Riverlands"
+              }
+            ]
+          },
+          {
+            "text": "During a mission, he nearly lost his life but was saved by the Vermilion Bird; it was an encounter that would kindle his yearning for freedom."
+          },
+          {
+            "text": "In a bargain to leave the Finch Sect, he undertook one last mission to infiltrate the Dragon Altar.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dragon Altar"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It wasn't until he allied with Yu Zhong, the reincarnation of the Black Dragon, to break the seal of the Dragon Altar, that the spirit of the Vermilion Bird once again saved his life.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yu Zhong"
+              }
+            ]
+          },
+          {
+            "text": "Only then did he see the truth and understand the meaning of freedom."
+          },
+          {
+            "text": "In this world, the Vermilion Bird had faded away, leaving only Ling, a young man with wings to soar freely among the clouds like the Cyan Finch."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Ling_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ling_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ling_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Ling_and_Zilong_child.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ling_and_Zilong_child.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ling_and_Zilong_child.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Ling_Profile.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ling_Profile.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ling_Profile.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "1",
+          "15"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Zilong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Baxia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Wanwan"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zetian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yu Zhong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermillion Bird's power.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "affiliation": {
+          "text": "*Finch Sect\n*Oriental Figthers\n*Four Immortals",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Oriental Figthers"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Defiant Sword",
+          "links": [
+            {
+              "text": "Defiant Sword",
+              "type": "internal",
+              "page": "Ling",
+              "anchor": "Skill 2"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "Qinggong",
+          "links": [
+            {
+              "text": "Qinggong",
+              "type": "internal",
+              "page": "Ling",
+              "anchor": "Skill 1"
+            }
+          ]
+        },
+        "height": {
+          "text": "180 cm"
+        },
+        "traits": {
+          "text": "Unparalleled Courage and Swordsmanship"
+        },
+        "relationships": {
+          "text": "* (co-Oriental Fighter, fellow disciple, rival)\n*, (co-Oriental Fighters)\n* (companion)\n*,  (enemies)\n*Great Dragon (master)\n*The Spirit of the Vermillion Bird",
+          "links": [
+            {
+              "text": "Oriental Fighter",
+              "type": "internal",
+              "page": "Oriental Fighters"
+            },
+            {
+              "type": "internal",
+              "page": "Great Dragon"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Yuutarou Shirato (祐太郎)",
+          "links": [
+            {
+              "text": "Yuutarou Shirato (祐太郎)",
+              "type": "external",
+              "site": "https://anidb.net/creator/61130"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Richard Miracle Rehabeam Toelle"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "I am the Cyan Finch",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"From now on, you are the Vermilion Bird. When the bird's cry echoes through the Dragon Altar, you will soar.\"",
+            "formatting": {
+              "italic": [
+                "\"From now on, you are the Vermilion Bird. When the bird's cry echoes through the Dragon Altar, you will soar.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling was not like the other members of the Finch Sect—different in talent and circumstance."
+          },
+          {
+            "text": "And he was treated differently by the elder."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Finch Sect, an order of assassins from the Cadia Riverlands, takes in orphans, training and honing them to be renowned killers."
+          },
+          {
+            "text": "The disciples of Finch Sect are numerous, each with their own reasons for fighting."
+          },
+          {
+            "text": "Some are blindly loyal to the Finch Sect, some were never given a choice, and others are driven by the pursuit of power... Whatever the reason, once one becomes a Finch of the Sect, their life belongs to it."
+          },
+          {
+            "text": "Not a single Finch has ever left the nest."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling became the prodigy of the Finch Sect at a young age."
+          },
+          {
+            "text": "His skills had quickly surpassed his peers and he was known to have never failed a mission."
+          },
+          {
+            "text": "The other members would often whisper: \"That man is not like us. Perhaps one day, he will leave the Finch Sect and spread his wings.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"But... what then?\" A young Finch hesitantly interjected.",
+            "formatting": {
+              "italic": [
+                "\"But... what then?\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He was met with silence."
+          },
+          {
+            "text": "It was a good question."
+          },
+          {
+            "text": "If they left the Sect, where could they go?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At that moment, Ling sheathed his sword and leaped away."
+          },
+          {
+            "text": "As the wind brushed his face, he suddenly recalled something from the past."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Ling was on a mission in his younger years, he encountered a bird merchant."
+          },
+          {
+            "text": "The merchant raised beautiful birds for others to enjoy."
+          },
+          {
+            "text": "But these birds were caged from birth and never experienced the freedom that was their natural right."
+          },
+          {
+            "text": "Even if the cage door was opened, they wouldn't know where to go."
+          },
+          {
+            "text": "At that time, a young man nearby suddenly said, \"Something born with wings belongs in the sky. What a pity.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Later, Ling became friends with that young man, who turned out to be a disciple of the Tianyin Swordmaster Sect named Zilong.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zilong"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The next time he met Zilong, Ling had changed his identity."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That day, the Finch Sect elder summoned Ling, and behind heavy curtains, uttered only four words: \"The time has come.\""
+          },
+          {
+            "text": "The next day, Ling was sent on an impossible mission—to assassinate the guardian of the Dragon Altar, Baxia.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baxia"
+              }
+            ]
+          },
+          {
+            "text": "Ling's sword was resolute, but Baxia was too formidable."
+          },
+          {
+            "text": "Ling was no match for the veteran who survived the Battle of the Twin Dragons, yet he couldn't turn back."
+          },
+          {
+            "text": "On the verge of death, Ling suddenly heard birds chirping and saw a flickering of flames; a fiery bird appeared in front of him."
+          },
+          {
+            "text": "Its appearance even caused Baxia to shift into his true form, the Mystic Tortoise."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"...The Vermilion Bird?!\"",
+            "formatting": {
+              "italic": [
+                "\"...The Vermilion Bird?!\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It worked."
+          },
+          {
+            "text": "As long as Baxia believed he was the Vermilion Bird, he wouldn't kill Ling."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling soon lost consciousness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He saw the fiery bird again."
+          },
+          {
+            "text": "In the darkness, they looked at each other in silence."
+          },
+          {
+            "text": "From the elder, from Baxia, and from the scriptures in the Finch Sect, he knew it was the Vermilion Bird."
+          },
+          {
+            "text": "Since childhood, whenever Ling was on the brink of death, the bird would appear before him and shield him from disaster."
+          },
+          {
+            "text": "Ling did not know where it came from, for it never spoke."
+          },
+          {
+            "text": "He only knew this familiar dark space and flickering flame."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When he woke up, Baxia took him to see Zilong—the successor of the Cloud Dragon."
+          },
+          {
+            "text": "Together, they returned to the Dragon Altar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Life at the Dragon Altar with Baxia and Zilong was peaceful, with most days spent practicing martial arts."
+          },
+          {
+            "text": "Baxia was rarely seen, so Ling spent most of his time with Zilong."
+          },
+          {
+            "text": "Zilong practiced his spear daily without slack, but whenever they sparred, Zilong seldom won."
+          },
+          {
+            "text": "After one match, Ling couldn't help but ask Zilong about why he practiced his spear."
+          },
+          {
+            "text": "Zilong did not have an answer."
+          },
+          {
+            "text": "And in that moment, tumultuous waves surged in Ling's heart—did Zilong really not have a reason... or did he never need one, for he simply followed his heart."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This feeling... was it envy?"
+          },
+          {
+            "text": "Resentment?"
+          },
+          {
+            "text": "Self-pity?"
+          },
+          {
+            "text": "Ling's expression remained calm as he effortlessly changed the subject."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The answer no longer mattered, for this game was coming to an end."
+          },
+          {
+            "text": "That night, Ling received orders from the Finch Sect elder to locate a forbidden seal in the back mountains of the Dragon Altar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After some searching, Ling had found it."
+          },
+          {
+            "text": "The moment Ling touched the seal, he heard a clear and long shriek; a bird of fire suddenly illuminated the darkness."
+          },
+          {
+            "text": "When he woke up from the apparent hallucination, he saw that Baxia had caught him in the act."
+          },
+          {
+            "text": "Without exchanging words, they began a fierce battle until Zilong arrived and put a stop to their clash with his spear."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That was the first time Ling witnessed the might of the Cloud Dragon; the divine power of the Four Immortals."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Four Immortals have protected the Cadia Riverlands since the time of the Endless War."
+          },
+          {
+            "text": "The four have since fallen silent, and their power has been passed down among the disciples of the Great Dragon.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Great Dragon"
+              }
+            ]
+          },
+          {
+            "text": "Once a mortal becomes an Oriental Fighter, they naturally assume the responsibility of protecting the Cadia Riverlands."
+          },
+          {
+            "text": "Baxia repeated these principles daily during morning lessons, unaware that Ling had already read and memorized them in the Finch Sect archives."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling knew what the elder was after, just as he knew what Baxia was after, but Ling felt they were both mistaken."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "If a caged bird couldn't even save itself, how could it save others?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling returned to the Finch Sect."
+          },
+          {
+            "text": "The elder did not ask whether Ling succeeded in his mission, nor was he surprised about Ling's return."
+          },
+          {
+            "text": "The assassins of the Finch Sect all eventually return to their nest."
+          },
+          {
+            "text": "But Ling returned with something lingering in his heart."
+          },
+          {
+            "text": "A few years later, Yu Zhong and Luo Yi approached the Finch Sect to form an alliance with the elder and attack the Dragon Altar."
+          },
+          {
+            "text": "Ling volunteered to join."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Zilong had become stronger."
+          },
+          {
+            "text": "He had learned to fully control the Cloud Dragon's power, and Ling was defeated."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For the first time, Ling felt desperation."
+          },
+          {
+            "text": "He unsheathed his sword again and launched attack after attack—"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Zilong suddenly asked, \"Do you wield your sword for your mission?\"",
+            "formatting": {
+              "italic": [
+                "\"Do you wield your sword for your mission?\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling had no reply."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I wield my spear for me. Who is it you're drawing your blade for?\"",
+            "formatting": {
+              "italic": [
+                "\"I wield my spear for me. Who is it you're drawing your blade for?\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Zilong stepped aside."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Go, it's waiting for you.\"",
+            "formatting": {
+              "italic": [
+                "\"Go, it's waiting for you.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling found himself back in that dark place again, facing the fiery bird from afar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When the seal of the Dragon Altar was weakened, the successors of the Cloud Dragon and the Agile Tiger had already been found, but the Vermilion Bird suffered a grave injury in its struggle to escape."
+          },
+          {
+            "text": "Only a portion of its spirit made it out and was resting in the forest near Shanshui City.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shanshui City"
+              }
+            ]
+          },
+          {
+            "text": "After encountering a young Ling on the brink of death, the Vermilion Bird decided to pass its incomplete power to him to save his life, sealing its own fate."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I am not the one who is caged.\" The Vermilion Bird spoke for the first time.",
+            "formatting": {
+              "italic": [
+                "\"I am not the one who is caged.\""
+              ]
+            }
+          },
+          {
+            "text": "\"With a caged heart, everywhere is a prison. With an unbound heart, nothing can cage you.\"",
+            "formatting": {
+              "italic": [
+                "\"With a caged heart, everywhere is a prison. With an unbound heart, nothing can cage you.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was not a mission or some kind of exchange."
+          },
+          {
+            "text": "The last wish of the Vermilion Bird's remnant spirit was for Ling to soar freely between heaven and earth, as a bird should."
+          },
+          {
+            "text": "The seemingly heavy burden of the mission could also be entrusted on the weight of a feather."
+          },
+          {
+            "text": "Saving himself from death and protecting the Cadia Riverlands carried the same significance."
+          },
+          {
+            "text": "The power the Vermilion Bird granted him was neither a weapon of death nor a symbol of salvation, but—"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ling heard the sound of something cracking."
+          },
+          {
+            "text": "The bird flapped its wings one last time and the darkness began to crack."
+          },
+          {
+            "text": "A light fell on Ling, igniting the blue flames within him that shot out like a pair of wings."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This was the Vermilion Bird's final dance... and the Cyan Finch's first flight."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Secret History of Dragons Altar",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Secret History of Dragons Altar"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Oriental Fighters Assemble",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Oriental Fighters Assemble"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Badang"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fist Break"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Grock"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Guardian's Barrier"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "variations-2": "Neobeast 2",
+        "name": "Cloud Walker",
+        "skill-effect-1": "BUFF",
+        "description": "Ling's superb Lightness Skill helps him leap among walls. When resting on the wall, He gains 4 Lightness Points per second when he's on a walland 5 extra Lightness Points each time he deals damage. Ling gains 1.6 times Crit Chance from all sources but only has 150% Critical Damage.",
+        "term-1": "Crit Rate",
+        "term-2": "Crit Damage",
+        "notes": "* cannot jump on the following walls:\n**'s, 's \n**The inner edge of 's \n**Brawl wall\n\n* is fully visible to enemies and on minimap if sighted.\n*Crowd controls will unperch and put the ability on cooldown.\n*Displacement, such as Cyclone Eye does not unperch . 's joystick movement is limited in the wall on which he stands.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "2.5%-12.5%",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Active:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "half-stealth",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "variations-2": "Neobeast 2",
+        "name": "Finch Poise",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "BUFF",
+        "cooldown": "20.0",
+        "energy-cost": "30",
+        "description": "Ling’s Critical Chance is permanently increased by . Ling casts his Lightness Skill, leaping onto the designated wall, entering  state, restoring Lightness Points more quickly and gaining 30% Movement Speed. If Ling receives damage, he will leave the half-stealth state. If he is controlled, he will fall onto the ground and be slowed by 30% for 2 seconds. When using this skill to jump from a wall to another, it will reset the Cooldown and refresh the half-stealth state.",
+        "ls-1": "Critical Chance: 2.5% / 4.5% / 6.5% / 8.5% / 10.5% / 12.5%",
+        "term-1": "Crit Rate",
+        "term-2": "Half-Stealth",
+        "notes": "*'s basic attack range is greatly increased while on a wall, and the next basic attack allows him to dash to an enemy hero on the ground.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-400",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "300-400",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Defiant Sword"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "35-60",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "variations-2": "Neobeast 2",
+        "image-2": "Defiant Sword - Finch Poise",
+        "name": "Defiant Sword",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Damage",
+        "skill-type-1": "Physical Basic ATK",
+        "skill-type-2": "Blink",
+        "cooldown": "2.5",
+        "energy-cost": "40",
+        "description": "Ling charges in a designated direction and stabs the nearby enemies at his destination, dealing . If Ling casts this skill when he is on the wall, he'll dash to the target location on the ground, dealing to enemies within a small area and slowing them down by 30% for 1.5 seconds. If this attack critically strikes, the enemies will be slowed by extra 45% for 0.75 seconds.  is regarded as, can trigger attack effects, and restores  HP for Ling each time it hits an enemy.",
+        "ls-1": "Base Damage: 300 / 320 / 340 / 360 / 380 / 400",
+        "ls-2": "HP Regen/Hit: 35 / 40 / 45 / 50 / 55 / 60",
+        "term-1": "Physical Basic Attack",
+        "term-2": "ATK Effect",
+        "notes": "* is briefly untargetable for 0.75 seconds upon landing.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-450",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Tempest of Blades",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Finch Poise"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Defiant Sword"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Cloud Walker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "variations-2": "Neobeast 2",
+        "name": "Tempest of Blades",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "52.0 / 49.0 / 46.0",
+        "description": "Ling leaps into the air, becoming invincible and gaining 10% extra Movement Speed for 1.5 seconds. He can move freely when in the air. He then lands on the ground, dealing to enemies in the area, knocking those in the center airborne for 1 second, and creating a Sword Field for 8 seconds. Four  will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of  by 4 seconds, reset the cooldown of, and gain 25 Lightness points.",
+        "ls-1": "Base Damage: 250 / 350 / 450",
+        "term-1": "Invincible",
+        "term-2": "Untargetable",
+        "term-3": "Airborne",
+        "notes": "*Swords last 8 seconds.\n*This skill removes all existing debuffs, crowd controls, and damage over time on Ling,\n** Cannot cast when being controlled.\n* can hold-spin the ultimate to change the formation in which the swords will land.\n**The landing position of swords are visible to before the ability finishes.\n**A sword landing on a wall can be picked up if he uses  on the wall.\n* can freely use any equipments and abilities while being untargetable.\n**Can be repositioned with.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "BUFF",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "fullpagename"
+      },
+      {
+        "name": "The Oriental Fighters",
+        "image": "The Oriental Fighters BUFF",
+        "description": "[] will gain [1] movement speed boost [for each allied] Oriental [Fighter] in the battlefield. (Original text: The Oriental Fighters: A team will gain higher movement speed boost with more Oriental Fighters in the battlefield.)",
+        "ss-1": "Extra Movement Speed: {1, 2, 3, 4}",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Along with other members of the Oriental Fighters, he is based on the Four Symbols, the Vermilion Bird of the South.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Oriental Fighters"
+            },
+            {
+              "text": "Four Symbols, the Vermilion Bird of the South",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Four Symbols"
+            }
+          ]
+        },
+        {
+          "text": "The Vermillion Bird of the South is described as a red bird that resembles a pheasant with a five-colored plumage and is perpetually covered in flames. However, his Fiery Dance skin mostly represents the accurate description of Vermillion Bird."
+        },
+        {
+          "text": "Ling is disabled in Brawl, as the game mode has no wall for Ling to climb on top of it.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Brawl"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

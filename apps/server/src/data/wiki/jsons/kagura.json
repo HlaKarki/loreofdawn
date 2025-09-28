@@ -1,0 +1,862 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero info"
+      },
+      {
+        "template": "hero stats"
+      }
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Though the Scarlet Shadow bestowed her a name and Hayabusa taught her of peace, the young Kagura remained uncertain of her true path."
+          },
+          {
+            "text": "When she opened her umbrella in contemplation, she beheld not gentle rain but visions of calamity, eternities of regret, and a past seen through her umbrella."
+          },
+          {
+            "text": "At last, Kagura understood: though born from lingering attachments, her path led toward freedom."
+          },
+          {
+            "text": "She would carry both the regrets and hopes of those who had passed to experience the beauty of the mortal realm they were never able to, and embrace the future they were robbed of yet graciously bestowed upon her."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "7",
+          "16"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Hayabusa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hanabi"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Onmyouji Master"
+        },
+        "chinese_name": {
+          "text": "神乐 (shénlè )"
+        },
+        "origin": {
+          "text": "Cadia Riverlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Cadia Riverlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "occupation": {
+          "text": "Onmyouji Master"
+        },
+        "affiliation": {
+          "text": "Scarlet Shadow",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Scarlet Shadow"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Seimei Umbrella",
+          "links": [
+            {
+              "text": "Seimei Umbrella",
+              "type": "internal",
+              "page": "Seimei"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Yin-yang manipulation",
+          "links": [
+            {
+              "text": "Yin-yang manipulation",
+              "type": "internal",
+              "page": "",
+              "anchor": "Passive"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "* (close as siblings)\n* (close friend)\n*Seimei",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Seimei"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Charlet Takahashi Chung (2021-present) \nCristina Vee (2016-2021)",
+          "links": [
+            {
+              "text": "Charlet Takahashi Chung",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Charlet Chung"
+            },
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Cristina Vee"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Tisa Julianti"
+        },
+        "ja_va": {
+          "text": "Gotō Ayasa (後藤 彩佐) (2021-present)\nHanazawa Kana (花澤 香菜) (2019-2021)",
+          "links": [
+            {
+              "text": "Gotō Ayasa (後藤 彩佐)",
+              "type": "internal",
+              "page": "imdb:nm12808376"
+            },
+            {
+              "text": "Hanazawa Kana (花澤 香菜)",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Kana Hanazawa"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Spring Stirs As Dreams Fade",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The story of Kagura's origins was sketchy at best."
+          },
+          {
+            "text": "The elderly man who had brought her to the Scarlet Shadow was well past his years, and whenever asked, he would simply repeat the same recollection: on a rainy spring day over a decade ago, he found an abandoned infant under an umbrella and named her Kagura."
+          },
+          {
+            "text": "Nothing more could be gleaned from him."
+          },
+          {
+            "text": "The Shadow Sect sensed a mysterious power within her, and after much deliberation, decided to raise the infant."
+          },
+          {
+            "text": "Yet Kagura was destined to remain distant from them—the power within her rejected their ninjutsu, and she could not understand why these warriors lived and died by their nindo."
+          },
+          {
+            "text": "Only the umbrella, whose origins were equally as mysterious, kept her company, through joy and sorrow."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As time went on, Kagura learned to find her own peace within the Scarlet Shadow."
+          },
+          {
+            "text": "She observed the ways of the ninja and cared for those exhausted from training."
+          },
+          {
+            "text": "A young Shadow Sect member named Hayabusa told her they strived tirelessly for honor, and while Kagura nodded in response, she could not grasp the meaning of those words."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On spring days, when cherry blossoms fell like rain, Kagura would sit in the trees, watching the people hurrying about below."
+          },
+          {
+            "text": "Everyone had a destination and their steps were hasty yet determined."
+          },
+          {
+            "text": "But not knowing where she came from, she never knew where her destination lay."
+          },
+          {
+            "text": "She could only brush away the fallen petals and drift off to sleep."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kagura had always sensed another world within her umbrella, but despite countless tries, she could never unlock its mysteries."
+          },
+          {
+            "text": "Until one late spring day, when she fell asleep as usual among the blossoms up in a tree."
+          },
+          {
+            "text": "As the spring breeze curled around her fingers and soft petals settled in her hair, her umbrella suddenly felt different."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was a dream unlike any other."
+          },
+          {
+            "text": "Kagura could only watch as things unfolded around her; before her eyes was a young spiritualist who gave off a familiar feeling."
+          },
+          {
+            "text": "He was calling for his sister, with both sorrow and joy so vividly real it was like she was there."
+          },
+          {
+            "text": "However, Kagura could not respond to him."
+          },
+          {
+            "text": "His gaze shot through her, onto a figure in the distance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kagura looked on as the young man worked on his spirit tools, and soon learned of his name—Seimei, the legendary Spirit Craftsman."
+          },
+          {
+            "text": "The young man aired his sorrows as he toiled in his craft: When the imbalance of Yin and Yang caused widespread calamity across the Cadia Riverlands, Seimei set out to find the Great Dragon to quell the unrest."
+          },
+          {
+            "text": "But when he returned with the Great Dragon, he was greeted by the lifeless body of his sister."
+          },
+          {
+            "text": "But he refused to accept this cruel fate."
+          },
+          {
+            "text": "He would do anything to see his sister again, and so he created a special spirit tool made of spirit insects: the Seimei Umbrella."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Seimei opened the umbrella, he was able to see his sister, smiling and calling out to him."
+          },
+          {
+            "text": "But how could a mere illusion born from his longing, a puppet constructed from his memory, be enough?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A tear of blood fell on Kagura as darkness consumed Seimei's once-bright eyes."
+          },
+          {
+            "text": "A fragment of the Twilight Orb had unknowingly resonated with his obsession, driving him to madness."
+          },
+          {
+            "text": "Kagura could only watch helplessly as the balance of Yin and Yang crumbled, and countless souls surged forth from the Lanterns of Endless Lights, bringing catastrophe once again."
+          },
+          {
+            "text": "The Great Dragon had no choice but to subdue Seimei."
+          },
+          {
+            "text": "In the end, Seimei coughed up his last breath of blood as his eyes glared with defiance."
+          },
+          {
+            "text": "Kagura's vision blurred with tears before fading to darkness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When she opened her eyes again, Kagura found herself by the Lantern of Endless Lights."
+          },
+          {
+            "text": "As the souls continued to ran rampant, Seimei's apprentice, Akazawa, exhausted himself creating minor spirit lanterns to contain them all, yet their restlessness could not be quelled."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The legend says that it was the Seimei Umbrella that appeared in the sky at this critical juncture, but now, it was Kagura instead."
+          },
+          {
+            "text": "She finally understood—this was no dream, but the umbrella's memories, and she was the spirit of the Seimei Umbrella."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The souls gathered around her, whispering."
+          },
+          {
+            "text": "As she listened, these victims of the calamities told her why they lingered in the mortal realm."
+          },
+          {
+            "text": "It wasn't over worldly desires or bloody vengeance, but because of regrets and unfulfilled wishes."
+          },
+          {
+            "text": "They simply wanted to see more of the beauty of the Cadia Riverlands, to witness the spring flowers bloom once more."
+          },
+          {
+            "text": "They hoped the umbrella that had accepted all their regrets would see these sights in their stead."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And so, through the accumulation of these lingering thoughts, the umbrella spirit took the form of a young girl, carrying the regrets of all those who still held attachments, born amidst the spring rain of falling cherry blossoms."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now, open your eyes, Kagura."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The dream ended here."
+          },
+          {
+            "text": "Familiarity set in again as the bustle of Scarlet Shadow members and falling cherry blossoms filled her vision."
+          },
+          {
+            "text": "But the lingering warmth in her palm and the tears on her face told Kagura that was no mere dream."
+          },
+          {
+            "text": "She looked at the umbrella in her hands, gently turning it."
+          },
+          {
+            "text": "Though it no longer echoed with voices, the spring breeze chose that moment to brush past her, petals softly wiping away the tears, as if delivering their unspoken message:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''Those born from longing need not be bound by the past; only through the girl's blooming growth can these lingering regrets find their answer."
+          },
+          {
+            "text": "To dwell in past sorrows would only lead to becoming trapped in despair like Seimei."
+          },
+          {
+            "text": "Those past regrets can never truly be mended, but now that you know where you come from, use these eyes to witness the beauty of this world that they could not.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the dream faded away and spring stirred anew, Kagura understood where her path would lead."
+          },
+          {
+            "text": "She would see, hear, and feel all the beauty this world had to offer."
+          },
+          {
+            "text": "She would bloom with her own radiance—only then could she truly honor their kindness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Below the tree, voices called out her name."
+          },
+          {
+            "text": "Kagura looked down to see Hayabusa and Hanabi ready to catch her."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The mortal realm was rich with splendor, and there was always someone waiting for her to float back down."
+          },
+          {
+            "text": "Perhaps this was what made life so precious—these simple moments of happiness."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Kagura_and_Hayabusa_Lore_Artwork.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Kagura_and_Hayabusa_Lore_Artwork.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Kagura_and_Hayabusa_Lore_Artwork.png",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Seimei Umbrella"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "280",
+        "total-mp": "50",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "name": "Yin Yang Gathering",
+        "skill-effect-1": "Shield",
+        "skill-effect-2": "CC",
+        "cooldown": "4.5",
+        "description": "Upon retrieving the, Kagura gains a , stuns nearby enemies for 0.5 second, and slows them by 60% for 1 second. Cooldown 4.5 seconds.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Seimei Umbrella"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "315-590",
+        "total-mp": "105",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "image-2": "Seimei Umbrella Open U",
+        "name": "Seimei Umbrella Open",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Slow",
+        "cooldown": "5.0 / 4.7 / 4.4 / 4.1 / 3.8 / 3.5",
+        "mana-cost": "50 / 56 / 62 / 68 / 74 / 80",
+        "description": "Kagura sends the to the target location, dealing  to enemies in its path and slowing them by 60% for 0.5 second. The Umbrella will automatically return to Kagura when she's too far away. This skill deals 130% damage to non-hero enemies.",
+        "ls-1": "Base Damage: 315 / 370 / 425 / 480 / 535 / 590",
+        "notes": "*The umbrella reveals the entire bush that it nests inside, including concealed enemies and traps.\n*The line that connects between and the umbrella is visible to  only.\n*If  dies while the umbrella is currently ordered to move, the order and its ability effect is nullified.\n*The umbrella automatically returns to  if the distance exceeds 8 unit.\n** maintains the distance with the umbrella when entering or leaving 's .\n*  can move the umbrella within a distance that is inversely relative to the distance between her and the umbrella. The total of such distance is the exceeding range.\n* The model of  when without umbrella and the animation change when  orders the umbrella to move is visible to everyone.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Seimei Umbrella"
+        ],
+        "template": "link"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "name": "Rasho Umbrella Flee",
+        "skill-effect-1": "Remove CC",
+        "skill-effect-2": "Blink",
+        "cooldown": "12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
+        "mana-cost": "55 / 60 / 65 / 70 / 75 / 80",
+        "description": "Kagura removes all debuffs on her and dashes in the target direction, while leaving the behind.",
+        "notes": "*This skill cannot remove suppressed CC effect, but the blink will still be successfully casted.",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Seimei Umbrella"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "300-400",
+        "total-mp": "90",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "image": "Rasho Umbrella Flee U",
+        "name": "Rasho Umbrella Flee",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Damage",
+        "cooldown": "12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
+        "mana-cost": "55 / 60 / 65 / 70 / 75 / 80",
+        "description": "Kagura teleports to the 's location and retrieves it, dealing to the nearby enemies.",
+        "ls-1": "Base Damage: 300 / 320 / 340 / 360 / 380 / 400",
+        "notes": "*The dash range is 3.8 unit.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|With Umbrella="
+        }
+      ],
+      [
+        {
+          "text": "-|Without Umbrella="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Seimei Umbrella"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "330-470",
+        "total-mp": "105",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "name": "Yin Yang Overturn",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Burst",
+        "cooldown": "43.0 / 48.0 / 33.0",
+        "mana-cost": "85 / 100 / 115",
+        "quote": "Don't get too close to my Seimei Umbrella.",
+        "description": "Kagura invokes the power of the, dealing to nearby enemies, knocking them back, and slowing them by 60% for 0.5 second.",
+        "ls-1": "Base Damage: 330 / 400 / 470",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Seimei Umbrella"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Seimei Umbrella Open",
+        "template": "ai"
+      },
+      {
+        "list": [
+          "290-390",
+          "md"
+        ],
+        "total-mp": "70",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "550-800",
+          "md"
+        ],
+        "total-mp": "170",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "image": "Yin-yang Overturn U",
+        "name": "Yin Yang Overturn",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "cooldown": "43.0 / 48.0 / 33.0",
+        "mana-cost": "85 / 100 / 115",
+        "quote": "Don't get too close to my Seimei Umbrella.",
+        "description": "Kagura invokes the power of the, resetting the cooldown of , dealing to enemies around the Umbrella, and slowing them by 60%. After 1.5 seconds, enemy heroes around the Umbrella will be pulled toward it and dealt.",
+        "ls-1": "Base Damage: 290 / 340 / 390",
+        "ls-2": "Extra Damage: 550 / 675 / 800",
+        "notes": "*This ability has two phases:\n**The umbrella first slows and damages nearby enemies. 's animation changes.\n**The umbrella pulls nearby enemies inwards and damages a second time.\n**The delay and finishing animation of the umbrella is visible to everyone, but is only visible to enemies if they have sight of the umbrella.\n*If retrieves the umbrella before the second phase and does not release it, the damage and pull effect centers at .\n**Therefore this ability can pull enemies over a great distance with  or other allied abilities.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|With Umbrella="
+        }
+      ],
+      [
+        {
+          "text": "-|Without Umbrella="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "kagura.revamp.move14.ogg",
+          "\"The umbrella is yang, the human is yin.\""
+        ],
+        "template": "aq"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yin Yang Overturn"
+        ],
+        "template": "ai"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Kagura is the first hero to use the concept of yin and yang."
+        },
+        {
+          "text": "In the context of Kagura's name, it represents \"divine music\" or \"sacred dance\". This is fitting for her character, as she wields the Seimei Umbrella, a magical artifact tied to spiritual power and rituals.",
+          "formatting": {
+            "bold": [
+              "\"divine music\"",
+              "\"sacred dance\"",
+              "spiritual power",
+              "rituals"
+            ]
+          }
+        },
+        {
+          "text": "Cultural Significance: Kagura (神楽) refers to traditional Shinto ritual dances performed to honor gods and invoke blessings. These dances are highly symbolic and were believed to invite spiritual energy. This concept mirrors Kagura's role as a guardian of the Seimei Shrine, where her actions and abilities also invoke spiritual forces.",
+          "formatting": {
+            "bold": [
+              "Cultural Significance",
+              "ritual dances",
+              "honor gods",
+              "invoke blessings",
+              "guardian of the Seimei Shrine"
+            ]
+          }
+        },
+        {
+          "text": "Kagura’s visual design is inspired by traditional Japanese clothing, with her kimono-style robe and elegant, mystical aura fitting the theme of a guardian priestess. Her design incorporates traditional elements while highlighting her magical nature.",
+          "formatting": {
+            "bold": [
+              "traditional Japanese clothing",
+              "kimono-style robe",
+              "elegant, mystical aura"
+            ]
+          }
+        },
+        {
+          "text": "Kagura is the only hero in Mobile Legends whose primary weapon is an umbrella, specifically the Seimei Umbrella."
+        },
+        {
+          "text": "She's one of the heroes to speak Japanese voicelines along with heroes from Scarlet Shadow."
+        },
+        {
+          "text": "Her voiceline: is indeed a tip to master . When the umbrella returns to her, it stuns enemies around by triggering  like Yin and Yang reunite."
+        },
+        {
+          "text": "Her abilities without the umbrella (yang) on hand is mainly offensive, while her abilities with the umbrella on hand (yin) is defensive (purify, dash, knockback)."
+        }
+      ]
+    ]
+  }
+]

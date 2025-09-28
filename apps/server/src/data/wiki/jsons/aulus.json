@@ -1,0 +1,544 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A Leonin warrior that fights to prove himself.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe."
+          },
+          {
+            "text": "To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats."
+          },
+          {
+            "text": "But as a Leonin, all he ever faced was prejudice and injustice from the world."
+          },
+          {
+            "text": "No longer able to bear it, Aulus headed toward the Lantis Mountains alone to hunt demons."
+          },
+          {
+            "text": "Here, his strong rage awoke the slumbering battleaxe and henceforth they fought side by side to prove themselves, and the power of Leonins."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Brody"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "A Leonin warrior that fights to prove himself.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Aulus comic.jpg"
+        },
+        "alias": {
+          "text": "Warrior of Ferocity"
+        },
+        "origin": {
+          "text": "Lantis Mountain, The Barren Lands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Lantis Mountain"
+            },
+            {
+              "type": "internal",
+              "page": "The Barren Lands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Leonin",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Leonin"
+            }
+          ]
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "weapons": {
+          "text": "War Axe",
+          "links": [
+            {
+              "type": "internal",
+              "page": "War Axe"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*,, (companions)\n* (enemy)"
+        },
+        "ja_va": {
+          "text": "Kaoru Kawaguchi (河口薫)",
+          "links": [
+            {
+              "text": "Kaoru Kawaguchi (河口薫)",
+              "type": "internal",
+              "page": "imdb:nm2684062"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "In Aulus’ home stored a powerful battleaxe long forgotten by the Leonins."
+          },
+          {
+            "text": "Legend has it that this battleaxe had fought alongside their ancestors and achieved countless feats, and within it lied great power."
+          },
+          {
+            "text": "But after a century of peace and security, this weapon of war was gradually ignored and despised by the Leonins, and even worse, it became a farming tool used to chop firewood."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But unlike his people, Aulus had been wishing that one day he’d become a respected warrior, like his ancestors as they held their battleaxe and fought valiantly on the battlefield."
+          },
+          {
+            "text": "And yet the battleaxe in his home was no different than an ordinary axe, and holding it felt like holding a large chunk of iron with its unusually heavy weight."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Even so, Aulus firmly believed in the legend of the battleaxe and carried it with him wherever he went."
+          },
+          {
+            "text": "Every time he patrolled the Leonins’ territory with his battleaxe, he felt the axe looked a bit mightier and he was one step closer to achieving his dream."
+          },
+          {
+            "text": "Therefore, Aulus patrolled like a warrior every day without failing, come what may."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, the other Leonins laughed at him for his daily patrol, saying that Aulus was as plain ordinary as his axe and yet always daydreaming of being a legendary hero, only it was under the protection of the magic barrier."
+          },
+          {
+            "text": "Seeing that his dream and ancestors’ honor was brought down and crushed, Aulus could bear no more and beat the Leonin who humiliated him, and his own people had since feared and alienated him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aulus saw that instead of solving the problem, his rage further aggravated their misunderstandings, so he made the decision to leave the forest and go on an adventure with his battleaxe, to prove himself with great feats."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Aulus suppressed his hot temper, trying to blend into the human society and look for opportunities to achieve his dream."
+          },
+          {
+            "text": "But to his surprise, the outside world had lots of prejudices against the Leonins."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once Aulus wanted to follow the caravans to the Moniyan Empire and join the army, but the caravan leader said the small Leonins were better suited being jesters in the palace, instead of going to the battles.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "Aulus thus went north to Northern Vale, but they only hire him to clean up the battlefield.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "And when he finally had a chance to fight with the army, another soldier rubbed Aulus’ ear and said he reminded him of his cute kitten at home…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "All of this enraged Aulus, but he put up with it."
+          },
+          {
+            "text": "He kept honing his battle skills and rushed to the frontline without fear, hoping that he’d one day be recognized at the triumphant ceremony."
+          },
+          {
+            "text": "Yet on the ceremony he’d long been waiting for, the general gave the honor that should belong to Aulus to a rookie soldier."
+          },
+          {
+            "text": "Aulus could bear it no longer and questioned him, and to his surprise, the drunk general answered honestly that he didn’t think a Leonin deserved to lead humans."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "No longer could Aulus tolerate all these prejudices."
+          },
+          {
+            "text": "He left the camp overnight and headed to the Lantis Mountains with only one goal in mind – he would fight the demons to prove that a Leonin could become a great warrior too.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lantis Mountains"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alone on the Lantis Mountains, Aulus faced a much more dangerous challenge than ever before."
+          },
+          {
+            "text": "Standing in front of swarms of evil demons, he could no longer hold back the burning rage inside."
+          },
+          {
+            "text": "After the lonesome, persistent journey full of his own people’s taunts, other races’ prejudices and the unfairness of the world, all the emotions he’d suppressed poured out into his battle with the demons."
+          },
+          {
+            "text": "Strike after strike, the dark and dull battleaxe began to emit a glowing light as written in the legend – Aulus’ indomitable rage awoke the battleaxe that had been in slumber for a century!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At that moment, Aulus felt power surging into both of his hands and the battleaxe was no longer heavy like iron."
+          },
+          {
+            "text": "Surprised, he found the battleaxe alive and could keep enhancing as his rage increased."
+          },
+          {
+            "text": "Aulus was beyond elated, and as if responding to his emotions, the battleaxe grew even brighter."
+          },
+          {
+            "text": "They fought side by side and faced no opponent, the demons all turning into dust under the powerful axe before they could even flee."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the Lantis Mountains, another group were also fighting to prove their powers – Benedetta and her ranger squad, and Aulus joined them without much hesitation."
+          },
+          {
+            "text": "He believed that through battles, he’d become a respected warrior one day."
+          },
+          {
+            "text": "At this time, he’d no longer be fighting for himself, but to prove his strength to the whole Land of Dawn and to crush people’s prejudices against the Leonins.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Fighting Spirit",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Undying Fury"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Fighting Spirit",
+        "skill-effect-1": "BUFF",
+        "quote": "A war axe that fights more fiercely as the battle continues.",
+        "description": "Aulus adds a stack of to his axe per second for 3 seconds after dealing damage to any enemy (up to 4 stacks). Each stack grants 9-15% extra Attack speed and 1-4 Physical Penetration (scales with  level). Aulus also gains 10% extra Movement Speed and 42-210 Basic Attack Damage at max Fighting Spirit stacks (scales with level).",
+        "ls-1": "Extra Physical Attack: 3 / 6 / 9 / 12",
+        "ls-2": "Physical Penetration: 1 / 2 / 3 / 4",
+        "term-1": "Physical ATK",
+        "term-2": "Physical PEN",
+        "term-3": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "name": "Aulus, Charge!",
+        "skill-effect-1": "Speed Up",
+        "skill-effect-2": "Slow",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "16.0 / 15.6 / 15.2 / 14.8 / 14.4 / 14.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "description": "Aulus removes all slow effects and gains 30-50% extra Movement Speed and 20-50% Damage Reduction against attacks from the front for 5 seconds.",
+        "ls-1": "Movement Speed Bonus: 30% / 34% / 38% / 42% / 46% / 50%",
+        "ls-2": "Damage Reduction: 30% / 34% / 38% / 42% / 46% / 50%",
+        "term-1": "Movement Speed",
+        "term-2": "Damage Reduction",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-550",
+        "extra-pa": "120",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "total-hp": "1",
+        "template": "scale"
+      },
+      {
+        "name": "The Power of Axe",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "BUFF",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "5.0",
+        "mana-cost": "40 / 46 / 52 / 58 / 64 / 70",
+        "description": "Aulus brandishes his axe, dealing to enemies in a fan-shaped area, and enhancing his next Basic Attacks for 3 seconds after hitting enemy heroes or Creeps. Aulus recovers HP by 50-100  Basic Attack.",
+        "ls-1": "Base Damage: 150 / 230 / 310 / 390 / 470 / 550",
+        "ls-2": "Attack Speed Boost: 100%/ 120% / 140% / 160% / 180% / 200%",
+        "term-2": "Healing Effect",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Undying Fury"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Blade Craft:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Handle Craft:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "The Power of Axe"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Hammer Craft:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Active:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "210-290",
+        "extra-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "90-130",
+        "extra-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Undying Fury",
+        "skill-effect-1": "Slow",
+        "skill-effect-2": "BUFF",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "50.0 / 45.0 / 40.0",
+        "mana-cost": "150 / 180 / 210",
+        "description": "Every time is upgraded, Aulus crafts a part for his axe in order.\n<ul>\n<li> Permanently increases his Basic Attacks'  by 50.</li>\n<li> Permanently increases his Attack Range by 65% and the range of .</li>\n<li> Permanently increases his Physical Penetration by 20%.</li>\n</ul>\n Aulus raises his axe and smashes it to the ground, dealing  to enemies in a line and slowing them by 90% for 0.5 seconds. A burning trail that lasts for 5 seconds is left on the ground, dealing  to enemies who walk on it every 0.5 seconds and slowing them by 70%.",
+        "ls-1": "Base Damage: 210 / 250 / 290",
+        "ls-2": "Sustained Damage: 90 / 110 / 130",
+        "term-1": "Physical Penetration",
+        "term-2": "Physical Damage",
+        "term-3": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Nana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "He is the 3rd leonin to be introduced in the game along with and."
+        },
+        {
+          "text": "He speaks in Scottish accent."
+        },
+        {
+          "text": "The item War Axe is his weapon. If you sell war axe in game, he will quote \"Goodbye old friend\".",
+          "links": [
+            {
+              "type": "internal",
+              "page": "War Axe"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "\"Goodbye old friend\"."
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

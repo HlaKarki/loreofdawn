@@ -1,0 +1,580 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "<p style=\"font-size:9pt;text-align:center;padding: 20px 0 15px 0;\">There are currently 36 Heroes that are recommended to be a Roamer.",
+            "formatting": {
+              "bold": [
+                "36",
+                "Roamer"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "roamer note"
+      },
+      {
+        "template": "clr"
+      },
+      {
+        "name": "Akai",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Angela",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Atlas",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Badang",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Belerick",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Carmilla",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Chip",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Chou",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Diggie",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Edith",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Estes",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Franco",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Floryn",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Gatotkaca",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Gloo",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Grock",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Hilda",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Hylos",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Jawhead",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Johnson",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Kaja",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Kalea",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Khaleed",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Khufra",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Lolita",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Mathilda",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Minsitthar",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Minotaur",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Natalia",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Rafaela",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Saber",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Selena",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Tigreal",
+        "template": "hero-box-xs"
+      }
+    ]
+  },
+  {
+    "title": "Meta Roamers",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "It is recommended that you practice each roam hero at least once, so that you know enemy skill types, cooldowns, and learn matchups and recommended skill builds for different heroes."
+          },
+          {
+            "text": "A Roamer will determine the initiations and pick offs that can change the tables in a match."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "These heroes are currently meta and will dominate (most of the time as shown in tournaments) if you mastered them (In no particular order):"
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "name": "Chou",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Mathilda",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Gatotkaca",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Kalea",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Badang",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Hylos",
+        "template": "hero-box-xs"
+      }
+    ]
+  },
+  {
+    "title": "List of unofficial roamers",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Note: Keep in mind these heroes were not officially listed as Roamers but were used as Roamers in higher ranks and pro tournaments."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Baxia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Arlott"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Helcurt"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kadita"
+        ],
+        "template": "hi"
+      }
+    ]
+  },
+  {
+    "title": "Categories",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Roamers are \"unofficially\" divided into 4 different categories."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Atlas"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Carmilla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gatotkaca"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Johnson"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Khaleed"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Khufra"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Minotaur"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Akai"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Badang"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chip"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chou"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Edith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Franco"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gloo"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Grock"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hylos"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kaja"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kalea"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Minsitthar"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Angela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Estes"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Floryn"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lolita"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Rafaela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Saber"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Setter Roamers: Are roamers who have great combination of AOE and Crowd Control to initiate set up for the team. Tanks are part of this category."
+        },
+        {
+          "text": "Initiator Roamers: Are roamers who professionally engage to start up team fights by targeting a single or double enemies, however they lack a combination of strong crowd control and AOE. Fighters and some Tanks are part of this category."
+        },
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Initiator Roamers: Are roamers who professionally engage to start up team fights by targeting a single or double enemies, however they lack a combination of strong crowd control and AOE. Fighters and some Tanks are part of this category."
+        },
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Initiator Roamers: Are roamers who professionally engage to start up team fights by targeting a single or double enemies, however they lack a combination of strong crowd control and AOE. Fighters and some Tanks are part of this category."
+        },
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Initiator Roamers: Are roamers who professionally engage to start up team fights by targeting a single or double enemies, however they lack a combination of strong crowd control and AOE. Fighters and some Tanks are part of this category."
+        },
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Utility/Healing Roamers: Are roamers who use their abilities to protect their allies from debuffs. Supports are part of this category."
+        },
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ],
+      [
+        {
+          "text": "Damage Roamers: Are roamers who specialize high damage to distract the enemy and target their backlines but are squishy and must require a frontline Jungler or EXP Laner to protect them. Assassins are part of this category."
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,791 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "She was released as a part of the MLBB 5th Anniversary.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "MLBB 5th Anniversary"
+              }
+            ]
+          },
+          {
+            "text": "Players had a chance to redeem the hero for free for a limited time."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "templates": [
+      {
+        "list": [
+          "2",
+          "24"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Sora"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Floryn teaser.jpg"
+        },
+        "chinese_name": {
+          "text": "洛霖 (luòlín)"
+        },
+        "alias": {
+          "text": "The Budding Hope"
+        },
+        "born": {
+          "text": "The Oasis, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Oasis"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Anthropomorphic plant"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "affiliation": {
+          "text": "The Oasis"
+        },
+        "abilities": {
+          "text": "Healing abilities\n*Energy Seed",
+          "links": [
+            {
+              "text": "Energy Seed",
+              "type": "internal",
+              "page": "Floryn",
+              "anchor": "Skill 1"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Dew (companion)\n* (creator/father)\n* (companion)",
+          "links": [
+            {
+              "text": "Dew",
+              "type": "internal",
+              "page": "Floryn",
+              "anchor": "Passive"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Goto Ayasa (後藤 彩佐)"
+        },
+        "id_va": {
+          "text": "Melati Pertiwi Putri"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Belerick"
+              },
+              {
+                "type": "internal",
+                "page": "Agelta Drylands"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight."
+          },
+          {
+            "text": "\"There's still life!\""
+          },
+          {
+            "text": "Moved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place.",
+            "links": [
+              {
+                "text": "the Oasis",
+                "type": "internal",
+                "page": "the Oasis"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "While creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed."
+          },
+          {
+            "text": "The little flower, however, underwent an even more peculiar transition."
+          },
+          {
+            "text": "It turned into a life form that had never appeared on the Land of Dawn–Floryn."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Since the day she was born, Floryn had never stepped out of the Oasis."
+          },
+          {
+            "text": "The latter isolated her from the harsh environment of the desert, allowing her to live a life carefree."
+          },
+          {
+            "text": "To Floryn, that glowing seed was the only mystery in her peaceful life."
+          },
+          {
+            "text": "She spent the days contemplating the secret of the seed and the nights sleeping in the shade of the leaves."
+          },
+          {
+            "text": "Only explorers and caravans would occasionally visit this undisturbed little world."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Among the caravans that frequented the Oasis, Floryn met a young man with a dazzling smile."
+          },
+          {
+            "text": "He'd tell Floryn fun stories he'd seen or heard on his journey whenever he came to lodge at the Oasis."
+          },
+          {
+            "text": "As their friendship gradually deepened, Floryn's trust in the young man also grew."
+          },
+          {
+            "text": "She showed the young man the glowing seed, hoping the latter could help her solve the puzzle."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At first, the young man helped Floryn look for info about the seed wholeheartedly."
+          },
+          {
+            "text": "As time went by, however, Floryn found the young man was always avoiding her eyes, and he'd change the subject whenever the seed was brought up."
+          },
+          {
+            "text": "Floryn began to worry about the young man's state."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One night, Floryn woke up with a start."
+          },
+          {
+            "text": "She was shocked to find the seed she'd always carried with her had disappeared!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Floryn searched everywhere in the Oasis but to no avail."
+          },
+          {
+            "text": "Torn with anxiety, Floryn went to ask the young man for help, only to discover he'd already left the Oasis with his camel."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A thought that Floryn dreaded to believe came to her mind – could it be him?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Floryn followed the young man's trail out of the Oasis."
+          },
+          {
+            "text": "She wanted to find out the truth."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, what awaited her was a silent answer from what she saw and heard along the way."
+          },
+          {
+            "text": "It was the first time Floryn had stepped into the desert, and also the first time she'd seen the howling sandstorms and the look of despair on people's faces."
+          },
+          {
+            "text": "Before that, she'd never understood what kind of suffering people outside the Oasis were going through."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids… and those desperate ones who'd stop at nothing to survive."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The young man was slumped in a corner."
+          },
+          {
+            "text": "He'd wanted to sell the seed to feed his family, but he'd never expected that the seed would wither the moment it left Floryn."
+          },
+          {
+            "text": "As a result, those who'd been willing to bid would pay not a single penny."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The young man returned the withered seed to Floryn, ready to take the blame for betraying their friendship."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Floryn, however, didn't say a word."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The experience along the way had given Floryn a glimpse of the young man's predicament."
+          },
+          {
+            "text": "Compared to the sadness of being betrayed by her friend, another even stronger and more complicated emotion was churning in her heart."
+          },
+          {
+            "text": "Driven by this emotion, Floryn wanted badly to do something for the land, to save the people who lived in extreme misery as the young man did."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A surge of magic power swelled from the bottom of Floryn's heart."
+          },
+          {
+            "text": "It flowed through her arm and poured into the seed in her hand."
+          },
+          {
+            "text": "feeling the power, the once withered seed shone again, and from the light that was a hundred times more dazzling than before popped out a cute and lively little creature!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This little creature leaped out into the air and eagerly showed off its miraculous powers; it summoned rain with just a wave of its tail, and new shoots gradually sprouted from where the rain fell."
+          },
+          {
+            "text": "The once lifeless village was surrounded by greenery in mere minutes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Floryn's was stunned by the sight in front of her."
+          },
+          {
+            "text": "She'd never imagined the seed could give birth to such a magical creature, just as she'd never thought she'd ever leave the Oasis."
+          },
+          {
+            "text": "It was only when Floryn's resolve to change the desert resonated with Belerick's will inside the seed did the latter awakened its true power.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Belerick"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Although the little creature born from the seed was still very young, from its limited power Floryn saw infinite possibilities of changing the desert."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"You look like a round drop of dew. I should just call you Dew!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Dew circled Floryn excitedly, as if it also liked the name."
+          },
+          {
+            "text": "The changes in the environment brought light back to the villager's eyes."
+          },
+          {
+            "text": "The young man also promised Floryn he'd never again err from the right path."
+          },
+          {
+            "text": "Biding the young man farewell, Floryn and Dew moved on to their next stop."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a considerable speed."
+          },
+          {
+            "text": "And this greenery will eventually spread across the entire desert, dispersing all desolation and despair."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Floryn_story.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Floryn_story.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Floryn_story.png",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "150",
+        "total-mp": "80",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Sanrio",
+        "image-2": "Lantern of Hope",
+        "image-3": "Flower of Hope",
+        "name": "Dew",
+        "skill-effect-1": "Buff",
+        "description": "Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat in 5 seconds, Floryn can share the Flower of Hope with an allied hero (30 seconds cooldown), which will grant them a each time they are healed by Floryn. Floryn will never sell the Lantern.",
+        "notes": "*Does not affect target ally's networth.\n*The Lantern can be cast regardless of distance or even when death.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Main article: Flower of Hope, Lantern of Hope",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Flower of Hope"
+            },
+            {
+              "type": "internal",
+              "page": "Lantern of Hope"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Main article: Flower of Hope, Lantern of Hope"
+            ]
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "180-330",
+        "total-mp": "100",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "175-225",
+        "total-mp": "90",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Sanrio",
+        "name": "Sow",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Heal",
+        "cooldown": "9.0 / 8.7 / 8.4 / 8.1 / 7.8 / 7.5",
+        "mana-cost": "90 / 100 / 110 / 120 / 130 / 140",
+        "description": "Floryn tosses an Energy Seed at a target enemy, dealing . Healing Fruits will then spawn and bounce to nearby allied heroes, restoring [].",
+        "properties": "*Spell Vamp Ratio: 50%\n*Base Damage: 180 / 210 / 240 / 270 / 300 / 330\n*Base Healing: 175 / 185 / 195 / 205 / 215 / 225",
+        "notes": "*Healing Fruits range has the same range as the cast range of this skill.\n*Healing Fruits travel to the nearby allies in 0.6 seconds (ignores distance of its point of origin).\n*If the target enemy dies before the ability hits, no heal takes effect.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "175-350",
+        "total-mp": "90",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[duration needed]",
+        "template": "sup"
+      },
+      {
+        "variations-1": "Sanrio",
+        "name": "Sprout",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "cooldown": "13.0 / 12.4 / 11.8 / 11.2 / 10.6 / 10.0",
+        "mana-cost": "100 / 110 / 120 / 130 / 140 / 150",
+        "description": "Floryn casts a blob of energy ahead and explodes upon hitting an enemy, dealing to nearby enemies stunning them for 0.7 seconds (and revealing their positions briefly).[duration needed]",
+        "properties": "*Spell Vamp Ratio: 50%\n*Base Damage: 175 / 210 / 245 / 280 / 315 / 350",
+        "term-1": "Stun",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-450",
+        "total-mp": "100",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Floryn"
+        ],
+        "template": "hi"
+      },
+      {
+        "variations-1": "Sanrio",
+        "name": "Bloom",
+        "skill-effect-1": "Heal",
+        "skill-effect-2": "Damage",
+        "cooldown": "70.0",
+        "mana-cost": "150 / 175 / 200",
+        "description": "Floryn resonates with Dew's power, restoring to all allied heroes 2 times no matter where they are on the battlefield. This effect removes any Healing Reduction or Shield Reduction effects on allied heroes, and makes them immune to the effects for 2 seconds.",
+        "properties": "*Base Healing: 250 / 350 / 450",
+        "notes": "*Cannot affect ally inside 's nor allies outside if  is inside.\n*The effect only takes effect on allies alive at the time of casting.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Other",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Shimmering Lantern"
+        },
+        "name": {
+          "text": "Share"
+        },
+        "cooldown": {
+          "text": "30.0",
+          "number": 30
+        },
+        "description": {
+          "text": "Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes.",
+          "links": [
+            {
+              "text": "Lantern",
+              "type": "internal",
+              "page": "Lantern of Hope"
+            }
+          ]
+        },
+        "notes": {
+          "text": "*Share's cooldown is not affected by Cooldown Reduction.\n*Casting this skill does not give skill-based buffs like on Azure Blade and its successor items.\n*The icon of this skill is based off of the now-removed Shimmering Lantern.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Cooldown Reduction"
+            },
+            {
+              "type": "internal",
+              "page": "Azure Blade"
+            },
+            {
+              "type": "internal",
+              "page": "Shimmering Lantern"
+            }
+          ]
+        }
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Main article: Flower of Hope, Lantern of Hope",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Flower of Hope"
+            },
+            {
+              "type": "internal",
+              "page": "Lantern of Hope"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Main article: Flower of Hope, Lantern of Hope"
+            ]
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Faramis"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Edith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Floryn was the 8th and is one of the heroes who was given to players for free on release. The other heroes who were given for free are:, , , , , , , and."
+        }
+      ],
+      [
+        {
+          "text": "It's highly possible that Floryn was based off Flora, the Roman Goddess of flowers and spring.",
+          "links": [
+            {
+              "text": "Flora",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Flora_(mythology)"
+            }
+          ]
+        },
+        {
+          "text": "Floryn's design and skillset reflect a nurturing, supportive role, which further ties her to the themes typically linked to a character inspired by flora or nature-based spirits."
+        }
+      ],
+      [
+        {
+          "text": "Floryn is the first hero to heal allies anywhere on the map."
+        },
+        {
+          "text": "She is the only hero to buff another hero by placing another item on them."
+        },
+        {
+          "text": "Like, she can also create life, she created Dew."
+        },
+        {
+          "text": "Floryn's \"Yatai Waitress\" skin is inspired by the Japanese word \"Yatai\" (屋台), which refers to street food stalls in Japan that sell ramen, takoyaki, and other delicious treats. These stalls are often run by friendly vendors wearing traditional Japanese aprons and kimonos just like Floryn in this skin.",
+          "links": [
+            {
+              "text": "Yatai",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Yatai_(food_cart)"
+            }
+          ]
+        },
+        {
+          "text": "Floryn has similarities with Filipino \"Diwata\" (fairies/guardian spirits) and Southeast Asian folklore creatures. Diwatas are mythical nature spirits or deities in Filipino folklore, often compared to fairies, nymphs, or guardian deities in other cultures. They are known for protecting nature, bestowing blessings, and sometimes punishing those who harm the environment.",
+          "links": [
+            {
+              "text": "Diwata",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Diwata_(disambiguation)"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

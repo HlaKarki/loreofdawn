@@ -1,0 +1,435 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "unfinished"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"TBA\""
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Floryn"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "TBA",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "name": {
+          "text": "Sora"
+        },
+        "relationships": {
+          "text": ", (companions)"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Cloudstep"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Thunder"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Torrent"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Thunder"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Torrent"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Mystic Surge",
+        "skill-effect-1": "Buff",
+        "description": "Sora gains 1 stack of each time he damages an enemy hero or their summons, lasting 5 seconds. At 5 stacks, he can ascend to  or  by using his Ultimate. After ascending, collecting 5 more stacks unlocks his True Art. : Converts extra HP into 10% Physical Attack, adopting an assassin style. : Converts each point of bonus Attack into 10 Max HP, adopting a tank style.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "150",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "240",
+        "total-hp": "5",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Sundering Strike",
+        "name": "Sundering Strike",
+        "skill-effect-1": "Damage",
+        "cooldown": "6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
+        "description": "Sora strikes twice, dealing, then lunges forward, dealing . He can dash after striking.",
+        "properties": "*Haymaker Damage: 150 / 170 / 190 / 210 / 230 / 250\n*Straight Punch Damage: 240 / 280 / 320 / 360 / 400 / 440",
+        "template": "ability"
+      },
+      {
+        "base": "150",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "240",
+        "total-hp": "5",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Sundering Strike Thunder Flash",
+        "name": "Sundering Strike: Thunder Flash",
+        "skill-effect-1": "Damage",
+        "cooldown": "6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
+        "description": "Sora strikes four times, dealing, then lunges forward, dealing . He can move freely during this skill.",
+        "properties": "*Haymaker Damage: 150 / 170 / 190 / 210 / 230 / 250\n*Straight Punch Damage: 240 / 280 / 320 / 360 / 400 / 440",
+        "template": "ability"
+      },
+      {
+        "base": "150-250",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "240-440",
+        "total-hp": "5",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Sundering Strike Overwhelm",
+        "name": "Sundering Strike: Overwhelm",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "CC",
+        "cooldown": "6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
+        "description": "Sora strikes twice, dealing and slowing enemies for 40%. He then lunges forward, dealing, stunning enemies for 0.5 seconds.",
+        "properties": "*Haymaker Damage: 150 / 170 / 190 / 210 / 230 / 250\n*Straight Punch Damage: 240 / 280 / 320 / 360 / 400 / 440",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Thunder="
+        }
+      ],
+      [
+        {
+          "text": "-|Torrent="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "200-300",
+        "total-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200-300",
+        "total-hp": "10",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Windstride",
+        "name": "Windstride",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Damage",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "description": "Sora leaps forward, dealing . If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional and slowing them by 40% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.",
+        "properties": "*Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n*Extra Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "template": "ability"
+      },
+      {
+        "base": "200-300",
+        "total-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200-300",
+        "total-hp": "10",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Windstride Thunder Rush",
+        "name": "Windstride: Thunder Rush",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Damage",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "description": "Sora leaps forward, dealing, then summons a thunderstorm that hits for and slowing them by 50% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.",
+        "properties": "*Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n*Extra Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "template": "ability"
+      },
+      {
+        "base": "200-300",
+        "total-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200-300",
+        "total-hp": "10",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Windstride Skyfall",
+        "name": "Windstride: Skyfall",
+        "skill-effect-1": "Damage",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "description": "Sora leaps forward, dealing and knocking enemies back to the landing point. He then smashes the ground and deals, knocking enemies airborne for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.",
+        "properties": "*Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n*Extra Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Thunder="
+        }
+      ],
+      [
+        {
+          "text": "-|Torrent="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Thunder"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "250-450",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Torrent"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "250-450",
+        "total-hp": "8",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Shifting Skies",
+        "name": "Shifting Skies",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "BUFF",
+        "description": "Swipe left to ascend into for 10 seconds. Sora gains brief Movement Speed and becomes untargetable, then deals  to nearby enemies. Swipe right to ascend into  for 10 seconds, pulling in nearby enemies and dealing.",
+        "properties": "Base Damage: 250 / 350 / 450",
+        "template": "ability"
+      },
+      {
+        "base": "50-70",
+        "total-pa": "30",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Heaven's Wrath",
+        "name": "Heaven's Wrath",
+        "skill-effect-1": "Damage",
+        "description": "Sora leaps into the air and strikes a target area 15 times, dealing with each hit. Sora can move freely during this skill.",
+        "properties": "Base Damage: 50 / 70 / 90",
+        "template": "ability"
+      },
+      {
+        "base": "50-70",
+        "total-hp": "2",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Stormbind",
+        "name": "Stormbind",
+        "skill-effect-1": "Damage",
+        "description": "Sora leaps into the air and strikes a target area 10 times, dealing and slowing enemies by 10% for 1 second (up to 80%) with each hit. Sora can move freely during this skill.",
+        "properties": "Base Damage: 50 / 70 / 90",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Thunder="
+        }
+      ],
+      [
+        {
+          "text": "-|Torrent="
+        }
+      ]
+    ]
+  }
+]

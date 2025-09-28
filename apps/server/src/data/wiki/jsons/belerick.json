@@ -1,0 +1,537 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Players had a chance to redeem the hero for free for a limited time."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Kind and fraternal elemental creatures\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The descendants of the ancient tribe where once guided by the voice of the ancient tribe to the western desert, where they overdrew on their life force and turned into an oasis, bringing hope to the desperate Minoan survivors and later using their lives to save the tree of life of the Elves, achieving birth.",
+            "links": [
+              {
+                "text": "oasis",
+                "type": "internal",
+                "page": "The Oasis"
+              },
+              {
+                "text": "tree of life",
+                "type": "internal",
+                "page": "Moonlit Forest"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Belerick_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Belerick_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Belerick_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Belerick_old_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Belerick_old_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Belerick_old_comic.jpg",
+            "caption": {}
+          }
+        ]
+      },
+      {
+        "list": [
+          "Floryn"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Aamon"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Natan"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Uranus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Valentina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Sora"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Kind and fraternal elemental creatures",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "*Guard of Nature\n*Nature's Child (previously)"
+        },
+        "born": {
+          "text": "The Oasis, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Oasis"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "origin": {
+          "text": "Moonlit Forest (current incarnation)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moonlit Forest"
+            }
+          ]
+        },
+        "species": {
+          "text": "Anthropomorphic plant"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "affiliation": {
+          "text": "*Moon elves\n*The Abyss (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Thorns\n*Vines",
+          "links": [
+            {
+              "text": "Thorns",
+              "type": "internal",
+              "page": "Belerick",
+              "anchor": "Passive"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "Invasion of Moonlit Forest"
+        },
+        "relationships": {
+          "text": "* (creation/daughter)\n*,, , , , , (companions)\n*,  (enemies)"
+        },
+        "en_va": {
+          "text": "Con Eyre (2018–2019)"
+        },
+        "id_va": {
+          "text": "Bonar"
+        },
+        "ja_va": {
+          "text": "Date Masanori (伊達 将範)",
+          "links": [
+            {
+              "text": "Date Masanori (伊達 将範)",
+              "type": "external",
+              "site": "https://myanimelist.net/people/39018/Masanori_Date"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Many a race has risen and fallen throughout the expansive history of the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "Belerick is one of the few who have borne witness to all this throughout the mists of time."
+          },
+          {
+            "text": "When the world was first formed, the mysterious Ancient Ones aided the Forefathers as they created all things in this universe."
+          },
+          {
+            "text": "Together they constructed the grand and massive Celestial Palace and the myriad elemental creatures, who would live as successors to their bloodlines.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Belerick was but a young sapling, he was chosen by the Ancient Ones and given the essence of life and Mother Nature; this bestowed upon him the powers of intelligent though, deep wisdom, and the wondrous ability of reincarnation.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ancient Ones"
+              },
+              {
+                "type": "internal",
+                "page": "Mother Nature"
+              }
+            ]
+          },
+          {
+            "text": "Under the Ancient Ones' protection he lived together with the elemental creatures within the Lantis Mountain ranges, a place flourishing with life and vitality.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lantis Mountain"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, this blissful existence would not last long."
+          },
+          {
+            "text": "The Forefathers departed and the Endless War descended upon the lands, plunging the Land of Dawn into the throes of fierce battle and slaughter: the Ancient Ones retreated to the Celestial Palace and the elemental creatures thus lost the protection they'd once been granted."
+          },
+          {
+            "text": "The creatures were left without a safe home of their own, and slain en masse as the fires of war blazed ever on.",
+            "formatting": {
+              "italic": [
+                "en masse"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "They were forced to wander the lands for an entire age."
+          },
+          {
+            "text": "Belerick watched as the Land of Dawn was ravaged by the raging war, no corner left untouched by the fighting."
+          },
+          {
+            "text": "As he did so, Belerick grew from a sapling into a mighty tree."
+          },
+          {
+            "text": "The warfare had stripped him of his former life, and hardened his power of will; despite having lost many of his companions in the process, he nonetheless refused to give up the hope he had in life."
+          },
+          {
+            "text": "He sought to use his power to the best of his ability in helping out those weaker than him."
+          },
+          {
+            "text": "In the later stages of the Era of Strife, the Ancient Ones who had returned to their Celestial Palace long ago could no longer stand the pitiable state of the world below, and went against the orders of the Forefathers as they rashly used the Twilight Orbs' power to try and end the war.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Twilight Orbs"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Belerick Sacrificed Himself! Who's Responsible?",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Belerick Sacrificed Himself! Who's Responsible?"
+        ],
+        "template": "main"
+      },
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "55",
+        "level": "5",
+        "template": "scale"
+      },
+      {
+        "name": "Deadly Thorns",
+        "skill-effect-1": "BUFF",
+        "description": "For every 50 damage inflicted upon Belerick, he has a 25% chance to shoot the nearest enemy unit, dealing equal to  plus 1.8% of his Max HP (scales with level). In each 0.4 seconds, this attack can be triggered once only.  His HP obtained from Equipment and Emblems is increased by 30%.",
+        "term-1": "Max HP",
+        "notes": "*This skill gets spell vamp without being reduced, unlike magic lifesteal.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Winter Crown"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Ancient Seed",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "mana-cost": "60 / 66 / 72 / 78 / 84 / 90",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Magic Skill",
+        "description": "Belerick releases vines in a designated direction, dealing to enemies on the path and slow them down by 25%. Meanwhile, he leaves Ancient Seed on the path, and after 1 second, these seeds will deal  to enemies on the path and taunt them for 1.2 seconds. To minions, 80% extra damage will be dealt.",
+        "ls-1": "Base Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "ls-2": "Extra Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "term-1": "Taunted",
+        "term-2": "Magic Skill",
+        "term-3": "Movement Speed",
+        "notes": "*If Belerick dies, taunted enemies still move towards Belerick, but do not attack.\n*When Belerick uses, the taunted enemies keeps attacking, but no damage is dealt. Fully trigger Deadly Thorns",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Nature's Strike",
+        "cooldown": "12.0 / 11.4 / 10.8 / 10.2 / 9.6 / 9.0",
+        "mana-cost": "90 / 102 / 114 / 126 / 138 / 150",
+        "skill-effect-1": "Speed Up",
+        "skill-effect-2": "HEAL",
+        "skill-type-1": "Magic Basic ATK",
+        "description": "Belerick increases his Movement Speed by 80% and strengthens his next Basic Attack. (The Movement Speed gain will decay in 2 seconds.) This enhanced Basic Attack deals and slows the target by 60% for 1.4 seconds. Belerick also regenerates HP equal to 240 plus 10% of his lost HP.\n\n\n\nEach time Deadly Thorns is triggered, reduce the cooldown of this skill by 1s.",
+        "ls-1": "Base Damage: 300 / 330 / 360 / 390 / 420 / 450",
+        "ls-2": "HP Regen: 240 / 288 / 336 / 384 / 432 / 480",
+        "term-1": "Magic Basic Attack",
+        "term-2": "Regen Effect",
+        "term-3": "Lost HP",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100",
+        "total-mp": "30",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Winter Crown"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Wrath of Dryad",
+        "cooldown": "50.0 / 46.0 / 42.0",
+        "mana-cost": "150",
+        "skill- type-1": "Magic Skill",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "description": "Belerick conjures spreading vines around him, dealing to enemies in the area 4 times and taunting them for 1.5 seconds.",
+        "ls-1": "Base Damage: 100 / 150 / 200",
+        "term-1": "Taunted",
+        "term-2": "Magic Skill",
+        "notes": "*If Belerick dies, taunted enemies still move towards Belerick, but do not attack.\n*When Belerick uses, the taunted enemies keeps attacking, but no damage is dealt. Fully trigger Deadly Thorns.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Belerick doesn’t have a direct real-world meaning, but it might be inspired by botanical and mythical themes. It sounds similar to \"Beleriand,\" a lush, ancient land in The Lord of the Rings, fitting his forest guardian theme. His name could be derived from \"bark\" or \"bel\" (a common prefix in fantasy names), reinforcing his identity as a living tree warrior."
+        },
+        {
+          "text": "His design and abilities resemble Treants (tree-like beings in fantasy worlds).",
+          "formatting": {
+            "bold": [
+              "Treants (tree-like beings in fantasy worlds)."
+            ]
+          }
+        },
+        {
+          "text": "Old model Belerick is a young version of the current one."
+        },
+        {
+          "text": "His old model can be still seen in the hero intro."
+        },
+        {
+          "text": "His skin \"Torched Guardian\" is the evil version of himself."
+        },
+        {
+          "text": "Belerick is regarded as one of the best heroes for damage reflection. His passive, Deadly Thorns, allows him to return damage to attackers, making him one of the best anti-marksman tanks in MLBB."
+        },
+        {
+          "text": "Many MLBB players compare Belerick to Groot, as both are giant tree creatures with a protective nature.",
+          "formatting": {
+            "bold": [
+              "Groot",
+              "giant tree creatures"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

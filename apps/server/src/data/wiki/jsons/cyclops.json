@@ -1,0 +1,297 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "To the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Land of Dawn"
+              ]
+            }
+          },
+          {
+            "text": "As Cyclops grew up, he turned out to be much different from other Giants, not only was he small in proportion, but also was he unique.",
+            "formatting": {
+              "bold": [
+                "Cyclops"
+              ]
+            }
+          },
+          {
+            "text": "As such, unlike the other Giants, he couldn't really rely on brute force."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, Cyclops was obsessed with stars and skies since he was little.",
+            "formatting": {
+              "bold": [
+                "Cyclops"
+              ]
+            }
+          },
+          {
+            "text": "He would gaze at the skies all day and night and consequently, he discovered the truth, that planets were always under orbital motion."
+          },
+          {
+            "text": "And he also realized that this kind of movements contained unbelievable magical power."
+          },
+          {
+            "text": "With an hourglass to load and control this kind of power, he became the famous \"Starsoul Magician\" of his homeland, granting him the ability to travel between space."
+          },
+          {
+            "text": "Planetary motion would never stop, hence making Cyclops extremely powerful and invincible."
+          },
+          {
+            "text": "Unfortunately, this realization made him feel quite lonely."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, during one of Cyclops's space travels, he arrived at the Land of Dawn and found, much to his surprise, that there were many strong opponents, waiting for him to defeat."
+          },
+          {
+            "text": "Cyclops believed that where he went and what he saw, he would conquer."
+          },
+          {
+            "text": "With the powerful magical powers of planetary motion, by his side, Cyclops ventured into the Land of Dawn, deciding that he'd bring down his name as one of the greatest heroes, that there ever was.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Land of Dawn"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "1",
+          "30"
+        ],
+        "template": "birthday"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "奇乐乐 (qílèlè)"
+        },
+        "alias": {
+          "text": "Starsoul Magician"
+        },
+        "species": {
+          "text": "Cyclops"
+        },
+        "gender": {
+          "text": "Male"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "variations-1": "Star Wars",
+        "name": "Starlit Hourglass",
+        "skill-effect-1": "Buff",
+        "description": "Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5s.",
+        "term-1": "Cooldown",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "275-400",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Star Wars",
+        "name": "Stardust Shock",
+        "skill-effect-1": "AoE",
+        "cooldown": "9.0",
+        "mana-cost": "100",
+        "spell-vamp-ratio": "50%",
+        "description": "Cyclops casts two Stardust Disks, each dealing to enemies in its path.",
+        "ls-1": "Base Damage: 275 / 300 / 325 / 350 / 375 / 400",
+        "term-1": "Magic Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-350",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Star Wars",
+        "name": "Planets Attack",
+        "skill-type-1": "Burst",
+        "cooldown": "14 / 13.5 / 13 / 12.5 / 11 / 10.5",
+        "mana-cost": "60 / 66 / 72 / 78 / 84 / 90",
+        "spell-vamp-ratio": "125%",
+        "description": "Cyclops conjures Starlit Spheres around himself while gaining 30% Movement Speed for 2s. The spheres will automatically seek and attack nearby enemies (prioritizes enemy heroes), exploding on collision and dealing to the enemy. Enemies hit by multiple sphere will take reduced damage after the first hit.",
+        "ls-1": "Base Damage: 200 / 230 / 260 / 290 / 320 / 350",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "500-800",
+        "total-mp": "220",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Star Wars",
+        "name": "Star Power Lockdown",
+        "skill-type-1": "CC",
+        "skill-type-2": "Damage",
+        "cooldown": "43.0",
+        "mana-cost": "160 / 180 / 200",
+        "description": "Cyclops creates a Planetary Sphere and sends it after target enemy hero or Creep, dealing and immobilizing them for 1-2s (increases with travel distance).",
+        "ls-1": "Base Damage: 500 / 715 / 880",
+        "term-1": "Immobilized",
+        "term-2": "Magic Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Battle emote",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:May_the_force_be_with_you..png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/May_the_force_be_with_you..png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/May_the_force_be_with_you..png",
+            "caption": {}
+          },
+          {
+            "file": "File:U_Want_Candy?.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/U_Want_Candy%3F.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/U_Want_Candy%3F.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Cyclops is named after the one-eyed giants from Greek mythology."
+        },
+        {
+          "text": "The term \"Dwarf-Giant\" is a size description used in astronomy to describe the size of a star. \"Dwarf-Giant\" refers to a star that is small compared to a normal star. This term can be used metaphorically to describe Cyclops as a dwarf, indicating that he is small compared to a normal Cyclops."
+        },
+        {
+          "text": "The item \"Concentrated Energy\" used to be related to Cyclops' lore. In his splash art, you can see Cyclops holding this swirling energy, which is actually a gem causing destruction. After sealing it, the gem is now contained and called \"Concentrated Energy\".",
+          "links": [
+            {
+              "text": "Concentrated Energy",
+              "type": "external",
+              "site": "https://imgur.com/a/hAb2VR6"
+            },
+            {
+              "text": "splash art",
+              "type": "external",
+              "site": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Cyclops_%28Starsoul_Magician%29.jpg/revision/latest?cb=20230902072937"
+            }
+          ]
+        },
+        {
+          "text": "He is the only mage in MLBB who doesn’t rely on mana management, as his passive reduces cooldowns instead of using energy."
+        },
+        {
+          "text": "His skill names (Stardust Shock, Planets Attack, Star Power Lockdown) all relate to space and celestial bodies."
+        }
+      ]
+    ]
+  }
+]

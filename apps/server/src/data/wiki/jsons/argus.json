@@ -1,0 +1,773 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The angel who fell from light into darkness.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Argus and Rafaela are a pair of twin angels."
+          },
+          {
+            "text": "Yet the angels of legend are all female, making Argus something of an outcast."
+          },
+          {
+            "text": "While the Monastery of Light utilizes his powers to eradicate all heresy, it's never even acknowledged his existence.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monastery of Light"
+              }
+            ]
+          },
+          {
+            "text": "While Argus despises humankind, holding it in the utmost disdain, he once came into possession of a demonic blade in the midst of a battle and at that moment realized that he too was a son of man."
+          },
+          {
+            "text": "That he was orphaned when his parents were slain by other humans."
+          },
+          {
+            "text": "Under the demonic blade's curse he was overcome by resentment, falling into a demonic state himself as he became the Dark Angel."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Argus_angel_form.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_angel_form.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_angel_form.jpg",
+            "caption": {}
+          }
+        ]
+      },
+      {
+        "list": [
+          "Birthday (生日 \"shēngrì\" meaning \"birthday\"), Official chinese name"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "10",
+          "31"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Rafaela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zhask"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "The angel who fell from light into darkness.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Dark Angel"
+        },
+        "chinese_name": {
+          "text": "路西法 (lùxīfǎ \"Lucifer\" )"
+        },
+        "species": {
+          "text": "Fallen Demi-Angel"
+        },
+        "affiliation": {
+          "text": "*The Abyss\n*The Light (hostile)\n*Monastery of Light (formerly)\n*Celestial Palace",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            },
+            {
+              "type": "internal",
+              "page": "The Light"
+            },
+            {
+              "type": "internal",
+              "page": "Monastery of Light"
+            },
+            {
+              "type": "internal",
+              "page": "Celestial Palace"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Meteoric Sword"
+        },
+        "abilities": {
+          "text": "*Charging his blade with Malice Energy\n*Curses enemies\n*Death immunity",
+          "links": [
+            {
+              "text": "Charging his blade with Malice Energy",
+              "type": "internal",
+              "page": "",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Curses enemies",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 2"
+            },
+            {
+              "text": "Death immunity",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Unnamed father and mother (deceased)\n* (younger twin sister)\n*Lord of Light (Enemy)\n*Cyd (Captor)\n* (enemy - old lore)"
+        },
+        "en_va": {
+          "text": "Con Eyre (2017–2021) \nMarc Elmer (2021–)",
+          "links": [
+            {
+              "text": "Marc Elmer",
+              "type": "internal",
+              "page": "imdb:nm1109053"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Hoshi Yuuki (星祐樹)"
+        },
+        "id_va": {
+          "text": "Ojay S. Surianata"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Argus and his sister, Rafaela, were raised by their mother.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rafaela"
+              }
+            ]
+          },
+          {
+            "text": "Both children were blessed with flawless looks and a promising bloodline; yet in these lands, he as treated very differently to his sister."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Exaltation, flowers, glory and respect…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Argus was never accepted, instead rejected from the day of his birth."
+          },
+          {
+            "text": "This was all down to the age-old legend that pervaded the Land of Dawn, dictating that all angels were female–moreover, that those chosen by the Lord of Light to birth angels could only give birth to baby girls."
+          },
+          {
+            "text": "Argus’ identity and origins were matters buried secret by the Monastery of Light, kept even from Argus himself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To upload its orthodoxy, the Sacrists tasked with maintaining the Monastery of Light’s legitimacy acted with incredible unity: taking Rafaela as a representative who would face the masses, while Argus was kept hidden in the shadows, never to be a representative of the Light, barred from the glory so rightfully his."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "All those who strove to maintain this twisted orthodoxy were split between a fear that Argus would grow to become an outcast, and yearning for the power he held."
+          },
+          {
+            "text": "Without exception, every single one longed that this young man with the Lord of Light’s bloodline flowing in his veins could be at one with his sister, to resist the power of the Abyss."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In fact, Argus’ faith in the Light held strong for many years, just as resilient as that old his sister Rafaela."
+          },
+          {
+            "text": "He cherished her, and cared little as to who of them bathed in more glory: for Argus, its significance would always pale in comparison to the importance of defending what’s right."
+          },
+          {
+            "text": "Nonetheless, there always a matter of contention between the sibling: their attitudes toward humanity."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With the end of Golden Era, a monstrous Abyssal fissure had once more been rent within the Land of Dawn, and from its depths dark energies surged forth again.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "It was the general belief that the abyssal demons were behind it all, a notion shared by Rafaela, and she blamed all demonkind and the Abyss for woes of the world."
+          },
+          {
+            "text": "Argus, on the other hand, begged to differ."
+          },
+          {
+            "text": "In his eyes it was humankind who were to blame for the Endless War’s resurgence, for their chaos and malice presented the demons with an opportunity they then exploited."
+          },
+          {
+            "text": "Argus sneered at the thought of associating with humankind, forever holding them in bitter contempt."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Rafaela was always prone to forgive those humans who strayed from the path of righteousness, as she believed they could change and be bathed in the Light once more."
+          },
+          {
+            "text": "In stark contrast, Argus considered such people as naught but lost causes, dead leaves on the tree of mortality to be pruned before they tainted the trunk."
+          },
+          {
+            "text": "It was precisely this division between the two siblings that exacerbated the fear others held in him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day upon the battlefield, Argus set after a horde of demons that fled his pursuit."
+          },
+          {
+            "text": "His sister had urged him to fall back instead, yet he valiantly forged onward."
+          },
+          {
+            "text": "It was then that he was snared in the abyssal demons’ trap, and they set upon him in an ambush, but he felt no fear at all."
+          },
+          {
+            "text": "On the contrary, he exploited this ambush to his advantage."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Argus’ keen mind was just as formidable as his physical strength, and with it he turned the tables on his foes by allowing himself to be taken deep into their camp."
+          },
+          {
+            "text": "He wiped out a huge chunk of their number, both demons and the humans that sided with them."
+          },
+          {
+            "text": "Before setting off once more he decided to steal away the legendary demonic sword that was kept in the area, but as he grasped its hilt a barrage of strange memories surged into his mind–"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Soft rays of moonlight and the aroma of flowers caress a man and a woman as they exchange vows."
+          },
+          {
+            "text": "But a second later, she’s swept away by a number of Sacrists who hold her down, forcing her to imbibe holy water."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "From that day forth she becomes pregnant, her belly swelling by the day."
+          },
+          {
+            "text": "As she grows in size, her face grows ever more haggard."
+          },
+          {
+            "text": "She longs for her lovers, yearns for innocent times past."
+          },
+          {
+            "text": "Two years into the three years of pregnancy one must pass through to bear the Lord of Light’s child, she can finally take it no more; she flees from the Monastery of Light into the arms of her long-lost lover, and they live happily together."
+          },
+          {
+            "text": "For a time."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Such blissful content is all too often short-lived."
+          },
+          {
+            "text": "The Sacrists track the couple down, and slay the man where he stands: for in the eyes of the orthodoxy, he has stained the sacred bloodline of the Lord of Light."
+          },
+          {
+            "text": "With this they take the woman back to the Monastery."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She is consumed by pure despair, wishing only to join her lover to death."
+          },
+          {
+            "text": "However, each attempt to take her life is quickly shut down."
+          },
+          {
+            "text": "A year later she dies from the exertion of child birth, but leaves behind twins–a boy and a girl."
+          },
+          {
+            "text": "The newborn girl glows with a holy luminance from head to toe, yet the eyes of the boy bear a striking resemblance to his late mother’s lover."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Sacrists prepare to end the boy’s life."
+          },
+          {
+            "text": "Yet just as they move to do so, he’s engulfed in a radiant glow that emanates from his sister, and they cannot leave a single scratch upon him."
+          },
+          {
+            "text": "It’s seen as a miracle by the Sacrists, a belief strengthened by the fact the infant boy holds a power just as strong as his sister’s."
+          },
+          {
+            "text": "they never raise a hand against him again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was then that the memories came to a sharp halt, and Argus came to."
+          },
+          {
+            "text": "He finally understood why the Monastery of Light had endeavored to cover up his true identity; he finally realized why he was the only male angel."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For he was no holy being, but instead, a member of those he detested the most: a son of man."
+          },
+          {
+            "text": "Furthermore, his fellow humans had known of this and hence slain his parents to exploit his power as their own."
+          },
+          {
+            "text": "They had stolen from him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Demonic sword in hand, he ignored the pleadings of his sister and left her behind."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Little did he know that the reason his blade possessed such a monumental power, the reason it imparted those lost memories to him, was because it was cursed by the God of Destruction: Cyd."
+          },
+          {
+            "text": "His mind was tainted by this malevolent curse, awakening within him a cruel brutality."
+          },
+          {
+            "text": "Argus was driven by his own rage."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Argus focused his seething fury upon all of mankind, and when Rafaela came for him once more several months later, she was faced with a fearful sight."
+          },
+          {
+            "text": "His graceful wings in all their shimmering radiance were nowhere to be seen."
+          },
+          {
+            "text": "Instead, there sprouted from his back a pair of dark wings that emanated forth a crashing aura of darkness and despair."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It seemed to her that Argus had, for reasons unknown, lost himself to the darkness, welcomed its embrace."
+          },
+          {
+            "text": "Countless humans had been slaughtered by his hand."
+          },
+          {
+            "text": "Despite all of this."
+          },
+          {
+            "text": "He was still her flesh and blood, her brother: and she couldn’t bear to raise her sword against him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Each sibling watched the other from afar."
+          },
+          {
+            "text": "Argus knew that having learned the truth of his past, there was no way he could ever go back."
+          },
+          {
+            "text": "He clenched his demonic blade tight, turning and leaving her behind."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The angel had abandoned all he once had."
+          },
+          {
+            "text": "And so holiness severed its bond with him forever."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once, human blood had flown within him, and he was blessed by the Gods themselves, once, he had lived for naught but the Light, for peace."
+          },
+          {
+            "text": "From that day on, however, it was an endless curse that accompanied him instead, a fated curse bequeathed by the God of Destruction."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now, he’s Argus: the only Dark Angel in this world."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Malice Energy",
+          "rage"
+        ],
+        "template": "b"
+      },
+      {
+        "text": "[amount unknown]",
+        "template": "sup"
+      },
+      {
+        "base": "180",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "150",
+        "total-pa": "10",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Warmonger"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Star Wars",
+        "name": "Warmonger",
+        "skill-effect-1": "BUFF",
+        "skill-type-1": "Physical Basic Attack",
+        "description": "When Argus' blade reaches 100 [amount unknown]. He will launch a Demonic Slash with his next Basic Attack, dealing and recovering . This attack ignores 40% of the target's Physical Defense \n\n Argus' Demonic Blade gains 5 Malice Energy per second, and each of his Basic Attacks grants 10 Malice Energy. (critical strikes grant an additional 10 energy)",
+        "term-1": "Physical Basic Attack",
+        "notes": "* costs 100 Malice Energy (rage).\n*Damage dealt from equipment Unique Passives and talents cannot charge Malice Energy.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "125-250",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "175-300",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Star Wars",
+        "name": "Demonic Grip",
+        "image-2": "Demonic Grip 2",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "12.0",
+        "description": "Argus streches out a demonic hand in the target direction, dealing to the first enemy hero or creep hit, stunning them for 0.7 seconds and pulling him and the target towards the other. If no enemy is hit, Argus pulls himself towards the destination instead. Use Again: Argus dashes and strikes in the target direction, dealing  to enemies along the path.",
+        "ls-1": "Base Damage:125 / 150 / 175 / 200 / 225 / 250",
+        "ls-2": "Extra Damage: 175 / 200 / 225 / 250 / 275 / 300",
+        "term-1": "Stunned",
+        "term-2": "Blink",
+        "term-3": "Physical Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "120-240",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "200% damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Cursed",
+          "debuff"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Star Wars",
+        "name": "Meteoric Sword",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Debuff",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "description": "After a short delay, Argus thrusts his Demonic Blade in the target direction, dealing to enemies hit (deals  to minions) and slowing them by 80% for 0.8 seconds, the delay time will decrease as Argus' Attack Speed increases. Enemy heroes hit are  for 4 seconds, during which they will leave a Cursed Trail behind. Argus gains 20%  Movement Speed while on a Cursed Trail.  Metoric Sword counts as Basic Attack damage and can trigger Attack Effects. Hitting heroes restores 100 Malice Energy (excess is preserved).",
+        "ls-1": "Base Damage: 120 / 144 / 168 / 192 / 216 / 240",
+        "term-1": "Physical Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-300",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Star Wars",
+        "name": "Eternal Evil",
+        "skill-effect-1": "Death Immune",
+        "skill-effect-2": "BUFF",
+        "cooldown": "60.0 / 55.0 / 50.0",
+        "quote": "Battlefield is my playground and I think nothing of life and death.",
+        "description": "Argus draws his Meteoric Sword and removes all debuffs (excluding Suppression) on himself, dealing  and becoming the Fallen Angel for 4 seconds (hitting heroes enhances Warmonger). Fallen Angel: Gain 40% Movement Speed that decays over 1 second; When the transformation ends, he converts all his damage dealt in the Fallen Angel state into HP. If he takes fatal damage, the duration of the Movement Speed boost will be reset, and he will gain Death Immunity for 4 seconds. Enhanced Warmonger: grants 50-60 Malice Energy (50-40) (extra Malice Energy with critical hits). If Death Immunity isn't triggered during his transformation, the cooldown will be reduced by 50% when the skill ends.",
+        "term-1": "Physical Damage",
+        "notes": "*Health regeneration based on damage dealt is not affected by Argus' Healing Effect and Healing Received.\n*Basic attacks cannot convert HP when dealing damage to shields.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Argus_(Dark_Angel).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Dark_Angel).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Dark_Angel).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Argus_(Light_of_Dawn).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Light_of_Dawn).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Light_of_Dawn).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Argus_(Dark_Draconic).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Dark_Draconic).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Dark_Draconic).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Argus_(Catastrophe).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Catastrophe).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Catastrophe).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Argus_(Blade_of_Rakshasha).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Blade_of_Rakshasha).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Blade_of_Rakshasha).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Argus_(Darth_Vader).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Darth_Vader).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Darth_Vader).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Argus_(Winged_Nightmare).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Winged_Nightmare).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Argus_(Winged_Nightmare).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Argus is derived from the Greek word \"argos,\" which means \"bright\" or \"shining.\""
+        },
+        {
+          "text": "Argus and Rafaela are Dyztgotic Twins (Argus was from a Human father while Rafaela was from the Lord of Light)"
+        },
+        {
+          "text": "His normal skin, Light of Dawn, is actually his angelic form before he was corrupted by the demon sword that he currently wields."
+        }
+      ]
+    ]
+  }
+]

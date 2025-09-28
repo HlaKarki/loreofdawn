@@ -1,0 +1,939 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The savior who travels through time and space.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"When the world is at the brink of doom, Natan appears. He'll travel through time to find the way to save the world, no matter the odds and cost.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A thousand years after falling into a deep slumber, the Lord of the Abyss and the Lord of Light awoke, and so the Endless War raged once more."
+          },
+          {
+            "text": "Natan stood as Eruditio's leader, guiding the people in their search for hope in this world."
+          },
+          {
+            "text": "Yet having faced numerous defeats he decided instead to cast his gaze not to the future, but to the past by inventing a time machine."
+          },
+          {
+            "text": "As the world teetered on the brink of destruction, his time machine finally reached completion as it absorbed the combined power of the Twilight Orbs: Natan stepped within, and started searching the past for a chance to save the world."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Natan.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Natan.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Natan.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "5",
+          "6"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Aamon"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Valentina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "The savior who travels through time and space.",
+        "template": "quote"
+      },
+      {
+        "text": "When the world is at the brink of doom, Natan appears. He'll travel through time to find the way to save the world, no matter the odds and cost.",
+        "personquoted": "MLBB on X (Twitter)",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Natan comic.jpg"
+        },
+        "alias": {
+          "text": "Spacetime Walker"
+        },
+        "chinese_name": {
+          "text": "纽特 (Niǔtè)"
+        },
+        "origin": {
+          "text": "Eruditio, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "*Eruditio scholar\n*Researcher\n*Inventor\n*\"Official leader of Eruditio\" (former)"
+        },
+        "affiliation": {
+          "text": "*Eruditio\n*The Abyss (enemies)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Time Machine"
+        },
+        "abilities": {
+          "text": "*Time traveling\n*Teleportation\n*Summons Reverse-Clone",
+          "links": [
+            {
+              "text": "Summons Reverse-Clone",
+              "type": "internal",
+              "page": "Natan",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "traits": {
+          "text": "Steady, Intelligent"
+        },
+        "relationships": {
+          "text": "*,, , , (companions) \n* (enemy)"
+        },
+        "id_va": {
+          "text": "Agathon Hafi"
+        },
+        "ja_va": {
+          "text": "Ryosuke Asano (浅野 良介)",
+          "links": [
+            {
+              "text": "Ryosuke Asano (浅野 良介)",
+              "type": "external",
+              "site": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=185991"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Land of Dawn was born from the void, and to the void it shall return.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Over the past few centuries, the seal that holds back the Lord of the Abyss had been waning in power, while the cracks in the Abyss grew constantly.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abyss"
+              }
+            ]
+          },
+          {
+            "text": "The Lantis Mountains could no longer withstand the crippling corruption of the Abyss, and humanity was forced further and further north in order to survive.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lantis Mountains"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With this, the Lord of the Abyss fully awakened and his demon forces reached the walls of Moniyan’s cities.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan"
+              }
+            ]
+          },
+          {
+            "text": "Humanity began to understand that their apocalypse was nigh."
+          },
+          {
+            "text": "But then, a ray of pure light appeared, and provided Moniyan its protection."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The people cast their gazes skyward, seeking out of the source of this divine light."
+          },
+          {
+            "text": "It was then that they realized – this was a sign that the Lord of Light has awakened, too."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The powers of light and darkness sprang into action, and the Endless War descended upon the lands once more.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Endless War"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Tragedy and warfare abounded, wreaking destruction upon all life, never to be reborn."
+          },
+          {
+            "text": "In such an era it seemed that nobody could halt the spread of war."
+          },
+          {
+            "text": "A thousand years passed, then three hundred more, yet still the conflict waged with a growing intensity, showing no signs of stopping."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was into such an era that Natan was born."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As he grew up in Eruditio, Natan proved himself naturally gifted.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eruditio"
+              }
+            ]
+          },
+          {
+            "text": "Whether in science or magic, he achieved attainments unimaginable by any normal man."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the years passed, the turmoil of war had rent a terrible scar upon the hearts of the people, never to be healed."
+          },
+          {
+            "text": "This despair was a heavy burden borne by all, even the young children."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And none more so than the Eruditians, who as humanity’s last hope now formed the peak of human wisdom, as built over millennia."
+          },
+          {
+            "text": "Hence Natan walked the same path as the other scholars, from a young age taking on the task of saving this world."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Several years later, the youthful Natan had already became the driving force of Eruditio, taking an active part in various important research projects."
+          },
+          {
+            "text": "By the time he was 28, he had already been appointed as the official leader of Eruditio for his outstanding achievements."
+          },
+          {
+            "text": "Together with its citizens, he endeavored to seek out a way to save the world."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Abyss had by this point accrued even more Twilight Orbs.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Twilight Orbs"
+              }
+            ]
+          },
+          {
+            "text": "If every last one fell into the hands of the Lord of the Abyss, it would spell the return of pure chaos to the world, as all light faded into darkness."
+          },
+          {
+            "text": "Natan and the others were running out of time."
+          },
+          {
+            "text": "They took command of all those in both Eruditio and Magic Academy, striving with all their might to find a way to turn things around and avoid a certain descent into chaos.",
+            "links": [
+              {
+                "text": "Magic Academy",
+                "type": "internal",
+                "page": "Ursula Academy of Magic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A wealth of weapons, each one powerful beyond belief, was researched and created before being sent into war."
+          },
+          {
+            "text": "Nevertheless, humanity remained vulnerable under the threat of the demons and their Twilight Orbs."
+          },
+          {
+            "text": "The plan to halt the Lord of the Abyss’ advance was already less a plan of action than a wish, something that cast humanity even further into despair."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was at that somber moment that Natan stepped forth once more, and presented a new idea – the creation of a time machine."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was a wild fantasy of an idea, one that seemed to raise more problems than it solved."
+          },
+          {
+            "text": "How exactly does one travel through time?"
+          },
+          {
+            "text": "Even if it were possible, how would you know which turning point in time to travel to?"
+          },
+          {
+            "text": "Ad moreover, would changing the past really change the future, too?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Regardless, humanity had been forced into a corner with no way back."
+          },
+          {
+            "text": "Even the weakest flicker of hope could not be allowed to die out."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Erudition put all other research aside and committed all of its manpower and resources into the search for a way to make time travel a reality."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Natan allowed himself not a second of rest, with almost all of his time and energy dedicated to his research."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This unrelenting effort eventually produced results."
+          },
+          {
+            "text": "Natan and the other researchers worked together to produce an apparatus that, if provided enough power, could warp time itself."
+          },
+          {
+            "text": "They continued to advance their research based around this discovery, a rudimentary time machine slowly developing before their eyes."
+          },
+          {
+            "text": "A nagging problem remained, however: even with their current research, they had no way of providing the machine with such a gargantuan amount of power."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Another issue was the fact that all four corners of the Land of Dawn had been ravaged by the Endless War for a long, long time now."
+          },
+          {
+            "text": "Fissures spidered across the earth, floods surged, and tornadoes howled as countless lifeforms faced extinction in their unforgiving environments."
+          },
+          {
+            "text": "The Moniyan Empire’s former glory was replaced by a scene of true desolation.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "Erudition lived on thanks to its shield of protection, and took in myriad refugee families."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "No more was Eruditio merely the ‘City of Scholars’.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "City of Scholars"
+              }
+            ]
+          },
+          {
+            "text": "Now, it was the final light still shining as humanity faced its apocalypse."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the Abyss gained control of the final shard of the Twilight Orb, it seemed that fate had been decided."
+          },
+          {
+            "text": "Dark blasts of fearful energy bust forth, circling the skies above as the Land of Dawn let out a pained cry."
+          },
+          {
+            "text": "It felt like it would be split apart entirely before long."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The final bastion of humanity, Eruditio, stood alone as it strived to kindle its dying flames of hope."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, it was precisely then that a miracle came to be."
+          },
+          {
+            "text": "The explosive power that blasted from the Twilight Orbs resonated with the time machine, and so Natan hurriedly activated the device: it shook with an awe-inspiring energy that surged into its hollows and shined with a warm and mighty brilliance as if it were alive."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Beyond the lab, darkness encroached upon the land as it descended from the skies."
+          },
+          {
+            "text": "The defensive network had been devastated by the blast of energy, and now an unstoppable tide of demons flooded into the city en masse."
+          },
+          {
+            "text": "Buildings toppled and the streets went up in flames."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Everyone knew all too well that this was to be humanity’s last stand."
+          },
+          {
+            "text": "More than this, they all knew very well how it would likely end."
+          },
+          {
+            "text": "Though failure hung heavy over their heads, that unrelenting sparks of hope continued to burn on in their hearts."
+          },
+          {
+            "text": "Such hope in the face of defeat is what makes mankind, and they placed it entirely upon Natan."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Natan took in the bleak scene before him, and start up the machine with resolution in his eyes."
+          },
+          {
+            "text": "There had been no time to test it, but their theories suggested it could support a single person and transport them through time and space."
+          },
+          {
+            "text": "This was only a theory, however, meaning there’d be no way to guarantee his safety."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The end of the world loomed before him, and at his back shone the hope of all others."
+          },
+          {
+            "text": "Natan shouldered the expectations of humanity and stepped into past."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The future had to change."
+          },
+          {
+            "text": "Even if it meant a lifetime spent searching the sprawling expanses of time and space, Natan would never give up hope, for such hope didn’t belong to him alone."
+          },
+          {
+            "text": "It was the hope of everyone in the Moniyan."
+          },
+          {
+            "text": "Just as long as he kept going, and never gave up, there was still a chance for the Land of Dawn survival."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The Day of the Great Change",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "The Day of the Great Change"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Fate Deniers",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Fate Deniers"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm extra\\ ATK\\ SPD} = \\bigl[(0.0053571 \\times hero\\ lv.) + 0.069643 \\bigr] \\times no.\\ of \\ Entanglement\\ stacks",
+        "raw": "{\\rm extra\\ ATK\\ SPD} = \\bigl[(0.0053571 \\times hero\\ lv.) + 0.069643 \\bigr] \\times no.\\ of \\ Entanglement\\ stacks"
+      },
+      {
+        "list": [
+          "Basic Attack",
+          "Basic Attacks"
+        ],
+        "template": "ai"
+      },
+      {
+        "total-pa": "50",
+        "total-mp": "65",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Basic Attack",
+          "basic attacks"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "50%",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Demon Hunter Sword"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Theory of Everything",
+        "skill-effect-1": "BUFF",
+        "quote": "Time is nothing more than a descriptor of space&#8230;",
+        "description": "Natan gains a stack of Entanglement each time he or his Reverse-Clone hits an enemy with a skill (up to 6 stacks). Each stack lasts 2.5 seconds and grants 7.5% extra Attack Speed and 7.5% Movement Speed. Natan's projectiles will return to Natan after reaching the maximum range, dealing an extra 30  to enemies along the way (inherits 65% of Natan's attack effects). Hitting an enemy refreshes Entanglement's duration.",
+        "ls-1": "Extra Attack Speed: 7.5% / 8.0357% / 8.5714% / 9.1071% / 9.6429% / 10.179% / 10.714% / 11.25% / 11.786% / 12.321% / 12.857% / 13.393% / 13.929% / 14.464% / 15%",
+        "ss-1": "Extra Attack Speed: {7.5%, 15%, 22.5%, 30%, 37.5%, 45%}",
+        "ss-2": "Extra Movement Speed: {7.5%, 15%, 22.5%, 30%, 37.5%, 45%}",
+        "term-1": "ATK Speed",
+        "term-2": "Movement Speed",
+        "notes": "*Natan's only benefit 80% of Natan's Physical and Magic Lifesteal.\n*Damage is decreased by  for -Unique Passive Devour when equipped.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "225-400",
+        "total-pa": "100",
+        "total-mp": "130",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Superposition"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Superposition"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Superposition",
+        "skill-effect-1": "Burst",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "quote": "There is no \"collapse\".",
+        "description": "Natan shoots a dense mass of energy, dealing to enemies along its path.",
+        "ls-1": "Base Damage: 225 / 260 / 295 / 330 / 365 / 400",
+        "term-1": "Magic Skill",
+        "notes": "*\n* only benefits 50% of Natan's Physical and Magic Lifesteal.\n* backswing removed.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-300",
+        "total-pa": "50",
+        "total-mp": "65",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "stunning them"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "30-55",
+        "total-pa": "10",
+        "total-mp": "13",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Interference!"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Interference!"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Brave Smite"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Race Advantage"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Interference!",
+        "skill-effect-1": "CC",
+        "skill-type-1": "Charge",
+        "cooldown": "12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0",
+        "mana-cost": "60 / 65 / 70 / 75 / 80 / 85",
+        "quote": "There is only \"decoherence\".",
+        "description": "Natan launches a Gravitational Attractor which carries enemies on contact along the path and deals to them. The attractor explodes upon reaching the end, knocking back nearby enemies,  for 0.1 second, and dealing  to them.",
+        "ls-1": "Base Damage: 150 / 180 / 210 / 240 / 270 / 300",
+        "ls-2": "[Base] Extra Damage: 30 / 35 / 40 / 45 / 50 / 55",
+        "term-1": "Magic Skill",
+        "term-2": "Knocked Back",
+        "notes": "* only benefits 50% of Natan's Physical and Magic Lifesteal.\n* backswing removed.",
+        "bugs": "*Expolosion of attractor cannot trigger and/or  despite the stun effect.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Reverse-Clone",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "cooldowns",
+          "cooldown"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Natan"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Entropy?"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Entropy?"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Entropy?"
+        ],
+        "template": "ai"
+      },
+      {
+        "image-2": "Entropy? 2",
+        "name": "Entropy?",
+        "skill-effect-1": "Summon",
+        "skill-effect-2": "Blink",
+        "cooldown": "24.0 / 20.0 / 16.0",
+        "mana-cost": "100 / 50 / 0",
+        "quote": "Entropy can decrease.",
+        "description": "Natan summons a at a target location 6 units away that lasts 10s, inherits 35% / 37.5% / 40% of his attack attributes (and 35% of Natan's attack effects), and will copy his moves and attacks in reverse. Use Again : Natan switches places with the Reverse-Clone. [ Cooldown: 12 seconds.] Each cast reduces other skills' remaining  by 50%. The Reverse-Clone will disappear if Natan is too far away.",
+        "ls-1": "Attributes Inherit: 35% / 37.5% / 40%",
+        "term-1": "Blink",
+        "notes": "*Cooldown starts after ending the ultimate.\n*The reverse-clone starts at 6 unit away from, face the same facing angle. The link turns red at 10 unit and breaks at 13 unit.\n* foreswing time has been reduced by 50%.\n*Sub-ability of is not affected by cooldown reduction.\n* attack effects have been cut from 70% -> 35%",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "All of Natan's skills are based on real-life physics concepts."
+        },
+        {
+          "text": "His passive, Theory of Everything, states that one theory could explain every aspect of physics. Finding a theory of everything is one of the major unsolved problems in physics.",
+          "links": [
+            {
+              "text": "Theory of Everything",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Theory of everything"
+            }
+          ]
+        },
+        {
+          "text": "His skill 1, Superposition, and skill 2, Interference, describes the phenomenon relating to waves.",
+          "links": [
+            {
+              "text": "Superposition",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Superposition_principle"
+            },
+            {
+              "text": "Interference",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Wave_interference"
+            }
+          ]
+        },
+        {
+          "text": "His ultimate, Entropy, is used as a measure of \"randomness\" in a system.",
+          "links": [
+            {
+              "text": "Entropy",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Entropy"
+            }
+          ]
+        },
+        {
+          "text": "According to Natan's timeline, it implies that the Abyss are about to win the Endless War on the Land of Dawn and are about to conquer the only-standing Eruditio.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Endless War"
+            },
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            }
+          ]
+        },
+        {
+          "text": "Most of Natan's quotes are just puns about time, reflecting his horological knowledge."
+        }
+      ]
+    ]
+  }
+]

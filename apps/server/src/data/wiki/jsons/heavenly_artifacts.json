@@ -1,0 +1,206 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Empyrean_Paladin_wall.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Empyrean_Paladin_wall.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Empyrean_Paladin_wall.jpg",
+        "caption": "700px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Logo",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "TBA"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Members",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "yes"
+        ],
+        "squad-name": "heavenly artifacts",
+        "name": "Zilong",
+        "role": "Fighter",
+        "skin-name": "Empyrean Paladin",
+        "quote1": "Reveal foul creatures!",
+        "template": "squad member header"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Zilong="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Heavenly Artifacts - Solar Spear",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Gods fell and many a Heavenly Artifact was destroyed in the Great War of Gods.",
+            "formatting": {
+              "bold": [
+                "Heavenly Artifact"
+              ]
+            }
+          },
+          {
+            "text": "Only a few of such artifacts are left intact and scattered around the world, quietly waiting to be discovered after millennia of slumber."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Some are all-conquering weapons, while some are items with special abilities."
+          },
+          {
+            "text": "But one thing is for certain: All of these artifacts possess mysterious power to change the fate of a mortal, and one may even conquer the world with just one of them."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the head disciple of the Ziyang Sect, is naturally talented and has been in the Sect since childhood."
+          },
+          {
+            "text": "At the age of 16, he felt a force reaching out to him when training alone, and found a spear beneath the stones in the creek on the back hills of the Sect."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The spear was once again exposed to the world, as a dragon spirit flew out of it and into, choosing him as its master."
+          },
+          {
+            "text": "The Dragon Soul is the inner spirit of the Solar Spear and may enter the Spear and fight enemies with at his command."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "name": "Zilong",
+        "template": "hi"
+      },
+      {
+        "name": "Zilong",
+        "template": "hi"
+      },
+      {
+        "name": "Zilong",
+        "template": "hi"
+      }
+    ]
+  },
+  {
+    "title": "Artwork",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Empyrean_Paladin.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Empyrean_Paladin.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Empyrean_Paladin.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery_hideaddbutton=true_navigation=true_widths_=_\"320\"_spacing_=_\"small\"_captionposition_=_\"below\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_hideaddbutton%3Dtrue_navigation%3Dtrue_widths_%3D_%22320%22_spacing_%3D_%22small%22_captionposition_%3D_%22below%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_hideaddbutton%3Dtrue_navigation%3Dtrue_widths_%3D_%22320%22_spacing_%3D_%22small%22_captionposition_%3D_%22below%22%3E"
+          },
+          {
+            "file": "File:Empyrean_Paladin_wall.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Empyrean_Paladin_wall.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Empyrean_Paladin_wall.jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Portrait="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "type": "Collector",
+        "template": "skin tag"
+      },
+      {
+        "template": "skin series"
+      },
+      {
+        "template": "heroes"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "This is the first Series."
+        }
+      ]
+    ]
+  }
+]

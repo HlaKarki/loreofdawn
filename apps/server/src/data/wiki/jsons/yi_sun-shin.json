@@ -1,0 +1,729 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "list": [
+          "Main"
+        ],
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Leader of the city of the Dragon Fleet.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yi Sun-shin is the leader of the City of the Dragon fleet and he is dedicated to his duties.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "City of the Dragon"
+              }
+            ]
+          },
+          {
+            "text": "But the ruler of the City of the Dragon believes the false accusations and demoted Yi Sun-shin to a commoner."
+          },
+          {
+            "text": "The fleet, without a leader, was hit hard by pirates."
+          },
+          {
+            "text": "At this moment of crisis, Yi Sun-shin stepped forward and lead the reformed fleet to defend this area of the sea and successfully defeated the strong pirates with remaining naval force."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "text": "Leader of the city of the Dragon Fleet.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Paenlong Legend"
+        },
+        "origin": {
+          "text": "City of the Dragon, Cadia Riverlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "City of the Dragon"
+            },
+            {
+              "type": "internal",
+              "page": "Cadia Riverlands"
+            }
+          ]
+        },
+        "age": {
+          "text": "c. 28"
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Naval fleet captain"
+        },
+        "affiliation": {
+          "text": "City of the Dragon"
+        },
+        "weapons": {
+          "text": "*Bow of Loyalty\n*Glaive and longbow\n*Turtle Ship",
+          "links": [
+            {
+              "text": "Glaive and longbow",
+              "type": "internal",
+              "page": "Yi Sun-shin",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Turtle Ship",
+              "type": "internal",
+              "page": "Yi Sun-shin",
+              "anchor": "With Turtle Ship"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Summons naval fleet",
+          "links": [
+            {
+              "text": "naval fleet",
+              "type": "internal",
+              "page": "Yi Sun-shin",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Hirose Ryuichi (広瀬 竜一)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The City of the Dragon is located to the northeast of Cadia Riverlands, connecting the Frozen Sea and the Sea of Hope.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The City of the Dragon"
+              },
+              {
+                "type": "internal",
+                "page": "Cadia Riverlands"
+              },
+              {
+                "type": "internal",
+                "page": "Frozen Sea"
+              },
+              {
+                "type": "internal",
+                "page": "Sea of Hope"
+              }
+            ]
+          },
+          {
+            "text": "It is the only permitted passage, for all ships sailing from Northern Vale to Cadia Riverlands and further south.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "The geological advantage allowed this city to develop foreign trade business, making it a prosperous harbor and a booming sea-port city."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But this bursting city never had one day of peace, ever since its establishment."
+          },
+          {
+            "text": "Pirates from the Frozen Sea and the Sea of Hope had been invading this city, raiding the harbor and plundering the merchant ships."
+          },
+          {
+            "text": "After years of failed resistance, against the pirates, the people of the city built a mighty navy, the Paenlong Fleet, to fight back the pirates and protect their homeland and trading routes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The general of this naval fleet, was the legendary hero, Yi Sun-shin."
+          },
+          {
+            "text": "Born and raised in The City of the Dragon, Yi Sun-shin, grew up witnessing countless tragedies, happening around him- ships being raided and fishermen being murdered in cold blood, by the pirates."
+          },
+          {
+            "text": "And so, the young Yi Sun-shin made up his mind to become an admiral and protect his homeland."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yi Sun-shin spent his entire childhood training and preparing himself for the future."
+          },
+          {
+            "text": "He learned the techniques of sailing, archery and fighting."
+          },
+          {
+            "text": "He even ventured into the Dragon's Altar and acquired all the knowledge he could, from the elders there."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the age of 18, Yi Sun-shin finally joined the naval fleet, though, he was just a sailor at that time."
+          },
+          {
+            "text": "In the next decade, Yi Sun-shin followed the fleet to numerous battles, traveling between the Frozen Sea and the Sea of Hope and fought the notorious pirates."
+          },
+          {
+            "text": "He showed unprecedented wisdom and leadership in the fights, and gradually, after years of battle, became the Captain of the entire Paenlong Fleet."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under the command of Yi Sun-shin, the legendary fleet defeated the pirates time and time again, driving almost all of the pirates back into the Sea of Hope and restoring peace, to this once devastated City of the Dragon."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As Yi Sun-shin kept launching assaults, the pirates fell into a period of desperation."
+          },
+          {
+            "text": "The desperation that they couldn't win against Yi Sun-shin had also made one thing clear, if they still wanted to dominate the ports of The City of the Dragon, they had to take Yi Sun-shin down."
+          },
+          {
+            "text": "However, they knew that they couldn't defeat him on within sea."
+          },
+          {
+            "text": "So, like the wicked pirates, they were, they resorted to trickery."
+          },
+          {
+            "text": "Dressed in disguise, the buccaneers infiltrated The City of the Dragon]] and spread rumors, claiming that Yi Sun-shin wasn't content with leading, just the naval fleet but wanted to rule the entire City of the Dragon and the Sea of Hope instead, after achieving something this extraordinary."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Exactly as expected by the pirate, the rulers of the city took the gossips as accusations, and the rumors as truths."
+          },
+          {
+            "text": "In no time, they dismissed Yi Sun-shin from his duty and made him a commoner."
+          },
+          {
+            "text": "Seeing this, the treacherous pirates moved on to their next part of the plan."
+          },
+          {
+            "text": "They spread another rumor saying that the pirates were assembling at the Frozen Sea, which was a chance to hunt them down, once and for all."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Despite how strongly Yi Sun-shin advised against it, the ruler took the bait and sent most of the Paenlong Fleet to this mission, leaving only a few vessels behind, to protect the harbor."
+          },
+          {
+            "text": "But what they didn't know was the pirates of the Frozen Seas and the Sea of Hope joined forces and set up a trap at the northern part of the Frozen Sea, waiting for the fleet to fall right into it.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sea of Hope"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The battle was a massacre."
+          },
+          {
+            "text": "Without Yi Sun-shin to lead, the rudderless navy was no match for the pirates, many veterans drowned to death and most of the battleships sank."
+          },
+          {
+            "text": "Flanked by the coalition of pirates, the once legendary navy was nearly wiped out."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Soon after these events, the victorious coalition of pirates sailed into The City of the Dragon, threatening to return and leave the place in ruins."
+          },
+          {
+            "text": "Without a navy to protect them, the people of the city were frightened."
+          },
+          {
+            "text": "Many civilians considered abandoning the homeland they had build."
+          },
+          {
+            "text": "Some, even suggested that the city should give all their properties to the pirates, in exchange for their lives."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was at this desperate moment that Yi Sun-shin stood up for his people, yet again."
+          },
+          {
+            "text": "He gave a motivational speech, restoring hope and morale to those who tried to run away or surrender."
+          },
+          {
+            "text": "He mobilized the civilians and armed them."
+          },
+          {
+            "text": "Soon he formed a new fleet consisting of many fishing boats and a few battleships."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When the coalition of pirates were at their doorstep, Yi Sun-shin led this new fleet to confront them, making a stank in his final fight, knowing he would have to sacrifice his life, for the greater good."
+          },
+          {
+            "text": "Yi Sun-shin commanded his own ship to charge ahead and lead the way, despite the heavy artillery firing, from the pirate ships."
+          },
+          {
+            "text": "Encouraged by Yi Sun-shin's heroic actions, the brave men of Paenlong sailed forward and miraculously won the battle, even after being in an extremely outnumbered situation."
+          },
+          {
+            "text": "The coalition of the pirates consisting of more than a hundred and fifty battleships was defeated by just twelve vessels and some fishing boats."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The pirates, who were in control of the two seas, were devastated in this battle and had become incapable of invading The City of the Dragon for at least, the next dozens of years to come."
+          },
+          {
+            "text": "As for Yi Sun-shin, he rebuilt the Paenlong Fleet, for the sake of The City of the Dragon and kept his watch over the seas."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "longbow"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "glaive"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Weapon Mastery"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Basic Attacks"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Glaive",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Yi Sun-shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "glaive",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "longbow",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Yi Sun-shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "glaive",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Malefic Gun"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Yi Sun-Shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Weapon Mastery",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Heavenly Vow",
+        "skill-effect-1": "Buff",
+        "description": "Yi Sun-shin attacks with his and  according to his distance from the target. : After each weapon switch, the next two  will gain extra Attack Speed, dealing 70% and 55% Crit Damage respectively, and gain 15% Movement Speed for 1 second.",
+        "notes": "*The attack range of is 1.9 unit.\n*The differentiation range is indicated by a red ring around . His current weapon is displayed below the health bar, with  on the left and  on the right.\n*The animation is visible to  only.\n*The  attack range is unaffected by .\n*Whether the last attack is considered ranged or melee is determined upon attacking, not upon hitting or landing.\n**Similarly,  gains Enhanced basic attack right after attacking.\n*When there are enhanced basic attack(s) left, there is a glow in his weapon. The enhanced basic attack plays a different sound in both types.\n*The enhanced basic attack lasts 5 seconds.\n*The next attack type to trigger  persists death.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-300",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Weapon Mastery"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Traceless"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Traceless",
+        "skill-tier": "First Skill",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "AOE",
+        "cooldown": "12.0 / 11.0 / 10.0 / 9.0 / 8.0 / 7.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "term-1": "Blink",
+        "term-2": "Control Immunity",
+        "description": "Yi Sun-shin dashes forward and slashes with his glaive, dealing and becoming immune to control effects for 1 second. Each  triggered reduces the cooldown of  by 1 second.",
+        "level-scaling": "Base Damage: 150 / 180 / 210 / 240 / 270 / 300",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Tap"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "240-340",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Hold"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "240-340",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Weapon Mastery"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Blood Floods",
+        "skill-tier": "Second Skill",
+        "skill-effect-1": "AoE",
+        "cooldown": "11.0",
+        "mana-cost": "60 / 65 / 70 / 75 / 80 / 85",
+        "cast-type-1": "Charging",
+        "description": ": Yi Sun-shin slashes swiftly with his glaive, dealing . : Yi Sun-shin shoots a powerful arrow, dealing  to the target. The arrow's damage scales with the hold time, up to 200%. Yi Sun-shin gains  immediately when this skill is used.",
+        "level-scaling": "*Slash Damage: 240 / 260 / 280 / 300 / 320 / 340\n*Arrow Damage: 240 / 260 / 280 / 300 / 320 / 340",
+        "notes": "*The tap/hold differentiation time is appr. 0.25 seconds.\n*The arrow damages enemies slightly longer than the indicator range.\n*When the arrow hits an enemy, even unsighted, an impact sound is played.\n*The arrow starts at 1.9 unit, and max range is approximately 7.6 unit.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "160-320",
+        "total-pa": "65",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "160-320",
+        "total-pa": "65",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Weapon Mastery"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Yi Sun-shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Weapon Mastery",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yi Sun-shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yi Sun-shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Mountain Shocker",
+        "image-2": "Mountain Shocker 2",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "cooldown": "60.0",
+        "mana-cost": "150 / 180 / 210",
+        "term-1": "Stun",
+        "description": "Yi Sun-shin summons a turtle ship and gains sight of the whole map for 5 seconds. The turtle ship lasts for up to 15 seconds, during which Yi Sun-shin gains 70% burst Movement Speed (decay to 20% over 2 seconds). When cast again, Yi Sun-shin commands the turtle ship to ram towards the target area, dealing and stunning enemy units in the central area for 0.8 seconds. Then Yi Sun-shin commands the naval fleet to launch 3 waves of cannon shots on a larger area, each dealing  and slowing the enemies by 30%. Yi Sun-shin gains  effect immediately when this skill is used.",
+        "level-scaling": "Base Damage: 150 / 225 / 300\nCannon Damage: 150 / 225 / 300",
+        "notes": "Global Reveal\n*Cooldown begins as soon as the ability is first cast.\n*Ignores untargetable enemies.\n*Despite the description, only gains  on the second cast.\n*Fully reveal units inside and outside of 's .\n* is still credited with an assist if an enemy is revealed but not damaged by this ability.\n*The speed bonus decays by 12.5% each 0.5 seconds,  gains 70%/57.5%/45%/32.5%/20% bonus Movement Speed within 0.5/1/1.5/2/2.5 after cast.\n\nTurtle Ship\n*The turtle ship has the cast range of 5.7 unit.\n*Damage is dealt three times over 2 seconds, with an interval of 0.75s.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Lapu-Lapu"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zetian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Yi Sun-shin (이순신) was a Korean Naval Commander in real life who was considered one of the greatest naval commanders and a hero in history, tied only with Horatio Nelson, having never been defeated at sea nor lost a single ship under his command towards the invasion of the enemy (Japan) making Yi Sun-shin as the only Korean hero in the game. In game, his name is spelled Yi Sun-shin, but the correct Romanization of his historical name is Yi Sun-sin (이순신).",
+          "links": [
+            {
+              "text": "Korean Naval Commander",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Yi_Sun-sin"
+            },
+            {
+              "text": "Horatio Nelson",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Horatio_Nelson,_1st_Viscount_Nelson Admiral"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Yi Sun-shin",
+              "Yi Sun-sin",
+              "이순신"
+            ],
+            "italic": [
+              "game"
+            ]
+          }
+        },
+        {
+          "text": "He is the first hero to be based from a historical figure, along with and."
+        },
+        {
+          "text": "His armor and weapons take inspiration from traditional Joseon-era Korean warriors.",
+          "links": [
+            {
+              "text": "Joseon-era",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Joseon"
+            }
+          ]
+        },
+        {
+          "text": "Currently, Yi Sun-shin is the only hero in the game who can change both the appearance & function of the allied base, as well as who has skins that change the allied base accordingly."
+        },
+        {
+          "text": "The Turtle Ship Geobukseon (거북선) was an iron-plated warship he used to dominate naval battles. The Turtle Ship (Geobukseon) was a revolutionary warship designed by the real Admiral Yi Sun-sin during the late 16th century, and it plays a key role in his MLBB design.",
+          "links": [
+            {
+              "text": "Geobukseon",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Turtle ship"
+            }
+          ]
+        },
+        {
+          "text": "Yi Sun-shin is the first and, so far, the only Assassin/Marksman hero in the game, whereas is an Marksman/Assassin.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Assassin"
+            },
+            {
+              "type": "internal",
+              "page": "Marksman"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

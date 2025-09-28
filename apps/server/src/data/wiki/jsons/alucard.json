@@ -1,0 +1,704 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Demon hunter who detest the darkness\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons."
+          },
+          {
+            "text": "Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons."
+          },
+          {
+            "text": "But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "6",
+          "20"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Xavier"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Granger"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Dyrroth"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Balmond"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Demon hunter who detest the darkness",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Alucard comic.jpg"
+        },
+        "caption": {
+          "text": "Alucard's 2017-2020 incarnation"
+        },
+        "chinese_name": {
+          "text": "阿鲁卡 (ālǔkǎ)"
+        },
+        "alias": {
+          "text": "*Demon Hunter\n*Striker of Lightborn Chevaliers\n*Arbiter of Light (formerly)"
+        },
+        "origin": {
+          "text": "Monastery of Light, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Monastery of Light"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Demon Hunter"
+        },
+        "affiliation": {
+          "text": "*Moniyan Empire (formerly)\n*The Abyss (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            },
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "dislikes": {
+          "text": "Demons"
+        },
+        "relationships": {
+          "text": "*Unnamed father (deceased)\n* (crush)\n*, (companions)\n*,, ,  (Lightborn co-members)\n*,  (allies) \n*, , ,  (enemies)"
+        },
+        "ja_va": {
+          "text": "Yano Masaaki (矢野 正明)",
+          "links": [
+            {
+              "text": "Yano Masaaki (矢野 正明)",
+              "type": "internal",
+              "page": "imdb:nm7295649"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Ari Wibowo"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The last great war is a glorious memory for the Moniyans."
+          },
+          {
+            "text": "The powerful Light's Order, together with the Imperial Border Guards, wiped out the demonic strongholds at the Moniyan and the Barren Lands pass, driving the fiends back to the hinterlands of the Forsaken Wastes.",
+            "links": [
+              {
+                "text": "Moniyan",
+                "type": "internal",
+                "page": "Moniyan Empire"
+              },
+              {
+                "type": "internal",
+                "page": "Barren Lands"
+              }
+            ]
+          },
+          {
+            "text": "But for young Alucard, the war was nothing but a terrible memory of pain and misery."
+          },
+          {
+            "text": "His father's second regiment suffered heavy losses due to a rash lone advance."
+          },
+          {
+            "text": "Alucard's father disappeared in the battle and was later declared dead by the Light's Order."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As they had disobeyed orders, the second regiment was not honored and praised for their sacrifice but labeled \"disobedient\" and criticized for their lack of discipline."
+          },
+          {
+            "text": "This was a huge blow to Alucard, who had always regarded his father as a hero and role model."
+          },
+          {
+            "text": "Facing shame and ridicule everywhere he went, the flames of revenge burned within his chest, and he became determined to bring honor to his father's name and eliminate all the demons in the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "And so, he left his hometown and journeyed to the ancient and mysterious Monastery of Light.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monastery of Light"
+              }
+            ]
+          },
+          {
+            "text": "As the orphaned son of a dead soldier, Alucard was soon accepted into the Monastery of Light."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the following years, Alucard studied a range of combat skills in the Monastery of Light."
+          },
+          {
+            "text": "With his natural talent and undying determination, he soon became the most promising student among his peers."
+          },
+          {
+            "text": "During his training, Tigreal, The Commander of the Light's Order, who had once fought in the second regiment with his father, often visited Alucard in the Monastery of Light, teaching him various advanced combat skills and telling him of his father's heroic deeds.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tigreal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Tigreal was already famous throughout the Empire at that time, and Alucard respected him greatly, regarding him as an elder brother of sorts."
+          },
+          {
+            "text": "However, whenever he mentioned his father's final battle, Tigreal always fell silent, his eyes filled with a wave of complex emotions."
+          },
+          {
+            "text": "Alucard was skeptical of the idea that his father had died in battle."
+          },
+          {
+            "text": "He was convinced that his father was still alive and was waiting for him somewhere."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the age of eighteen, Alucard finally completed all of his studies and formal preparations."
+          },
+          {
+            "text": "Encouraged by Tigreal, he became the monastery's Arbiter of Light."
+          },
+          {
+            "text": "He was ordered to go forth and eliminate the demons and heretics hidden throughout the world, and so he picked up his father's old sword, given to him by Tigreal, and set off."
+          },
+          {
+            "text": "In his father's name, and fueled by his deep hatred of demons, Alucard soon became the greatest demon hunter in the world."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "An unforeseen incident occurred during a demon hunting operation on the border of the Barren Lands."
+          },
+          {
+            "text": "Alucard was injured by a magic blade, sustaining a wound that could not be healed."
+          },
+          {
+            "text": "Darkness poured into his body from the wound, and his arm began to undergo a strange transformation... In order to prevent the mutation from spreading throughout his whole body, Alucard asked an old smith to help him forge a pair of gauntlets."
+          },
+          {
+            "text": "This was no ordinary smith — he was a survivor of that fated battle, a member of the Light's Order who covered his allies' retreat along with Alucard's father."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He recognized the huge sword in Alucard's hand."
+          },
+          {
+            "text": "After learning who he was, the old man told Alucard that the reason the second regiment was forced so deep into enemy territory was that the high-level knights at that time were greedy for glory and too impulsive, which led to the second regiment finding itself trapped in a tight encirclement."
+          },
+          {
+            "text": "In a moment of desperation, Alucard's father led some soldiers to cover the retreat of the main force headed by Tigreal, and was then swarmed by a tide of demons and disappeared."
+          },
+          {
+            "text": "He was the only survivor rescued by Alucard's father."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After learning the truth, Alucard returned to the capital and questioned Tigreal about the battle and why he hadn't told him what had really happened that day."
+          },
+          {
+            "text": "Seeing the anger gripping Alucard, Tigreal confessed the guilt he felt for abandoning his allies and the silence he was forced to maintain at the behest of his family."
+          },
+          {
+            "text": "He expressed his willingness to make up for it in any way he could, claiming that he would give his own life if he had to."
+          },
+          {
+            "text": "However, before Tigreal, who was once like a brother to him, the young Alucard was entangled in a web of confusion."
+          },
+          {
+            "text": "He couldn't bear to kill Tigreal, but he couldn't forgive him either."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For the sake of his father's honor, Alucard asked the Empire to reveal the truth of the second regiment and restore his father's name."
+          },
+          {
+            "text": "However, the knights of that battle had become some of the most powerful figures in the Empire."
+          },
+          {
+            "text": "They refused Alucard's request and drove him out of the capital."
+          },
+          {
+            "text": "On top of this, the puritanical Monastery of Light was strongly against Alucard's unnatural right hand, repeatedly making trouble for him and even calling him a heretic."
+          },
+          {
+            "text": "For the longest time, Alucard's deep hatred of the demons and his desire to regain his father's honor had spurred him on in his mission to serve as the Arbiter of Light."
+          },
+          {
+            "text": "But now, faced with the Empire that had betrayed his father, and a church that treated him with scorn, Alucard made an unthinkable decision: To betray the Monastery of Light and fight for himself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the following years, Alucard began wandering the Land of Dawn, annihilating demons everywhere he went on his own terms and searching for clues as to his father's whereabouts.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "His demonic right hand not only brought him great strength, but also became an unstable element which he was forced to hide under his heavy armor every day."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After a string of epic battles, Alucard became known as one of the most legendary fighters in Moniyan."
+          },
+          {
+            "text": "Soon, everyone knew that wherever demons ran rampant, the demon hunter with the dark right hand would no doubt descend from the sky and leave none alive."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "total-pa": "140",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Malefic Gun"
+        ],
+        "template": "ii"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Star Wars",
+        "name": "Pursuit",
+        "skill-effect-1": "Buff",
+        "description": "After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal.",
+        "properties": "*Enhanced Basic Attack Range: 4",
+        "term-1": "Physical Basic Attack",
+        "notes": "The range of Pursuit can be increased by and its passive Malefic Energy.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "270-370",
+        "extra-pa": "110",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Star Wars",
+        "name": "Groundsplitter",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "AOE",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "8.5 / 8.1 / 7.7 / 7.3 / 6.9 / 6.5",
+        "description": "Alucard rolls to the target location and slams his blade on the ground, dealing to enemies hit and slowing them by 40% for 2 seconds.",
+        "properties": "*Base Damage: 270 / 290 / 310 / 330 / 350 / 370",
+        "term-1": "Blink",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "345-570",
+        "extra-pa": "120",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Star Wars",
+        "name": "Whirling Smash",
+        "skill-effect-1": "AOE",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
+        "description": "Alucard launches a whirling slash, dealing to nearby enemies.",
+        "properties": "*Base Damage: 345 / 390 / 435 / 480 / 525 / 570",
+        "term-1": "Physical Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm total\\ CD\\ reduction} = (skill\\ CD\\ - CD\\ reduction\\ attribute%) - 50%",
+        "raw": "{\\rm total\\ CD\\ reduction} = (skill\\ CD\\ - CD\\ reduction\\ attribute%) - 50%\n"
+      },
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Active:"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Use Again",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "400-700",
+        "extra-pa": "200",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Star Wars",
+        "name": "Fission Wave",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Burst",
+        "cooldown": "40.0 / 35.0 / 30.0",
+        "description": "Alucard permanently gains 10%-30% extra Hybrid Lifesteal. Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and Hybrid Defense by 10-20. Alucard gains 10-20 Hybrid Defense for each enemy hero hit and reduces the cooldown of his other skills to 50% for 6 seconds. : Alucard releases a shockwave in the target direction, dealing  to enemies hit.",
+        "properties": "*Duration: 6.0\n*Hybrid Lifesteal (Passive): 10% / 20% / 30%\n*Hybrid Defense (Active): 10 / 15 / 20\n* Reduce Hybrid Defense (Enemies): 10 / 15 / 20\n*Base Damage: 400 / 550 / 700",
+        "term-2": "Hybrid Defense",
+        "term-1": "Physical Damage Skill",
+        "term-3": "Hybrid Lifesteal",
+        "notes": "*Fission Wave goes into cooldown on the first cast.\n*Despite the Fission Wave's Active description, Alucard can still gain the buff even if there are no enemies in the target direction during the initial cast.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Alucard spells backward as Dracula."
+        },
+        {
+          "text": "Alucard is a name popularized by the Castlevania video game franchise with the character with the same name.",
+          "links": [
+            {
+              "text": "''Castlevania'' video game franchise",
+              "type": "internal",
+              "page": "Wp:Castlevania"
+            },
+            {
+              "text": "character with the same name",
+              "type": "internal",
+              "page": "Wp:Alucard_(Castlevania)"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Castlevania"
+            ]
+          }
+        },
+        {
+          "text": "When MLBB was released as Mobile Legends: 5v5 MOBA in mid-2016, Alucard was named Dante, whose name is based on the video game character with the same name, and appearance from Nero of the Devil May Cry video game franchise.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Mobile Legends: 5v5 MOBA"
+            },
+            {
+              "text": "video game character with the same name",
+              "type": "internal",
+              "page": "Wp:Dante_(Devil_May_Cry)"
+            },
+            {
+              "text": "Nero",
+              "type": "internal",
+              "page": "Wp:Nero_(Devil_May_Cry)"
+            },
+            {
+              "text": "''Devil May Cry'' video game franchise",
+              "type": "internal",
+              "page": "wp:Devil_May_Cry"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Dante"
+            ],
+            "italic": [
+              "MLBB",
+              "Mobile Legends: 5v5 MOBA",
+              "Devil May Cry"
+            ]
+          }
+        },
+        {
+          "text": "His Legend Skin \"Obsidian Blade\" skill icons is the same as his old skill icon before the revamp."
+        },
+        {
+          "text": "His skin \"Child of the Fall\" is based on Sephiroth but his sword is based on Buster Sword from Final Fantasy.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "finalfantasy",
+              "page": "Sephiroth"
+            },
+            {
+              "text": "Final Fantasy",
+              "type": "interwiki",
+              "wiki": "finalfantasy",
+              "page": "Final_Fantasy_Wiki"
+            }
+          ]
+        },
+        {
+          "text": "His Lightborn skin has armor and a greatsword similar to Saber from Fate/Stay Night.",
+          "links": [
+            {
+              "text": "'''Saber from Fate/Stay Night'''.",
+              "type": "external",
+              "site": "https://typemoon.fandom.com/wiki/Artoria_Pendragon_(Saber)"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Saber from Fate/Stay Night"
+            ],
+            "italic": [
+              "Lightborn"
+            ]
+          }
+        },
+        {
+          "text": "In earlier MLBB artwork, Alucard wielded dual swords instead of a single greatsword. This was later changed to make his weapon style more distinct from other sword-wielding heroes."
+        },
+        {
+          "text": "His demonic hand can be seen in MLA and his old model and portraits."
+        },
+        {
+          "text": "In earlier versions of Alucard, his lifesteal would amplify beyond 100%, making him nearly unkillable in fights."
+        }
+      ]
+    ]
+  }
+]

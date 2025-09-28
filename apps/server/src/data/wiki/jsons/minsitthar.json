@@ -1,0 +1,590 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "After his first revamp on 22 March 2023, he became the face of Regular Season 28: Fearless.",
+            "links": [
+              {
+                "text": "22 March 2023",
+                "type": "internal",
+                "page": "Patch Notes 1.7.68"
+              },
+              {
+                "text": "Regular Season 28: Fearless",
+                "type": "internal",
+                "page": "Season 28"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Prince of the City of the Sand, an outstanding warrior\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A prince of the Vonetis Sea's Mahar Pura, good at fighting and winning."
+          },
+          {
+            "text": "He was expelled by his father because of a heretical love affair he had."
+          },
+          {
+            "text": "When his brother raised the flag of rebellion, Minsitthar, who was in exile, returned to his motherland, put down the rebellion and became the new king."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Prince of the City of the Sand, an outstanding warrior",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "*Courageus Warrior\n*King of Mahar Pura"
+        },
+        "origin": {
+          "text": "City of the Sand, Vonetis Sea",
+          "links": [
+            {
+              "type": "internal",
+              "page": "City of the Sand"
+            },
+            {
+              "type": "internal",
+              "page": "Vonetis Sea"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "title": {
+          "text": "King of Mahar Pura"
+        },
+        "weapons": {
+          "text": "*Spear of Glory\n*Shield"
+        },
+        "relationships": {
+          "text": "*Unnamed father (deceased)\n*Unnamed brother (deceased)\n*Unnamed lover"
+        },
+        "en_va": {
+          "text": "James Flynn (2018–2023)",
+          "links": [
+            {
+              "text": "James Flynn",
+              "type": "internal",
+              "page": "imdb:nm13429177"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Mahindra Yudha Permana"
+        },
+        "ja_va": {
+          "text": "Shinnosuke Ogami (拝 真之介)"
+        },
+        "es_va": {
+          "text": "Ricardo Mendoza",
+          "links": [
+            {
+              "text": "Ricardo Mendoza",
+              "type": "internal",
+              "page": "w:c:doblaje:Ricardo Mendoza"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "I stood under the towering castle wall, it was just another day in my commonplace life as a noteless maid."
+          },
+          {
+            "text": "A sudden baby cry shook the sun but the birth of a prince could not awaken my stranding life."
+          },
+          {
+            "text": "I stood under the towering castle wall, praises and blessings came to my ears: Some wished him to be benevolent; some wished him to be brave; some wished him to have a great future..."
+          },
+          {
+            "text": "I have seen so many royals and nobles in my life, their authorities are like knives at my throat."
+          },
+          {
+            "text": "Just like this moment, I am waiting for my masters to punish me as my senility made me break the dishes."
+          },
+          {
+            "text": "A little figure stands in front of me with a short wooden sword — the praised prince is protecting me just like he swore to protect his subjects."
+          },
+          {
+            "text": "Now I wish so much he could grow up safely and bring warmth to people like the sun over Mahar Pura."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kneeling on the cracked farmland, I prayed for the rain to save our dying crops, parched mouth, and despairing hearts."
+          },
+          {
+            "text": "But what came before the rain was our savior in golden armor, he brought us food and relieved our suffering."
+          },
+          {
+            "text": "When he looked down at his subjects, I could see a whole world in the depth of his eyes, a world that was as beautiful as a landscape."
+          },
+          {
+            "text": "When he raised his eyes, he noticed the figure of a little rosewood flower, which made the world in his eyes jump with joy."
+          },
+          {
+            "text": "Later, I was told that our savior, the crown prince of our kingdom, fell in love with a civilian girl."
+          },
+          {
+            "text": "He shook off his royal trifles and chased free life with the girl."
+          },
+          {
+            "text": "However, free life is not all about the starry sky and love."
+          },
+          {
+            "text": "It also means paddy, sack clothes, and hard work within fields."
+          },
+          {
+            "text": "This time, the prince finally got the chance to see the truth of the world and the lives of his fellow subjects."
+          },
+          {
+            "text": "I marched to the battlefield with my comrades as the enemy warships once again broke through our naval defenses."
+          },
+          {
+            "text": "The black waves flooded from the horizon toward us and soon turned into millions of blades."
+          },
+          {
+            "text": "My comrades, my brothers, were pierced by the blades."
+          },
+          {
+            "text": "They told me to bring their last smile back to our hometown."
+          },
+          {
+            "text": "The black clouds poured out from enemy ships, covering the sun."
+          },
+          {
+            "text": "We fought for our lives desperately but no hope could be seen."
+          },
+          {
+            "text": "Suddenly, a golden light split across the gloomy sky, driving away all the darkness on the battlefield."
+          },
+          {
+            "text": "I recognized the Sacred Spear in the comer's hand."
+          },
+          {
+            "text": "That was our crown prince!"
+          },
+          {
+            "text": "The sun of Mahar Pura!"
+          },
+          {
+            "text": "He blocked all the enemy attacks with his tough body."
+          },
+          {
+            "text": "He blew the horn to rally the desperate soldiers."
+          },
+          {
+            "text": "Torches gathered from all over the battlefield and formed a wildfire."
+          },
+          {
+            "text": "Under his leadership, we wrapped up all the darkness and pushed them back to where they came from."
+          },
+          {
+            "text": "Later, we knelt before our new king and swore to be his feet and spear."
+          },
+          {
+            "text": "May Mahar Pura shine forever."
+          },
+          {
+            "text": "I met him again at a very old age."
+          },
+          {
+            "text": "He returned to the palace and basked in the radiance of the crown again."
+          },
+          {
+            "text": "I was told he once put aside his duties and lived a farmer's life with his true love."
+          },
+          {
+            "text": "However, he couldn't turn a blind eye to the bitterness of his people."
+          },
+          {
+            "text": "He left his rosewood flower garden, reforged his Sacred Spear, and went back to the brutal battlefield."
+          },
+          {
+            "text": "Now I live behind the castle walls, free from the sound of battle horns."
+          },
+          {
+            "text": "Thanks to warriors like him, I can still pour wine with care and respect."
+          },
+          {
+            "text": "I offer him the cup of wine, he looks down, there's loneliness in his eyes."
+          },
+          {
+            "text": "But the bright sun still shines upon the unvarying land of Mahar Pura as always."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Minsitthar_lore_1.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Minsitthar_lore_1.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Minsitthar_lore_1.png",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:Minsitthar_lore_2.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Minsitthar_lore_2.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Minsitthar_lore_2.png",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:Minsitthar_lore_3.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Minsitthar_lore_3.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Minsitthar_lore_3.png",
+        "caption": "512px",
+        "links": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Mark of the King",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "300",
+        "total-hp": "6",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "300",
+        "total-hp": "6",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Brave Smite"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Mark of the King",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "description": "Minsitthar's Basic Attacks and skills apply a stack of, up to 5 stacks. Upon reaching max stacks, the next attack detonates all Mark of the King stacks, dealing and stunning the target for 0.8 seconds while healing Minsitthar for . Can only trigger once every 6 seconds on the same target.",
+        "properties": "*Mark Duration: 4.0",
+        "term-1": "Extra Physical Attack",
+        "term-2": "Stun",
+        "notes": "*Extra damage counts as skill damage.\n*It can trigger.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "175-300",
+        "extra-pa": "180",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "175-300",
+        "extra-pa": "180",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Minsitthar"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Spear of Glory",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "cooldown": "13.0 / 12.2 / 11.4 / 10.6 / 9.8 / 9.0",
+        "mana-cost": "95 / 105 / 115 / 125 / 135 / 145",
+        "description": "Minsitthar thrusts forward with the Spear of Glory, dealing and slowing enemies hit by 30%. Enemy heroes hit by the tip of the spear will be stunned for 0.6 seconds. After a short delay, Minsitthar pulls back the spear, dealing  to all enemies along the way and dragging enemy heroes hit to him.",
+        "properties": "*Base Damage: 175 / 200 / 225 / 250 / 275 / 300",
+        "term-1": "Extra Physical Attack",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Stun",
+        "notes": "*The spear pulls enemies into 's current position, which means it can be pulled sideways or further away with.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-450",
+        "extra-pa": "160",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Phalanx",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "image-2": "Shield Assault 2",
+        "name": "Shield Assault",
+        "skill-effect-1": "Reduce DMG",
+        "skill-effect-2": "Buff",
+        "cooldown": "7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "description": "Minsitthar awakens the power in his shield and releases it, dealing to all enemies in a rectangular area and slowing them by 80% (decaying rapidly over 2 seconds). Meanwhile, he enters  state for 3 seconds, reducing damage taken from the front by 25%–50% and enhancing his Basic Attack to swiftly strike an area in front of him.",
+        "properties": "*Phalanx Basic Attack Range: 5.0\n*Base Damage: 300 / 330 / 360 / 390 / 420 / 450\n*Damage Reduction: 25% / 30% / 35% / 40% / 45% / 50%",
+        "term-1": "Extra Physical Attack",
+        "term-2": "Physical Damage Skill",
+        "notes": "*Minsitthar's cannot change the direction he's facing during Phalanx state.\n* While in this stance, Minsitthar's Basic Attacks will have increased attack rate. (Patch Notes 1.7.68).\n* Minsitthar's enhanced Basic Attack can deal damage to turrets.\n* Casting other skills immediately ends Phalanx state.\n* This state can only be interrupted with suppressed.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "King's Calling",
+        "skill-effect-1": "Summon",
+        "skill-effect-2": "CC",
+        "cooldown": "60.0 / 55.0 / 50.0",
+        "mana-cost": "150 / 200 / 250",
+        "quote": "Where will I be?",
+        "description": "Minsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field for . Enemies in the field are slowed by 20% and cannot use movement skills.",
+        "properties": "*Duration: 5.0\n*Attack Effects: 40%\n*Attack Rate: 1 Basic ATK per 28/30 second",
+        "term-1": "Root",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Movement Speed",
+        "notes": "*Despite its description, casting King's Calling technically \"blinks\", not \"charges.\"\n*Royal Guards are invincible.\n* Royal Guards' basic attacks can trigger 40% Minsitthar's attack effects.\n*They benefit from attack speed but their attack rate is fixed by one (1) attack per 28/30 second. With this, they can only attack up to five times.\n*They benefit from critical chance but they cannot reduce the cooldown time of Windtalker's Unique Passive \"Typhoon\" (by either critical chance attribute or by attacking, making the passive only available on their first attack).\n*They cannot trigger Azure Blade and items whose one of the component items are Azure Blade due to their inability to cast skills.\n* The Guards will attack any enemies within its attack range but prioritizes enemies within the field.\n* Royal Guards do not benefit from penetration attribute items.\n** Royal Guards can gain penetration from War Axe's passive.\n\nMobility Disable Component:\n* Enemy abilities with Mobility tag in their description is disabled.\n* Enemies cannot purify or can be immune from root when they are within the area-of-effect of this skill, even by becoming untargetable.\n* For more detail, see root.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Making of Minsitthar Revamp: The Path to a True King",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Making_of_Minsitthar_Revamp_p1.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p1.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p1.jpg"
+          },
+          {
+            "file": "File:Making_of_Minsitthar_Revamp_p2.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p2.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p2.jpg"
+          },
+          {
+            "file": "File:Making_of_Minsitthar_Revamp_p3.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p3.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p3.jpg"
+          },
+          {
+            "file": "File:Making_of_Minsitthar_Revamp_p4.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p4.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p4.jpg"
+          },
+          {
+            "file": "File:Making_of_Minsitthar_Revamp_p5.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p5.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p5.jpg"
+          },
+          {
+            "file": "File:Making_of_Minsitthar_Revamp_p6.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p6.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Making_of_Minsitthar_Revamp_p6.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Minsitthar is based on King Kyansittha, a famous ruler of the Pagan Dynasty of Myanmar (Burma).",
+          "links": [
+            {
+              "text": "Myanmar (Burma)",
+              "type": "external",
+              "site": "https://www.britannica.com/place/Myanmar"
+            },
+            {
+              "text": "King Kyansittha",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Kyansittha"
+            }
+          ]
+        },
+        {
+          "text": "He is the first hero to have Burmese lines.",
+          "links": [
+            {
+              "text": "Burmese",
+              "type": "internal",
+              "page": "wp:Burmese language"
+            }
+          ]
+        },
+        {
+          "text": "His Ultimate (King’s Calling) summons royal guards who form a phalanx-style barrier. This makes him the only MLBB hero to use a military formation mechanic, preventing enemies from using blink skills inside it."
+        },
+        {
+          "text": "Minsitthar's background story, holds some resemblance to the film series \"Baahubali\".",
+          "links": [
+            {
+              "text": "Baahubali",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Baahubali (franchise)"
+            }
+          ]
+        },
+        {
+          "text": "It is also likely that his story is based on the life of the person it was based on, for the most part."
+        },
+        {
+          "text": "He is the only hero capable of inflicting the Rooted status.",
+          "links": [
+            {
+              "text": "Rooted",
+              "type": "internal",
+              "page": "Root"
+            }
+          ]
+        },
+        {
+          "text": "Early leaks suggested that Minsitthar was meant to be a tank, but he was later developed into a fighter with strong crowd control abilities. He retains some tank-like traits, such as damage reduction and sustain."
+        }
+      ]
+    ]
+  }
+]

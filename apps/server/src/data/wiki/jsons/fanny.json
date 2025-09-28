@@ -1,0 +1,714 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A blade dancer in the battlefield.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tigreal"
+              }
+            ]
+          },
+          {
+            "text": "But Tigreal took the blame for a mistake in battle and left home."
+          },
+          {
+            "text": "Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Fanny.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Fanny.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Fanny.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "6",
+          "11"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Granger"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A blade dancer in the battlefield.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "full_name": {
+          "text": "Fanny Wertz"
+        },
+        "chinese_name": {
+          "text": "梵妮 (fànnī)"
+        },
+        "alias": {
+          "text": "*Blade Dancer\n*Lightborn Ranger"
+        },
+        "origin": {
+          "text": "Imperial Sanctuary, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Imperial Sanctuary"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "age": {
+          "text": "17",
+          "number": 17
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "affiliation": {
+          "text": "*Moniyan Empire\n*Lightborn\n*The Abyss (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Lightborn"
+            },
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Soaring Blades\n*Steel cable",
+          "links": [
+            {
+              "text": "Steel cable",
+              "type": "internal",
+              "page": "Skill 2"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "Invasion of Lumina City",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Invasion of Lumina City"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "* (older brother, Lightbron co-member)\n*,, , (Lightborn co-members)\n*,  (companions)"
+        },
+        "en_va": {
+          "text": "Sandra Osborne (2020–)",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Sandra Osborne"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Ono Saki (小野 早稀)",
+          "links": [
+            {
+              "text": "Ono Saki (小野 早稀)",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Saki Ono"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Mirna Haryati"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Fanny Wertz is the youngest daughter of the Wertz family and the youngest sister of Tigreal.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tigreal"
+              }
+            ]
+          },
+          {
+            "text": "Although the men of the Wertz family served in the army for generations and guarded the Moniyan Empire, the female members of the family were never allowed to join the army.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "From the perspective of the men in the family, their duty was to protect the country and family from threats, and women were to stay away from war."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Therefore, ever since she was a child, Fanny had been asked to study painting and design art."
+          },
+          {
+            "text": "The elders of the family hoped that she could become a famous artist or designer, and help manage the family’s business."
+          },
+          {
+            "text": "But Fanny regarded this as beneath her."
+          },
+          {
+            "text": "From ever since she could remember, Tigreal was Fanny’s greatest hero."
+          },
+          {
+            "text": "She also hoped that one day, like her brother, she could fight on the front lines for the Imperial Army and guard the empire."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After she grew older, the active and rebellious Fanny became a nightmare for her tutor."
+          },
+          {
+            "text": "She was very tired of these old-fashioned classes."
+          },
+          {
+            "text": "She often ran away for various reasons and had a soft spot for dancing with weapons: but Fanny was so smart that even though she was tired of her lessons, she was able to gain an understanding in very short time."
+          },
+          {
+            "text": "Tigreal showed extreme affection to his rebellious sister."
+          },
+          {
+            "text": "Each time Tigreal returned to the Lumina City for repair and maintenance with the army, it was Fanny’s happiest day, because Tigreal would not only tell her some peculiar anecdotes and thrilling battlefield stories from various places, but also teach her some useful fighting skills, which made Fanny yearn even more for the military life.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lumina City"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, Tigreal firmly refused Fanny’s desire to join the army as he always did."
+          },
+          {
+            "text": "He did not want his only sister to be in danger."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Out of love for his younger sister, Tigreal promised that when Fanny turned 18, he would take her to the base of the Light’s Order to show her what it was like, so this expedition had special meaning for both Tigreal and Fanny."
+          },
+          {
+            "text": "However, just as Fanny was awaiting the triumphant return of her brother day and night, some news came from the front lines: Although the battle against the frontier demons was won, Tigreal, who lead the Second Division of the Light’s Order, had left his ranks for unknown reasons and disappeared."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "While the empire was holding a national celebration, the Wertz family entered a crisis."
+          },
+          {
+            "text": "For a time, deserters and cowards replaced heroes and commanders, and these words became synonymous with Tigreal."
+          },
+          {
+            "text": "The Wertz family, once famous throughout Moniyan, was discredited."
+          },
+          {
+            "text": "On the one hand, she worshiped her beloved brother, and the other hand, there were overwhelming rumors."
+          },
+          {
+            "text": "In the face of all this, Fanny fell into confusion, but after the confusion, she told herself in her heart: my brother is no coward, let alone a deserter."
+          },
+          {
+            "text": "In his absence, I must stand up and revitalize the glory of the Wertz family."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Afterwards, despite the fierce opposition from her mother and other elders, Fanny resolutely chose to join the army."
+          },
+          {
+            "text": "She wanted to use her actions to protect the dignity of her brother and the Wertz family."
+          },
+          {
+            "text": "But it did not go as smoothly as she had imagined."
+          },
+          {
+            "text": "When Fanny came to the barracks, she was greeted with laughter and derision: the soldiers were fully of prejudice against this pampered noble lady, and life in the barracks was far more difficult than she imagined."
+          },
+          {
+            "text": "The heavy training and lack of material conditions made it difficult for Fanny, who was used to a privileged life."
+          },
+          {
+            "text": "For this reason, Fanny got rid of her long hair that she loved, devoted twice as much effort to training, and successfully passed the recruitment test."
+          },
+          {
+            "text": "She was incorporated into the scout unit of the Imperial Garrison."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Several years into her scouting career, Fanny had truly grown and transformed."
+          },
+          {
+            "text": "As an imperial scout, Fanny often needed to roam between various steep mountains or other difficult terrain."
+          },
+          {
+            "text": "In order to overcome her physical and strength shortcomings, she inconceivably learned from Tigreal, combining her fighting skills with the design knowledge she learned before by designing and building a pair of long swords with steel cables for herself."
+          },
+          {
+            "text": "When she pulled the trigger, the steel cables would shoot from the hilt, grab on to the target, and pull Fanny over towards it."
+          },
+          {
+            "text": "After endless practice, Fanny finally mastered the sword, and with it, she shuttled between the cliffs, gracefully skimming all kinds of difficult and complicated terrain, successfully completing her missions again and again."
+          },
+          {
+            "text": "Her performance not only convinced those who were full of contempt and prejudice against her before, but also won her respect and prestige."
+          },
+          {
+            "text": "For her graceful and exquisite figure as she danced through the air, the soldiers kindly called her the “Blade Dancer”."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With her outstanding performance in the garrison, Fanny finally obtained the qualifications needed to be selected into the Light’s Order."
+          },
+          {
+            "text": "Even more surprisingly, Tigreal, her older brother who had been away from the Moniyan Empire for many years, also returned to his homeland from the distant Northern Vale.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              },
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "Seeing what his sister had done for the family, Tigreal praised Fanny, believing that she had become a great warrior, and invited her to stay by his side and fight shoulder to shoulder."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Travelers on the Land of Dawn, if you see a person flying by in the mountains and forests like a free bird, you must have seen Fanny’s graceful and swift figure.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "text": "[speed unknown]",
+        "template": "sup"
+      },
+      {
+        "list": [
+          "Prey Mark",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "text": "[amount unknown]",
+        "template": "sup"
+      },
+      {
+        "text": "[duration unknown]",
+        "template": "sup"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "variations-2": "Attack on Titan",
+        "name": "Air Superiority",
+        "skill-effect-1": "Buff",
+        "description": "During fight, Fanny deals 10%–20% extra damage to enemies hit (scales with flying speed[speed unknown]) and applies a stack of to them (up to 2 stacks) on each attack. Her subsequent skill hits on marked enemy heroes restore 7 energy per stack for her. The energy restoration is reduced[amount unknown] if she hits multiple enemy heroes within a short period of time.[duration unknown]",
+        "properties": "*Energy Gain Per Prey Mark Stack: 8 / 16",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-540",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "variations-2": "Attack on Titan",
+        "name": "Tornado Strike",
+        "skill-effect-1": "AOE",
+        "cooldown": "3.5 / 3.3 / 3.1 / 2.9 / 2.7 / 2.5",
+        "energy-cost": "15",
+        "description": "Fanny whirls her blades, dealing to nearby enemies.",
+        "properties": "*Base Damage: 300 / 348 / 396 / 444 / 492 / 540",
+        "term-1": "Physical Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Tornado Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Tornado Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Grock"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Guardian's Barrier"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Tornado Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Steel Cable"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Cut Throat"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Tornado Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "variations-2": "Attack on Titan",
+        "name": "Steel Cable",
+        "skill-effect-1": "Charge",
+        "cooldown": "0.0",
+        "energy-cost": "17 / 16 / 15 / 14 / 13 / 12",
+        "quote": "No way I'm going on foot!",
+        "description": "Fanny shoots a cable in the target direction that pulls her to the first obstacle hit. She can cast this skill again within 2 seconds until her energy runs out. Each successive cast reduces the skill's energy cost by 2. Fanny automatically casts upon hitting an enemy mid-flight, as long as her energy is sufficient.",
+        "term-1": "Charge",
+        "notes": "* must be learned to trigger it from Steel Cable.\n*\"Obstacles\" includes: the walls of a map, terrains, summoned constructs (e.g 's ), turrets, and the border of 's domain through .\n*During flight:\n**Fanny cannot manually cast the skill or basic attack.\n**The first Tornado Strike from Steel Cable costs energy and the subsequent attacks will not.\n**Each Tornado Strike for each Steel Cable cast is limited to one per target. Even though it appears to be an AOE, if Fanny initiates an additional Tornado Strike and opponents who have already received damage intersects with Fanny or the additional Tornado Strike, neither will damage the already damaged opponents. If a Tornado Strike hits more than one opponent, the limit is shared by all of them. i.e. To successfully attack the same target twice while in flight with Tornado Strike, Fanny must use another Steel Cable.\n*Fanny is vulnerable for approximately 0.7 seconds during the first steel cable cast, which, during the delay, the player is unable to control Fanny, including moving her via left joystick, casting basic attacks and casting her skills until the cable grapples successfully or if it fails and retracts back to Fanny. If at least one steel cable grapples succesfully, Steel Cable can be casted, with its energy cost reduced and no delay, consecutively within 2 seconds, this duration can be refreshed indefinitely as long Steel Cable grapples an obstacle within this duration.\n**Additionally, during the two seconds consecutive cast,  cannot be disabled by immobilized.\n*Tornado Strike from Steel Cable can still be triggered to targets who are invisible.\n*Her flight can only be interrupted by hitting an opposing obstacle, controlled by airborne, suppressed and displacement effect and the skill . All of the deployed cables will go back to Fanny if she is interrupted.\n* According to Death Replay, the Tornado Strike triggered by Steel Cable (if conditions are met) is considered damage dealt by the skill Steel Cable.\n* The speed of following cables, if they are destined to grapple, are much faster than the initial cast. This allows the player to have more control of Fanny's direction.\n* Tornado Strike animation and special effects from Steel Cable are slightly visually different from.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "500-860",
+        "extra-pa": "240",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Prey Mark",
+          "mark"
+        ],
+        "template": "avc1"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "variations-2": "Attack on Titan",
+        "name": "Cut Throat",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Blink",
+        "cooldown": "35.0 / 30.0 / 25.0",
+        "energy-cost": "30",
+        "description": "Fanny leaps at the target enemy hero or Creep with her blades, dealing . Each stack of of the target increases  this damage by 20%.",
+        "properties": "*Base Damage: 500 / 680 / 860\n*Extra Damage Per Prey Mark Stack: 20% / 40%",
+        "term-1": "Blink",
+        "term-2": "Physical Damage Skill",
+        "notes": "*Casting this skill will make deployed cables retract towards Fanny.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Images",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Punks_Wall.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Punks_Wall.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Punks_Wall.jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Energy"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Fanny's name could be derived from the word \"Fanny\" (short for Frances or Stefanie), but it might also come from the Germanic word fannen, meaning \"to capture\" or \"seize\"—which matches her fast, aggressive playstyle."
+        },
+        {
+          "text": "Her surname \"Wertz\" is a popular Germanic surname, either derived the Old English personal name Hwit, meaning \"the white one\" or derived from the Middle High German word \"wert\" meaning \"river island\", or \"river bank\"."
+        },
+        {
+          "text": "Fanny's appearance and fighting style resembles the soldiers in the Attack on Titan (進撃の巨人) series.",
+          "links": [
+            {
+              "text": "Attack on Titan (進撃の巨人)",
+              "type": "internal",
+              "page": "wp:Attack on Titan"
+            }
+          ]
+        },
+        {
+          "text": "Fanny is the most difficult hero according to the hero difficulty rating with 100%, the highest of all heroes."
+        },
+        {
+          "text": "She is the first heroes to use as the skill source."
+        },
+        {
+          "text": "She is the only hero without any form of crowd control on her kit, not even a slowing effect.",
+          "links": [
+            {
+              "text": "crowd control",
+              "type": "internal",
+              "page": "crowd control"
+            },
+            {
+              "text": "slowing",
+              "type": "internal",
+              "page": "slowing"
+            }
+          ]
+        },
+        {
+          "text": "Her skin \"Skylark\" is inspired to a type of bird skylark known for its high-speed flight and agility, perfectly matching Fanny’s fast, aerial combat style.",
+          "links": [
+            {
+              "text": "skylark",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Eurasian_skylark"
+            }
+          ]
+        },
+        {
+          "text": "and Fanny are among the few heroes in Mobile Legends with multiple couple skins with Fanny's \"Lifeguard\" and \"Heart Afloat\" being part of her romantic-themed skins."
+        }
+      ]
+    ]
+  }
+]

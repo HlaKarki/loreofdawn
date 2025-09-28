@@ -1,0 +1,836 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The owl scholar who can control time\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Diggie is a scholar from Eruditio.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eruditio"
+              }
+            ]
+          },
+          {
+            "text": "With his \"Time Nest\" Diggie can turn back time and even take others to a time travel with him unhindered by any outside forces."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Diggie_Lethal_Nexus_Map_Profile.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie_Lethal_Nexus_Map_Profile.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie_Lethal_Nexus_Map_Profile.png"
+          },
+          {
+            "file": "File:Diggie_Lethal_Nexus_Map_Background_Story.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie_Lethal_Nexus_Map_Background_Story.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie_Lethal_Nexus_Map_Background_Story.png"
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:</ref><ref_group=\"note\">Age_information_may_be_out_of_date._This_in-game_event,_which_included_ages_and_other_character_information,_was_held_before_the_Eruditio_region_update_in_2023._For_example,_in_this_event,_[[X.Borg]]'s_age_is_listed_as_26,_but_his_canon_age_is_currently_18,_according_to_his_official_Weibo_profile._For_these_reasons,_all_information_from_this_event_may_be_inaccurate_for_the_current_version.</ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_group%3D%22note%22%3EAge_information_may_be_out_of_date._This_in-game_event%2C_which_included_ages_and_other_character_information%2C_was_held_before_the_Eruditio_region_update_in_2023._For_example%2C_in_this_event%2C_%5B%5BX.Borg%5D%5D's_age_is_listed_as_26%2C_but_his_canon_age_is_currently_18%2C_according_to_his_official_Weibo_profile._For_these_reasons%2C_all_information_from_this_event_may_be_inaccurate_for_the_current_version.%3C%2Fref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_group%3D%22note%22%3EAge_information_may_be_out_of_date._This_in-game_event%2C_which_included_ages_and_other_character_information%2C_was_held_before_the_Eruditio_region_update_in_2023._For_example%2C_in_this_event%2C_%5B%5BX.Borg%5D%5D's_age_is_listed_as_26%2C_but_his_canon_age_is_currently_18%2C_according_to_his_official_Weibo_profile._For_these_reasons%2C_all_information_from_this_event_may_be_inaccurate_for_the_current_version.%3C%2Fref%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:Nature_Spirit",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Nature_Spirit?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Nature_Spirit"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:Advisor_of_the_Eruditio_Rangers",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Advisor_of_the_Eruditio_Rangers?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Advisor_of_the_Eruditio_Rangers"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:**Eruditio_Rangers",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/**Eruditio_Rangers?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/**Eruditio_Rangers"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[Diggie#Skill_1",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BDiggie%23Skill_1?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BDiggie%23Skill_1",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Time_manipulation",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Time_manipulation?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Time_manipulation"
+          },
+          {
+            "file": "File:*[[Diggie#Ultimate",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BDiggie%23Ultimate?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BDiggie%23Ultimate",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:</ref><ref_name=\"InfocardDiggie\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_name%3D%22InfocardDiggie%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_name%3D%22InfocardDiggie%22%3E"
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Diggie's_info_card.webp",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie's_info_card.webp?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie's_info_card.webp"
+          }
+        ]
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "The owl scholar who can control time",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Diggie comic.jpg"
+        },
+        "alias": {
+          "text": "*Timekeeper\n*Intellectual Owl"
+        },
+        "origin": {
+          "text": "Eruditio, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "age": {
+          "text": "15",
+          "number": 15
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Scholars and thinkers from all over the world are known to finally gather at the city of Antoinerei.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antoinerei"
+              }
+            ]
+          },
+          {
+            "text": "It is here where the commonly overlooked Diggie lives."
+          },
+          {
+            "text": "Many don't five a seconds to look to Diggie due to his small frame, until they come upon his researches in chronoscience."
+          },
+          {
+            "text": "Diggie loves clocks, he believes that within these little mechanical toys lies many more yet to be discovered secrets."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Through, the use of his \"Time Nest,\" Diggie can control the flow of time."
+          },
+          {
+            "text": "He is also has also able to release his friends from the physical shackles of time, taking them along with him."
+          },
+          {
+            "text": "Beware though, for itf you anger him, be prepared for the taste of a Hoot Hoot \"Time Bomb!\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lethal Nexus",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Although the little owl Diggie is small in stature, it is the wise of the Eruditio Rangers. When the entire Eruditio was thrown into crisis, Diggie not only served as a mastermind, but also waved his small wings to pass information. Thanks to him, Layla and the others finally reunited successfully.\""
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Eruditio's lore has been revamped on July 2023."
+        ],
+        "date": "11 December 2023",
+        "template": "outdated"
+      },
+      {
+        "text": "Although the little owl Diggie is small in stature, it is the wise of the Eruditio Rangers. When the entire Eruditio was thrown into crisis, Diggie not only served as a mastermind, but also waved his small wings to pass information. Thanks to him, Layla and the others finally reunited successfully.",
+        "template": "quote"
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "depth": 2,
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "name": "Young Again",
+        "skill-effect-1": "BUFF",
+        "description": "Upon death, Diggie reverses time and turns to egg form, in which he can continue to move around and gains a new set of skills. He cannot be targeted in egg form and will revive after a period of time.",
+        "term-1": "Untargetable",
+        "term-2": "Invincible",
+        "notes": "*Diggie provides vision on egg form.\n*Diggie will receive 75 extra movement speed during egg form.\n*Item unique passives are disabled on egg form.\n*There will be a 2-second delay to fully control Diggie after death or revival.\n**Diggie will be vulnerable to attacks 1 second after reviving.",
+        "bugs": "*Guardian Helmet Unique Passive-Recovery works during egg form.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "{{Ability"
+          },
+          {
+            "text": "}}"
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "math",
+        "formula": "\\begin{align}\n& {\\rm total\\ skill\\ DMG} = \\bigl[(480 + 20 \\times skill\\ lv.) + 100%\\ magic\\ power\\bigr]\\times \\bigl[100% + (1% \\times no.\\ of\\ Dangerous\\ Sparks\\ stacks )\\bigr] \\\\\n& {\\rm where}\\ 0 \\leq no.\\ of\\ Dangerous\\ Sparks\\ stacks \\leq 60\n\\end{align}",
+        "raw": "\\begin{align}\n& {\\rm total\\ skill\\ DMG} = \\bigl[(480 + 20 \\times skill\\ lv.) + 100%\\ magic\\ power\\bigr]\\times \\bigl[100% + (1% \\times no.\\ of\\ Dangerous\\ Sparks\\ stacks )\\bigr] \\\\\n& {\\rm where}\\ 0 \\leq no.\\ of\\ Dangerous\\ Sparks\\ stacks \\leq 60\n\\end{align}"
+      },
+      {
+        "list": [
+          "Disdain"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "5",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Disdain",
+        "skill-effect-1": "Damage",
+        "cooldown": "5.0",
+        "description": "Diggie displays serious disdain for the enemy, dealing a small amount of damage to surrounding enemies while venting anger.",
+        "notes": "* deals and can deal up to 6 times.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "image-2       ="
+        },
+        {
+          "text": "image-3       ="
+        },
+        {
+          "text": "image-4       ="
+        },
+        {
+          "text": "image-5       ="
+        },
+        {
+          "text": "image-6       ="
+        },
+        {
+          "text": "name          = Auto Alarm Bomb"
+        },
+        {
+          "text": "skill-effect-1 = AoE"
+        },
+        {
+          "text": "skill-effect-2 = Slowed"
+        },
+        {
+          "text": "cooldown      = 8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0"
+        },
+        {
+          "text": "mana-cost     = 70 / 80 / 90 / 100 / 110 / 120"
+        },
+        {
+          "text": "energy-cost   ="
+        },
+        {
+          "text": "quote         ="
+        },
+        {
+          "text": "description   = Diggie flings an owl alarm to the target location. The alarm will then remain stationary for 25 seconds or until it reacts to the first enemy in range, chasing them and exploding upon collision. The explosion deals {{Scale|base=500-600|total-mp=100|md}} to nearby enemies and slows them by 30%. Diggie gains 2 stacks of {{b|Dangerous Sparks|stack}} each time an enemy hero is hit by the explosion (up to 60 stacks), each stack increasing the skill's damage by 1%. Diggie loses half the stacks upon death, but can gain 1 stack of Dangerous Sparks each time his skill hits an enemy hero when in the egg form. Up to 5 owl alarms can exist at the same time.",
+          "links": [
+            {
+              "text": "slows",
+              "type": "internal",
+              "page": "slows"
+            },
+            {
+              "text": "death",
+              "type": "internal",
+              "page": "death"
+            }
+          ]
+        },
+        {
+          "text": "properties    = *Spell Vamp Ratio: 50%",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Spell Vamp Ratio"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Spell Vamp Ratio:"
+            ]
+          }
+        },
+        {
+          "text": "Base Damage: 500 / 520 / 540 / 560 / 580 / 600",
+          "formatting": {
+            "bold": [
+              "Base Damage:"
+            ]
+          }
+        },
+        {
+          "text": "Extra Skill Damage Per Dangerous Sparks Stack: 1% / 2% / 3% / … / 60%}",
+          "formatting": {
+            "bold": [
+              "Extra Skill Damage Per Dangerous Sparks Stack:"
+            ]
+          }
+        },
+        {
+          "text": "calc          ="
+        },
+        {
+          "text": "term-1        = Movement Speed"
+        },
+        {
+          "text": "term-2        = Magic Damage Skill"
+        },
+        {
+          "text": "term-3        ="
+        },
+        {
+          "text": "notes         = *Stacking up Dangerous Sparks for each egg form skills has 1 second cooldown.",
+          "links": [
+            {
+              "text": "cooldown",
+              "type": "internal",
+              "page": "cooldown"
+            }
+          ]
+        },
+        {
+          "text": "When thrown into an enemy unit, the owl alarm detonates immediately rather than chasing the enemy as a ward."
+        },
+        {
+          "text": "bugs          ="
+        }
+      ],
+      [
+        {
+          "text": "-|Egg Form="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "150-400",
+        "total-mp": "100",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Reverse Time",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "cooldown": "15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0",
+        "mana-cost": "90",
+        "description": "Diggie marks a target enemy hero for 4 seconds and pulls them back to heir previous location after the duration ends, dealing and slowing it by 80%. If the enemy moves out of the circle, the pull will be triggered easily.",
+        "properties": "*Base Damage: 150 / 200 / 250 / 300 / 350 / 400",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Egg Dance"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "5",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Egg Dance",
+        "skill-effect-1": "Damage",
+        "cooldown": "5.0",
+        "description": "Diggie happily dance his hometown jig, dealing a small amount of damage to enemies.\ncalc          =",
+        "notes": "* deals and can deal up to 10 times.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Egg Form="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "650-880",
+        "total-mp": "300",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Time Journey",
+        "skill-effect-1": "CC Immune",
+        "skill-effect-2": "Speed Up",
+        "cooldown": "76.0 / 70.0 / 64.0",
+        "mana-cost": "130 / 150 / 170",
+        "description": "Diggie removes all debuffs on nearby allied heroes (including himself) and grants them and Control Immunity for 3 seconds. He also gains 50% Movement Speed for 0.5 seconds.",
+        "properties": "*Base Shield: 650 / 765 / 880",
+        "term-1": "Control Immunity",
+        "term-2": "Shield",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Victory Prayer"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "5",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Victory Prayer",
+        "skill-effect-1": "BUFF",
+        "cooldown": "5.0",
+        "description": "Diggie rolls on the ground, praying for the enemy's base to explode immediately. They say it's impossible to happen.",
+        "notes": "* deals and can deal up to 12 times.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Default="
+        }
+      ],
+      [
+        {
+          "text": "-|Egg Form="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Sprites",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Diggie_Outlaw_sprite.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie_Outlaw_sprite.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Diggie_Outlaw_sprite.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Akai"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bane"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Sun"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chip"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Vale"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "He,, , and  are the only anthropomorphous heroes in the game."
+        },
+        {
+          "text": "His design is inspired by owls, symbolizing wisdom and intelligence.",
+          "formatting": {
+            "bold": [
+              "owls"
+            ]
+          }
+        },
+        {
+          "text": "Diggie held the record for longest gap between hero release and new skin at almost 18 months (November 2017 - May 2019), but this record was later broken by, who has not had a new skin ever since he was released in January 2019 (Cerulean Wind) and was offcialy announched in January 2021 (Kannagi).",
+          "formatting": {
+            "bold": [
+              "almost 18 months (November 2017 - May 2019)"
+            ]
+          }
+        },
+        {
+          "text": "Diggie is the only hero where he can still be controlled by the player, even upon death."
+        },
+        {
+          "text": "His in-game file name is \"digger\"."
+        },
+        {
+          "text": "Although Diggie description says it is a male, he is voiced by a female voice actor, Feena Glynn."
+        },
+        {
+          "text": "His voicelines. \"I have a clumsy new apprentice called Einstein\", is a reference to a famous scientist named Albert Einstein.",
+          "links": [
+            {
+              "text": "Albert Einstein",
+              "type": "external",
+              "site": "https://www.britannica.com/biography/Albert-Einstein"
+            }
+          ]
+        },
+        {
+          "text": "He has voicelines that break the fourth wall."
+        }
+      ]
+    ]
+  }
+]

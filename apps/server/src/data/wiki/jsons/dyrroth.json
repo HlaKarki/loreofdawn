@@ -1,0 +1,954 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "magic_def1": "15",
+        "magic_def15": "50",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Prince of the Empire who was kidnapped and use by the Abyss\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Prince of the Moniyan Empire, raised by Alice and Thamuz after being kidnapped.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              },
+              {
+                "type": "internal",
+                "page": "Alice"
+              },
+              {
+                "type": "internal",
+                "page": "Thamuz"
+              }
+            ]
+          },
+          {
+            "text": "He won a duel witnessed by Thamuz."
+          },
+          {
+            "text": "After the conflict between Light and Dark, the Son of Darkness was about to represent the lord of the Abyss and lead the Abyssal Army to the [battlefront].",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abyss"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Dyrroth_teaser.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dyrroth_teaser.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dyrroth_teaser.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Dyrroth_child.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dyrroth_child.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dyrroth_child.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Son_of_Darkness{{cite}}",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Son_of_Darkness%7B%7Bcite%7D%7D?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Son_of_Darkness%7B%7Bcite%7D%7D"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Prince_of_the_Abyss_(current)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_of_the_Abyss_(current)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_of_the_Abyss_(current)"
+          },
+          {
+            "file": "File:*Prince_of_the_Moniyan_Empire_(former)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_of_the_Moniyan_Empire_(former)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_of_the_Moniyan_Empire_(former)"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Moniyan_Empire_(enemies)",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Moniyan_Empire_(enemies)?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Moniyan_Empire_(enemies)"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Invasion_of_Moniyan_Empire",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Invasion_of_Moniyan_Empire?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Invasion_of_Moniyan_Empire"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Dyrroth_Info.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dyrroth_Info.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dyrroth_Info.jpg"
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:</ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*His_demon_tail",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*His_demon_tail?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*His_demon_tail"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Unnamed_mother",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Unnamed_mother?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Unnamed_mother"
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Part_1_of_Odettes_Expanded_Lore_in_official_discord.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Part_1_of_Odettes_Expanded_Lore_in_official_discord.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Part_1_of_Odettes_Expanded_Lore_in_official_discord.png"
+          },
+          {
+            "file": "File:Part_2_of_Odettes_Expanded_Lore_in_official_discord.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Part_2_of_Odettes_Expanded_Lore_in_official_discord.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Part_2_of_Odettes_Expanded_Lore_in_official_discord.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Silvanna &sect; Story"
+        ],
+        "date": "19 March 2022",
+        "template": "retcon"
+      },
+      {
+        "list": [
+          "Vexana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Obsidia"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Prince of the Empire who was kidnapped and use by the Abyss",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "* (relative) \n*Lord Gaius (relative) \n* (enemy)\n*Sirius IV (grandfather) \n*Odette's unnamed uncle (1st cousin once removed) \n*Prince Alvin I (great-uncle) \n*Prince Alvin II (1st cousin once removed) \n*Gaius Alvin (ancestor)",
+          "links": [
+            {
+              "text": "Gaius Alvin",
+              "type": "internal",
+              "page": "Emperor Gaius of Moniyan"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Joe Goffeney",
+          "links": [
+            {
+              "text": "Joe Goffeney",
+              "type": "internal",
+              "page": "imdb:nm9428753"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Morimoto Taito (森本 太登)"
+        },
+        "id_va": {
+          "text": "Richard Miracle Rehabeam Toelle"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Twelve years ago, a prince was born in the Moniyan Empire.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "He was a symbol of salvation and justice for his people."
+          },
+          {
+            "text": "It was believed that he would lead the Moniyan Empire in unifying the Land of Dawn."
+          },
+          {
+            "text": "The Empire Nobles gave everything to the prince."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the day of prince's first birthday[,] he was found dead in his baby bed blanketed in blood."
+          },
+          {
+            "text": "The room was covered with claw marks and the guards in charge of protecting the prince were also found dead."
+          },
+          {
+            "text": "Sorrow engulfed the whole Moniyan Empire."
+          },
+          {
+            "text": "The hope of the Empire had fallen and, to this day, there has never been such an inspiring prince."
+          },
+          {
+            "text": "Some people believed the prince was killed by the Demons, while others still hoped the Prince was alive."
+          },
+          {
+            "text": "The Empire Nobles appointed the Imperial Knights and the Monastery of Light to find out the truth."
+          },
+          {
+            "text": "At the same time, the Son of Darkness was \"born\" too…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After several years, something strange appeared in the Southern Hills of the Moniyan Empire."
+          },
+          {
+            "text": "In the deepest part of the Abyss, Thamuz, the Lord Lava, watched a special battle.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abyss"
+              },
+              {
+                "text": "Thamuz, the Lord Lava",
+                "type": "internal",
+                "page": "Thamuz"
+              }
+            ]
+          },
+          {
+            "text": "In this glorious battle, the monsters fought with each other until the strongest emerged."
+          },
+          {
+            "text": "He not only possessed the best Evil Gene but also proved to be the strongest fighter in the Demons."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alice embraced the beloved fighter and recalled the \"Royal Plan\" that she had carried out.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alice"
+              }
+            ]
+          },
+          {
+            "text": "He was a masterpiece for her."
+          },
+          {
+            "text": "He mastered Alice's trick, deception, and military strategy."
+          },
+          {
+            "text": "He also learned combat from Thamuz."
+          },
+          {
+            "text": "Now, the Son of Darkness is a capable assistant for the Abyss."
+          },
+          {
+            "text": "He will represent the Lord of the Abyss, fighting against the Moniyan Empire, implementing the \"Dawn Plan\", and destroying the \"Shining Spark\" of the Empire."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "depth": 2,
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Rage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Burst Strike - Abyss Enhanced",
+          "Burst Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Spectre Step - Abyss Enhanced",
+          "Spectre Step"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Basic Attacks"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Circle Strike",
+          "skill"
+        ],
+        "template": "b"
+      },
+      {
+        "total-pa": "160",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "40% of the damage dealt",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "CD"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Burst Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Spectre Step"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "HUNTER×HUNTER",
+        "image-2": "Circle Strike",
+        "image-3": "Circle Strike 2",
+        "name": "Wrath of the Abyss",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "HEAL",
+        "description": "When Dyrroth's reaches 50%, he will enhance  and .\nAfter each 2, Dyrroth will release , dealing  to enemies in the circle and regenerating [50 +  ] (Circle Strike doesn't have ATK Effect). Each time he hits an enemy hero, the  of  and  will be decreased by 1 second.",
+        "term-1": "Physical Skill",
+        "term-2": "Regen Effect",
+        "term-3": "CD",
+        "notes": "*Circle Strike can critically strike and benefits from Physical Lifesteal.\n*It counts as a skill and can benefit from skill effects.\n*Circle Strike HP regeneration is halved against minions.\n*Circle Strike deals same damage as regular basic attack against turrets.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-450",
+        "extra-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "slows"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "75%",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Abyss Enhanced",
+          "skill"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "140% of the original damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Burst Strike - Abyss Enhanced"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Rage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Rage"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "HUNTER×HUNTER",
+        "image-2": "Burst Strike - Abyss Enhanced",
+        "image-kof": "Burst Strike",
+        "name": "Burst Strike",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slowed",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "5.0",
+        "description": "Dyrroth releases a burst strike in a designated direction. Each burst deals to enemies and  them by 25% for 1.5 seconds. (The damage decays against the same target and decreases to only  on minions.) : Burst Strike has a longer range, deals, and its slow effect is doubled.",
+        "ls-1": "Base Damage: 200 / 250 / 300 / 350 / 400 / 450",
+        "ss-1": "Decay Ratio: {100%, 30%, 30%}",
+        "ss-2": "Decay Ratio (Abyss Enhanced): {140%, 42%, 42%, 42%, 42%}",
+        "term-1": "Physical Skill",
+        "term-2": "Movement Speed",
+        "notes": "* costs 50 .\n*Dyrroth regens 10 for each enemy hit of this skill.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "230-355",
+        "extra-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "345-570",
+        "extra-pa": "120",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Abyss Enhanced",
+          "skill"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "150% of the original damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Spectre Step - Abyss Enhanced"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Rage"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "115 / 130 / 145 / 160 / 175 / 190",
+        "extra-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "HUNTER×HUNTER",
+        "image-2": "Spectre Step 2",
+        "image-3": "Spectre Step - Abyss Enhanced",
+        "image-4": "Spectre Step - Abyss Enhanced 2",
+        "name": "Spectre Step",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Damage",
+        "cooldown": "8.0 / 7.2 / 6.4 / 5.6 / 4.8 / 4.0",
+        "description": "Dyrroth dashes in the designated direction. He will stop when he hits a [non-minion] target, dealing to enemies. When he uses this skill again, he will lock onto a [non-minion] target and release a Fatal Strike, dealing [a total of]  and reducing the target's Physical Defense by 40% for 4 seconds. : Fatal Strike will deal, slow the target by an extra 90% [for 1 second] and reduce the target's Physical Defense by 60% [instead] for 4 seconds.",
+        "ls-1": "Base Damage: 230 / 255 / 280 / 305 / 330 / 355",
+        "ls-2": "Added Damage: 345 / 390 / 435 / 480 / 525 / 570",
+        "term-1": "Blink",
+        "term-2": "Extra Physical ATK",
+        "term-3": "Physical Defense",
+        "notes": "* costs 50 .\n*Bumping into an enemy hero with phase 1 of this skill applies mini knockback effect.\n*Phase 2 of this skill deals damage for 3 times, each dealing .\n*The skill goes into cooldown on the first cast.\n*Fatal Strike cannot target minions and, oddly, the summoned Lord.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "650-1250",
+        "extra-pa": "250",
+        "lost-hp": "enemies' 20",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Abysm Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "HUNTER×HUNTER",
+        "name": "Abysm Strike",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Slowed",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "36.0 / 32.0 / 28.0",
+        "description": "After a short delay, Dyrroth launches a destrucive strike in the target direction (cannot be interrupted), dealing to enemies along the way and slowing them by 55% for 0.8 seconds.",
+        "ls-1": "Base Damage: 650 / 950 / 1250",
+        "term-1": "Lost HP",
+        "term-2": "Blink",
+        "term-3": "Movement Speed",
+        "notes": "* deals up to 1500 / 2000 / 2500 to non-hero units.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "BUFF",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Dyrroth-Silvanna BUFF"
+        },
+        "name": {
+          "text": "Dyrroth BUFF"
+        },
+        "description": {
+          "text": "If is in the enemy's team, increases self's attack speed by 1%.",
+          "links": [
+            {
+              "text": "attack speed",
+              "type": "internal",
+              "page": "attack speed"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Eye_of_Dawn_Balmonds_Betrayal.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Eye_of_Dawn_Balmonds_Betrayal.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Eye_of_Dawn_Balmonds_Betrayal.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Balmond"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Spectre Step"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Physical Defense Reduction",
+          "physical defense"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Abysm Strike",
+          "Ultimate"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Layla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Destruction Rush",
+          "Ultimate"
+        ],
+        "template": "ai"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Dyrroth's English voice actor, Joe Goffeney, reprises his role as late as February 2023 for providing exclusive voices of Dyrroth's Collector skin, making him the longest recurring voice actor of a single character for almost five years."
+        },
+        {
+          "text": "Dyrroth is one of the only heroes in the game to have a Siblings buff shared with a specific opposing hero."
+        },
+        {
+          "text": "According to a Facebook post by MLBB, Dyrroth conquered and defeated 's and the orcs. Balmond surrendered to him, causing Balmond to fall to Dyrroth’s power. Balmond and the orcs have been dominated, tormented and tyrannized by Dyrroth."
+        },
+        {
+          "text": "Dyrroth was named Dyrus, then Darius when he was first released in the Advanced Server.",
+          "formatting": {
+            "bold": [
+              "Dyrus",
+              "Darius"
+            ]
+          }
+        },
+        {
+          "text": "His entrance voice was changed before it was released in the Original Server."
+        },
+        {
+          "text": "His 2nd skill, previously could knock up enemy, but it was changed to.",
+          "links": [
+            {
+              "text": "knock up",
+              "type": "internal",
+              "page": "knock up"
+            }
+          ]
+        },
+        {
+          "text": "His was called Destruction Rush before being changed to Abysm Strike. Likely because the name was already used for 's.",
+          "formatting": {
+            "bold": [
+              "Destruction Rush"
+            ]
+          }
+        },
+        {
+          "text": "Since Dyrroth is Silvanna’s own younger brother, all her relatives are his relatives too."
+        }
+      ]
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  }
+]

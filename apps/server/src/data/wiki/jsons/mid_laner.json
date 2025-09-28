@@ -1,0 +1,742 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "<p style=\"font-size:9pt;text-align:center;padding: 20px 0 15px 0;\">There are currently 29 heroes that are recommended take the Middle Lane.",
+            "formatting": {
+              "bold": [
+                "29",
+                "Middle Lane"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "mid laner note"
+      },
+      {
+        "template": "clr"
+      },
+      {
+        "name": "Aurora",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Cecilion",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Chang'e",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Cyclops",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Eudora",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Faramis",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Gord",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Gusion",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Harith",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Kadita",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Kagura",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Kimmy",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Lunox",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Luo Yi",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Lylia",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Nana",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Novaria",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Odette",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Pharsa",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Selena",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Vale",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Valentina",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Valir",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Vexana",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Xavier",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Yve",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Zetian",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Zhask",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Zhuxin",
+        "template": "hero-box-xs"
+      }
+    ]
+  },
+  {
+    "title": "Meta Mid laners",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "It is recommended that you practice each Mid lane hero at least once, so that you know enemy skill types, cooldowns, and learn matchups and recommended skill builds for different heroes."
+          },
+          {
+            "text": "A Mid laner will determine the pick off and ganking routes (because mid laners usually rotate with the roamer)."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "These heroes are currently meta and will dominate (most of the time as shown in tournaments) if you mastered them (In no particular order):"
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "name": "Pharsa",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Valentina",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Luo Yi",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Zhuxin",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Kimmy",
+        "template": "hero-box-xs"
+      },
+      {
+        "name": "Yve",
+        "template": "hero-box-xs"
+      }
+    ]
+  },
+  {
+    "title": "List of \"Unofficial\" Mid Laners",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Note: Keep in mind these heroes were not officially listed as Mid Laners but were used as Mid Laners in higher ranks and pro tournaments as their purposes explained down here or they were once referred officially as Mid Laners before being removed from the list."
+          },
+          {
+            "text": "Putting heroes on this list who were said to be \"used\" for \"trolling\" or throwing the game, used for \"personal gain\", used in lower ranks on the Middle Lane will be discouraged."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Angela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bane"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Joy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Julian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Terizla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lapu-Lapu"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chou"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alpha"
+        ],
+        "template": "hi"
+      }
+    ]
+  },
+  {
+    "title": "Categories",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Mid Laners are \"unofficially\" divided into different categories."
+          }
+        ]
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Aurora"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Eudora"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Faramis"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Vale"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Valentina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Vexana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zhuxin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Angela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Terizla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lapu-Lapu"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Valir"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kimmy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Nana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yve"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zhask"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zetian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bane"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Terizla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Cecilion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chang'e"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Cyclops"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gord"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lylia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Novaria"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Odette"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Pharsa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Xavier"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alpha"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kadita"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Joy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Julian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chou"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Utility Mid Laners - are Mid Laners who have strong crowd control and utility to provide the team either having low or high damage."
+        },
+        {
+          "text": "Official"
+        },
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Hybrid Mid Laners - are Mid Laners who can deal continuous damage at the same time they have strong crowd control and utility giving a great advantage to the team."
+        },
+        {
+          "text": "Official"
+        },
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Damage Mid Laners - are Mid Laners who deal continuous or high amount of damage but have weaker crowd control and utility to provide their team."
+        },
+        {
+          "text": "Official"
+        },
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "High Dive Mid Laners - are Mid Laners who can survive dangerous situations at a greater advantage through their high mobility skills. Melee Mage Hybrids, Magic Damage Speciality Melee & Mages with High Mobility are part of this category."
+        },
+        {
+          "text": "Official"
+        },
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ],
+      [
+        {
+          "text": "Unofficial"
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,649 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the youngest daughter of one of the few noble households in the Land of Dawn, House Baroque, she studied at the Magic Academy since she was a child, and is extremely talented in magic.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              },
+              {
+                "type": "internal",
+                "page": "House Baroque"
+              },
+              {
+                "type": "internal",
+                "page": "Magic Academy"
+              }
+            ]
+          },
+          {
+            "text": "The household wanted her to marry into another household with a higher status."
+          },
+          {
+            "text": "Unwilling to be used as a political bargaining chip, Guinevere decided to seek help from her elder brother Lancelot."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Guinevere_comic.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Guinevere_comic.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Guinevere_comic.png",
+            "caption": {}
+          },
+          {
+            "file": "File:Little_gwen.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Little_gwen.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Little_gwen.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Profile_CN_Guinevere.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Guinevere.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Guinevere.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Aristocratic girl with a strange temperament, loved by her elder brother Lancelot.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "born": {
+          "text": "Castle Gorge, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Castle Gorge"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "age": {
+          "text": "16",
+          "number": 16
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "title": {
+          "text": "Member of House Baroque"
+        },
+        "affiliation": {
+          "text": "House Baroque",
+          "links": [
+            {
+              "type": "internal",
+              "page": "House Baroque"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Crystal Violet"
+        },
+        "abilities": {
+          "text": "*Super Magic\n*Anti-gravity magic",
+          "links": [
+            {
+              "text": "Super Magic",
+              "type": "internal",
+              "page": "Guinevere",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Anti-gravity magic",
+              "type": "internal",
+              "page": "Guinevere",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "likes": {
+          "text": "Rose Petal Mead"
+        },
+        "relationships": {
+          "text": "*Duke Baroque II (father)\n*Unnamed mother\n* (older brother)\n*Eren (pretend fiancé)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eren"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Yurie Hoyoyon (ゆりえほよよん)",
+          "links": [
+            {
+              "text": "Yurie Hoyoyon (ゆりえほよよん)",
+              "type": "external",
+              "site": "https://www.youtube.com/c/YurieHoyoyon/about"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Ika Zidane"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Baroque family is one of the few nobles on the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "The most prestigious skill of theirs, fencing, the family's forte, discourages countless opponents from even thinking about attacking."
+          },
+          {
+            "text": "In addition, beauty and wisdom are also the most perfect genetic signs of the Baroque family, just like the eternal beauty and love of Violet."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "World-famous as Baroque family's fencing is, young Guinevere doesn't like it at all."
+          },
+          {
+            "text": "Just like other girls, she is naturally fond of gorgeous things."
+          },
+          {
+            "text": "From youth, she was sent to the Magic Academy.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magic Academy"
+              }
+            ]
+          },
+          {
+            "text": "Relying on her own sensitive spiritual perception and anti-gravity magic, when Guinevere was 10 years old, she successfully combined mental perception with super energy and invented multiple magic effects — magic superpower."
+          },
+          {
+            "text": "Such a breakthrough made Guinevere more passionate about magic, and she often experimented with her new magic on her brother, Lancelot.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lancelot"
+              }
+            ]
+          },
+          {
+            "text": "No matter how Lancelot hides, he will be found by his sister."
+          },
+          {
+            "text": "Therefore, Lancelot is often caught in an unknown thrill."
+          },
+          {
+            "text": "In his childhood, his sister was always causing him a headache."
+          },
+          {
+            "text": "But anyhow, Lancelot still loves Guinevere."
+          },
+          {
+            "text": "He always shows a smile to his beloved sister."
+          },
+          {
+            "text": "But every time when Lancelot thinks of his little sister's magic experiment, he would wear a bitter smile."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Recently, something has been plaguing Guinevere, making her uneasy."
+          },
+          {
+            "text": "It is said that the Paxley nobles who have a very high magical status have proposed marriage to the Baroque family."
+          },
+          {
+            "text": "Guinevere is undoubtedly the most suitable choice and Guinevere's father seems to be very willing with the marriage."
+          },
+          {
+            "text": "But the reluctant Guinevere suddenly thinks of an idea—she hopes to find her brother Lancelot&#8230;"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "A \"Bloody\" Marriage",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "A \"Bloody\" Marriage"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Go-Rose-Go",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Go-Rose-Go"
+        ],
+        "template": "main"
+      },
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "total-pa": "80",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "80",
+        "total-pa": "100",
+        "total-mp": "120",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "80",
+        "lost-hp": "Guinevere's 8",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Energy Wave"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Spatial Migration"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Violet Requiem"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "basic attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Golden Staff"
+        ],
+        "template": "ii"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "Legend",
+        "name": "Super Magic",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Damage",
+        "description": "Guinevere deals 25% extra damage to airborne enemies. Guinevere deals with her Basic Attacks and accumulates Super Magic each time she deals damage. When she's fully charged, her next Basic Attack becomes guided, dealing  on hit and restoring . Enemies hit by Guinevere's enhanced Basic Attack,, or  are marked for 5 seconds. Those with 3 marks will be knocked airborne when hit by her.",
+        "term-1": "Magic Basic Attack",
+        "term-2": "Regen Effect",
+        "notes": "*Damage increase only applies to Guinevere's skills and .\n*Guinevere accumulates 20 Super Magic from basic attacks.\n*Applying marks is not affected by Unique Passive - Endless Strike. (see Patch Notes 1.6.66)\n*The enhanced basic attack will slightly knock back enemies if they're airborne.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-525",
+        "total-mp": "130",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "Legend",
+        "name": "Energy Wave",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "BUFF",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "4.0",
+        "description": "Guinevere releases an energy orb in the target direction, dealing to the first enemy hit and slowing them by 50% for 1.2 seconds. Successfully hitting an enemy reduces all her skill cooldowns by 1 second.",
+        "level-scaling": "Base Damage: 300 / 345 / 390 / 435 / 480 / 525",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "term-3": "CD",
+        "notes": "*Guinevere accumulates 20 Super Magic each time she deals damage.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-400",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "125-200",
+        "total-mp": "50",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "100",
+        "total-mp": "30",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "Legend",
+        "name": "Spatial Migration",
+        "image-2": "Spatial Migration 2",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Magic Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "17.0 / 16.4 / 15.8 / 15.2 / 14.6 / 14.0",
+        "description": "Guinevere thumps at the target location for [, slowing enemies within it by 50% for 1 second]. Enemy heroes and creeps hit will be knocked airborne for 1 second and take additional . After cast, Guinevere can reactivate the skill in 5 seconds to blink toward the target direction [while invisible for 0.5 seconds] and leave an illusion behind. If the illusion takes damage, it restores Super Magic for Guinevere and will explode in 1.5 seconds, dealing  to nearby enemies.",
+        "level-scaling": "*Base Damage: 250 / 280 / 310 / 340 / 370 / 400\n*Extra Damage: 125 / 140 / 155 / 170 / 185 / 200",
+        "term-1": "Airborne",
+        "term-2": "Magic Skill",
+        "term-3": "Blink",
+        "notes": "*Guinevere accumulates 20 Super Magic each time she deals damage.\n**Phase 2 of Spatial Migration does not accumulate Super Magic.\n*This skill's first phase can be interrupted by Guinevere by attacking nearby enemy with enhanced basic attacks.\n*The illusion does not restore Super Magic for Guinevere when struck by turrets.",
+        "bugs": "*Camera Shift does not function on this skill.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "650-910",
+        "total-mp": "500",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "59.091 / 70.909 / 82.727",
+        "total-mp": "50.091",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Violet Requiem"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Super Magic"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Violet Requiem"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Spatial Migration"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "KOF",
+        "variations-2": "Legend",
+        "name": "Violet Requiem",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "52.0 / 46.0 / 40.0",
+        "quote": "Where to find my bosom friend?",
+        "description": "Guinevere creates a force field around her [for 2 seconds], attacking nearby enemies 11 times within 2 seconds, dealing in total. If the enemy hit is already airborne, they will be knocked airborne again, up to 6 additional times. Guinevere is immune to crowd control while casting this skill.",
+        "level-scaling": "Base Damage: 880 / 1100 / 1320",
+        "term-1": "Airborne",
+        "term-2": "Control Immunity",
+        "term-3": "Magic Skill",
+        "notes": "*Each attack deals .\n*Guinevere accumulates 10 Super Magic each time she deals damage.",
+        "bugs": "*Normally, when an enemy is knocked airborne from, the enemy's head-up display (HUD), such as the health bar, will also bobs with them. However, when the target is knocked airborne again during the effect, the target's head-up display motion becomes abnormal.\n**This can be demonstrated when Guinevere knocks an enemy target, who's marked with three times, with  and shortly follows  against them.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "War Axe"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Orange Buff"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Spatial Migration (KOF)",
+          "Spatial Migration"
+        ],
+        "template": "ai"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Originally, in the tales of Arthur, the character Guinevere is supposedly the wife of King Arthur and had an illicit affair with one of his knights, Lancelot. However, in the game, they are siblings.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Lancelot"
+            }
+          ]
+        },
+        {
+          "text": "Guinevere's \"Fleur de Bleau\" means \"Blue Flower\" in French."
+        },
+        {
+          "text": "Even though her \"Fleur de Bleau\" skin hair color is brown on the splash art, the hair color on the model is actually blonde."
+        },
+        {
+          "text": "According to both and  effects, they identified Guinevere as a mage.",
+          "links": [
+            {
+              "text": "mage",
+              "type": "internal",
+              "page": "mage"
+            }
+          ]
+        },
+        {
+          "text": "According to one of the VFX Artists who worked on Guinevere's KOF Skill effects, her originally had a trail when she dashes, however; it was scrapped because it would destroy the style of the King of Fighters franchise and it didn't really fit Athena's character."
+        },
+        {
+          "text": "The name Guinevere has its roots in Welsh and is derived from the elements \"gwen\" and \"ever\". \"Gwen\" means \"fair,\" \"white,\" or \"blessed\" in Welsh. It is often associated with purity, beauty, and goodness. \"Ever\" comes from the Welsh word \"hwyfar\", which means \"smooth\" or \"soft\".",
+          "formatting": {
+            "bold": [
+              "Guinevere"
+            ]
+          }
+        },
+        {
+          "text": "Given her regal and noble characteristics, combined with the historical context of King Arthur's reign, Guinevere’s nationality would most likely align with British, representing the royal aristocracy and the legendary nature of the Arthurian tales.",
+          "formatting": {
+            "bold": [
+              "Guinevere’s nationality",
+              "British"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

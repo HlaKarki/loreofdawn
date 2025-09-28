@@ -1,0 +1,491 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "spell_vamp": "10%",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A girl who grew up with Roger's help\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The village where Ruby lived was attacked by werewolves."
+          },
+          {
+            "text": "At the time of crisis, Roger appeared to help them repel the werewolves."
+          },
+          {
+            "text": "Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "6",
+          "12"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Roger"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Cici"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A girl who grew up with Roger's help",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Ruby comic.jpg"
+        },
+        "full_name": {
+          "text": "Ruby"
+        },
+        "alias": {
+          "text": "Little Red Hood"
+        },
+        "chinese_name": {
+          "text": "露比 (lù bǐ)"
+        },
+        "born": {
+          "text": "Black Forest, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Black Forest"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "occupation": {
+          "text": "Wolf Hunter"
+        },
+        "speciality": {
+          "text": "Wolf hunting"
+        },
+        "weapons": {
+          "text": "Scythe"
+        },
+        "relationships": {
+          "text": "*Unnamed grandmother (deceased)\n*Unnamed grandfather (deceased)\n* (companion)\n*Whitefang (enemy)\n*",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Whitefang"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Dina Sherman (Mecha Maiden)",
+          "links": [
+            {
+              "text": "Dina Sherman (Mecha Maiden)",
+              "type": "internal",
+              "page": "imdb:nm0088650"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Iwasaki Chiaki (岩崎 千明)"
+        },
+        "id_va": {
+          "text": "Jane Leisilla Zahara"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "It could have been just another peaceful night in a remote village, near the outskirts of the Dark Forest, but they were interrupted by the vicious howling of the wolves from afar."
+          },
+          {
+            "text": "In a small cabin, a little girl was kneeling beside her bed, praying."
+          },
+          {
+            "text": "Next to her stood a disproportionately giant scythes."
+          },
+          {
+            "text": "Indeed, she was praying for the return of the legendary Hunter - Roger.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roger"
+              }
+            ]
+          },
+          {
+            "text": "Only he could save the village from being vandalized by the wolves."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Years earlier, Roger had saved her family from a pack of wild wolves, whom they had accidentally encountered when wandering on the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roger"
+              },
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "His bravery took a huge toll on the wolves."
+          },
+          {
+            "text": "Under the request from the elders in the village, Roger finally stayed to train the villagers."
+          },
+          {
+            "text": "One day, he left the village without any notice, and no trace was to be found."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "What happened in the fairy tales can seldom be the same in reality."
+          },
+          {
+            "text": "On a silent, moonless night, Pale Tusk, the new Wolf King, caught the village off guard and sneaked in with his kind."
+          },
+          {
+            "text": "In the end, Ruby's grandfather and grandmother, both died, protecting Ruby, who in turn made a narrow escape by hiding under the corpse of her grandparents."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "No one could imagine, that from the moment she witnessed her grandparent's death, her character would change completely."
+          },
+          {
+            "text": "Outraged, she got back on her feet, picked up the scythes, and to everyone's utter shock, rushed into the pack of wolves and slaughtered almost all of them."
+          },
+          {
+            "text": "Under the seemingly weak appearance now lay an unsettling, irritable soul."
+          },
+          {
+            "text": "Pale Tusk was the only survivor among the wolves."
+          },
+          {
+            "text": "Staring at the skyline, Ruby was determined to put an end to everyone, responsible for the death of all those innocent and good people, including her grandparents."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Pale Tusk was never defeated before, but this time it came in the severest way."
+          },
+          {
+            "text": "But during an instance between of fight, Ruby hesitated to strike down the wolf, who seized the chance, knocked down Ruby by clawing her on the left eye."
+          },
+          {
+            "text": "Surprisingly, Pale Tusk didn't go for the kill, but instead turned and fled."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ruby gradually regained consciousness after Pale Tusk left, but unfortunately, she lost one of her eye, in the battle."
+          },
+          {
+            "text": "Now, whenever she hears the wolves howl, her eye becomes engulfed with rage and pain."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Glimmer Amidst the Icy Night",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Glimmer Amidst the Icy Night"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "7.5",
+        "level": "1.5",
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "name": "Let's Dance!",
+        "skill-effect-1": "Buff",
+        "description": "Ruby gains 6%-20% Spell Vamp (based on level) and inherits 125% Spell Vamp Ratio (Basic Attacks cannot trigger Lifesteal). After each skill cast, Ruby can dash to another location, gaining  Physical & Magic Defense (scales with level) for 4 seconds. (stacks up to 3 times).",
+        "level-scaling": "Extra Hybrid Defense Per Level: 10.8 / 12.6 / 14.4 / 16.2 / 18 / 19.8 / 21.6 / 23.4 / 25.2 / 27 / 28.8 / 30.6 / 32.4 / 34.2 / 36",
+        "stack-scaling": "Extra Hybrid Defense (hero lv. 1): 10.8 / 21.6 / 32.4\nExtra Hybrid Defense (hero lv. 15): 36 / 72 / 108",
+        "term-1": "Blink",
+        "term-2": "Spell Vamp",
+        "notes": "*Backward dash distance is shorter than of forwards and sidewards.\n**When using aimed skill, \"front\" would be the direction of the skill is facing.\n**When using skill 2, \"front\" would be the direction Ruby is facing before using the skill.\n*Disabled by root.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "90",
+        "total-pa": "70%-130",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "90",
+        "total-pa": "70%-130",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "name": "Be Good!",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Slow",
+        "cooldown": "4.0",
+        "mana-cost": "25",
+        "description": "Ruby swings her scythe, dealing to enemies hit. She then unleashes a shockwave In the same direction, dealing  to enemies hit and slowing them by 40% for 1 second.",
+        "spellvamp-ratio": "125%",
+        "level-scaling": "Physical Bonus: 70% / 82% / 94% / 106% / 118% / 130%",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "60-185",
+        "total-pa": "55",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "name": "Don't Run, Wolf King!",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "7.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "description": "Ruby swings her scythe herself twice, each swing dealing to nearby enemies, stunning them for 0.5 seconds, and slowly pulling them toward her.",
+        "spellvamp-ratio": "125%",
+        "level-scaling": "Base Damage: 60 / 85 / 110 / 135 / 160 / 185",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Stun",
+        "term-3": "Displacement",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-480",
+        "total-pa": "200",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "The Aspirants",
+        "name": "I'm Offended!",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "cooldown": "26.0 / 23.0 / 20.0",
+        "mana-cost": "80 / 100 / 120",
+        "description": "Ruby sweeps scythe in the target direction, dealing to enemies hit, pulling them toward her, and stunning them for 0.5 seconds.",
+        "spellvamp-ratio": "125%",
+        "level-scaling": "Base Damage: 200 / 340 / 480",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Stun",
+        "term-3": "Displacement",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Ruby is named after the ruby gemstone, which is red and symbolizes passion, strength, and vitality. This fits her red-themed design, scythe weapon, and blood-related lifesteal abilities. The color red (ruby) also represents blood, aggression, and power, matching her vampiric lifesteal gameplay.",
+          "formatting": {
+            "bold": [
+              "Ruby"
+            ]
+          }
+        },
+        {
+          "text": "Her appearance might be inspired by Ruby Rose from RWBY which itself is alluded in the fairytale character Little Red Riding Hood.",
+          "links": [
+            {
+              "text": "Ruby Rose",
+              "type": "external",
+              "site": "https://rwby.fandom.com/wiki/Ruby_Rose"
+            },
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "RWBY"
+            },
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Little Red Riding Hood"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "RWBY"
+            ]
+          }
+        },
+        {
+          "text": "Her story and her title \"Little Red Hood\" is also a reference to Little Red Riding Hood. Furthermore, in game files, she is named X, which translates to \"Little Red Riding Hood\" in Chinese."
+        },
+        {
+          "text": "Her original lore was retconned upon the release of the so-called \"family friendly update\" as the story of Ruby ripping Haas the Wolf's (later renamed to Whitefang) still beating heart and drinking its blood, as well as Ruby falling into insanity, was deemed too dark and disturbing for many young audiences of the game.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Whitefang"
+            }
+          ]
+        },
+        {
+          "text": "Old Ruby full picture her eye patch is on the left eye but in the in-game model, it's in her right eye."
+        },
+        {
+          "text": "Ruby eyes are blue in color but the model has green eyes."
+        },
+        {
+          "text": "Ruby has one of the highest lifesteal rates in the game. Her passive (Let's Dance!) allows her to gain massive spell vamp from items and skills. With the right build, she can heal back to full HP in just a few attacks!"
+        },
+        {
+          "text": "She is inspired by Little Red from Moonton's Magic Rush, which is also a clear reference to Little Red Riding Hood.",
+          "links": [
+            {
+              "text": "Little Red",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/Little_Red"
+            },
+            {
+              "text": "Magic Rush",
+              "type": "external",
+              "site": "https://magicrush.fandom.com"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Magic Rush"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

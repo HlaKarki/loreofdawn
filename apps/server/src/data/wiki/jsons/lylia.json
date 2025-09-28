@@ -1,0 +1,889 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A funny and witted little witch\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A descendant of the great magician of the Magic Academy and known as the \"Little Witch\"."
+          },
+          {
+            "text": "Though at a young age, she has mastered the techniques to control little creature \"Gloom\"."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Gord"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Eudora"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A funny and witted little witch",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "LyliaComic.png"
+        },
+        "full_name": {
+          "text": "Lylia Solinst"
+        },
+        "alias": {
+          "text": "*Little Witch\n*Dark Wizard\n*Star of the Magic Academy"
+        },
+        "born": {
+          "text": "Magic Academy, Northern Vale",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Magic Academy"
+            },
+            {
+              "type": "internal",
+              "page": "Northern Vale"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "weapons": {
+          "text": "*Summoner's Staff\n*Gloom"
+        },
+        "relationships": {
+          "text": "* (teacher)\n* (teacher)\n* (classmate)"
+        },
+        "id_va": {
+          "text": "Mirna Haryati"
+        },
+        "ja_va": {
+          "text": "Akane Fujikawa (藤川茜)",
+          "links": [
+            {
+              "text": "Akane Fujikawa (藤川茜)",
+              "type": "internal",
+              "page": "imdb:nm7352361"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Hundreds of years ago, when Magic reigned high, in the Land of Dawn, Dark Mages were important precursors of the creation of the Magic Academy."
+          },
+          {
+            "text": "However, there had always been a big gap between them and White Magic."
+          },
+          {
+            "text": "They had completely different opinions on magic ideas."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The core of all this disputes was that Dark Magic possessed a mysterious power known as Alien Space Summoning."
+          },
+          {
+            "text": "This magic could create a portal to the unknown worlds, bringing alien monsters to the Land of Dawn."
+          },
+          {
+            "text": "It was destructive and unpredictable, and also a great threat to the human world."
+          },
+          {
+            "text": "The White Mages had always opposed Summoning experiments."
+          },
+          {
+            "text": "Yet, the Dark Mages turned a deaf ear to it."
+          },
+          {
+            "text": "Finally, this dangerous magic went wrong during a summoning, causing a disturbance at the Magic Academy."
+          },
+          {
+            "text": "The incident, ended with the death of a high rank, White Magician."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This triggered strong resentfulness of the White magicians and after, the Senate ruling, the Dark Magicians assumed full responsibility."
+          },
+          {
+            "text": "They were permanently banished to the west of the Land."
+          },
+          {
+            "text": "This decision, also led to the end of Dark Magic."
+          },
+          {
+            "text": "The esoteric Alien Space Summoning was also permanently banned and the Magic Academy was under control of White Magic."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Even after the end of this incident, which people called the Rift War, there still remained a crisis, hidden deep within the Land of Dawn."
+          },
+          {
+            "text": "The remaining Void Monsters were appearing everywhere and they kept looking for food to live on, especially Magical Powers and this time, they got close to the Magic Academy."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At that time there was a young girl named, Lylia, who was one of the most gifted and top students of the Magic Academy, also happened to be the naughtiest girl."
+          },
+          {
+            "text": "She also believed in Dark Magic and was the sole successor of Alien Space Summoning."
+          },
+          {
+            "text": "She always used her powerful, but dark magic to prove that she was right."
+          },
+          {
+            "text": "She bought horrors, rather than surprises to everyone, most of the time."
+          },
+          {
+            "text": "Naturally, she was misunderstood by others, mainly because of her unusual characteristics and also, since she was a Black Wizard and the favourite Magic genius of the Magic Academy, the idol of apprentices."
+          },
+          {
+            "text": "This also explains, why Lylia was hated and isolated by all her friends, why she was exiled along with other Dark Magician and also, why everyone called Lylia the \"Little Witch\"."
+          },
+          {
+            "text": "Overnight, she lost everything and turned to being a loner."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Recently, however, there had been signs of Void Monsters in the Magic Academy."
+          },
+          {
+            "text": "The magicians and Professors there, did their best to catch or at least, stop these strange creatures."
+          },
+          {
+            "text": "Lylia had managed to capture one of the most special ones among these creatures."
+          },
+          {
+            "text": "She not only felt his power, but also found out how cute he was."
+          },
+          {
+            "text": "The Void Monsters were fond of Black Magic."
+          },
+          {
+            "text": "After all, it was with the summoning of powerful black magic, that they were created."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Lylia gave her new found pet, a name - Gloom."
+          },
+          {
+            "text": "She considered him to be her friend, most likely, the only friend Lylia ever had, and wanted to introduce him to everyone in the Magic Academy."
+          },
+          {
+            "text": "But, no one believed that Lylia could have tamed such a threatening creature all by herself."
+          },
+          {
+            "text": "They began to question and even taunt Lylia."
+          },
+          {
+            "text": "Gloom felt that his master was being provoked, and started attacking the magicians of the Academy."
+          },
+          {
+            "text": "Some magicians were shocked to see Gloom's power, which was in fact, far greater than that of most void monsters."
+          },
+          {
+            "text": "They thought this was one of Lylia's schemes, to destroy the Magic Academy."
+          },
+          {
+            "text": "They decided to capture Lylia by force and also, eliminate Gloom."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "No matter what Lylia did, she couldn't stop those magicians from attacking Gloom."
+          },
+          {
+            "text": "More magicians gathered together, to fight Lylia, as she tried to protect Gloom, and this made Gloom very angry."
+          },
+          {
+            "text": "With the help of Lylia's dark magic, he summoned a portal to the outer world and called out many other Void Monsters to fight alongside him."
+          },
+          {
+            "text": "Everything went out of control, as the void monsters started wrecking up the Magic Academy."
+          },
+          {
+            "text": "A fierce battle followed, and many of those magicians were badly hurt."
+          },
+          {
+            "text": "As a mentor and professor, Eudora summoned her lightning powers and tried her best to resist these Void Monsters, but nothing much happened."
+          },
+          {
+            "text": "She and the other magic professors of the academy were surprised as to how these monsters had gone so vicious."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Lylia, however, enjoyed the vibe, as she felt, she was having a thrilling and fun time, commanding around the void monsters and running everything like she was in charge."
+          },
+          {
+            "text": "That's when Eudora realised that this was the powerful, ancient Alien Space Summoning magic and that, there was much more crisis to face."
+          },
+          {
+            "text": "She warned the other professors of this invasion and along with the remaining magicians, tried fending off the monsters."
+          },
+          {
+            "text": "However, the monsters regrouped, as a huge wave of new ones appeared from the rift, and launched an attack on Eudora."
+          },
+          {
+            "text": "Even though, Lylia wanted everyone to suffer for distrusting her and treating her poorly, she realised what she was doing was absolutely wrong."
+          },
+          {
+            "text": "As the monsters charged onward to devour Eudora and the rest of the Magic Academy, in a hurry, Lylia dived, in front of Eudora and used her Black Power to seal those monsters into Gloom."
+          },
+          {
+            "text": "Lylia managed to save Eudora's life."
+          },
+          {
+            "text": "Since then, Eudora found out, that despite how indifferent Lylia was, she was much more brave and powerful with magic."
+          },
+          {
+            "text": "She also knew that Lylia's understanding of Dark Magic was superior to others, and realized that good and evil was determined by those who wield the magic, and not the nature of the magic itself."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "BOOM: The Revival of Black Magic",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "BOOM: The Revival of Black Magic"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "increasing her movement speed by 15%",
+          "ms"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "movement speed is increased by 5%",
+          "ms"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "20%",
+          "ms"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "35% movement speed increase",
+          "ms"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Angry Gloom",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Speed Up",
+        "description": "Lylia gets power from, whenever she is within the area of . Additionally, every time  is upgraded, her , stacking up to 4 times or  for a maximum of.",
+        "term-1": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "250 to 500 6"
+        ],
+        "template": "sl"
+      },
+      {
+        "list": [
+          "(+100%Magic Power)"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "slowing them by 40%",
+          "slow"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "250 to 500 6"
+        ],
+        "template": "sl"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Magic Shockwave",
+        "cooldown": "4.0",
+        "mana-cost": "50 / 55 / 60 / 65 / 70 / 75",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slowed",
+        "description": "Lylia sends out in a line, dealing    to enemies along the path and  for 1.5 seconds.  If  touches, he will devour and detonate it.",
+        "ls-1": "Base Damage:",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "100 to 160 6"
+        ],
+        "template": "sl"
+      },
+      {
+        "list": [
+          "(+50% Total Magic Power)"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "slowing them by 80%",
+          "slow"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "Magic Shockwave"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "250 to 400 6"
+        ],
+        "template": "sl"
+      },
+      {
+        "list": [
+          "(+100% Magic Power)"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energies",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "5 Shadow Energies",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "250*2.2 to 375*2.2 6"
+        ],
+        "template": "sl"
+      },
+      {
+        "list": [
+          "(+220% Magic Power)"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "cooldown reduction"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "already available",
+          "xp"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "vision"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "4 Shadow Energies",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadow Energy",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Glooms"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "list": [
+          "Gloom"
+        ],
+        "color": "indigo",
+        "template": "b"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Shadow Energy",
+        "cooldown": "1.0",
+        "mana-cost": "40 / 50 / 60 / 70 / 80 / 90 / 100",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slowed",
+        "description": "Lylia condenses at a location, dealing    to enemies hit and  for 0.5 seconds.  If  is detonated by  or, it will detonate to deal an additional    and turn the  to  for 8 seconds. During this time,  can then detonate additional  within his range, resetting his timer and moving to the 's location in each instance.  Additionally, whenever  detonates a  within 8 seconds, the detonation damage is increased by 30%, stacking up to 4 times or 120%. If   detonates  consecutively, this skill can deal a maximum of   .  Stores a charge of  every 9 seconds, up to 5 charges. Recharge time is affected by.",
+        "ls-1": "Base Damage:",
+        "ls-2": "[Base] Max Damage:",
+        "term-1": "Energy Charging Time",
+        "term-2": "Magic Skill",
+        "term-3": "Movement Speed",
+        "notes": "*This skill is from Level 1 and can still be upgraded 6 times, but their stacks will start from 0 stacks instead of full stacks and must requires need more time to granting stack until full.\n*  provides  to its surroundings as well as bushes when placed inside one.\n* Lylia can summon up to  at a time. If she summons another one, the first  that she summoned will disappear.\n* Lylia can summon as many  as she likes provided that they aren't within another 's range.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "returns",
+          "blink"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "restoring all 5 Shadow Energy charges",
+          "enhanced"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Mana"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "10% / 15% / 20% Max HP",
+          "Heal"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "20% extra Movement Speed by 20%",
+          "ms"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "untargetable",
+          "invulnerable"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Health"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Black Shoes"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mana restoration",
+          "mana regen"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Black Shoes",
+        "cooldown": "45.0 / 40.0 / 35.0",
+        "mana-cost": "120 / 60 / 0",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Blink",
+        "description": "Lylia to the Black Shoes' location 4 seconds ago and, 100%  of her  and  to the previous state, and get an extra . She also gains  for 2 / 3 / 4 seconds.  Lylia will  while teleporting.",
+        "ls-1": "Movement Speed Bonus:",
+        "term-1": "Max HP",
+        "term-2": "Movement Speed",
+        "term-3": "Magic Basic Attack",
+        "notes": "*Because her ultimate is based on 4 seconds ago, this means she can also lose her with her ultimate if her  bar is damaged while being recorded and immediately healed and then use . This also applies the same to her.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Painted avatar icons",
+    "depth": 2,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Hero867-color01-icon.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hero867-color01-icon.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hero867-color01-icon.png",
+            "caption": {}
+          },
+          {
+            "file": "File:Hero867-color02-icon.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hero867-color02-icon.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hero867-color02-icon.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Lylia is a variation of Lilia or Lilia, which is derived from the Latin word lilium, meaning \"lily\", a flower symbolizing purity, beauty, and renewal. In Arabic, it is linked to Layla, meaning \"night\" or \"dark beauty.\" In Hebrew, it can be associated with Lilah, meaning \"night\" or \"gentle beauty.\""
+        },
+        {
+          "text": "Her pet Gloom is of the Snores species, a type of void monster who enjoys devouring magic."
+        },
+        {
+          "text": "Gloom resembles Tharz from Magic Chess.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Tharz"
+            },
+            {
+              "type": "internal",
+              "page": "Magic Chess"
+            }
+          ]
+        },
+        {
+          "text": "In her lore, Lylia is still part of the Magic Academy, and is a top student there; but in her mastery code, she was expelled from the Academy along with her family."
+        },
+        {
+          "text": "She is probably inspired by an American pop singer, Melanie Martinez.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Melanie Martinez"
+            }
+          ]
+        },
+        {
+          "text": "She had a split hair color, which is one of Melanie Martinez's signature hairstyles."
+        },
+        {
+          "text": "One of her voicelines mentioned \"Cry Baby\", which is an album and character from Melanie Martinez's storyline."
+        },
+        {
+          "text": "Her default skin looks like Melanie's dollhouse outfit."
+        },
+        {
+          "text": "Her Black Shoes (Ultimate) is one of the most unique skills in MLBB, allowing her to \"rewind time.\"",
+          "formatting": {
+            "bold": [
+              "Black Shoes"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

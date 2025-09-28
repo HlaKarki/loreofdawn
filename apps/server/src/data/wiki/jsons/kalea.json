@@ -1,0 +1,805 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "She is the face of MLBB Season 36: Breaking Waves.",
+            "links": [
+              {
+                "text": "Season 36: Breaking Waves",
+                "type": "internal",
+                "page": "Season 36"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Descendent of the Great Serpent that swims gracefully through the Vonetis Sea with her serpent tail.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The descendant of the legendary Great Serpent, Kalea once had trouble accepting her human-like body."
+          },
+          {
+            "text": "But after discovering who she was, she learned to fight with her fists and powerful serpent tail while healing allies with the power of the Great Serpent surging inside her."
+          },
+          {
+            "text": "Always full of energy, she is the proud protector of the Vonetis Sea."
+          },
+          {
+            "text": "However, when faced with gratitude from others, she tends to put on a facade of arrogance to hide her shyness–after all, she has to live up to her reputation as the descendant of the Great Serpent!"
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Kadita"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Badang"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Descendent of the Great Serpent that swims gracefully through the Vonetis Sea with her serpent tail.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "name": {
+          "text": "Kalea"
+        },
+        "alias": {
+          "text": "Surging Wave"
+        },
+        "origin": {
+          "text": "Solari Isle, Vonetis Sea",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Solari Isle"
+            },
+            {
+              "type": "internal",
+              "page": "Vonetis Sea"
+            }
+          ]
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "height": {
+          "text": "Shorter than 160cm"
+        },
+        "relationships": {
+          "text": "*Great Serpent\n*, (companions)"
+        },
+        "ja_va": {
+          "text": "Miho Ichidera (一寺美穂)",
+          "links": [
+            {
+              "text": "Miho Ichidera (一寺美穂)",
+              "type": "external",
+              "site": "https://inspion-agc.co.jp/ja/talent/miho-ichidera/"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Out in the Vonetis Sea, an island called Solari Isle was facing the storm of the century."
+          },
+          {
+            "text": "As the waves rose higher and higher, muffled thunder rumbled through the gray clouds."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The villagers on the island were in a panic–the typhoon had come without warning and one fishing boat had not yet returned from the sea."
+          },
+          {
+            "text": "They prayed to an ancient idol, hoping that the girl with the blood of the Great Serpent would hear them and bring their kin back safely."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That girl's name was Kalea."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The children, hugging their toys made in the image of the Great Serpent, began to sing a song."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"The wind howls; the waves roar. O Great Serpent, mighty as a mountain, hold back the raging tides...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Their singing gradually faded in the increasingly fierce storm."
+          },
+          {
+            "text": "Suddenly, a serpent tail swept through the waves and headed towards the depths."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Legend has it that a thousand years ago, a gigantic serpent emerged from the ocean to protect this island."
+          },
+          {
+            "text": "It swallowed the typhoons and held off waves as high as the mountains with its body until it had exhausted all of its power."
+          },
+          {
+            "text": "Before the Great Serpent perished, it left behind an egg."
+          },
+          {
+            "text": "A thousand years later, a girl miraculously hatched from the egg."
+          },
+          {
+            "text": "She had a human body, a gift from the land, and a sea serpent's tail, a blessing from the ocean."
+          },
+          {
+            "text": "The goddess Kadita named her Kalea and took her to the sea where she secretly watched her grow up."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Oh Mister Sea Turtle, why do you swim so slowly?\""
+          },
+          {
+            "text": "Kalea joked, as she wrapped her tail around the sea turtle and flung it across the sea with surprising strength."
+          },
+          {
+            "text": "After seeing the splash way in the distance, she nodded with satisfaction."
+          },
+          {
+            "text": "\"You're welcome!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Silly sharks, why are you so weak?\""
+          },
+          {
+            "text": "Kalea spun her tail at great speed, stirring up a strong undercurrent."
+          },
+          {
+            "text": "The sharks were tossed up and down, but Kalea effortlessly swam off."
+          },
+          {
+            "text": "\"Oh, it must be because your tails are so tiny!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kalea had awakened the power of the Great Serpent at an early age, but she was never able to control it."
+          },
+          {
+            "text": "Her power would surge outwards without warning, turning the seas upside down, much to the dismay of the creatures living there."
+          },
+          {
+            "text": "Even Kalea began to worry."
+          },
+          {
+            "text": "Every time she tried to channel the full power of the Great Serpent, it would disperse out of her control."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kalea firmly believed that it was her weak, human-like body that was holding her back: \"Look at those feeble humans. They're slower than the turtles, and even scared of the sharks!\""
+          },
+          {
+            "text": "If only she didn't have these bothersome arms and legs, she thought, then she could swim even faster!"
+          },
+          {
+            "text": "If she could finally take the form of the Great Serpent, no monster in the sea or on land would be a match for her!"
+          },
+          {
+            "text": "Oh, how she longed for that day."
+          },
+          {
+            "text": "Kadita, who had been secretly watching over her, appeared and explained that she could not just shed her skin like a serpent."
+          },
+          {
+            "text": "Unwilling to accept Kadita's words, Kalea challenged all manner of powerful creatures, hoping to prove herself worthy of the Great Serpent's power."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, while wandering the beaches of Solari Isle, Kalea was attacked by a swarm of corrupted elementals."
+          },
+          {
+            "text": "Hearing the commotion, the villagers, led by Badang, came to her rescue."
+          },
+          {
+            "text": "Badang erected giant walls of sand with his fists to split the enemy, while the villagers threw spears and fishing nets to subdue them."
+          },
+          {
+            "text": "Ultimately, their combined efforts were successful in defeating the rogue elementals."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"These humans... maybe they're not so weak after all...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kalea began to secretly study how Badang fought with his fists as she quietly learned to peel bananas with her fingers."
+          },
+          {
+            "text": "As the descendant of the Great Serpent, she was always reluctant to lower herself to learn from mortals, yet she couldn't help but be curious about their peculiar lives."
+          },
+          {
+            "text": "Even though she tried to keep her distance from the villagers, she found her power was inexplicably connected to them."
+          },
+          {
+            "text": "Whenever her power surged outward, it would always seek out those in need and heal them."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I'm just here to test my strength against Badang!\""
+          },
+          {
+            "text": "Kalea would explain as she appeared more and more often around Solari Isle."
+          },
+          {
+            "text": "Badang would always smile helplessly and act defeated."
+          },
+          {
+            "text": "He saw from their sparring that the girl's heart was no longer set on just proving her strength."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Knocking down a whole coconut tree with one punch, freeing a stranded fishing boat with her tail–such acts were not just for her pride."
+          },
+          {
+            "text": "When the villagers gathered to thank her, Kalea would always put her hands on her hips and proudly say something like, \"I wasn't trying to help you, I was just bored and exercising my tail!\""
+          },
+          {
+            "text": "But all the while, the villagers could see her face blushing from the attention."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "No matter how much she tried, Kalea was no closer to becoming the Great Serpent."
+          },
+          {
+            "text": "Her body barely grew at all, but despite that, the villagers began turning to her for help, just as they had once turned to her ancestor in times of need; times like now."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A tail sliced through the waves at extreme speed."
+          },
+          {
+            "text": "On the surface, the howling wind caused the waves to surge to towering heights."
+          },
+          {
+            "text": "A lone fishing boat, caught in the storm, was lifted high into the air by the waves before being slammed down with great force."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With a splash, Kalea leaped to action."
+          },
+          {
+            "text": "She grabbed the side of the boat and gently deposited the fallen fishermen back on board with her tail."
+          },
+          {
+            "text": "\"Humans really are fragile! But you're pretty brave to be out here, even when you don't have a tail!\""
+          },
+          {
+            "text": "Kalea proclaimed while standing proudly and tapping the deck with her tail."
+          },
+          {
+            "text": "The Great Serpent's power surged from her body and flowed into the fishermen, causing them to cough up the seawater they swallowed."
+          },
+          {
+            "text": "Miraculously, they regained their strength as if nothing had happened"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I'm sorry the boat can't be saved, but you two will get to witness the power of the Great Serpent!\""
+          },
+          {
+            "text": "Without waiting for a reply, Kalea grabbed the hands of the fishermen and dove off the boat as she zoomed towards the shore."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With her tail, she bounced over the waves, riding the wind and breaking through the surf."
+          },
+          {
+            "text": "Kalea saw her reflection flickering in the parting waters; her tailing, swaying with purpose, and her hands, holding tightly onto the fishermen."
+          },
+          {
+            "text": "That was who she was."
+          },
+          {
+            "text": "She was no longer fixated on becoming the Great Serpent."
+          },
+          {
+            "text": "As for the power that she once sought to contain, she finally realized she had already found its purpose."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I guess this body isn't so bad after all!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With the turbulent waves behind her, the shore came into sight."
+          },
+          {
+            "text": "A child hugging a toy of the Great Serpent excitedly pointed towards the sea and shouted:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Look! It's Kalea!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With her serpent tail, this proud descendant of the Great Serpent swims gracefully through the Vonetis Sea, aspiring to one day carry the full power of her heritage."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "300",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "120",
+        "total-hp": "10",
+        "template": "scale"
+      },
+      {
+        "total-mp": "60",
+        "template": "scale"
+      },
+      {
+        "base": "100",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Winter Crown"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Surge of Life",
+        "skill-effect-1": "Buff",
+        "description": "After casting a skill, Kalea creates a on the ground. When Kalea casts a skill within this zone, she will absorb it to enhance her next three Basic Attacks with different effects: First Basic Attack: Kalea dashes to the target, dealing . Second Basic Attack: Kalea unleashes a flurry of attacks, dealing  and recovering   HP for herself and the nearby lowest HP ally. Third Basic Attack: Kalea uses her tail to strike the area around her target, dealing  and creating a new . Enhanced Basic Attacks are not affected by Attack Speed.",
+        "notes": ";Enhanced basic attacks:\n*The enhanced basic attacks last as a 12-second buff, which persists as long as there is unused attack(s).\n*Each next attack can be manually halted.\n*The first enhanced basic attack increases her attack range into 3.2, with the indicator visible to enemies, also slightly knockback target enemy.\n*The second enhanced basic attack cannot be manually cancelled, and takes (approximately) 1.2 seconds to execute.\n**Any given order, such as item or ability cast will be queued afterwards.\n**Using will pause the animation.\n**The attack launches 4 projectiles locking a nearby ally to heal them, and does not change midway if the ally has more health than another nearby ally.\n**If the enemy becomes dies or untargetable, the attack will not heal further but the animation persists, the third enhanced basic attack will be reserved.\n*The nearby ally must be at least within (approximately) 7.5 unit.\n*The first and third basic attack are dash, hence this ability triggers 's  twice.\n;Water Zone properties:\n*Each  lasts 6 seconds, will combine with another  if Kalea is within the old  and is created centered at Kalea.\n*It is impossible to have 2  exist at the same time.\n*Kalea does not benefit from enemy  in any way nor combine with them.\n*The  gives vision within 9 units. Enemies entering the range is sighted if they are not concealed.\n**When  is created in a bush when enemies are inside it, the entire bush are still visible to Kalea even after she left.",
+        "variations-1": "Naruto",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250",
+        "total-hp": "5",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Wavebreaker",
+        "skill-effect-1": "AOE",
+        "description": "Kalea slams her fist into the ground, creating a wave that deals to nearby enemies and slows them by 40% for 1.5 seconds.",
+        "cooldown": "4.0",
+        "level-scaling": "Base Damage: 180 / 200 / 220 / 240 / 260 / 280",
+        "notes": "*The has the radius of 3, which is slightly shorter than her first enhanced basic attack.",
+        "variations-1": "Naruto",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "150",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Water Zone"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Bouncing Ball"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Tidal Strike",
+        "image-2": "Rolling Wave",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "CC",
+        "description": "Kalea charges forward and body slams the first enemy hero she encounters, knocking them airborne for 0.6s while dealing . If she collides with an obstacle or touches the edge of a during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing  and knocking enemies airborne for 0.6s.",
+        "cooldown": "13.0 / 12.6 / 12.2 / 11.8 / 11.4 / 11.0",
+        "level-scaling": "Base Damage: 150 / 175 / 200 / 225 / 250 / 275\nBase Damage: 150 / 175 / 200 / 225 / 250 / 275",
+        "notes": "*Fully affect concealed and invisible enemies.\n*After jumping to a wall or, she has (approximately) 2 seconds to select the landing area until she goes down the wall.\n*If Kalea is affected by crowd control effects, she is unperched from the wall or her , waste the remaining effect.\n**However, if she jumps on a temporary wall and the wall disappears when she is midair, she is not unperched.\n*** This includes walls in 's .\n*The cooldown begins as soon as the ability is cast.\n*The landing animation can be blocked by Khufra's or repositioned by \n*The airborne upon landing is only performed if Kalea successfully lands.\n*This ability triggers 's  twice.",
+        "variations-1": "Naruto",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Kalea"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Diversion"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Minsitthar"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "King's Calling"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Tsunami Slam",
+        "skill-effect-1": "CC",
+        "description": "Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction, dealing to the target and nearby enemies.",
+        "cooldown": "55.0 / 50.0 / 45.0",
+        "level-scaling": "Base Damage: 300 / 400 / 500",
+        "notes": "*Kalea is CC Immune for the entire duration.\n*Max distance is 7.5 unit.\n*The ability has two phases:\n**Kalea first grabs an enemy, performing a stun.\n**Kalea continuously applies airborne effect and makes target enemy move along with her.\n** then creates a Water Zone on the landing spot and loses CC Immune. Then dashes towards the joystick direction a distance of 1.5 unit.\n**Hence this ability triggers 's twice.\n**Due to this mechanics, the enemy can be dragged along with Kalea when she is teleported by Luo Yi's.\n*The landing area is visible to Kalea only.\n*Kalea cannot use any other abilities, battle spells or equipments for the duration.\n*Both Kalea and the target will be displaced if the landing area is over an obstacle.\n*Despite not having Mobility tag, this skill is disabled in 's.",
+        "variations-1": "Naruto",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Kaja"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Kalea is of Hawaiian origin, meaning \"brightness\" or \"clear.\" It is often associated with Hawaiian culture and spirituality rather than a specific religion. In Hawaii, names often carry deep meanings and connections to nature, family, and heritage. But her design and inspiration are taken from Southeast Asian cultures."
+        },
+        {
+          "text": "Her design features an aquamarine color scheme, reflecting the vibrant hues of coastal waters and emphasizing her role as the protector of the Vonestis Sea."
+        },
+        {
+          "text": "Her stance represents S which symbolizes the great serpent."
+        },
+        {
+          "text": "She loves coconuts and it's her favorite."
+        },
+        {
+          "text": "She and are the only heroes currently with a Support/Fighter role.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Support"
+            },
+            {
+              "text": "/Fighter",
+              "type": "internal",
+              "page": "Fighter"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

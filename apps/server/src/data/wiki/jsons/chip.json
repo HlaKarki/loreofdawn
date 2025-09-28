@@ -1,0 +1,927 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "He is the face of MLBB Season 32: Shapeshifting.",
+            "links": [
+              {
+                "text": "Season 32: Shapeshifting",
+                "type": "internal",
+                "page": "Season 32"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "MLBB"
+              ]
+            }
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A carefree, genetically enhanced fox that wields advanced portal technology\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Chip was once a small fox just trying to survive in the harsh deserts of Agelta.",
+            "links": [
+              {
+                "text": "Agelta",
+                "type": "internal",
+                "page": "Agelta Drylands"
+              }
+            ]
+          },
+          {
+            "text": "By chance, he was found by Dr. Baker and brought to Laboratory 1718 where he was genetically enhanced with superior intelligence and tasked with testing the lab's portal technology.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dr. Baker"
+              },
+              {
+                "type": "internal",
+                "page": "Laboratory 1718"
+              }
+            ]
+          },
+          {
+            "text": "However, he has always been lazy by nature and just wanted to enjoy a carefree life."
+          },
+          {
+            "text": "When an inner power struggle took place at the secret lab, Chip's life was turned upside down and he ws forced to make a tough decision."
+          },
+          {
+            "text": "To be able to return his carefree life, he had to work hard one last time..."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Angela"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "A carefree, genetically enhanced fox that wields advanced portal technology",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "ChipComic.png"
+        },
+        "origin": {
+          "text": "Laboratory 1718",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Laboratory 1718"
+            }
+          ]
+        },
+        "species": {
+          "text": "Genetically enhanced fox"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Inventor"
+        },
+        "fields_of_study": {
+          "text": "Portal technology"
+        },
+        "abilities": {
+          "text": "Human-like intelligence"
+        },
+        "traits": {
+          "text": "Lazy, carefree"
+        },
+        "likes": {
+          "text": "Potato chips"
+        },
+        "relationships": {
+          "text": "*Dr. Baker (guardian)\n* (confidant, adoptive sibling)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Dr. Baker"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "title": "Dear Dr. Baker",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The laid-back Chip only wants to enjoy a carefree and peaceful fox life, but troubles just keep coming. Once more, Chip's dream of a relaxed existence is disrupted. How can he elude these troubles and embrace a life of leisure?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "- MLBB official Twitter"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Dear Dr. Baker:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "You must be shocked that, I, the carefree Chip, would ever write a letter, right?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After all, normally I just recline in my hover chair and snack on potato chips all day."
+          },
+          {
+            "text": "But I can no longer do that, my old friend, because your indecisiveness has been interfering with my carefree life, so we need to have a long chat."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once upon a time, before I met you, I was just an ordinary little fox, no different than the thousands of other foxes across Agelta."
+          },
+          {
+            "text": "I slept in my burrow under the sand every day and foraged for food when I had to, until that day when I came upon a bag of half-eaten potato chips graciously left behind by a traveler."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "My world was never the same after that."
+          },
+          {
+            "text": "That unique taste and crispy texture was surely the pinnacle of human ingenuity I thought; their miracle to the world of us chip-less peasants."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After that divine experience, I waited along the trade routes day in and day out, but never got another taste of that golden delicacy."
+          },
+          {
+            "text": "I even stole some potatoes from a village and was almost mauled by their mangy mutts, but what are potatoes compared to potato chips!"
+          },
+          {
+            "text": "Alas, the gods did not send down a second bag of potato chips, but calamity instead - an earthquake threatening to collapse my burrow."
+          },
+          {
+            "text": "I did not panic like the rest of my kin."
+          },
+          {
+            "text": "I made the softest bed with hay, put the empty bag of chips over my head, and was ready for whatever came next."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But as it turns out, you just happened to be passing by my burrow at that very moment."
+          },
+          {
+            "text": "The sight of my calmness, or perhaps the bag over my head, must have piqued your curiosity, so you took me back to your laboratory."
+          },
+          {
+            "text": "When I woke up, I found that I had been altered by your strange science."
+          },
+          {
+            "text": "I had gained extraordinary intelligence and was soon tasked with testing the lab's portal technology."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I was so naive back then."
+          },
+          {
+            "text": "The great Dr. Baker had granted this little fox the ability to get his own potato chips!"
+          },
+          {
+            "text": "From that day on, I became a being of higher intelligence, named myself \"Chip\", and was free to enjoy a lifetime of potato chips that I could reach from anywhere."
+          },
+          {
+            "text": "Surely the portal I was testing was for reaching the snack rack while lounging at home, right?"
+          },
+          {
+            "text": "I was thankful, Dr. Baker."
+          }
+        ]
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": [
+          {
+            "text": "But if only things were that simple."
+          },
+          {
+            "text": "You later informed me that in addition to eating potato chips, we intelligent \"scholars\" must also perform endless scientific research, record experimental data, assemble robots, and even catch those slimy energy jellyfish in the sea around the island."
+          },
+          {
+            "text": "In other words... work."
+          },
+          {
+            "text": "What a dreadful concept!"
+          },
+          {
+            "text": "Wasting my life away is what it is!"
+          },
+          {
+            "text": "I was devastated by this revelation, and from then on, all I could do at work was find ways to slack off and eat potato chips."
+          },
+          {
+            "text": "I know you blame yourself, thinking it was some error in your calculations that caused me to become this lazy... but you're wrong."
+          },
+          {
+            "text": "I was always lazy."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now don't get mad, I've finished my rant."
+          },
+          {
+            "text": "What follows is just a recount of some events."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Soon after, Dr. Octavius became the new head of the lab."
+          },
+          {
+            "text": "He transformed it into an arms factory and used your technology intended to benefit the world to make weapons of war and sell them to Los Pecados.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Los Pecados"
+              }
+            ]
+          },
+          {
+            "text": "At that time, you couldn't accept what was happening and ran off."
+          },
+          {
+            "text": "I originally thought you were taking a break on the island, but turns out you were secretly working on an android, Angela!",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Angela"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once Octavius found out, he had all of us work overtime to develop an even better android; to surpass you, he wanted to mass-produce weapons with artificial souls."
+          },
+          {
+            "text": "The workload for all of us increased tenfold... we worked from dawn till dusk, without any breaks to enjoy even a single potato chip."
+          },
+          {
+            "text": "That's no working condition for man or fox."
+          },
+          {
+            "text": "I couldn't bear another second of it, so I was forced to do something drastic."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I took the initiative and volunteered to lead the search and retrieval team for you."
+          },
+          {
+            "text": "I used the portals to find your residence and brought you back."
+          },
+          {
+            "text": "I hope you're not too angry."
+          },
+          {
+            "text": "It's not that potato chips are more important than you, but I had to bring you back so everyone could finally take a break."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Anyway, you were captured and brought back to the lab, but Angela escaped."
+          },
+          {
+            "text": "You were so worried about her that you fell into a depression, while I received a hundred bags of original flavored potato chips as a bonus."
+          },
+          {
+            "text": "But life likes to play cruel tricks, as I've learned."
+          },
+          {
+            "text": "That blasted Octavius gave me a promotion and a raise, but most importantly gave me even more work and responsibilities!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Will this nightmare ever end?"
+          },
+          {
+            "text": "I want to retire with my stash of potato chips!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "So, you gotta get back on your feet, my friend."
+          },
+          {
+            "text": "Think of those suffering from war, the victims of the weapons made in this lab, and the poor little fox forced to work overtime!"
+          },
+          {
+            "text": "Listen, I'll help you retake control of your lab."
+          },
+          {
+            "text": "I thought it didn't matter who ran this lab as long as it wasn't me, but now I know it must be you!"
+          },
+          {
+            "text": "Otherwise, people will expect me to work!"
+          }
+        ]
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": [
+          {
+            "text": "As for your \"daughter\" Angela, don't worry, I'll find her and bring her back but promise you'll keep her away from me."
+          },
+          {
+            "text": "She forced me to wear a frilly pink dress in our last encounter... Truly one of your most terrifying creations."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In conclusion, pull yourself together, Dr. Baker!"
+          },
+          {
+            "text": "I know that your technology will bring joy to all living creatures, and I should be first on that list!"
+          },
+          {
+            "text": "I can already see the golden beaches of the Agelta coast."
+          },
+          {
+            "text": "I've stashed all my chips there, waiting for that day."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One last thing."
+          },
+          {
+            "text": "You didn't think I actually wrote this letter myself, did you?"
+          },
+          {
+            "text": "I hope the ChipBot AI program I developed has done a good job of conveying my thoughts... or thoughts the real Chip should have according to my algor... Never mind."
+          },
+          {
+            "text": "If you miss me, just contact ChipBot."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Although it will only reply that it's off duty."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "- Your good friend, Chip"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Dear_Dr._Baker_p1.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dear_Dr._Baker_p1.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dear_Dr._Baker_p1.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:Dear_Dr._Baker_p2.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dear_Dr._Baker_p2.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dear_Dr._Baker_p2.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:Dear_Dr._Baker_p3.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dear_Dr._Baker_p3.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dear_Dr._Baker_p3.jpg",
+        "caption": "512px",
+        "links": []
+      }
+    ],
+    "templates": [
+      {
+        "text": "The laid-back Chip only wants to enjoy a carefree and peaceful fox life, but troubles just keep coming. Once more, Chip's dream of a relaxed existence is disrupted. How can he elude these troubles and embrace a life of leisure?",
+        "author": "MLBB official Twitter",
+        "template": "quote"
+      }
+    ]
+  },
+  {
+    "title": "Chip's Acceptance Speech",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Chip's Acceptance Speech"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "name": "Snack Time!",
+        "image-2": "Snack Time! (cooldown)",
+        "skill-effect-1": "Heal",
+        "quote": "Yummy...yummy...",
+        "description": "Chips starts eating potato chips when out of combat, regenerating HP equal to 150 plus 45% after finishing a whole bag (requires 5 bites). After eating a bag of chips, Chip cannot eat again for 5 seconds.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "220-370",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Chip's Mark",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "300-800",
+        "total-mp": "60",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Chip's Mark",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "200-350",
+        "total-mp": "40",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "stun"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Crash Course",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "cooldown": "5.5 / 5.2 / 4.9 / 4.6 / 4.3 / 4.0",
+        "mana-cost": "40 / 45 / 50 / 55 / 60 / 65",
+        "description": "Chip rams his hovercraft into the ground, dealing equal to  plus target's  and applying  on enemy heroes hit. Chip gains a  upon hitting an enemy hero, which increases by 20% for each additional energy hero hit. Chip's next  will become ranged and also hit all nearby enemies with, detonating the mark to deal  and  each target for 0.6 seconds.",
+        "ls-1": "Base Damage: 220 / 250 / 280 / 310 / 340 / 370",
+        "ls-2": "Base Shield: 300 / 400 / 500 / 600 / 700 / 800",
+        "ls-3": "Extra Damage: 200 / 230 / 260 / 290 / 320 / 350",
+        "notes": "*Crash Course increases Chip's basic attack range to 3.5.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Movement Speed"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "200-300",
+        "total-mp": "30",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Overtime",
+        "skill-effect-1": "Speed Up",
+        "cooldown": "15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0",
+        "mana-cost": "20",
+        "quote": "Sunshine and beach, I'm here!",
+        "description": "Chip rushes forward for 2 seconds, gaining speed until he reaches 65% extra, after which he maintains the max speed for 2 seconds. Chip's next will cause him to charge at the enemy, dealing  and knocking them back slightly.",
+        "ls-1": "Base Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "notes": "*Overtime increases Chip's basic attack range to 3.5.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-300",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Connecting Portals",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Main Portal",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Connecting Portals",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Connecting Portal",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Connecting Portals",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Main Portal",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Main Portal",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Main Portal",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "600-900",
+        "total-mp": "180",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Main Portal",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Retribution"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Chip"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Shortcut",
+        "skill-effect-1": "Teleport",
+        "skill-effect-2": "CC",
+        "cooldown": "70.0 / 60.0 / 50.0",
+        "mana-cost": "110",
+        "quote": "Get it done so we can get off work.",
+        "description": "Chip drops the Main Portal on an enemy hero, dealing and slowing them by 30% for 2.5 seconds. Meanwhile, he creates  near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The  and  last up to 10 seconds. : Heroes can teleport from  to the, or stand on the  for a period time to return to the Connecting Portal they came from. : Deals  to nearby targets after a delay and knocks them airborne for 0.8 seconds. The  inherits 80% of Chip's HP.",
+        "ls-1": "Base Damage: 200 / 250 / 300",
+        "ls-2": "Extra Damage: 600 / 750 / 900",
+        "notes": "*The first connecting portal that a Hero comes in will be marked as the connecting portal for them.\n*Going through a connecting portal will trigger 's but not on returning.\n*A hero can only return to the previous portal once after 2 seconds of waiting delay.\n*The Main Portal is treated as a creep, and is fully affected by .\n*Does not create Connecting Portals to unit inside 's  and vice versa if  is inside.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Special",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Beacons",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Beacon",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Why Walk?",
+        "image": "Why Walk? (grayscale)",
+        "image-2": "Why Walk?",
+        "image-3": "Why Walk? (1)",
+        "image-4": "Why Walk? (2)",
+        "image-5": "Why Walk? (3)",
+        "image-6": "Why Walk? (4)",
+        "skill-effect-1": "Teleport",
+        "cooldown": "40.0",
+        "description": "Chip has 4 on the map. Chip eleport to any other.",
+        "notes": "*Beacons in clockwise: 1 (top)>2>3>4.\n*Cannot teleport within 's . The order is queued afterwards.\n*When a beacon is hold cast, its animation changes and visible to nearby units.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "\"Do I Look Like I Care?\" hero series stickers",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Chip_Bothered.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Bothered.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Bothered.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_Bye.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Bye.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Bye.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_CasualCasualty.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_CasualCasualty.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_CasualCasualty.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_Eavesdrop.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Eavesdrop.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Eavesdrop.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:ChipAngela_hug.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/ChipAngela_hug.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/ChipAngela_hug.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_ItsFine.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_ItsFine.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_ItsFine.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_Lazy.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Lazy.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Lazy.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_MVP.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_MVP.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_MVP.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_Overwhelmed.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Overwhelmed.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Overwhelmed.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_Relax.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Relax.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Relax.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_Tantrum.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Tantrum.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_Tantrum.gif",
+            "caption": {}
+          },
+          {
+            "file": "File:Chip_WineAndDine.gif",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_WineAndDine.gif?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chip_WineAndDine.gif",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Chip has a unique passive skill where he eats potato chips when out of combat, regenerating his HP to 150. The health regeneration increases by 15% once he takes at least five consecutive bites."
+        },
+        {
+          "text": "He has tag no. 5 on his ear implying that other foxes or animals of different species were tested or enhanced before Chip."
+        },
+        {
+          "text": "His flavor of the chips change on different skins."
+        }
+      ]
+    ]
+  }
+]

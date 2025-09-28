@@ -1,0 +1,927 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"King of the Fire Demons.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A warrior who believed in the Abyss and was appointed as the leader of the Abyss Legion."
+          },
+          {
+            "text": "Because the Fire Demons were affected by the Abyss for thousands of years and are considered the race closest to Abyss, Thamuz has always had a high sense of superiority and self-esteem."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Official chinese name"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "8",
+          "1"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Dyrroth"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Helcurt"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Estes"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Phoveus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Brody"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Obsidia"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "King of the Fire Demons.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "thamuz comic 2.png"
+        },
+        "chinese_name": {
+          "text": "炎煞 (yánshā, \"Flaming Demon\" )"
+        },
+        "alias": {
+          "text": "Lord Lava"
+        },
+        "species": {
+          "text": "Fire demon"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "title": {
+          "text": "King of Fire Demons"
+        },
+        "affiliation": {
+          "text": "*The Abyss\n*Moniyan Empire (hostile)\n*Moon elves (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            },
+            {
+              "type": "internal",
+              "page": "Moon elves"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Molten Scythes"
+        },
+        "abilities": {
+          "text": "*Conjures a burst of Lava Energy by chance\n*Spouts lava restored in his body and creates a cauterant atmosphere around him",
+          "links": [
+            {
+              "text": "Conjures a burst of Lava Energy by chance",
+              "type": "internal",
+              "page": "",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Spouts lava restored in his body and creates a cauterant atmosphere around him",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "* (rival, occasional companion)\n* (rival, apprentice)\n* (rival)\n*,, , , , , , (enemies)\n*Astaros (former master)\n* (former master/enemy)"
+        },
+        "ja_va": {
+          "text": "Nakamura Taishi (中村 大志)",
+          "links": [
+            {
+              "text": "Nakamura Taishi (中村 大志)",
+              "type": "external",
+              "site": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=150106"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Deep within the mountains, darkness reigns over everything."
+          },
+          {
+            "text": "The only light is the crimson lava that flows in the bottomless crevices."
+          },
+          {
+            "text": "Since the beginning of the abyss's reign on the mainland, countless demons became loyal followers of the Abyss.",
+            "links": [
+              {
+                "text": "the abyss",
+                "type": "internal",
+                "page": "The Abyys"
+              }
+            ]
+          },
+          {
+            "text": "Fervent in their beliefs, the demons chant the will of the Abyss in these deep caverns—Only the strong deserve to rule!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Guarding the Abyss for millenniums, a tribe of fire demons nearly became the rulers of the Abyss."
+          },
+          {
+            "text": "Thamuz, the king of the fire demons, and his people made the Abyss into a formidable power."
+          },
+          {
+            "text": "unabashed to use cruel methods in achieving his goals."
+          },
+          {
+            "text": "Possessing ungodly natural strength, Thamuz was appointed chief of the Abyss, who led the Abyss to conquer all of the underworld."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To Thamuz, all of his opponents were worthless scum, unworthy of living in this world."
+          },
+          {
+            "text": "In his eyes, only he was worthy to [leading]."
+          },
+          {
+            "text": "Thamuz could not accept the Blood Demon, Alice, as her bloodline was not pure — Thus, unworthy to command and enter war."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With the gates to the Abyss about to open, legions of demons eagerly await Thamuz's return."
+          },
+          {
+            "text": "However, once the King of Fire Demons returns, he will burn away all the weak demons — Only the strong deserve to be a part of the Abyssal Army."
+          },
+          {
+            "text": "Thamuz has been waiting for the day he leads the Abyssal Army across the Land of Dawn to let it be known—Only the strong shall reign!"
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Basic Attacks"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Lava's Rage"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "55",
+        "total-pa": "60",
+        "level": "8",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Scythes"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Scythes"
+        ],
+        "template": "link"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "name": "Grand Lord Lava",
+        "skill-effect-1": "Debuff",
+        "description": "Thamuz's have a 10%-60% chance (based on ) to conjure Lava Energy beneath the target that erupts after a brief delay, dealing . Basic Attacks that don't trigger Lava Energy will increase Thamuz's Lava Rage. When without, Thamuz gains 25% Movement Speed. After retrieving his , his next Basic Attack slows the target by 30% and is guaranteed to trigger Lava Energy",
+        "term-1": "Physical Basic Attack",
+        "term-2": "True Damage",
+        "term-3": "Movement Speed",
+        "notes": "*Lava Energy deals skill damage.\n*The enhanced basic attack allows Thamuz to dash to the target's location.\n*The enhanced basic attack range is 3.0",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Scythes"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "120-270",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "45-80",
+        "extra-pa": "20",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "name": "Molten Scythes",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Slow",
+        "cooldown": "3.0",
+        "description": "Thamuz tosses in the target direction. After travelling for a certain distance or hitting the first enemy hero, they deal . The Scythes will then slow nearby enemies by 30% and deal  every 0.5 seconds. After leaving Thamuz for [&approx;5 seconds] or a certain distance, the Scythes will return to Thamuz and drag enemies in their path to him. Thamuz can approach the Scythes or cast the skill again to retrieve them.",
+        "level-scaling": "Base Damage: 120/ 150 / 180 / 210 / 240 / 270\nSustained Damage: 45 / 52 / 59 / 66 / 73 / 80",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "term-3": "Displacement",
+        "notes": "*Cooldown starts after retrieving the Scythes.\n*The Scythes do not stop upon hitting minions (added on Patch Notes 1.6.84).\n*Thamuz cannot cast the 2nd phase of Molten Scythes for approximately 0.2 seconds after casting the same skill.\n*Retrieving the scythes by tapping again the skill is not considered as a skill cast.\n*Thamuz can use this skill while under CC effects, including Suppression.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "230-355",
+        "extra-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Molten Scythes"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "name": "Chasm Trample",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Buff",
+        "cooldown": "8.0 /7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "description": "Thamuz jumps to a designated area to deal and slow the enemy units by 25% for 2 seconds upon landing. If the scythes are still travelling, they will return to Thamuz and  will reset its CD instantly.",
+        "level-scaling": "Base Damage: 230 / 255 / 280 / 305 / 330 / 355",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "term-3": "Cooldown",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-480",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Cauterant Inferno"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "30-60",
+        "extra-pa": "10",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "600",
+        "extra-hp": "30-50",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Scythes"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Molten Scythes"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Cauterant Inferno"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "name": "Cauterant Inferno",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Buff",
+        "cooldown": "38.0 / 34.0 / 30.0",
+        "description": "Thamuz spouts the lava stored in his body, dealing to nearby enemies and creating a  around him. The Cauterant Inferno lasts 9 seconds and deals  every 0.5 seconds to enemies in the area. Meanwhile, Thamuz gains  extra Max HP, heals himself by the same amount, and increases his Attack Speed by 60%-100%. He also recovers 1.5%-2.5% Max HP each time he deals damage with Basic Attacks or his.",
+        "level-scaling": "*Base Damage: 300 / 390 / 480\nSustained Damage: 30 / 45 / 60\nHP Regen: 1.5% / 2% / 2.5%\nAttack Speed: 60% / 80% / 100%\nMax HP: 30% / 40% / 50%",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Regen Effect",
+        "term-3": "ATK Speed",
+        "notes": "*The attack speed increase is multiplied to the total attack speed.\n*Healing during dealing damage with skills and basic attacks does not include sustained damage from and.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Painted skins",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Hero726-color01-icon.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hero726-color01-icon.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hero726-color01-icon.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Appearances",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Thamuz,_as_seen_in_Demons_Approaching.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Thamuz%2C_as_seen_in_Demons_Approaching.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Thamuz%2C_as_seen_in_Demons_Approaching.png",
+            "caption": {}
+          },
+          {
+            "file": "File:Thamuz_(Phoveus_Comic_2).png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Thamuz_(Phoveus_Comic_2).png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Thamuz_(Phoveus_Comic_2).png",
+            "caption": {}
+          },
+          {
+            "file": "File:Thamuz_comic.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Thamuz_comic.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Thamuz_comic.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "cite"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "In the Determination event, Thamuz claims himself as the Lord of Darkness and wants Lunox to join him.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Lunox"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "Thamuz appears in Helcurt's lore, wherein when Helcurt was tasked to defend the Lord of the Abyss (Obsidia) against their corrupted demons, the opposing forces were led by none other than the Lord Lava himself.",
+          "links": [
+            {
+              "text": "Helcurt's",
+              "type": "internal",
+              "page": "Helcurt"
+            },
+            {
+              "type": "internal",
+              "page": "Helcurt"
+            },
+            {
+              "type": "internal",
+              "page": "Obsidia"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "In Dyrroth's trailer, Thamuz praises Dyrroth, seeing a part of himself in the demon prince.",
+          "links": [
+            {
+              "text": "Dyrroth's trailer",
+              "type": "external",
+              "site": "https://www.youtube.com/watch?v=b0bo8GaHgv8"
+            },
+            {
+              "type": "internal",
+              "page": "Dyrroth"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "Dyrroth also mentions Thamuz in one of his voicelines, mocking how his enemy should've been taught by Thamuz instead, praising his own technique.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Dyrroth"
+            },
+            {
+              "text": "voicelines",
+              "type": "internal",
+              "page": "Dyrroth/Audio"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "Thamuz is also half-heartedly mentioned in two of Helcurt's voicelines, describing him to be a \"walking puddle of lava with a pair of dull blades\", whilst also mockingly calling out to him. Their relationship could be attributed to that of a father and a family pet.",
+          "links": [
+            {
+              "text": "Helcurt's voicelines",
+              "type": "internal",
+              "page": "Helcurt/Audio"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "also"
+            ]
+          }
+        },
+        {
+          "text": "Thamuz seems show genuine empathy towards his kind, depicted as a strict yet well-meaning ruler, prioritizing his tribe's survival over all else as shown in multiple artworks posted on official accounts."
+        }
+      ]
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Belerick Sacrificed Himself! Who's Responsible?",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "cite"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "During the Abyss's invasion of the Moonlit Forest (in \"Belerick Sacrificed Himself! Who's Responsible?\"), Thamuz indirectly killed Belerick, as he sacrificed his life to defend the Tree of Life.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Belerick Sacrificed Himself! Who's Responsible?"
+            },
+            {
+              "type": "internal",
+              "page": "Belerick"
+            }
+          ]
+        },
+        {
+          "text": "When Belerick was revived, however, his skillset was revamped to better counter continuously damaging opponents, one such enemy, being Thamuz. Whether or not Belerick grew specifically to defend against him is unclear, if not, very thematic.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Belerick"
+            },
+            {
+              "type": "internal",
+              "page": "Belerick"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Demons Approaching",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "In the official comic \"Demons Approaching\" debuting Brody, Benedetta, and Phoveus, Thamuz reveals that he is in possession of one of the \"Nine Demon Lords of the Abyss\", an orange crystal that Astaros recognizes as 'Gamunti'. Due to Phoveus's revamped lore however, it is unclear on whether or not this remains canon.",
+          "links": [
+            {
+              "text": "\"Demons Approaching\"",
+              "type": "external",
+              "site": "https://play.mobilelegends.com/lore/albumitem/85/1/en"
+            },
+            {
+              "type": "internal",
+              "page": "Brody"
+            },
+            {
+              "type": "internal",
+              "page": "Benedetta"
+            },
+            {
+              "type": "internal",
+              "page": "Phoveus"
+            },
+            {
+              "text": "Phoveus's",
+              "type": "internal",
+              "page": "Phoveus"
+            }
+          ]
+        }
+      ]
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "The Abyss: Sovereign's Will / Post-Revamp",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "In the cinematic Sovereign's Will, Thamuz interrupts Alice and Dyrroth from harvesting Obsidia's blood. Convinced that her corruption still lives within her bloodstream, he expresses his frustration as a result of Obsidia's past crimes against his people, corrupting them into foul spawns of decay.",
+          "links": [
+            {
+              "text": "Sovereign's Will",
+              "type": "external",
+              "site": "https://youtu.be/WKZNtIrYM-o?si=lCbA62lzlRFRpSU7"
+            },
+            {
+              "type": "internal",
+              "page": "Alice"
+            },
+            {
+              "type": "internal",
+              "page": "Dyrroth"
+            },
+            {
+              "type": "internal",
+              "page": "Obsidia"
+            },
+            {
+              "type": "internal",
+              "page": "Obsidia"
+            }
+          ]
+        },
+        {
+          "text": "Shortly after, Thamuz encounters a corrupted Lava Demon, hesitating, before being forced to kill it, fueling his rage further."
+        },
+        {
+          "text": "In Obsidia's concept video, Thamuz's race, the Lava Demons, do not seem to naturally grow a head as he does. This might suggest that Thamuz may have carved it himself to assert his dominance as the rightful Lord Lava.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Obsidia"
+            }
+          ]
+        }
+      ]
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Miscellaneous",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Thamuz's original hero showcase video on the official YouTube channel had an abrupt change in thumbnail design."
+        },
+        {
+          "text": "Thamuz had four different walking animations for his Scytheless form throughout his development."
+        },
+        {
+          "text": "In the advanced server prior to his release, Thamuz used to run on all fours without his scythes."
+        },
+        {
+          "text": "On release, he instead walked on his hind legs, slightly leaned in with his arms stretched outward."
+        },
+        {
+          "text": "On his soft rework on Patch 1.6.84 on May 24, 2022, his posture was changed to be straighter and started to jog, more akin to how a human person would run.",
+          "links": [
+            {
+              "text": "Patch 1.6.84",
+              "type": "internal",
+              "page": "Patch Notes 1.6.84"
+            }
+          ]
+        },
+        {
+          "text": "However, this change would soon be rolled back to the previous version an unknown amount of updates later."
+        },
+        {
+          "text": "On his revamp on September 17, 2025, he was given a new scytheless animation, similar to his removed one on Patch 1.6.84.",
+          "links": [
+            {
+              "text": "Patch 1.6.84",
+              "type": "internal",
+              "page": "Patch Notes 1.6.84"
+            }
+          ]
+        },
+        {
+          "text": "Thamuz was the first hero introduced from the Abyss faction, predating heroes like Alice, Dyrroth, and Selena in the lore.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Alice"
+            },
+            {
+              "type": "internal",
+              "page": "Dyrroth"
+            },
+            {
+              "type": "internal",
+              "page": "Selena"
+            }
+          ]
+        },
+        {
+          "text": "His passive Grand Lord Lava was one of the first abilities in the game to consistently deal true damage based on enemies' HP."
+        },
+        {
+          "text": "Some players compare his look to Balrog from Lord of the Rings or Ifrit from Final Fantasy.",
+          "formatting": {
+            "bold": [
+              "Balrog from Lord of the Rings",
+              "Ifrit from Final Fantasy"
+            ]
+          }
+        },
+        {
+          "text": "His weapons, Molten Scythes, return to him on their own, similar to boomerangs."
+        },
+        {
+          "text": "When Thamuz moves, a lava trail forms behind him, showing his burning presence. He is one of the few heroes whose footsteps leave elemental effects on the battlefield."
+        },
+        {
+          "text": "After his revamp, Thamuz now has different glow effects on his model during his ultimate, depending on his skin."
+        }
+      ]
+    ]
+  }
+]

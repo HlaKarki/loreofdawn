@@ -1,0 +1,718 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Girl who became a Blood Demon for love\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As a human, Carmilla fell in love with Cecilion, who was a Blood Demon, but cruel reality separated them, Carmilla had already guessed the identity of Cecilion.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cecilion"
+              }
+            ]
+          },
+          {
+            "text": "Even so, she wanted to be with Cecilion, so she chose to commit suicide."
+          },
+          {
+            "text": "When she woke up, she found that she had become a Blood Demon, lying in the arms of her lover."
+          },
+          {
+            "text": "From then on, the two of them stayed from the world together forever."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Carmilla_trailer.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Carmilla_trailer.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Carmilla_trailer.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Carmilla_human.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Carmilla_human.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Carmilla_human.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Profile_CN_Carmilla.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Carmilla.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Carmilla.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "Cecilion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Girl who became a Blood Demon for love",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "species": {
+          "text": "Human-turned-Blood Demon"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "affiliation": {
+          "text": "House Ansaac",
+          "links": [
+            {
+              "type": "internal",
+              "page": "House Ansaac"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Summons crimson flowers\n*Bloodbath\n*Curse of Blood",
+          "links": [
+            {
+              "text": "crimson flowers",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "Bloodbath",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 2"
+            },
+            {
+              "text": "Curse of Blood",
+              "type": "internal",
+              "page": "",
+              "anchor": "ltimate"
+            }
+          ]
+        },
+        "traits": {
+          "text": "Sweet, Deeply in Love"
+        },
+        "relationships": {
+          "text": "* (lover)\n*Earl Ansaac (father)\n*Baron Tawil (fiancé)\n* (enemy)"
+        },
+        "ja_va": {
+          "text": "Takada Sakie (高田 紗希衣)",
+          "links": [
+            {
+              "text": "Takada Sakie (高田 紗希衣)",
+              "type": "internal",
+              "page": "imdb:nm11620202"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Lis Kurniasih"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Many years ago, Carmilla was born in the House Ansaac in the Castle Aberleen.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "House Ansaac"
+              },
+              {
+                "type": "internal",
+                "page": "Castle Aberleen"
+              }
+            ]
+          },
+          {
+            "text": "As the only daughter of the Earl, she was loved by all her family since birth."
+          },
+          {
+            "text": "When she grew up, her eminent family background coupled with her captivating beauty made her one of the most popular noble ladies around the Castle Aberleen, and maybe even the whole Empire."
+          },
+          {
+            "text": "However, her royal origin was inevitably bound to the tragedy as was to become a political tool of her father Earl Anssac, consolidating power by betrothing her to another family of power."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Though countless aristocrats tried to court Carmilla, none of them pleased her."
+          },
+          {
+            "text": "Her innate pride made her refuse to bow down to mediocrity."
+          },
+          {
+            "text": "What she wanted was someone who could connect with her soul."
+          },
+          {
+            "text": "But, her father Earl Ansaac had already made his decision."
+          },
+          {
+            "text": "As the threat of the abyss was getting closer, he knew that the new class of military-nobles would dominate the politics of the land."
+          },
+          {
+            "text": "Thus, he had to establish good relations with them in order to sustain the social status of his family."
+          },
+          {
+            "text": "However, a man who was a rather insignificant to the old Earl foiled this plan."
+          },
+          {
+            "text": "This man was Cecilion, the best opera singer in the southern Empire."
+          },
+          {
+            "text": "Carmilla became his most loyal audience since the first day he came to the Castle Aberleen."
+          },
+          {
+            "text": "In Carmilla’s eyes, he was just so elegant and talented, but she could also read the melancholy and the mystery from his eyes."
+          },
+          {
+            "text": "For every performance of Cecilion, Carmilla would sit in the right middle in the auditorium, quietly enjoying his song performance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, as the curtains called, Cecilion and Carmilla's eyes met."
+          },
+          {
+            "text": "The flames of passion ignited between them."
+          },
+          {
+            "text": "And like a bolt of lightning cracking open the dark night sky, they instantly fell in love."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The days that followed were the happiest ones in Carmilla's life."
+          },
+          {
+            "text": "When night fell, Cecilion dressed up and came to invite her to the opera house, singing songs he composed for her."
+          },
+          {
+            "text": "And Carmilla watched his performance intently, never taking her eyes off him."
+          },
+          {
+            "text": "When the performance ended, they dated at the backstage, dancing in the moonlight."
+          },
+          {
+            "text": "And in the early morning, Cecilion would put a rose on Carmilla's windowsill that was nourished by the morning dew and leave quietly."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As time went by, Carmilla noticed something unusual about Cecilion."
+          },
+          {
+            "text": "He lived in solitude and never had needless contact with others."
+          },
+          {
+            "text": "His skin was always pale, even when he didn’t makeup; and it seemed that he always tried to avoid something."
+          },
+          {
+            "text": "From his eyes, Carmilla could feel his desire for a normal life, and she could vaguely see that Cecilion might have some connection to the legendary blood demon species."
+          },
+          {
+            "text": "Though Cecilion never talked about his origins with her, she still chose to believe in him, because she could feel his love was real."
+          },
+          {
+            "text": "No matter he was man or blood demon, it was just about love between them, and Carmilla believed that she would always belong to Cecilion, and would spend the rest of her life with him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Though they loved each other so deeply, Carmilla’s father the Earl forbade her to marry this humble singer."
+          },
+          {
+            "text": "He imprisoned her and forced her to marry Baron Tawil, the general of the imperial army, who was stationed near the Castle Aberleen."
+          },
+          {
+            "text": "In order to make Carmilla forget Cecilion, the Earl even sent his men to close the opera house."
+          },
+          {
+            "text": "In Cecilion’s mind, he knew that the love between the blood demon and mankind would never be true."
+          },
+          {
+            "text": "Though he loved Carmilla, he finally decided to give up."
+          },
+          {
+            "text": "At the day he left, he wrote a letter to her, in which he told her everything, about his origins, his story, and left it with a rose at her windowsill."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Carmilla didn’t stop fighting, she was not willing to succumb to her father's will."
+          },
+          {
+            "text": "But her heart broke when she read his parting letter."
+          },
+          {
+            "text": "To Carmilla, it didn't matter what species he belonged to."
+          },
+          {
+            "text": "She loved him, and without him, her life would become meaningless."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She stood at the window, watching the direction Cecilion left to."
+          },
+          {
+            "text": "As the dawn was raising, she slit her wrist with a sharp dagger."
+          },
+          {
+            "text": "The world fell into endless darkness."
+          },
+          {
+            "text": "And Carmilla buried her love in her own way."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Carmilla awoke, she found herself once again in Cecilion’s arms."
+          },
+          {
+            "text": "His eyes were full of kindness, and he was looking at her."
+          },
+          {
+            "text": "Then she found that her touch was so cold, as if she was lifeless, and her skin looked just as pale as Cecilion's. She knew, her lover didn’t abandon her, he returned and revived her with his blood."
+          },
+          {
+            "text": "These two lonely souls finally were together again and could live with each other forever."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again, only the legendary tales of the night, which passed from mouth to mouth over time."
+          },
+          {
+            "text": "When night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time stood still."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Night Flower",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Night Flower"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "name": "Vampire Pact",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Debuff",
+        "description": "Each time Carmilla deals damage to an enemy hero, she steals 7–11 Physical Defense & Magic Defense (scales with level) from them. The stolen Physical and Magic Defense can stack up to 5 times and last 5 seconds. However, Carmilla can only steal defense from the same enemy hero once every 5 seconds.",
+        "hero-level-scaling": "Stolen Physical & Magic Defense: 7.00/7.29/7.57/7.86/8.14/8.43/8.71/9.00/9.29/9.57/9.86/10.14/10.43/10.71/11.0",
+        "stack-scaling": "Stolen Physical & Magic Defense (level 1):7/14/21/28/35\nStolen Physical & Magic Defense (level 8):9/18/27/36/45\nStolen Physical & Magic Defense (level 15):11/22/33/44/55",
+        "term-1": "Physical Defense",
+        "term-2": "Magic Defense",
+        "notes": "*Only Carmilla's basic attacks and skills can trigger Vampire Pact.\n*Enemies can purify themselves to remove the invisible debuff from this skill.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100-200",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[speed unknown]",
+        "template": "sup"
+      },
+      {
+        "base": "75-150",
+        "total-mp": "35",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Crimson Flower",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Heal",
+        "cooldown": "9.0",
+        "mana-cost": "50 / 58 / 66 / 74 / 82 / 90",
+        "description": "Carmilla summons two Crimson Flowers that circle around her for 5 seconds dealing each time they hit an enemy and slowing them by 10% for 0.8 seconds (the slow effect stacks up to 50%). The circling speed of the Crimson Flowers also increases with each hit.[speed unknown] Carmilla recovers  each time a Crimson Flower deals damage (only recovers 30% of that amount when hitting Minions).",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 100 / 120 / 140 / 160 / 180 / 200\nHP Regen: 75 / 90 / 105 / 120 / 135 / 150",
+        "stack-scaling": "Slow Effect:10%/20%/30%/40%/50%",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Movement Speed",
+        "term-3": "Healing Effect",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\mathrm base\\ damage} = \\bigl[120 + (30 \\times skill\\ level) \\bigr] + \\bigl[100\\% + (40\\% \\times skill\\ duration) \\bigr]",
+        "raw": "{\\mathrm base\\ damage} = \\bigl[120 + (30 \\times skill\\ level) \\bigr] + \\bigl[100\\% + (40\\% \\times skill\\ duration) \\bigr]"
+      },
+      {
+        "template": "math",
+        "formula": "{\\mathrm magic\\ bonus} = 120\\% + (48\\% \\times skill\\ duration)",
+        "raw": "{\\mathrm magic\\ bonus} = 120\\% + (48\\% \\times skill\\ duration)"
+      },
+      {
+        "template": "math",
+        "formula": "{\\mathrm stun\\ duration} = 0.32 \\times skill\\ duration",
+        "raw": "{\\mathrm stun\\ duration} = 0.32 \\times skill\\ duration"
+      },
+      {
+        "template": "math",
+        "formula": "{\\mathrm where}\\ 0 s \\leq skill\\ duration \\leq 2.5 s",
+        "raw": "{\\mathrm where}\\ 0 s \\leq skill\\ duration \\leq 2.5 s"
+      },
+      {
+        "list": [
+          "Use Again:"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "150-300",
+        "total-mp": "120",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "image-2": "Bloodbath 2",
+        "name": "Bloodbath",
+        "skill-effect-1": "Speed Up",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0",
+        "mana-cost": "85 / 100 / 115 / 130 / 145 / 160",
+        "description": "Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5 seconds. Carmilla unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing  and stunning them for 0.6 seconds. The damage and stun duration scale with the accumulation time (up to 100%).",
+        "level-scaling": "Base Damage: 150 / 180 / 210 / 240 / 270 / 300",
+        "term-1": "Movement Speed",
+        "term-2": "Stun",
+        "term-3": "Magic Damage Skill",
+        "notes": "*Cooldown only starts when the skill was casted or expired.\n*Bloodbath Energy can fully charge for 2.5 seconds, and can overcharge it for another 2 seconds.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "450-750",
+        "total-mp": "130",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[range unknown]",
+        "template": "sup"
+      },
+      {
+        "name": "Curse of Blood",
+        "skill-effect-1": "CC",
+        "cooldown": "60.0/52.0/44.0",
+        "mana-cost": "150 / 175 / 200",
+        "description": "Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8 seconds, enemies still within the area will take, and will be immobilized for 1 seconds, slowed by 30% and linked for 5 seconds. When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link.[range unknown]",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 275 / 400 / 525",
+        "term-1": "Movement Speed",
+        "term-2": "Magic Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Other",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Cecilion"
+        ],
+        "template": "hi"
+      },
+      {
+        "base": "500",
+        "level": "20",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Use Again:",
+          "e"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "500",
+        "level": "20",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Crimson Flower"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Bloodbath"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Moonlit Waltz"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Broken Heart"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Vermeil Shadow",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Slow",
+        "description": "summons Carmilla to become a Vermil [sic] Shadow as she wraps herself around him, granting him a . Carmilla leaves Cecilion and charges at the target location, gaining an equal shield while dealing  to enemies hit and slowing them by 30% for 1 second. The cooldowns of her  and  will also reset.",
+        "term-1": "Shield",
+        "term-2": "Magic Damage Skill",
+        "term-3": "Movement Speed",
+        "hero-level-scaling": "Base Shield:520/540/560/580/600/620/640/660/680/700/720/740/760/780/800\nMagic Damage:520/540/560/580/600/620/640/660/680/700/720/740/760/780/800",
+        "notes": "*This skill can only be used within 5 seconds, and then Carmilla will be immediately detached to Cecilion's body if it expired.\n*During the Vermeil Shadow state, her active skills are replaced with \"Vermeil Shadow\" skill.\n*Carmilla will be in untargetable state after becoming a Vermeil Shadow. Cecilion's death or casting this skill will end the state.\n*Cecilion will be unable to use if an allied Carmilla bought a  in the Shop.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Cecilion"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "She might be based on Carmilla, an 1872 gothic novella written by Sheridan Le Fanu and also one of the earliest works of vampire fiction.",
+          "links": [
+            {
+              "text": "Carmilla",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Carmilla"
+            },
+            {
+              "text": "Sheridan Le Fanu",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Sheridan_Le_Fanu"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Carmilla,"
+            ]
+          }
+        },
+        {
+          "text": "Her Ultimate Skill \"Curse of Blood\" is the first skill to link enemies spreading damage and cc effects."
+        },
+        {
+          "text": "Her quote \"Whoever wrote my script is a long-winded bastard.\" is the first canon quote that features profanity."
+        },
+        {
+          "text": "Her epic skin \"Astral Arcana\" is her only skin that has no counterpart with."
+        },
+        {
+          "text": "In early development, Carmilla was planned as a mage, similar to Alice, with abilities that focused on damage and life drain.",
+          "formatting": {
+            "bold": [
+              "."
+            ]
+          }
+        },
+        {
+          "text": "Carmilla’s final design resembles a vampire noble, but earlier concept art had her looking more like a ghostly spirit."
+        }
+      ]
+    ]
+  }
+]

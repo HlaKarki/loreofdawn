@@ -1,0 +1,968 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "He is the first hero to receive the Tagalog voiceover.",
+            "links": [
+              {
+                "text": "Tagalog",
+                "type": "internal",
+                "page": "Wp:Tagalog language"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {
+        "lane": {
+          "text": "Jungle"
+        },
+        "role(s)": {
+          "text": "Fighter/Assassin"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Paquito.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Paquito.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Paquito.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Birthday (生日 \"shēngrì\" meaning \"birthday\"), Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits, Ethnicity (種族 \"zhǒngzú\" meaning \"race, ethnicity\""
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "8",
+          "2"
+        ],
+        "template": "birthday"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Paquito comic.jpg"
+        },
+        "chinese_name": {
+          "text": "帕奎特 (pàkuítè)"
+        },
+        "alias": {
+          "text": "The Heavenly Fist"
+        },
+        "born": {
+          "text": "Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "origin": {
+          "text": "The Barren Lands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Barren Lands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "ethnicity": {
+          "text": "Dorik/Dorican (Descent)"
+        },
+        "nationality": {
+          "text": "Moniyan"
+        },
+        "title": {
+          "text": "The Heavenly Fist"
+        },
+        "occupation": {
+          "text": "Boxer"
+        },
+        "fighting_style": {
+          "text": "Boxing (out-boxer)"
+        },
+        "weapons": {
+          "text": "Boxing gloves"
+        },
+        "traits": {
+          "text": "Righteous, Steadfast"
+        },
+        "relationships": {
+          "text": "*\"Domineer\" (enemy, formerly master)\n* Jolie",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Jolie"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Eric Wibbelsmann",
+          "links": [
+            {
+              "text": "Eric Wibbelsmann",
+              "type": "internal",
+              "page": "imdb:nm9656300"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Sato Yuga (佐藤 悠雅)",
+          "links": [
+            {
+              "text": "Sato Yuga (佐藤 悠雅)",
+              "type": "external",
+              "site": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=190410"
+            }
+          ]
+        },
+        "tl_va": {
+          "text": "Direk Brian Ligsay",
+          "links": [
+            {
+              "text": "Direk Brian Ligsay",
+              "type": "internal",
+              "page": "imdb:nm3516487"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Abyss grew in power, thrusting the Land of Dawn once more into the thick mists of eternal war.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "It was a true calamity that spread suffering throughout the Land of Dawn."
+          },
+          {
+            "text": "Especially the Moniyan Empire's southern frontier.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "The creeping threat and corruption of the Abyss plunged this place into ruins and it stands now as a barren wilderness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Empire had long since ceased even trying to reclaim these lands, and the numbers of those fleeing to the Moniyan heartlands for a new life grew by the day."
+          },
+          {
+            "text": "Those unwilling to leave their homeland remained behind and strived to make ends meet, yet they failed to unite and provide a resistance to the advancing Abyss."
+          },
+          {
+            "text": "Instead, they embraced brute force and violence in their toils to stake their claim to the land's dwindling resources."
+          },
+          {
+            "text": "Conflict ruled over all."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Like the distant Land of Despair, this frontier fell into a deep decay, a pit without the faintest ray of hope.",
+            "links": [
+              {
+                "text": "Land of Despair",
+                "type": "internal",
+                "page": "The Barren Lands"
+              }
+            ]
+          },
+          {
+            "text": "Until that day came."
+          },
+          {
+            "text": "A man with a peculiar scar across his back and fists of iron wandered these chaotic lands purging the injustice and cruelty that dominated it."
+          },
+          {
+            "text": "A long-lost warmth returned to the people's hearts as one malicious force after another fell before him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nobody knew from whence this man had [come]."
+          },
+          {
+            "text": "And so, those he had saved would simply refer to him as the 'Heavenly Fist'."
+          },
+          {
+            "text": "Yet his name was Paquito."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Paquito was born in a small village in southwestern Moniyan."
+          },
+          {
+            "text": "To survive and prosper in a land like this so far from the royal capital, you had to be strong."
+          },
+          {
+            "text": "And so[,] he'd had but one dream since he was a little boy: To become the world's strongest fighter."
+          },
+          {
+            "text": "Paquito tempered his mind, his body and spirit through any and every means possible in his quest for this power."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A reticent man passed through his village, witnessing the incredible effort Paquito was dedicating to his training."
+          },
+          {
+            "text": "Hence[,] he decided to stay and trained Paquito, taking him as a student."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the months that followed, Paquito's abilities improved at an exponential rate as he trained under his master."
+          },
+          {
+            "text": "Yet his departure drew near."
+          },
+          {
+            "text": "Before he left, he told Paquito this: the peak, the true essence of fighting lies not in destruction."
+          },
+          {
+            "text": "It's not about attacking."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Paquito continued to perfect his technique relentlessly in the years following his master's departure."
+          },
+          {
+            "text": "Yet he still struggled to embody this essence his master spoke of."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This left him with an uncertainty deep in his heart, so he too departed his village, still determined to become the world's strongest."
+          },
+          {
+            "text": "And so[,] he sought out strong opponents as he traveled the lands."
+          },
+          {
+            "text": "As he navigated the Lantis Mountains he found the land plagued by injustice and evil.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lantis Mountains"
+              }
+            ]
+          },
+          {
+            "text": "Hence[,] he would enter the fray, fighting for justice and wiping out evil, becoming renowned as the 'Heavenly Fist'."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As Paquito forged on tirelessly, a mysterious figure known as the 'Domineer' gained great power in the Moniyan Empire.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "He commanded his subordinates and launched a grand plan to claw control over the land."
+          },
+          {
+            "text": "To fuel his schemes the Domineer plundered these lands already on the brink of collapse, leaving cruelty and massacre in his wake."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Paquito caught wind of this series of tragedies, and it made his blood boil."
+          },
+          {
+            "text": "He swore to stop this Domineer, and eradicate every last trace of his control."
+          },
+          {
+            "text": "In his mission to unmask this dark figure and his true identity, Paquito discovered that he was none other than his master from long ago."
+          },
+          {
+            "text": "He had sought the true essence of what it means to fight, yet instead, he'd been eaten up and spat back out by the harsh realities of this world."
+          },
+          {
+            "text": "He'd lost all that he once stood for, becoming cruel and ruthless."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Paquito's loyalty and friendship for his old master clashed with the justice and morality he had always held so dear."
+          },
+          {
+            "text": "He made his decision."
+          },
+          {
+            "text": "The student and the master began a battle of the ages."
+          },
+          {
+            "text": "Paquito stood firm, and took the first of his master's crushing strikes—repayment for the teaching he'd received."
+          },
+          {
+            "text": "Then, they began trading blows; a collision of two colossal forces."
+          },
+          {
+            "text": "The master's technique had only grown stronger in the years that'd passed, with dominating advances battering Paquito until he was on the very brink of death."
+          },
+          {
+            "text": "Strength began to leave his body, and Paquito thought back to those he'd strived to save from oppression; their baleful gazes, how they wished for nothing more than peace."
+          },
+          {
+            "text": "It was then that he had his epiphany—the true essence of fighting was not about attacking nor destroying, but instead, defending hope wherever it may be."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Paquito forced the Domineer into defeat, and the master stared up at his former student, filled with regret."
+          },
+          {
+            "text": "His forces of evil were subdued, and peace flourished in the land."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was then that Paquito shouldered his pack and prepared to hit the road once more, telling his master: this world of ours is bigger than we know, with mighty opponents that await our arrival, not to mention the powers of evil..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He'd rely on his two fists."
+          },
+          {
+            "text": "With them, he'd fight for the hopes and dreams of all who needed him."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Letter from Afar",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Dear Paquito:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It's me, Jolie."
+          },
+          {
+            "text": "It's been several months now, I trust all is still well with you?"
+          },
+          {
+            "text": "We are all fine."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I've been wanting to send you a letter ever since you departed, but never knew what I should write."
+          },
+          {
+            "text": "Besides, who knows if such a letter would even reach you?"
+          },
+          {
+            "text": "Despite all that though, I still want to write to you."
+          },
+          {
+            "text": "To commemorate the good times we've spent together, and to give myself a sense of motivation."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Just yesterday a group of bandits tried to steal the winter supplies I was sending off."
+          },
+          {
+            "text": "Given that I'm female and was dispatching such a large shipment alone, they thought I'd put up little resistance."
+          },
+          {
+            "text": "They never imagined I would be able to knock them sprawling all on my own."
+          },
+          {
+            "text": "And so, I safely sent the supplies back to the village."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "You know, it reminded me of the first time we met."
+          },
+          {
+            "text": "I remember that I'd headed out alone then, too, and been apprehended by a bunch of bandits."
+          },
+          {
+            "text": "But back then I wasn't strong enough to defend myself."
+          },
+          {
+            "text": "You saved me that day, and escorted me back home."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I've never mentioned this to you before but I grew up hearing stories about heroes."
+          },
+          {
+            "text": "Yet while I yearned for those heroes I read of in books, I also found myself hesitating to believe they actually existed."
+          },
+          {
+            "text": "I'd often even think to myself: if there's all these great heroes out there, saving our world, then why is it still such a sorry sight?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When you appeared, I felt like all my hero fantasies had became a reality right at that moment."
+          },
+          {
+            "text": "That's why I pulled at you so fervently, insisting you come to stay in my village."
+          },
+          {
+            "text": "I longed to know what the life of a hero was truly like, what kind of experiences and trials made you so strong."
+          },
+          {
+            "text": "And maybe, just maybe, I could become a hero too... And that's why I had you stay, on the pretense of thanking you for saving me."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Haha... That was pretty sly of me, huh?"
+          },
+          {
+            "text": "But it's a good thing I went through with it, because in the three short months you spent here, you changed my whole life."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I had never expected that great heroes like yourself aren't all that different from us normal folk."
+          },
+          {
+            "text": "Just braver, more hardworking, more responsible."
+          },
+          {
+            "text": "It seems like there's always a solution to any hardship, as long as you're around."
+          },
+          {
+            "text": "Your existence alone gives hope and strength to us common people."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I want to become like you, too."
+          },
+          {
+            "text": "I really must thank you for this chance you've given me, for the myriad fighting skills you've taught me in these three short months."
+          },
+          {
+            "text": "I know I'm a little clumsy in that department; I pale in comparison to you whether in terms of strength or reactions."
+          },
+          {
+            "text": "But I think that something we're equal in is our perseverance."
+          },
+          {
+            "text": "While you were still here in the village you'd often praise my efforts in my training."
+          },
+          {
+            "text": "Even now you've left, I'm not letting a single day go to waste."
+          },
+          {
+            "text": "You must believe in me, and give me a little time: I'll improve beyond anything you can imagine."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Perhaps when that day comes, I'll be able to join you on your journey."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "How's things on your side?"
+          },
+          {
+            "text": "Defeated many evil villains?"
+          },
+          {
+            "text": "Do you sometimes think back to us, the people you've saved in the past?"
+          },
+          {
+            "text": "I innocently pleaded for you not to leave, to live here with us."
+          },
+          {
+            "text": "But I knew, too, that I couldn't just make a hero like you stay here in our little village."
+          },
+          {
+            "text": "It was just a wild wish of mine, that's all."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I think I finally understand what you said when you left."
+          },
+          {
+            "text": "You said, it's not that you don't long for a peaceful life, it's just that you choose to fight so that you can protect others' hopes for one of their own."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But please, do take good care of yourself."
+          },
+          {
+            "text": "You must live on if you're to achieve your dream."
+          },
+          {
+            "text": "Right?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I hope this letter of mine reaches you."
+          },
+          {
+            "text": "And I hope that the dawn of the beautiful day you wish for breaks sometime soon!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "-Jolie"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Destiny",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Destiny"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm extra\\ movement\\ SPD} = (-0.24 \\times time) + 60%",
+        "raw": "{\\rm extra\\ movement\\ SPD} = (-0.24 \\times time) + 60%"
+      },
+      {
+        "list": [
+          "Champ Stance",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Basic Attacks"
+        ],
+        "template": "ai"
+      },
+      {
+        "total-pa": "85",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Champ Stance",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Damage",
+        "quote": "I had no one to depend on except myself.",
+        "description": "After every 3 skill casts, Paquito enters, gaining an enhanced skill ignoring his current cooldowns. He gains 60% extra Movement Speed that decays over 2.5 seconds after casting the enhanced skill. Paquito's only deal.",
+        "term-1": "CD",
+        "notes": "*The current stack is visible to enemies, resets on death and his fist glows at max stack.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "210-360",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "150-500",
+        "total-pa": "110",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Champ Stance:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "350-600",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "120%",
+          "shield"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Champ Stance",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "KOF",
+        "image-2": "Heavy Left Punch - Champ Stance",
+        "name": "Heavy Left Punch",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Shield",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "description": "Paquito throws a punch in the target direction, dealing to enemies hit. He gains  for 2.5 seconds if an enenmy hero is hit.  The damage is increased to, while the shield value is increased to . The regular and enhanced shields can stack.",
+        "ls-1": "Base Damage: 210 / 240 / 270 / 300 / 330 / 360",
+        "ls-2": "Base Shield: 150 / 220 / 290 / 360 / 430 / 500",
+        "ls-3": "Enhanced Damage: 350 / 400 / 450 / 500 / 550 / 600",
+        "term-1": "Shield",
+        "term-2": "Physical Skill",
+        "notes": "* has slightly more range than what the skill range shows.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-450",
+        "total-pa": "150",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Champ Stance:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "240-720",
+        "total-pa": "240",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "KOF",
+        "image-2": "Jab - Champ Stance",
+        "name": "Jab",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Blink",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "8.0 / 7.5 / 7.0 / 6.5 / 6.0 / 5.5",
+        "description": "Paquito dashes in the target direction and throws a jab, dealing to enemies hit. Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding within an enemy hero or creep. The damage is increased to.",
+        "ls-1": "Jab Damage: 150 / 210 / 270 / 330 / 390 / 450",
+        "ls-2": "Enhanced Jab Damage: 240 / 336 / 432 / 528 / 624 / 720",
+        "term-1": "Blink",
+        "term-2": "Physical Skill",
+        "notes": "* Upon stopping on a hero/creep or reaching its final dash distance, does damage on a rectangular shape starting from behind Paquito to a small square shape in front of him.\n* It has a sizable hit box than Paquito's main body, meaning Paquito will immediately stop on a hero/creep even they are slightly right behind him or at his sides. Its size is about half of Paquito's range.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-350",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "350-600",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Champ Stance:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "400-750",
+        "total-pa": "120",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "pushing",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "KOF",
+        "image-2": "Knockout Strike - Champ Stance",
+        "name": "Knockout Strike",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Burst",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Charge",
+        "cooldown": "18.0 / 16.5 / 15.0",
+        "description": "Paquito launches an elbow strike in the target direction, dealing to enemies hit and knocking them back. He then throws a haymaker, dealing  to enemies hit and slowing them by 75% for 1 second, as he darts backward.  Instead of a haymaker, Paquito launches an uppercut after the elbow strike,  to enemies hit and knocking them airborne for 0.5 seconds.",
+        "ls-1": "Elbow Damage: 250 / 300 / 350",
+        "ls-2": "Haymaker Damage: 350 / 475 / 600",
+        "ls-3": "Hook Damage: 400 / 575 / 750",
+        "term-1": "Charge",
+        "term-2": "Movement Speed",
+        "term-3": "Airborne",
+        "notes": "* Upon reaching the final dash distance, does damage and slowing/airborne on a rectangular shape starting from Paquito's back and a small square shape in front of him.\n* While dashing, the skill has a hit box that is the size of Paquito's main body, meaning the actual size is smaller than when aiming the skill shows.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Paquito is based on Manny Pacquiao, a former professional boxer from the Philippines, who is also the current brand ambassador of Mobile Legends: Bang Bang. This is also evident to Paquito's southpaw stance, similar to his real-life counterpart.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Manny Pacquiao"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Mobile Legends: Bang Bang"
+            ]
+          }
+        },
+        {
+          "text": "In Teutonic Baby Names, the name Paquito means \"free.\""
+        },
+        {
+          "text": "During early leaks, Paquito was originally named Parry."
+        },
+        {
+          "text": "Manny Pacquiao skin for Paquito was initially exclusive to players in the Philippines when it was released as part of a special collaboration in 2021. It came with special effects, voice lines, and animations that referenced Pacquiao’s real-life boxing career."
+        },
+        {
+          "text": "When Paquito is affected by disabling crowd control effects, he is shown in a common defensive stance.",
+          "links": [
+            {
+              "text": "crowd control",
+              "type": "internal",
+              "page": "crowd control"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

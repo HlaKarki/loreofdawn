@@ -1,0 +1,714 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Killer from the Dark Elf tribe who is fighting to rescue her sister Selena\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Karina is the best killer among the Dark Elves who lived codependently with her younger sister Selena."
+          },
+          {
+            "text": "But as the older sister, Karina failed to prevent Selena from dedicating herself to the Abyss."
+          },
+          {
+            "text": "In order to stop her sister's evil deeds, and to find a way to bring her back, Karina embarked on a new journey."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Karina's_info_card.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Karina's_info_card.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Karina's_info_card.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "6",
+          "18"
+        ],
+        "template": "birthday"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gloo"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Killer from the Dark Elf tribe who is fighting to rescue her sister Selena",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Karina trailer.jpg"
+        },
+        "full_name": {
+          "text": "Karina"
+        },
+        "chinese_name": {
+          "text": "卡琳娜 (kǎlínnà)"
+        },
+        "alias": {
+          "text": "Shadow Blade"
+        },
+        "born": {
+          "text": "Shadow Swamp, Azrya Woodlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Shadow Swamp"
+            },
+            {
+              "type": "internal",
+              "page": "Azrya Woodlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Dark elf"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "occupation": {
+          "text": "Assassin"
+        },
+        "affiliation": {
+          "text": "Unnamed clan"
+        },
+        "weapons": {
+          "text": "Blades of Night (Shadow Twinblades)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Shadow Twinblades"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "Assassination"
+        },
+        "height": {
+          "text": "173 cm"
+        },
+        "weight": {
+          "text": "50 kg"
+        },
+        "likes": {
+          "text": "Desserts made by Selena"
+        },
+        "dislikes": {
+          "text": "Abyss",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Abyss"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "* (younger sister)\n* (met once)"
+        },
+        "ja_va": {
+          "text": "Nokubi Naoko (南帆子)",
+          "links": [
+            {
+              "text": "Nokubi Naoko (南帆子)",
+              "type": "internal",
+              "page": "imdb:nm9925704"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Esti Rohmiati"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Karina could barely stop herself from shaking as she stared at Selena before her, a woman now almost unrecognizable.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Selena"
+              }
+            ]
+          },
+          {
+            "text": "Rage, regret, desperation… A thousand different emotions flooded within her."
+          },
+          {
+            "text": "Yet she knew that what mattered is that, right now, her little sister was standing against her like this."
+          },
+          {
+            "text": "She’d never even imagined this could happen."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Karina had once staunchly believed herself capable of protecting her sister, Selena."
+          },
+          {
+            "text": "They had always been inseparable, depending on each other for as long as she could remember: elegant and mild young Elves that bounded throughout the lush forests.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elves"
+              }
+            ]
+          },
+          {
+            "text": "Yet with the spread of the Abyss’ corruption, the Shadow Swamp they called home was tainted and fell to its evil; all Elves who remained were similarly corrupted as they became Dark Elves in servitude of the Abyss.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Shadow Swamp"
+              },
+              {
+                "type": "internal",
+                "page": "Dark Elves"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Dark Elves are of special significance to the demons, owning to the fact that they retain their ancient Elven powers despite having been forced into submission by the Abyss."
+          },
+          {
+            "text": "The Lord of the Abyss seeks them out with great avarice, determined to use the Dark Elves as the stepping stones that pave his way to devour this world whole.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lord of the Abyss"
+              }
+            ]
+          },
+          {
+            "text": "From this, nobody can escape."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Karina Was trained to become a cold-hearted assassin from a very young age."
+          },
+          {
+            "text": "As such she has no qualms in using all means necessary to achieve her goals, unfazed even if her target is a woman or a child."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But Karina, this coldblooded killer, always treated her Selena with the greatest warmth and love."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In order to keep Selena safe, Karina requested of their clan’s leader that she be kept in the dark about her profession so as to never get involved in the slaughter and killing."
+          },
+          {
+            "text": "While Selena knew nothing of her older sister’s affairs, Karina considered her the only comfort in her life otherwise full of murder and violence."
+          },
+          {
+            "text": "Selena was a symbol to her that she could always return home, to be with her sister."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Karina knew very well that, were they to descend into the battles of light versus darkness in the Endless War, chaos could be right around the corner.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Endless War"
+              }
+            ]
+          },
+          {
+            "text": "Their lives would be hanging by a thread."
+          },
+          {
+            "text": "She was left by no choice, but at least she could still protect her little sister."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under Karina’s protection, Selena was distanced from all the killing and conspiracy."
+          },
+          {
+            "text": "What Karina could never have expected, however, was for the barriers she’d erected around her sister to steadily erode as she grew older."
+          },
+          {
+            "text": "And the reason that her defenses were failing came not from the outside world, but from Karina herself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As Selena grew older, she became attuned to the fact that something was not quite right about her sister."
+          },
+          {
+            "text": "Sometimes Karina would leave home suddenly, not to return for a long time – and when she did, more often than not she’d be injured form head to toe."
+          },
+          {
+            "text": "Selena, never knew how her sister would gain such wounds, and it plagued her with a deep uneasiness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This time, Karina had returned home battered and beaten once more."
+          },
+          {
+            "text": "Even in the face of her anxious sister, she wouldn’t speak a word on it."
+          },
+          {
+            "text": "Not long after her wounds had healed, Karina was already making preparations to leave again, but now Selena stood in her way."
+          },
+          {
+            "text": "She didn’t know what it was her sister was heading out to do, but Selena knew that if she let her go again, she could lose her beloved sister forever."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Karina disregarded her left anyway, however."
+          },
+          {
+            "text": "She knew that this was a burden she must bear alone."
+          },
+          {
+            "text": "Watching as her sister disappeared into the distance, Selena swore to herself: no more would she just wait at home like a naive child."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Selena cautiously tailed Karina, who soon caught on that she was being followed sought to shake her off her trail."
+          },
+          {
+            "text": "Yet as they left the Shadow Swamp, Selena was suddenly attacked by a dark figure; Karina had to make a move and save her sister from her predicament."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was the first time Selena had ever seen her older sister in battle."
+          },
+          {
+            "text": "Watching as Karina crushed the enemy, Selena felt relieved but also came to a realization: she and her sister lived in two very different worlds."
+          },
+          {
+            "text": "Worlds that were far, far apart."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Selena sought to become powerful, and so went to looking for their clan’s leader."
+          },
+          {
+            "text": "This was to be the start of Karina’s nightmare."
+          },
+          {
+            "text": "The leader had long ago fallen into the clutches of the Abyss’ corruption, and instead of giving Selena guidance, he led her to be a sacrifice to the Abyss, setting the young girl hungry for power on a tragic path."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "By the Karina had rushed over, Selena had changed beyond all recognition."
+          },
+          {
+            "text": "The young girl was suspended loft, a thick malice pervading the air all around."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Selena's naivety had led her to sacrifice herself to the Abyss."
+          },
+          {
+            "text": "The Lord of the Abyss stole away all her sense of self, warped her wishes to protect Karina, and transformed her into a tool of world destruction."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Selena could no longer hear the desperate cries of her sister, Karina had no choice but to cross swords with her, to return her sister snatched by the Abyss."
+          },
+          {
+            "text": "Never had Karina imagined that the combat skills she’d slaved to perfect would have to be used against her younger sister, nor that Selena would unleash such an explosive power against her sister."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Karina failed."
+          },
+          {
+            "text": "Facing defeat at the hands of the sister so familiar, yet now so strange to her, she was left with no choice but to leave as her heart panged with regret."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With that, Karina left the Shadow Swamp to roam the Land of Despair."
+          },
+          {
+            "text": "She was reborn from darkness, laying full fury of her vengeance upon the Abyss and demons that had taken her dear sister."
+          },
+          {
+            "text": "She swore that she would make them pay."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "All the while, she held on to that belief: that, one day, she would finally be able to take Selena home again."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "True Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "5",
+        "total-mp": "2.5",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "True Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "True Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Shadow Combo",
+        "skill-effect-1": "Buff",
+        "description": "Karina's third consecutive attack on the same enemy deals extra equal to 50 plus % of their lost HP (up to 2000  against creeps). If the target is an enemy hero, the cooldowns Karina's non-Ultimate skills are reduced by 1.5 seconds.",
+        "term-1": "Lost HP",
+        "term-2": "True Damage Skill",
+        "term-3": "True Damage",
+        "notes": "*\"Attack,\" according to the skill description, only refers to Karina's attack from basic attacks and skills.\n*Marks applied by basic attacks cannot be stacked by Endless Battle's Unique Passive–Endless Strike.\n*Shadow Combo deals up to 10000 to enemy heroes.\n*Shadow Combo marks are invisible on minions.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Dance of Blades",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "100-200",
+        "total-mp": "30",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "150-255",
+        "total-mp": "55",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Shadow Assault"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Dance of Blades",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Dance of Blades",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Speed Up",
+        "cooldown": "7.0",
+        "mana-cost": "70 / 80 / 90 / 100 / 110 / 120",
+        "description": "Karina enters the state for 3.5 seconds, during which she gains 45% extra Movement Speed, blocks all incoming Basic Attacks, and reflects  back to the attacker (the damage reflection effect has a cooldown of 0.4 seconds). Karina's Basic Attack within the duration deals, slows the target by 45% for 1 second, and is guaranteed critical strike. Casting the enhanced Basic Attack or  ends the  state early.",
+        "properties": "*Enhanced Basic Attack Range: 2.9\n*Reflect Damage: 100 / 120 / 140 / 160 / 180 / 200\n*Enhanced Damage: 120 / 165 / 180 / 195 / 210 / 225",
+        "term-1": "Dodge",
+        "term-2": "Magic Basic Attack",
+        "term-3": "Movement Speed",
+        "notes": "*Enhanced basic attack does not have splash damage.\n*Dance of Blades' cooldown will not start when it is still active.\n*Karina launches a spinning slash when attacked in melee. This is purely visual.\n*The damage reflection effect's cooldown is affected by Cooldown Reduction.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "375-600",
+        "total-mp": "125",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Dance of Death",
+        "skill-effect-1": "AOE",
+        "cooldown": "6.0 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5",
+        "mana-cost": "60 / 68 / 76 / 84 / 92 / 100",
+        "description": "Karina launces a spinning slash, dealing to nearby enemies.",
+        "properties": "*Base Damage: 375 / 420 / 465 / 510 / 555 / 600",
+        "term-1": "Magic Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "350-750",
+        "total-mp": "160",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Shadow Mark",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadowform",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Use Again:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Shadowform",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "150-250",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "KOF",
+        "image-2": "Shadow Assault 2",
+        "name": "Shadow Assault",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Blink",
+        "cooldown": "34.0 / 30.0 / 26.0",
+        "mana-cost": "100 / 120 / 140",
+        "description": "Karina dashes to the target enemy hero, dealing, applying a to them, and leaving a  behind them. The Shadow Mark and Shadowform both last 5 seconds. If the enemy dies within the duration, the cooldown of this skill is reset.  Karina dashes back to the 's location, dealing  to enemies along the way.",
+        "properties": "*Base Damage: 350 / 550 / 750\n*Path Damage: 150 / 200 / 250",
+        "term-1": "Blink",
+        "term-2": "Magic Damage Skill",
+        "term-3": "Cooldown",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Karina has multiple origins and meanings across different cultures. In Scandinavian and Latin origins, it is derived from the name Katherine, meaning \"pure\" or \"beloved.\" In Slavic languages, Karina translates to \"dear\" or \"affectionate,\" while in Arabic, it is linked to \"Karim\" (كريم), meaning \"generous\" or \"kind.\"",
+          "formatting": {
+            "bold": [
+              "Karina",
+              "Katherine",
+              "\"pure\" or \"beloved.\"",
+              "\"dear\" or \"affectionate,\"",
+              "\"Karim\" (كريم),",
+              "\"generous\" or \"kind.\""
+            ]
+          }
+        },
+        {
+          "text": "Her first design was more human-like, but she was later changed to look more Dark Elf-inspired."
+        },
+        {
+          "text": "She often says things like \"I must not let my emotions show\", showing that she tries to suppress her feelings. Some of her unused lines also referenced her guilt over ’s fate."
+        },
+        {
+          "text": "Her previous voice lines were reused from those of Magic Rush's hero, Seeley. Some of the quotes are still used after Karina's revamped, although they are voiced by a new person.",
+          "links": [
+            {
+              "text": "Seeley",
+              "type": "external",
+              "site": "https://magicrush.wikia.com/wiki/Seeley"
+            }
+          ]
+        },
+        {
+          "text": "During initial release Karina's Leona skin was free."
+        }
+      ]
+    ]
+  }
+]

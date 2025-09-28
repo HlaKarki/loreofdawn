@@ -1,0 +1,510 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Centaur guarding the Misty Mountains\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He lives in the Misty Mountains and belongs to the Centaur race."
+          },
+          {
+            "text": "He has the ability to convert natural magic into life force, and at the same time he can continuously punish any enemy who invades the Misty Mountains by consuming his own life force."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "5",
+          "18"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Centaur guarding the Misty Mountains",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "full_name": {
+          "text": "Hylos"
+        },
+        "chinese_name": {
+          "text": "洛驰 (luòchí)"
+        },
+        "alias": {
+          "text": "Grand Warden"
+        },
+        "origin": {
+          "text": "Misty Mountains, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Misty Mountains"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Centaur"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "weapons": {
+          "text": "Unnamed Spear"
+        },
+        "relationships": {
+          "text": "*, (companions)"
+        },
+        "en_va": {
+          "text": "Cian Hoyne",
+          "links": [
+            {
+              "text": "Cian Hoyne",
+              "type": "internal",
+              "page": "IMDB:nm9240513"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Shiraishi Tomoki (白石朋樹)",
+          "links": [
+            {
+              "text": "Shiraishi Tomoki (白石朋樹)",
+              "type": "internal",
+              "page": "imdb:nm10557191"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Amidst the misty mountains within the northern reaches of the Land of Dawn, resides the ancient and mysterious race of Centaurs, half-man, half-horse creatures.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "The Centaurs guard a fountain that rests among the highest mountain peak."
+          },
+          {
+            "text": "This fountain is said to give the gift of Immortality and Infinite wisdom."
+          },
+          {
+            "text": "Dark forces have relentlessly tried to gain the power found within the waters of this fountain, but only to be time and time again be thwarted by the centaurs."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, as time went on, the centaurs became tired and attrition soon took hold."
+          },
+          {
+            "text": "It was not until Hylos had arrived, where he threw his mastery of nature's wrath, he was able to crush and punish all the invaders of the fountain."
+          },
+          {
+            "text": "He had become a legendary figure within the annals of the Land of Dawn."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Max Mana"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Thickened Blood",
+        "skill-effect-1": "Buff",
+        "description": "Hylos gains 1.5 extra for every 1 extra  he possesses. When out of Mana, Hylos can use his HP for skill casts.",
+        "term-1": "Max HP",
+        "term-2": "Max Mana",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-550",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Law and Order",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0",
+        "mana-cost": "80 / 90 / 100 / 110 / 120 / 130",
+        "description": "Hylos gains 50% Movement Speed and causes his next Basic Attack within 3 seconds to deal to the target, knock back and stun them for 1 second. This damage counts as Skill Damage. The extra Movement Speed rapidly decays over the duration and ends after the next Basic Attack.",
+        "ls-1": "Base Damage: 300 / 350 / 400 / 450 / 500 / 550",
+        "term-1": "Stun",
+        "term-2": "Magic Damage Skill",
+        "notes": "*The enhanced basic attack range is increased to 2.5 (1.25 times increase.)",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\mathrm total\\ skill\\ DMG} = \\Bigl\\{ \\bigl[ 70 + (30 \\times skill\\ lv.) + 20%\\ total\\ magic\\ power \\bigr] + \\bigl[ 5% + (3% \\times skill\\ lv.) \\bigr] \\Bigr\\} \\times no.\\ of\\ stacks",
+        "raw": "{\\mathrm total\\ skill\\ DMG} = \\Bigl\\{ \\bigl[ 70 + (30 \\times skill\\ lv.) + 20%\\ total\\ magic\\ power \\bigr] + \\bigl[ 5% + (3% \\times skill\\ lv.) \\bigr] \\Bigr\\} \\times no.\\ of\\ stacks"
+      },
+      {
+        "list": [
+          "Ring of Punishment",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "100-300",
+        "total-mp": "20",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Use Again",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Mana"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Ring of Punishment",
+        "skill-effect-1": "AoE",
+        "cooldown": "1.0",
+        "mana-cost": "30 / 40 / 60 / 90 / 120 / 150",
+        "description": "Hylos releases the, dealing to nearby enemies per second while slowing them by 4%–6% and reducing their Attack Speed by 7.5%–15% for 2.5 seconds (up to 8 stacks). Each stack also increases the enemy's damage taken from the Ring of Punishment by 5–20%. The Ring of Punishment consumes 30–150 Mana per second when it's active. ; Hylos cancels the Ring of Punishment.",
+        "ls-1": "Magic Damage: 100 / 140 / 180 / 220 / 260 / 300",
+        "ls-2": "Movement Speed Reduction: 4% / 4% / 5% / 5% / 6% / 6%",
+        "ls-3": "Damage Increase: 5% / 8% / 11% / 14% / 17% / 20%",
+        "ss-1": "Movement Speed Reduction: 4% / 8% / 13% / 16% / 20% / 24% / 28% / 32% (levels 1, 2)",
+        "list": [
+          "5% / 10% / 15% / 20% / 25% / 30% / 35% / 40% (levels 3, 4)",
+          "6% / 12% / 18% / 24% / 30% / 36% / 42% / 48% (levels 5, 6)",
+          "15% / 30% / 45% / 60% / 75% / 90% / 105% / 120% (level 6)",
+          "20% / 40% / 60% / 80% / 100% / 120% / 140% / 160% (level 6)"
+        ],
+        "ss-2": "Attack Speed Reduction: 7.5% / 15% / 22.5% / 30% / 37.5% / 45% / 52.5% / 60% (level 1)",
+        "ss-3": "Damage Increase: 5% / 10% / 15% / 20% / 25% / 30% / 35% / 40% (level 1)",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Movement Speed",
+        "term-3": "Attack Speed",
+        "properties": "*Spell Vamp Ratio: 50%",
+        "notes": "*The skill lasts until Hylos runs out of.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "{{Ability"
+          },
+          {
+            "text": "pathway will be slowed by 25%.",
+            "links": [
+              {
+                "text": "slowed",
+                "type": "internal",
+                "page": "slowed"
+              }
+            ]
+          },
+          {
+            "text": "}}"
+          }
+        ]
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "name          = Glorious Pathway"
+        },
+        {
+          "text": "skill-effect-1 = Speed Up"
+        },
+        {
+          "text": "skill-effect-2 = HEAL"
+        },
+        {
+          "text": "skill-type-1  = Heal"
+        },
+        {
+          "text": "skill-type-2  ="
+        },
+        {
+          "text": "skill-type-3  ="
+        },
+        {
+          "text": "cooldown      = 40.0 / 36.0 / 32.0"
+        },
+        {
+          "text": "mana-cost     = 150 / 300 / 450"
+        },
+        {
+          "text": "energy-cost   ="
+        },
+        {
+          "text": "quote         ="
+        },
+        {
+          "text": "description   =Hylos creates a huge pathway in the target direction, reducing enemies' Movement by 75% for 1 second. The pathway lasts 6 seconds. When on the pathway, Hylos gains Slow Immunity and recovers 3% of his {{B|Max HP}}} per second. Allied heroes moving along the pathway gain 60% extra Movement Speed, while enemy heroes on the",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Slow Immunity"
+            },
+            {
+              "type": "internal",
+              "page": "Movement Speed"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "ls-1          = HP Regen:3% / 4% / 5%"
+        },
+        {
+          "text": "ls-2          = Movement Seed Bonus: 60% / 65% / 70%"
+        },
+        {
+          "text": "ls-3          = Slowing Effect: 25% / 45% / 45%"
+        },
+        {
+          "text": "ls-4          ="
+        },
+        {
+          "text": "ls-5          ="
+        },
+        {
+          "text": "ss-1          ="
+        },
+        {
+          "text": "ss-2          ="
+        },
+        {
+          "text": "ss-3          ="
+        },
+        {
+          "text": "calc          ="
+        },
+        {
+          "text": "term-1        = Slow Immunity"
+        },
+        {
+          "text": "term-2        = Max HP"
+        },
+        {
+          "text": "term-3        = Movement Speed"
+        },
+        {
+          "text": "notes         ="
+        },
+        {
+          "text": "bugs          ="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Minotaur"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Masha"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "X.Borg"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Nature's Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Ring of Punishment"
+        ],
+        "template": "ai"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "He is a centaur, which is based on the creature of Greek mythology. is the other one.",
+          "links": [
+            {
+              "text": "centaur",
+              "type": "internal",
+              "page": "Wp:Centaur"
+            }
+          ]
+        },
+        {
+          "text": "He is inspired by Malachi of Moonton's Magic Rush.",
+          "links": [
+            {
+              "text": "Malachi",
+              "type": "internal",
+              "page": "w:c:magicrush:Malachi"
+            },
+            {
+              "text": "Magic Rush",
+              "type": "internal",
+              "page": "w:c:magicrush"
+            }
+          ]
+        },
+        {
+          "text": "Hylos is the only hero who can use HP to consume a skill."
+        },
+        {
+          "text": "Alongside and, Hylos is the only hero who can reduce his own HP through a skill."
+        },
+        {
+          "text": "Belerick's used to consume a portion of his HP, but this was removed when he got revamped for the second time."
+        },
+        {
+          "text": "Hylos' is the first among the only 'toggle' skills in the game."
+        }
+      ]
+    ]
+  }
+]

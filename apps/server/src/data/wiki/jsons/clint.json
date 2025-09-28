@@ -1,0 +1,783 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A sharpshooter full of righteousness and justice.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Clint is a sheriff in a small western town."
+          },
+          {
+            "text": "He ordered the execution of Kane's nephew Blandy."
+          },
+          {
+            "text": "The residents were afraid of Kane so they had ended Blandy over to a gang and expelled Clint."
+          },
+          {
+            "text": "But Blandy still didn't let the town go."
+          },
+          {
+            "text": "Clint came out to guard the town and his time of crisis."
+          },
+          {
+            "text": "After the matter was over, he went to Los Pecados to completely eradicate Kane's evil forces."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "2",
+          "7"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A sharpshooter full of righteousness and justice.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Justice Prevails.jpg"
+        },
+        "chinese_name": {
+          "text": "克林特 (kèlíntè)"
+        },
+        "alias": {
+          "text": "*West Justice"
+        },
+        "origin": {
+          "text": "Los Pecados, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Los Pecados"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "occupation": {
+          "text": "Town sheriff"
+        },
+        "affiliation": {
+          "text": "Los Pecados indigenous peoples\n*Iceberg Sand Hunters (hostile)"
+        },
+        "weapons": {
+          "text": "*Direwolf (Shotgun)\n*Falcon (Revolver)"
+        },
+        "relationships": {
+          "text": "*, (companions)\n*,, ,  (allies) \n*Waldo Kane (enemy)\n*Blandy (enemy, deceased)\n* (enemy)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Waldo Kane"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Owen Thomas",
+          "links": [
+            {
+              "text": "Owen Thomas",
+              "type": "internal",
+              "page": "imdb:nm1113013"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Tsuyuzaki Wataru (露崎 亘)",
+          "links": [
+            {
+              "text": "Tsuyuzaki Wataru (露崎 亘)",
+              "type": "internal",
+              "page": "imdb:nm10437553"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "On the desolate frontier of Moniyan, the border with Agelta, there was an ordinary town.",
+            "links": [
+              {
+                "text": "Moniyan",
+                "type": "internal",
+                "page": "Moniyan Empire"
+              },
+              {
+                "text": "Agelta",
+                "type": "internal",
+                "page": "Agelta Drylands"
+              }
+            ]
+          },
+          {
+            "text": "The residents here lived a peaceful and stable life away from the hustle and bustle of human society."
+          },
+          {
+            "text": "They worked during the day, and at night they go to the tavern in the town for few drinks to relax."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Such an orderly and stable life was all due to Clint, the Sheriff of the town."
+          },
+          {
+            "text": "Clint was a famous fast gunner, with unmatched good marksmanship, and was known for his fastest speed of drawing gun."
+          },
+          {
+            "text": "The dutiful Clint always took maintaining the security of the town as his duty."
+          },
+          {
+            "text": "He loved his job and duty, and believed in the fairness and justice of the law."
+          },
+          {
+            "text": "He hated evil as his enemy, and had been protecting the town from all kinds of robbers and bandits for many years."
+          },
+          {
+            "text": "Therefore, he was loved by the residents of the town."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On an ordinary night, Clint went on his daily patrol with his gun as usual."
+          },
+          {
+            "text": "In the middle of his patrol, he suddenly heard the gunshots and disgusting shouts from the tavern."
+          },
+          {
+            "text": "Clint knew instinctively that a group of uninvited guests broke into the peaceful town."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Clint immediately rushed to the tavern, where a group of weirdly dressed drunkards were smashing wildly."
+          },
+          {
+            "text": "Many residents were beaten to death by them, while the owner of the tavern was shot and killed by the gangster leader."
+          },
+          {
+            "text": "In the face of Clint’s warning, the gangsters were not frightened, but blatantly declared that the town would soon be taken over by them, and advised Clint not to meddle."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "What the gangsters did angered Clint, so he drew out his gun and fought a fierce battle with them."
+          },
+          {
+            "text": "Finally, except for a minion who escaped by chance, the rest of the gangsters were either killed by Clint’s gun or lost their combat effectiveness and were captured without any resistance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At noon the next day, Clint took the captured villains to the center of the town, preparing to give the criminals a just punishment under the witness of all the residents."
+          },
+          {
+            "text": "The angry people also demanded the severe punishment of these outsiders."
+          },
+          {
+            "text": "But just then, the villain leader suddenly revealed his identity: he was Blandy, the nephew of Waldo Kane, the most powerful boss in Los Pecados.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Los Pecados"
+              }
+            ]
+          },
+          {
+            "text": "His men had fled back to Los Pecados last night to deliver a message that if anything happened to him, his uncle would definitely raze this small town, and everyone would be buried with him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Blandy had just finished his words, the angry crowd suddenly quieted down."
+          },
+          {
+            "text": "They knew the City of Sin and Waldo Kane, and they knew their ways of doing things better."
+          },
+          {
+            "text": "Soon, the residents wavered."
+          },
+          {
+            "text": "They advocated the release of Blandy and hoped that Blandy would “forget” his unpleasant experience in the town."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the eyes of Clint, who hated evil most, it was nothing more than a compromise to criminals and trampling on justice."
+          },
+          {
+            "text": "Regardless of residents’ opposition, he threw Blandy into prison and announced that he would hang him three days later to comfort the tavern owner who had been shot by him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After no more than three days, a large number of gangsters had come to the outskirts of the town."
+          },
+          {
+            "text": "They brought lots of weapons, demanding that the residents immediately hand over Blandy, and offer a large ransom to apologize."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The safety of the town was greatly threatened by those criminals."
+          },
+          {
+            "text": "Clint came out boldly and called on everyone to take up arms to fight back the gangs and defend their homeland."
+          },
+          {
+            "text": "But what Clint didn’t expect was that the residents and colleagues he had tried to protect in the past did not intend to live and die with him."
+          },
+          {
+            "text": "Instead, they blamed Clint for his stubbornness and inflexibility, which brought disaster to the town."
+          },
+          {
+            "text": "After a hasty vote, the residents relieve Clint of his post as Sheriff and drove him out of town."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The residents then released Blandy and handed in a large ransom."
+          },
+          {
+            "text": "But even so, the ferocious Blandy still chose the treachery, leading the gangs to occupy the town, and preparing to burn the town."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "By this time, Clint had carried his bags and walked far out of the town."
+          },
+          {
+            "text": "However, when the fire in the small town was soaring into the sky, Clint could not ignore it."
+          },
+          {
+            "text": "Even if those people he had protected with his life and blood betrayed him, the law of justice in his mind could not be erased by this, let alone standing by and watching the gangsters slaughtering the town."
+          },
+          {
+            "text": "Even if he was alone, Clint would fight crime to the end."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the time when the gangsters were unscrupulously destroying the town, Clint appeared in the town as if a soldier came from heaven."
+          },
+          {
+            "text": "His invincible marksmanship and amazing speed of drawing gun became the most terrible nightmare of criminals on the night."
+          },
+          {
+            "text": "After a fierce battle, Clint was scarred, and the gangsters also suffered heavy casualties, protecting Blandy, who was wounded by Clint, to escape."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The survived residents realized their mistakes and begged Clint for forgiveness, hoping that Clint would stay and protect the town."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But Clint only smiled and didn’t answered."
+          },
+          {
+            "text": "That night, Clint rode on his old donkey, left the town quietly, and set foot on the road to the City of Sin."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He knew that if he wouldn’t go to find Kane, Kane would come to find him."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blazing West",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Blazing West (side story)"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "A Journey to Blacksnake Town",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "A Journey to Blacksnake Town"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Azure Blade"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Thunder Belt"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Double Shot",
+        "skill-effect-1": "Burst",
+        "description": "After each skill cast, Clint's next Basic Attack within 4 seconds penetrates a line of enemies, dealing . This damage can trigger attack effects, and the part affected by Physical Attack can critically strike.",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Attack Effect",
+        "notes": "*Enhanced Basic Attack Range: 7.\n*Single-target attack effects such as 's Unique Passive - Judgement or Marskman Talent Weakness Finder prioritizes the targeted enemy of this enhanced basic attack.\n*The enhanced basic attack can stack multiple 's Unique Passive - Thunderbolt stacks within a single attack.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-400",
+        "total-pa": "85",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Quick Draw",
+        "skill-effect-1": "AOE",
+        "cooldown": "8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0",
+        "mana-cost": "50",
+        "description": "Clint fires 5 bullets in quick succession in the target direction, each dealing to the enemy hit. The bullets will spread evenly across enemies in a fan-shaped area. Enemies hit by multiple bullet will take [ 30%–50% ] damage after the first bullet.",
+        "level-scaling": "*Base Damage: 250 / 280 / 310 / 340 / 370 / 400\n*Damage of the Second Bullet Hit on the Same Target: 30% / 34% / 38% / 42% / 46% / 50%",
+        "stack-scaling": "*Decay Ratio per Bullet Received (level 1): 100% / 30% / 5% / 5% / 5%\n*Decay Ratio per Bullet Received (level 6): 100% / 50% / 5% / 5% / 5%",
+        "term-1": "Physical Damage Skill",
+        "notes": "*This skill has reduced foreswing time by 50% and reduced backswing time by 20%. (Patch Notes 1.9.32)\n*The 3rd to 5th deal 5% of the initial damage.\n*This skill's attacks prioritize enemy heroes the most.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "140-240",
+        "total-pa": "30",
+        "total-mp": "150",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Trapping Recoil",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "CC",
+        "cooldown": "10.0/9.6/9.2/8.8/8.4/8.0",
+        "mana-cost": "65/75/85/95/105/115",
+        "description": "Clint shoots a trap net in the target direction, slightly jumping back while dealing to the first enemy hit and immobilizing them for 1.2 seconds. Succesfuly hitting and enemy reduces the cooldown of this skill by 40%.",
+        "level-scaling": "Skill Range (Patch Notes 1.9.32): 3.8\nDash Distance (Patch Notes 1.9.32): 3\nBase Damage: 140 / 160 / 180 / 200 / 220 / 240",
+        "term-1": "Blink",
+        "term-2": "Immobilize",
+        "term-3": "Physical Damage Skill",
+        "notes": "*The dashing speed is 20% increased.(Patch Notes 1.9.32)",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "280-400",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Grenade Bombardment",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Slow",
+        "cooldown": "3.0",
+        "recharging-time": "12.0 / 11.0 / 10.0",
+        "mana-cost": "50 / 55 / 60",
+        "description": "Clint launches a grenade in the target direction that explodes in the first enemy hit, dealing and slowing them by 25% for 1.2 seconds. Clint gains a grenade recharge every 12–10 seconds (up to 5).",
+        "level-scaling": "Skill Range (Patch Notes 1.9.32): 7\nBase Damage: 280 / 340 / 400",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "term-3": "Skill Charging Time",
+        "notes": "*This skill has reduced foreswing time and backswing time by 33%. (Patch Notes 1.9.32)",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Clint_(West_Justice).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(West_Justice).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(West_Justice).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Summer_Blast).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Summer_Blast).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Summer_Blast).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Guns_and_Roses).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Guns_and_Roses).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Guns_and_Roses).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Rock_and_Roll).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Rock_and_Roll).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Rock_and_Roll).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Badminton_Champion).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Badminton_Champion).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Badminton_Champion).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Witch_Hunter).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Witch_Hunter).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Witch_Hunter).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Shadow_Omen).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Shadow_Omen).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Shadow_Omen).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Operator_CL).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Operator_CL).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Operator_CL).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Crimson_Blast).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Crimson_Blast).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Crimson_Blast).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Captain_of_the_Reefs).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Captain_of_the_Reefs).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Captain_of_the_Reefs).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Clint_(Dragon's_Maw).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Dragon's_Maw).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Clint_(Dragon's_Maw).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "name": "Granger",
+        "template": "hi"
+      },
+      {
+        "name": "Caprice",
+        "template": "ai"
+      },
+      {
+        "name": "Rhapsody",
+        "template": "ai"
+      },
+      {
+        "name": "Karrie",
+        "template": "hi"
+      },
+      {
+        "name": "Phantom Step",
+        "template": "ai"
+      },
+      {
+        "name": "Claude",
+        "template": "hi"
+      },
+      {
+        "name": "Blazing Duet",
+        "template": "ai"
+      },
+      {
+        "name": "Blind Smoke",
+        "list": [
+          "1st skill"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Basic Attack",
+        "template": "ai"
+      },
+      {
+        "name": "Grenade Bombardment",
+        "list": [
+          "ultimate"
+        ],
+        "template": "ai"
+      },
+      {
+        "type": "Starlight",
+        "template": "skin tag"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Clint was the very first hero to be reworked. He's also the only one whose rework was aimed to nerf him, as he was intended to be \"a marksman who's good at poking and consuming enemies from distance, rather than a hero who charges up and deals crowd damage like an assassin\" (see Patch Notes 1.1.50).",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Patch Notes 1.1.50"
+            }
+          ]
+        },
+        {
+          "text": "All of his old skills were reused/repurposed for other heroes with some changes:"
+        },
+        {
+          "text": "Passive and 1st skill was repurposed for 's and, respectively."
+        },
+        {
+          "text": "2nd skill was reused for 's."
+        },
+        {
+          "text": "Ultimate was reused for 's."
+        },
+        {
+          "text": "Clint has the most redesign out of all of the heroes in the game and currently has 6 redesigns."
+        },
+        {
+          "text": "Clint's name is presumably referenced from Clint Eastwood, who is known for starring and directing Western-style films and television series.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Clint Eastwood"
+            }
+          ]
+        },
+        {
+          "text": "Despite having a double-barreled shotgun by design, it behaves as a rifle that deals in a straight line, instead of a spread shot of a typical shotgun."
+        },
+        {
+          "text": "Before revamp, his is the first skill in the game that can blind enemies, which would reduce the enemies'  hit rate. After he was revamped, this mechanic was removed from the game as the game removed this skill."
+        },
+        {
+          "text": "His is one of the few skills in the game that can stack up uses."
+        },
+        {
+          "text": "Clint's Valentine skin refers to the American hard rock band Guns N' Roses.",
+          "links": [
+            {
+              "text": "Guns N' Roses",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Guns_N%27_Roses"
+            }
+          ]
+        },
+        {
+          "text": "Clint is one of the heroes who doesn't have a basic skin."
+        },
+        {
+          "text": "He's the first hero to have 2 : \"Rock and Roll\" and \"Operator CL\".",
+          "formatting": {
+            "bold": [
+              "Rock and Roll",
+              "Operator CL"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

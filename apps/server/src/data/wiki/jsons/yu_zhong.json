@@ -1,0 +1,980 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yu Zhong, the conqueror born from the Black Dragon's power, sought to break the seal on the Reverse Scale hidden within the Dragon Altar and forge a new future for the Cadia Riverlands.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dragon Altar"
+              },
+              {
+                "type": "internal",
+                "page": "Cadia Riverlands"
+              }
+            ]
+          },
+          {
+            "text": "However, he was defeated by his senior brother, Baxia, and left to die in the mountains.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baxia"
+              }
+            ]
+          },
+          {
+            "text": "After ten years of arduous training and travel, Yu Zhong found himself back at the Dragon Altar."
+          },
+          {
+            "text": "He faced off against the Oriental Fighters, broke the seal to the Reverse Scale, and clashed in a final battle with the Evil God, Lieh, who caused the demise of the previous Black Dragon."
+          },
+          {
+            "text": "Ultimately, with the help of his dear friend Wanwan, Yu Zhong regained his true self and emerged victorious.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wanwan"
+              }
+            ]
+          },
+          {
+            "text": "Now with the Black Dragon's Reverse Scale restored, Yu Zhong sets off on his path of conquest."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Yu_Zhong_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Yu_Zhong_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Yu_Zhong_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Black_Dragon.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Black_Dragon.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Black_Dragon.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Yu_Zhong_Dragonoid.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Yu_Zhong_Dragonoid.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Yu_Zhong_Dragonoid.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Yu_Zhong_adult.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Yu_Zhong_adult.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Yu_Zhong_adult.jpg",
+            "caption": {}
+          }
+        ]
+      },
+      {
+        "list": [
+          "1",
+          "14"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Baxia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Wanwan"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zilong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lapu-Lapu"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Yu Zhong, the reincarnation of the Black Dragon, intends to unify the Cadia Riverlands through conquest and usher in an era of prosperity.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "翀 (Chōng)"
+        },
+        "full_name": {
+          "text": "* Black Dragon\n* Black Fierce Dragon"
+        },
+        "origin": {
+          "text": "Cadia Riverlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Cadia Riverlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "affiliation": {
+          "text": "Oriental Fighters (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Oriental Fighters"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Bladed cloak",
+          "links": [
+            {
+              "text": "Bladed cloak",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 1"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Applies Sha Essence to enemies\n*Unleashes Dragon Soul\n*Transforms into Black Dragon",
+          "links": [
+            {
+              "text": "Applies Sha Essence to enemies",
+              "type": "internal",
+              "page": "",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Unleashes Dragon Soul",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 2"
+            },
+            {
+              "text": "Transforms into Black Dragon",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "* (ally)\n*, (old friend, enemies)\n*,, ,  (enemies)"
+        },
+        "ja_va": {
+          "text": "Kenjiro Abekawa (安部川賢治郎)",
+          "links": [
+            {
+              "text": "Kenjiro Abekawa (安部川賢治郎)",
+              "type": "internal",
+              "page": "imdb:nm11823629"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Ojay S. Surianata"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Roar of the Dragon",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "During the age of the Endless War, the last of the dragon race, the Black and White Dragon Twins, opened a path to the Cadia Riverlands to save their people from annihilation."
+          },
+          {
+            "text": "However, their journey would be paved with many sacrifices, including the Black Dragon himself."
+          },
+          {
+            "text": "To stop the pursuit of the Evil God, Lieh, the exhausted Black Dragon made a last stand and swallowed Lieh in the battle.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieh"
+              }
+            ]
+          },
+          {
+            "text": "But in doing so, he also sealed his own fate."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Lieh laid dormant for millennia as the Cadia Riverlands enjoyed peace and prosperity."
+          },
+          {
+            "text": "From within, he slowly corrupted the Black Dragon until finally plunging him into darkness."
+          },
+          {
+            "text": "Under Lieh's influence, the Black Dragon sought to use the Yin Yang Eye to expand his dark power."
+          },
+          {
+            "text": "The war that ensued shook the heavens themselves, until eventually, the White Dragon incarnated into the Dragon Altar to vanquish his corrupted brother."
+          },
+          {
+            "text": "Baxia was the only Oriental Fighter to survive the war."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "From then on, the Black Dragon's name became taboo and the White Dragon became known as the Great Dragon.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Great Dragon"
+              }
+            ]
+          },
+          {
+            "text": "Thirty-five years ago, Baxia learned that the Black Dragon's power had reincarnated as a boy."
+          },
+          {
+            "text": "However, when Baxia tracked him down, he could not bring himself to harm the innocent child."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Baxia informed the parents that their son bore the destiny of leading the Cadia Riverlands and must be taken to the Dragon Altar to receive the Great Dragon's guidance."
+          },
+          {
+            "text": "While shedding tears of joy and sorrow, the couple agreed and named the boy \"Yu Zhong\"â€”hoping he would one day soar to the heavens."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the Dragon Altar, Yu Zhong quickly proved himself as a formidable warrior."
+          },
+          {
+            "text": "But he was also aware that his rapidly growing power became a concern for his senior brother Baxia."
+          },
+          {
+            "text": "To Baxia, one's mindset was more important than strength, especially when it came to the descendants of the Black Dragon who had once strayed from the righteous path."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To hone his mind, Baxia took Yu Zhong on a journey across the Cadia Riverlands."
+          },
+          {
+            "text": "Along the way, Yu Zhong used his power to help those in need, leaving behind many heroic tales."
+          },
+          {
+            "text": "Yu Zhong understood what Baxia wanted him to see, and he was moved by the human spirit shining through the suffering."
+          },
+          {
+            "text": "However, behind these moments of inspiration, he began to question the nature of suffering itself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Why do people always yearn for heroes to save them?"
+          },
+          {
+            "text": "What made them so weak that they could not even protect their loved ones from disaster?"
+          },
+          {
+            "text": "The Great Dragon had always indulged in the dream of an idyllic Cadia Riverlands."
+          },
+          {
+            "text": "He entrusted his disciples to be the guardians of the land so the people could forget the past and move forward."
+          },
+          {
+            "text": "But if an unfathomable calamity were to arise, what would happen to this land?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The shadow of the Black Dragon began to swell in Yu Zhong's eyes, and inexplicable voices whispered of ancient memories that did not belong to himâ€”the Black Dragon's power, aligned with Yin energy, was his birthright."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yu Zhong was destined to reclaim the Black Dragon's power and guide the world toward his ideals: the people must be forged by fire into warriors who could rise and defend the Cadia Riverlands against future crises."
+          },
+          {
+            "text": "And to achieve that end, great sacrifices were required."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With this newfound determination, Yu Zhong entered the Forbidden Area of the Dragon Soul."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Baxia arrived to stop him, instead of fear or hesitation, Yu Zhong felt a sense of liberation."
+          },
+          {
+            "text": "The two had never seen eye to eye, and now they could finally settle their differences in a clash of fists."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For the first time, the two disciples fought each other with all their might."
+          },
+          {
+            "text": "Yu Zhong, lacking the experience of his senior, was eventually knocked down from the mountaintop by Baxia and disappeared into the thick forest below."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nearly succumbing to his injuries, Yu Zhong was saved by the unlikeliest of people; a cheerful young girl named Wanwan from the Tang clan."
+          },
+          {
+            "text": "Recognizing the power of the White Tiger within her, Yu Zhong was initially tempted to eliminate this possible threat to the Black Dragon, but he realized those sinister thoughts were not his own."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Wanwan, unaware of Yu Zhong's inner conflict, treated him as a friend while Yu Zhong would occasionally give her guidance as her senior."
+          },
+          {
+            "text": "Yu Zhong's draconian ideals were continuously being worn down by the pure-hearted girl until his true aspirations were revealed: through conquest, he would create a world of harmony, free of evil, where everyone could live with childlike innocence."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Years later, the spirit master Luo Yi would find Yu Zhong and take him on the next step of his journey.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Luo Yi"
+              }
+            ]
+          },
+          {
+            "text": "Before departing, Yu Zhong sealed a part of his true self into a dragon orb and presented it to Wanwan as a gesture of their friendship."
+          },
+          {
+            "text": "Then, together with Luo Yi, he set out to reaffirm his destiny."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After ten years of traveling and training throughout the Cadia Riverlands, they arrived at the Dragon Altar where Yu Zhong once again attempted to open the seal within."
+          },
+          {
+            "text": "Thanks to Luo Yi's preparations, the Oriental Fighters were stopped from interfering with Yu Zhong by a magic circle that only the descendants of the Black Dragon could pass."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yu Zhong finally released the Reverse Scale that had been sealed for a thousand years, awakening the full extent of the Black Dragon's fearsome power."
+          },
+          {
+            "text": "However, the calamity that once led to the Black Dragon's demiseâ€”the Evil God, Liehâ€”also emerged from the seal, intending to corrupt Yu Zhong's heart as he had done to the Black Dragon."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But Yu Zhong was not the former Black Dragon, and he would not abandon his emotions and personal desires."
+          },
+          {
+            "text": "If he could not even hold onto his true self, what right did he have to offer freedom to the world?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Even so, engaging in a clash of willpower with a god was akin to a death sentence."
+          },
+          {
+            "text": "After just a few rounds, Lieh seemed poised to crush Yu Zhong's will once and for all."
+          },
+          {
+            "text": "But at this critical moment, Wanwan, who had long sensed something wrong with the dragon orb and used it to locate the Dragon Altar, was able to bypass the seal and enter the Forbidden Area."
+          },
+          {
+            "text": "She rushed towards the battle, hoping to stop Yu Zhong and bring him back to his senses."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As she approached, a burst of light suddenly shot out from the dragon orb toward Yu Zhong."
+          },
+          {
+            "text": "Everything had gone according to his plan."
+          },
+          {
+            "text": "The light containing his true self reinfused with Yu Zhong, allowing him to regain control for a split second, and that moment was all he needed to expel Lieh's consciousness from his body."
+          },
+          {
+            "text": "With this victory over the Evil God, Yu Zhong unleashed a thunderous roar as he claimed his rightful power."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Wanwan's kindness and innocence had played a vital role in the realization of Yu Zhong's ambitions."
+          },
+          {
+            "text": "He knew she would find him, and purposely gave her a portion of his true self in his bid to defeat Lieh."
+          },
+          {
+            "text": "But did he consider how using the girl's innocence to further his own ends would affect her?"
+          },
+          {
+            "text": "Or perhaps this was deemed a necessary \"sacrifice\"?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Only Yu Zhong himself knew the answers to these questions."
+          },
+          {
+            "text": "But what the world did know was this:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At that moment, Yu Zhong had truly become the Black Dragon."
+          },
+          {
+            "text": "A great change was coming to the Cadia Riverlands, a change that was long overdue."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Secret History of Dragons Altar",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Secret History of Dragons Altar"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Oriental Fighters Assemble",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Oriental Fighters Assemble"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "The Awakening of the Black Fierce Dragon Yu Zhong",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "The Awakening of the Black Fierce Dragon Yu Zhong"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Secrets of the New Hero - Luo Yi",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Secrets of the New Hero - Luo Yi"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Dragon's Reborn",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Dragon's Reborn"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm extra\\ movement\\ SPD} = (-0.15 \\times time) + 30%",
+        "raw": "{\\rm extra\\ movement\\ SPD} = (-0.15 \\times time) + 30%"
+      },
+      {
+        "base": "30",
+        "extra-pa": "20",
+        "lost-hp": "target's 2",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "lost HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Petrify"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Lethal Ignition"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Cursing Touch",
+        "skill-effect-1": "Buff",
+        "description": "Yu Zhong applies Sha Residue to enemy heroes every time he deals Physical damage to them. Sha Residue erupts reaching 5 stacks a and begins consuming 1 stack every 0.5 seconds. Each stack consumed deals, restores 6% of Yu Zhong's and increased his Movement Speed by 30% for 2 seconds.",
+        "term-1": "Lost HP",
+        "notes": "*Upon eruption of Sha Residue, it will slowly fly towards Yu Zhong and only after he makes contact with it will he gain its buffs.\n*The damage of each stack is updated on Yu Zhong's current health and max health, not all upon cast.\n*Every time Sha Essence is fully charged, Yu Zhong will receive the bonus Movement Speed even if he still has that bonus while it is decaying, resetting its duration.\n*Golden Staff's unique passive Endless Strike can now affect applied Sha Residue stacks on basic attack.\n*Upon Yu Zhong's death the remaining Sha Residue on enemies will not deal damage.\n*Does not count on damage from battle spells, such as or secondary effects such as  emblem.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "220-400",
+        "extra-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image-2": "Dragon Tail (Dragonoid Form)",
+        "name": "Dragon Tail",
+        "skill-effect-1": "AOE",
+        "cooldown": "6.0 / 5.5 / 5.0 / 4.5",
+        "description": "Yu Zhong infuses his power into his cloak and turns it into a weapon, which starts to attack nearby enemies after a short delay. The inner area of the cloak deals, whereas the sharpened edge deals 275% damage and applies 2 stacks of Sha Residue.",
+        "ls-1": "Base Damage: 220 / 280 / 340 / 400",
+        "term-1": "Physical Skill",
+        "term-2": "Extra Physical Attack",
+        "notes": "*In Dragonoid Form, the area-of-effect of this skill is wider than default form.\n*The animation is hidden if Yu Zhong is not sighted by enemy.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-300",
+        "extra-pa": "120",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "108-216",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "image-2": "Soul Grip (Dragonoid Form)",
+        "name": "Soul Grip",
+        "skill-effect-1": "Slowed",
+        "skill-effect-2": "Blink",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "14.0 / 13.0 / 12.0 / 11.0",
+        "description": "Yu Zhong unleashes the Dragon Soul, dealing to all enemies in front and slowing them by 60% for 1 second. Upon target hit, Yu Zhong's next Basic Attack will be enhanced [for 5 seconds], dealing  [and  behind the target]. (Upon multiple target hit, Yu Zhong applies Sha Residue multiple times with the enhanced Basic Attack, dealing up to 200% damage.)",
+        "ls-1": "Base Damage: 150 / 200 / 250 / 300",
+        "ls-2": "Additional Damage: 108 / 144 / 180 / 216",
+        "ss-1": "Sha Residue Stacks: 1 / 2 / 3 / 4 / 5",
+        "ss-2": "Damage Increase: 100% / 125% / 150% / 175% / 200%",
+        "term-1": "Physical Attack",
+        "term-2": "Extra Physical Attack",
+        "term-3": "Movement Speed",
+        "notes": "*The enhanced basic attack range is increased to 4.2 (2&#8531; times increase.)\n*In Dragonoid Form, the skill will be instead unleashed within a cone instead of a straight trajectory.\n**Unlike in human form where the Dragon Soul has to travel towards its target location. The skill instantly damages every enemy in a fan shape while in Dragonoid Form.\n*Upon successfully performing the enhanced Basic Attack, enemy heroes behind the main target cannot be marked with Sha Residue nor the attack benefits from Lifesteal.\n*The enhanced Basic Attack can lock onto invisible and concealed enemy, as long as they are within range.",
+        "bugs": "*Since per contact of the Dragon Soul to enemies grants 1 stack and each of these stack allow an enhanced Basic Attack. If casted in the right position, Yu Zhong can perform the enhanced Basic Attack twice.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 3",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "180-270",
+        "extra-pa": "90",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "180-270",
+        "extra-pa": "90",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "image-2": "Furious Dive (Dragonoid Form)",
+        "name": "Furious Dive",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "14.0 / 13.0 / 12.0 / 11.0",
+        "quote": "I once passed on this technique to a girl.",
+        "description": "Yu Zhong leaps towards the designated area with his full strength, dealing . He is able to dash one more time in the movement direction. After a short delay, enemies within the area of effect will be knocked airborne for 0.8 seconds and take additional.",
+        "ls-1": "Base Damage: 180 / 210 / 240 / 270",
+        "ls-2": "Additional Damage: 180 / 210 / 240 / 270",
+        "term-1": "Blink",
+        "term-2": "Airborne",
+        "term-3": "Physical Damage Skill",
+        "notes": "*In Dragonoid Form, the area-of-effect of this skill is wider than default form.\n*The additional dash's speed scales with Attack Speed.\n*The additional dash has an unknown duration. It can be delayed by simply doing anything besides moving the movement stick.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "180-310",
+        "total-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "600-1000",
+        "extra-pa": "200",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Dragonoid Form",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Soul Grip"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Furious Dive"
+        ],
+        "template": "ai"
+      },
+      {
+        "image-2": "Black Dragon Form 2",
+        "name": "Black Dragon Form",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "BUFF",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "85.0 / 75.0 / 65.0",
+        "description": "After channeling for 0.7 seconds, Yu Zhong transforms into the Black Dragon Form. For up to 7 seconds, he cannot use skills but can move freely and will knock back enemy heroes in this path while dealing gains . He also gains, becomes immune to control effects, and ignores obstacles in this form.  Upon exiting the Black Dragon form, Yu Zhong enters , gaining increased range on all of his skills for 10 seconds.",
+        "ls-1": "HP Increase: 600 / 800 / 1000",
+        "ls-2": "Base Damage: 180 / 245 / 310",
+        "term-1": "Control Immunity",
+        "term-2": "Block Immunity",
+        "term-3": "Max HP",
+        "notes": "*Knockback effect only takes effect once on the same target.\n*When suppressed while in Black Dragon Form, the crowd control effect still applies but Yu Zhong will neither be reverted into his human form nor to his Dragonoid Form.\n*Upon exiting his Black Dragon Form and transforming into his Dragonoid Form, Yu Zhong will be untargetable at that moment right until his Dragonoid form transformation is complete.",
+        "bugs": "*If Yu Zhong casted but didn't follow up with the enhanced Basic Attack and transformed into his Black Dragon Form immediately, even with his Soul Grip stacks still on, upon turning into his Dragonoid Form, he will not Dash on his next Basic Attack nor will it deliver its bonus effects.\n*If Yu Zhong casted  but didn't follow up with the additional Dash and transformed into his Black Dragon Form immediately, upon turning into his Dragonoid Form, he will not be able to perform the additional Dash.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "name": "Hanzo",
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hanekage"
+        ],
+        "color": "#49326b",
+        "template": "avc1"
+      },
+      {
+        "name": "Pharsa",
+        "template": "hi"
+      },
+      {
+        "name": "Wings by Wings",
+        "template": "ai"
+      },
+      {
+        "name": "Ling",
+        "template": "hi"
+      },
+      {
+        "name": "Tempest of Blades",
+        "template": "ai"
+      },
+      {
+        "name": "Kadita",
+        "template": "hi"
+      },
+      {
+        "name": "Ocean Oddity",
+        "template": "ai"
+      },
+      {
+        "name": "Masha",
+        "template": "hi"
+      },
+      {
+        "name": "Sun",
+        "list": [
+          "Revamped Sun"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Black Dragon Form",
+        "template": "ai"
+      },
+      {
+        "name": "Zetian",
+        "template": "hi"
+      },
+      {
+        "name": "Fury of the Phoenix",
+        "template": "ai"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Yu Zhong was originally named Chong (翀).",
+          "formatting": {
+            "bold": [
+              "Chong (翀)"
+            ]
+          }
+        },
+        {
+          "text": "As of Patch 1.4.74 (Advanced Server), developers renamed Chong to Yu Zhong due to a number of complaints, due to the former may offend players.",
+          "links": [
+            {
+              "text": "offend",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Ching chong"
+            }
+          ]
+        },
+        {
+          "text": "The word's meaning is the same but the transliteration to English of the word is differed."
+        },
+        {
+          "text": "His name still stay as Chong in the Chinese text."
+        },
+        {
+          "text": "His name was taken by dividing the Chinese character of his original name: \"翀\" into \"羽中\" which pronounced as Yu Zhong."
+        },
+        {
+          "text": "Yu Zhong can fly above obstacles during Dragon form, and is one of the only heroes who can do so."
+        },
+        {
+          "text": "The other heroes who can bypass obstacles are (as ),  (during ),  (with ), and  (during )."
+        },
+        {
+          "text": "He is a Fighter with 4 abilities along with and."
+        },
+        {
+          "text": "is the skill with the longest cooldown, at 85 seconds on level 1. It was later surpassed by 's, at 90 seconds on level 1."
+        },
+        {
+          "text": "Yu Zhong has the most hero quotes in the game."
+        },
+        {
+          "text": "He already had quotes when he was released on the Advanced Server."
+        },
+        {
+          "text": "His quote [[Media:Chong.move10.ogg|\"I don't give a damn…\"]] is the second canon quote that features profanity."
+        }
+      ]
+    ]
+  }
+]

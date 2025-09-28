@@ -1,0 +1,1871 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Beatrix_comic.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_comic.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_comic.png",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_lethalnexusIntegration.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_lethalnexusIntegration.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_lethalnexusIntegration.png",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Lethal_Nexus_Beatrix_Info.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lethal_Nexus_Beatrix_Info.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lethal_Nexus_Beatrix_Info.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Diggie"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Johnson"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Layla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chou"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bruno"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kimmy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "X.Borg"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alpha"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "infoboxes": [
+      {
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "occupation": {
+          "text": "*Eruditio scholar\n*Scientist\n*Programmer of Survival: Nexus",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Survival: Nexus"
+            }
+          ]
+        },
+        "affiliation": {
+          "text": "*Eruditio\n**Scholar's Union\n**Eruditio Rangers\n**Leviathan Workshop (current residence)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Renner (sniper rifle)\n*Bennett (rocket launcher)\n*Nibiru (submachine)\n*Wesker (shotgun)"
+        },
+        "battles_fought": {
+          "text": "Eruditio Crisis",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio Crisis"
+            }
+          ]
+        },
+        "traits": {
+          "text": "Conceited, playful, confident, never giving up"
+        },
+        "likes": {
+          "text": "Developing weird inventions"
+        },
+        "relationships": {
+          "text": "*Unnamed parents\n*Morgan (butler) \n*Dr. Rooney\n*,, , ,  (companions)\n* (close friend)\n*Octavius, ,  (enemies)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Octavius"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Jeannie Tirado",
+          "links": [
+            {
+              "text": "Jeannie Tirado",
+              "type": "internal",
+              "page": "imdb:nm7429639"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Nemoto Miyari (根本京里)",
+          "links": [
+            {
+              "text": "Nemoto Miyari (根本京里)",
+              "type": "internal",
+              "page": "imdb:nm11524787"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Jane Leisilla Zahara"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "A year and a half ago, the Scholars' Union of Eruditio welcomed a new student into their ranks.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eruditio"
+              }
+            ]
+          },
+          {
+            "text": "Unlike the other newcomers, this young girl named Beatrix seemed to possess profound knowledge of and astonishing talent for science."
+          },
+          {
+            "text": "Before long she stood head and shoulders above her peers, becoming one of the most promising scholars of the entire Scholars' Union."
+          },
+          {
+            "text": "Even Dr. Rooney, who was watching her quietly from afar, was impressed by her progress."
+          },
+          {
+            "text": "He believed that, if she were to apply herself to her studies, Beatrix could one day become the greatest scientist Eruditio had ever seen."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yet becoming the best scientist was not something Beatrix placed any great importance in."
+          },
+          {
+            "text": "She was born in Castle Gorge in the Moniyan Empire, to a family of merchants.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Castle Gorge"
+              },
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          },
+          {
+            "text": "For generations, her family had already been well established as a wealthy merchant family business in the empire."
+          },
+          {
+            "text": "In order to maintain their huge trade network, Beatrix's parents often had little choice but to travel all around the Land of Dawn on business, leaving the young Beatrix in the care of their loyal butler, Morgan."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With the endowed means and liberty granted by her family, Beatrix spent her free-spirited childhood under Morgan's doting care."
+          },
+          {
+            "text": "As such, she gained a penchant for mischief, and became a stubborn and often capricious individual."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, Beatrix's parents returned from the far west, bringing along with them a range of advanced gadgets from Eruditio to give her."
+          },
+          {
+            "text": "Beatrix had long grown tired of the mundane and uninteresting toys that surrounded her, and so she began to obsess over these novelties."
+          },
+          {
+            "text": "They sparked within her a deep interest in technology itself."
+          },
+          {
+            "text": "In the several years that followed, Morgan would regularly shuttle between Eruditio and Castle Gorge to bring Beatrix the latest inventions, which proved to be an extremely expensive endeavor."
+          },
+          {
+            "text": "As she tirelessly studied them, Beatrix began to nurture within herself an incredible natural talent for science."
+          },
+          {
+            "text": "She digested many complex mechanical concepts and structures as if they were child's play."
+          },
+          {
+            "text": "Before long, she had built her own laboratory within the castle grounds and seriously researched various technologies and weaponry."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Beatrix dedicated herself to studying technology, which in turn only served to deepen her obsession with it till she reached a bottleneck in her studies."
+          },
+          {
+            "text": "After her 16th birthday, Beatrix packed her bags and set off on the road to Eruditio, where she would continue her studies in earnest."
+          },
+          {
+            "text": "She yearned to learn more about the most advanced of all technology in the Land of Dawn - Leviathan technologies."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And so, Beatrix embarked upon a year-long learning quest for at Eruditio."
+          },
+          {
+            "text": "The sheer speed at which she absorbed and mastered knowledge was lauded by all those around her."
+          },
+          {
+            "text": "However, her obsession and stubbornness, driven by her hunger for technology knowledge, caused a good deal of distress for some Union members, who were set in their archaic ways and were sticklers for rules."
+          },
+          {
+            "text": "She began to grow bored of her dull and tedious curriculum."
+          },
+          {
+            "text": "She needed [a] new approach to technology – something wild and unreserved."
+          },
+          {
+            "text": "However, Dr. Rooney's doors and those of the Leviathan Workshop remained firmly closed and shut-off from her."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In order to prove her technological prowess, she raised a wild and imaginative proposition during a debate: that the human body could be connected with communication terminals in order to establish a direct neurological connection with others."
+          },
+          {
+            "text": "Such a sensitive topic bore a certain resemblance to the ideas spread by evil Laboratory 1718 faction of scholars at the time."
+          },
+          {
+            "text": "Hence, before she had a chance to finish, Beatrix was interrupted by others in the Union and was kicked out of the discussion."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She felt unfairly treated, and it left her seething with rage."
+          },
+          {
+            "text": "Without bidding farewell, Beatrix departed Eruditio and returned to her laboratory back in Castle Gorge."
+          },
+          {
+            "text": "With Morgan's help, she utilized her family's wealth and resources and began bringing her invention concepts to reality."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "About half a year or so had passed, and a competition known as \"Survival: Nexus\" began to take Eruditio.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Survival: Nexus"
+              }
+            ]
+          },
+          {
+            "text": "Convenient terminals allowed participants to virtually control avatars solely with their brainwaves, immersing themselves in a virtual realm."
+          },
+          {
+            "text": "Here, they could take part in a tactical competition without any real physical harm."
+          },
+          {
+            "text": "The creator behind this technological marvel was none other than the student who had stormed out of Eruditio just half a year earlier: Beatrix."
+          },
+          {
+            "text": "Thanks to the enormous prize money she'd offered to the competition victor, Eruditio scholars and citizens alike were queuing up to partake in \"Operation Dawnbreak\"."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Beatrix watched on with glee as her prized project dominated over the conservative thinkers of the Scholars' Union."
+          },
+          {
+            "text": "But then, disaster struck."
+          },
+          {
+            "text": "The network of terminals she designed was maliciously hacked into by the nefarious Laboratory 1718."
+          },
+          {
+            "text": "Everyone neurologically connected into the system were now under their control, and Laboratory 1718 stole the \"Iron Guardians\": a robot army that had been sealed underground, beneath the Eruditio Congress Building."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Those trapped within the terminals were linked to these robots."
+          },
+          {
+            "text": "With their consciousness still immersed in the virtual battles and unaware of the real world, they led the robot army to wreak destruction upon the streets of Eruditio."
+          },
+          {
+            "text": "The ultra-advanced technological capital was plundered and plunged into an unprecedented crisis."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The scholars that remained joined forces with the Eruditio City Guard, under Dr. Rooney's command, and fell back to the Leviathan Workshop."
+          },
+          {
+            "text": "Against their previous passé, they knew that they had to defend the greatest fruits of the city's technological research."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The robots continued to surge forth and things looked extremely bleak for the Leviathan Workshop."
+          },
+          {
+            "text": "But it was then, at the most crucial moment, that young and industrious Beatrix roared through the skies above in her airship, raining down tremendous and suppressing firepower."
+          },
+          {
+            "text": "She would not stand to see those selfish power-seekers exploit her own invention to destroy the city."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With Beatrix's aid, the Eruditio City Guard managed to beat back the robot forces that had besieged the Leviathan Workshop."
+          },
+          {
+            "text": "Together they charged into the Eruditio Congress Building to seize control of the robots and virtual network away from the perpetrator Octavius, the insane biochemist."
+          },
+          {
+            "text": "And ultimately, peace was restored to Eruditio."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Responsible for averting a crisis in Eruditio, Beatrix finally earned herself an audience with Dr. Rooney."
+          },
+          {
+            "text": "Under his tutelage she managed to understand the true essence of technology."
+          },
+          {
+            "text": "In the days that followed she gifted her \"Operation Dawnbreak\" terminal system to the Scholars' Union and eventually decided to remain at Eruditio to continue her studies."
+          },
+          {
+            "text": "And this time, the doors to the Leviathan Workshop—an embodiment of the peak of technology itself—were closed to Beatrix no more."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Lethal Nexus",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Beatrix's theoretical proposition was not accepted. She felt unfairly treated. Without bidding farewell, Beatrix departed Eruditio and returned to her laboratory back in Castle Gorge. With Morgan's help, she utilized her family's wealth and resources and began bringing her invention concepts to reality. About half a year or so had passed, the \"Survival: Nexus\" competition began to take Eruditio by storm. Convenient terminals allowed participants to virtually control avatars solely with their brainwaves, immersing themselves in a virtual realm. The creator behind this technological marvel was none other than the student who had stormed out of Eruditio just half a year earlier: Beatrix. Thanks to the enormous prize money she'd offered to the competition victor, Eruditio scholars and citizens alike were queuing up to partake in \"Survival: Nexus\". Beatrix watched on with glee as her prized project proves the conservative thinkers of the Scholars' Union."
+          },
+          {
+            "text": "But then, disaster struck.\""
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Lethal Nexus"
+        ],
+        "template": "main"
+      },
+      {
+        "text": "Beatrix's theoretical proposition was not accepted. She felt unfairly treated. Without bidding farewell, Beatrix departed Eruditio and returned to her laboratory back in Castle Gorge. With Morgan's help, she utilized her family's wealth and resources and began bringing her invention concepts to reality. About half a year or so had passed, the \"Survival: Nexus\" competition began to take Eruditio by storm. Convenient terminals allowed participants to virtually control avatars solely with their brainwaves, immersing themselves in a virtual realm. The creator behind this technological marvel was none other than the student who had stormed out of Eruditio just half a year earlier: Beatrix. Thanks to the enormous prize money she'd offered to the competition victor, Eruditio scholars and citizens alike were queuing up to partake in \"Survival: Nexus\". Beatrix watched on with glee as her prized project proves the conservative thinkers of the Scholars' Union. But then, disaster struck.",
+        "template": "quote"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm Basic\\ attack\\ damage} = 347.5% + (12.5% \\times hero\\ level)",
+        "raw": "{\\rm Basic\\ attack\\ damage} = 347.5% + (12.5% \\times hero\\ level)"
+      },
+      {
+        "template": "math",
+        "formula": "{\\rm Basic\\ attack\\ damage} = 170% + (10% \\times hero\\ level)",
+        "raw": "{\\rm Basic\\ attack\\ damage} = 170% + (10% \\times hero\\ level)"
+      },
+      {
+        "template": "math",
+        "formula": "{\\rm Basic\\ attack\\ damage} = 120% + (5% \\times hero\\ level)",
+        "raw": "{\\rm Basic\\ attack\\ damage} = 120% + (5% \\times hero\\ level)"
+      },
+      {
+        "template": "math",
+        "formula": "{\\rm Basic\\ attack\\ damage} = 48.75% + (1.25% \\times hero\\ level)",
+        "raw": "{\\rm Basic\\ attack\\ damage} = 48.75% + (1.25% \\times hero\\ level)"
+      },
+      {
+        "list": [
+          "Renner"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Longshot",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "total-pa": "360%-535",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "50% damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "crit"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Critical Chance"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "image": "Renner",
+        "name": "Mechanical Genius",
+        "skill-effect-1": "BUFF",
+        "skill-type-1": "Physical Basic Attack",
+        "description": "Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower. Basic Attack - : Fire a powerful shot in the enemy's current direction, dealing  to the first target hit (this shot can be dodged, or blocked by others. Deals  to creeps). Beatrix cannot, and converts every 1%  gained into 2",
+        "ls-1": "Basic Attack Damage: 360% / 372.5% / 385% / 397.5% / 410% / 422.5% / 435% / 447.5% / 460% / 472.5% / 485% / 497.5% / 510% / 522.5% / 535%",
+        "term-1": "Physical Basic Attack",
+        "notes": "*She can only automatically fire an Outer Turret Shield whilst stationary.",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Bennett"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Area Bombing",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "total-pa": "180%-320",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "slowing"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "50% damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "crit"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Critical Chance"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Lifesteal"
+        ],
+        "template": "b"
+      },
+      {
+        "image": "Bennett",
+        "name": "Mechanical Genius",
+        "skill-effect-1": "BUFF",
+        "skill-type-1": "Physical Basic Attack",
+        "description": "Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower. Basic Attack - : Choose a location to bombard, dealing  to all enemies in that area and  them by 30% for 0.5 second (Deals  to creeps). Beatrix cannot, and converts every 1%  gained into 2",
+        "ls-1": "Basic Attack Damage: 180% / 190% / 200% / 210% / 220% / 230% / 240% / 250% / 260% / 270% / 280% / 290% / 300% / 310% / 320%",
+        "term-1": "Physical Basic Attack",
+        "notes": "*Area Bombing only benefits 50% of.",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Wesker"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Proximity Advantage",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "total-pa": "125%-195",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "damage",
+          "pd"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "40%",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "50% damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "crit"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Critical Chance"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Lifesteal"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "40%",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Basic Attack Effects"
+        ],
+        "name": "Basic Attack",
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Demon Hunter Sword"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "current HP"
+        ],
+        "template": "b"
+      },
+      {
+        "image": "Wesker",
+        "name": "Mechanical Genius",
+        "skill-effect-1": "BUFF",
+        "skill-type-1": "Physical Basic Attack",
+        "description": "Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower. Basic Attack - : Fire 5 shots at the target, each one dealing  ( dealt to targets hit multiple times decays to . Deals  to creeps). Beatrix cannot, and converts every 1%  gained into 2",
+        "ls-1": "Basic Attack Damage: 125% / 130% / 135% / 140% / 145% / 150% / 155% / 160% / 165% / 170% / 175% / 180% / 185% / 190% / 195%",
+        "ss-1": "Decay Ratio: {100% / 70% / 40% / 40% / 40%}",
+        "term-1": "Physical Basic Attack",
+        "notes": "*Proximity Advantage only benefits 50% of .\n*The decay ratio for the second shot is reduced to 70% . Decay ratio of the third and subsequent attacks remain unchanged as .\n* will be triggered up to 5 times per Proximity Advantage.\n** from 's Unique Passive Devour is reduced to 2% of the target's per shot.",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "Nibiru"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Rapid Fire",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "total-pa": "50%-67.5",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "50% damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "crit"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Critical Chance"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Basic Attack Effects"
+        ],
+        "name": "Basic Attack",
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Demon Hunter Sword"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "current HP"
+        ],
+        "template": "b"
+      },
+      {
+        "image": "Nibiru",
+        "name": "Mechanical Genius",
+        "skill-effect-1": "BUFF",
+        "skill-type-1": "Physical Basic Attack",
+        "description": "Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower. Basic Attack - : Let loose a volley of 4 shots, each one dealing  (Deals  to creeps). Beatrix cannot, and converts every 1%  gained into 2.",
+        "ss-1": "Basic Attack Damage: 50% / 51.25% / 52.5% / 53.75% / 55% / 56.25% / 57.5% / 58.75% / 60% / 61.25% / 62.50% / 63.75% / 65% / 66.25% / 67.5%",
+        "term-1": "Physical Basic Attack",
+        "notes": "* will be triggered up to 4 times per Rapid Fire.\n** from 's Unique Passive Devour is reduced to 2% of the target's per shot.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Renner="
+        }
+      ],
+      [
+        {
+          "text": "-|Bennett="
+        }
+      ],
+      [
+        {
+          "text": "-|Wesker="
+        }
+      ],
+      [
+        {
+          "text": "-|Nibiru="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Active:",
+          "enhanced"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Masterful Gunner",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "BUFF",
+        "cooldown": "12 / 11 / 10 / 9 / 8 / 7",
+        "description": ": Beatrix can carry 2 weapons at once, and increase her by 5–30.  Beatrix takes 0.6 second to swap her primary weapon with the secondary weapon she has slung over her back, gaining an all-new way to attack and Ultimate.",
+        "ls-1": "Physcial Attack: 5 / 10 / 15 / 20 / 25 / 30",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Renner"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Bennett"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Wesker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Nibiru"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Tactical Reposition",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "BUFF",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "term-1": "Blink",
+        "description": "Beatrix: drops and rolls forward ; leaps and nimbly forward ; rolls ahead sideways ; slides forward and fully reloads her current weapon.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "700-1200",
+        "total-pa": "280",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Lifesteal"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Spell Vamp"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "cooldown"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Renner's Apathy",
+        "skill-type-1": "Physical Skill",
+        "skill-effect-1": "Burst",
+        "cooldown": "24.0 / 21.0 / 18.0",
+        "term-1": "Physical Skill",
+        "description": "Beatrix wields Renner calmly upon the battlefield, aiming at the enemy. When releasing the skill, she deals to the first enemy hit. This skill gets 50%, but is not affected by . Beatrix can aim up to 20 seconds.",
+        "notes": "*This shot can be dodged or blocked by other heroes and creeps.\n*The bullet penetrates through minions and deals the same .\n*Renner's Apathy initially starts with the aim wobbling left to right until it settles down to the center.\n*A laser sight attached turns on when activating this skill.\n*It can be manually cancelled and the skill will not go on",
+        "template": "ability"
+      },
+      {
+        "list": [
+          "slows"
+        ],
+        "template": "avc1"
+      },
+      {
+        "base": "580-980",
+        "total-pa": "225",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "20%"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Lifesteal"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Spell Vamp"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Bennett's Rage",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slowed",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "40.0 / 35.0 / 30.0",
+        "term-1": "Physical Skill",
+        "description": "Beatrix focuses her rage, and has Bennett rain down a bombardment in a set area 5 time(s). Each bombardment the target by 30% and deals  to enemies hit (this damage decaying to  when hitting the same target multiple times, lasting 1 seconds. This skill gets 25%, but is not affected by.",
+        "ls-1": "Base Damage: 580 / 780 / 980",
+        "ss-1": "Decay Ratio: {100%, 20%, 20%, 20%, 20%}",
+        "template": "ability"
+      },
+      {
+        "base": "295-445",
+        "total-pa": "110",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "damage",
+          "pd"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "25%",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "25% base damage",
+          "pd"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Lifesteal"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Spell Vamp"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Wesker's Elation",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "24.0 / 21.0 / 18.0",
+        "term-1": "Physical Skill",
+        "description": "Beatrix raises Wesker and fires off [ultra-bullets] that deal each time they hit an enemy (the  of successive hits on the same enemy decays by  but falls no lower than ). This skill gets 50%, but is not affected by.",
+        "ls-1": "Base Damage: 295 / 370 / 445",
+        "ss-1": "Decay Ratio: {100%, 75%, 50%, 25%, 25%}",
+        "notes": "*The shots can be dodged, or blocked by others.",
+        "template": "ability"
+      },
+      {
+        "base": "200-320",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Lifesteal"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Spell Vamp"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Nibiru's Passion",
+        "skill-effect-1": "AoE",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "40.0 / 35.0 / 30.0",
+        "term-1": "Physical Skill",
+        "description": "Beatrix squeezes the trigger to greet oncoming enemies with a 6-shot volley from Nibiru, inflicting to each hit. This skill gets 25%, but is not affected by.",
+        "ls-1": "Base Damage: 200 / 260 / 320",
+        "notes": "*This ability is a focused cast. If Beatrix is affected crowd control, or displaced by any means, or use, the ability is canceled.",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Renner="
+        }
+      ],
+      [
+        {
+          "text": "-|Bennett="
+        }
+      ],
+      [
+        {
+          "text": "-|Wesker="
+        }
+      ],
+      [
+        {
+          "text": "-|Nibiru="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Other",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "controlled",
+          "cc"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Need Backup",
+        "skill-effect-1": "Morph",
+        "cooldown": "30",
+        "description": "Having escaped battle for 3 seconds, Beatrix can call for her butler Morgan to provide her with a backup weapons crate. Beatrix must then choose two weapon from the crate to serve as her primary and secondary. Her weapon selection is interrupted if she commits any action or is during this period.",
+        "notes": "*Selecting only one weapon before the skill is cancelled will switch her primary weapon but will keep the same secondary weapon she previously has.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Artwork",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Beatrix_(Dawnbreak_Soldier).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Dawnbreak_Soldier).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Dawnbreak_Soldier).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_(X_Factor).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(X_Factor).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(X_Factor).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_(Blitz_Attack).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Blitz_Attack).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Blitz_Attack).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_(Space_Agent).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Space_Agent).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Space_Agent).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_(Light_Chaser).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Light_Chaser).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Light_Chaser).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_(Stellar_Briliance).png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Stellar_Briliance).png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Stellar_Briliance).png",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_(Vibrant_Fiesta).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Vibrant_Fiesta).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Vibrant_Fiesta).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Beatrix_(Sky_Force_Maverick).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Sky_Force_Maverick).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Sky_Force_Maverick).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:;_Painted_skins",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3B_Painted_skins?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3B_Painted_skins"
+          },
+          {
+            "file": "File:<gallery_captionalign=\"center\"_spacing=\"small\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22%3E"
+          },
+          {
+            "file": "File:Beatrix_(Light_Seeker).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Light_Seeker).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Beatrix_(Light_Seeker).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Mechanical Genius (Nibiru)",
+          "Nibiru"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Nibiru's Passion"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Wesker)",
+          "Wesker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Wesker's Elation"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Renner)",
+          "Renner"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Renner's Apathy"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Bennett)",
+          "Bennett"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Bennett's Rage"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Nibiru)",
+          "Nibiru"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Wesker)",
+          "Wesker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Renner)",
+          "Renner"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Bennett)",
+          "Bennett"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Spell Vamp"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Physical Lifesteal",
+          "Physical Lifesteal"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Alucard",
+        "template": "hero icon"
+      },
+      {
+        "list": [
+          "Ruby"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Physical Lifesteal"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Critical Chance"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kimmy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Terizla"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Natan",
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Marksman"
+        ],
+        "template": "marksman"
+      },
+      {
+        "list": [
+          "Mana"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Energy"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Granger"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Renner)",
+          "Renner"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Bennett)",
+          "Bennett"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Layla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Destruction Rush"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Double Shot"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lethal Shot"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Renner)",
+          "Renner"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Bennett)",
+          "Bennett"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Kimmy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Marksman"
+        ],
+        "template": "marksman"
+      },
+      {
+        "list": [
+          "Granger"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Nibiru)",
+          "sub-machine guns"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Wesker)",
+          "shotgun"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Renner)",
+          "sniper rifle"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Bennett)",
+          "grenade launcher"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Nibiru)",
+          "Nibiru"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Wesker)",
+          "Wesker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Renner)",
+          "Renner"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Bennett)",
+          "Bennett"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Wesker's Elation"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Mechanical Genius (Bennett)",
+          "Bennett"
+        ],
+        "template": "ai"
+      },
+      {
+        "type": "Basic",
+        "template": "skin tag"
+      },
+      {
+        "type": "Elite",
+        "template": "skin tag"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Beatrix came from the name Viatrix, originated from Late Latin name Viator, meaning \"Voyager\" or \"Traveler\"."
+        },
+        {
+          "text": "In the New Arrival Shop, Beatrix's hero description is \"A gifted crack shot with a variety of strong and lively weapons\".",
+          "links": [
+            {
+              "type": "internal",
+              "page": "New Arrival Shop"
+            }
+          ]
+        },
+        {
+          "text": "According to one of the tips during her in-game loading screen, carrying different weapons puts Beatrix in different moods; explaining her different voice tones when picking up certain weapons."
+        },
+        {
+          "text": "is represented by a grinning emoticon, hence the name of the Ultimate \"\"."
+        },
+        {
+          "text": "is represented by a winking with tongue-out emoticon, hence the name of the Ultimate \"\"."
+        },
+        {
+          "text": "is represented by an expressionless or apathetic emoticon, hence the name of the Ultimate \"\"."
+        },
+        {
+          "text": "is represented by a pouting or angry emoticon, hence the name of the Ultimate \"\"."
+        },
+        {
+          "text": "According to her Lethal Nexus character page, Beatrix is 17 years old and develops weird inventions for a hobby.",
+          "links": [
+            {
+              "text": "Lethal Nexus character page",
+              "type": "external",
+              "site": "https://play.mobilelegends.com/lethalnexusIntegration/"
+            }
+          ]
+        },
+        {
+          "text": "According to a question in April 2021's Trial of Knowledge, Beatrix dislikes the number four.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Trial of Knowledge"
+            }
+          ]
+        },
+        {
+          "text": "Interestingly it references that \"4\" is considered to be a \"negative\" number in the Sinosphere or East Asian Cultures because 四 (sì in chinese, shi in japanese on'yomi, sa in korean, tứ in vietnamese) meaning \"4\" is a homophone to 死 (sǐ in chinese, shi in japanese, sa in korean, tử in vietnamese) meaning \"Death\", The number \"4\" was avoided in building floors, phone numbers and addresses in China, Hong Kong and Japan because of the superstition that this number could led to death but it is less extreme in South Korea and Vietnam, it is considered the eastern equivalent to \"13\" being a negative number in the western world.",
+          "links": [
+            {
+              "text": "Sinosphere or East Asian Cultures",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Sinosphere#:~:text=The%20Sinosphere%2C%20also%20known%20as,Japan%2C%20Korea%2C%20and%20Vietnam."
+            },
+            {
+              "text": "\"13\" being a negative number in the western world",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Triskaidekaphobia"
+            }
+          ]
+        },
+        {
+          "text": "Beatrix is the first hero with different multiple dying animations (up to four)."
+        },
+        {
+          "text": "Dying when using causes Beatrix to be knocked down into a crawling position before lying face down."
+        },
+        {
+          "text": "Dying when using causes Beatrix to be quickly knocked flat on her back with both legs straight."
+        },
+        {
+          "text": "Dying when using causes Beatrix to slowly fall backwards and lies down on her left side."
+        },
+        {
+          "text": "Dying when using causes Beatrix to kneel on both knees before lying face down."
+        },
+        {
+          "text": "Beatrix's skills do not benefit from, but from instead."
+        },
+        {
+          "text": "Along with and, Beatrix is one of the heroes in the game whose skills benefits from.",
+          "formatting": {
+            "bold": [
+              "Beatrix"
+            ]
+          }
+        },
+        {
+          "text": "Beatrix is the fifth hero in the game whose passive converts a stat (') to another stat (').",
+          "formatting": {
+            "bold": [
+              "') to another stat ("
+            ],
+            "italic": [
+              "') to another stat ("
+            ]
+          }
+        },
+        {
+          "text": "The other heroes with stat-converting mechanics are, , , and."
+        },
+        {
+          "text": "Beatrix is the second without ' or ', the first being.",
+          "formatting": {
+            "bold": [
+              "' or "
+            ],
+            "italic": [
+              "' or "
+            ]
+          }
+        },
+        {
+          "text": "Beatrix is the fourth hero who can attack turrets from outside their range, using or.",
+          "links": [
+            {
+              "text": "turrets",
+              "type": "internal",
+              "page": "Defensive Turrets"
+            }
+          ]
+        },
+        {
+          "text": "The other heroes are upon maxing up the level of her,  with his  activated, and  with her  activated."
+        },
+        {
+          "text": "Using or, Beatrix is the second hero whose  requires manual aiming, the first being."
+        },
+        {
+          "text": "Beatrix is the second with bullets reloading mechanism, the first being."
+        },
+        {
+          "text": "Including Survival: Nexus and Ravage mode, Beatrix has a total of 10 weapons.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Survival: Nexus"
+            }
+          ]
+        },
+        {
+          "text": "Beatrix's weapons are a pair of, a , a , a , a heavy machine gun, a boomerang, a laser gun, an energy gun, a flamethrower, and a sword."
+        },
+        {
+          "text": "Aside from, , , and , the rest of Beatrix's weapons currently have no known names."
+        },
+        {
+          "text": "Beatrix was originally called Boudicca."
+        },
+        {
+          "text": "In the Advanced Server, was previously a circular AoE Damage skill before being revamped.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Advanced Server"
+            }
+          ]
+        },
+        {
+          "text": "Beatrix's previous line of the Ultimate was Bullets around!\" before being replaced by its current line.",
+          "formatting": {
+            "italic": [
+              "Bullets around!"
+            ]
+          }
+        },
+        {
+          "text": "Beatrix originally gave a salute with her right hand and did not wield any weapon at the end of her hero animation."
+        },
+        {
+          "text": "This is replaced as Beatrix currently salutes with her left hand as her right hand wields."
+        },
+        {
+          "text": "Beatrix was born in Castle Gorge within the Moniyan Empire, but currently resides in Eruditio.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            },
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            }
+          ]
+        },
+        {
+          "text": "The name of Beatrix's 'X Factor', lexically refers to a noteworthy special talent/quality and also a variable in a given situation that could have the most significant impact on the outcome."
+        },
+        {
+          "text": "The term 'X Factor' also refers to several different things; with the most popular being The X Factor, a TV music/singing competition franchise.''",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "The X Factor"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "The X Factor"
+            ]
+          }
+        },
+        {
+          "text": "Her, 'Blitz Attack' was originally called 'Hawkeye Bolt' during test in Advanced Server."
+        }
+      ]
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  }
+]

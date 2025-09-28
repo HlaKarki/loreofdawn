@@ -1,0 +1,483 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Forest hunter with a Smilodon\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A jungle orphan raised by a smilodon, was rescued by Leonin Nana when she was almost caught by a human slave trader.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana"
+              }
+            ]
+          },
+          {
+            "text": "With the help of Nana, she learned the human language and fighting skills, but she still didn't trust humans and only trusted her friend, a little tiger named Leo."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Irithel.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Irithel.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Irithel.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "12",
+          "12"
+        ],
+        "template": "birthday"
+      },
+      {
+        "text": "Forest hunter with a Smilodon",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "黎希尔 (Líxīěr)"
+        },
+        "alias": {
+          "text": "Jungle Heart"
+        },
+        "origin": {
+          "text": "Azrya Woodlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Azrya Woodlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Moon Elf"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "affiliation": {
+          "text": "Human (hostile)"
+        },
+        "weapons": {
+          "text": "*Crossbow\n*Heavy crossbow",
+          "links": [
+            {
+              "text": "Heavy crossbow",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "traits": {
+          "text": "Wild-natured and a savaged valiant, Bravely Outspoken"
+        },
+        "relationships": {
+          "text": "*Unnamed smilodon (foster mother)\n*Leo (foster brother, companion)\n*Nana (companion)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Nana"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Feena Glynn",
+          "links": [
+            {
+              "text": "Feena Glynn",
+              "type": "internal",
+              "page": "imdb:nm8441206"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Kameyama Maki (亀山 雅妃)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Irithel was abandoned in the jungle by her parents when she was a little girl."
+          },
+          {
+            "text": "Under the guidance of the God of Jungle, a female smilodon that had just given birth adopted her."
+          },
+          {
+            "text": "Being protected by the mother smilodon, the little smilodon Leo and Irithel learned to hunt, survive, and grew up like an animal."
+          },
+          {
+            "text": "During a territory fight, the mother smilodon was badly injured."
+          },
+          {
+            "text": "When Irithel and her \"brother\" Leo went to a town for help, they were captured as \"smilodon children\" by a slaveholder."
+          },
+          {
+            "text": "When the cat elf mage - Nana - passed by and couldn't watch them get beaten to death, she suddenly had the super power inside her that allowed her to save these two poor children.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nana"
+              }
+            ]
+          },
+          {
+            "text": "With the help of Nana, Irithel was able to understand human languages and combat skills while Leo grew up to become a strong adult smilodon."
+          },
+          {
+            "text": "But Irithel still hates humans and trusts her only friend - Leo."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "total-pa": "55",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Ducati",
+        "name": "Jungle Heart",
+        "skill-effect-1": "Buff",
+        "energy-cost": "100",
+        "description": "Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal per bolt (inherits a portion [55%] of Attack Effects). Moving will build up Jungle Heart, up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt(s).",
+        "properties": "*Attack Effects: 55%\n*Energy Gain: 5 energy/0.5 units",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Attack Effect",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "330-530",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Ducati",
+        "name": "Strafe",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Debuff",
+        "cooldown": "10.0",
+        "energy-cost": "0",
+        "description": "Irithel launches a volley of arrows on the target area, dealing to enemies within and reducing their Physical Defense by 15–40 for 3 seconds.",
+        "properties": "*Base Damage: 330 / 370 / 410 / 450 / 490 / 530\n*Physical Defense Reduction: 15 / 20 / 25 / 30 / 35 / 40",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Physical Defense",
+        "notes": "*Debuff only applies to non-minion enemies.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-350",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Ducati",
+        "name": "Force of the Queen",
+        "skill-effect-1": "Slow",
+        "skill-effect-2": "AOE",
+        "cooldown": "10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0",
+        "energy-cost": "0",
+        "description": "Leo lets out a piercing roar, dealing to nearby enemies and slowing them by 40% for 2 seconds.",
+        "properties": "*Base Damage: 200 / 230 / 260 / 260 / 320 / 350",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "120",
+        "total-pa": "60-80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Jungle Heart"
+        ],
+        "template": "ai"
+      },
+      {
+        "text": "[amount unknown]",
+        "template": "sup"
+      },
+      {
+        "variations-1": "Ducati",
+        "name": "Heavy Crossbow",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Blink",
+        "skill-type-1": "Physical Basic Attack",
+        "skill-type-2": "Blink",
+        "quote": "No arrow is shot in vain.",
+        "description": "Irithel order Leo to leap in the target direction and empowers her crossbow for 10 seconds. For the duration, she gains 30 extra Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing to the target and nearby units.  also accumulates faster for the duration.[amount unknown]",
+        "properties": "*Attack Effects: 100%\n*Physical Attack Bonus: 60% / 70% / 80%",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Attack Effect",
+        "notes": "*Triggers basic attack effects on each enemy hero hit by the explosion.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Irithel_(Jungle_Heart).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Jungle_Heart).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Jungle_Heart).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Silver_Cyclone).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Silver_Cyclone).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Silver_Cyclone).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Hellfire).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Hellfire).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Hellfire).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Nightarrow).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Nightarrow).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Nightarrow).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Sagittarius).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Sagittarius).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Sagittarius).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Astral_Wanderer).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Astral_Wanderer).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Astral_Wanderer).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Monster_SP_Rider).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Monster_SP_Rider).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Monster_SP_Rider).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Checkered_Knight).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Checkered_Knight).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Checkered_Knight).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:;_Painted_skins",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3B_Painted_skins?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3B_Painted_skins"
+          },
+          {
+            "file": "File:<gallery_captionalign=\"center\"_spacing=\"small\"_hideaddbutton=\"true\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22_hideaddbutton%3D%22true%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22_hideaddbutton%3D%22true%22%3E"
+          },
+          {
+            "file": "File:Irithel_(Neon_Knight).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Neon_Knight).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Neon_Knight).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Irithel_(Rosy_Knight).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Rosy_Knight).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Irithel_(Rosy_Knight).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Heavy Crossbow"
+        ],
+        "template": "ai"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Irithel is of Turkish origin and means \"Goddess of hunt and pray. Strong bow and arch\"."
+        },
+        {
+          "text": "When Irithel was first released she was called Mona and hero title \"Descendant of the Forest.\""
+        },
+        {
+          "text": "Irithel is the first rider heroes."
+        },
+        {
+          "text": "Irithel referred Leo as a \"tiger\" in one of her quotes, but he is biologically a smilodon."
+        },
+        {
+          "text": "Irithel is the first hero who can do Basic Attacks while moving."
+        },
+        {
+          "text": "Irithel is the only ranged hero with an explosive Basic Attack, where the damage of her Basic Attack during can hit multiple enemies in a small AoE at once."
+        },
+        {
+          "text": "She is also the first and the only hero that have and has a unique background."
+        },
+        {
+          "text": "Currently, she is also the hero that has never been remodel since her release and is still using the same model without any changes."
+        },
+        {
+          "text": "When her \"Night Arrow\" skin was released, Leo's appearance closely resembled Toothless from How To Train Your Dragon; it was later changed to have a more feline look, likely to avoid copyright issues.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "How To Train Your Dragon"
+            }
+          ]
+        },
+        {
+          "text": "She is the fourth hero to have two StarLight skins (\"Nightarrow\" and \"Checkered Knight\").",
+          "links": [
+            {
+              "text": "StarLight",
+              "type": "internal",
+              "page": "StarLight Member"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

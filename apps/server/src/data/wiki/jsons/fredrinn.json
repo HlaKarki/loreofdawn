@@ -1,0 +1,901 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A master treasure appraiser in Los Pecados who accumulates wealth to search for his best friend.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Born the son of Duke Vance, Fredrinn grew up into a gifted adventurer, but also the notorious 'money-grubber' in Los Pecados."
+          },
+          {
+            "text": "The crystal in his chest had long merged with his heart."
+          },
+          {
+            "text": "The terrifying scar would never fade, and Fredrinn never bothered to conceal it."
+          },
+          {
+            "text": "All he had in mind was his search for his lost friend..."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "A master treasure appraiser in Los Pecados who accumulates wealth to search for his best friend.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Fredrinn comic.jpg"
+        },
+        "full_name": {
+          "text": "Fredrinn Vance"
+        },
+        "alias": {
+          "text": "Rogue Appraiser"
+        },
+        "born": {
+          "text": "Castle Grandlock, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Castle Grandlock"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "origin": {
+          "text": "Los Pecados, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Los Pecados"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Appraiser"
+        },
+        "relationships": {
+          "text": "*Duke Vance (father)\n* (step sister)\n* (younger brother)\n*Fray (close friend)\n* (other)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Duke Vance"
+            },
+            {
+              "type": "internal",
+              "page": "Fray"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Dustin Rubin",
+          "links": [
+            {
+              "text": "Dustin Rubin",
+              "type": "internal",
+              "page": "imdb:nm1678284"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Amano Hirosato (天野 宏郷)",
+          "links": [
+            {
+              "text": "Amano Hirosato (天野 宏郷)",
+              "type": "internal",
+              "page": "imdb:nm7488033"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Be a darlin' an' pour me a shot of your signature drink,\" the drunken tramp slurred at the bartender."
+          },
+          {
+            "text": "\"An' I'mma tell y'all the truth 'bout that bastard Fredrinn!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "People in Los Pecados had long since memorized tales about Fredrinn, but his name was still like a siren call, alluring anyone who'd heard it toward its source.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Los Pecados"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Two shots for our good friend,\" a young smuggler spoke up, tossing a handful of pennies onto the counter."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Ahh, mighty fine gentleman. I'll make it worth yer while I assure ya. This one's somethin' ya'll 'ave never heard of!\""
+          },
+          {
+            "text": "The tramp exclaimed."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Everyone in the bar had their eyes on the grimy tramp, save for the man drinking alone in the hidden corner, a compass clenched tightly in his hand."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"The story begins over a dozen years ago,\" the tramp commenced, sounding surprisingly sober after taking a swig of his drink."
+          },
+          {
+            "text": "\"After receivin' his fief, Duke Vance of Castle Grandrock opened up the seaborne trade route to Northern Vale. Merchant ships from the north…all laden with rare produce…and all tradin' exclusively with the Duke. Why, the old weasel was practically bathin' in profits!\"",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Duke Vance"
+              },
+              {
+                "type": "internal",
+                "page": "Castle Grandrock"
+              },
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The tramp took another gulp, looking around at the greasy faces eagerly waiting for the next part."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"But riches and prestige gave the Duke little pleasure,\" he continued."
+          },
+          {
+            "text": "\"If any, this newfound wealth only served to stir in 'im an even greater desire: To climb to the very top of the Imperial nobility. The Duke began to discipline his children with stringent rules, punishin' any child who dared disobey his words.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"For once, I'm damn glad I ain't some rich codger's son!\""
+          },
+          {
+            "text": "the smuggler interjected."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Aye, an' you wouldn't be alone,\" the tramp replied."
+          },
+          {
+            "text": "\"One of the Vance boys gave the Duke an endless headache. This young'n had no interest in the rules and etiquettes of the nobles, and had a hankering for freedom and adventure. The Duke didn't want the brat's nasty ideas infectin' the other children's minds. So, he arranged for the boy to study at the Monastery of Light.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Pretty convenient excuse to suck up to the Monastery's Archbishop!\""
+          },
+          {
+            "text": "the barkeep chimed in."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Well, you'd be right,\" the tramp replied."
+          },
+          {
+            "text": "\"As the Duke was in dire need of stronger political allies. The boy, however…had other plans. Havin' overheard his father's arrangement, the little rascal decided to sneak outta the Castle and sail off on a so-called adventure of his own.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I reckon the Duke wouldn't have much to worry 'bout, though,\" the smuggler butted in again."
+          },
+          {
+            "text": "\"Spoiled little brat like 'im, he'd soon be running back to his daddy!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Aye, the Duke figured as much,\" the tramp responded."
+          },
+          {
+            "text": "\"Old Vance was bloody livid, but didn't even bother lookin' for his boy!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"The brat, however, proved far more robust than his father thought. He was no adventurer, mind ya; but with his courage, wit, and excellent judgment, the boy slipped through every obstacle that came his way. He had a particular fondness for exploring the most treacherous areas still uncharted by man."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"And soon, his name spread throughout the Land of Dawn. Yet, no one knew about his past life.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The tramp took a long pause, as if waiting for someone to respond."
+          },
+          {
+            "text": "But all he got were blank faces and some glazed-over eyes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Oh, y'all gotta be kiddin' me…\" he grunted with a sigh and a roll of his eyes."
+          },
+          {
+            "text": "\"The boy was Fredrinn…Fredrinn Vance!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "His revelation was met with yet another round of silence."
+          },
+          {
+            "text": "But as realization dawned upon his audience, the tavern erupted into an uproar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Fredrinn…a nobleman!? Why, the punk's a bloody crook!\""
+          },
+          {
+            "text": "A burly man with a horned helmet cut in, his eyes bulging they almost popped off their sockets."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"No one knows that money-grubber better than me!\""
+          },
+          {
+            "text": "The man exclaimed."
+          },
+          {
+            "text": "\"No matter how much you prepare in advance, the bloodsucker will always ask for a higher price. Why, a gang boss himself barged into his shop to personally deliver his payment, loaded pistol pointed right between Fredrinn's eyebrows. Bastard didn't even flinch…and instead, asked for more money!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The young smuggler raised his hand, \"But is it true what they say about 'im? 'No-question-an'-no-disclosure policy' 'bout his appraisal of hunted treasures?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Aye,\" the burly man replied."
+          },
+          {
+            "text": "\"Don't matter who you are, the scoundrel sticks to his guns. Ain't no compelling him, not even by force. What you gon' do, raid his treasure shop? Get yerself ready for a beatin' then—per the customs of Los Pecados. And if you're lucky enough to wake up, all damaged items must be paid in double, not a single dime less—\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Come on, we all know about those!\""
+          },
+          {
+            "text": "the tramp cried out, his voice dripping with sarcasm."
+          },
+          {
+            "text": "\"But what about Fredrinn's secret!? That crystal lodged in his chest—\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The crowd fell eerily silent, only to erupt into wild cheers moments later."
+          },
+          {
+            "text": "Even the barkeep poured another shot for the tramp to keep him talking."
+          },
+          {
+            "text": "\"The crystal is said to come from the ruins of a lost civilization. It seals an ancient power coveted even by the King of Abyss. Fredrinn went to great lengths to get his hands on this crystal, even killin' his own partner in this process—\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The man sitting in the corner walked over, interrupting the tramp's words."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "His brawny frame towered over everyone in the tavern."
+          },
+          {
+            "text": "His eyes burned with disdain, as he gazed upon the lesser men surrounding him."
+          },
+          {
+            "text": "Embedded in his scarred chest, right at the place of his heart, a strange crystal pulsated with a ghostly glow."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"F-F-Fredrinn…\" the tramp and the burly man stuttered in awe."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The tin wine box in Fredrinn's hand creaked as his fist clutched."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"A wonderful story, my friend,\" Fredrinn stated calmly."
+          },
+          {
+            "text": "\"However, if I hear anyone say I killed my partner again…I'll come to his door and give him a thorough appraisal.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fredrinn walked out of the bar after those words, his blood and memory surging through him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The shrewd and revered treasure appraiser of Los Pecados was once a passionate and adventurous boy who wanted to escape his noble status."
+          },
+          {
+            "text": "Always at his side was a friend who'd go through anything with him…Fray."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Except, Fray was gone."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On their last adventure together, the two stumbled upon an ancient altar."
+          },
+          {
+            "text": "A giant crystal hovered at its center, radiating with an ominous glow."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fray warned his partner, but the young and reckless Fredrinn couldn't escape the allure."
+          },
+          {
+            "text": "He approached the altar and laid his hand on the crystal, disrupting the balance of an ancient ward in the process."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A ghostly figure in a black cloak emerged from the center of the altar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"…You two will be the final offering\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Those were the last words Fray and Fredrinn heard before the altar began to collapse under the weight of ancient magic, trapping the two amidst the chaos."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Fredrinn…this time, it's my turn to save you…\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fray, who'd always hidden behind Fredrinn, picked up a shard of the crystal and pressed it against Fredrinn's chest, giving up to him the only chance of survival."
+          },
+          {
+            "text": "The power of the crystal integrated with Fredrinn's own and protected him from the collapse."
+          },
+          {
+            "text": "But when he looked up, he found Fray and the ruins both gone without a trace."
+          },
+          {
+            "text": "The only thing left was Fray's magic compass."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fredrinn found a new quest the moment he opened the compass."
+          },
+          {
+            "text": "The blue pointer recorded Fray's trace of life."
+          },
+          {
+            "text": "It spun wildly and vibrated like tiny heartbeats."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fray's still alive!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To look for clues that could lead to Fray's whereabouts, Fredrinn stayed in Los Pecados as a treasure appraiser."
+          },
+          {
+            "text": "He accumulated his funds to build a vast intelligence network that gathered any knowledge related to the ruins."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The cost didn't matter."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Standing in front of a wall of clues, Fredrinn stared at the magic compass in his hand."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"As long as the pointer's still spinning, I will not give up.\""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Combo Point"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Combo Points"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Crystal Energy",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Crystal Energy",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Combo Point"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "image-2": "Crystalline Armor BUFF",
+        "image-3": "Combo Point",
+        "name": "Crystalline Armor",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "HEAL",
+        "description": "Fredrinn gains 1 that lasts 5 seconds each time his skill hits a non-minion enemy, up to 4 Combo Points. His Ultimate costs different numbers of  at different skill levels.\nFredrinn stores 100% of the damage he receives as, which decays after 5 seconds at a rate of 10%  per second.\nFredrinn can convert the stored  into HP by 20% of his damage dealt (10% for damage dealt to minions). Gaining a  resets the decaying timer.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "125",
+        "total-hp": "7",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "85",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[skill duration needed]",
+        "template": "sup"
+      },
+      {
+        "list": [
+          "Brave Assault",
+          "e"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Piercing Strike",
+        "skill-effect-1": "Damage",
+        "cooldown": "8.5 / 8.3 / 8.1 / 7.9 / 7.7 / 7.5",
+        "description": "Fredrinn thrusts his sword in the target direction, dealing to enemies hit and slowing them by 30% for 2 seconds. His next Basic Attack gains extra attack range and deals .[skill duration needed] This skill deals 150% damage to non-hero enemies.",
+        "ls-1": "Base Damage: 125 / 150 / 175 / 200 / 225 / 250",
+        "notes": "*Enhanced basic attack from and this skill cannot be stacked. The enhanced basic attack effect from this this skill will be replaced by Brave Assault's.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200",
+        "extra-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[skill duration needed]",
+        "template": "sup"
+      },
+      {
+        "list": [
+          "Piercing Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Brave Assault",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "CC",
+        "cooldown": "8.5 / 8.3 / 8.1 / 7.9 / 7.7 / 7.5",
+        "description": "Fredrinn dashes in the target direction, dealing to the first non-minion enemy hit. His next Basic Attack knocks the target airborne for 0.3 seconds.[skill duration needed]",
+        "ls-1": "Base Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "notes": "*Enhanced basic attack from and this skill cannot be stacked. The enhanced basic attack effect from this this skill will be replaced by Piercing Strike's.",
+        "bugs": "*Skill Smart Targeting does not work on this skill.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300",
+        "extra-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Piercing Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Brave Assault"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Combo Point"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Appraiser's Wrath"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "I Am You"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Energy Eruption",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "cooldown": "7.0 / 6.0 / 5.0",
+        "description": "Fredrinn deals to nearby enemies and taunts them for 1 second. Hitting a non-minion enemy grants Fredrinn 15-35 Physical and Magic Defense for 3 seconds and reduces the cooldowns of  and  by 75%. This skill costs 1.",
+        "ls-1": "Base Damage: 300 / 400 / 500",
+        "ls-2": "Defense Boost: 15 / 25 / 35",
+        "notes": "*This skill is learned together with .\n**Between Fredrinn's latter two skills, Valentina can only siphon and copy this skill with.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Crystal Energy",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "text": "[duration needed]",
+        "template": "sup"
+      },
+      {
+        "list": [
+          "Combo Points"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Energy Eruption"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Neobeasts",
+        "name": "Appraiser's Wrath",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "AoE",
+        "cooldown": "30.0 / 27.0 / 24.0",
+        "description": "Fredrinn slams his sword in the target direction, dealing 600–1000 plus 35% of his as  to enemies in fan-shaped area after a short delay.[duration needed] Enemies in the center of the area take 175% [critical] damage. This skill costs 3.",
+        "ls-1": "Base Damage: 600 / 800 / 1000",
+        "notes": "*This skill is learned together with .\n*According to Advance Server Patch Notes 1.7.26 and 1.7.29, and Original Server Patch Notes 1.7.32, this skill is named as an \"Ultimate\".\n*175% increased critical damage from this skill does not benefit from Critical Damage attribute.\n*This skill cannot be interrupted. This doesn't mean that Fredrinn gains CC immunity. It means the hit will still be executed even if Fredrinn gets crowd controlled.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Joy"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "\"Fredrinn\" sounds similar to Frederick, a Germanic name meaning \"peaceful ruler\" (frid = peace, ric = ruler)."
+        },
+        {
+          "text": "The release of a new hero took 98 days to succeed Fredrinn, making it the longest gap between hero releases."
+        },
+        {
+          "text": "Originally, he supposed to have a baseball bat instead of a sword. Initial drafts suggested that Fredrinn would wield dual short swords instead of a single large blade. The developers opted for one heavy sword to emphasize his brute strength and precision."
+        },
+        {
+          "text": "He love adventures and he currently resides in Los Pecados."
+        },
+        {
+          "text": "First Tank with a \"Combo-Based\" Mechanic. Unlike most tanks, Fredrinn relies on chaining multiple skills to activate his ultimate, Appraiser’s Wrath.",
+          "formatting": {
+            "bold": [
+              "Appraiser’s Wrath"
+            ]
+          }
+        },
+        {
+          "text": "His design and personality resemble rogue adventurers or mercenaries, similar to characters like Indiana Jones, Flynn Rider (Tangled), or Gambit (X-Men)."
+        },
+        {
+          "text": "One of the few MLBB Heroes with a delayed ultimate activation. His ultimate requires skill combos first, making him different from tanks who can instantly use their ultimates."
+        },
+        {
+          "text": "Some early concept sketches had him looking more like a pirate captain rather than a noble adventurer."
+        }
+      ]
+    ]
+  }
+]

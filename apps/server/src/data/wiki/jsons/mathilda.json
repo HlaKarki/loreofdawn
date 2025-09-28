@@ -1,0 +1,662 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "She was released as a part of the Blazing Bounties event.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Blazing Bounties"
+              }
+            ]
+          },
+          {
+            "text": "Players had a chance to redeem the hero for free for a limited time."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A brave girl who stands up and doesn't fear power\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The tribe where Mathilda lives has guarded the Holy Mountain for generations."
+          },
+          {
+            "text": "Once, members of the tribe rescued a group of sand hunters under Kane, but unexpectedly they bit the hand that fed them by taking the Holy Mountain as their own."
+          },
+          {
+            "text": "Mathilda was unafraid of their power."
+          },
+          {
+            "text": "She left her hometown and met Clint."
+          },
+          {
+            "text": "In the end, with the help of Clint, she was able to get her vengeance and return to the Holy Mountain with her tribe, inheriting the Holy Mountain's mysterious power."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A brave girl who stands up and doesn't fear power",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Swift Plume"
+        },
+        "origin": {
+          "text": "Los Pecados, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Los Pecados"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "relationships": {
+          "text": "*Thasgard (father)\n*, (companions)\n*Waldo Kane (enemy)\n*Blandy (enemy, deceased)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Waldo Kane"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Jaime Soria",
+          "links": [
+            {
+              "text": "Jaime Soria",
+              "type": "internal",
+              "page": "imdb:nm2324045"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Shishido Chie (宍戸 智恵)",
+          "links": [
+            {
+              "text": "Shishido Chie (宍戸 智恵)",
+              "type": "external",
+              "site": "https://anidb.net/creator/60057"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "In the vast Western Desert, on a barren land with its back facing the mountains, there lived an ancient and simple tribe."
+          },
+          {
+            "text": "For generations, they had kept the traditions of their ancestors, guarded their sacred mountains, and lived hard but quiet lives."
+          },
+          {
+            "text": "Mathilda and her family were members of this tribe."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Mathilda's father, Thasgard, was the leader of the entire tribe."
+          },
+          {
+            "text": "He was brave, upright and responsible, and bore the burden of the tribe’s survival firmly on his shoulders."
+          },
+          {
+            "text": "Under his influence, little Mathilda had developed a similar personality to her father, and was deeply proud of him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, a group of sand hunters from Los Pecados broke into this closed-off tribe and disrupted the peace they had maintained for hundreds of years.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Los Pecados"
+              }
+            ]
+          },
+          {
+            "text": "The group of sand hunters lost their way in the desert chasing giant beasts."
+          },
+          {
+            "text": "They were discovered by Mathilda's tribesmen right as they were on the cusp of death."
+          },
+          {
+            "text": "The tribesmen brought them back to the tribe."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, the expectations of the kind and innocent aboriginal tribesmen were shattered when their kind deeds were returned in the form of unforgivable atrocities."
+          },
+          {
+            "text": "These were not ordinary sand hunters, but those of the \"iceberg sand hunting group\" under Waldo Kane, the most powerful boss in Los Pecados."
+          },
+          {
+            "text": "These guys not only sought life in the desert, but also did a lot of dirty work and sinful deeds."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Despite being in a state close to death, some veterans of the sand hunting group developed an idea in their minds as soon as they saw the mountains behind the tribe: under this seemingly ordinary mountain range there were countless gold mines that could bring them a steady stream of wealth."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under the care of the aboriginal tribesmen, the sand hunters quickly recovered and left the tribe under their guidance."
+          },
+          {
+            "text": "Before leaving, they promised to repay everyone."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, Mathilda’s tribesmen did not receive the reward they deserved, but were instead subject to a sinful invasion."
+          },
+          {
+            "text": "The sand hunters who walked out of the desert quickly reported the news to Waldo Kane."
+          },
+          {
+            "text": "On Kane's instruction, Kane’s nephew Blandy returned to Mathilda's tribe with a large number of thugs, preparing to take the entire mountain range by force."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For Mathilda’s tribesmen, this was the tribe’s sacred mountain range, and no one was allowed to tread on it."
+          },
+          {
+            "text": "The tribe patriarch Thasgard sternly rejected Blandy's coercion and temptation, and asked him and his thugs to leave their homeland immediately."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Blandy, who had always traversed Los Pecados without a care, became enraged."
+          },
+          {
+            "text": "He drew a gun and shot Thasgard, wounding him."
+          },
+          {
+            "text": "He then gave him an ultimatum: Either leave the tribe’s land within a month and give up the gold mine at the back of the mountain range, or be wiped out together with his tribe."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Their patriarch now injured, the tribesmen, having lost their leader, fell into panic and confusion."
+          },
+          {
+            "text": "More and more people began to advocate leaving the village to avoid further loss."
+          },
+          {
+            "text": "Facing the retreating tribe, little Mathilda stood up, denounced their weakness, and called on everyone to take up arms and use their own strength to defend their homeland."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On one side was the small, weak Mathilda, and on the other side was the powerful sand hunter group and their gang of thugs."
+          },
+          {
+            "text": "The tribesmen chose to be silent one after another, and began to quietly pack their things and prepare to leave the tribe."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Little Mathilda left the tribe in disappointment."
+          },
+          {
+            "text": "She firmly believed that justice must exist in this world."
+          },
+          {
+            "text": "For this reason, she began to wander the vast west, looking for people who could truly help the tribe."
+          },
+          {
+            "text": "While marching to a small town not far from Los Pecados, Mathilda’s sense of justice got the better of her and she ended up in a dispute."
+          },
+          {
+            "text": "Mathilda stood up and resisted the bullying perpetrators in front of her."
+          },
+          {
+            "text": "Mathilda was outnumbered, but then, an old cowboy with a stubbled face appeared and repelled the bandits."
+          },
+          {
+            "text": "He then teamed up with Mathilda and went with her."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was none other than Clint, an old cowboy who had come to seek Blandy for revenge.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Clint"
+              }
+            ]
+          },
+          {
+            "text": "After learning about what happened to Mathilda and her people, Clint, also with a strong sense of justice, decided to help Mathilda and fought alongside her to defend their homeland."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the battle to defend her homeland, Mathilda established a deep relationship with Clint, Claude and others.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Claude"
+              }
+            ]
+          },
+          {
+            "text": "After a tough ordeal, the brutal Blandy was defeated, and the bandits' covetous hopes of gaining the sacred mountain range were shattered."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The tribe restored the peace it had held in the past and Mathilda was summoned by the sacred mountain range."
+          },
+          {
+            "text": "Upon entering the sacred mountain, she inherited a mysterious power that no one had inherited for hundreds of years."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For Mathilda, a great adventure had only just begun."
+          },
+          {
+            "text": "In the setting sun, she bid farewell to her family and chose to go on the road with Clint, because she firmly believed that in this world, there were even more oppressed people out there waiting for justice to come, and she would do all she could to help them get it."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Blazing West",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Blazing West (side story)"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "A Journey to Blacksnake Town",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "A Journey to Blacksnake Town"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Ancestral Guidance",
+          "stack"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "200",
+        "total-pa": "100",
+        "total-mp": "100",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Ancestral Guidance",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Speed Up",
+        "description": "Mathilda gains while moving. When it is fully charged, her next Basic Attack will be enhanced, dealing  to the target and granting her 80 Movement Speed that will decays over 2.5 seconds.",
+        "term-1": "Magic Basic Attack",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "275-500",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[duration needed]",
+        "template": "sup"
+      },
+      {
+        "text": "[verification needed]",
+        "template": "sub"
+      },
+      {
+        "image-2": "Soul Bloom 2",
+        "name": "Soul Bloom",
+        "skill-effect-1": "Burst",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "7.5",
+        "mana-cost": "60 / 70 / 80 / 90 / 100 / 110",
+        "description": "Mathilda resonates with the power of her ancestors for 4 seconds, attracting wisps that as her movement distance increases (up to 6 wisps). At the end of the skill's duration, or when Mathilda cast this skill again, the wisps will seek the attack nearby enemies, each dealing and revealing the enemies' positions briefly.[duration needed] Subsequent damage dealt by wisps to the same target decays to 40%.",
+        "properties": "*Base Damage: 275 / 320 / 365 / 410 / 455 / 500",
+        "term-1": "Magic Damage Skill",
+        "notes": "*Has a radius of 5.3 unit.\n*Fully affect concealed, invisible and unsighted targetable enemies in range.\n**If the number of enemies in range is less than or equal to the number of attracted wisps, each enemy will be hit once, prioritize unsighted enemy heroes.\n*If there are multiple enemies nearby, the wisps have a 20% chance of hitting the same target multiple times and guarantee to hit a new enemy hero target at least once each.[verification needed]",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "500-1000",
+        "total-mp": "180",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Guiding Wind",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Circling Eagle"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Guiding Wind",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Shield",
+        "cooldown": "12.0 / 11.8 / 11.6 / 11.4 / 11.2 / 11.0",
+        "mana-cost": "75 / 80 / 85 / 90 / 95 / 100",
+        "description": "Mathilda leaps in the target direction and creates a field around her, gaining a and a 25% extra Movement Speed for 3 seconds. Allied heroes who come in contact with the field will receive 60% shield and . The first allied hero that triggers Guiding Wind will be guided to Mathilda, and both of them will gain the same Movement Speed boost. When casting this skill during, Mathilda will not change her position. Guiding Wind expires 2 seconds after the hero leaves Mathilda's field.",
+        "properties": "*Base Shield: 500 / 600 / 700 / 800 / 900 / 1000",
+        "term-1": "Blink",
+        "term-2": "Shield",
+        "term-3": "Movement Speed",
+        "notes": "*Allies' movement speed boost lasts 2 seconds. (Balance Adjustment Patch Notes 1.8.20)\n*The ability lasts 5 seconds.\n*The option to be guided is disabled if the ally is rooted.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Soul Mark",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "40",
+        "total-mp": "15",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Soul Bloom 2",
+          "Soul Bloom"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Soul Mark",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "320-400",
+        "total-mp": "120",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "400-600",
+        "total-mp": "160",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "image-2": "Circling Eagle 2",
+        "name": "Circling Eagle",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Shield",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "40.0",
+        "mana-cost": "150 / 180 / 210",
+        "description": "Mathilda applies a to the target enemy hero and circles around the them for up to 3.5 seconds, during which her wisps will fly toward nearby enemy heroes, each  dealing .  will prioritize the target with Soul Mark. Within the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with, dealing  while knocking enemies in her path airborne for 0.6 seconds and transferring the Soul Mark to the first enemy hero that she knocks airborne. Mathilda gains control immunity and  for the skill duration.",
+        "properties": "*Wisp Damage: 40\n*Knock Damage: 320 / 360 / 400\n*Shield: 400 / 500 / 600",
+        "term-1": "Airborne",
+        "term-2": "Magic Damage Skill",
+        "notes": "* reveals the target and maintains a distance of 3.5 around her target. This state lasts up 4 seconds.\n* will immediately stops circling and dashes towards the location of the target if the target is too far away or it dies.\n*In 's, she will circle around the center point instead but the damage and effect is still applied to .\n* is not CC immune during the dash animation.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Mathilda has Germanic origins and is derived from the words \"maht\" (meaning \"might\" or \"strength\") and \"hild\" (meaning \"battle\" or \"combat\"). So, the name Mathilda can be interpreted to mean \"mighty in battle\" or \"strength in battle\"."
+        },
+        {
+          "text": "Initially, Mathilda was conceptualized as a support hero with a focus on healing and providing utility to her team. She was not originally an assassin-support hybrid. Her abilities were centered around her role as a more traditional support, offering crowd control and healing."
+        },
+        {
+          "text": "During Mathilda's release, she was given out for free for a limited-time."
+        },
+        {
+          "text": "Mathilda is the first hero assigned as support and assassin.",
+          "links": [
+            {
+              "text": "support",
+              "type": "internal",
+              "page": "support"
+            },
+            {
+              "text": "assassin",
+              "type": "internal",
+              "page": "assassin"
+            }
+          ]
+        },
+        {
+          "text": "Mathilda's appearance and her tribe appear to be based on the indigenous peoples of North America, particularly in the United States.",
+          "links": [
+            {
+              "text": "indigenous peoples",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Native Americans in the United States"
+            }
+          ]
+        },
+        {
+          "text": "Swift Plume is a type of bird found in tropical moist lowland forest. which could be the inspiration of her design. The bird can be seen in her skill 1 icon."
+        },
+        {
+          "text": "The most unique feature is that if Mathilda is near an ally, the bird will carry that ally along with it, effectively allowing her to reposition allies quickly across the map."
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,493 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Heir to Wind Fort, wind mage\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A magician of Wind Fort and the only genius in the entire family who can change the form of wind magic at will."
+          },
+          {
+            "text": "Once a close friend of Valir of Fire Throat."
+          },
+          {
+            "text": "After the changes in the Land of Fire and Valir left his hometown, Vale has always adhered to the agreement he made with him, waiting for his return."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Vale_trailer.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vale_trailer.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vale_trailer.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Vale_child.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Vale_child.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Vale_child.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Profile_CN_Vale.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Vale.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Vale.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Birthday (生日 \"shēngrì\" meaning \"birthday\"), Age (年龄 \"niánlíng\" meaning \"age\"), Weapon (武器 \"wǔqì\" meaning \"weapon, arms\")"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "Valir"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Heir to Wind Fort, wind mage",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "origin": {
+          "text": "Wind Fort, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Wind Fort"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "age": {
+          "text": "25",
+          "number": 25
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "title": {
+          "text": "Heir to Wind Fort"
+        },
+        "affiliation": {
+          "text": "Fire Throat",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Fire Throat"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Floating Ritual Instrument"
+        },
+        "abilities": {
+          "text": "Wind magic"
+        },
+        "relationships": {
+          "text": "* (childhood friend, rival)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "[“]Valir, my beloved brother."
+          },
+          {
+            "text": "You lost everything the day we made The pact."
+          },
+          {
+            "text": "I'll see to it that the Fire Kingdom restores everything to the way it once was."
+          },
+          {
+            "text": "Even if you still wish to avenge your cruel father, I do not blame you as long as you can cast away the storm within your heart."
+          },
+          {
+            "text": "Nothing is as important as your happiness, not even my life.[”] Vale fell into deep contemplation as he wrote his letter to Valir."
+          },
+          {
+            "text": "Those first few lines brought Vale back to the days of his youth, when he and Valir were the closest of friends."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As Vale fell further into nostalgia, he remembered the day they met at a royal party."
+          },
+          {
+            "text": "Ever since then, they both felt a strong affinity towards each other's magic."
+          },
+          {
+            "text": "For a long time, Vale and Valir were inseparable."
+          },
+          {
+            "text": "Together they left many memories in the Valley of the Winds, the Fire Kingdom and many other exotic lands."
+          },
+          {
+            "text": "When unrest flooded the Fire Kingdom, Valir quickly made his leave."
+          },
+          {
+            "text": "Only Vale knows exactly how much Valir sacrificed that day."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As time went on, the day of The pact was coming soon."
+          },
+          {
+            "text": "Vale's magical abilities to control winds had grown more sophisticated over the years."
+          },
+          {
+            "text": "In fact, he was the only member of his family who could change the winds with magic."
+          },
+          {
+            "text": "Yet, Vale had never shown his magic to anyone before."
+          },
+          {
+            "text": "Vale waited and waited for the day of The pact to come."
+          },
+          {
+            "text": "On that day, he would put on a spectacular display of wind magic for Valir."
+          },
+          {
+            "text": "Vale believes that Valir will see his magic, remember the precious times they had together, and return how things were in their youth."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Windtalk",
+          "stack"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Naruto",
+        "name": "Windtalk",
+        "skill-effect-1": "Buff",
+        "skill-effect-2": "Speed Up",
+        "description": "Vale gains 1 stack of each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times.",
+        "stack-scaling": "Extra Movement Speed: 8 / 16 / 24 / 32 / 40 / 48 / 56 / 64 / 72 / 80",
+        "term-1": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-450",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Naruto",
+        "name": "Wind Blade",
+        "skill-effect-1": "AOE",
+        "cooldown": "6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
+        "mana-cost": "60 / 65 / 70 / 75 / 80 / 85",
+        "spell-vamp ratio": "50%",
+        "description": "Vale unleashes two wind blades toward the left and right of a target area. each dealing.",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 250 / 290 / 330 / 370 / 410 / 450",
+        "term-1": "Magic Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-400",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200-400",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "50 / 60 / 70 / 80 / 90 / 100",
+        "total-mp": "20",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Naruto",
+        "name": "Windblow",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "cooldown": "10.0",
+        "mana-cost": "90 / 95 / 100 / 105 / 110 / 115",
+        "description": "Vale sends a whirlwind in the target direction, dealing to enemies hit and knocking them airborne for 1 second (each enemy can only be knocked airborne 1 time). When the whirlwind reaches its destination, t will remain for 1.6 seconds while continuously dealing a total of  to enemies in range.",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 300 / 320 / 340 / 360 / 380 / 400\nSustained Damage: 200 / 240 / 280 / 320 / 360 / 400",
+        "term-1": "Airbone",
+        "term-2": "Movement Speed",
+        "term-3": "Magic Damage Skill",
+        "notes": "*The sustained damage deals for each hit, and can deal up to 4 times.\n*The sustained damage does not trigger damage effects. \n*During the cast delay, you can use Flicker to reposition the source of the whirlwind.",
+        "template": "ability"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-300",
+        "total-mp": "30",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "1000-1400",
+        "total-mp": "200",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "25 / 37.5 / 50",
+        "total-mp": "5",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Naruto",
+        "name": "Windstorm",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "cooldown": "40.0 / 36.0 / 32.0",
+        "mana-cost": "150 / 200 / 250",
+        "description": "Vale summons a windstorm at the target location, dealing a total of [] to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1.6 seconds, the windstorm will explode, dealing . The remaining whirlwinds will also be pulled into the center.",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Sustained Damage: 150 / 225 / 300\nBase Damage: 1000 / 1200 / 1400",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Pull",
+        "notes": "*The sustained damage deals for each hit, and can deal up to 6 times.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "name": "Selena",
+        "template": "hero icon"
+      },
+      {
+        "name": "Aldous",
+        "template": "hero icon"
+      },
+      {
+        "name": "Claude",
+        "template": "hero icon"
+      },
+      {
+        "name": "Belerick",
+        "template": "hero icon"
+      },
+      {
+        "name": "Lunox",
+        "template": "hero icon"
+      },
+      {
+        "name": "Thamuz",
+        "template": "hero icon"
+      },
+      {
+        "name": "Leomord",
+        "template": "hero icon"
+      },
+      {
+        "name": "Kimmy",
+        "template": "hero icon"
+      },
+      {
+        "name": "Harith",
+        "template": "hero icon"
+      },
+      {
+        "name": "Minsitthar",
+        "template": "hero icon"
+      },
+      {
+        "name": "Hanzo",
+        "template": "hero icon"
+      },
+      {
+        "name": "Kadita",
+        "template": "hero icon"
+      },
+      {
+        "name": "Badang",
+        "template": "hero icon"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Despite being developed before several other heroes (,, , , , , , , , , , and ), Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other hero. If you sort the heroes in the \"Heroes\" page by \"Sale Time,\" Vale will appear between Claude and Leomord, instead of being after  Badang. The hero order is due to his earlier introduction in Advanced Servers.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Claude"
+            },
+            {
+              "type": "internal",
+              "page": "Leomord"
+            },
+            {
+              "type": "internal",
+              "page": "Badang"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

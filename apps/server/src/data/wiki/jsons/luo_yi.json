@@ -1,0 +1,969 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero info"
+      },
+      {
+        "template": "hero stats"
+      }
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Luo Yi was the only person in all of the Cadia Riverlands to truly comprehend the concept of Yin and Yang.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cadia Riverlands"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Harmonizing Yin and Yang was not just her talent but also her vision for the world."
+          },
+          {
+            "text": "She became the successor of the Grand Sorceress of Zhu'an when she was just a child after accidentally following a spirit to the Cliff of Endless Lights.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zhu'an"
+              }
+            ]
+          },
+          {
+            "text": "There, she witnessed a vision of a utopia in the ancient past when the Ancient Ones lived among the pure energies of Yin and Yang."
+          },
+          {
+            "text": "It was then that she discovered her true identity as a descendant of the ancient Cadians."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now serving as Yu Zhong's loyal strategist, Luo Yi has taken his ambitions and meticulously set them into motion.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yu Zhong"
+              }
+            ]
+          },
+          {
+            "text": "However, hidden under her veil lies her own vision for the world."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Luo_Yi.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Luo_Yi.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Luo_Yi.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "9",
+          "3"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Baxia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Wanwan"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zilong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yu Zhong"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "珞翊 (luò yì)"
+        },
+        "alias": {
+          "text": "Yin-yang Geomancer"
+        },
+        "born": {
+          "text": "Zhu'an, Cadia Riverlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Zhu'an"
+            },
+            {
+              "type": "internal",
+              "page": "Cadia Riverlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "occupation": {
+          "text": "Geomancer"
+        },
+        "affiliation": {
+          "text": "*Black Dragon\n*Oriental Fighters (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Oriental Fighters"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Fly Whisk or Hossu (払子)",
+          "links": [
+            {
+              "text": "Hossu (払子)",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Hossu"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "Creates a sigil between Yin and Yang"
+        },
+        "traits": {
+          "text": "Mysterious, Elegant"
+        },
+        "relationships": {
+          "text": "*,, , (enemies)\n* (companion)"
+        },
+        "ja_va": {
+          "text": "Takaoka Chihiro (高岡 千紘)",
+          "links": [
+            {
+              "text": "Takaoka Chihiro (高岡 千紘)",
+              "type": "external",
+              "site": "https://ja.wikipedia.org/wiki/高岡千紘"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Yin and Yang",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "What is Yin and what is Yang?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The first time Luo Yi asked the Grand Sorceress this question, she sighed deeply and gently patted Luo Yi on the head."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"The Cadia Riverlands was born from Yin and Yang. And Zhu'an is where Yin energy is most concentrated, thus it has become our eternal duty to safeguard this city.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The young Luo Yi was puzzled: \"How can we watch over Yin without knowing Yang?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Grand Sorceress's hand suddenly stopped, gripped tightly, and released in a tremble."
+          },
+          {
+            "text": "\"It seems... you are different from the others after all...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Luo Yi was indeed different."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For as long as she could remember, she was the sole successor to Zhu'an's Grand Sorceress."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As an orphan born with a vision, she had no friends."
+          },
+          {
+            "text": "She was only accompanied by a sea of books and neverending training from her master."
+          },
+          {
+            "text": "Even though she was a young genius, her mysterious background always made people weary of her presence."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, none of these mattered to Luo Yi as she was only interested in one thing."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "What is Yin and what is Yang?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The people of the Cadia Riverlands know that Yin and Yang are a part of all things in life's neverending cycle."
+          },
+          {
+            "text": "However, Luo Yi knew the true answer and it had always haunted Luo Yi... until one day she strayed to the Cliff of Endless Lights."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Luo Yi witnessed a river of souls, a harmonious blend of white and black, surfacing from the grotto and circling around her."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The souls began to pick up speed as they merged into a dazzling bright light."
+          },
+          {
+            "text": "At the same time, a cacophony of voices echoed in Luo Yi's ears, \"The Ancient Ones enlightened Yin and Yang to create life and shape the Cadia Riverlands.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the light dimmed, a scene appeared before Luo Yi's eyes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "People in simple clothes sat around a man and a woman who exuded a heavenly aura."
+          },
+          {
+            "text": "Luo Yi was instantly reminded of the paintings of the Ancient Ones she had seen in the ancient scrolls, specifically the couple Fu Yang and Su Yin, two of the Four Immortals, and the progenitors of the Cadia Riverlands."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Luo Yi felt the power of Yin and Yang surging inside her, pushing her towards the group of people."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"What took you so long? Did you have fun?\""
+          },
+          {
+            "text": "one of the women asked as she noticed Luo Yi and waved for her to come sit next to her."
+          },
+          {
+            "text": "The others gave no noticeable reaction, as though she belonged here."
+          },
+          {
+            "text": "All their attention was on Fu Yang and Su Yin in the center."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Fu Yang spread his fingers and a golden Yang symbol floated above his palm; beside him, Su Yin slowly beckoned with her index finger as a dark purple Yin symbol coalesced on her fingertips."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The two of them slowly put their hands together as both Yang and Yin symbols seemed to be naturally pulled towards one another."
+          },
+          {
+            "text": "The two symbols soon began to spin around each other like a vortex."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The black and white vortex unleashed a tremendous amount of energy, once again flooding Luo Yi's vision with blinding light."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"The sudden arrival of the Twin Gods was feared to bring a great cataclysm to the world.\""
+          },
+          {
+            "text": "The voices sprang up again as the broken pieces of the past gradually fell into place in front of Luo Yi."
+          },
+          {
+            "text": "\"Fu Yang and Su Yin led the Four Immortals and all of the land's inhabitants to the Celestial Palace to battle against the Twin Gods of Light and Darkness...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The great battle shook the world and waged on for endless days and nights."
+          },
+          {
+            "text": "Finally, only through their self-sacrifice did Fu Yang and Su Yin manage to strike a meaningful blow to the Twin Gods."
+          },
+          {
+            "text": "Upon their deaths, the Four Immortals vowed to protect the Cadia Riverlands forevermore, reincarnating as the Oriental Fighters to watch over each generation."
+          },
+          {
+            "text": "However, this did not bring an end to the strife."
+          },
+          {
+            "text": "Even with the arrival of the dragons, the threat of the Twin Gods remained."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"In the decisive battle against the Twin Gods, the Black Dragon and White Dragon created a massive explosion that created the Yin Yang Eye which still exists to this day...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The explosion lingered in Luo Yi's eyes as she felt a heartbreaking pain—so this land was once a true utopia where Yin and Yang existed in perfect harmony."
+          },
+          {
+            "text": "After everything that had happened, the Cadia Riverlands now was nothing but a poor imitation."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She had sought the truth of Yin and Yang, and inadvertently witnessed its dissolution with her own eyes."
+          },
+          {
+            "text": "Moreover, she was a direct descendent of the Ancient Ones."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Luo Yi left the last traces of her former self with her tears in Zhu'an."
+          },
+          {
+            "text": "With the blood of the Ancient Ones flowing in her body, she was able to quickly master the secrets to harmonizing Yin and Yang just from her observations in her vision."
+          },
+          {
+            "text": "She bid farewell to the Grand Sorceress, left Zhu'an, and traveled alone throughout Cadia Riverlands for the sake of her newfound purpose."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But it was only after encountering Yu Zhong, the reincarnation of the Black Dragon, that her vision of restoring Yin and Yang was set into motion."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "What is Yin and what is Yang?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Standing before the dignified Baxia and the other current-day Oriental Fighters, Luo Yi remained calm and collected.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baxia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"In ancient times, the duality of Yin and Yang gave birth to the Four Immortals and all living things. Today, I shall show you the true Yin and Yang.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She slowly lifted the hossu in her hand and a swirl of black and white energy surfaced around her."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "First stroke—to give birth to the fiery realm of Yang."
+          },
+          {
+            "text": "Second stroke—to give birth to the frozen realm of Yin."
+          },
+          {
+            "text": "Third stroke—to assemble the power of Yin and Yang."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Baxia, Zilong, and Ling suddenly found themselves trapped in a circle of enchantment.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zilong"
+              },
+              {
+                "type": "internal",
+                "page": "Ling"
+              }
+            ]
+          },
+          {
+            "text": "They could only watch as the power of the Black Dragon burst from its seal of a thousand years before enveloping Luo Yi and Yu Zhong and vanishing."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Now that Yu Zhong had acquired the full power of the Black Dragon, he was one step closer to his ambitions of conquering the Cadia Riverlands."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To this end, Luo Yi proclaimed: \"If that is your will, then it is my duty to see it to fruition.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And she spoke the truth without empty words, yet..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The balance of Yin and Yang had not been realized yet in Cadia Riverlands."
+          },
+          {
+            "text": "And just as Yu Zhong needed Luo Yi to harmonize Yin and Yang, Luo Yi needed Yu Zhong's power to unify the Cadia Riverlands."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But Luo Yi's own ambitions stretched beyond all of this—to the utopia created by Fu Yang and Su Yin."
+          },
+          {
+            "text": "A world far beyond what the Twin Dragons can recreate; a world far beyond what the Four Immortals can protect."
+          },
+          {
+            "text": "Thus, with her own hands, she will restore Yin and Yang to their primal form and usher this world into true, everlasting peace."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oriental Fighters Assemble",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Oriental Fighters Assemble"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "The Awakening of the Black Fierce Dragon Yu Zhong",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "The Awakening of the Black Fierce Dragon Yu Zhong"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Secrets of the New Hero - Luo Yi",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Secrets of the New Hero - Luo Yi"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Dragon's Reborn",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Dragon's Reborn"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Sigils of Yin/Yang",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Yin-Yang Reaction",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "text": "[how much?]",
+        "template": "sup"
+      },
+      {
+        "base": "365",
+        "level": "20",
+        "total-mp": "190",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "300",
+        "level": "10",
+        "total-mp": "150",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Duality",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "description": "Luo Yi's skills create on the battlefield. Each Sigil lasts up to 6 seconds. Sigils opposite attributes will trigger  when they are within a certain distance,[how much?] dealing  to the marked [enemy heroes], stunning them for 1 second, and pulling them toward each other . Each time Luo Yi applies a new Sigil to a marked enemy [hero], she gains  (up to 3 stacks) and 30% extra Movement Speed that decays over 2 seconds.",
+        "ls-1": "Base Damage: 385 / 405 / 425 / 445 / 465 / 485 / 505 / 525 / 545 / 565 / 585 / 605 / 625 / 645 / 665",
+        "ls-2": "Shield: 310 / 320 / 330 / 340 / 350 / 360 / 370 / 380 / 390 / 400 / 410 / 420 / 430 / 440 / 450",
+        "ss-1": "Base Shield: {310, 620, 930} (level 1) {450, 900, 1350} (level 15)",
+        "ss-2": "Magic Bonus Shield: {150%, 300%, 450%}",
+        "term-1": "Stunned",
+        "term-2": "Shield",
+        "term-3": "Magic Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Yin/Yang",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "210-410",
+        "total-mp": "120",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Sigil of Yin/Yang",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Yin-Yang Reaction",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "image-2": "Dispersion (Yin)",
+        "name": "Dispersion",
+        "skill-effect-1": "AoE",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "1.2",
+        "mana-cost": "50 / 58 / 66 / 74 / 82 / 90",
+        "description": "Luo Yi casts the energy of in the target direction, dealing  to the first enemy hit ad those behind in a cone. Enemy heroes hit are marked with . Luo Yi stores up to 4 Dispersion charges and gains 1 charge every 8 seconds. She also gains 1 charge each time  is triggered. The state of this skill changes on each cast.",
+        "ls-1": "Base Damage: 210 / 250 / 290 / 330 / 370 / 410",
+        "recharging-time": "8 / 7.7 / 7.4 / 7.1 / 6.8 / 6.5",
+        "term-1": "Magic Skill",
+        "term-2": "Energy Charging Time",
+        "notes": "*The state of this skill starts as yang by default, this skill shifts as yang when Luo Yi dies.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Fire of Yang/Aqua of Yin",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "250-350",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "50-70",
+        "total-mp": "10",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Yin-Yang Reaction",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "image-2": "Rotation (Yin)",
+        "name": "Rotation",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Slowed",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "12.0",
+        "mana-cost": "120 / 130 / 140 / 150 / 160 / 170",
+        "description": "Luo Yi summons at a target location, dealing  to enemies hit and slowing them by 60% for 0.5 seconds. Fire of Yang/Aqua of Yin then remains at the location for 6 seconds, dealing  every 0.7 seconds. It can also trigger  with mark of opposite attributes. The state of this skill changes on each cast.",
+        "ls-1": "Base Damage: 250 / 270 / 290 / 310 / 330 / 250",
+        "ls-2": "Continuous Damage: 50 / 54 / 58 / 62 / 66 / 70",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "notes": "*The state of this skill starts as yang by default, this skill shifts as yang when Luo Yi dies.\n*The remaining duration indicator is visible to both enemies and allies.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Active:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Winter Crown"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Diversion",
+        "skill-effect-1": "Teleport",
+        "skill-type-1": "Blink",
+        "cooldown": "55.0 / 50.0 / 45.0",
+        "mana-cost": "0",
+        "description": "Luo Yi creates a Teleport Circle around herself and marks target location (within 20 units) as its destination. After 3 seconds delay, allied heroes (including herself) within the Circle will be teleported to the location. Luo Yi’s Cooldown Reduction is increased by 6%–10%.",
+        "ls-1": "Cooldown Reduction: 6% / 8% / 10%",
+        "ls-2": "Max Range: 20 / 24 / 28",
+        "term-1": "Blink",
+        "term-2": "CD Reduction",
+        "notes": "*When its center is cast into a bush, the Teleport Circle on the battlefield and minimap is concealed from enemies. The circle also provides vision around the area.\n*Allies' channeling abilities are not interrupted. Allies affected by untargetability, such as under are also teleported.\n*Allies teleported to an unsighted bush is instantly not exposed to nearby enemies.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Luo_Yi_(Yin-yang_Geomancer).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Yin-yang_Geomancer).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Yin-yang_Geomancer).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Luo_Yi_(Yin-yang_Mage).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Yin-yang_Mage).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Yin-yang_Mage).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Luo_Yi_(Tenko).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Tenko).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Tenko).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Luo_Yi_(Dawning_Fortune).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Dawning_Fortune).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Dawning_Fortune).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Luo_Yi_(Siren_Priestess).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Siren_Priestess).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Siren_Priestess).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Luo_Yi_(Elysium_Guardian).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Elysium_Guardian).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Elysium_Guardian).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Luo_Yi_(Oracle_of_Sol).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Oracle_of_Sol).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Oracle_of_Sol).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Luo_Yi_(Starborne_Matron).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Starborne_Matron).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Luo_Yi_(Starborne_Matron).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Luo (罗 / 羅) can mean \"net\", \"to gather\", or \"silk\", symbolizing connection, destiny, or entrapment. Yi (依) means \"rely on\", \"harmony\", or \"grace\", signifying balance and stability. One who gathers and balances, this fits her yin-yang theme, where she manipulates opposing forces to maintain harmony."
+        },
+        {
+          "text": "Luo Yi is based on a real historical male figure from Tang Dynasty."
+        },
+        {
+          "text": "Her title Geomancer, someone who practice geomancy which translate to Earth Divination.",
+          "links": [
+            {
+              "text": "geomancy",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Geomancy"
+            }
+          ]
+        },
+        {
+          "text": "Her abilities are inspired by Taoist Yin-Yang philosophy, which represents balance in the universe."
+        },
+        {
+          "text": "In the initial release on the advance server, she was called Yi and has four skills instead of three."
+        },
+        {
+          "text": "She is the first hero that can teleport teammates. Luo Yi's Ultimate (Diversion) allows her to teleport her teammates to a different location, making it one of the most game-changing mobility skills in MLBB."
+        },
+        {
+          "text": "Luo Yi was the first hero released in the \"Oriental Fighters\" revamp that introduced Eastern-themed lore into MLBB."
+        },
+        {
+          "text": "She is the third hero to use the concept of Yin and Yang along with and."
+        }
+      ]
+    ]
+  }
+]

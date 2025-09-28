@@ -1,0 +1,751 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Novaria_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Novaria_human.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_human.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_human.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Novaria_child.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_child.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_child.jpg",
+            "caption": {}
+          }
+        ]
+      },
+      {
+        "list": [
+          "Layla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Diggie"
+        ],
+        "template": "hi"
+      }
+    ],
+    "infoboxes": [
+      {
+        "full_name": {
+          "text": "Novaria"
+        },
+        "alias": {
+          "text": "Star Rebel"
+        },
+        "origin": {
+          "text": "Eruditio",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Eruditio"
+            }
+          ]
+        },
+        "species": {
+          "text": "Half-Human, Half-Star"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "weapons": {
+          "text": "Star Magic"
+        },
+        "abilities": {
+          "text": "Astral Sphere manipulation"
+        },
+        "relationships": {
+          "text": "*Unnamed mother (fate unknown)\n* (student)\n* (companion)"
+        },
+        "ja_va": {
+          "text": "Yuu Sakuragi (桜木 夕)",
+          "links": [
+            {
+              "text": "Yuu Sakuragi (桜木 夕)",
+              "type": "external",
+              "site": "https://myanimelist.net/people/51043/Yuu_Sakuragi"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "The Nova",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Tap the link to know more stories of Novaria from her bio \"The Nova\". Together, let's witness her rebelling journey against the stars and how she brings back the destiny that they had stolen!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "- MLBB social media post promoting Novaria's bio"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Novaria woke up in the silence of the night."
+          },
+          {
+            "text": "She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But unlike the countless times before, an exceptionally bright star could be seen this night."
+          },
+          {
+            "text": "As Novaria gazed upon it, her hands reached out as if by instinct, until it was stopped by an invisible cage."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Of course they wouldn't allow it."
+          },
+          {
+            "text": "Novaria knew that all too well."
+          },
+          {
+            "text": "This night, and every night, the stars held her prisoner."
+          },
+          {
+            "text": "She could only watch the tiny glimmers overhead and ruminate the story of her life over and over again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A story that they had written."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''Novaria, the last remaining Astral Artificer, belonged to us."
+          },
+          {
+            "text": "She was born in the Valley of Stars and that is all she will ever know."
+          },
+          {
+            "text": "Her people had been blessed with a fragment of our power, yet they foolishly sought to build the Star Atlas, under the delusion that it would allow them to unlock our secrets.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''Such naive creatures!"
+          },
+          {
+            "text": "We the stars are infinite, whereas they, mere mortals, waste their lives seeking to comprehend us."
+          },
+          {
+            "text": "But this girl, Novaria, was unique."
+          },
+          {
+            "text": "She somehow discovered within the Star Atlas the destiny we designed for her: When the stars align, her power as the First Observer will awaken and she will become a half-astral being."
+          },
+          {
+            "text": "By our will, she will inadvertently destroy the Star Atlas and doom her entire people.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''We are the stars."
+          },
+          {
+            "text": "She will abide by our will."
+          },
+          {
+            "text": "She must abide by our will.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After seeing her destiny, Novaria hid her power out of fear."
+          },
+          {
+            "text": "But one fateful day, she foresaw in the stars that a tragedy would befall her mother, and was left with no choice but to alter the Star Atlas."
+          },
+          {
+            "text": "''When her mother returned home safely, Novaria finally understood the connection between the Star Atlas and the stars."
+          },
+          {
+            "text": "It was at that moment that she made up her mind to betray us."
+          },
+          {
+            "text": "Bit by bit, she made tiny, seemingly insignificant changes to the Atlas."
+          },
+          {
+            "text": "Patterns of stars began to appear on her body, which distressed her but did not stop her work.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She looked up and found that star again, this time even brighter than before, as if it was burning all of its energy."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This was not within the stars' design."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Novaria felt something stirring in her heart, something she hadn't felt since that night."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''On the night of her sixteenth birthday, she aligned the last star into place according to her design."
+          },
+          {
+            "text": "At last, her people would be saved."
+          },
+          {
+            "text": "The next morning, as Novaria enjoyed the cake her mother made her, she felt at peace."
+          },
+          {
+            "text": "The naive girl believed she was blessed by the stars.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "We do not know mercy.",
+            "formatting": {
+              "italic": [
+                "We do not know mercy."
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''The Star Atlas suddenly began shifting radically as a rift grew from its center, tearing the Atlas apart."
+          },
+          {
+            "text": "Star fragments wrapped around Novaria and began pulling her towards the rift."
+          },
+          {
+            "text": "Her mother and the other Artificers exhausted the last of their power desperately trying to pull her back."
+          },
+          {
+            "text": "She was the only one capable of completing the Star Atlas.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''The cosmic forces within the rift began changing Novaria, turning her skin."
+          },
+          {
+            "text": "She struggled and cried, trying to hold on to what little hope she had left, but it was to no avail.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''We are the stars."
+          },
+          {
+            "text": "She will abide by our will."
+          },
+          {
+            "text": "She must abide by our will.''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "''Novaria fainted."
+          },
+          {
+            "text": "When she came to, she found herself shackled by astral rings."
+          },
+          {
+            "text": "She could not escape destiny."
+          },
+          {
+            "text": "She tried to resist; in darkness, she chased and chased the fleeting stars, but she could not break away from our design."
+          },
+          {
+            "text": "We chose her."
+          },
+          {
+            "text": "She will not be allowed to defy us again."
+          },
+          {
+            "text": "No creature could...''"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Or could they...?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The last hope was kindled in Novaria's heart."
+          },
+          {
+            "text": "A great explosion lit up the sky in a magnificent spectacle."
+          },
+          {
+            "text": "It was that star!"
+          },
+          {
+            "text": "For her to shatter a star... it was unthinkable!"
+          },
+          {
+            "text": "She had challenged destiny by her own will."
+          },
+          {
+            "text": "The stars were no longer arrogant; they began to tremble at the sight of such power."
+          },
+          {
+            "text": "The astral rings that shackled Novaria trembled as well."
+          },
+          {
+            "text": "This was her chance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Novaria broke free using her newfound power."
+          },
+          {
+            "text": "The rings cracked and shattered into countless little pieces."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Novaria raised her hand and held a burning star fragment on her fingertip."
+          },
+          {
+            "text": "She contemplated for a long time, trying to understand it all."
+          },
+          {
+            "text": "Finally, she realized..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She was free."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As daylight finally broke, Novaria felt a greater calling - to leave the Valley of Stars and search for the location of the shattered star."
+          },
+          {
+            "text": "She lifted her head and looked into the fading night."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I know I'll never have power as infinite as yours,\" Novaria said to us, \"But I will complete the Star Atlas, and with it, unlock the secrets of the stars. The destinies accessible to you will also be accessible to me. Then we'll have an even playing field. You won't shackle me down, or anyone else for that matter. Our destiny will be in our own hands.\"",
+            "formatting": {
+              "italic": [
+                "\"I know I'll never have power as infinite as yours,\" Novaria said to us, \"But I will complete the Star Atlas, and with it, unlock the secrets of the stars. The destinies accessible to you will also be accessible to me. Then we'll have an even playing field. You won't shackle me down, or anyone else for that matter. Our destiny will be in our own hands.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the night faded, the stars could only reply with silence."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Novaria shook off the star fragments and walked towards the dawn."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Novaria_lore.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_lore.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_lore.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:Novaria_lore_2.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_lore_2.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_lore_2.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:Novaria_lore_3.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_lore_3.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Novaria_lore_3.jpg",
+        "caption": "512px",
+        "links": []
+      }
+    ],
+    "templates": [
+      {
+        "text": "Tap the link to know more stories of Novaria from her bio \"The Nova\". Together, let's witness her rebelling journey against the stars and how she brings back the destiny that they had stolen!",
+        "author": "MLBB social media post promoting Novaria's bio",
+        "template": "quote"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Destiny Beyond the Stars",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Destiny Beyond the Stars"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Astral Spheres",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Star Trail",
+        "skill-effect-1": "Buff",
+        "description": "summoned by Novaria will continuously slow nearby enemies by 20% and grant vision of them [for 2 seconds].",
+        "ls-1": "Base Damage: 260 / 285 / 310 / 335 / 360 / 385",
+        "ls-2": "Extra Percentage Damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Astral Sphere",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "75-150",
+        "total-mp": "25",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "260-385",
+        "total-mp": "50",
+        "total-hp": "enemy's 4%–6",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Astral Meteor",
+        "skill-effect-1": "Slow",
+        "skill-effect-2": "AoE",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "mana-cost": "60 / 70 / 80 / 90 / 100 / 110",
+        "description": "Novaria summons an at the target location. continuously dealing  to nearby enemies [six times]. After 2 seconds, the sphere will explode, dealing  to nearby enemies, and increasing Astral Sphere's slow effect to 2.5 times the original slow effect (50% slow).",
+        "ls-1": "Base Damage: 75 / 90 / 105 / 120 / 135 / 150",
+        "ls-2": "Base Damage: 260 / 285 / 310 / 335 / 360 / 385",
+        "ls-3": "Extra Percentage Damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%",
+        "notes": "*The damage, excluding the final one, reveals enemies until they get out of the area of effect. The final damage reveals heroes for 2 seconds.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Astral Sphere",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "260-385",
+        "total-mp": "50",
+        "total-hp": "enemy's 4%–6",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[duration needed]",
+        "template": "sup"
+      },
+      {
+        "text": "[duration unknown]",
+        "template": "sup"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Badang"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fist Break"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Grock"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Guardian's Barrier"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "image-2": "Astral Recall 2",
+        "name": "Astral Recall",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "BUFF",
+        "cooldown": "8.0",
+        "mana-cost": "120 / 150 / 180 / 210 / 240 / 270",
+        "description": "Novaria summons an at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall will increase the Movement bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy hero, dealing . The damage will increase based on the Astral Sphere's travel\ndistance (starting from when the sphere is summoned) up to 2.5 times the original.",
+        "ls-1": "Base Damage: 260 / 285 / 310 / 335 / 360 / 385",
+        "ls-2": "Extra Percentage Damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%",
+        "ss-1": "Damage Increase: 15% / 30% / 45% / 60% / 75% / 90% / 105% / 120% / 135% / 150%",
+        "term-1": "Ignore Obstacles",
+        "notes": "*Enemies will be revealed for a short amount of time[duration needed] when passed by the returning Astral Sphere. No eye mark if it doesn't hit them.\n*The game camera zooms out during the skill duration.\n*If Astral Recall ends when Novaria is inside the obstacle, she will be displaced to the nearest valid point.\n*Novaria cannot go beyond the battlefield for an unspecified amount of distance within the skill duration.\n*Novaria can recall during the skill duration, but it will be interrupted when she receives the Astral Sphere, or skill duration ends while she is inside an obstacle. \n*Its damage increases by 15% for each unknown succeeding distance.[duration unknown]\n*It deals up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000 to non-hero units.\n*Novaria speeds up by 60% when passing through obstacles.\n*Novaria can get more stacks when passing through obstacles.\n*Assisted Aiming Mode is disabled by default on this skill.\n*Passing by obstacles increase speed once per cast time.\n**When she passes by the obstacle, her model also has an embedding background.\n**The inner edge of 's, destroyed turrets, 's or 's  are also obstacles.\n**'s  does not prevent the retriving in any way.",
+        "template": "ability"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Astral Ring",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Novaria"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Cursed Helmet"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Astral Echo",
+        "skill-effect-1": "BUFF",
+        "cooldown": "45.0 / 40.0 / 35.0",
+        "mana-cost": "150 / 75 / 0",
+        "description": "Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% (for approximately 0.8 seconds) while applying on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 5 seconds.",
+        "term-1": "Hitbox",
+        "notes": "*Has the distance of 23 unit.\n* gets an assist from an enemy marked by the Astral Ring.\n*Hitbox does not increase enemy's ability range, such as.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Novaria is of Latin origin and means fresh and innovative. The name \"Novaria\" is reminiscent of \"nova,\" a term used in astronomy to describe a star that suddenly increases in brightness. This aligns with her celestial theme and her role as a luminous force on the battlefield."
+        },
+        {
+          "text": "Her attire features shimmering, glowing patterns resembling stars and constellations, highlighting her celestial nature."
+        },
+        {
+          "text": "Novaria’s entire design is inspired by the cosmos, stars, and celestial elements. She is a manifestation of the Astral Artificer from the Valley of Stars, and her design reflects her deep connection to astral energy and cosmic forces. The dominant colors in her design are blue, purple, and white, all of which are traditionally associated with the night sky and space.",
+          "formatting": {
+            "bold": [
+              "Astral Artificer",
+              "Valley of Stars",
+              "blue",
+              "purple",
+              "white"
+            ]
+          }
+        },
+        {
+          "text": "Unlike most mages, she can pass through walls, helping her reposition for better attacks or escape dangerous situations."
+        },
+        {
+          "text": "Unlike most mages who deal damage within a fixed range, Novaria’s long-range skill rewards players for positioning and perfecting their aim, making her one of the few mages who functions like a ranged marksman in a sense."
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,875 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "A fighter that deals magic damage, she is the leader of the Lightborn Chevaliers, and she was released as a part of the Lightborn-related events.",
+            "links": [
+              {
+                "text": "fighter",
+                "type": "internal",
+                "page": "fighter"
+              },
+              {
+                "text": "magic damage",
+                "type": "internal",
+                "page": "magic damage"
+              },
+              {
+                "text": "Lightborn Chevaliers",
+                "type": "internal",
+                "page": "Lightborn squad"
+              }
+            ]
+          },
+          {
+            "text": "Players had a chance to redeem the hero for free for a limited time."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Princess of the Moniyan Empire and queen regent.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The princess of the Moniyan Empire."
+          },
+          {
+            "text": "After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Silvanna_comic.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Silvanna_comic.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Silvanna_comic.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Silvanna_teaser.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Silvanna_teaser.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Silvanna_teaser.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Silvanna_child.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Silvanna_child.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Silvanna_child.jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Imperial_Knight's_Order",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Imperial_Knight's_Order?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Imperial_Knight's_Order"
+          },
+          {
+            "file": "File:*[[Lightborn_squad",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BLightborn_squad?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BLightborn_squad",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:**Invasion_of_the_Moniyan_Empire",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/**Invasion_of_the_Moniyan_Empire?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/**Invasion_of_the_Moniyan_Empire"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*Unnamed_mother",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Unnamed_mother?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Unnamed_mother"
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[Emperor_Gaius_of_Moniyan",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BEmperor_Gaius_of_Moniyan?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5BEmperor_Gaius_of_Moniyan",
+            "caption": {}
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Part_1_of_Odettes_Expanded_Lore_in_official_discord.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Part_1_of_Odettes_Expanded_Lore_in_official_discord.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Part_1_of_Odettes_Expanded_Lore_in_official_discord.png"
+          },
+          {
+            "file": "File:Part_2_of_Odettes_Expanded_Lore_in_official_discord.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Part_2_of_Odettes_Expanded_Lore_in_official_discord.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Part_2_of_Odettes_Expanded_Lore_in_official_discord.png"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Odette"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Vexana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Princess of the Moniyan Empire and queen regent.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "* (2nd cousin) \n* (relative) \n*Lord Gaius (relative) \n*Sirius IV (grandfather) \n*Prince Alvin I (great-uncle) \n*Prince Alvin II (1st cousin once removed) \n*Odette's unnamed uncle (1st cousin once removed) \n* (enemy)"
+        },
+        "en_va": {
+          "text": "Feena Glynn",
+          "links": [
+            {
+              "text": "Feena Glynn",
+              "type": "internal",
+              "page": "imdb:nm8441206"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Takada Sakie (高田 紗希衣)",
+          "links": [
+            {
+              "text": "Takada Sakie (高田 紗希衣)",
+              "type": "internal",
+              "page": "imdb:nm11620202"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Irene Nasution"
+        },
+        "name": {
+          "text": "Silvanna"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The prince had gone missing and no one knew if he were dead or alive!",
+            "links": [
+              {
+                "text": "prince",
+                "type": "internal",
+                "page": "Dyrroth"
+              }
+            ]
+          },
+          {
+            "text": "For the sake of the country and the safety of its people, King Aurelius II had decreed to expand the Imperial Knight's Order and set up fortresses within the outskirts of Moniyan, to reinforce the empire's defense.",
+            "links": [
+              {
+                "text": "country",
+                "type": "internal",
+                "page": "Moniyan Empire"
+              },
+              {
+                "type": "internal",
+                "page": "Moniyan"
+              }
+            ]
+          },
+          {
+            "text": "In the meantime, the Imperial Knights continued their search for any clues or whereabouts of the prince."
+          },
+          {
+            "text": "The Imperial Knight's searched day after night."
+          },
+          {
+            "text": "They had almost crossed the entire Land of Dawn, but all they could find was endless waiting.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "The Aurelius royal family was drowning in sorrow."
+          },
+          {
+            "text": "To young Silvanna, the tragic memory of that time was too heavy."
+          },
+          {
+            "text": "As a princess, Silvanna had always had a heart of justice and compassion since she was little."
+          },
+          {
+            "text": "After her brother's disappearance, she had been keeping the queen's company almost every day."
+          },
+          {
+            "text": "For years, the two of them had been waiting for a miracle to happen in the Imperial castle."
+          },
+          {
+            "text": "However, waiting, day after day, and year after year later the queen eventually became ill and bedridden from physical and mental exhaustion."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ten years had passed after the tragic event."
+          },
+          {
+            "text": "As the queen and the king got old, Princess Silvanna, who had grown into a fine adult, had always wanted to do something for her empire."
+          },
+          {
+            "text": "She wanted to let go of the sorrow, but whenever she thought of her brother, the sadness and frustration always came back to her."
+          },
+          {
+            "text": "Every night in her dream, Silvanna felt like her brother was within reach, but she just couldn't seem to hold him."
+          },
+          {
+            "text": "Shortly afterward, on the day of Silvanna's coming-of-age ceremony, she decided to disregard her status as a princess and join the Imperial Knights."
+          },
+          {
+            "text": "Perhaps this was the only way for her to bear the pain!"
+          },
+          {
+            "text": "In the Knight’s Order, Silvanna would have to go through tough training."
+          },
+          {
+            "text": "She would no longer be treated like a royal."
+          },
+          {
+            "text": "Silvanna possessed strong faith and worked harder than the others."
+          },
+          {
+            "text": "Her faith had made her more and more powerful."
+          },
+          {
+            "text": "All the scars on her body were the best proof on her path to training."
+          },
+          {
+            "text": "Before long, she had become the most powerful female knight among the Imperial Knights."
+          },
+          {
+            "text": "But even then, Silvanna still couldn’t get Tigreal special approval.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tigreal"
+              }
+            ]
+          },
+          {
+            "text": "Tigreal knew the cruelty of the real battlefield and how there' was no room for any mistake."
+          },
+          {
+            "text": "Deep down, Tigreal saw that Silvanna had already acquired all the skills of a knight."
+          },
+          {
+            "text": "He could also see Silvanna's determination."
+          },
+          {
+            "text": "But she was a royal of the empire after all."
+          },
+          {
+            "text": "Tigreal didn't want another successor of the empire to be at any risk again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But one day, all of a sudden, the Demon army had arrived on the outskirts of the empire… Moniyan was in the face of disaster and war."
+          },
+          {
+            "text": "Tigreal ordered Silvanna to stay in the empire while he leads the whole Knight’s Order to battle."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Halfway through, Tigreal received a report from the Knight’s Order that in order to prove herself, Silvanna had broken the forbidden area, the Imperial Sanctuary, where countless unknown creatures lurk."
+          },
+          {
+            "text": "Even Tigreal himself didn't have the confidence to go through it unharmed."
+          },
+          {
+            "text": "At this moment, a sharp cry came from a distance, making Tigreal shudder."
+          },
+          {
+            "text": "He immediately leads the elites of the Knight’s Order back to the Imperial Sanctuary while the rest of the knights marched to the outskirts of the empire to fight the Demons."
+          },
+          {
+            "text": "On his way, he prayed that he could make it in time."
+          },
+          {
+            "text": "He prayed that his fear should not come true."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In front of the gods of the Imperial Sanctuary, a giant figure was slowly approaching the wounded knightess."
+          },
+          {
+            "text": "The Seed of Light was glowing in the distance and her powerful opponent was approaching."
+          },
+          {
+            "text": "In the imperial records, Silvanna once read about a legend about the Seed of Light in the Imperial Sanctuary."
+          },
+          {
+            "text": "But the powerful creature that guards the Seed of Light in front of her has become an obstacle she couldn't overcome."
+          },
+          {
+            "text": "But Silvanna knew that only when she was shielded by the Lord of Light could she truly become the Holy Knightess and lead the empire to victory in the battle."
+          },
+          {
+            "text": "And for that reason, she was willing to sacrifice her life…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But that wasn't necessary, Silvanna's determination impressed the God of Light and he passed down some of his magical powers to Silvanna."
+          },
+          {
+            "text": "With this power in hand, she broke past the Guard and brought the chaotic army to an end."
+          },
+          {
+            "text": "With the battle won and peace returned, Silvanna's courage brought her great fame."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With power, courage, and royalty in her blood, she took over as the Princess of the Moniyan Empire and perhaps… also as its protector.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Song of the Old Days",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Song of the Old Days"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Glimmer Amidst the Icy Night",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Glimmer Amidst the Icy Night"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "25",
+        "total-pa": "45",
+        "total-mp": "75",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Additional damage dealt",
+          "md"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Basic Attacks"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Knightess' Resolve",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Debuff",
+        "term-1": "Magic Basic Attack",
+        "term-2": "Physical Defense",
+        "term-3": "Magic Defense",
+        "description": "Silvanna's Basic Attacks deal . Silvanna's attacks apply a mark on enemy heroes for 5 seconds on hit, each mark reducing their Physical & Magic Defense by 3–6 (up to 5 stacks). Silvanna deals 30% extra damage to enemy heroes with the max number of marks.",
+        "level-scaling": "Hybrid Defense Reduction (approx.): 3 / 3.21 / 3.43 / 3.64 / 3.86 / 4.07 / 4.29 / 4.5 / 4.71 / 4.93 / 5.14 / 5.36 / 5.57 / 5.79 / 6",
+        "stack-scaling": "Hybrid Defense Reduction (lv. 1): 3 / 6 / 9 / 12 / 15\nHybrid Defense Reduction (lv. 15): 6 / 12 / 18 / 24 / 30",
+        "notes": "* to enemy heroes only includes damage from skills and .\n*Visual marks do not display on minions and creeps, despite the fact that they can receive debuffs from this skill.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250",
+        "total-mp": "100",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Cometic Lance",
+        "skill-tier": "First Skill",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Stun",
+        "skill-type-2": "Blink",
+        "skill-type-3": "Magic Damage Skill",
+        "cooldown": "11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0",
+        "mana-cost": "70 / 78 / 86 / 94 / 102 / 110",
+        "term-1": "Stun",
+        "term-2": "Blink",
+        "term-3": "Magic Skill",
+        "description": "Silvanna dashes forward. Upon reaching the max range or hitting a non-minion enemy, she swings her lance, dealing to nearby enemies and stunning them for 1 second.",
+        "ls-1": "Base Damage: 250 / 280 / 310 / 340 / 370 / 400",
+        "image": "Cometic Lance 2",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "{\\rm Total\\ Spins} = 6 + \\lfloor \\frac{{\\rm Total\\ Attack\\ Speed} - 1}{0.55} \\rfloor",
+        "raw": "{\\rm Total\\ Spins} = 6 + \\lfloor \\frac{{\\rm Total\\ Attack\\ Speed} - 1}{0.55} \\rfloor"
+      },
+      {
+        "base": "350",
+        "total-mp": "150",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "165",
+        "total-mp": "45",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Spiral Strangling"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Golden Staff"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Inspire"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Golden Staff"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Spiral Strangling",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Shield",
+        "skill-type-1": "Shield",
+        "cooldown": "5.5 / 5.3 / 5.1 / 4.9 / 4.7 / 4.5",
+        "mana-cost": "35 / 40 / 45 / 50 / 55 / 60",
+        "term-1": "Shield",
+        "term-2": "Magic Basic Attack",
+        "description": "Silvanna thrusts her lance in the target direction and spins it 6 times while gaining a . Each spin deals and slightly pulls targets toward the center. Silvanna spins 1 additional time for every 50% of extra Attack Speed she possesses.  The skill deals only 50% damage against Minions.   counts as a  but cannot Crit.",
+        "ls-1": "Base Damage: 165 / 183 / 201 / 219 / 237 / 255",
+        "ls-2": "Shield Bonus: 350 / 380 / 410 / 440 / 470 / 500",
+        "notes": "*There is a mistake in the skill description, it doesn't spin 1 additional time for every 50% of Extra Attack Speed. Instead, it spin 1 additional time for every 55% of Total Attack Speed above 100% or 1.00. So, theoretically it will spin 1 / 2 / 3 / 4 / 5 / 6 / 7 additional times for a Total Attack Speed of 1.55 / 2.1 / 2.65 / 3.2 / 3.75 / 4.3 / 4.85. Additional spins above 3 are not possible, unless with modifiers that can up the Attack Speed cap like or . Even so, the max number of spins is 11, not 13. This happens because the increase in the Attack Speed cap effect is very brief.\n*Despite the skill counts as a non-Crit Basic Attack, it doesn't benefit from 's passive – Endless Strike.\n*This skill can be canceled manually by moving the joystick.\n*Spiral Strangling is not visible during invisible on the bush.",
+        "template": "ability"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "350",
+        "total-mp": "110",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Imperial Justice",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "52.0 / 48.0 / 44.0",
+        "mana-cost": "130 / 140 / 150",
+        "term-1": "Restrain",
+        "term-2": "ATK Speed",
+        "term-3": "Lifesteal",
+        "description": "Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing to enemies in the area, slowing them by 40% for 1.5 seconds, and restraining the closest enemy hero to the area for 3.5 seconds. (This skill cannot be interrupted) Silvanna gains 100% [extra] Attack Speed and 40% [extra] Lifesteal when in the Circle.",
+        "ls-1": "Base Damage: 350 / 500 / 650",
+        "bugs": "*Camera Shift does not function on this skill.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "BUFF",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Dyrroth"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "attack speed"
+        ],
+        "template": "b"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Dyrroth-Silvanna BUFF"
+        },
+        "name": {
+          "text": "Silvanna BUFF"
+        },
+        "description": {
+          "text": "If is in the enemy's team, increases self's  by 1%."
+        }
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Silvanna is a variation of the feminine Silvana or Sylvana, meaning the \"one who lives in the forest\" in Latin.",
+          "formatting": {
+            "italic": [
+              "Silvanna",
+              "Silvana",
+              "Sylvana"
+            ]
+          }
+        },
+        {
+          "text": "Alternatively, Silvana is also an italian female name as a feminine counterpart to Silvano an italian male name."
+        },
+        {
+          "text": "Silvanna is only hero capable of inflicting the Restrain status.",
+          "links": [
+            {
+              "text": "Restrain",
+              "type": "internal",
+              "page": "Restrained"
+            }
+          ]
+        },
+        {
+          "text": "Silvanna is the first hero to have a skin based a player's Credit Score.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Credit Score"
+            }
+          ]
+        },
+        {
+          "text": "In her early development, Silvanna was meant to be a tank-fighter mix, but developers decided to focus more on her magic fighter identity instead.",
+          "formatting": {
+            "bold": [
+              "tank-fighter mix",
+              "magic fighter"
+            ]
+          }
+        },
+        {
+          "text": "Silvanna’s armor and lance weapon resemble European medieval knights, blending holy warrior aesthetics with magic power. Her design is inspired by medieval knight culture."
+        },
+        {
+          "text": "Her in-game quotes \"Moniyan warriors, show your teeth\" is an idiomatic expression meaning show your strength, or readiness to fight. (like an animal baring its teeth). The phrase is British English usually use in Europe as Moniyan Empire is based in Europe."
+        },
+        {
+          "text": "The fact that the ruling dynasty has never changed shows us its kinship with Odette and Vexana."
+        }
+      ]
+    ]
+  }
+]

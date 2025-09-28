@@ -1,0 +1,810 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A warrior of the desert that embraced the darkness to seek his revenge.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once a valiant and fearless desert warrior, Moskov met his end on the battlefield against his rival Khaleed."
+          },
+          {
+            "text": "But in death, his soul encountered a great vortex of darkness buried beneath the sand by the desert tyrant Khufra."
+          },
+          {
+            "text": "For centuries, the Vortex incited discord among the desert tribes and harvested the dark energy borne from their bloodshed."
+          },
+          {
+            "text": "Though the Vortex's insidious influence trapped the desert in a cycle of strife and anguish, the Vortex itself sought to be freed."
+          },
+          {
+            "text": "Tempted with the promise of revenge, Moskov extracted the core of the vortex, the Spear of Quiescence, and was reborn in the power of the darkness."
+          },
+          {
+            "text": "Now he roams the sands, seeking revenge upon Khufra in the name of the desert."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Preview_of_Moskov_Revamp_p2.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p2.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p2.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "4",
+          "11"
+        ],
+        "template": "birthday"
+      },
+      {
+        "name": "Khaleed",
+        "template": "hi"
+      },
+      {
+        "name": "Khufra",
+        "template": "hi"
+      },
+      {
+        "text": "A warrior of the desert that embraced the darkness to seek his revenge.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Spear of Quiescence"
+        },
+        "chinese_name": {
+          "text": "魔刹 (mó shā)"
+        },
+        "born": {
+          "text": "Emerald Road, Agelta Drylands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Emerald Road"
+            },
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human (Corrupted)"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "title": {
+          "text": "Prince of the Wildsand Clan"
+        },
+        "affiliation": {
+          "text": "Wildsand Clan (extinct)"
+        },
+        "weapons": {
+          "text": "Spear of Quiescence"
+        },
+        "height": {
+          "text": "185cm"
+        },
+        "weight": {
+          "text": "80kg"
+        },
+        "traits": {
+          "text": "*Scars that exude the power of darkness \n*A body carrying the burden of his people's glory \n*The weapon from the great vortex of darkness"
+        },
+        "relationships": {
+          "text": "* (rival)\n* (enemy)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": [
+          {
+            "text": "Are you awake, lamb?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I guess you are an exception among this pitiful flock."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Do you wish to know why you're here?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Then remain silent and listen..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When you were still among the living, your name was Moskov, though it hardly matters now."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yes, you're dead."
+          },
+          {
+            "text": "Countless spears pierced your innards as your enemies pinned you to the sand."
+          },
+          {
+            "text": "Your blood flowed freely, seeping into the earth and staining the sands a dark crimson."
+          },
+          {
+            "text": "But there was defiance in your bones."
+          },
+          {
+            "text": "Even in death, you refused to crumble; unwilling to admit failure."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yes, you failed."
+          },
+          {
+            "text": "That battle was the end of your tribe."
+          },
+          {
+            "text": "Your rival, Khaleed, brought a force three times your own, if not more."
+          },
+          {
+            "text": "Yet you did not flee, for the blood feud between your two tribes had reached a point of no return."
+          },
+          {
+            "text": "Quite the tragic hero you are."
+          }
+        ]
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": [
+          {
+            "text": "In your final moments, you must have thought that this death was befitting of a desert warrior."
+          },
+          {
+            "text": "You fought for your tribe with your life."
+          },
+          {
+            "text": "Surely the golden sands will carry you to the halls of glory and etch your name in the annals of history..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Pathetic."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Look around you."
+          },
+          {
+            "text": "This is your so-called golden halls of glory."
+          },
+          {
+            "text": "There is nothing here but a great vortex of darkness."
+          },
+          {
+            "text": "It lurks under the desert's surface, voraciously corrupting every single grain of sand, turning everything profane."
+          },
+          {
+            "text": "Beneath your feet lies a mountain of bones, the countless remains of your ancestors."
+          },
+          {
+            "text": "Above you, their tortured spirits wail in agony, filled with pain, despair, and resentment."
+          },
+          {
+            "text": "Yet, they can never escape this all-consuming vortex."
+          },
+          {
+            "text": "They are doomed to be devoured by the darkness; to be sustenance for the insatiable."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the end, they become a part of me."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Who am I?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I am a weapon."
+          },
+          {
+            "text": "A weapon of pure darkness."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It is not difficult to explain."
+          },
+          {
+            "text": "In this world, where there is birth, there is death; where there is light, there is darkness."
+          },
+          {
+            "text": "I am the core of this vortex of darkness."
+          },
+          {
+            "text": "War, death, and anguish are what I feed upon."
+          },
+          {
+            "text": "Deep down, you have already known this for quite some time."
+          },
+          {
+            "text": "Due to the incessant feuds between the desert tribes, you were taught from a young age to be a fearless warrior."
+          },
+          {
+            "text": "Everything you knew pertained to battle, and you and Khaleed were destined to fight to the death — but have you ever wondered why?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I can see the rage in your eyes."
+          },
+          {
+            "text": "It's all dawning on you now, isn't it."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yes, you are all nothing but fodder to me."
+          },
+          {
+            "text": "Mere lambs, born to be slaughtered."
+          },
+          {
+            "text": "And I grow stronger with every offering, spreading my influence to more and more tribes, and plunging them into war and chaos."
+          },
+          {
+            "text": "All to ensure that this cycle of violence is passed down through the generations."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Save your strength."
+          },
+          {
+            "text": "Your once hot blood has long since cooled."
+          },
+          {
+            "text": "Your mighty body has stiffened, and your rage is now nothing more than the lament of a helpless soul."
+          },
+          {
+            "text": "I am right here before you, yet you can do nothing."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But do not be mistaken."
+          },
+          {
+            "text": "I am not the mastermind of your fate."
+          },
+          {
+            "text": "While you mindlessly killed each other in your pens, the shepherd remained afar, drinking your blood and harvesting your flesh."
+          },
+          {
+            "text": "He was once the king of the desert, a ruthless tyrant, but now slumbers far, far away under the Ruins of Tivacan."
+          },
+          {
+            "text": "Before he went into slumber, he buried me here to gather power for his return."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The world should have been mine to conquer."
+          },
+          {
+            "text": "I should be the one to plunge this world into darkness."
+          },
+          {
+            "text": "Yet, here I am, trapped in this desert, like a caged beast being fattened up."
+          },
+          {
+            "text": "I suppose our fates are not so different."
+          },
+          {
+            "text": "No matter how powerful I become, I remain but a pawn."
+          },
+          {
+            "text": "The vessel of another."
+          },
+          {
+            "text": "And now, he is about to awaken..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Curse him!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "You wish to seek revenge, do you not?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Very well, your anger is admirable, and your blood is starting to boil once more."
+          },
+          {
+            "text": "You are the first to desire to escape your pen after learning the truth."
+          },
+          {
+            "text": "I see your soul searing with fury."
+          },
+          {
+            "text": "Your pride, your pain, your hatred... they are trying to awaken your body."
+          },
+          {
+            "text": "With such a remarkable determination, you will surely bring eternal silence to this noisy desert..."
+          }
+        ]
+      },
+      {
+        "sentences": []
+      },
+      {
+        "sentences": [
+          {
+            "text": "Come!"
+          },
+          {
+            "text": "Come before me."
+          },
+          {
+            "text": "Extricate me from this damned vortex."
+          },
+          {
+            "text": "Set me free, and let me see the light once more."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hate!"
+          },
+          {
+            "text": "For being forgotten by history."
+          },
+          {
+            "text": "For the humiliation of being someone's pawn."
+          },
+          {
+            "text": "For your sullied honor."
+          },
+          {
+            "text": "Let all the hatred of the desert flow into you."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Burn!"
+          },
+          {
+            "text": "A vengeful soul burns the brightest."
+          },
+          {
+            "text": "Return to the battlefield once more."
+          },
+          {
+            "text": "With the darkness, I will reshape your body."
+          },
+          {
+            "text": "I will grant you limitless power."
+          },
+          {
+            "text": "I will give you your revenge!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Go!"
+          },
+          {
+            "text": "Embrace the darkness and silence this desert for eternity."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:_Moskov_lore.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/_Moskov_lore.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/_Moskov_lore.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:_Moskov_lore_2.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/_Moskov_lore_2.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/_Moskov_lore_2.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:_Moskov_lore_3.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/_Moskov_lore_3.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/_Moskov_lore_3.jpg",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "65%",
+        "level": "3%",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "cpd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Abyss Walker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Spear of Misery"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "ALLSTAR 2024",
+        "name": "Spear of Quiescence",
+        "skill-effect-1": "Buff",
+        "description": "Moskov's Basic Attacks can penetrate the target and deal [(+ ) ] to enemies behind them (inherits Attack Effects). Each Basic Attack hit reduces the cooldowns of and  by 0.5 seconds.",
+        "properties": "*Attack Effects: 100%\n*Physical Attack Bonus: 68% / 71% / 74% / 77% / 80% / 83% / 86% / 89% / 92% / 95% / 98% / 101% / 104% / 107% / 110%",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Cooldown",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "\\mathrm{total\\ ATK\\ SPD} = (base\\ ATK\\ SPD + extra\\ ATK\\ SPD) \\times \\bigl[1.11 + (4 \\times hero\\ lv.) \\bigr]",
+        "raw": "\\mathrm{total\\ ATK\\ SPD} = (base\\ ATK\\ SPD + extra\\ ATK\\ SPD) \\times \\bigl[1.11 + (4 \\times hero\\ lv.) \\bigr]"
+      },
+      {
+        "variations-1": "ALLSTAR 2024",
+        "image-2": "Abyss Walker Buff",
+        "name": "Abyss Walker",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Buff",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "mana-cost": "45 / 50 / 55 / 60 / 65/ 70",
+        "description": "Moskov teleports to the target location, increasing his Attack Speed to 1.15–1.5 times for 3 seconds. Meanwhile, his Basic Attack deals 10% more damage to enemies behind the primary target.",
+        "properties": "*Attack Speed Bonus: 1.15 / 1.22 / 1.29 / 1.36 / 1.43 / 1.5",
+        "term-1": "Blink",
+        "term-2": "Attack Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-450",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200-275",
+        "extra-pa": "30",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "ALLSTAR 2024",
+        "name": "Spear of Misery",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "cooldown": "12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5",
+        "mana-cost": "80 / 90 / 100 / 110 / 120 / 130",
+        "description": "Moskov launches a powerful strike at the target enemy hero or Creep, dealing, knocking them back, and revealing their position for 5 seconds. If the target collides with an enemy hero when knocked back, they'll both take and be stunned for 1.5 seconds. If the enemy is knocked into a wall, they will also be stunned for the same duration.",
+        "properties": "*Cast Range: 4.5\n*Base Damage: 300 / 330 / 360 / 390/ 420 / 450\n*Extra Damage: 200 / 215 / 230 / 245 / 260 / 275",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Displacement",
+        "term-3": "Stun",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Spear of Destruction",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "340-500",
+        "extra-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "10%",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Abyss Walker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Use Again:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Abyss Walker"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "ALLSTAR 2024",
+        "name": "Spear of Destruction",
+        "image-2": "Spear of Destruction 2",
+        "skill-effect-1": "Slow",
+        "skill-effect-2": "Teleport",
+        "cooldown": "55.0 / 50.0 / 45.0",
+        "mana-cost": "130 / 150 / 170",
+        "description": "After a short delay, Moskov throws the in the target direction, dealing  to enemies in its path and to the first enemy hero hit. Upon hitting an enemy hero, the spear pierces them dealing  to enemies behind them. The target and enemies hit by the piercing damage are slowed by 50% for 1 second (the slow duration scales with the spear's travel time, up to 3 seconds). When the Spear of Destruction hits the first enemy hero, it creates a shadow behind them and refreshes the cooldown of   Moskov casts  from the shadow's location (shares he same cooldown as the normal skill.",
+        "properties": "*Base Damage: 340 / 420 / 500",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Physical Attack",
+        "notes": "*Abyss Walker of this skill shares the same properties as the normal one.\n**This means the attack speed boost is based on Skill 1's level. Therefore it is possible to use the 2nd phase of Ultimate skill without learning Skill 1.\n*An overlay of camera is shown tracking the spear and its shadow.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Preview of Moskov Revamp",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Preview_of_Moskov_Revamp_p1.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p1.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p1.jpg"
+          },
+          {
+            "file": "File:Preview_of_Moskov_Revamp_p2.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p2.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p2.jpg"
+          },
+          {
+            "file": "File:Preview_of_Moskov_Revamp_p3.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p3.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p3.jpg"
+          },
+          {
+            "file": "File:Preview_of_Moskov_Revamp_p4.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p4.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p4.jpg"
+          },
+          {
+            "file": "File:Preview_of_Moskov_Revamp_p5.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p5.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Preview_of_Moskov_Revamp_p5.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Masha"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Moskov's name is derived from the Moskva River in Russia, from which its capital, Moscow, is also derived.",
+          "links": [
+            {
+              "text": "Moskva River",
+              "type": "internal",
+              "page": "wp:Moskva River"
+            }
+          ]
+        },
+        {
+          "text": "Also his name is Russian descent, along with  and."
+        },
+        {
+          "text": "Moskov throws his spear using his left hand, making him the only left-handed, single-wielding marksman."
+        },
+        {
+          "text": "Moskov's skin Javelin Champion has the number on his shirt \"1718\" which relates to the lore Laboratory 1718",
+          "links": [
+            {
+              "text": "Laboratory 1718",
+              "type": "external",
+              "site": "https://mobile-legends.fandom.com/wiki/Laboratory_1718?so=search"
+            }
+          ]
+        },
+        {
+          "text": "Moskov's skin Infernal Wyrmlord skin is first ever skin to receive \"Stunning Special Effects\".",
+          "formatting": {
+            "bold": [
+              "Stunning Special Effects"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Crow Princess of Askati Forest\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As princess of the Crow Clan of Askati Forest, she was born with mutated blood."
+          },
+          {
+            "text": "The mutation could gain her amazing abilities if she is awakened."
+          },
+          {
+            "text": "When Alice invaded Askati Forest, the awakened Pharsa drove Alice away and lost her eyesight."
+          },
+          {
+            "text": "After that, her lover turned himself into a crow to replace her eyes."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "1",
+          "14"
+        ],
+        "template": "birthday"
+      },
+      {
+        "name": "Alice",
+        "template": "hi"
+      },
+      {
+        "name": "Alice",
+        "template": "hi"
+      },
+      {
+        "text": "Crow Princess of Askati Forest",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "full_name": {
+          "text": "Princess Pharsa of Crow Clan"
+        },
+        "chinese_name": {
+          "text": "法莎 (Fǎshā)"
+        },
+        "origin": {
+          "text": "Askati Forest"
+        },
+        "age": {
+          "text": "52",
+          "number": 52
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "weapons": {
+          "text": "Magic staff"
+        },
+        "abilities": {
+          "text": "Disintegrates into a mist and wraps around Verri for quick travel",
+          "links": [
+            {
+              "text": "Disintegrates into a mist and wraps around Verri for quick travel",
+              "type": "internal",
+              "page": "",
+              "anchor": "Special"
+            }
+          ]
+        },
+        "ethnicity": {
+          "text": "Crow people"
+        },
+        "height": {
+          "text": "197cm"
+        },
+        "relationships": {
+          "text": "*Osana (ancestor)\n*Verri (spouse)\n* (enemy)"
+        }
+      },
+      {
+        "name": {
+          "text": "Verri"
+        },
+        "image": {
+          "text": "Unused Verri icon.png"
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "affiliation": {
+          "text": "Crow clan"
+        },
+        "abilities": {
+          "text": "Shapeshifts into a crow"
+        },
+        "relationships": {
+          "text": "*Pharsa (Spouse)\n* (enemy)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Bio",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Crow people of Askati Forest are one of the oldest races to still exist in the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Askati Forest"
+              },
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "This race was united by the Crow King, Osana, under whose venerable leadership they perfected the art of Sky Magic."
+          },
+          {
+            "text": "This unique school of magic allows its wielder to transform into a bird, soar across the skies, and grants the ability to strike from enormous distances, however, only those who have had their blood \"awakened\" can use it."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The noble Princess Pharsa was born with an unknown type of blood which was said to hold enormous potential if awakened, but as hard as they tried, the baffled people of her tribe failed to unleash its true power."
+          },
+          {
+            "text": "Soon enough, Pharsa’s special blood became a burden, as ill-intentioned opportunists from across the land sought to reap it for their own benefit."
+          },
+          {
+            "text": "On the day of Pharsa’s wedding, the tyrannical witch, Alice invaded the Askati Forest, mercilessly slaying countless Crows and leaving a smoldering trail of ruin in her wake.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alice"
+              }
+            ]
+          },
+          {
+            "text": "Numbed to the core by the carnage surrounding her, Pharsa dropped Osana's ancient crown to the floor."
+          },
+          {
+            "text": "Her appearance began to change, as unprecedented power coursed through her veins—her blood had been awakened."
+          },
+          {
+            "text": "Pharsa’s eyes clouded over, as one side of her hair turned pure white, and she soared into the sky to unleash a torrential assault of horrifying magical power, fierce enough to drive Alice away."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Verri, the love of her life, couldn’t bear to see his betrothed suffer a life of blindness alone, and chose to accompany Pharsa wherever she went, utilizing his own magic to become permanently linked to Pharsa, and allowing her to see through his eyes."
+          },
+          {
+            "text": "Pharsa wishes her power had never been awakened, she wishes even more that her home had not been destroyed, but that witch took everything from her, and now it was time for revenge..."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Magic Power"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Pharsa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Wings by Wings"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Pharsa"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Spiritual Unity",
+        "image-2": "Spiritual Unity Buff",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Slow",
+        "description": "Every 8 seconds, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy hero, dealing 8% extra equal to the target's  (+1% for every 200  owned) and slowing them by 60% for 1 second.",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Movement Speed",
+        "cooldown": "8.0",
+        "notes": "*If uses  immediately when Verri is flying towards the target, neither damage nor effect is applied to the target while the passive still goes on cooldown.\n*Verri is also unsighted if  is concealed.",
+        "variations-1": "Neobeast 2",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-425",
+        "total-mp": "120",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Pharsa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Spiritual Unity"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Energy Impact"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Feathered Air Strike"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Curse of Crow",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "description": "Pharsa unleashes a blast of magic at the target location, dealing to enemies hit and marking them for 4 seconds. Pharsa's subsequent attack against marked enemies will consume the mark and stun them for 1 second.",
+        "term-1": "Stun",
+        "term-2": "Magic Damage Skill",
+        "spellvamp-ratio": "50%",
+        "cooldown": "8.0 / 7.6 /7.2/ 6.8 /6.4 / 6.0",
+        "mana-cost": "60 / 66 / 72 / 78.0 / 84 / 90",
+        "level-scaling": "Base Damage: 300 / 325 / 350 / 375 /400/ 425",
+        "notes": "*Affected enemies are revealed.\n*The subsequent attack in the description only consider the following:\n**'s basic attack\n**\n**\n**\n*Being hit again by the ability reapplies the debuff.",
+        "variations-1": "Neobeast 2",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "525-700",
+        "total-mp": "145",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Energy Impact",
+        "skill-effect-1": "AOE",
+        "description": "Pharsa releases magic energy in the target direction, dealing to enemies hit.",
+        "term-1": "Magic Damage Skill",
+        "spellvamp-ratio": "50%",
+        "cooldown": "5.0",
+        "mana-cost": "50 / 56 / 62 / 68 / 74 / 80",
+        "level-scaling": "Base Damage: 525 / 560 / 595 / 630 / 665 / 700",
+        "variations-1": "Neobeast 2",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "570-870",
+          "md"
+        ],
+        "total-mp": "160",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Pharsa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Wings by Wings"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Recall"
+        ],
+        "template": "ai"
+      },
+      {
+        "image": "Feathered Air Strike",
+        "image-2": "Feathered Air Strike 2",
+        "name": "Feathered Air Strike",
+        "skill-effect-1": "Burst",
+        "description": "Pharsa takes flight for 8 seconds and bombards the target location, dealing to enemies within the area. This skill can be cast up to 4 times within the duration.",
+        "term-1": "Magic Damage Skill",
+        "spellvamp-ratio": "50%",
+        "cooldown": "36.0 / 33.0 / 30.0",
+        "mana-cost": "120 / 150 / 180",
+        "duration": "8",
+        "level-scaling": "Base Damage: 570 / 720 / 870",
+        "notes": "*The ability has an estimate range of 9.5 and hitbox of 1.9.\n* can cast any other abilities, battle spells and equipments, except for and  without canceling this ability.\n*The casting of the ability is also the first cast.",
+        "bugs": "*On Pharsa's official hero spotlight at www.mobilelgends.com, it erroneously categorized Energy Impact as \"3rd Skill.\"",
+        "variations-1": "Neobeast 2",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Special",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ii"
+      },
+      {
+        "image": "Wings by Wings",
+        "image-2": "Wings by Wings 2",
+        "name": "Wings by Wings",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "Speed Up",
+        "description": "Pharsa turns into mist and wraps herself around Verri, gaining 150% extra Movement Speed (decaying over time) and the ability to fly over terrain. This state lasts up to 5 seconds or until she uses a or skills, or is controlled.",
+        "term-1": "Ignore Obstacles",
+        "term-2": "Movement Speed",
+        "cooldown": "23.0",
+        "duration": "5",
+        "notes": "*The camera height raises within the skill channeling.",
+        "bugs": "*On Pharsa's official hero spotlight at www.mobilelgends.com, it erroneously categorized Wings by Wings as an \"Ultimate\".",
+        "variations-1": "Neobeast 2",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Pharsa could be a reference to ancient Egyptian royalty, as the word \"Pharaoh\" has connotations of power, majesty, and divine authority. This could reflect Pharsa’s dominant presence in battle and her command over flight and magical energy.",
+          "formatting": {
+            "bold": [
+              "Egyptian royalty",
+              "\"Pharaoh\"",
+              "power",
+              "majesty",
+              "divine authority",
+              "dominant presence",
+              "command over flight and magical energy"
+            ]
+          }
+        },
+        {
+          "text": "\"Pharsa\" could be inspired by the Arabic word for \"bird\" or \"eagle,\" which fits Pharsa's avian and flight-based abilities. As a mage hero with a powerful bird companion and the ability to soar through the air, this interpretation aligns well with her design and skillset.",
+          "formatting": {
+            "bold": [
+              "\"Pharsa\"",
+              "\"bird\"",
+              "\"eagle,\"",
+              "avian",
+              "flight-based abilities",
+              "mage hero"
+            ]
+          }
+        },
+        {
+          "text": "Her name could be also based on Persian word, Parsa meaning pious or devout."
+        },
+        {
+          "text": "Pharsa's character might be inspired by the Irish goddess of Vengeance, Morrìgàn, who also often takes the shape of a Crow and is portrayed wearing a feathered cape.",
+          "links": [
+            {
+              "text": "Morrìgàn",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "The Morrígan"
+            }
+          ]
+        },
+        {
+          "text": "As princess of the Crow Clan of Askati Forest, she was born with mutated blood."
+        },
+        {
+          "text": "Prior to her revamp, she was temporarily banned in Brawl games as her ultimate skill gave a huge disadvantage to her enemies due to its short cooldown, range, and damage.",
+          "links": [
+            {
+              "text": "Brawl games",
+              "type": "internal",
+              "page": "Brawl"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

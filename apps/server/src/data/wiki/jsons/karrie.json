@@ -1,0 +1,316 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A Yasson marksman who came from another dimension. Summoned by the prophet, she is determined to break the prophecy.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Karrie was trained by the Empire to become a war machine from when she was a child because of her incredible talent."
+          },
+          {
+            "text": "After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A Yasson marksman who came from another dimension. Summoned by the prophet, she is determined to break the prophecy.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Lost Star"
+        },
+        "origin": {
+          "text": "Alaghat",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Alaghat"
+            }
+          ]
+        },
+        "species": {
+          "text": "Yasson"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "weapons": {
+          "text": "Speedy Lightwheel"
+        },
+        "en_va": {
+          "text": "Feena Glynn",
+          "links": [
+            {
+              "text": "Feena Glynn",
+              "type": "internal",
+              "page": "imdb:nm8441206"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Daimon Kami (大門 香実)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Alaghat is a mysterious technique empire."
+          },
+          {
+            "text": "There lives a strange humanoid race - Yasson."
+          },
+          {
+            "text": "They are in human form while having a pair of deformed feet."
+          },
+          {
+            "text": "They are agile and born to fight."
+          },
+          {
+            "text": "They are also good at techniques that allow them to create a significant civilization and to invade others."
+          },
+          {
+            "text": "Since Karrie was a child, she was very talented and trained into an excellent and arrogant warrior leader."
+          },
+          {
+            "text": "But at the same time, she lost her feelings and became a machine."
+          },
+          {
+            "text": "During one battle, she was overconfident and got seriously injured."
+          },
+          {
+            "text": "But a prophet from another race saved her and injected his consciousness into her brain."
+          },
+          {
+            "text": "Since then there has been a voice in her head; the prophet told her that the ruin of her empire is about to come and there will be no Yasson anymore."
+          },
+          {
+            "text": "After her escape from death, Karrie didn't believe the voice in her head."
+          },
+          {
+            "text": "But she started to suspect it was right after returning to her empire."
+          },
+          {
+            "text": "In order to save her empire, and for her own redemption, Karrie chose to believe and came to the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "What kind of destiny is waiting for her?"
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "variations-1": "Kishin Densetsu",
+        "name": "Lightwheel Mark",
+        "skill-effect-1": "BUFF",
+        "description": "Karrie's Basic Attacks and skills apply a stack of Lightwheel Mark on hit. Once a target has 5 stacks of Lightwheel Marks, the marks will turn into a lightwheel, dealing True Damage equal to 6%-8% of the target's Max HP to them (only up to 300 damage against Creeps).",
+        "term-1": "True Damage",
+        "term-2": "Max HP",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-375",
+        "extra-pa": "90",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "150-200",
+        "extra-pa": "20",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Kishin Densetsu",
+        "name": "Spinning Lightwheel",
+        "cooldown": "8.0",
+        "mana-cost": "40 / 45 / 50 / 55 / 60 / 65",
+        "description": "Karrie releases a sphere of surging energy in the target direction, dealing to enemies in its path. The sphere will stop upon hitting an enemy hero or reaching its max travel distance, continuously dealing  to nearby enemies and slowing them by 80% for 1s.",
+        "ls-1": "Base Damage: 250 / 275 / 300 / 325 / 350 / 375",
+        "ls-2": "Sustained Damage: 150 / 160 / 170 / 180 / 190 / 200",
+        "term-1": "Physical Skill",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-275",
+        "extra-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Kishin Densetsu",
+        "name": "Phantom Step",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Damage",
+        "cooldown": "4.5 / 4.1 / 3.7 / 3.3 / 2.9 / 2.5",
+        "mana-cost": "35 / 40 / 45 / 50 / 55 / 60",
+        "description": "Karrie dashes in the target direction while throwing a lightwheel at the nearest enemy, dealing and applying a stack of Lightwheel Mark on them. When in Dual Wield state, Karrie throws two lightwheels instead.",
+        "ls-1": "Base Damage: 150 / 175 / 200 / 225 / 250 / 275",
+        "term-1": "Blink",
+        "term-2": "Physical Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "variations-1": "Kishin Densetsu",
+        "name": "Speedy Lightwheel",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "Burst",
+        "cooldown": "35.0",
+        "mana-cost": "70 / 80 / 90",
+        "description": "Karrie enters Dual Wield state for 6s, during which she gains 20% Movement Speed and throws two lightwheels with each Basic Attack, each dealing 50-70% Basic Attack damage annd inheriting a portion of Attack Effects.",
+        "ls-1": "Duration: 6 / 8 / 10",
+        "ls-2": "Attack Damage: 50% / 60% / 70%",
+        "ls-3": "Attack Effect: 50% / 60% / 70%",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Attack Effect",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Physical",
+          "pd"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "True",
+          "td"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Karrie is a feminine given name, primarily an alternate form of Carrie, and a diminutive of Caroline or Carol, meaning \"beloved\" or \"friend\"."
+        },
+        {
+          "text": "Karrie is one of the heroes who can deal more than one type of damage with her skills ( and )."
+        },
+        {
+          "text": "Her second skill \"Phantom Step\" is the reuse skill of the first generation."
+        },
+        {
+          "text": "Her Wheel of Justice skin is based on Bastet.",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Bastet"
+            }
+          ]
+        },
+        {
+          "text": "Karrie was officially released in Mobile Legends in 2017. Her arrival marked a shift in the marksman role, as she was designed to be a tank-buster hero capable of melting through the durability of tanky heroes, something that few other marksmen could do at the time."
+        }
+      ]
+    ]
+  }
+]

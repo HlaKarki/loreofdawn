@@ -1,0 +1,682 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "crit_dmg": "140%",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Adopted daughter of House Vance, a clandestine sniper.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After the death of her father, she was adopted by House Vance and became Harley's sister.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Harley"
+              }
+            ]
+          },
+          {
+            "text": "Lesley regarded her younger brother as everything to her, and kept protecting Harley secretly."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "9",
+          "10"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Fredrinn"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Adopted daughter of House Vance, a clandestine sniper.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Lesley comic.jpg"
+        },
+        "full_name": {
+          "text": "Lesley of House Vance"
+        },
+        "chinese_name": {
+          "text": "莱斯丽 (láisīlì)"
+        },
+        "alias": {
+          "text": "*Deadly Sniper\n*Mysterious Black Sniper"
+        },
+        "origin": {
+          "text": "Castle Grandrock, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Castle Grandrock"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "affiliation": {
+          "text": "House Vance",
+          "links": [
+            {
+              "type": "internal",
+              "page": "House Vance"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Black Vulture\n*Tactical grenade",
+          "links": [
+            {
+              "text": "Tactical grenade",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 2"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Camouflage\n*Sniper rifle proficiency",
+          "links": [
+            {
+              "text": "Camouflage",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "Sniper rifle proficiency",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Unnamed biological father (deceased)\n*Duke Vance (foster father)\n*, (foster brothers)\n* (crush)"
+        },
+        "en_va": {
+          "text": "Natalie Van Sistine",
+          "links": [
+            {
+              "text": "Natalie Van Sistine",
+              "type": "internal",
+              "page": "imdb:nm4630205"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Takada Sakie (高田 紗希衣)",
+          "links": [
+            {
+              "text": "Takada Sakie (高田 紗希衣)",
+              "type": "internal",
+              "page": "imdb:nm11620202"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Clara Dewanti"
+        },
+        "name": {
+          "text": "Lesley"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Lesley grew up in the Vance household, where her father presided over the noble family's security."
+          },
+          {
+            "text": "During an unexpected attack by a rival family, Lesley's father was killed."
+          },
+          {
+            "text": "As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission."
+          },
+          {
+            "text": "Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin."
+          },
+          {
+            "text": "The final tear came as the final shot took down the last of the rival family's men."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Lesley was adopted by the Vance family, with the patriarch of the noble house even putting their sole heir, Harley under her tutelage."
+          },
+          {
+            "text": "Harley, was a natural troublemaker, who used his talents in magic to unintentionally cause trouble for the Vance household."
+          },
+          {
+            "text": "Only Lesley could keep Harley under control."
+          },
+          {
+            "text": "Harley's troublemaking streak was the last part of warmth within Lesley's conscience."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After hearing about how Harley had travelled to the dangerous Land of Dawn after defeating the Boss of Dark Magic, Lesley followed him, along with her trusty heirloom rifle.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "After she found Harley through a long arduous journey, she discovered that the once immature young boy [has] changed through the numerous life experiences he had gone through."
+          },
+          {
+            "text": "She decided it would be best to have her adopted little brother train, alone, while she would silently protect him from within the shadows."
+          },
+          {
+            "text": "From that day on, all the monsters that were inflicted with Harley's magic would also be struck with a black bullet, that would impeccably pierce through their heart."
+          },
+          {
+            "text": "The stories of the magical youngster who was followed by a mysterious black sniper, soon spread across the Land of Dawn, like wild fire."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "50",
+        "total-pa": "100",
+        "list": [
+          "td"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Lethal Shot"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Lethal Shot"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Lethal Shot"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "The Aspirants",
+        "name": "Lethal Shot",
+        "skill-effect-1": "BUFF",
+        "description": "If Lesley doesn't take damage for 5 seconds, her next Basic Attack gains extra range and 50% Critical Chance and deals (20% extra damage against minions). Each point of fixed Physical Penetration Lesley acquires is converted into 0.5% Critical Damage, but her base Critical Damage is reduced to 140%. Lesley's Basic Attack restores 5 points of energy and her  doubles the amount of energy restored. The cooldown of  resets each time Lesley casts a skill.",
+        "term-1": "Crit Rate",
+        "term-2": "Physical PEN",
+        "term-3": "Physical Basic Attack",
+        "notes": "*Instead, inflicts physical damage on turrets. \n*Instead of reducing Lesley's base critical damage to 140%, Lesley's total critical damage is reduced by 60%.\n*The additional critical chance applies only to the enhanced basic attack.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Cooldown"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "The Aspirants",
+        "name": "Master of Camouflage",
+        "skill-effect-1": "Conceal",
+        "skill-effect-2": "BUFF",
+        "cooldown": "5.0 / 4.4 / 3.8 / 3.2 / 2.6 / 2.0",
+        "energy-cost": "30",
+        "description": "Lesley enters the Camouflage state, gaining double Energy Regen, 40% extra Movement Speed, and 85–135 extra . The state lasts 3 seconds or until Lesley takes or deals damage. Enemies can detect Lesley's position through distortions of their surroundings.",
+        "ls-1": "Attack Bonus: 85 / 95 / 105 / 115 / 125 / 135",
+        "term-1": "Camouflage",
+        "term-2": "Physical ATK",
+        "term-3": "Movement Speed",
+        "notes": "* starts after Master of Camouflage ends.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-300",
+        "list": [
+          "50",
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "The Aspirants",
+        "name": "Tactical Grenade",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Blink",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "cooldown": "10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0",
+        "energy-cost": "40",
+        "description": "Lesley throws a tactical grenade in the target direction while slightly jumping back, dealing to enemies in a cone and knocking them back. Lesley can cast this skill during the Ultimate Snipe to cancel the state and immediately fire a Fatal Bullet at the target. The attack is only triggered when there are unfired Fatal Bullets left.",
+        "ls-1": "Base Damage: 150 / 180 / 210 / 240 / 270 / 300",
+        "term-1": "Knocked Back",
+        "term-2": "Blink",
+        "term-3": "Physical Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Lethal Bullets",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "250-350",
+        "extra-pa": "80",
+        "lost-hp": "enemy's 5",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "energy"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "The Aspirants",
+        "name": "Ultimate Snipe",
+        "image-2": "Ultimate Snipe 2",
+        "skill-effect-1": "Burst",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "40.0",
+        "energy-cost": "0",
+        "description": "Lesley [gains vision to nearby enemies and can lock] onto the target enemy hero and fires 4 in succession, each dealing  and restoring 10  on hit. The Bullets can be blocked by other enemy heroes. If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%.  Lesley's Crit Chance is increased by 5%–15%.",
+        "ls-1": "Crit Chance: 5% / 10% / 15%",
+        "ls-2": "Base Damage: 250 / 300 / 350",
+        "ss-1": "Cooldown Reduction: {10%, 20%, 30%, 40%}",
+        "term-1": "Lost HP",
+        "term-2": "Extra Physical ATK",
+        "term-3": "Physical Skill",
+        "notes": "*Lesley can aim for up to 8 seconds.\n*Firing Lethal Bullets lasts up to 3.6 seconds (or earlier if canceled).\n**Each Lethal Bullet is fired for approximately every 0.9 seconds.\n*Cooldown starts right upon cast.\n* will recoil after firing a Lethal Bullet; the recoil is not a blink.\n*Camera height will be raised throughout the skill duration.\n*Lesley will stop firing Lethal Bullets if the locked enemy goes too far.\n*You can hold the skill to choose the target before firing. You can also choose to cancel the skill without shooting it at all (it will still go on cooldown). \n*If the skill is canceled without shooting any, is not revealed to the enemy.\n*The aim range is 11 unit, and max range is 15 unit.\n**The indicator is shown on 's minimap when holding the skill, and the skill does not activate if there are no enemy hero within range.\n**All enemies within range are revealed.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Buff",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Harley-Lesley buff"
+        },
+        "name": {
+          "text": "Lesley buff"
+        },
+        "description": {
+          "text": "Increases both by 10 when battling with [.]"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Lesley_(Deadly_Sniper).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Deadly_Sniper).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Deadly_Sniper).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Royal_Musketeer).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Royal_Musketeer).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Royal_Musketeer).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(General_Rosa).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(General_Rosa).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(General_Rosa).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Cheergunner).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Cheergunner).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Cheergunner).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Stellaris_Ghost).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Stellaris_Ghost).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Stellaris_Ghost).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Dangerous_Love).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Dangerous_Love).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Dangerous_Love).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Angelic_Agent).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Angelic_Agent).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Angelic_Agent).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Lethal_Lady).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Lethal_Lady).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Lethal_Lady).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Falcon_Mistress).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Falcon_Mistress).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Falcon_Mistress).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Hawk-eyed_Sniper).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Hawk-eyed_Sniper).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Hawk-eyed_Sniper).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Deadeye_Spectre).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Deadeye_Spectre).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Deadeye_Spectre).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Meowkin_Hunter).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Meowkin_Hunter).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Meowkin_Hunter).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Lesley_(Duchess_of_Tides).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Duchess_of_Tides).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Duchess_of_Tides).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:;Painted_skins",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3BPainted_skins?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3BPainted_skins"
+          },
+          {
+            "file": "File:<gallery_captionalign=\"center\"_spacing=\"small\"_hideaddbutton=\"true\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22_hideaddbutton%3D%22true%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_captionalign%3D%22center%22_spacing%3D%22small%22_hideaddbutton%3D%22true%22%3E"
+          },
+          {
+            "file": "File:Lesley_(Duchess_of_Depths).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Duchess_of_Depths).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lesley_(Duchess_of_Depths).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yi Sun-shin"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Lesley has Scottish origins and means \"garden of holly\" or \"fortress of holly\". It comes from the Scottish surname Leslie, which was derived from a place name in Scotland. Her name might symbolize her precision, stealth, and resilience, much like a fortress that stands strong or a sharpshooter hiding in the shadows.",
+          "formatting": {
+            "bold": [
+              "Lesley",
+              "\"garden of holly\"",
+              "\"fortress of holly\"",
+              "precision, stealth, and resilience"
+            ],
+            "italic": [
+              "Leslie"
+            ]
+          }
+        },
+        {
+          "text": "Unlike other Marksmen, Lesley doesn’t rely on attack speed, she focuses on high burst damage from critical hits."
+        },
+        {
+          "text": "Lesley is one of the few marksmen in the game who use Energy instead of Mana."
+        },
+        {
+          "text": "Her passive, Lethal Shot, allows her to deal 100% critical damage after gaining extra energy, making her a sniper-type hero rather than a typical ADC (Attack Damage Carry).",
+          "formatting": {
+            "bold": [
+              "Lethal Shot"
+            ]
+          }
+        },
+        {
+          "text": "Both Lesley and 's royal house \"Vance\" means \"Marsh, Mud, and Fen\" in Old English which is used as a masculine given name and surname mostly of American usage"
+        },
+        {
+          "text": "Lesley's Quote; \"Enemy in range, and you are too.\" is a reference from Murphy's Law of Combat.",
+          "formatting": {
+            "italic": [
+              "\"Enemy in range, and you are too.\""
+            ]
+          }
+        },
+        {
+          "text": "Lesley is the first and, so far, the only Marksman/Assassin hero in the game, whereas is an Assassin/Marksman.",
+          "links": [
+            {
+              "text": "Marksman/",
+              "type": "internal",
+              "page": "Marksman"
+            },
+            {
+              "type": "internal",
+              "page": "Assassin"
+            }
+          ]
+        },
+        {
+          "text": "In her early designs, she had shorter hair and a more military-style outfit. The developers later gave her a long coat and a more assassin-like appearance, making her more stylish and deadly."
+        }
+      ]
+    ]
+  }
+]

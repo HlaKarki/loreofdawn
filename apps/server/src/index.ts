@@ -1,7 +1,7 @@
 import "dotenv/config";
 import { trpcServer } from "@hono/trpc-server";
 import { createContext } from "./lib/context";
-import { appRouter } from  "@/routers";
+import { appRouter } from "@/routers";
 import { auth } from "./lib/auth";
 import { Hono } from "hono";
 import { cors } from "hono/cors";
@@ -35,5 +35,12 @@ app.use(
 app.get("/", (c) => {
 	return c.text("OK");
 });
+
+if (import.meta.main) {
+	Bun.serve({
+		fetch: app.fetch.bind(app),
+		idleTimeout: 60 * 3,
+	});
+}
 
 export default app;

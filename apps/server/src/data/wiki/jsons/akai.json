@@ -1,0 +1,935 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "physical_def1": "24",
+        "physical_def15": "118",
+        "magic_def1": "15",
+        "magic_def15": "71",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The almighty panda hero of Stream Valley.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once there was a panda in Stream Valley named Akai.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stream Valley"
+              }
+            ]
+          },
+          {
+            "text": "With the dream of becoming a hero, he was always eager to offer help, but often ended up causing more trouble instead."
+          },
+          {
+            "text": "He worked hard to pursue his dream, and although he'd once wandered off right the path."
+          },
+          {
+            "text": "In the end, he recalled his original intention and become a true hero."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "cite"
+      },
+      {
+        "list": [
+          "3",
+          "9"
+        ],
+        "template": "birthday"
+      },
+      {
+        "text": "The almighty panda hero of Stream Valley.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "*Panda Warrior\n*Panda Punches\n*Foodie Fighter"
+        },
+        "chinese_name": {
+          "text": "阿凯 (ākǎi)"
+        },
+        "born": {
+          "text": "Stream Valley, Cadia Riverlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Stream Valley"
+            },
+            {
+              "type": "internal",
+              "page": "Cadia Riverlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Anthropomorphic panda"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Fisher and fish vendor"
+        },
+        "fighting_style": {
+          "text": "Tai Chi",
+          "links": [
+            {
+              "text": "Tai Chi",
+              "type": "internal",
+              "page": "Akai",
+              "anchor": "Passive"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Bamboo fishing rod"
+        },
+        "abilities": {
+          "text": "Spinning attack",
+          "links": [
+            {
+              "text": "Spinning attack",
+              "type": "internal",
+              "page": "Akai",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Frog Immortal (master)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Frog Immortal"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Katagai Nao (片貝 直生)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "There were no heroes in Stream Valley, only chubby pandas.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stream Valley"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Among them was Akai, a fish seller with a monotonous routine that revolved around fishing and selling his catches."
+          },
+          {
+            "text": "As the days went by, an exhilarating idea gradually formed in his mind: To Become a Hero!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The heroes in legends would wield almighty swords, fight evil dragons, protect people from all harm… Akai clenched his fat fists and devoted himself to all sorts of “heroic deeds.” No matter what troubles is neighbors ran into, be it mending a roof or rescuing a cat, Akai was always the first to offer help."
+          },
+          {
+            "text": "The only problem was… rotund and clumsy as he was, it seemed he’d only caused more trouble instead."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Akai, stop trying to be a hero!” The neighbors didn’t know whether to laugh or cry."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Akai, however, refused to give up easily."
+          },
+          {
+            "text": "And so, one day, when he was out fishing, he dreamed about the four Oriental Fighters of the Cadia Riverlands… “If only I could join their ranks,” Akai said to himself.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oriental Fighters"
+              },
+              {
+                "type": "internal",
+                "page": "Cadia Riverlands"
+              }
+            ]
+          },
+          {
+            "text": "Unknowingly, he began to throw punches and kicks by the creek…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Sluggish punches."
+          },
+          {
+            "text": "Wrong!"
+          },
+          {
+            "text": "Sloppy footwork."
+          },
+          {
+            "text": "Wrong!"
+          },
+          {
+            "text": "Slow reaction."
+          },
+          {
+            "text": "Awful!"
+          },
+          {
+            "text": "Yet you want to become an Oriental Fighters?!”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "An angry roar sounded from within the creek, while Akai’s float shook violently as if something enormous had just taken the bite."
+          },
+          {
+            "text": "Akai, over three hundred pounds as he weighed, was almost dragged into the water!"
+          },
+          {
+            "text": "Finally, whatever was at the end of his rod gave up, and Akai reeled it in."
+          },
+          {
+            "text": "It was – a frog?!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The frog leaped atop Akai’s head, stroking his goatee and claimed himself the Frog Immortal, a disciple of the Great Dragon who drifted down the creek from the Dragon Altar.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frog Immortal"
+              },
+              {
+                "type": "internal",
+                "page": "Great Dragon"
+              },
+              {
+                "type": "internal",
+                "page": "Dragon Altar"
+              }
+            ]
+          },
+          {
+            "text": "He said Akai was a natural for martial arts, and that if Akai underwent his training, he’d definitely become an unparalleled hero – on one condition, of course: Akai gave him all his bait."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The story about the chubby panda disciple and his little frog master thus began!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The first year of training under his new found master was exhausting, yet Akai was thrilled!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The second year… was also quite exhausting, but the ever-persistent panda carried on still!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The third year was ever so exhausting, and Akai was just about to give up…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under the guidance of the Frog Immortal, Akai gradually grasped the hang of martial arts and developed his namesake moves – Panda Punches!"
+          },
+          {
+            "text": "As he proudly called it."
+          },
+          {
+            "text": "With his relatively refined moves and years of training, Akai could easily catch petty thieves and chase away wild beasts."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When he wasn’t chasing thieves and saving villages, however, the panda disciple and his frog master would fish together by the creek."
+          },
+          {
+            "text": "The frog often sat on Akai’s shoulder as they watched the serene view before them."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Everything seemed to be going in the right direction, except… Akai’s weapon was still just an old fishing rod, and his chubby shape still nothing like that of a true hero."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“We martial artists never look down on ourselves!” said the Frog Immortal with a stern look."
+          },
+          {
+            "text": "“As long as you practice hard–”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“–I’ll become the fifth Oriental Fighter and be praised by everyone?!” Akai interrupted hastily."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Frustrated, the Frog Immortal hopped up and punched Akai’s stomach, “Is that the only reason you practice martial arts?"
+          },
+          {
+            "text": "To be evaluated by others?"
+          },
+          {
+            "text": "To be praised?”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The poor panda nursed his aching stomach, “but master, isn’t that the cool part of being a hero?"
+          },
+          {
+            "text": "To be known by the people and be part of their stories?!”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Becoming a hero is far more than simply being a part of someone’s storybooks."
+          },
+          {
+            "text": "In order to be a true hero, you must make the ultimate sacrifice–” Akai didn’t understand it at the time, but his master knew he would, eventually."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the days after, Akai gradually honed his Panda Punches."
+          },
+          {
+            "text": "He was getting closer to achieving his dream!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, the Oriental Fighters came to Stream Valley on a mission."
+          },
+          {
+            "text": "Akai, who had always been a fan of the four, quickly rushed to the tavern they were staying and peeked from the wall outside: the Oriental Fighters were practicing martial arts in the yard."
+          },
+          {
+            "text": "In pure fanatic wonder, Akai followed their training, their movements so fast however, he could hardly keep up."
+          },
+          {
+            "text": "It didn’t stop him from savoring this moment though!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Oriental Fighters were the four distinguished disciples of the Great Dragon – Zilong, Wanwan, Ling and Baxia.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zilong"
+              },
+              {
+                "type": "internal",
+                "page": "Wanwan"
+              },
+              {
+                "type": "internal",
+                "page": "Ling"
+              },
+              {
+                "type": "internal",
+                "page": "Baxia"
+              }
+            ]
+          },
+          {
+            "text": "Seeing the legendary characters right in front of is eyes, Akai was thrilled beyond belief!"
+          },
+          {
+            "text": "At the same time, however, he found his clumsy punches a far cry from the Oriental Fighters’ masterful moves…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He began to come up with all sorts of excuses to skip Frog Immortal’s martial arts lessons – headaches, backaches, or even fur-aches!"
+          },
+          {
+            "text": "– when actually he was admiring the Oriental Fighters’ every move from the top of the tavern wall."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was during this time that Akai accidentally learned that the Great Dragon had never taken a frog as his disciple, yet there had been one among the servants."
+          },
+          {
+            "text": "This frog, once responsible for helping the Great Dragon catch flies and other bugs, secretly learned martial arts behind the back of the Great Dragon, and was thus expelled from the Dragon Altar by the guards…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I hindsight, Akai realized that he’d already met this frog."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After learning the truth, Akai stopped going to the Frog Immortal to learn martial arts."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Without telling anyone, Akai set off to the Dragon Altar."
+          },
+          {
+            "text": "He wanted to learn true martial arts fro the Great Dragon himself, to become a real hero and protect Stream Valley!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A panda, wanting to learn martial arts?"
+          },
+          {
+            "text": "The Oriental Fighters were amused by this chubby country boy and so taught him a move or two from time to time."
+          },
+          {
+            "text": "Akai flourished under the training of Zilong, Wanwan, Ling and Baxia."
+          },
+          {
+            "text": "“I’ll introduce you to master.” Zilong promised Akai before the Great Dragon was about to end his solitary meditation."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“I’m about to become a hero!” Akai was carried away by this thought and forgot all about how he hadn’t even said goodbye to the Frog Immortal."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And then the disaster struck."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After expelling the Evil God, Lieh, Yu Zhong headed straight to the Dragon Altar with his men.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lieh"
+              },
+              {
+                "type": "internal",
+                "page": "Yu Zhong"
+              }
+            ]
+          },
+          {
+            "text": "He wanted to slay the Great Dragon and seize the divine throne!"
+          },
+          {
+            "text": "The four Oriental Fighters went to fight him in haste."
+          },
+          {
+            "text": "As soon as they left, however, the mischievous Chang'e let Sun out.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chang'e"
+              },
+              {
+                "type": "internal",
+                "page": "Sun"
+              }
+            ]
+          },
+          {
+            "text": "Having been locked up by the Great Dragon for centuries, Sun was furious when he heard his hometown had been occupied by pandas in his absence!"
+          },
+          {
+            "text": "With his Golden Staff in hand, Sun rushed to Stream Valley, vowing to eliminate them all and taking the land back.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Golden Staff"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Akai was caught in a dilemma."
+          },
+          {
+            "text": "He wanted to follow the Oriental Fighters to fight Yu Zhong and distinguish himself before the Great Dragon, but on the other side, the armless pandas simply had no chance against the frenzied Sun!"
+          },
+          {
+            "text": "Wait, there was also a frog–"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Akai left something was missing on his shoulder."
+          },
+          {
+            "text": "He turned his head and realized it was the spot where the Frog Immortal uses to sit…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In that moment, Akai remembered his master’s words and the true reason he wanted to become a hero suddenly rushed back to his mind."
+          },
+          {
+            "text": "He knew what he should do!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“A true hero fights for the people, not for glory!”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The storytellers of Stream Valley got a new story to tell – the Tale of the Almighty Panda!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That day, Sun smashed his Golden Staff at the entrance to Stream Valley, roaring in rage that he’d wipe out all the pandas!"
+          },
+          {
+            "text": "Just as the peaceful land was about to meet its doom, an aged frog staggered forth from the trembling crowd and fought Sun alone!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Frog Immortal was thrown away by Sun in merely a few rounds, when a fishing rod caught him in mid-air – it was our Panda Hero, Akai!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Akai and the Frog Immortal joined hands and fought Sun together."
+          },
+          {
+            "text": "At the most critical moment, Akai parried Sun’s staff with his exclusive Panda move."
+          },
+          {
+            "text": "Taken by surprise by this panda’s moxie and prowess, Sun retracted his Golden Staff, “hmm."
+          },
+          {
+            "text": "You’re not bad for a flabby panda.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "“Not just panda, I’m the panda, Akai.”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Amused, Sun gave him a moment to speak the truth, and the misunderstanding was solved."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Before Akai could even apologize to his master, the Frog Immortal leaped high and punched him square in the stomach."
+          },
+          {
+            "text": "“You brat!"
+          },
+          {
+            "text": "Skipping so many training sessions!"
+          },
+          {
+            "text": "Did you practice what I taught you today?!”"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Once the threat was settled and done, the master and disciple fish together by the creek of Stream Valley."
+          },
+          {
+            "text": "Akai dividing the earthworms: one for his fish, one for his master, another for fish, another for master…"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "25",
+        "total-hp": "5",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "25",
+        "total-hp": "5",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "image-2": "Tai Chi BUFF",
+        "name": "Tai Chi",
+        "skill-effect-1": "Buff",
+        "description": "Akai gains a for 4 seconds on each skill cast and can marks enemy heroes and Creeps hit by his skills. Akai's Basic Attacks deal  extra  to mark enemies.",
+        "term-1": "Shield",
+        "notes": "*The duration and absorption of the shield are refreshed upon skill casting, but they cannot be stacked.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-400",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Headbutt"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Heavy Spin"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "name": "Headbutt",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "CC",
+        "cooldown": "13.0 / 12.4 / 11.8 / 11.2 / 10.6 / 10.0",
+        "mana-cost": "70 / 80 / 90 / 100 / 110 / 120",
+        "description": "Akai charges in the target direction, dealing to enemies along the away. If Akai hits an enemy hero during this process, he'll knocks them airborne for 0.5 seconds and be able to roll in the Joystick's direction once. Akai can cast  during  to quickly adjust his position.",
+        "properties": "*Base Damage: 300 / 320 / 340 / 360 / 380 / 400",
+        "term-1": "Blink",
+        "term-2": "Stunn",
+        "term-3": "Movement Speed",
+        "notes": "*Despite its description, Headbutt's \"charge\" is technically a blink.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "270-420",
+        "total-hp": "6",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "name": "Body Slam",
+        "skill-effect-1": "AOE",
+        "cooldown": "7.0 / 6.7 / 6.4 / 6.1 / 5.8 / 5.5",
+        "mana-cost": "70 / 75 / 80 / 85 / 90 / 95",
+        "description": "Akai smashes the ground with his body, dealing to nearby enemies and slowing them by 45% for 2 seconds.",
+        "ls-1": "Base Damage: 270 / 300 / 330 / 360 / 390 / 420",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Max HP",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-450",
+        "extra-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Tai Chi"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Thunder Belt"
+        ],
+        "template": "ii"
+      },
+      {
+        "text": "[how long?]",
+        "template": "sup"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Kung Fu Panda",
+        "name": "Heavy Spin",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "skill-type-1": "Physical Skill",
+        "cooldown": "40.0 / 36.0 / 32.0",
+        "mana-cost": "120",
+        "description": "Akai removes all debuffs on him and spins for 4 seconds, gaining Slow Immunity while continuously dealing to nearby enemies and knocking them back. Enemies heroes knocked back will knock back other heroes they collide with during the process. Akai also gradually increases his Movement Speed to 70% over the duration. This skill can only be interrupted by Suppression and Morph effects.",
+        "properties": "*Damage Per Hit: 200 / 325 / 450",
+        "term-1": "Displacement",
+        "term-2": "Exceptional Status",
+        "term-3": "Slow Immunity",
+        "notes": "*When canceling this skill, it does not trigger, but it does count as casting a skill for passives (such \"Thunderbolt\" from ). \n*Akai can use Heavy Spin again to cancel it 0.5 seconds after the first cast.\n*Heavy Spin damage is reduced to 50% when hitting the same target.\n*This skill also stuns enemies on each collision.[how long?]\n*Entering or leaving 's cancel this ability.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Akai's name (赤い) meaning \"red\" comes from Japanese origin although pandas are endemic in mainland China."
+        },
+        {
+          "text": "His skin \"Monk\" is based off Charon from Moonton's Magic Rush.",
+          "links": [
+            {
+              "text": "Charon",
+              "type": "external",
+              "site": "https://magicrush.wikia.com/wiki/Charon"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Magic Rush"
+            ]
+          }
+        },
+        {
+          "text": "He uses Tai-chi Kung Fu."
+        },
+        {
+          "text": "He resembles Po, the protagonist of the Kung Fu Panda franchise.",
+          "links": [
+            {
+              "text": "Kung Fu Panda franchise",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Kung_Fu_Panda"
+            }
+          ]
+        },
+        {
+          "text": "His internal name is xiongmao which translates to panda."
+        },
+        {
+          "text": "Although his skill 1 name says headbutt he uses his belly. His skill 2 In advance server uses his belly to slam but in the original server he uses his butt to slam."
+        },
+        {
+          "text": "His companion is not present in-game battle."
+        },
+        {
+          "text": "His old skin Soccer Titan use football to attack enemies, he also turns into ball in his ultimate form."
+        },
+        {
+          "text": "Akazonae (or Akasonae) is a Japanese word which means \"red and blue\" while Samurai were the military nobility and officer caste of medieval and early-modern Japan.",
+          "formatting": {
+            "italic": [
+              "\"red and blue\" "
+            ]
+          }
+        },
+        {
+          "text": "He has the very first season first purchase skin, starting from Season 14.",
+          "links": [
+            {
+              "text": "first purchase",
+              "type": "internal",
+              "page": "first purchase"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

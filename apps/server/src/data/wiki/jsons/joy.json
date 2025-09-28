@@ -1,0 +1,898 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The \"Child of Miracle\" who returned to the Leonins after years of wandering.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Agile and cunning, known as the most infamous \"petty thief\" in Lumina City, Joy had longed to have her stomach filled and her heart warmed."
+          },
+          {
+            "text": "In a fortunate turn of events, Joy returned to the Leonins' land, her wandering heart healed by the simple and unconditional love of her kin."
+          },
+          {
+            "text": "She no longer feared losing love again and vowed to protect those around her, to turn into a golden flash resonating with home..."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Joy's_info_card.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Joy's_info_card.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Joy's_info_card.png"
+          }
+        ]
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "list": [
+          "5",
+          "31"
+        ],
+        "template": "birthday"
+      },
+      {
+        "text": "The \"Child of Miracle\" who returned to the Leonins after years of wandering.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Home Sweet Home.jpg"
+        },
+        "alias": {
+          "text": "*Flash of Miracle\n*Child of Miracle\n*Petty Thief"
+        },
+        "born": {
+          "text": "Gleaming Marsh, Azrya Woodlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Gleaming Marsh"
+            },
+            {
+              "type": "internal",
+              "page": "Azrya Woodlands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Leonin",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Leonin"
+            }
+          ]
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "traits": {
+          "text": "Crafty, devious and tenacious"
+        },
+        "relationships": {
+          "text": "*Unnamed deceased parents\n*\"Granny\" Susan (guardian, deceased)\n* (companion)\n*Volta (friend)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Volta"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Moriyama Yukira (森山 由梨佳)"
+        },
+        "id_va": {
+          "text": "Adinda Mia Larasati"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "I, Joy",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Who am I?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The moment the lightning struck her chest, the Leonin girl couldn't help but think about this question."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She had been searching for an answer all this time."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"You're granny's favorite lovebunny.\""
+          },
+          {
+            "text": "This was the answer she received from her adoptive grandmother."
+          },
+          {
+            "text": "For as long as she could remember, they had lived in the slums of Lumina City."
+          },
+          {
+            "text": "Though grandma was poor, she could always find a way to keep the girl fed and put her to sleep."
+          },
+          {
+            "text": "During that time, the magic necklace on the girl's chest would always be beating slightly to the lullaby."
+          },
+          {
+            "text": "According to her grandmother, she was already wearing the necklace when she was discovered."
+          },
+          {
+            "text": "One, two, three, four!"
+          },
+          {
+            "text": "It was like the beats of love."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, grandma never woke up again... The girl stood by the frozen body for days, but couldn't find a way to wake her grandma up."
+          },
+          {
+            "text": "The beating of the necklace on the girl's chest became slower and lighter."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One... Two... Three... Four..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was as if her heart was being tightly grasped by a pair of large hands, and she could never hear the lullaby again."
+          },
+          {
+            "text": "It was that day that the girl learned of death, learned of the impermanence of love."
+          },
+          {
+            "text": "No matter how hard she tried, it would always disappear in the end."
+          },
+          {
+            "text": "For no reason!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As she wiped away her tears, she thought about where she would find some warm bread."
+          },
+          {
+            "text": "The girl began to wander."
+          },
+          {
+            "text": "Though life had always been sorrowful, it had also taught her many tricks."
+          },
+          {
+            "text": "She learned to sneak into stores to steal food, slip away from the city guard, and even fight stray cats for nourishment."
+          },
+          {
+            "text": "Her Leonin magic was strong enough to protect the girl, turning the bitterness of her life into a sweet cake."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "During those days, the answer she would most commonly hear was \"a thief that brings shame to the Leonin clan\"."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She remembered these words from Harith, an enforcer of the Imperial Army."
+          },
+          {
+            "text": "He was upset that the girl was tarnishing the clan's reputation of honesty and kindness."
+          },
+          {
+            "text": "Despite all attempts at reprimands and punishment, the girl never changed."
+          },
+          {
+            "text": "Harith's anger grew greater and greater, until one day he found that the girl had never returned to the Leonin clan... never knew who she was."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Lumina City was large enough that wanderers would often lose sight of themselves."
+          },
+          {
+            "text": "The Leonin girl didn't know that she had a choice other than wandering."
+          },
+          {
+            "text": "After several fights, Harith finally managed to bring the girl back to her homeland, the Gleaming Marsh."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Located in the central Azrya Woodlands, the Gleaming Marsh has been home to generations of Leonins."
+          },
+          {
+            "text": "Years of wandering had put the girl on her guard."
+          },
+          {
+            "text": "Always vigilant, she was like a stray cat that had been forcibly adopted."
+          },
+          {
+            "text": "All she wanted was to escape her new home."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The patriarch of the Leonins gave the girl her third answer, \"a miracle child, one that will fulfill the prophecy of the Leonin clan\"."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Years ago, on a stormy night, a girl was born into the Marsh holding the \"Leonin Crystal\"."
+          },
+          {
+            "text": "In the ancient prophecies of the clan, she was known as the \"miracle child\" who would save their people."
+          },
+          {
+            "text": "But when the girl was just three years old, she fell into a river by accident..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The patriarch took the girl to the Leonin Temple, where the Leonin Crystal was enshrined... The shape was the same as the necklace on the girl's chest."
+          },
+          {
+            "text": "They began to resonate."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One, two, three, four!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was as if grandma's song was sung again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But even prophecy was not able to change the girl's habits."
+          },
+          {
+            "text": "She continued to play tricks on those around her and lie to get her hands on delicious food."
+          },
+          {
+            "text": "She even threw a BBQ party in the Leonin Temple!"
+          },
+          {
+            "text": "Even the other kids who didn't take kindly to the girl had no way to handle her."
+          },
+          {
+            "text": "Whenever the kind and simple Leonin villagers showed concern or kindness towards her, they always reminded the girl of that moment she felt her heartbeat slow... Of the tingling feeling she never wanted to experience again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I don't need to care about who I am here... I hope that things can remain this way forever\"."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But the thunder in the middle of a night broke the girl's dreams."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This abyssal thunderstorm seemed as if it was going to wipe everything away."
+          },
+          {
+            "text": "The girl was terrified... She was the \"miracle child\", one who had been given so much drink and food for free... They were definitely going to ask her to save them!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But the request that came from the patriarch was that she runs away to a safe place."
+          },
+          {
+            "text": "The Leonins had no intention of sacrificing a child for the sake of prophecy."
+          },
+          {
+            "text": "They cared for her not because they wanted something... but rather because they had pity for an orphan."
+          },
+          {
+            "text": "The Leonins were returning the girl's freedom, just as if she was a child who had left home."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Looking up, the girl saw that the temple was about to collapse under the pressure of the thunderstorm."
+          },
+          {
+            "text": "The shivering Leonins had surrounded the temple, trying their best to keep it supported with magic."
+          },
+          {
+            "text": "Closing their eyes and praying, they thought back to their families for peace of mind."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The necklace on her chest began to beat once more, slowly and lightly."
+          },
+          {
+            "text": "Was she going to lose her new home the same way she lost her grandmother?"
+          },
+          {
+            "text": "As another bright bolt of lightning stuck out from the sky, the temple began to collapse."
+          },
+          {
+            "text": "Suddenly... that girl managed to withstand the lightning bolt!"
+          },
+          {
+            "text": "Running back and forth through the thunderstorm, she absorbed the lightning in her body, preventing it from damaging the temple any further."
+          },
+          {
+            "text": "She continued to run and roll at high speed, until a bolt of lightning struck her in the chest."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Who am I?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It was at that moment that she found her answer."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Leonin Crystal in the temple vibrated together with the necklace."
+          },
+          {
+            "text": "One, two, three, four!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I used to be an orphan.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Leonins and the Crystal surged with magical energy oozing from the girl, as if a blessing from home."
+          },
+          {
+            "text": "The light spread to her ears and legs...illuminating her whole body."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I've stolen food and done many bad things...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The girl continued running, becoming faster and faster, to the point where nothing could stop her."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"But at this moment, I'm a child loved by all... The miracle child of the Leonins!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She no longer feared losing love... Instead, she would use her life to protect those that she loved."
+          },
+          {
+            "text": "The light on the girl's body grew brighter and brighter."
+          },
+          {
+            "text": "Like a golden flash, it slashed towards the dark clouds above her head."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"I! AM! JOY!\""
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Joy_lore.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Joy_lore.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Joy_lore.png",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:Joy_lore_2.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Joy_lore_2.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Joy_lore_2.png",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Character Arc",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Joy_Character_Arc.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Joy_Character_Arc.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Joy_Character_Arc.jpg",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Home Sweet Home",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Home Sweet Home"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Glimmer Amidst the Icy Night",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Glimmer Amidst the Icy Night"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Angry!",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Leonin Crystal",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "65",
+        "total-pa": "65",
+        "template": "scale"
+      },
+      {
+        "total-mp": "65",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "image-2": "Humph, Joy's Angry! BUFF",
+        "name": "Humph, Joy's Angry!",
+        "skill-effect-1": "BUFF",
+        "description": "Joy becomes each time her skill hits a non-Minion enemy, dealing 100 . Magic Damage and increasing her Movement Speed by 60% that decays over 4s (hitting the  will also grant the Movement Speed effect). This effect has a cooldown of 4s for each target. Joy's Basic Attack will deal \n.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Leonin Crystal",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "200",
+        "total-mp": "40",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Meow, Rhythm of Joy!"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Look, Leonin Crystal!",
+        "skill-effect-1": "Summon",
+        "cooldown": "4.0",
+        "description": "Joy summons a at the target location, dealing  to nearby enemies and slowing them by 30% for 1s. The Leonin Crystal lasts 2 seconds and can be used as a springboard for her second skill,.",
+        "level-scaling": "Base Damage: 200 / 220 / 240 /260 / 280 / 300",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "120",
+        "total-mp": "40",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Leonin Crystal",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Beat Energy"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "80",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Meow, Rhythm of Joy!",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Damage",
+        "cooldown": "8.0",
+        "description": "Joy dashes in the target direction, dealing to enemies in her path. Hitting an enemy or the  allows Joy to cast this skill again within 0.8 seconds and gain 1 . Casting this skill on the beat increases the skill damage by 100% and grants a  shield that lasts 3s. This skill can be cast up to 4 times in succession.",
+        "level-scaling": "Base Damage: 120 / 138 / 156 / 174 / 192 / 210\nShield: 80 / 90 / 100 / 110 / 120 / 130",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "15",
+        "total-mp": "10",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "120",
+        "total-mp": "40",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Meow, Rhythm of Joy!",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Meow, Rhythm of Joy!",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Beat Energy",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Beat Energy",
+          "E"
+        ],
+        "template": "b"
+      },
+      {
+        "image-2": "Ha, Electrifying Beats! 2",
+        "name": "Ha, Electrifying Beats!",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Speed Up",
+        "cooldown": "28.0",
+        "description": "Joy increases her Physical & Magic Defense by and gains 30% Movement Speed. Over the next 4s, she pulses 8 times, dealing  each time to nearby enemies. Each  cast on the beat increases this skill's damage by 40%. If perfect rhythm is achieved by hitting every beat with, Joy also gains 40% Spell Vamp while this skill is active. This skill unlocks when Joy acquires . Casting this skill with 3  will remove all debuffs on Joy and make her immune to slow effects while this skill is active.",
+        "level-scaling": "Base Damage: 120/ 160 / 200\nBoth Defense Increase: 15/ 20 / 25",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Other official artwork",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Everything-about-Joy-1.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Everything-about-Joy-1.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Everything-about-Joy-1.png"
+          },
+          {
+            "file": "File:Everything-about-Joy-2.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Everything-about-Joy-2.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Everything-about-Joy-2.png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Nana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Aulus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fredrinn"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name \"Joy\" represents her playful and energetic nature. Her voice lines are cheerful and enthusiastic, showing her youthful and fun-loving personality."
+        },
+        {
+          "text": "She is the 4th Leonin to be introduced in the game along with, and.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Leonin"
+            }
+          ]
+        },
+        {
+          "text": "She has cat-like ears, a playful personality, and makes cute purring and meowing sounds in some of her voice lines. Even her Ultimate, \"Ha, Electrifying Beats!\", has her leaping around like a hyperactive kitten."
+        },
+        {
+          "text": "Joy is the first hero to accompany rhythm through her skills, akin to a rhythm game.",
+          "links": [
+            {
+              "text": "rhythm",
+              "type": "internal",
+              "page": "Wp:Rhythm"
+            },
+            {
+              "text": "rhythm game",
+              "type": "internal",
+              "page": "Wp:Rhythm game"
+            }
+          ]
+        },
+        {
+          "text": "Joy was officially released on 18 November 2022, since the release of on 12 August 2022, making it the longest gap between hero releases at 98 days."
+        }
+      ]
+    ]
+  },
+  {
+    "title": "External links",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "template": "heroes"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Everything About Joy website",
+          "links": [
+            {
+              "text": "Everything About Joy website",
+              "type": "external",
+              "site": "https://sg-play.mobilelegends.com/site2/?appId=117868"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,578 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Nestled between the tundras of the Northern Vale and the Moniyan Plain lies a unique land with a massive and ancient stone formation for which it is named the Megalith Wasteland.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              },
+              {
+                "type": "internal",
+                "page": "Moniyan Plain"
+              },
+              {
+                "type": "internal",
+                "page": "Megalith Wasteland"
+              }
+            ]
+          },
+          {
+            "text": "The Megalith Wasteland must be passed if one is to reach Northern Vale."
+          },
+          {
+            "text": "It was also, Hilda 's homeland.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the resource-scarce Northern Vale, tribal conflict was as constant as the year-long ice and snow."
+          },
+          {
+            "text": "The strongest tribes would earn the rights to possess the largest and easiest hunting grounds."
+          },
+          {
+            "text": "This was even more true for the Garland tribe of the Megalith Wasteland."
+          },
+          {
+            "text": "The perilous geography and barren soil of the Wasteland jad made it incredibly inhospitable for human habitation."
+          },
+          {
+            "text": "Yet, with the protection of the Power of Megalith, this tribe has tenaciously survived there for many years."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The ancient Megalith had stood here for many centuries."
+          },
+          {
+            "text": "Its creators hoped to use its magical powers to confine the Iceland Golems to the north of the continent, preventing them from coming south.",
+            "formatting": {
+              "bold": [
+                "Iceland Golems"
+              ]
+            }
+          },
+          {
+            "text": "As time went by and the Golems faded into extinction, the Megalith's magic also lost it's original purpose."
+          },
+          {
+            "text": "All that remained of it were ancient ruins, flowing with the power of the Megalith that had been passed down through the centuries."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Legend says that only one in who runs the purest bloodline of the Garland clan can lift the plate of stone disc, located at the center of the Megalith, and inherit its power."
+          },
+          {
+            "text": "Thus, when every successor to the tribe's leadership turned 20, he or she would travel to the Megalith, and receive its incredible power, becoming the Power of Megalith.",
+            "formatting": {
+              "bold": [
+                "Power of Megalith"
+              ]
+            }
+          },
+          {
+            "text": "They are would then be ready to lead their tribe against foreign incursions."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ever since she was a child, Hilda had been the subject of great expectations, as her mother, the previous Power of Megalith, was killed in battle while defending the tribe, ten years ago.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "Having lost the protection of the Megalith, the tribe had fallen into a deep crisis, enduring constant plundering and harassment."
+          },
+          {
+            "text": "Hence, the tribespeople placed all their hopes on Hilda, praying as that she would grow strong, and take up the important duty of protecting the tribe.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hilda did not disappoint them.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "From a young age, she demonstrated an exceptional talent for combat, and strength far beyond her age."
+          },
+          {
+            "text": "Within time, she became the tribe's strongest warrior."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Finally, Hilda was to turn 20, and the languishing Garland tribe held a grand ceremony for the event.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "They prayed day and night for the Power of Megalith to be reborn, and hoped that she would return the tribe to its former glory."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yet, as many watched expectantly, Hilda was unable to lift the stone disc, even with all her strength.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "There was a stunned silence until an elder of the tribe stepped forward to tell the truth: Hilda was not the birth daughter of the previous Power of Megalith, but was adopted after being found as an abandoned baby in the wilderness.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The tribespeople, so full of hope and anticipation before, now fell into despair."
+          },
+          {
+            "text": "The faith that had sustained them throughout the years had collapsed in an instant."
+          },
+          {
+            "text": "Their huge and simmering disappointment soon led to rage and prejudice, and they started jostling and cursing Hilda, stating that she was worthless.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "Hearing this, Hilda could hardly stand steady.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As disappointed as the rest, Hilda suddenly remembered her adoptive mother's last words to her: \"The Power of Megalith isn't simply inherited. One must truly understand its inner meaning. Each generation's Power of Megalith has had its own unique meaning. To me, the Power of Megalith is a heart, as resilient and indomitable as a giant boulder.\"",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ],
+              "italic": [
+                "\"The Power of Megalith isn't simply inherited. One must truly understand its inner meaning. Each generation's Power of Megalith has had its own unique meaning. To me, the Power of Megalith is a heart, as resilient and indomitable as a giant boulder.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hilda, filled with frustration, left the Megalith Wasteland, which had been her home of many years, and began a long period of vagrant living.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "During these years, she became a wandering mercenary, and traveled through the Moniyan Empire and almost all the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              },
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Her mother's words never left her during these times."
+          },
+          {
+            "text": "She never backed down, though, no matter what great danger she faced."
+          },
+          {
+            "text": "The constant trials and tribulations she endured had strengthened her greatly, turning her into a warrior as formidable as stone."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And although she had left the Megalith Wasteland behind, Hilda knew that it was where her heart belonged.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "Years later, Hilda rescued a slave from torture, and recognized her as being a member from the Garland tribe.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "From her, Hilda learned of the tribe's current condition: after Hilda had left, the Garland tribe chose a new Power of Megalith, who was truly, one from the chieftains' bloodline.",
+            "formatting": {
+              "bold": [
+                "Hilda",
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "However, this new Power of Megalith was no leadership material."
+          },
+          {
+            "text": "Her foolish and childish ways had caused the Garland tribe to decline even further, until one day it was wholly subjugated by another tribe, and all its people enslaved."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Despite her tribe's former treatment to her, Hilda returned without hesitation to the Megalith Wasteland, liberating her people from the brutal enemies, fighting them with her bare fists, and leading them to rebuild their home.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "Only then did the tribespeople finally understand that true leadership has nothing to do with one's ancestry."
+          },
+          {
+            "text": "Having come to their senses, they accepted Hilda as their leader, and hoped she would stay with them, and continue to pass on the glorious Power of Megalith.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This time, however, Hilda refused their invitation, deciding to set forth once more for a foreign land.",
+            "formatting": {
+              "bold": [
+                "Hilda"
+              ]
+            }
+          },
+          {
+            "text": "Her mother's words weighed constantly on her mind: Each generation's Power of Megalith had its own unique meaning."
+          },
+          {
+            "text": "She had received an indomitable heart from her mother, but she still had not found her own unique meaning."
+          },
+          {
+            "text": "One day, however, she believed, she would."
+          }
+        ]
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Power of Megalith"
+        },
+        "origin": {
+          "text": "Northern Vale"
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "weapons": {
+          "text": "Axe"
+        },
+        "abilities": {
+          "text": "Blessing of Wilderness"
+        },
+        "en_va": {
+          "text": "Alaina Wis (2020–)",
+          "links": [
+            {
+              "text": "Alaina Wis",
+              "type": "internal",
+              "page": "IMDB:nm10980156"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Fighters on the Stormy Sea",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "images": [
+      {
+        "file": "File:FOSS_Event.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/FOSS_Event.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/FOSS_Event.jpg",
+        "caption": "500px",
+        "links": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Fighters on the Stormy Sea"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Hilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Blessing of Wilderness",
+        "cooldown": "10.0",
+        "skill-effect-1": "Buff",
+        "description": "Hilda regenerates 2% of her Max HP per second while staying in the bush. When entering a bush, she gains a shield equal to 15% of her Max HP. After leaving the bush, the shield lasts for 5 seconds. This effect has a 10 seconds cooldown. Hilda's and Skills apply a Wilderness Mark on hit, which lasts up to 4 seconds and stacks up to 6. Each stack reduce the target's Physical Defense and Magic Defense by 4%.",
+        "notes": "* is healed instantly upon entering the bush. Therefore walking in and out of the bush heals faster than staying inside.",
+        "term-1": "Shield",
+        "term-2": "HP Regen",
+        "term-3": "Max HP",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ii"
+      },
+      {
+        "base": "200-300",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "120-180",
+        "total-pa": "60",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Combat Ritual",
+        "cooldown": "10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5",
+        "skill-effect-1": "Speed Up",
+        "skill-effect-2": "AOE",
+        "description": "Hilda activates the runic power of her great axe, increasing her Movement Speed by 60% for 3 seconds and enhancing her next to deal 200  and slow the target by 40% for 3 seconds. The attack will also deal  to enemies behind the target.",
+        "level-scaling": "Target Damage: 200 / 220/ 240 / 260 / 280 / 300\nDiffusion Damage: 120 / 132 / 144 / 156 / 168 / 180",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "220-420",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Art of Hunting",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "CC",
+        "description": "Hilda locks onto an enemy target, each time dealing . Skill can be released 3 times at most. The 2nd attack will deal damage to target's surroundings, and the 3rd attack will knock back the target and surrounding enemies temporarily.",
+        "level-scaling": "Base Damage: 220 / 260 / 320 / 360 / 400 / 420",
+        "term-1": "Displacement",
+        "term-2": "Physical Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "600-1000",
+        "extra-pa": "250",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Power of Wildness"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Power of Wildness",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "cooldown": "32.0 / 28.0 / 24.0",
+        "description": "Hilda launches a powerful slash on the target enemy, dealing and stunning them for 0.2 seconds. Nearby enemies also take 60% damage. Each stack of Wilderness Mark makes Power of Wildness deal 2.5% of the target's Max HP as extra damage. At max stacks,  deal 20% of the target's Max HP as extra damage.",
+        "level-scaling": "Base Damage: 600 / 800 / 1000\nExtra Percentage Damage: 20% / 28% / 36%",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Physical Defense",
+        "term-3": "Physical Penetration",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Freya"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "heroes"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Hilda is a name of Germanic/Norse origin, meaning \"battle\" or \"warrior\". It comes from the Old Norse word Hildr, which means battle, war, or combat."
+        },
+        {
+          "text": "Hilda is also a valkyrie like."
+        },
+        {
+          "text": "Unlike most female heroes who are mages, assassins, or supports, Hilda was one of the first to be designed as a full-fledged brawler."
+        },
+        {
+          "text": "The only fighter with \"Bush Healing\" passive. Hilda can heal herself simply by hiding in the bushes, allowing her to reset fights without recalling."
+        }
+      ]
+    ]
+  }
+]

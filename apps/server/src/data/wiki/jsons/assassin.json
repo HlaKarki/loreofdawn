@@ -1,0 +1,1050 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "An Assassin is an agile hero that specializes in killing or disabling roaming targets picking them off as they try to replenish HP.",
+            "formatting": {
+              "bold": [
+                "Assassin"
+              ]
+            }
+          },
+          {
+            "text": "Focused on infiltration, deception, and mobility, Assassins are opportunistic hunters who find favorable moments within a fight before jumping into the fray.",
+            "formatting": {
+              "bold": [
+                "Assassins"
+              ]
+            }
+          },
+          {
+            "text": "Regardless of the size of the enemy team, Assassins specialize in positioning and artful killing.",
+            "formatting": {
+              "bold": [
+                "Assassins"
+              ]
+            }
+          },
+          {
+            "text": "They strike when the time is right – no sooner, no later."
+          },
+          {
+            "text": "Assassins are more suitable to be played by experienced players as they have low HP and high burst damage.",
+            "formatting": {
+              "bold": [
+                "Assassins"
+              ]
+            }
+          },
+          {
+            "text": "They are ideal for taking out opponents easily, but are easier to be killed due to bad positioning and wrong timing."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Assassin_Icon.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Assassin_Icon.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Assassin_Icon.png",
+        "caption": "65px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Assassin Types",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Assassins are classified into three types: pure, primary, and secondary."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pure",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Because they have no other role, these heroes are full assassins."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Saber"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Karina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hayabusa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Helcurt"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hanzo"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Aamon"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Joy"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Nolan"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "2",
+          "*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*\n*"
+        ],
+        "template": "column"
+      },
+      {
+        "template": "clr"
+      }
+    ],
+    "infoboxes": [
+      {
+        "title": {
+          "text": "Pure"
+        },
+        "image": {
+          "text": "Duke of Shards wall.jpg"
+        },
+        "advantage": {
+          "text": "Yes"
+        },
+        "durability": {
+          "text": "N/A"
+        },
+        "offense": {
+          "text": "N/A"
+        },
+        "skill-effects": {
+          "text": "N/A"
+        },
+        "difficulty": {
+          "text": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Primary",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "These heroes are mainly assassins who can also be used for a different purpose."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Yi Sun-Shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Julian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Suyou"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "1",
+          "* (Assassin/Marksman)\n* (Assassin/Mage)\n* (Assassin/Mage)\n* (Assassin/Fighter)\n* (Assassin/Fighter)\n* (Assassin/Fighter)"
+        ],
+        "template": "column"
+      },
+      {
+        "template": "clr"
+      }
+    ],
+    "infoboxes": [
+      {
+        "title": {
+          "text": "Primary"
+        },
+        "image": {
+          "text": "Paenlong Legend wall.jpg"
+        },
+        "advantage": {
+          "text": "Yes"
+        },
+        "durability": {
+          "text": "N/A"
+        },
+        "offense": {
+          "text": "N/A"
+        },
+        "skill-effects": {
+          "text": "N/A"
+        },
+        "difficulty": {
+          "text": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Secondary",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Because they are used in a different way than a assassin's main purpose, these heroes are half-assassin."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zilong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kadita"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Paquito"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Arlott"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Sora"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "2",
+          "* (Fighter/Assassin)\n* (Fighter/Assassin)\n* (Marksman/Assassin)\n* (Mage/Assassin)\n* (Support/Assassin)\n* (Fighter/Assassin)\n* (Fighter/Assassin)\n* (Fighter/Assassin)\n* (Fighter/Assassin)"
+        ],
+        "template": "column"
+      },
+      {
+        "template": "clr"
+      }
+    ],
+    "infoboxes": [
+      {
+        "title": {
+          "text": "Secondary"
+        },
+        "image": {
+          "text": "Mathilda (Swift Plume).jpg"
+        },
+        "advantage": {
+          "text": "No"
+        },
+        "durability": {
+          "text": "N/A"
+        },
+        "offense": {
+          "text": "N/A"
+        },
+        "skill-effects": {
+          "text": "N/A"
+        },
+        "difficulty": {
+          "text": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Aamon"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Natalia",
+        "template": "hero icon"
+      },
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kadita"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Karina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Pure Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Mage"
+        ],
+        "template": "mage"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Silence",
+          "CC"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Yi Sun-Shin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Marksman"
+        ],
+        "template": "marksman"
+      },
+      {
+        "list": [
+          "Marksman"
+        ],
+        "template": "marksman"
+      },
+      {
+        "list": [
+          "Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Marksman"
+        ],
+        "template": "marksman"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Karina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kadita"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Joy",
+        "template": "hero icon"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Support"
+        ],
+        "template": "support"
+      },
+      {
+        "list": [
+          "Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Karina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Aamon"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Joy",
+        "template": "hero icon"
+      },
+      {
+        "list": [
+          "Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Magical Damage",
+          "Magic Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Lapu-Lapu"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Pure Fighter"
+        ],
+        "template": "fighter"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hanzo"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Assassin"
+        ],
+        "template": "assassin"
+      },
+      {
+        "list": [
+          "Saber"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Karina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Helcurt"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lancelot"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hayabusa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Karina"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Gusion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ling"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "template:heroes"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Two of the assassins have Season Exclusive skins: and."
+        },
+        {
+          "text": ",, and have a special stealth called Camouflage making them half-invisible or semi-invisible to enemies.",
+          "formatting": {
+            "bold": [
+              "Camouflage"
+            ]
+          }
+        },
+        {
+          "text": "and are the only assassins whose first skill can be cast again if it hits an enemy."
+        },
+        {
+          "text": "and changed their roles into Mage/Assassin Heroes without changing their skills."
+        },
+        {
+          "text": "and had their roles changed into  due to the addition of  Specialty in Patch 1.4.94 to making  the only hero with a / hybrid role.",
+          "links": [
+            {
+              "text": "Patch 1.4.94",
+              "type": "internal",
+              "page": "Patch Notes 1.4.94"
+            }
+          ]
+        },
+        {
+          "text": "is the hardest hero to handle because of the complexity of her skills, with a 100% difficulty rating, but is also considered one of the strongest heroes. She is also the most agile hero in the game."
+        },
+        {
+          "text": "is the only assassin who can enemies"
+        },
+        {
+          "text": "'s previous role was pure ; Since he got revamped, previous role was primary /. Then later on, his roles got swapped to \"/\"."
+        },
+        {
+          "text": "is the only hero who can walk a wall to wall with a special camouflage."
+        },
+        {
+          "text": "is the only hero who can hold down her basic attack and release to dash forward and deal more damage than the Official basic attack damage."
+        },
+        {
+          "text": ",, , , , , , , and are the only Assassins that are female."
+        },
+        {
+          "text": "is the first and only hero to have received the role with the  hybrid."
+        },
+        {
+          "text": ",, , and are the only s are  specialty."
+        },
+        {
+          "text": "was removed in membership. He is now changed to  in Patch 1.5.46.",
+          "links": [
+            {
+              "text": "Patch 1.5.46",
+              "type": "internal",
+              "page": "Patch Notes 1.5.46"
+            }
+          ]
+        },
+        {
+          "text": "and are the only s who have two forms."
+        },
+        {
+          "text": "List of assassins who have skin series:"
+        }
+      ],
+      [
+        {
+          "text": "S.A.B.E.R.",
+          "links": [
+            {
+              "text": "S.A.B.E.R.",
+              "type": "internal",
+              "page": "S.A.B.E.R. squad"
+            }
+          ]
+        },
+        {
+          "text": "- S.A.B.E.R. Regulator"
+        },
+        {
+          "text": "Zodiac",
+          "links": [
+            {
+              "text": "Zodiac",
+              "type": "internal",
+              "page": "Zodiac skins"
+            }
+          ]
+        },
+        {
+          "text": "- Pisces"
+        },
+        {
+          "text": "- Gemini - Halo"
+        },
+        {
+          "text": "- Gemini - Shadow"
+        },
+        {
+          "text": "- Scorpio"
+        },
+        {
+          "text": "V.E.N.O.M.",
+          "links": [
+            {
+              "text": "V.E.N.O.M.",
+              "type": "internal",
+              "page": "V.E.N.O.M. squad"
+            }
+          ]
+        },
+        {
+          "text": "- V.E.N.O.M. Emperor Scorpion"
+        },
+        {
+          "text": "Lightborn",
+          "links": [
+            {
+              "text": "Lightborn",
+              "type": "internal",
+              "page": "Lightborn skins"
+            }
+          ]
+        },
+        {
+          "text": "- Lightborn - Ranger"
+        },
+        {
+          "text": "Dragon Tamer",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Dragon Tamer"
+            }
+          ]
+        },
+        {
+          "text": "- Night Shade"
+        },
+        {
+          "text": "- Empyrean Flame"
+        },
+        {
+          "text": "Dawning Stars",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Dawning Stars"
+            }
+          ]
+        },
+        {
+          "text": "- Swordmaster"
+        },
+        {
+          "text": "S.T.U.N.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "S.T.U.N."
+            }
+          ]
+        },
+        {
+          "text": "- S.T.U.N. Selena"
+        },
+        {
+          "text": "The Aspirants",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Aspirants"
+            }
+          ]
+        },
+        {
+          "text": "- Blade of Kibou"
+        },
+        {
+          "text": "M-World",
+          "links": [
+            {
+              "type": "internal",
+              "page": "M-World"
+            }
+          ]
+        },
+        {
+          "text": "- M-World Ling"
+        },
+        {
+          "text": "The Exorcists",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Exorcists"
+            }
+          ]
+        },
+        {
+          "text": "- Exorcist Hayabusa"
+        },
+        {
+          "text": "List of assassins who have collaboration skins:"
+        },
+        {
+          "text": "MLBB × The King of Fighters",
+          "links": [
+            {
+              "type": "internal",
+              "page": "MLBB × The King of Fighters"
+            }
+          ]
+        },
+        {
+          "text": "- Leona"
+        },
+        {
+          "text": "- K'"
+        },
+        {
+          "text": "MLBB × Kung Fu Panda",
+          "links": [
+            {
+              "type": "internal",
+              "page": "MLBB × Kung Fu Panda"
+            }
+          ]
+        },
+        {
+          "text": "- Lord Shen"
+        }
+      ]
+    ]
+  }
+]

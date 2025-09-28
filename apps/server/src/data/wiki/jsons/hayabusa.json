@@ -1,0 +1,899 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Leader of the Scarlet Shadow's Shadow sect, upon the Cadia Riverlands.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself."
+          },
+          {
+            "text": "To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect."
+          },
+          {
+            "text": "Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles."
+          },
+          {
+            "text": "He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hanabi"
+              }
+            ]
+          },
+          {
+            "text": "But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone."
+          },
+          {
+            "text": "Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Hayabusa.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Hayabusa.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Hayabusa.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Birthday (生日 \"shēngrì\" meaning \"birthday\"), Age (年龄 \"niánlíng\" meaning \"age\"), Official Chinese Name"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "12",
+          "22"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Hanabi"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kagura"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Hanzo"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Leader of the Scarlet Shadow's Shadow sect, upon the Cadia Riverlands.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "隼 (sǔn )"
+        },
+        "alias": {
+          "text": "Crimson Shadow"
+        },
+        "origin": {
+          "text": "Scarlet Shadow, Cadia Riverlands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Scarlet Shadow"
+            },
+            {
+              "type": "internal",
+              "page": "Cadia Riverlands"
+            }
+          ]
+        },
+        "age": {
+          "text": "20",
+          "number": 20
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Shadow Sect Ninja"
+        },
+        "fighting_style": {
+          "text": "Ninjutsu"
+        },
+        "weapons": {
+          "text": "*Katana\n*Kunai",
+          "links": [
+            {
+              "text": "Kunai",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 1"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Unnamed father\n*Kurēn (olders brother, deceased)\n* (childhood sweetheart)\n* (close as siblings)\n* (enemies)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Kurēn"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Gaku Space (2021–)",
+          "links": [
+            {
+              "text": "Gaku Space",
+              "type": "internal",
+              "page": "imdb:nm2859177"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Kamal Nasuti"
+        },
+        "ja_va": {
+          "text": "Fukagawa Kasumasa (深川 和征)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Shadow and Moon",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "When clouds obscure the moon,",
+            "formatting": {
+              "italic": [
+                "When clouds obscure the moon,"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Where shall shadows find their place?",
+            "formatting": {
+              "italic": [
+                "Where shall shadows find their place?"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As descendants of the Shadow Sect, Hayabusa and his brother underwent rigorous training from childhood."
+          },
+          {
+            "text": "Even as a young boy, Hayabusa knew his brother's skills far surpassed his own."
+          },
+          {
+            "text": "But what truly seemed beyond his reach was his brother's vision of nindo, the ninja way: integrating ninja tools with ninjutsu to end the hostility between ninja clans."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In Hayabusa's eyes, his brother shone as bright as the moon, illuminating not only himself but all of the Scarlet Shadow."
+          },
+          {
+            "text": "Hayabusa only wished to be his shadow."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, his brother wasn't the only genius in the Shadow Sect—there was another named Hanzo."
+          },
+          {
+            "text": "Soon, the Scarlet Sect, the other half of the Scarlet Shadow, sent a warning to the Shadow Sect: the balance of power in the Scarlet Shadow must not be challenged."
+          },
+          {
+            "text": "Hayabusa learned that the two sects would use their own bloodlines as pawns to keep each other in check, and either he or his brother would have to become that pawn."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "On the rooftop, Hayabusa found his brother."
+          },
+          {
+            "text": "Though no words were spoken, the moonlight bridged their hearts."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To Hayabusa, the world could survive without shadows, but without moonlight, the night would reign eternal..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Sitting beside his brother, Hayabusa removed his mask."
+          },
+          {
+            "text": "A childlike smile broke through his stern countenance."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In his first years at the Scarlet Sect, Hayabusa, as a pawn, was met with contempt."
+          },
+          {
+            "text": "He found companionship only in his own shadow."
+          },
+          {
+            "text": "During training, he constantly worked to integrate ninja tools with his ninjutsu, creating his unique Shadow Shuriken technique."
+          },
+          {
+            "text": "Gradually, more and more people came to challenge him."
+          },
+          {
+            "text": "Hayabusa calmly accepted each challenge and silently departed after each victory."
+          },
+          {
+            "text": "For him, winning or losing mattered less than fulfilling his brother's will—ending the hostility between the two sects."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Until one day, he met a girl whose convictions rivaled his own—Hanabi."
+          },
+          {
+            "text": "As the successor of \"Scarlet,\" Hanabi always held her head high.",
+            "formatting": {
+              "italic": [
+                "\"Scarlet,\""
+              ]
+            }
+          },
+          {
+            "text": "She saw her victories as victories for the Scarlet Sect, and her fierce competitive spirit drove her to challenge Hayabusa again and again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hidden valleys, bamboo forests, rooftops... Every corner of the Scarlet Shadow bore witness to their battles."
+          },
+          {
+            "text": "Every time Hayabusa won, Hanabi would ask,\"Why did I lose...\", but he would only shrug in return.",
+            "formatting": {
+              "italic": [
+                "\"Why did I lose...\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hayabusa had long accepted that he possessed no extraordinary talent."
+          },
+          {
+            "text": "In pursuit of his brother's nindo, he trained alone, until he finally understood that the relationship between ninja tools and ninjutsu was like that of scarlet and shadow—two sides of the same coin."
+          },
+          {
+            "text": "They were inseparable."
+          },
+          {
+            "text": "The Scarlet Sect and Shadow Sect surely knew this too, yet they chose to remain fixated on winning over each other."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But illusions will eventually shatter."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The genius ninja Hanzo broke into the forbidden grounds, stole the sealed weapon Ame no Habakiri, and fled."
+          },
+          {
+            "text": "Hayabusa's brother, who had gone with him, vanished without a trace."
+          },
+          {
+            "text": "Overnight, Hanzo became the Scarlet Shadow's greatest threat, and peace teetered on a blade's edge."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To capture Hanzo and retrieve the cursed weapon, both sects dispatched their best, and both Hayabusa and Hanabi were among them."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Before departing, Hayabusa received a secret order from his father: \"Reclaim the Ame no Habakiri for the Shadow Sect, and kill Hanzo and anyone else who stands in your way.\" Strangely, the order made no mention of his brother.",
+            "formatting": {
+              "italic": [
+                "\"Reclaim the Ame no Habakiri for the Shadow Sect, and kill Hanzo and anyone else who stands in your way.\""
+              ]
+            }
+          },
+          {
+            "text": "Filled with doubt, Hayabusa tracked Hanzo's trail—he had to find him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "During his pursuit, Hayabusa discovered Hanabi lying on the ground, surrounded by ninjas from both sects writhing in agony."
+          },
+          {
+            "text": "As Hayabusa tried to wake Hanabi, a malevolent aura struck at him."
+          },
+          {
+            "text": "He gripped his blade tightly."
+          },
+          {
+            "text": "Then, he saw a familiar yet strange figure—it was his brother, radiating with murderous intent."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He saw blood staining his brother's hands...####He saw the light had vanished from his eyes..."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "No matter how Hayabusa called out, he was met only with increasingly violent attacks, each aimed to kill."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Never had Hayabusa imagined the moon could become so blood-red."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Darkness engulfed Hayabusa's heart."
+          },
+          {
+            "text": "He lowered his blade as his brother rushed toward him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Hayabusa, don't you dare lose to anyone but me!\"",
+            "formatting": {
+              "italic": [
+                "\"Hayabusa, don't you dare lose to anyone but me!\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hanabi's voice echoed in his memory, like a flame igniting in his heart."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Deep within, Hayabusa saw the moonlight, and beneath it, Hanabi."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hanabi's eyes burned as she looked at Hayabusa while gently twirling her Higanbana, \"I'm going to surpass you.\"",
+            "formatting": {
+              "italic": [
+                "\"I'm going to surpass you.\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In that instant, Hayabusa regained consciousness."
+          },
+          {
+            "text": "With one hand, he formed a seal, activating Quad Shadow to send forth four shadows that restrained his opponent with lightning speed."
+          },
+          {
+            "text": "He gripped his blade and struck without a moment of hesitation."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Hayabusa watched as the murderous aura gradually dissipated along with his brother's image, revealing Ame no Habakiri's true form, glaring with rage and laughing maniacally."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The cunning Ame no Habakiri had tried to use illusions to exploit the weakness in human hearts, only to encounter such resilience within."
+          },
+          {
+            "text": "Breaking free from the illusion, Hayabusa was no longer bound by the darkness."
+          },
+          {
+            "text": "Though he knew Ame no Habakiri was powerful, behind him stood Hanabi, Kagura, and the unknown fate of his brother.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kagura"
+              }
+            ]
+          },
+          {
+            "text": "He had no choice but to stand up."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Even without the moon's guidance, a shadow must forge its own path."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Wherever I shall go, I do so without fear.\"",
+            "formatting": {
+              "italic": [
+                "\"Wherever I shall go, I do so without fear.\""
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Shadow Mark",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "variations-2": "Naruto",
+        "image": "Ninjutsu Trace of Shadow",
+        "name": "Ninjutsu: Trace of Shadow",
+        "skill-effect-1": "Buff",
+        "description": "Hayabusa's attacks apply a stack of on hit (up to 4 stacks). Each stack lasts 6 seconds and increases Hayabusa's damage to the enemy by 5%.",
+        "properties": "*Damage Increase Per Shadow Mark Stack: 5%% / 10% / 15% / 20%",
+        "notes": "*Hayabusa's basic attacks and non-ultimate skills can only apply Shadow Marks.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "150-250",
+        "extra-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "energy"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "variations-2": "Naruto",
+        "image": "Ninjutsu Phantom Shuriken",
+        "name": "Ninjutsu: Phantom Shuriken",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Buff",
+        "cooldown": "4.0",
+        "energy-cost": "30",
+        "description": "Hayabusa throws three returning shurikens in the target direction, each dealing to enemies hit and slowing them by 35% for 2 seconds. Enemies hit by multiple shurikens take only 30% of the damage after the first hit. Hayabusa restores 10  for each non-Minion enemy hit.  Hayabusa permanently gains 3%–18% Spell Vamp.",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Spell Vamp",
+        "term-3": "Movement Speed",
+        "properties": "*Spell Vamp: 3% / 6% / 9% / 12% / 15% / 18%\n*Base Damage: 150 / 170 / 190 / 210 / 230 / 250",
+        "notes": "*This skill can only stack up to 2 Shadow Marks.\n*The weapons used in this skill describing as \"returning shurikens\" is incorrect because the weapon is, in fact, a kunai.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "130-180",
+        "extra-pa": "30",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Use Again:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Ninjutsu Phantom Shuriken",
+          "Ninjutsu: Phantom Shuriken"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "130-180",
+        "extra-pa": "30",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Bouncing Ball"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "variations-2": "Naruto",
+        "image": "Ninjutsu Quad Shadow",
+        "image-2": "Ninjutsu Quad Shadow 2",
+        "name": "Ninjutsu: Quad Shadow",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "Summon",
+        "cooldown": "20.0 / 19.2 / 18.4 / 17.6 / 16.8 / 16.0",
+        "energy-cost": "25",
+        "description": "Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing and slowing them by 40% for 2 seconds. Hayabusa will immediately stop if he hits an enemy hero during the dash.  Hayabusa teleports to a phantom's location and reduces the cooldown of  by 1 second. If the phantom is attached to an enemy hero, he also deals  to the enemy.",
+        "term-1": "Blink",
+        "term-2": "Physical Damage Skill",
+        "properties": "*Base Damage: 130 / 140 / 150 / 160 / 170 / 180\n*Extra Damage: 130 / 140 / 150 / 160 / 170 / 180",
+        "notes": "*The shadow that attached to the target can be removed with any CC Removal sources.\n*Despite the very fast animation, Khufra's can block the dash towards each shadow.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "140",
+        "extra-pa": "75",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Shadow Mark",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "45-85",
+        "extra-pa": "20",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Minsitthar"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "King's Calling"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "The Exorcists",
+        "variations-2": "Naruto",
+        "image": "Ougi Shadow Kill",
+        "name": "Ougi: Shadow Kill",
+        "skill-effect-1": "Burst",
+        "cooldown": "50.0",
+        "quote": "I, will be Akakage.",
+        "description": "Hayabusa blends into the shadows and launches 6 single-target attacks on enemies in the area, each dealing . The attacks prioritize enemies with and each will consume a mark to deal  extra . Does not apply Shadow Mark.",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Extra Physical Attack",
+        "properties": "*Hits: 6 / 9 / 12\n*Extra Damage: 45 / 65 / 85",
+        "notes": "*When the target becomes untargetable or moves a certain distance away from Hayabusa and no other valid targets are nearby, Hayabusa loses untargetability prematurely and wastes the remaining attacks.\n*Hayabusa continuously moves side-to-side of the target and can freely cast Battle Spells.\n*Despite not having Mobility tag, this ability is disabled in 's.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Hayabusa_(Crimson_Shadow).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Crimson_Shadow).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Crimson_Shadow).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Spacetime_Shadow).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Spacetime_Shadow).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Spacetime_Shadow).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Future_Enforcer).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Future_Enforcer).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Future_Enforcer).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Sushi_Master).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Sushi_Master).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Sushi_Master).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Experiment_21).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Experiment_21).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Experiment_21).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Shadow_of_Obscurity).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Shadow_of_Obscurity).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Shadow_of_Obscurity).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Biological_Weapon).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Biological_Weapon).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Biological_Weapon).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Shura).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Shura).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Shura).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Techie_Ninja).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Techie_Ninja).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Techie_Ninja).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Exorcist_Hayabusa).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Exorcist_Hayabusa).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Exorcist_Hayabusa).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Hayabusa_(Kakashi_Hatake).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Kakashi_Hatake).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hayabusa_(Kakashi_Hatake).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "\"Hayabusa\" (隼) literally means \"peregrine falcon\", a bird known for its incredible speed and deadly precision.",
+          "links": [
+            {
+              "text": "peregrine falcon",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Peregrine_falcon"
+            }
+          ]
+        },
+        {
+          "text": "In his first hero model, Hayabusa's headgear is inspired by Kabuto helmets, worn by samurai and elite ninja warriors."
+        },
+        {
+          "text": "His \"Shadow Kill\" ultimate resembles the \"Shunshin\" (Body Flicker) technique, a legendary ninja ability that allows a warrior to move so fast they appear to attack from multiple directions at once."
+        },
+        {
+          "text": "His Ultimate, \"Ougi: Shadow Kill,\" also resembles to classic ninja assassination techniques. In Japanese ninja stories, a \"final move\" (奥義 / Ougi) is a secret assassination technique passed down through generations."
+        },
+        {
+          "text": "Hayabusa is likely inspired by Ryu Hayabusa from the Ninja Gaiden and Dead or Alive series.",
+          "links": [
+            {
+              "text": "Ryu Hayabusa",
+              "type": "external",
+              "site": "https://ninjagaiden.fandom.com/wiki/Ryu_Hayabusa"
+            },
+            {
+              "text": "Ninja Gaiden",
+              "type": "external",
+              "site": "https://ninjagaiden.fandom.com/wiki/Ninja_Gaiden_(series)"
+            }
+          ]
+        },
+        {
+          "text": "Early concept art for Hayabusa featured a simpler, more traditional ninja outfit, closer to common historical Japanese ninja depictions."
+        },
+        {
+          "text": "Hayabusa’s Quad Shadow skill is similar to Zed from League of Legends \"Living Shadow\", which is placing a clone that he can teleport to and attack from different angles.",
+          "links": [
+            {
+              "text": "Zed",
+              "type": "external",
+              "site": "https://wiki.leagueoflegends.fandom/en-us/Zed"
+            },
+            {
+              "text": "League of Legends",
+              "type": "external",
+              "site": "https://wiki.leagueoflegends.com/en-us/League_of_Legends"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero info"
+      },
+      {
+        "template": "hero stats"
+      }
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A necromancer in Necrokeep who's determined to find a cure for the Mist.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A gifted physician who came to Necrokeep to study the mysterious plague."
+          },
+          {
+            "text": "Instead of finding the key to controlling life and death, he met Vexana, duchess of the cursed land and the girl who'd brought sunshine to his gloomy life twice."
+          },
+          {
+            "text": "Vowing to find a way to revert the curse and repay the kindness of Vexana, Faramis voluntarily got eroded by the Mist and used himself as the specimen for his research."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Necrokeep_Faramis_Info.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep_Faramis_Info.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Necrokeep_Faramis_Info.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "10",
+          "26"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Vexana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Leomord"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A necromancer in Necrokeep who's determined to find a cure for the Mist.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "Soul Binder"
+        },
+        "born": {
+          "text": "Lumina City, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Lumina City"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Undead"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "*Physician\n*Necromancer"
+        },
+        "affiliation": {
+          "text": "Necrokeep",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Necrokeep"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Ancestral staff"
+        },
+        "abilities": {
+          "text": "*Absorbs soul fragment as health\n*Enters shadow state\n*Casts bursts of Nether Energy\n*Summons a Nether Realm",
+          "links": [
+            {
+              "text": "Absorbs soul fragment as health",
+              "type": "internal",
+              "page": "",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Enters shadow state",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "Casts bursts of Nether Energy",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill w"
+            },
+            {
+              "text": "Summons a Nether Realm",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "likes": {
+          "text": "Studying challenging and intractable [diseases]"
+        },
+        "relationships": {
+          "text": "*Unnamed physician ancestors\n*, (ally)"
+        },
+        "en_va": {
+          "text": "Cian Hoyne (2019-2022) Ryan Colt Levy (2022-present)",
+          "links": [
+            {
+              "text": "Cian Hoyne",
+              "type": "internal",
+              "page": "IMDB:nm9240513"
+            },
+            {
+              "text": "Ryan Colt Levy",
+              "type": "internal",
+              "page": "imdb:nm8816277"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Watanabe Hiroshi (渡辺紘)"
+        },
+        "id_va": {
+          "text": "Irfan Setiawan"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "The Fearless Soul",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Faramis came from a long line of physicians."
+          },
+          {
+            "text": "With the ancestral staff passed down the family, his grandfather combined magic and medicine and developed cures for many once-incurable diseases."
+          },
+          {
+            "text": "The feat earned the gifted physician a title from the Moniyan Empire, and the family had since served the royalties as their personal physicians."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "None of these proved adequate to earn the family respect from their equals, though."
+          },
+          {
+            "text": "The other nobles viewed them as mere servants with some special medical skills, while young Faramis, for this reason, was often bullied and ridiculed by his peers."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At a banquet, the boys struck again, and poor Faramis was left fainted on the ground of the back garden."
+          },
+          {
+            "text": "When he regained consciousness, he saw a highborn girl half-knelt by his side, giving him medicine."
+          },
+          {
+            "text": "That was the only time young Faramis had received kindness from his peers."
+          },
+          {
+            "text": "The encounter, despite being brief, was like a ray of sunshine into his gloomy life."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Frail and sickly from birth, Faramis had brushed with death numerous times and survived only because of his parents' meticulous treatment."
+          },
+          {
+            "text": "After many near-death experiences, he vowed to conquer death and take life into his own hands and was reluctant to serve the royalties as his family did."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He found the royalties' minor ailments extremely boring and wanted nothing to do with those hypocritical nobles."
+          },
+          {
+            "text": "He yearned to challenge complex, intractable diseases to bring his skills to heights no other physicians had ever reached before."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With this goal in mind, Faramis left Lumina City and embarked on his journey alone, solving one after another inexplicable disease along the way, not out of the responsibility of a physician, but to explore the possibility of going beyond life and death."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Upon learning about the incident in Necrokeep, Faramis believed that he'd found the perfect integration of life and death and headed to the city right away, searching for the key to controlling both."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Protected by his ancestral staff, Faramis found himself immune to the Mist that plagued the city."
+          },
+          {
+            "text": "He walked through crowds of desolate residents and came upon Duchess Vexana, ruler of the ruined fortress."
+          },
+          {
+            "text": "She was brewing and handing out the \"Moonlight Brew\", a remedy made of Moonlight Grass that was said to be the \"cure\" for the erosion of the Mist."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At first, Faramis thought that was all a blunt lieâ€”she was only putting on an act, ignorant and hypocritical as the other nobles."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Until that one time, Vexana thrust the last \"Moonlight Brew\" in his hands without a second thoughtâ€”Faramis was stunned."
+          },
+          {
+            "text": "It was equal to giving up the \"hope of life\" to him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The \"hypocrite\" really wanted to save everyone."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Looking at the noble lady in a new light, Faramis couldn't help but think of his brief encounter with the kindly girl in his childhoodâ€¦"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Mist was nothing like the incurable diseases Faramis had encountered before."
+          },
+          {
+            "text": "After many failed attempts, he finally made a breakthrough by infusing magic into the herbs."
+          },
+          {
+            "text": "And with every progress he made, he insisted on testing the effects on himself."
+          },
+          {
+            "text": "Except, his frail body could only take so much abuse."
+          },
+          {
+            "text": "He soon started feeling the aftermath of his experiments, eventually falling faint in his laboratory."
+          },
+          {
+            "text": "Lying on the cold floor, Faramis felt his life quickly draining out of him."
+          },
+          {
+            "text": "He clenched his fists and tried to get up, only to find he couldn't even peel open his eyes, his consciousness gradually fading."
+          },
+          {
+            "text": "Faramis never thought he could open his eyes again, and when he did, he saw a young lady leaning over, parting his lips to drop a bitter liquid into his mouth."
+          },
+          {
+            "text": "With his mind in a haze, Faramis found the sight overlapped with his memory of the girl in the garden."
+          },
+          {
+            "text": "Looking at the strange but familiar face, Faramis recognized that she was the very same noble girl who'd helped him back then."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The girl who'd brought light to his childhood had come to his aid again! During his recovery, Faramis found himself smitten with the young lady who'd saved him from darkness twice.",
+            "formatting": {
+              "italic": [
+                "The girl who'd brought light to his childhood had come to his aid again!"
+              ]
+            }
+          },
+          {
+            "text": "She was the only person who'd never given him up except for his parents."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As soon as Faramis recovered, however, Vexana urged him to leave the place, saying it was dangerous for a living person to continue to stay in Necrokeep."
+          },
+          {
+            "text": "The Mist was starting to overpower his enchanted staff."
+          },
+          {
+            "text": "If he stayed any longer, he would soon meet a fate like theirs."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Faramis said not a word; his eyes fixated on the Moonlight Grass and the fading staff in his hands."
+          },
+          {
+            "text": "His reason told him it was time to leave, but when he stood in front of the castle's gate and saw the forced smile on Vexana's face, he found himself unable to leave like this."
+          },
+          {
+            "text": "Memories of the childhood encounter and the meticulous care in Necrokeep flashed across Faramis's mind."
+          },
+          {
+            "text": "He could not give up the young lady who'd brought light and warmth twice to his life."
+          },
+          {
+            "text": "He had made his choice, he would stay in Necrokeep and finish the task yet to be done."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Faramis let go of the protection of his staff, finally basking in the blight of the Mist."
+          },
+          {
+            "text": "His skin turned sallow and pale, and yet he felt no fear."
+          },
+          {
+            "text": "He knew he could conquer this scourge."
+          },
+          {
+            "text": "And to do so, to uncover the secrets of life and death, he must experience the curse for himself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This time, it was his turn to pull Vexana out of the misery she was in."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Faramis's_Laboratory.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Faramis's_Laboratory.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Faramis's_Laboratory.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:The_Fearless_Soul_1.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fearless_Soul_1.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fearless_Soul_1.jpg",
+        "caption": "512px",
+        "links": []
+      },
+      {
+        "file": "File:The_Fearless_Soul_2.jpg",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fearless_Soul_2.jpg?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/The_Fearless_Soul_2.jpg",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Wedding in the Mist",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Wedding_in_the_Mist_-Animated_Trailer_of_Project_NEXT_-_Rise_of_Necrokeep_-Mobile_Legends-_Bang_Bang",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Wedding_in_the_Mist_-Animated_Trailer_of_Project_NEXT_-_Rise_of_Necrokeep_-Mobile_Legends-_Bang_Bang?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Wedding_in_the_Mist_-Animated_Trailer_of_Project_NEXT_-_Rise_of_Necrokeep_-Mobile_Legends-_Bang_Bang",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100",
+        "total-mp": "50",
+        "list": [
+          "hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "text": "[how much?]",
+        "template": "sup"
+      },
+      {
+        "image-2": "Vicious Retrieval BUFF",
+        "name": "Vicious Retrieval",
+        "skill-effect-1": "BUFF",
+        "description": "Every 4 seconds, Faramis's next skill against enemy heroes and summoned objects generates a soul fragment on the spot. Faramis can absorb the soul fragment to restore and gain 2 extra Magic Power (up to 40 stacks). Upon death, he consumes the absorbed soul fragments to reduce the respawn timer, each reducing the timer by 3% (up to 90%). Enemies that die around Faramis also have a chance[how much?] to drop soul fragments.",
+        "ss-1": "Extra Magic Power: {2, 4, 6, &mldr;, 80} where 80 = 40th stack",
+        "ss-2": "Respawn Timer Reduction: {3%, 6%, 9% &mldr;, 90%} where 90% = 30th stack",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-400",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Nether Mark",
+          "mark"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "250-400",
+        "total-mp": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "My Turn"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Shadow Stampede",
+        "skill-effect-1": "BUFF",
+        "skill-effect-2": "CC",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "15.0",
+        "mana-cost": "70 / 80 / 90 / 100 / 110 / 120",
+        "description": "Faramis enters the Shadow state for 3 seconds, gaining 70% extra Movement Speed, 25 extra Physical and Magic Defense, 20% cooldown reduction of this skill, and the ability to move through terrain. Enemy heroes that come into contact with Faramis in this state are dealt and applied with a . Upon leaving the Shadow state, Faramis drags all the marked enemy heroes toward him, dealing . Use again to leave the Shadow state early and drags marked enemies toward him. \nThe range of soul fragment absorption is increased while this skill is active.",
+        "term-1": "Movement Speed",
+        "term-2": "Magic Skill",
+        "term-3": "Regen Effect",
+        "ls-1": "Extra Defense: 25",
+        "ls-2": "Base Damage: 250 / 280 / 310 / 340 / 370 / 400",
+        "ls-3": "Extra Damage: 250 / 280 / 310 / 340 / 370 / 400",
+        "notes": "*Entering and leaving 's cancel this ability.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "330-480",
+        "total-mp": "144",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "200-300",
+        "total-mp": "72",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Ghost Bursters",
+        "skill-effect-1": "AoE",
+        "skill-effect-2": "Burst",
+        "skill-type-1": "Magic Skill",
+        "cooldown": "6.0 / 5.8 / 5.6 / 5.4 / 5.2 / 5.0",
+        "mana-cost": "75 / 85 / 95 / 105 / 115 / 125",
+        "description": "Faramis gathers Nether energy in a fan-shaped area ahead, dealing to enemies within. The energy will then split and bounce to nearby enemies, dealing  (splits up to 2 times on enemy hero hits and 1 time on non-enemy hero hits).",
+        "term-1": "Magic Skill",
+        "ls-1": "Base Damage: 330 / 360 / 390 / 420 / 450 / 480",
+        "ls-2": "Split Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Nether Realm",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Specter",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "400-800",
+        "template": "scale"
+      },
+      {
+        "base": "10",
+        "total-mp": "5",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "extra HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Specter",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Specter",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Nether Realm",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Faramis"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Nana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Molina's Gift"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Immortality"
+        ],
+        "template": "ii"
+      },
+      {
+        "name": "Cult Altar",
+        "skill-effect-1": "Death Immune",
+        "skill-effect-2": "BUFF",
+        "cooldown": "80.0 / 75.0 / 70.0",
+        "mana-cost": "150 / 250 / 350",
+        "description": "Faramis turns his surroundings into the for 6s, making affected allied hero (including himself) enter the  state and granting them  plus %  and 50% extra Movement Speed for 1s. When  state breaks, the hero will clear all debuffs and enter a brief Resurrection state for 1s. An allied hero's  state ends when they leave the.",
+        "ls-1": "Extra HP: 400 / 600 / 800",
+        "notes": "*Replace and affected allies' health bar for the duration.\n*The bonus health is affected by healing amplification or reduction.\n*The shield from abilities and items are hidden and unaffected by damage when bonus health remains.\n*Affected units are untargetable during Resurrection state.\n*The extra health makes the effect of this ability always take priority over on-death effects, such as 's  or .\n*The effect ends prematurely if Faramis' bonus health depletes.\n*A unit can only benefit once per this ability cast.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Support"
+        ],
+        "template": "support"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Faramis was originally released as a pure Support hero.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Support"
+            }
+          ]
+        },
+        {
+          "text": "Faramis finally received a skin (\"Royal Magus\") on 24 October 2022 making it the longest time for a hero to receive a second skin, in a span of 3 years, 5 months and 6 days or 1255 days."
+        },
+        {
+          "text": "Faramis is the first hero to receive a Mythic skin \"Infernal Magister\", next being Clint.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Clint"
+            }
+          ]
+        },
+        {
+          "text": "He is a physician and a necromancer."
+        },
+        {
+          "text": "He is currently the only who isn't officially listed in the Roamer list but rather is only listed as a Mid Laner.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Roamer"
+            },
+            {
+              "type": "internal",
+              "page": "Mid Laner"
+            }
+          ]
+        },
+        {
+          "text": "His abilities and aesthetic are similar to necromancers from fantasy lore, such as the Lich King (Warcraft) and Vlad Dracula-inspired characters.",
+          "formatting": {
+            "bold": [
+              "Lich King (Warcraft)",
+              "Vlad Dracula-inspired characters"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]

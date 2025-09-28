@@ -1,0 +1,1038 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The Queen of the Abyss who ruined lives of others.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alice was born in the era of strife long ago."
+          },
+          {
+            "text": "As an illegitimate daughter, she suffered humiliation since she was a child, bewitched by the demons."
+          },
+          {
+            "text": "Alice provoked disputes within the family, eventually taking control of the entire family and leading all of its members to betray the Lord of Light.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lord of Light"
+              }
+            ]
+          },
+          {
+            "text": "But their betrayal triggered a divine punishment and turned him into blood demons."
+          },
+          {
+            "text": "As a result, Alice led them to join the Abyss and they had fought for the darkness ever since."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Balmond"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Terizla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Dyrroth"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Selena"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Carmilla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Cecilion"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Estes"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Khaleed"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Julian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Melissa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Pharsa"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Vexana"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Yin"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Xavier"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Leomord"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lunox"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Claude"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Clint"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Esmeralda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Natalia"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Granger"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Arlott"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "The Queen of the Abyss who ruined lives of others.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Alice comic.png"
+        },
+        "full_name": {
+          "text": "*Queen Alice Antalus"
+        },
+        "origin": {
+          "text": "Sanguine Lair, Abyss",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Sanguine Lair"
+            },
+            {
+              "type": "internal",
+              "page": "Abyss"
+            }
+          ]
+        },
+        "alias": {
+          "text": "*Queen of Blood\n*Queen of Apocalypse (2016-2020)"
+        },
+        "title": {
+          "text": "Queen of Blood Demons"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "species": {
+          "text": "Blood Demon"
+        },
+        "affiliation": {
+          "text": "*The Abyss\n*Orc army\n*Dark Elves\n*Crow people, Moniyan Empire, Moon Elves, Necrokeep (enemies)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            },
+            {
+              "type": "internal",
+              "page": "Orc army"
+            },
+            {
+              "type": "internal",
+              "page": "Dark Elves"
+            },
+            {
+              "type": "internal",
+              "page": "Crow people"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            },
+            {
+              "type": "internal",
+              "page": "Moon Elves"
+            },
+            {
+              "type": "internal",
+              "page": "Necrokeep"
+            }
+          ]
+        },
+        "born": {
+          "text": "During Era of Strife"
+        },
+        "abilities": {
+          "text": "*Enhanced Blood Magic\n*Demonic Telephaty\n*Flight with her Wings\n*Teleporation\n*Shapshifting\n*Possession\n*Immortality"
+        },
+        "weapons": {
+          "text": "*Wings"
+        },
+        "battles_fought": {
+          "text": "*Invasion of Askati Forest\n*Invasion of Moonlit Forest\n*Invasion of Necrokeep",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Askati Forest"
+            },
+            {
+              "type": "internal",
+              "page": "Moonlit Forest"
+            },
+            {
+              "type": "internal",
+              "page": "Necrokeep"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Brun (father)\n*Colin, Simon (siblings)\n*Unnamed demon\n* (mutually exploit)\n*,, (companions)\n* (abducted-turned-ally)\n*, , , , ,, , , , , , , , , , , , ,  (enemies)\n*, , , , ,  (Lightborn Rangers, enemies)\n* (former ally, enemy)\n*Lord of the Abyss (Master)"
+        },
+        "en_va": {
+          "text": "Linsay Rousseau (2020–)",
+          "links": [
+            {
+              "text": "Linsay Rousseau",
+              "type": "internal",
+              "page": "imdb:nm3407619"
+            }
+          ]
+        },
+        "id_va": {
+          "text": "Beatrix Renita Purwiastanti"
+        },
+        "ja_va": {
+          "text": "Ayase Maria (綾瀬マリア)",
+          "links": [
+            {
+              "text": "Ayase Maria (綾瀬マリア)",
+              "type": "interwiki",
+              "wiki": {
+                "wiki": "wikipedia",
+                "lang": "ja"
+              },
+              "page": "綾瀬マリア"
+            }
+          ]
+        },
+        "ar_va": {
+          "text": "Sally El Nems"
+        },
+        "pt_va": {
+          "text": "Beatriz Villa"
+        },
+        "ru_va": {
+          "text": "Kuzminskaia Paulina"
+        },
+        "tk_va": {
+          "text": "Neslihan Arslan"
+        },
+        "es_va": {
+          "text": "Cony Madera",
+          "links": [
+            {
+              "text": "Cony Madera",
+              "type": "internal",
+              "page": "w:c:doblaje:Cony Madera"
+            }
+          ]
+        },
+        "zh_va": {
+          "text": "Xuecen Bai (白雪岑)"
+        },
+        "traits": {
+          "text": "*Cunning\n*Cruel\n*Intelligent\n*Strategic\n*Manipulative\n*Vengeful"
+        },
+        "likes": {
+          "text": "*The smell of warm fresh blood\n*Power"
+        },
+        "fighting_style": {
+          "text": "*Attack using Blood Magic\n*Mental Manipulation"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "At the beginning of the Era of Strife, human beings were just a new and weak race on the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "They worked in all corners of the world and created their own history."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "They are both good and evil; they can sacrifice their lives for justice, but also betray their compatriots for their own selfish desires; they themselves are a combination of light and darkness."
+          },
+          {
+            "text": "The huge potential contained in human beings was discovered by the light and dark factions."
+          },
+          {
+            "text": "In order to compete for humans' faith, the Endless War broke out for the second time."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After more than a century of development, while Brun was serving as the patriarch of the Antalus family, they became one of the most powerful and prosperous families in all mankind."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alice is Brun's youngest daughter, but compared with her two distinguished elder brothers, little Alice appears insignificant."
+          },
+          {
+            "text": "Her identity as an illegitimate daughter blindfolded her and she was never valued by the family."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alice gradually grew up in this malicious environment."
+          },
+          {
+            "text": "She hated everyone around her, hated this unfair destiny, hated the \"hypocritical gods\" the family believed in, and the darkness continued to spread in her heart."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One day, soldiers returning from the battlefield vied for spoils and divided them as usual."
+          },
+          {
+            "text": "Alice stood in a corner not far away, staring at them coldly."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Why do you bring back junk like this? It really gets in the way.\""
+          },
+          {
+            "text": "Someone said as they threw a bead to the ground."
+          },
+          {
+            "text": "Alice looked toward the bead, but unexpectedly, this bead, which seemed to be dim and dull to the others, burst into a breathtaking rose-colored light in Alice's eyes."
+          },
+          {
+            "text": "It rolled slowly to Alice's feet, and the moment she touched it with her hand, a demon's voice flooded her mind."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Offer your soul, my dear Alice. Accept our power and you will get everything you want.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"If I get what I want, what do you want from me?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"It's very simple. All I need is the faith of your family. Abandon the King of Light and plunge into the embrace of the Abyss.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Faith was not a big issue for Alice, but she remembered the vow that she would utter every time she offered a sacrifice: the never-extinguishing holy light will punish all betrayers."
+          },
+          {
+            "text": "No one knew what the punishment was."
+          },
+          {
+            "text": "Just as Alice was hesitating, Alice's brother Simon found her in the corner."
+          },
+          {
+            "text": "He came to Alice and pushed her down fiercely, saying: \"It’s you, you superfluous person… What are you doing here?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Seeing that Alice was not going to answer, he snatched the bead she was holding tightly in her hand."
+          },
+          {
+            "text": "Alice tried to snatch it back, but he kicked her into the air, \"A bastard is just a bastard, but a broken bead can be regarded as a treasure.\""
+          },
+          {
+            "text": "He glanced back at Alice, who had fallen to the ground and was not getting up, he snorted coldly, and continued, \"You're just like this bead – superfluous junk.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He flung the bead forcefully at Alice's lower abdomen."
+          },
+          {
+            "text": "The pain caused Alice to let out a blood-curdling scream."
+          },
+          {
+            "text": "The disturbance from the corner attracted the attention of others around."
+          },
+          {
+            "text": "Laughter filled the room for a while, and Alice felt out of breath."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When the crowd dispersed, all the built up humiliation and frustration broke out at this moment."
+          },
+          {
+            "text": "Alice clutched her stomach and stood up with difficulty."
+          },
+          {
+            "text": "She said to the demon: \"If I succeed, will you give me enough power to take all lives?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Of course, my dear Alice.\""
+          },
+          {
+            "text": "\"Okay, then I promise you.\""
+          },
+          {
+            "text": "\"That's more like it, hahahaha...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A scorching energy burned a black mark on the back of Alice's hand, and then disappeared."
+          },
+          {
+            "text": "She put away the bead and left quietly."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Brun was old, but the heir of the Antalus family was not yet elected."
+          },
+          {
+            "text": "Of his two sons, the younger Simon was the one he favored, much to the chagrin of his eldest son Colin."
+          },
+          {
+            "text": "Alice knew that this was her best way in."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Alice secretly provoked animosity between the two brothers, and used this to divide all the tribesmen into two parties who kept fighting."
+          },
+          {
+            "text": "During this time, Alice always stayed by Brun's side, playing the role of a good daughter while at the same time hinting to Brun in a roundabout way that his two sons wanted to kill him and take his place as tribal patriarch."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Without too much effort from Alice, the ridiculous family bond between a father and his two sons was torn to pieces in a power struggle."
+          },
+          {
+            "text": "As the gap between them deepened, a tragedy finally befell them: Colin hatched a plot that killed Simon, and Brun executed Colin under the bewitching influence of Alice."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After Colin's death, Brun fell ill, and Alice assumed the responsibility of the patriarch."
+          },
+          {
+            "text": "At this time, the family was ruined, and all the allies who had been following them betrayed them one by one."
+          },
+          {
+            "text": "On the one hand, Alice took care of Brun, and on the other hand, she used a strong hand to cheer up the family and gained the support and trust of the tribe."
+          },
+          {
+            "text": "Seeing the time was right, she quietly killed Brun by poisoning him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the funeral, those of the Antalus family realized that the family had fought for the light for generations, but the light had never blessed them."
+          },
+          {
+            "text": "Nowadays, allies left one after the other, not caring one bit for the friendships of the past."
+          },
+          {
+            "text": "They felt angry but helpless about this."
+          },
+          {
+            "text": "Incited by Alice, the tribesmen came to the altar, threw the holy objects to the ground in a rage, and gave feedback to the King of Light using their own actions."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At the moment when the sacred object was destroyed, a dazzling light fell from the sky above the altar, piercing into the bodies of all the tribespeople including Alice."
+          },
+          {
+            "text": "As they wailed, pitch black wings mixed with blood broke out of their bodies, and sharp fangs grew out of their mouths."
+          },
+          {
+            "text": "This was the punishment mentioned in the oath, the curse that will never be eliminated."
+          },
+          {
+            "text": "From then on, they became monsters who would never see the sun again."
+          },
+          {
+            "text": "They could only survive relying on the blood of other races."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After the light faded, countless blood-stained demonic hands stretched out from the ground."
+          },
+          {
+            "text": "By touching them, the Antalus family members were given the reward called \"Eternal Life\" by the Abyss."
+          },
+          {
+            "text": "Alice also received the demon’s reward at this time – gaining enough power to take away all lives."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When everything faded, they realized they had fallen into the gap between light and darkness and would no longer be accepted by the world."
+          },
+          {
+            "text": "Under the guidance of the demon, Alice led her tribe to profess their faith in the Lord of the Abyss."
+          },
+          {
+            "text": "After that, the Antalus family disappeared from the world forever."
+          },
+          {
+            "text": "In the faction of the demons, there was an additional race called the Blood Demons."
+          },
+          {
+            "text": "Under the leadership of Queen Alice, they wandered in the darkness and became the most loyal servants of the Abyss."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Crimson"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Crimson"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Blood Banquet"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "25",
+        "total-mp": "30",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Blood Banquet"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "10",
+        "extra-hp": "3",
+        "list": [
+          "HP"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Blood Banquet"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Crimson Blood Banquet",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Heal",
+        "description": "When Alice's skills hit, she gains 1 stack(s) of, lasting 4 seconds. Once reaches 2 stacks,  activates, dealing  plus 0.5%~2.5% (scales with level) of the target's Max HP as  to nearby enemies ( refreshes duration when hitting heroes) and recovering  for Alice every 0.5 seconds.  HP recovery from minions is reduced by 0%. Can deal up to 45(+12*Hero Level)  to creeps.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "100-200",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Scarlet Shadow"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Crimson Gleam",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "AOE",
+        "cooldown": "18.0 / 16.0 / 14.0 / 12.0 / 10.0 / 8.0",
+        "description": "Alice fires blood energy forward, dealing . Before the blood energy dissipates, this skill can be cast again to activate, allowing Alice to blink to the blood energy's location.",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 100 / 120 / 140 / 160 / 180 / 200",
+        "notes": "*Crimson Cleam's cooldown starts after the stream disappears or is casted again.\n*Player can hold the skill button to locate the blood sphere.",
+        "term-1": "Blink",
+        "term-2": "Magic Damage",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "350-550",
+        "total-mp": "130",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Blood Banquet"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Blood Banquet"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Doom Waltz",
+        "skill-effect-1": "Slow",
+        "skill-effect-2": "AOE",
+        "cooldown": "4.0",
+        "description": "Alice performs a deadly dance, dealing to nearby enemies and slowing them by 70% for 1 second. If  is active at this time, it also scorches enemies, dealing 300% of 's damage and healing Alice for the same amount.",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 350 / 390 / 430 / 470 / 510 / 550",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "500-700",
+        "total-mp": "150",
+        "extra-hp": "20",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Scarlet Shadow"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Throne of Ruin",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "cooldown": "60.0 / 55.0 / 50.0",
+        "description": "Alice surrounds herself with blood, gaining Control Immunity and 50% Damage Reduction while slowing herself by 50%. After 1.5 seconds, she descends with force, dealing to all enemies in range, and immobilizing them for 1 second. While charging her Ultimate, Alice can only use",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 500 / 600 / 700",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Balmond"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Esmeralda"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Alice comes from the Old French name \"Aalis\", which itself is derived from the Germanic name \"Adalheidis\" (Adelaide). It means \"noble\" or \"of noble kind.\"",
+          "formatting": {
+            "bold": [
+              "Alice",
+              "Old French name \"Aalis\"",
+              "Germanic name \"Adalheidis\" (Adelaide)",
+              "\"noble\"",
+              "\"of noble kind.\""
+            ]
+          }
+        },
+        {
+          "text": "She is mostly based by Lilith the Vampiress from Magic Rush; and they both are Vampire Queens with huge regen abilities.",
+          "links": [
+            {
+              "text": "Lilith the Vampiress",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/Lilith"
+            },
+            {
+              "text": "''Magic Rush''",
+              "type": "external",
+              "site": "https://magicrush.fandom.com"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Magic Rush"
+            ]
+          }
+        },
+        {
+          "text": "Alice has the most base mana from levels 4 (alongside Zhuxin) to 15.",
+          "links": [
+            {
+              "text": "mana",
+              "type": "internal",
+              "page": "mana"
+            },
+            {
+              "type": "internal",
+              "page": "Zhuxin"
+            }
+          ]
+        },
+        {
+          "text": "Her full name is Alice Antalus."
+        },
+        {
+          "text": "Alice is often regarded as the main antagonist in the Land of Dawn and Mobile Legends: Adventure alongside, appearing in various hero lores as the antagonist.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Land of Dawn"
+            },
+            {
+              "type": "internal",
+              "page": "Mobile Legends: Adventure"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "Mobile Legends: Adventure"
+            ]
+          }
+        },
+        {
+          "text": "Alice’s design shares some similarities with Maleficent, the iconic Disney villain, particularly in their dark, elegant, and sinister aesthetic.",
+          "links": [
+            {
+              "text": "Maleficent",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Maleficent_(film)"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Maleficent",
+              "dark, elegant, and sinister aesthetic"
+            ]
+          }
+        },
+        {
+          "text": "While not explicitly called a vampire, Alice’s blood-draining abilities and immortality make her MLBB’s vampire equivalent. Her lifesteal mechanic allows her to sustain herself in battle, much like classic vampire lore."
+        },
+        {
+          "text": "Currently, Alice and are the only heroes in the game classified as both Mage and Tank.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Mage"
+            },
+            {
+              "type": "internal",
+              "page": "Tank"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

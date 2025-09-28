@@ -1,0 +1,946 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "He was released as part of the 515 eParty 2021.",
+            "links": [
+              {
+                "text": "515 eParty 2021",
+                "type": "internal",
+                "page": "515 eParty 2021"
+              }
+            ]
+          },
+          {
+            "text": "Players had a chance to redeem the hero for free for a limited time."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "tabs hero"
+      },
+      {
+        "basic_attack_range": "2.3",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A former soldier from the border of the Empire who took on the chains of sin to defend his people.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Phoveus was framed."
+          },
+          {
+            "text": "Having been severely punished, he was then sent to fight with the vanguard."
+          },
+          {
+            "text": "Once battle was over, Phoveus came across a most mysterious cage; and which was sealed the spirit of Astaros, God of Terror.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Astaros"
+              }
+            ]
+          },
+          {
+            "text": "Bewitched by Astaros, Phoveus sacrificed his own two eyes in exchange for a great power, and now the two head ever deeper into the Dread Caves to awaken the body off that's numbers within."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Aulus"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Brody"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Thamuz"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "A former soldier from the border of the Empire who took on the chains of sin to defend his people.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Revamp Phoveus Comic.jpg"
+        },
+        "alias": {
+          "text": "*Shadow of Dread (formerly)\n*Chains of Sin"
+        },
+        "origin": {
+          "text": "The Barren Lands",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Barren Lands"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Border Guard"
+        },
+        "affiliation": {
+          "text": "*Moniyan Empire (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Monolith (Astaros)"
+        },
+        "relationships": {
+          "text": "*Astaros\n* (companion)\n*,, (ranger companions)\n* (enemy)"
+        },
+        "en_va": {
+          "text": "James Troup"
+        },
+        "ja_va": {
+          "text": "Kenjiro Abekawa (安部川賢治郎)",
+          "links": [
+            {
+              "text": "Kenjiro Abekawa (安部川賢治郎)",
+              "type": "internal",
+              "page": "imdb:nm11823629"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Phoveus was once a Moniyan soldier from the borders of the Lantis Mountains."
+          },
+          {
+            "text": "His unit, consisting of fourteen hardened warriors, was well known among the locals for their reckless bravery, fighting against the Abyss using questionable yet effective methods."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "During one disastrous offensive by the Empire, Phoveus was forced to invoke the power of an Evil God to turn the tide."
+          },
+          {
+            "text": "Despite the lives he saved, Phoveus was branded a sinner for conspiring with a demon."
+          },
+          {
+            "text": "On the way to his execution, the Evil God attempted to take over Phoveus's body, but Phoveus took advantage of the situation to bind himself and the Evil God together in a stone monolith."
+          },
+          {
+            "text": "While the Empire still condemns Phoveus as a sinner, those on the border will forever regard him as a hero."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Nameless Monolith under the crimson twilight of the Moniyan sky, the stench of blood wafting through the cold air hinted at a gruesome battle not long ago."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The wheels of a prison wagon bounced shakily over loose rocks as it was pulled along the mountain road."
+          },
+          {
+            "text": "\"Farewell to yesterday, to forgotten glories, on this familiar night. Cut open my chest and engrave this oath into the hearts of those on the border...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In the wagon, an obscured figure revealed himself through a gap in the cage."
+          },
+          {
+            "text": "His armor shattered, his face mutilated, and his empty eyes glinting coldly in the moonlight."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Silence!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A soldier bellowed as he strucks the wagon, interrupting the mumbled song."
+          },
+          {
+            "text": "The swelling anger rushed to his face as he cursed the prisoner:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"We lost thirteen thousand good men in that battle! And what you did... is akin to spitting on their graves!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The wind picked up like a whetted knife."
+          },
+          {
+            "text": "After a few moments of silence, Phoveus turned and retreated into the darkness."
+          },
+          {
+            "text": "The voice sounded from the wagon once more, but it was not the songs of the border soldiers this time."
+          },
+          {
+            "text": "Instead, thirteen names murmured over and over again."
+          },
+          {
+            "text": "These seemingly ordinary names once brought joy and hope to the villages across the Lantis Mountains."
+          },
+          {
+            "text": "They were the names of fathers, brothers, and sons who had protected the border for generations."
+          },
+          {
+            "text": "But now, they were just names written with disdain on a piece of paper from the Moniyan Border Regiment."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Your men will remembered as sinners and traitors, just like you.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At this moment, a stone monolith that was being transported in the same wagon began to stir."
+          },
+          {
+            "text": "Phoveus looked in disbelief as an eye slowly opened on the monolith; the same eye that led him to this fate."
+          },
+          {
+            "text": "It fixed itself on Phoveus, reflecting the madness in his eyes."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This encounter was no coincidence."
+          },
+          {
+            "text": "Centuries ago, Phoveus's ancestor sealed an Evil God atop a great pillar."
+          },
+          {
+            "text": "The pillar eroded over the years until it eventually became a monolith on the border of the Moniyan Empire and the Abyss."
+          },
+          {
+            "text": "After that fateful battle, the monolith was placed into the wagon for relocation."
+          },
+          {
+            "text": "Phoveus knew everything about the demon, and the demon knew everything about him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Take my power again, and claim all that is rightfully yours...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Phoveus remained silent but failed to notice his hand subconsciously inching toward the whispering monolith."
+          },
+          {
+            "text": "The thirteen names echoed in the darkness once more, this time accompanied by the sound of nails scratching on stone."
+          },
+          {
+            "text": "He had called out these names countless times."
+          },
+          {
+            "text": "They were etched onto his very soul, along with the trustful eyes, exhausted smiles, and worn-out faces that answered back."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But all that was no more."
+          },
+          {
+            "text": "The only thing that remained were the unmarked tombstones erected on the border."
+          },
+          {
+            "text": "The border they protected with blood and tears, and from which they could not find peace even in death."
+          },
+          {
+            "text": "Phoveus was then reminded that names are only useful to the living."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When the Abyss began relentlessly attacking the Lantis Mountain pass, trying to break the Empire's defensive line, a desperate Phoveus found himself in front of a giant demonic eye."
+          },
+          {
+            "text": "He felt as if the eye was peering into his soul, searching for something... \"Ah, he desires power, overwhelming enough to stop this senseless massacre.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under the influence of the demonic entity, Phoveus and his men managed to soundly rout the Abyssal forces that day."
+          },
+          {
+            "text": "The trumpet of the momentary victory along with the frustrated howls of the Abyss was carried all the way to the center of the Empire, fueling the Empire's ambitions of reclaiming lost territory."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And so, the Imperial Knight Tigreal was sent to the mountain pass with a force of thirteen thousand soldiers."
+          },
+          {
+            "text": "They arrived in high spirits, with their golden armor shining in the afternoon sun."
+          },
+          {
+            "text": "But when the fighting started, Phoveus realized that these men had lived in the light for too long and had forgotten how insidious the darkness could be."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The cunningness of the Abyss and the inexperience of the Empire's field commanders caused their entire second regiment to be surrounded by the Abyssal forces."
+          },
+          {
+            "text": "Phoveus looked hopelessly at his men still holding the line, their battered bodies refusing to fall, and he closed his eyes."
+          },
+          {
+            "text": "He told Tigreal he would rather be cursed by the world than let another comrade become a nameless tombstone."
+          },
+          {
+            "text": "Defying Tigreal's orders, Phoveus called out for the eye."
+          },
+          {
+            "text": "When it appeared before him, he used his blood to break the demon's seal."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A moment later, Phoveus slammed into the middle of the battlefield and began pushing back the Abyss, giving Tigreal and the remaining soldiers time to retreat."
+          },
+          {
+            "text": "But in the eyes of the Empire, there was no greater sin than colluding with a demon."
+          },
+          {
+            "text": "The lives of the soldiers he saved, in contrast, were of no consequence to his crime."
+          },
+          {
+            "text": "Phoveus was branded a traitor and imprisoned for execution."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Back in the wagon, the demonic power began twisting around Phoveus's arms like infernal chains."
+          },
+          {
+            "text": "Spikes protruded from them and pierced deep into Phoveus's flesh."
+          },
+          {
+            "text": "Finally!"
+          },
+          {
+            "text": "The Evil God had patiently waited and plotted for this very moment, and now he was about to seize the flesh and blood of his ancient enemies."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The wagon turned, revealing Phoveus's calm face under the moonlight."
+          },
+          {
+            "text": "There was a determination in his eyes that a desperate man should not have."
+          },
+          {
+            "text": "Phoveus suddenly grabbed the chains, and with the weight of his own soul, began pushing the demon back into the monolith."
+          },
+          {
+            "text": "The more the demon struggled, the tighter the chains became."
+          },
+          {
+            "text": "In the process, Phoveus's body and soul began fusing with a monolith while its power flowed into him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"We are alike in one respect. We have the patience of sages, concealing our true ambitions or this fateful day. Sadly, you will never have the chance to know the words engraved on the back of this monolith...\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Phoveus rubbed away the dust on the monolith, revealing the ancient oath engraved upon it:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Our will is your eternal shackle.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The cage burst into pieces to reveal Phoveus, covered in chains and pulsing with power."
+          },
+          {
+            "text": "With heavy steps, he lumbered back towards the border, dragging the monolith behind him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The monolith now imprisoned two souls, yet Phoveus had never felt more liberated, for he had finally obtained the power to save his people."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Basic Attack"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Infernal Pursuit"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Astaros' Gaze",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Malefic Gun"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Diversion"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Moskov"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Spear of Destruction"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Chip"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Shortcut"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Shortcut"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Arrival"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Demonic Force",
+        "image-2": "Demonic Force Buff",
+        "skill-effect-1": "Buff",
+        "description": "Phoveus' next allows him to charge at the enemy, knocking them back, dealing extra  equal to 4% of the enemy's Max HP, and gaining a Shield equal to 8% of his Max Hp. This effect has a 26-14 seconds cooldown (based on  level). : Whenever an enemy hero blink, dashes, or is displaced within 8 units of Phoveus, the cooldown of  will be reduced by 20% and the cooldown of his other skills will be reduced by 0.5 second.",
+        "term-1": "Displacement",
+        "notes": "*The enhanced basic attack has the range of 4 unit, with the indicator visible to everyone.\n*The passive triggers even when the enemies farther than 8 unit dash into any point within 8 unit.\n*The enhanced basic attack of Demonic Force can be increased by and its passive Malefic Energy.\n*Cyclone Eye effect on enemies triggers .\n*Teleportation also triggers the passive, such as 's, 's  or a unit enters 's .\n**However, the returning of  and  do not.\n*Death resets cooldown of.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-500",
+        "total-pa": "120",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Demonic Impact"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Astaros Eye"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Astaros Eye"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "100-250",
+        "total-pa": "60",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Demonic Impact",
+        "image-2": "Astaros Eye",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "Slow",
+        "cooldown": "6.0",
+        "description": "Phoveus slams his monolith into the ground, dealing to enemies in the area and slowing them by 70% for 0.5 second. If this skills hits an enemy, Phoveus' next  will leave behind an . : Implodes after a short delay, dealing  to the enemies.",
+        "term-1": "Dispacement",
+        "properties": "*Base Damage: 200 / 260 / 320 / 380 / 440 / 500\n*Astaros Eye Damage: 100 / 130 / 160 / 190 / 220 / 250",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-500",
+        "extra-pa": "100",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Dark Wave",
+        "skill-effect-1": "AOE",
+        "skill-effect-2": "CC",
+        "cooldown": "10.0",
+        "description": "Phoveus drops the stone and releases his demonic power in the target direction, knocking enemies airborne, dragging them along, and dealing.",
+        "term-1": "Movement Speed",
+        "term-2": "Magic Damage Skill",
+        "term-3": "Displacement",
+        "properties": "*Base Damage: 250 / 300 / 350 / 400 / 450 / 500",
+        "notes": "*The ability can be repositioned with during the cast delay.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Sinner",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Demonic Force"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Astaros Eye"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Dark Wave"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Sinner's Mark",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Judgement",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Sinner's Mark",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "250-500",
+        "total-pa": "100",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "name": "Infernal Pursuit",
+        "image-2": "Infernal Pursuit grayscale",
+        "image-3": "Infernal Pursuit Buff",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Burst",
+        "skill-type-1": "Physical Skill",
+        "skill-type-2": "Blink",
+        "description": ":, , and can apply  to the enemy hero hit. : Phoveus leaps into the air and smashes down with his monolith at the enemy hero with , dealing  plus extra  equal to 5% of the target's Max HP to enemies in the area while Phoveus recovers 50 plus 6% of his Lost HP. The HP recovered is reduced by 80% when hitting multiple enemies.",
+        "level-scaling": "Base Damage: 250 / 375 / 500\n*Bonus Damage: 5% / 7.5% / 10%",
+        "notes": "* This blink duration has control immunity. \n* Upon casting the skill, Phoveus will be momentarily untargetable while traveling into the target.\n** The duration scales on how far the target is from Phoveus.\n** The untargetable effect ends the moment Phoveus is just above the target.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Phoveus_(Chains_of_Sin).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Chains_of_Sin).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Chains_of_Sin).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Phoveus_(Monolith_Watcher).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Monolith_Watcher).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Monolith_Watcher).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Phoveus_(Matrix_Maverick).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Matrix_Maverick).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Matrix_Maverick).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:;Painted_skins",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3BPainted_skins?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3BPainted_skins"
+          },
+          {
+            "file": "File:<gallery_spacing=\"small\"_captionalign=\"center\"_hideaddbutton=\"true\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_spacing%3D%22small%22_captionalign%3D%22center%22_hideaddbutton%3D%22true%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery_spacing%3D%22small%22_captionalign%3D%22center%22_hideaddbutton%3D%22true%22%3E"
+          },
+          {
+            "file": "File:Phoveus_(Matrix_Raider).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Matrix_Raider).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Matrix_Raider).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Phoveus_(Matrix_Marauder).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Matrix_Marauder).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Phoveus_(Matrix_Marauder).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Faramis"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Belerick"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Benedetta"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Floryn"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Edith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Julian"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Faramis",
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Luo Yi"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Julian"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Faramis"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "main",
+          "diff",
+          "2025/06/30",
+          "2021/05/11"
+        ],
+        "template": "#invoke:datecalc"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Phoveus is the 7th and is one of the heroes who was given to players for free on release. The other free heroes are, , , , , , , and."
+        },
+        {
+          "text": "Phoveus is the third hero to be given for free during the 515 event (of 2021). The other are, and"
+        },
+        {
+          "text": "In the old voicelines, Astaros speaks in Latin on certain quotes."
+        },
+        {
+          "text": "He used to be a Magic Damage Hero, but was revamped to Physical Damage while still retaining some Magic Damage."
+        },
+        {
+          "text": "Phoveus has not received a skin since his release on 11 May 2021, therefore breaking the record for the longest time for a hero to receive a skin other than the basic skin, which is (1255 days) in a span of  days at 30 June 2025."
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,647 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Dean of the Ulturia School of the Magic Academy, Light Elf\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Eudora is a Light Elf who possesses a high level of magical talent, yet always loses control of her emotions because of her being discriminated against due to her Elf status."
+          },
+          {
+            "text": "Later, she was discovered by the mentor of the Magic Academy, Theresa, who took her to the Magic Academy to study."
+          },
+          {
+            "text": "Finally, she overcame the gloom in her heart and succeeded Theresa, becoming the dean of the Ulturia School."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Eudora_comic.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Eudora_comic.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Eudora_comic.png",
+            "caption": {}
+          }
+        ]
+      },
+      {
+        "list": [
+          "Official chinese name"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "5",
+          "11"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Gord"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Lylia"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Dean of the Ulturia School of the Magic Academy, Light Elf",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "雷朵 (léiduǒ \"lightning\" )"
+        },
+        "alias": {
+          "text": "*Lightning Weaver\n*Dean of the Ulturia School of the Magic Academy"
+        },
+        "born": {
+          "text": "Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "origin": {
+          "text": "Magic Academy, Northern Vale",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Magic Academy"
+            },
+            {
+              "type": "internal",
+              "page": "Northern Vale"
+            }
+          ]
+        },
+        "species": {
+          "text": "Light Elf",
+          "links": [
+            {
+              "text": "Light Elf",
+              "type": "internal",
+              "page": "Elf",
+              "anchor": "Light Elf"
+            }
+          ]
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "title": {
+          "text": "Professor"
+        },
+        "occupation": {
+          "text": "Magic Academy professor\n*Dean of the Ulturia School",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Magic Academy"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Lightning Nexus"
+        },
+        "abilities": {
+          "text": "Lightning"
+        },
+        "relationships": {
+          "text": "*Theresa (mentor)\n* (colleague)\n*, (students)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Theresa"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Abigail Turner (2020–)",
+          "links": [
+            {
+              "text": "Abigail Turner",
+              "type": "internal",
+              "page": "imdb:nm9986317"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Morisaki Miho (森嵜 美穂)"
+        },
+        "id_va": {
+          "text": "Wan Leoni Mutiarza"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Although they have been integrating into human civilization for many years, and their appearance and habits are becoming closer to those of humans, many Moniyan's still holds hostility and wariness toward the Light Elves.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Light Elves"
+              }
+            ]
+          },
+          {
+            "text": "It was in a village of such racial tension that Eudora grew up."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Due to its proximity to the Monastery of Light, most of the people in this village followed the outdated teachings of the monastery, and were unfriendly toward the Light Elves.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monastery of Light"
+              }
+            ]
+          },
+          {
+            "text": "The prejudices of the older generation also affected the children of the village, and Eudora was bullied and reviled by her peers for her unusual eyes and sharp ears for as long as she could remember, which led to her developing into a sensitive and withdrawn young Elf."
+          },
+          {
+            "text": "She had no friends, and her only companion was a humble Silver Song flower."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Lonely little Eudora would sit beside this flower for hours on end, sharing all her woes and joys with it."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, her only friend was eventually destroyed by the cruel children of the village."
+          },
+          {
+            "text": "A group of boys, who often teased Eudora, spied Eudora talking to her floral friend one day and uprooted it on a cloudy afternoon, then bragged about it to anyone who would listen."
+          },
+          {
+            "text": "When Eudora saw what they had done, she could no longer hold back her emotions."
+          },
+          {
+            "text": "All the years of indignation and abuse gushed from her body in the form of pure rage, condensed into the power of lightning, and she almost flattened the surrounding houses."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This was the awakening of Eudora's latent magic power, but because of this incident, her family had to leave the village and find a new home."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Eudora carried the burden of this painful memory with her as she grew up, and this emotional imbalance eventually became a huge obstacle in her struggle to control her magical power."
+          },
+          {
+            "text": "Whenever anyone tried to insult her on the basis of her appearance, the magic power in Eudora's body spiraled out of control, leaving her family with no choice but to move on to find another home."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This nomadic lifestyle of theirs finally came to an end when they arrived in Northern Moniyan."
+          },
+          {
+            "text": "A tutor from the Academy of Magic, named Theresa, discovered Eudora's magical talent and decided to bring her to the school to commence her formal education in the arcane arts.",
+            "links": [
+              {
+                "text": "Academy of Magic",
+                "type": "internal",
+                "page": "Magic Academy"
+              }
+            ]
+          },
+          {
+            "text": "Although she did not want to be separated from her family, Eudora gladly accepted Theresa's invitation and enrolled at the Academy of Magic, becoming an apprentice of the Ulturia School."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Under Theresa's guidance, Eudora absorbed all manner of magical knowledge, and soon mastered the most powerful magic Theresa had to teach her."
+          },
+          {
+            "text": "As time passed, she gradually grew from a young apprentice to one of the most outstanding magic instructors of the Ulturia School."
+          },
+          {
+            "text": "She grew her hair long in an attempt to hide her Elven ears."
+          },
+          {
+            "text": "Even though she was respected by all who knew her, the scars of her youth still lurked in her heart."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Eudora's mentor Theresa, head of the Ulturia School, was about to retire, she announced to the public that Eudora would be taking over."
+          },
+          {
+            "text": "But unexpectedly, this decision aroused great controversy."
+          },
+          {
+            "text": "Never in the history of the Academy of Magic had an Elf ever served as the head of a magic school and entered the academic committee."
+          },
+          {
+            "text": "Many even believed that this was a betrayal of the great prophet."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "All this time, Eudora had believed that she would never be subject to prejudice at the hands of the Academy of Magic, but the doubts that surfaced upon the announcement of this news threw her heart into turmoil."
+          },
+          {
+            "text": "The shadow of her childhood was cast over her again."
+          },
+          {
+            "text": "Huge lightning balls, bearing her heavy memories, crashed onto the floor, putting an abrupt end to the handover ceremony and all the confidence Eudora had tried to build over the years."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She decided to relinquish her appointed role as the head of the Ulturia School and was prepared to leave the Academy of Magic and seek a new home where she could live free from prejudice."
+          },
+          {
+            "text": "But Theresa stopped Eudora in her tracks and gave her a True-sight Mirror that allowed her to see her true self."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Only that which you care about can truly hurt you.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"You care about your race; you care about your appearance... and so, you care about what the others say.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Eudora stood before the mirror for a day and a night."
+          },
+          {
+            "text": "Those nightmarish childhood experiences and all the doubts surrounding the handover ceremony emerged from her one by one."
+          },
+          {
+            "text": "The light in her eyes shone brightly, the electricity within her surging with no end in sight."
+          },
+          {
+            "text": "Just as she was on the verge of exploding, it slowly dissipated, and all that remained when she looked in the mirror once more was the calm, pointy-eared Elf she had been running from."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She now knew herself, and had finally learned to face herself with peace in her heart."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Eudora cut her long hair, which she had been growing for many years, and raised her Elven ears high and proud."
+          },
+          {
+            "text": "She vowed to return to Ulturia School and tell all those who could not accept her: I know who I am, and you will one day find out who I am going to become."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "depth": 1
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Superconductor"
+        ],
+        "template": "ai"
+      },
+      {
+        "name": "Superconductor",
+        "skill-effect-1": "Buff",
+        "description": "Eudora's skills inflict for 3 seconds on hit and can trigger additional effects affected by Superconductor.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "350-650",
+        "total-mp": "150",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Superconductor"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "190-390",
+        "total-mp": "30",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Forked Lightning",
+        "skill-effect-1": "AOE",
+        "cooldown": "7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0",
+        "mana-cost": "65 / 70 / 75 / 80 / 85 / 90",
+        "term-1": "Magic Damage Skill",
+        "description": "Eudora casts forked lightning, dealing to enemies in a fan-shaped area. Enemies affected by  will take  extra  after a short delay.",
+        "properties": "*Spell Vamp Ratio: 50%\n*Base Damage: 350 / 410 / 470 / 530 / 590 / 650\n*Trigger Damage: 190 / 230 / 270 / 310 / 350 / 390",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "350-450",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "10-25",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Superconductor"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "175-225",
+        "total-mp": "40",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Ball Lightning",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "cooldown": "11.0 / 10.5 / 10.0 / 9.5 / 9.0 / 8.5",
+        "mana-cost": "90 / 100 / 110 / 120 / 130 / 140",
+        "term-1": "Stun",
+        "term-2": "Magic Damage Skill",
+        "description": "Eudora hurls an orb of lightning at the target enemy, dealing, stunning the target for 1.2 seconds, and reducing the target's Magic Defense by for 1.8 seconds. If the target is affected by , the lightning orb will bounce up to 3 nearby enemies (prioritizes enemy heroes), dealing  and stunning them for 0.6 second.",
+        "properties": "*Magic Defense Reduction: 10 / 13 / 16 / 19 / 22 / 25\n*Base Damage: 350 / 370 / 390 / 410 / 430 / 450\n*Spread Damage: 175 / 185 / 195 / 205 / 215 / 225",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "480-840",
+        "total-mp": "180",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Superconductor"
+        ],
+        "template": "ai"
+      },
+      {
+        "base": "440-770",
+        "total-mp": "150",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "360-630",
+        "total-mp": "150",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Thunder's Wrath",
+        "skill-effect-1": "Burst",
+        "cooldown": "32.0 / 29.0 / 26.0",
+        "mana-cost": "130 / 160 / 190",
+        "term-1": "Magic Damage Skill",
+        "description": "Eudora calls down a blast of lightning on the target [non-minion enemy,] dealing . If the enemy is affected by, dark clouds appear over their head and unleash an additional lightning strike on an area after 0.8 seconds, dealing to enemies within and  to nearby enemies.",
+        "properties": "*Initial Damage: 480 / 660 / 840\n*Delayed Damage: 440 / 605 / 770\n*Spread Damage: 360 / 495 / 630",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "2000"
+        ],
+        "template": "bp cost"
+      },
+      {
+        "list": [
+          "Layla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Zilong"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Ball Lightning"
+        ],
+        "template": "ai"
+      },
+      {
+        "type": "Limited",
+        "template": "skin tag"
+      },
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Eudora is the cheapest hero in the game, only costing, along with and."
+        },
+        {
+          "text": "Her name is a reference from one of the Hyades in Greek mythology. They are a sisterhood of nymphs that bring rain."
+        },
+        {
+          "text": "As the name suggest, her skill,, is based on the real life and rare phenomenon, ball lightning, described as luminescent, spherical objects that vary from pea-sized to several meters in diameter. Descriptions of ball lightning appear in a variety of accounts over the centuries and have received attention from scientists.",
+          "links": [
+            {
+              "text": "ball lightning",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "ball lightning"
+            }
+          ]
+        },
+        {
+          "text": "She has a Vivo-themed called \"Vivo Selfie Goddess\", and is one of the only two heroes to have a Limited tag along with  (\"Honor\")."
+        },
+        {
+          "text": "\"Vivo Selfie Goddess\" can be upgraded in Skin Upgrade, while \"Honor\" cannot be.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Skin Upgrade"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

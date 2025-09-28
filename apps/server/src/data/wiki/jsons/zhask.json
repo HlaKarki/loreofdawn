@@ -1,0 +1,851 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"King of the Swarm who distrupts the balance of the universe\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Zhask expanded his swarm as he pleased in the universe, disrupting its balance in the process."
+          },
+          {
+            "text": "Yve pursued him, but Zhask was able to escape every time."
+          },
+          {
+            "text": "When he shuffled to the Land of Dawn and attempted to destroy it, he was hit hard by the resistance of and Tobias, so he hibernated in Kastiya to recuperate.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              },
+              {
+                "type": "internal",
+                "page": "Tobias"
+              }
+            ]
+          },
+          {
+            "text": "But at this time, Yve also arrived, so a dual was imminent.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yve"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "mla"
+      },
+      {
+        "list": [
+          "Yve"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Aurora"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Argus"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "King of the Swarm who distrupts the balance of the universe",
+        "template": "quote"
+      },
+      {
+        "list": [
+          "Aurora"
+        ],
+        "template": "hi"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Zhask comic.jpg"
+        },
+        "full_name": {
+          "text": "Zhask"
+        },
+        "alias": {
+          "text": "*King of Swarms (Currently)\n*Planes Dominator (Formerly)"
+        },
+        "born": {
+          "text": "Kastiya"
+        },
+        "origin": {
+          "text": "Frozen Sea Chronorift"
+        },
+        "species": {
+          "text": "Extraterrestrial"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "nationality": {
+          "text": "Kastiyan"
+        },
+        "weapons": {
+          "text": "Domorey"
+        },
+        "abilities": {
+          "text": "*Summons Nightmaric Spawn\n*Fires mental missile\n*Summons Nightmeric Clones\n*Fuses to Nightmaric Spawn",
+          "links": [
+            {
+              "text": "Nightmaric Spawn",
+              "type": "internal",
+              "page": "Zhask",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "Fires mental missile",
+              "type": "internal",
+              "page": "Zhask",
+              "anchor": "Skill 3"
+            },
+            {
+              "text": "Summons Nightmeric Clones",
+              "type": "internal",
+              "page": "Zhask",
+              "anchor": "Skill 3"
+            },
+            {
+              "text": "Fuses to Nightmaric Spawn",
+              "type": "internal",
+              "page": "Zhask",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "*Invasion of Mithlora\n*Invasion of the Land of Dawn",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Land of Dawn"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "* (enemies)\n* and Tobias (enemies; Aurora's Old Lore)\n* (enemies) (Old Lore)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Tobias"
+            }
+          ]
+        },
+        "en_va": {
+          "text": "Cian Hoyne (2017–2021)",
+          "links": [
+            {
+              "text": "Cian Hoyne",
+              "type": "internal",
+              "page": "IMDB:nm9240513"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Miyamoto Jyun (宮本 淳)",
+          "links": [
+            {
+              "text": "Miyamoto Jyun (宮本 淳)",
+              "type": "internal",
+              "page": "imdb:nm8901288"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "In the vast universe, there are countless unknown planets and mysterious regions."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Some planets have been annihilated and forgotten, but some endure – like the planet of Kastiya."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Many great civilizations were built over a long history of discovery and enlightenment."
+          },
+          {
+            "text": "This was however, not the case for the Kastiyans – whose bloody history was etched in struggles and brutality."
+          },
+          {
+            "text": "For countless eons, the Swarm of Kastiya plundered and devoured to maintain the prosperity of their own race."
+          },
+          {
+            "text": "The vicious nature of the Swarm made them keen on endless encroachment and reproduction."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the king of Kastiya, Zhask knew exactly what he and his race needed."
+          },
+          {
+            "text": "The terrifying Swarm was able to follow Zhask's lead, appearing anywhere in the universe, and then devouring all in its path."
+          },
+          {
+            "text": "The scourge of the Swarm was more prolific than any other race."
+          },
+          {
+            "text": "No planet in known history has ever been completely safe from the Swarm – and the most terrifying thing was that the Swarm could never be completely wiped out."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Of course, the Swarm of Kastiya also had their arch-enemy – Mithlora."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Mithlora was a mysterious region among the stars."
+          },
+          {
+            "text": "The race living there was few in number, but naturally powerful."
+          },
+          {
+            "text": "As one of the most advanced hunters in the universe imbued with tremendous power, Mithlora was burdened with the purpose to maintain the balance of the universe."
+          },
+          {
+            "text": "Therefore, the ever-present Swarm had the ever-watchful Mithlora to deal with."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A veteran hunter from Mithlora had once destroyed Zhask's home Kastiya, but the Swarm could not be completely wiped out."
+          },
+          {
+            "text": "In fact, the destruction of their hometown sparked a raging crusade to expand wildly and ravage other planets."
+          },
+          {
+            "text": "Led by King Zhask, they took absolute pleasure in plundering and replicating their own species."
+          },
+          {
+            "text": "In the midst of their savagery, Mithlora had dispatched a formidable new hunter – Yve.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Yve"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Zhask was not afraid of this new threat."
+          },
+          {
+            "text": "On the contrary, he enjoyed the thrill of the chase."
+          },
+          {
+            "text": "Even though Kastiya had already been reduced to dust, Zhask and his Swarm believed that any area in the starry sky may become the the new Kastiya II – so long as they never stop breeding."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With great strength and cunning, Zhask caused Yve’s efforts to hunt down the scourge to fail countless times."
+          },
+          {
+            "text": "Because of the Swarm’s potency to reproduce, the planets that had been invaded had almost no power to fight back."
+          },
+          {
+            "text": "The creatures on those planets were quickly rendered extinct from Zhask's desolation."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Although those from Mithlora never needed help from others, the weakness of those planets isolated Yve to a certain extent."
+          },
+          {
+            "text": "Zhask was always 2 steps ahead of his Mithloran pursuer."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Yve would always find herself a completely plundered and ruined planet with Zhask already absconded towards his next foray into the known universe."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Zhask was immersed in the pleasure of plundering."
+          },
+          {
+            "text": "He enjoyed the thrill of the hunt and the endless slaughter."
+          },
+          {
+            "text": "Even with the best of Yve’s attempt to stop him, Zhask would always manage to escape under the cover of his swarm."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The scars on his body did not deter Zhask from his plundering journey."
+          },
+          {
+            "text": "Without pause, Zhask once again passed through the spacetime continuum and came to a new area."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This time, he came to the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The arrival of Zhask and the Swarm brought serious disaster to The Northern Vale in the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "Numerous villages and tribes were destroyed by the Swarm and the people were displaced."
+          },
+          {
+            "text": "But in a place where heroes gathered, and unlike his previous encounters, Zhask found unprecedented resistance in the Land of Dawn."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The young knight Tobias led his knights to fight Zhask and sacrificed his life for his land."
+          },
+          {
+            "text": "It was in this battle that Tobias’ lover Aurora, dealt Zhask a devastating blow.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aurora"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This was the first time that Zhask had been badly hurt by anyone other than Yve."
+          },
+          {
+            "text": "Injured, he could not escape from the Land of Dawn through the Chrono Rift, so he could only find a piece of land on this continent as a temporary stronghold to give him and his Swarm some respite."
+          },
+          {
+            "text": "He never imagined that these seemingly fragile creatures would be so powerful."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Zhask went to ground, waiting for the right opportunity."
+          },
+          {
+            "text": "But the situation was a bit tricky: Aurora, who in order to avenge her lover, guarded the Frozen Ocean and never left sight.",
+            "links": [
+              {
+                "text": "Frozen Ocean",
+                "type": "internal",
+                "page": "Frozen Seas"
+              }
+            ]
+          },
+          {
+            "text": "Meanwhile, the unusual yet familiar time and space fluctuations in the universe only meant to Zhask of Yve’s imminent arrival."
+          },
+          {
+            "text": "A battle of astronomic proportions was soon to happen in the Land of Dawn that could decide the fates of countless many in the universe…"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "\\mathrm{total\\ basic\\ ATK\\ DMG} = 115 + 20%\\ extra\\ ATK\\ SPD + 20%\\ magic\\ power",
+        "raw": "\\mathrm{total\\ basic\\ ATK\\ DMG} = 115 + 20%\\ extra\\ ATK\\ SPD + 20%\\ magic\\ power"
+      },
+      {
+        "list": [
+          "Nightmaric Spawn"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Magic Damage"
+        ],
+        "template": "link"
+      },
+      {
+        "image": "Decimation (Zhask)",
+        "name": "Decimation",
+        "skill-effect-1": "Summon",
+        "description": "Upon death, Zhask summons a frenzied on the spot, which gradually loses HP over time until death.",
+        "atk-effects": "20%",
+        "notes": "*Unlike the normal one, frenzied Nightmaric Spawn enjoys 100% of Zhask's Attributes and its Death Ray deals extra 60.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Nightmaric Spawn"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Hybrid Defense"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Magic Power"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Death Ray"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "55",
+        "extra-atk-spd": "20",
+        "total-mp": "20",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Fusion Enhanced:"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Nightmaric Spawn"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Holy Crystal"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Mystery"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "magic power"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Total Magic Power"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Initial Magic Power"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Golden Staff"
+        ],
+        "template": "ii"
+      },
+      {
+        "list": [
+          "Dominator's Descent"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Nightmaric Spawn"
+        ],
+        "template": "link"
+      },
+      {
+        "image-2": "Nightmaric Spawn 2",
+        "name": "Nightmaric Spawn",
+        "skill-effect-1": "Summon",
+        "cooldown": "13.0 / 12.0 / 11.0 / 10.0",
+        "mana-cost": "60 / 70 / 80 / 90",
+        "atk-effects": "20%",
+        "description": "Zhask summons a that Inherits 55%–100% of his Attributes . Nightmaric Spawn will automatically attack nearby enemies by firing a  at the target, dealing  and slowing them by up to 30% for 0.6 seconds. If Zhask is too far away from Nightmaric Spawn, it will disappear. Death Ray is considered as a Basic Attack but cannot Crit.  The damage of Nightmaric Spawn is increased to 180%, and it can be repositioned.",
+        "level-scaling": "Attributes Inherited: 55% / 70% / 85% / 100%\nAttack Speed Inherited by Nightmaric Spawn: 100%",
+        "bugs": "* will benefit twice from  Unique Passive-'s  bonus ( = ( + 35%) + 35% at level 15). \n* When terrified, Nightmaric Spawn will move from its position, showing that the spawn has a Movement Speed Attribute, albeit stationary when summoned.",
+        "term-1": "Magic Skill",
+        "term-2": "Movement Speed",
+        "notes": "*Nightmaric Spawn also benefits from Zhask's current buffs and debuffs, but not on standard/tier 3 talents.\n*Nightmaric Spawn can use Lifesteal to replenish its own HP but it won't heal Zhask. \n*Its basic attacks and Death Ray are considered as melee attacks.\n*Its attacks benefit from 's Unique Passive - Endless Strike, but it cannot stack them up by attacking.\n* The spawn will give an unknown amount of EXP and gold when slain.\n* Casting resets the cooldown of .\n*The disable duration of Skill 1 after the enhanced Nightmaric Spawn dies or disappears is 2 seconds. (Patch Notes 1.9.06)",
+        "template": "ability"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "300-540",
+        "total-mp": "100",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Nightmaric Spawn"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "120",
+        "total-mp": "80",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Fusion Enhanced:"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "540-975",
+        "total-mp": "180",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "name": "Mind Eater",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AOE",
+        "cooldown": "8.0",
+        "mana-cost": "50 / 65 / 80 / 95",
+        "description": "Zhask fires a penetrating mental missile in the designated direction, dealing . Afterward, will attack enemies by Mind Eater for  and stun for 0.5 seconds.  Increases the damage dealt by Mind eater by.",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 300 / 380 / 460 / 540\nComplete Damage: 540 / 685 / 830 / 975",
+        "term-1": "Stun",
+        "term-2": "Magic Damage Skill",
+        "notes": "*The enhanced skill damage is considered as Zhask's attack. If Zhask gets off the Enhanced Nightmaric Spawn, the Spawn's skill will turn into a regular one.",
+        "template": "ability"
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Skill 3",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "55-100",
+        "total-mp": "18",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Fusion Enhanced",
+          "E"
+        ],
+        "template": "link"
+      },
+      {
+        "name": "Hive Clones",
+        "skill-effect-1": "Slow",
+        "skill-effect-2": "Damage",
+        "cooldown": "10.0",
+        "mana-cost": "60 / 80 / 100 / 120",
+        "description": "Zhask releases a swarm (6) of Hive Clones in the targeted direction. The clones will explode and deal to enemies on contact, reducing their Movement Speed by 80% for 1 second. If Hive Clones find no target, they will burrow into the ground and ambush enemies passing by. : Zhask releases several (15) swarms of Hive Clones. Subsequent damage dealt to the same target decays to 20%.",
+        "spellvamp-ratio": "50%",
+        "level-scaling": "Base Damage: 55 / 70 / 85 / 100",
+        "stack-scaling": "Decay Ratio per subsequent hit: 100% / 20% / 20% / 20% / 20%\nDecay Ratio per subsequent hit (Fusion Enhanced): 100% / 20% / 20% / 20% / 20% / 20% / 20% / 20% / 20% / 20% / 20% / 20% / 20% / 20% / 20%",
+        "term-1": "Magic Damage Skill",
+        "term-2": "Movement Speed",
+        "notes": "*The enhanced skill damage is considered as Zhask's. If Zhask gets off the Enhanced Nightmaric Spawn, the Spawn's skill will turn into a regular one.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "math",
+        "formula": "\\mathrm{total\\ basic\\ ATK\\ DMG} = 99 + 36%\\ extra\\ ATK\\ SPD + 36%\\ magic\\ power",
+        "raw": "\\mathrm{total\\ basic\\ ATK\\ DMG} = 99 + 36%\\ extra\\ ATK\\ SPD + 36%\\ magic\\ power"
+      },
+      {
+        "list": [
+          "Nightmaric Spawn",
+          "Nightmaric Spawn"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Use Again:"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Dominator's Descent"
+        ],
+        "template": "link"
+      },
+      {
+        "image-2": "Dominator's Descent 2",
+        "name": "Dominator's Descent",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "Buff",
+        "cooldown": "60.0 / 55.0 / 50.0",
+        "mana-cost": "100 / 150 / 200",
+        "atk-effects": "36%",
+        "description": "Zhask selects a designated position to summon and fuses with it. Nightmaric Spawn can inherit 100% of his attributes and get extra of them. His skills are enhanced during the fusion period.  Zhask immediately gets off the Nightmaric Spawn and loses enhancement.",
+        "level-scaling": "Extra HP: 750 / 1625 / 2500\nExtra Hybrid Defense: 20 / 30 / 40\nLifesteal: 50%",
+        "notes": "*This skill is a blink.\n* lasts for 10 seconds.\n**This skill and Nightmaric Spawn is disabled for an unknown time after Nightmaric Spawn loses the enhancement from the Ultimate, disappeared or killed.\n\n*Cooldown starts when the skill has been casted.\n*During the brief animation period when his spawn is disappearing, whether it's dead or just out of range, Zhask cannot use this skill.\n*Zhask is untargetable during the fusion period.\n**Furthermore, the damage dealt and received and the buffs and debuffs received during the period are exclusive to the enhanced Nightmaric Spawn and not Zhask.\n*The game's camera height increases within the skill's duration.\n*This skill can be cancelled during the animation.\n*If Zhask currently has no spawn present when casting this skill, he will spawn one at the desired position instead. Summoning a spawn does not cost mana.\n*Zhask can still fuse to the enhanced Nightmaric Spawn when Skill 1 has yet to be learned (i.e. is at level 0). However, the enhanced spawn will not turn to a regular one when the skill ends and will disappear instead.",
+        "bugs": "*If Zhask use Skill 1 during the fusion to blink the enhanced spawn from point A to point B and then quickly use the second phase of the Ultimate to leave the spawn, Zhask will exit at point A rather than point B before his spawn blinks.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Painted avatar icons",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Hero506-color01-icon.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hero506-color01-icon.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hero506-color01-icon.png",
+            "caption": {}
+          },
+          {
+            "file": "File:Hero506-color02-icon.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Hero506-color02-icon.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Hero506-color02-icon.png",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "He is the first hero to have more than 3 abilities in a singular form, with 4 abilities."
+        },
+        {
+          "text": "He's also one of the heroes that can summon a unit called the \"Nightmaric Spawn\"."
+        },
+        {
+          "text": "His summoning skill is not counted as the correct answer in MLBB Quiz, which the question says: \"Which of the following heroes can summon allies to fight with them?\".",
+          "links": [
+            {
+              "type": "internal",
+              "page": "MLBB Quiz"
+            }
+          ]
+        },
+        {
+          "text": "Like other heroes' spawns that have their own name, Zhask's nightmaric spawn is named \"Domorey\", the insect spirit; which is named by the Kastiyan language."
+        },
+        {
+          "text": "Due to Domorey's power which can be said to be equivalent to the power of a hero, Zhask is known as \"the hero with the power of two heroes\"."
+        },
+        {
+          "text": "Two of Zhask's old quotes: \"Arkarmasan... Burrsossii!...\" and \"Ssh...shalosha....arraghh...\" are spoken on Kastiyan. This is the first language to be originally created by the game.",
+          "formatting": {
+            "italic": [
+              "Arkarmasan... Burrsossii!...",
+              "Ssh...shalosha....arraghh..."
+            ]
+          }
+        },
+        {
+          "text": "His Epic skin (Bone Flamen) is named after ancient Roman religion, where a flamen was a priest assigned to one of fifteen deities with official cults during the Roman Republic; the meaning of the skin's name then is \"Priest of the Bone\".",
+          "links": [
+            {
+              "text": "ancient Roman religion",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Religion in ancient Rome"
+            },
+            {
+              "text": "flamen",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Flamen"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

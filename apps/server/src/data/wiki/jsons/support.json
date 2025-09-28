@@ -1,0 +1,334 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The Support role is to aid and help protect your allies in any situation.",
+            "formatting": {
+              "bold": [
+                "Support"
+              ]
+            }
+          },
+          {
+            "text": "Your role is is to shield or heal them, to tanking some damage or sacrificing yourself to keep others alive."
+          },
+          {
+            "text": "You are often giving up the glorious kills in the game to support others, but in the end its usually the support to secure the true MVP award."
+          },
+          {
+            "text": "Support heroes usually lane with Marksman-type Heroes in top lane or at mid lane in order to be able to travel quickly where they are needed.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heroes"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Support is a type of role that provides some kind of benefit to their team."
+          },
+          {
+            "text": "These benefits provide sustainability through healing or giving shields or deal some form of CC like stunning enemies."
+          },
+          {
+            "text": "They often accompany carry heroes to help them level up faster."
+          },
+          {
+            "text": "They are recommended to participate in team fights to help teammates in accomplishing objectives and not to solo a lane."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Support_Icon.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Support_Icon.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Support_Icon.png",
+        "caption": "65px",
+        "links": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "This article is about the role of the hero. For the specialty of the hero, see Hero specialties § Support.",
+          "links": [
+            {
+              "text": "Hero specialties § Support",
+              "type": "internal",
+              "page": "Hero specialties",
+              "anchor": "Support"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "This article is about the role of the hero. For the specialty of the hero, see Hero specialties § Support."
+            ]
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Support Types",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Supports are classified into three types: pure, primary, and secondary."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Pure",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Because they have no other role, these heroes are full supports."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Rafaela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Estes"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Diggie"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Angela"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Floryn"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "2",
+          "*\n*\n*\n*\n*"
+        ],
+        "template": "column"
+      },
+      {
+        "template": "clr"
+      }
+    ],
+    "infoboxes": [
+      {
+        "title": {
+          "text": "Pure"
+        },
+        "image": {
+          "text": "Rafaela (Wings of Holiness).jpg"
+        },
+        "advantage": {
+          "text": "Yes"
+        },
+        "durability": {
+          "text": "N/A"
+        },
+        "offense": {
+          "text": "N/A"
+        },
+        "skill-effects": {
+          "text": "N/A"
+        },
+        "difficulty": {
+          "text": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Primary",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "These heroes are mainly supportive, who can also be used for a different purpose."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Lolita"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kaja"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Faramis"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Carmilla"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Mathilda"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Chip"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Kalea"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "2",
+          "* (Support/Tank)\n* (Support/Fighter)\n* (Support/Mage)\n* (Support/Tank)\n* (Support/Assassin)\n* (Support/Tank)\n* (Support/Fighter)"
+        ],
+        "template": "column"
+      },
+      {
+        "template": "clr"
+      }
+    ],
+    "infoboxes": [
+      {
+        "title": {
+          "text": "Primary"
+        },
+        "image": {
+          "text": "Lolita (Steel Elf).jpg"
+        },
+        "advantage": {
+          "text": "Yes"
+        },
+        "durability": {
+          "text": "N/A"
+        },
+        "offense": {
+          "text": "N/A"
+        },
+        "skill-effects": {
+          "text": "N/A"
+        },
+        "difficulty": {
+          "text": "N/A"
+        }
+      }
+    ]
+  },
+  {
+    "title": "Secondary",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Because they are used in a different way than a support's main purpose, these heroes are half-supports."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Minotaur"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Johnson"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "2",
+          "* (Tank/Support)\n* (Tank/Support)"
+        ],
+        "template": "column"
+      },
+      {
+        "template": "clr"
+      },
+      {
+        "template": "template:heroes"
+      }
+    ],
+    "infoboxes": [
+      {
+        "title": {
+          "text": "Secondary"
+        },
+        "image": {
+          "text": "Johnson (Wild Engine).jpg"
+        },
+        "advantage": {
+          "text": "No"
+        },
+        "durability": {
+          "text": "60",
+          "number": 60
+        },
+        "offense": {
+          "text": "55",
+          "number": 55
+        },
+        "skill-effects": {
+          "text": "71.25",
+          "number": 71.25
+        },
+        "difficulty": {
+          "text": "66.5",
+          "number": 66.5
+        }
+      }
+    ]
+  }
+]

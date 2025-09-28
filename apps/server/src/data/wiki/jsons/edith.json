@@ -1,0 +1,970 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "She was released as a part of the M3 World Championship-related events.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "M3 World Championship"
+              }
+            ]
+          },
+          {
+            "text": "Players had a chance to redeem the hero for free for a limited time."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Main"
+        ],
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Forsaken Warden with sealed memories.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Created by the Ancient Ones, Edith was the Primal Warden that watched over the sealed Evil Gods on the Sanctum Island."
+          },
+          {
+            "text": "Awakened and injured in an earthquake, she lost her memories and was saved by her foster father who made a living by selling scraps and continued to raise her for ten years."
+          },
+          {
+            "text": "When she once again helped her foster father enter the temple to search for scraps, the guardian of the ruins-Elemental Giant Uranus was prepared to destroy the invaders."
+          },
+          {
+            "text": "It was then that Edith remembered everything, but her humanity overpowered her divine nature, and she fought Uranus to protect her foster father."
+          },
+          {
+            "text": "Just then, the Celestial Palace fell and the sealed Evil Gods scattered."
+          },
+          {
+            "text": "Edith parted with her foster father, drove her Mecha \"Phylax\" and set out on a journey to hunt down fleeing Evil Gods."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Profile_CN_Edith.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Edith.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Profile_CN_Edith.jpg"
+          }
+        ]
+      },
+      {
+        "list": [
+          "Temperament (气质 \"qìzhì\" meaning \"temperament, disposition, manners, aura qualities) or Traits"
+        ],
+        "template": "translation"
+      },
+      {
+        "list": [
+          "9",
+          "15"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Kaja"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Uranus"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Forsaken Warden with sealed memories.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "alias": {
+          "text": "*Ancient Guard\n*Forsaken Warden \n*Primal Warden"
+        },
+        "chinese_name": {
+          "text": "伊童 (yītóng) - Edith 菲莱克斯 (Fēiláikèsī) - Phylax"
+        },
+        "origin": {
+          "text": "Sanctum Island",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Sanctum Island"
+            }
+          ]
+        },
+        "age": {
+          "text": "more than 1000"
+        },
+        "species": {
+          "text": "Demigoddess"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "occupation": {
+          "text": "Priestess"
+        },
+        "affiliation": {
+          "text": "*Sanctum Island\n*Celestial Palace",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Celestial Palace"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Phylax"
+        },
+        "abilities": {
+          "text": "Primal Lightning"
+        },
+        "battles_fought": {
+          "text": "Endless War",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Endless War"
+            }
+          ]
+        },
+        "traits": {
+          "text": "Paradox (Divinity and Humanity), Tenacious, Sense of Responsibility"
+        },
+        "relationships": {
+          "text": "*Unnamed foster father\n*Phylax (armor)\n*, (ally)\n*Evil Gods (enemies)"
+        },
+        "en_va": {
+          "text": "Xanthe Huynh",
+          "links": [
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Xanthe Huynh"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Shibata Mei (柴田 芽衣)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "In the far distant past when the world was just created, Ancient Ones built the Celestial Palace above the Sanctum Island in the Sea of Hope.",
+            "links": [
+              {
+                "text": "Ancient Ones",
+                "type": "internal",
+                "page": "Ancient One"
+              },
+              {
+                "type": "internal",
+                "page": "Celestial Palace"
+              },
+              {
+                "type": "internal",
+                "page": "Sanctum Island"
+              },
+              {
+                "type": "internal",
+                "page": "Sea of Hope"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The island was a part of a submarine volcano."
+          },
+          {
+            "text": "Submerged rocks and atolls were strewn all over the vicinity of the island, and the waters nearby are often shrouded in dense sea fog, which caused the wreckage of many ships that ventured to pass by."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Remote and undisturbed, the island was the ideal location for Ancient wonders."
+          },
+          {
+            "text": "The Ancient Ones set out to build temples and workshops with their incredible skills and technologies."
+          },
+          {
+            "text": "When the Celestial Palace began functioning, the mechanisms of the temple on the island received energy waves from the palace, and thus the island on the ground started coordinating with the palace above the sky."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Before the Endless War broke out, the Ancient Ones attempted to control the orders in the Land of Dawn.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Land of Dawn"
+              }
+            ]
+          },
+          {
+            "text": "They sent Kaja and Uranus to arrest unruly Evil Gods and imprison them in the Temple of Thunder on the Sanctum Island, where a priestess loyal to the Ancient Ones would drive her Mecha Guard \"Phylax\" and keep watch on them.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kaja"
+              },
+              {
+                "type": "internal",
+                "page": "Uranus"
+              },
+              {
+                "text": "Evil Gods",
+                "type": "internal",
+                "page": "Evil God"
+              },
+              {
+                "type": "internal",
+                "page": "Temple of Thunder"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The Mecha was fueled by Primal Lightning, a unique magic that could control lightning bolts with the Ancient power, and could only be performed by those specifically created by the Ancient Ones."
+          },
+          {
+            "text": "Among them are Kaja and Uranus high above in the Celestial Palace, as well as the priestess down below on the Sanctum Island."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The priestess was named Edith."
+          },
+          {
+            "text": "She accepted the eternal youth and divine power granted by her masters and punished the prisoners with ruthless Primal Lightning."
+          },
+          {
+            "text": "Hearing her name alone could make the most powerful Evil Gods tremble in fear."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After the Endless War broke out, however, the Ancient Ones vanished from using the Twilight Orb to seal the darkness and light.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Twilight Orb"
+              }
+            ]
+          },
+          {
+            "text": "Edith, the immortal Primal Warden, fell into a deep slumber as her masters disappeared."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Times changed, and some shipwreck survivors appeared on the Sanctum Island."
+          },
+          {
+            "text": "These impoverished people were struggling to survive on the barren island, and many trudged across the island only to find scarce resources."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After a devastating earthquake, the ruins of a temple were revealed."
+          },
+          {
+            "text": "It was buried deep in the valley and scorched by lightning strikes."
+          },
+          {
+            "text": "When foraging for metal scraps, an old rag-man discovered the place, but what he found instead was a blond girl lying in the rubble."
+          },
+          {
+            "text": "She could be struck by lightning at any moment!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The old man risked his life and carried the girl back to the seaside fishing village."
+          },
+          {
+            "text": "Having been injured in the head, the girl could only remember her name—Edith."
+          },
+          {
+            "text": "The childless old man took her in, and together they lived in the small village."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Edith's foster father doted on the daughter that he miraculously found, and spared no effort to care for her."
+          },
+          {
+            "text": "Edith could stroll around in the village when she didn't have to help with the chores, but the old man had one rule: she couldn't go near the valley—he had a hunch that one day he would lose his daughter there…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Edith was bored, she would often gaze up at the Celestial Palace above—the villagers said that it was the temple of the gods, and sometimes she could see bizarre birdlike people gliding across the sky with lightning."
+          },
+          {
+            "text": "But every time she saw them, a strong feeling of unease would fill her heart, for the past she'd forgotten seemed to be connected to the lightning sparks."
+          },
+          {
+            "text": "So, she would always run back home and bury herself in her father's arms, calming down as the old man patted her hand."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Ten years passed, and the old man became frailer."
+          },
+          {
+            "text": "The other kids all grew up, except for Edith who remained as young as when she was first found."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Eventually, her foster father was too old for physical labor."
+          },
+          {
+            "text": "In order to survive, he had to break the rule that he set up himself—he brought Edith with him to pick up metal scraps in the ruins of the valley."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Having searched the outside in vain, the old man had to take the risk and step inside the temple with Edith."
+          },
+          {
+            "text": "As they walked deeper within, Edith felt that her memories were surfacing once again, and suddenly lightning struck as giant flying blades were shot at her father!"
+          },
+          {
+            "text": "Edith dashed forward and instinctively stopped the blades with her power, the blades plunging into the ground and splitting rocks with lightning sparks."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Amidst the fire and dust, an Elemental Giant in gold armor appeared in front of Edith, \"You left your post, Edith!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This was—Uranus, the Guardian of the Celestial Palace!"
+          },
+          {
+            "text": "At that very moment, countless memories flooded Edith's mind: the Ancient Ones, priests and priestesses, the temple, Evil Gods… She screamed to reject the memories, but her mind was already engrossed in the past: the earthquake accidentally awoke me from my slumber, and it was the old man who raised me when I barely knew anything…"
+          },
+          {
+            "text": "\"Die, invader!\""
+          },
+          {
+            "text": "Uranus waves his giant arm at the old man, a string of flying blades shooting at the ground!"
+          },
+          {
+            "text": "Quick as a flash, \"Phylax\" came as summoned and reached out its strong metal arm to catch the blades."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Edith spoke from \"Phylax\" the Mecha, \"Let my father go.\""
+          },
+          {
+            "text": "Uranus shouted at the Mecha in front, \"Traitor!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And Edith calmly replied, \"Or let's fight to the death.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Among the temple ruins in the depths of the valley, Edith and Uranus were locked in a fierce battle, roars of thunder echoing in the mountains as lightning strikes crashed against each other, shattering the stone pillars and statues."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "While the two were still in a deadlock, a birdlike Guardian of the Celestial Palace—Kaja closed his wings and descended upon the ruins, \"Stop the foolish fight! The Celestial Palace is in peril!\""
+          },
+          {
+            "text": "They looked up at the sky, and as expected, Edith couldn't sense the energy of the holy city anymore."
+          },
+          {
+            "text": "And soon, pieces began plummeting from the sky—in the blink of an eye, the great Celestial Palace started to collapse!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Since the palace fell, the temple on the Sanctum Island could no longer receive energy from above, and sealed Evil Gods started to flee."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Uranus commanded in a thunder-like voice, \"Kaja, we shall stay and fix the seals! Edith, arrest the Evil Gods!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To that Edith answered, \"I understand my duty. Let me send my father back first!\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Kaja and Uranus stayed behind in the valley of the temple to watch over the rest of the Evil Gods, while Edith drove her \"Phylax\" and took her foster father back to the village."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As Edith stared at her senile and shaky father, she couldn't hold back tears running down her cheeks."
+          },
+          {
+            "text": "After ten years of living with a family, she was no longer the cold and heartless Primal Warden."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I'm his only child, his hope for the future."
+          },
+          {
+            "text": "How will he go on living if I leave now?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But the land was facing new crises due to the fall of the Celestial Palace."
+          },
+          {
+            "text": "Edith had to fulfill her duty as the Warden and hunt down the escaped Evil Gods."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Farewell, dear father!"
+          },
+          {
+            "text": "Please trust me, I will one day return to you…"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "I promise!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Edith drove \"Phylax\" and flew toward the Land of Dawn."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Later, a lot of people across the Land of Dawn would claim that they had seen a giant Mecha Guard."
+          },
+          {
+            "text": "Every time an Evil God wreaked havoc in the world, Edith and her \"Phylax\" would be there in an instant, punishing the dark forces without mercy."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In between battles, the girl would detach from \"Phylax\" and gaze at the far distant northeast."
+          },
+          {
+            "text": "Across the horizon, mountains, rivers and seas, on the remote island, an old man would also be looking longingly at the direction of his daughter…"
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Edith_story.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Edith_story.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Edith_story.png",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "total-mp": "30",
+        "total-hp": "target's 4-8",
+        "template": "scale"
+      },
+      {
+        "image": "Overload",
+        "name": "Overload",
+        "skill-effect-1": "BUFF",
+        "description": "After each skill cast, Edith and Phylax become Overloaded for 3 seconds, during which all Basic Attacks will trigger chain lightning, dealing extra Magic Damage equal to to up to 4 enemies. Chain lightning damage against Minions is increased to 150%.",
+        "term-1": "Magic Damage Skill",
+        "notes": "*Chain lightning counts as Skill Damage.\n*When the first target of its/her chain lightning is not a nearby Turret, the Turret will not be included in the chain.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "225–450",
+        "total-hp": "10",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Earth Shatter",
+        "name": "Earth Shatter",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "AoE",
+        "cooldown": "8.5 / 8.1 / 7.7 / 7.3 / 6.9 / 6.5",
+        "description": "After a 0.75 seconds delay, Edith controls Phylax to launch an earth-shattering blow in a designated direction, dealing to enemies hit (deals 120% damage to Minions and knocking them airborne for 1 second. This skill won't be interrupted by regular control effects (excluding Suppression).",
+        "ls-1": "Base Damage: 225 / 270 / 315 / 360 / 405 / 450",
+        "term-1": "Airborne",
+        "term-2": "Physical Damage Skill",
+        "template": "ability"
+      },
+      {
+        "base": "170–320",
+        "total-mp": "40",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "68–128",
+        "total-mp": "16",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Divine Retribution",
+        "name": "Divine Retribution",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "AoE",
+        "cooldown": "5.0 / 4.7 / 4.4 / 4.1 / 3.8 / 3.5",
+        "description": "Edith exacts Divine Retribution on a target area, dealing to enemies hit and slowing them by 30%. She then continues to deal  to enemies in the area every 0.5 second over the next 1.5 seconds.",
+        "ls-1": "Base Damage: 170 / 200 / 230 / 260 / 290 / 320",
+        "ls-2": "Continuous Damage: 68 / 80 / 92 / 104 / 116 / 128",
+        "term-1": "Magic Damage Skill",
+        "notes": "*Spell Vamp Ratio: 25%",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Phylax="
+        }
+      ],
+      [
+        {
+          "text": "-|Edith="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "base": "90–140",
+        "total-hp": "3",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "108",
+        "total-hp": "5",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Onward",
+        "name": "Onward",
+        "skill-effect-1": "Charge",
+        "skill-effect-2": "CC",
+        "cooldown": "10.0",
+        "description": "Edith controls Phylax to charge in a the target direction, dealing to enemies along the way. If Phylax hits an enemy hero during this process, it will stop immediately and throw them over its shoulder, dealing.",
+        "ls-1": "Base Damage: 90 / 100 / 110 / 120 / 130 / 140",
+        "term-1": "Charge",
+        "term-2": "Airborne",
+        "term-3": "Physical Damage Skill",
+        "template": "ability"
+      },
+      {
+        "base": "150–300",
+        "total-mp": "50",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "image": "Lightning Bolt",
+        "name": "Lightning Bolt",
+        "skill-effect-1": "CC",
+        "cooldown": "10.0",
+        "description": "Edith fires a Lightning Bolt in a designated direction, dealing to the first enemy hero hit and immobilizing them for 0.8 seconds.",
+        "ls-1": "Base Damage: 150 / 180 / 210 / 240 / 270 / 300",
+        "term-1": "Immobilize",
+        "term-2": "Magic Damage Skill",
+        "notes": "*Spell Vamp Ratio: 25%",
+        "template": "ability"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "-|Phylax="
+        }
+      ],
+      [
+        {
+          "text": "-|Edith="
+        }
+      ]
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Wrath",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Active",
+          "e"
+        ],
+        "template": "avc1"
+      },
+      {
+        "base": "35–65",
+        "total-pa": "75",
+        "total-mp": "25",
+        "list": [
+          "md"
+        ],
+        "template": "scale"
+      },
+      {
+        "total-hp": "5",
+        "template": "scale"
+      },
+      {
+        "total-hp": "20",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Magic Power"
+        ],
+        "template": "avc1"
+      },
+      {
+        "image": "Primal Wrath",
+        "name": "Primal Wrath",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "BUFF",
+        "cooldown": "40.0 / 37.0 / 34.0",
+        "description": ": When inside Phylax, Edith can accumulate according to the damage she receives (calculated before damage reduction). : Edith ejects herself forward from Phylax, knocking back nearby enemies. After that, she takes flight and can perform ranged Basic Attacks, each dealing . Edith also gains new skills in this state.  When in flight, Edith gains 350–650 –350–650 extra Shield, 50%–150% extra Attack Speed and 5%-20% Hybrid Lifesteal based on Wrath she accumulated, and converts each point of Extra Physical Defense and Extra Magic Defense into 3.5 . The Flight state lasts up to 8–12 seconds.",
+        "ls-3": "Base Shield: 350 / 500 / 650",
+        "ls-1": "Duration: 8 / 10 / 12",
+        "ls-2": "Basic Attack Damage: 35 / 50 / 65",
+        "term-1": "Magic Basic Attack",
+        "term-2": "Attack Speed",
+        "term-3": "Hybrid Lifesteal",
+        "notes": "*Wrath begins to deplete after 5 seconds of Phylax not being in battle (i.e. not taking or dealing damage), with 10% of Wrath depleted every 0.5 seconds.\n**Wrath persists after death and depletes nonetheless.\n*Edith can end Primal Wrath prematurely by canceling it.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "name": "Faramis",
+        "template": "hero icon"
+      },
+      {
+        "name": "Belerick",
+        "template": "hero icon"
+      },
+      {
+        "name": "Silvanna",
+        "template": "hi"
+      },
+      {
+        "name": "Luo Yi",
+        "template": "hero icon"
+      },
+      {
+        "name": "Benedetta",
+        "template": "hi"
+      },
+      {
+        "name": "Mathilda",
+        "template": "hi"
+      },
+      {
+        "name": "Phoveus",
+        "template": "hi"
+      },
+      {
+        "name": "Floryn",
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Edith is a feminine given name derived from the Old English word ēad, meaning wealth or prosperity, in combination with the Old English gȳð, meaning strife or war. Her name would technically mean \"prosperous in war\"."
+        },
+        {
+          "text": "Edith is the first hero to have the Tank/Marksman role.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Tank"
+            },
+            {
+              "type": "internal",
+              "page": "Marksman"
+            }
+          ]
+        },
+        {
+          "text": "Edith was the 9th hero who was given to players for free on release. The other free heroes are, , , , , , and."
+        },
+        {
+          "text": "She is currently the only hero who does not have Attack speed growth.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Attack speed growth"
+            }
+          ]
+        },
+        {
+          "text": "Aside from Brody, Edith is the only hero who doesn't wield any weapon.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Brody"
+            }
+          ]
+        },
+        {
+          "text": "In Ancient Greek, phylax (φύλαξ) means “watcher, guard, sentinel, guardian, keeper, or protector”.",
+          "links": [
+            {
+              "text": "''phylax'' (φύλαξ)",
+              "type": "interwiki",
+              "wiki": "wiktionary",
+              "page": "phylax"
+            }
+          ],
+          "formatting": {
+            "italic": [
+              "phylax"
+            ]
+          }
+        },
+        {
+          "text": "Phylax was first introduced in advanced server. It was later revealed that Edith was alongside it from leaks and early-access servers."
+        },
+        {
+          "text": "According to Phylax' old hero feature (\"An ancient machine guard that executes any trespassers on the Sanctuary Island\"), it is described as an executioner to any trespassers. Phylax/Edith were also supposed to come from Sanctuary Island, which it was named later as Sanctum Island."
+        },
+        {
+          "text": "In addition, Phylax is described as an Ancient Machine rather than an Ancient Guard before indicating that Phylax is primarily focused."
+        },
+        {
+          "text": "Edith was supposed to be released on December 21, 2021 along with Patch Notes 1.6.42, but it was postponed until it was finally released on December 24, 2021.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Patch Notes 1.6.42"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

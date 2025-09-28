@@ -1,0 +1,542 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Guardian of the Direbears\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Leader of the Sami people who lives in the Northern Vale."
+          },
+          {
+            "text": "After the wandering pirates of the Frozen Ocean began to invade the Northern Vale."
+          },
+          {
+            "text": "Masha fought constantly with the pirates, and insisted on finding the Direbears, who had been scattered by the pirate invasion, to protect the land."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "text": "Guardian of the Direbears",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Masha trailer.png"
+        },
+        "alias": {
+          "text": "Wild-oats Fist"
+        },
+        "origin": {
+          "text": "Northern Vale",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Northern Vale"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "title": {
+          "text": "Leader of the Sami/Sarmi tribe"
+        },
+        "occupation": {
+          "text": "*Tribal hunter"
+        },
+        "affiliation": {
+          "text": "*Sami/Sarmi Tribe\n*Direbears\n*Frozen Sea pirates (enemies)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Frozen Sea"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "Clawed gauntlets"
+        },
+        "abilities": {
+          "text": "*Abilities blessed by the Bear King\n**Having 3 lives\n**Wild Power\n**Unleashes energy shockwave\n**Releases thunderclap from her fists and disarming foes",
+          "links": [
+            {
+              "text": "Having 3 lives",
+              "type": "internal",
+              "page": "Masha",
+              "anchor": "Passive"
+            },
+            {
+              "text": "Wild Power",
+              "type": "internal",
+              "page": "Masha",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "Unleashes energy shockwave",
+              "type": "internal",
+              "page": "Masha",
+              "anchor": "Skill 2"
+            },
+            {
+              "text": "Releases thunderclap from her fists and disarming foes",
+              "type": "internal",
+              "page": "Masha",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "ethnicity": {
+          "text": "Sami/Sarmi"
+        },
+        "ja_va": {
+          "text": "Deguchi Mika (出口 美佳)"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "There was a land in the far north called Northern Vale, which was covered by winter snow all year round.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "It was also known as the land closest to the Frozen Sea.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frozen Sea"
+              }
+            ]
+          },
+          {
+            "text": "In their long history, the Sarmi Tribe and the Bears shared their land."
+          },
+          {
+            "text": "Having a common ancestor, they never attacked each other and lived in harmony."
+          },
+          {
+            "text": "As time passed, they developed a spiritual bond."
+          },
+          {
+            "text": "Such peace was maintained for a long time."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Nobody would have thought that the perilous natural environment of the Northern Vale would still invite invaders to this land."
+          },
+          {
+            "text": "Large numbers of pirates from the Frozen Sea came to the Northern Vale."
+          },
+          {
+            "text": "They brought not only endless plunder but also bitter wars."
+          },
+          {
+            "text": "Formidable as they were, the pirates pillaged and occupied this land."
+          },
+          {
+            "text": "As if that was not enough, the invaders started to hunt the Bears."
+          },
+          {
+            "text": "Every tribe of Northern Vale was threatened by those invaders - some of them were conquered, some of them were expelled from their homes, having to struggle homeless in the cold."
+          },
+          {
+            "text": "As the leader of Sarmi Tribe, Masha protected her tribal from waves of attacks."
+          },
+          {
+            "text": "As a tribal hunter, she had a great talent in battle, and this was the reason why she could defend the dignity of the Northern Vale."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She never forgot the vow of Sarmi - to \"Protect the Bears!\""
+          },
+          {
+            "text": "She endeavored to find the Bears."
+          },
+          {
+            "text": "But when she found the habitat of the Bears, she found only death and signs of violence everywhere."
+          },
+          {
+            "text": "Suddenly, Marsha heard a loud roar."
+          },
+          {
+            "text": "It was a familiar roar."
+          },
+          {
+            "text": "As expected, there was a group of invaders trying to hunt down the Bear King, who was constantly saying \"Beast Power\"."
+          },
+          {
+            "text": "They launched attacks with their advanced weapons and unique hunting skills."
+          },
+          {
+            "text": "The Bear King tried to protect the injured little bears by shielding them with his body, though he had been badly hurt by those iron spears."
+          },
+          {
+            "text": "Masha dashed into the battlefield to assist the Bear King, but was in vain."
+          },
+          {
+            "text": "The Bear King perceiving Masha's intentions, decided to divert the attention of those hunters by moving away."
+          },
+          {
+            "text": "Masha understood the purpose of the Bear King and rescued the little bears and ran into the mountains."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "She used her own cloth to bind the wounds sustained by the bears and placed them safely in a secret cave."
+          },
+          {
+            "text": "She went back to assist the Bear King who was gravely injured."
+          },
+          {
+            "text": "Those hunters beat him down and tried to capture him."
+          },
+          {
+            "text": "This irritated Masha who descended upon them and tore them up while attempting to save the Bear King."
+          },
+          {
+            "text": "The Bear King then mustered all his remaining strength and unleashed his final \"Beast Power\"."
+          },
+          {
+            "text": "Masha and the Bear King fought together and let the hunters pay in blood for their invasion."
+          },
+          {
+            "text": "It was the first time the Sarmi and the Bears fought together, and the victory belonged to all of Northern Vale."
+          },
+          {
+            "text": "What Masha didn't expect was that the Bear King was down to his final moments."
+          },
+          {
+            "text": "Masha could feel the grateful trust from the Bear King's eyes."
+          },
+          {
+            "text": "It seemed that the King was showing his deepest respect for what she had done."
+          },
+          {
+            "text": "Finally, the King closed his eyes and endowed Masha with powerful energy."
+          },
+          {
+            "text": "Masha felt this energy coursing through her body and she realized that this was the \"Beast Power\"."
+          },
+          {
+            "text": "Her body became extremely powerful."
+          },
+          {
+            "text": "It seemed that she could withstand any kind of attack with this body and could beat any opponent with her superb attack speed."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Masha successfully saved the little bears, in hopes that the bears would rise again in future."
+          },
+          {
+            "text": "From that day onwards, Marsha vowed to guard the Northern Vale with her \"Beast Power\" and no invaders would escape the wrath of her wild fists."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "variations-1": "KOF",
+        "name": "Ancient Strength",
+        "skill-effect-1": "Buff",
+        "description": "Blessed by the Bear King, Masha has 3 HP bars and won't die until all of them are depleted. She can ignore an instance of damage each time she loses an HP bar. When Masha only has two HP bars left, skills will only require 50% of their original HP Cost to cast. When Masha only has one HP bar left, she doesn't need to spend HP to cast skills.",
+        "notes": "*Abilities on equipment and battle spells that scales with HP only calculates the total HP, current HP or lost HP of Masha's current HP bar.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Passive:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Basic Attack",
+          "Basic Attacks"
+        ],
+        "template": "ii"
+      },
+      {
+        "base": "1",
+        "extra-pa": "0.5",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "max-hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Active:",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "2-4",
+        "extra-pa": "1",
+        "template": "scale"
+      },
+      {
+        "list": [
+          "max-hp"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Basic Attack",
+          "Basic Attacks"
+        ],
+        "template": "ii"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Wild Power",
+        "skill-effect-1": "Speed Up",
+        "skill-effect-2": "BUFF",
+        "cooldown": "6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0",
+        "description": "Masha gains Power of the Wild which causes her to deal extra Physical Damage equal to % of the target's  (up to 60 against Creeps and doesn't take effect on Turrets or Base).  Masha spends 24% HP to increase her Movement Speed by 60% for 1.5 seconds. She also increases the extra Physical Damage from Power of the Wild by % of the target's  and gains 50% extra Attack Speed for her next two.",
+        "properties": "*Bonus Damage: 2 / 2.4 / 2.8 / 3.2 / 3.6 / 4\n*Max Damage to Creeps: 60 / 72 / 84 / 96 / 108 / 120",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Attack Effect",
+        "notes": "*The extra damage does not critically strike.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-300",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Howl Shock",
+        "skill-effect-1": "Debuff",
+        "skill-effect-2": "AOE",
+        "cooldown": "15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0",
+        "description": "Masha spends 24% HP to roar at enemies, dealing and reducing their Attack Speed by 50% for 2 seconds.",
+        "properties": "*Base Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Movement Speed",
+        "notes": "*HP can only be consumed down to 1 on her final HP bar.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-500",
+        "total-pa": "200",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "HP"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Thunderclap",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Mobility",
+        "cooldown": "40.0 / 35.0 / 40.0",
+        "description": "Masha spends 34% HP to lunge at an enemy hero (immune to control effects during the lunge), dealing, slowing them by 25% for 2 seconds, and knocking back nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.",
+        "properties": "*Base Damage: 200 / 350 / 500",
+        "term-1": "Displacement",
+        "term-2": "Blink",
+        "notes": "*HP can only be consumed down to 1 on her final HP bar.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Other",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Wild Power"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "KOF",
+        "name": "Life Recovery",
+        "skill-effect-1": "Heal",
+        "skill-effect-2": "Invincible",
+        "cooldown": "0.0",
+        "energy-cost": "50",
+        "description": "Masha gains Energy when dealing damage to enemies and extra Energy when dealing damage with . After leaving combat for 3 seconds, Masha can activate this skill to spend half a full bar of Energy to recover a full HP bar. Masha is invincible while casting this skill.",
+        "notes": "*Life Recovery is disabled unless Masha has half a full bar of energy.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Masha is a Russian language variation of the feminine name Mary."
+        },
+        {
+          "text": "Masha's name and her relationship to bears are likely inspired from the Russian folktale Masha and the Bear.",
+          "formatting": {
+            "italic": [
+              "Masha and the Bear"
+            ]
+          }
+        },
+        {
+          "text": "Additionally, she was released in time for 10th anniversary of the said show."
+        },
+        {
+          "text": "Her tribe is the only one that is based on a real tribe; according to the lore, she is a member of the Sami or Sarmi tribe, which may be the Land of Dawn equivalent of the Sámi peoples in Northern Europe.",
+          "links": [
+            {
+              "text": "Sámi peoples",
+              "type": "internal",
+              "page": "Wp:Sámi_peoples"
+            }
+          ]
+        },
+        {
+          "text": "She is the only hero to have three health bars."
+        },
+        {
+          "text": "She is the only hero without defense growth as of version 1.8.30.",
+          "links": [
+            {
+              "text": "version 1.8.30",
+              "type": "internal",
+              "page": "Patch Notes 1.8.30"
+            }
+          ]
+        },
+        {
+          "text": "She was first introduced as a Fighter/Tank hero in Patch 1.4.14, but was later changed to a pure fighter in Patch 1.4.94. However, it was restored in Patch 1.6.66.",
+          "links": [
+            {
+              "text": "Patch 1.4.14",
+              "type": "internal",
+              "page": "Patch Notes 1.4.14"
+            },
+            {
+              "text": "Patch 1.4.94",
+              "type": "internal",
+              "page": "Patch Notes 1.4.94"
+            },
+            {
+              "text": "Patch 1.6.66",
+              "type": "internal",
+              "page": "Patch Notes 1.6.66"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

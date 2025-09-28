@@ -1,0 +1,663 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "physical_def1": "25",
+        "physical_def15": "135",
+        "magic_def1": "15",
+        "magic_def15": "71",
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Brave permafrost warrior, Bane's sworn enemy\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane."
+          },
+          {
+            "text": "In one battle, Franco saw through Bane's tricks and finally defeated him."
+          },
+          {
+            "text": "Life was brought back to the Northern Vale under his leadership."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "8",
+          "16"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Freya"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bane"
+        ],
+        "template": "hi"
+      },
+      {
+        "text": "Brave permafrost warrior, Bane's sworn enemy",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "佛朗哥 (fúlǎnggē)"
+        },
+        "alias": {
+          "text": "Frozen Warrior"
+        },
+        "origin": {
+          "text": "Northern Vale",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Northern Vale"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "Unnamed tribe leader"
+        },
+        "affiliation": {
+          "text": "Black Shark Pirates (hostile)"
+        },
+        "weapons": {
+          "text": "*Iron hook\n*Hammer",
+          "links": [
+            {
+              "text": "Iron hook",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 1"
+            },
+            {
+              "text": "Hammer",
+              "type": "internal",
+              "page": "",
+              "anchor": "Skill 2"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "Battle of the Frozen Sea",
+          "links": [
+            {
+              "text": "Battle of the Frozen Sea",
+              "type": "internal",
+              "page": "Fighters on the Stormy Sea"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "* (companions)\n* (enemies)"
+        },
+        "ja_va": {
+          "text": "Nakamura Taishi (中村 大志)",
+          "links": [
+            {
+              "text": "Nakamura Taishi (中村 大志)",
+              "type": "external",
+              "site": "https://www.animenewsnetwork.com/encyclopedia/people.php?id=150106"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "The harsh natural environment of the distant and wintry Northern Vale shaped those who live there into a brave and martial people.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "They revered the strong, and took pride in their tall and rugged appearances."
+          },
+          {
+            "text": "They believed that their robust physiques were inherited from their common ancestor ⁠— the Iceland Golem who once ruled these lands.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Iceland Golem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To the young Franco, however, this traditional way of thinking was nothing but oppressive."
+          },
+          {
+            "text": "His tribe had lived on the coast of the Frozen Sea for generations, and relied on their large fleet of ships for trade and fishing to support their livelihoods.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frozen Sea"
+              }
+            ]
+          },
+          {
+            "text": "But the passing years did not make young Franco want to become a grown man."
+          },
+          {
+            "text": "They only made him notice the strange way the others would look at him."
+          },
+          {
+            "text": "Though his father was a harpooner famous throughout the coast, and his brothers were all tall and strong, Franco was small and unimpressive for a Northman."
+          },
+          {
+            "text": "Some even said jokingly that, given Franco's stature, his ancestor was not the Iceland Golem, but the dwarves of legend."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "To train strong warriors, the Northern Vale tribes on the coast of the Frozen Sea engaged in intensely competitive games from childhood, and received systematic combat training once they reached puberty, so that they would be ready to engage in long trading missions or fishing journeys upon reaching adulthood."
+          },
+          {
+            "text": "To Franco's embarrassment, however, when the other boys had already started to wield battle axes, spears, and to rig sails, he could only handle much smaller weapons."
+          },
+          {
+            "text": "In fact, the battle axes were even taller than he was."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Though small in stature, Franco had a great ambition ⁠— to become the Northern Vale's greatest warrior, and to have his name remembered in the book of heroes, to be adulated by future generations."
+          },
+          {
+            "text": "To achieve this ambition, Franco trained relentlessly day after day, increasing his strength and martial prowess."
+          },
+          {
+            "text": "Yet, no matter how hard Franco trained, he was looked down upon by the others for his short stature."
+          },
+          {
+            "text": "Even his father and brothers believed that little Franco was only suited to be a merchant, and never a warrior or sailor who could take on the cruel environment and ferocious enemies."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Facing constant mockery and discrimination, Franco angrily decided to leave his tribe."
+          },
+          {
+            "text": "He would prove to all of them that, even if he was little, he could still achieve his great things."
+          },
+          {
+            "text": "Over the next few years, he hid away in the Northern Vale's endless mountains, surviving and training alone in that most extreme of environments."
+          },
+          {
+            "text": "After many long years of fighting the bitter cold, terrible beasts, and ever-present threats, Franco developed a strength far exceeding an ordinary man's, as well as a firm and indomitable character."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Whilst Franco was training alone in the mountains, the cruel and power-hungry Captain Bane descended upon the Frozen Sea.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bane"
+              }
+            ]
+          },
+          {
+            "text": "Breaking the long-respected rules of the Northern Vale's pirates and fishermen, he began to invade and annex the territory of other pirates as well as commoners, ruling them with an iron fist."
+          },
+          {
+            "text": "Those facing Bane's powerful fleet and fearsome firepower had only two options: submit, or be annihilated."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bane's cruelty drew fierce resistance from various forces, the fiercest of all coming from Franco's tribe."
+          },
+          {
+            "text": "As a warning to those who would defy him, Bane sent a massive armada of pirate ships to blockade the surrounding sea, and sent constant raids on Franco's tribe, declaring he would sink all their ships, and raze their harbor to the ground."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After ten years in the mountains, Franco returned to his tribe, full of confidence and strength."
+          },
+          {
+            "text": "Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength."
+          },
+          {
+            "text": "Only after the battle did his oppressed tribesmen make a surprising discovery: that the hero who had come to save them was none other than the once-mocked little Franco."
+          },
+          {
+            "text": "After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Franco then led his tribesmen and their ships in resistance against Bane's cruel rule."
+          },
+          {
+            "text": "They equipped old fishing ships with battering rams and cannons, and attacked Bane's pirate fleets wherever they were found, dealing a heavy blow against Bane's forces."
+          },
+          {
+            "text": "In desperation, Bane gathered an enormous fleet to suppress Franco's resistance, but both sides remained in a deadlock after several battles, with Bane unable to force an advantage."
+          },
+          {
+            "text": "Once, Bane managed to lead Franco into a trap, but only managed to wound him, and Franco managed to escape with his life."
+          },
+          {
+            "text": "Furthermore, more and more people of the Northern Vale, inspired by Franco's courage and strength, united around him to fight Bane."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Seeing Franco's strength grow steadily by the day, the cunning Captain Bane came up with a plan: he would sue for peace with Franco, suggesting that they search for the Twilight Orb of legend together, while secretly drawing the Moniyan Empire's navy to the Frozen Sea.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Twilight Orb"
+              },
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              },
+              {
+                "type": "internal",
+                "page": "Frozen Sea"
+              }
+            ]
+          },
+          {
+            "text": "This would allow him to kill two birds with one stone: find the Twilight Orb, and defeat Franco for good."
+          },
+          {
+            "text": "Suspicious of Bane's sudden goodwill, Franco pretended to take the bait, ordering his men to search for the Twilight Orb, while secretly leading a contingent of warriors to seize control of a pirate ship among the Black Sharks fleet."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bane instigated a battle between the two navies, preparing to reap the benefits for himself in the aftermath."
+          },
+          {
+            "text": "However, Franco, hidden within the Black Sharks, ordered his men to open fire from behind Bane, making a direct hit on the Behemoth."
+          },
+          {
+            "text": "In his most exultant moment, Bane and his flagship received a deadly blow from the defiant lord, and sank to the bottom of the sea."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "With Bane drowned, Franco became ruler of the entire coast of the Northern Vale."
+          },
+          {
+            "text": "He led his people to drive out the remnants of Bane's forces, rebuild the harbor, and restart trade, bringing a renaissance to the entire Northern Vale."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Out of respect for Franco's glorious achievements, the people of the Northern Vale titled him the Frozen Warrior."
+          },
+          {
+            "text": "But to Franco, all that he had done so far was still not worthy of such praise."
+          },
+          {
+            "text": "Not long after, Franco learned that Bane not only had not perished, but had gained a new power, and was gathering his men to make his return."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fighters on the Stormy Sea",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Fighters on the Stormy Sea"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "list": [
+          "Wasteland Force",
+          "e"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Wasteland Force",
+        "skill-effect-1": "Buff",
+        "description": "If no damage is taken within 5 seconds, Franco gains 10% Movement Speed, recovers 1% per second, and begins accumulating  (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase the skill's damage by up to 150%.",
+        "properties": "*Damage Increase Per Stack: 5% / 10% / 15% / 20% / 25% / 30% / 35% / 40% / 45% / 50%",
+        "term-1": "Movement Speed",
+        "term-2": "Max HP",
+        "notes": "*If the stack has been consumed while the passive is active, Franco has to receive damage or the stack won't start accumulating again.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "400-650",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Franco"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Flicker"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Soul Sever"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "An Eye for An Eye"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Iron Hook",
+        "cooldown": "15.0 / 14.2 / 13.4 / 12.6 / 11.8 / 11.0",
+        "mana-cost": "135 / 140 / 145 / 150 / 155 / 160",
+        "skill-effect-1": "CC",
+        "skill-effect-2": "Damage",
+        "skill-type-1": "Physical Skill",
+        "description": "Franco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing dragging them to Franco.",
+        "properties": "*Base Damage: 400 / 450 / 500 / 550 / 600 / 650",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Displacement",
+        "notes": "*The hook will pull to 's current position, which can be extended or repositioned by .\n*The hook first applies stun, then the pulling effect.\n**When the hook hits a target, it plays a different sound and lingers briefly before returning.\n**Some abilities providing CC Immune may fail to remove the pulling effect. e.g., .\n*Fully affect invisible and concealed enemies.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Physical Damage"
+        ],
+        "template": "avc1"
+      },
+      {
+        "list": [
+          "Max HP"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Fury Shock",
+        "cooldown": "7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5",
+        "mana-cost": "40 / 45 / 50 / 55 / 60 / 65",
+        "skill-effect-1": "Slow",
+        "description": "Franco lashes out, dealing equal to 300–450 plus 4% of his  to nearby enemies and slowing them by 70% for 1.5 seconds.",
+        "properties": "*Base Damage: 300 / 330 / 360 / 390 / 420 / 450",
+        "term-1": "Physical Damage Skill",
+        "term-2": "Max HP",
+        "term-3": "Movement Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "50",
+        "total-pa": "70",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Bloody Hunt",
+        "cooldown": "62.0 / 55.0 / 45.0",
+        "mana-cost": "110 / 125 / 140",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "description": "Franco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing.",
+        "properties": "*Damage Per Hit: 50 / 60 / 70",
+        "term-1": "Suppress",
+        "term-2": "Physical Damage Skill",
+        "notes": "*Ability ends prematurely when being crowd controlled.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Lesley"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Miya"
+        ],
+        "template": "hi"
+      },
+      {
+        "name": "Kaja",
+        "template": "hi"
+      },
+      {
+        "name": "Barats",
+        "template": "hi"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Franco is based on a real-life, historical viking warrior.",
+          "links": [
+            {
+              "text": "viking warrior",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Vikings"
+            }
+          ]
+        },
+        {
+          "text": "Both Franco and have the same quote: \"One shot, one kill\"",
+          "formatting": {
+            "italic": [
+              "\"One shot, one kill\""
+            ]
+          }
+        },
+        {
+          "text": "had the same quote but was removed due to being revamped for Project NEXT.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Project NEXT"
+            }
+          ]
+        },
+        {
+          "text": "Most of his quotes are directly taken from the character York from Magic Rush: Heroes, which he also shares the same voice acting with. This explains why some of them seem completely unrelated to him, such as: \"I love the smell of gunpowder in the morning\".",
+          "links": [
+            {
+              "text": "'''York'''",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/wiki/York"
+            },
+            {
+              "text": "Magic Rush: Heroes",
+              "type": "external",
+              "site": "https://magicrush.fandom.com/"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Magic Rush: Heroes",
+              "York"
+            ],
+            "italic": [
+              "Magic Rush: Heroes",
+              "I love the smell of gunpowder in the morning"
+            ]
+          }
+        },
+        {
+          "text": "Franco is currently the only hero whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced."
+        },
+        {
+          "text": "Franco was banned temporarily in the game on 29 December 2021 after an exploit had been discovered on the Serpent lair. The ban was lifted on 19 January 2022 which spans for 21 days and 3 hours, which is the longest recorded ban in MLBB history, before the Helcurt ban in 2023."
+        },
+        {
+          "text": "Franco is one of three heroes that can apply the Suppression crowd control, the other being and.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Suppression"
+            }
+          ]
+        }
+      ]
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  }
+]

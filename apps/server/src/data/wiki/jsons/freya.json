@@ -1,0 +1,757 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Valkyrie who guards the Northern Vale.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Twilight Orb"
+              }
+            ]
+          },
+          {
+            "text": "Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Freya_(2020-present).png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(2020-present).png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(2020-present).png",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(2018-2020).png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(2018-2020).png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(2018-2020).png",
+            "caption": {}
+          }
+        ]
+      },
+      {
+        "list": [
+          "7",
+          "26"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Atlas"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Franco"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Bane"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "Valkyrie who guards the Northern Vale.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "chinese_name": {
+          "text": "芙蕾雅 (fúlěiyǎ)"
+        },
+        "origin": {
+          "text": "Martyr Shrine, Northen Vale",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Northen Vale"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Female"
+        },
+        "title": {
+          "text": "Valkyrie"
+        },
+        "affiliation": {
+          "text": "*Frozen Sea warriors (allied)\n*Black Shark Pirates (hostile)"
+        },
+        "weapons": {
+          "text": "Sword and shield which can turn into a battleaxe",
+          "links": [
+            {
+              "text": "battleaxe",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "abilities": {
+          "text": "*Bringing fallen warriors to Valhalla\n*Turns into Valkyrie mode",
+          "links": [
+            {
+              "text": "Valkyrie mode",
+              "type": "internal",
+              "page": "",
+              "anchor": "Ultimate"
+            }
+          ]
+        },
+        "battles_fought": {
+          "text": "Fighters on the Stormy Sea",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Fighters on the Stormy Sea"
+            }
+          ]
+        },
+        "relationships": {
+          "text": "*Skuld (elder sister, fate unknown)\n*, (companions)\n* (enemies)"
+        },
+        "en_va": {
+          "text": "Aimee Smith",
+          "links": [
+            {
+              "text": "Aimee Smith",
+              "type": "internal",
+              "page": "imdb:nm5261058"
+            }
+          ]
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Valkyries were distinguished and revered fighters among the warlike Northern Vale folks.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Northern Vale"
+              }
+            ]
+          },
+          {
+            "text": "The bravest and strongest female warriors in each tribe would be chosen to join their ranks and take up the responsibility of guiding the spirits, of fallen heroes into Valhalla and keeping the peace in Northern Vale."
+          },
+          {
+            "text": "Becoming a Valkyrie would bring great glory to everyone in the tribe."
+          },
+          {
+            "text": "It was considered to be the greatest achievement one could ever dream for."
+          },
+          {
+            "text": "But such a glory came at a price- the Valkyries had to make huge sacrifices for their privilege."
+          },
+          {
+            "text": "They could never marry or bear children and they were bound to dedicate their entire life to the protection of Northern Vale."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "At first, such glory and burden didn't belong to Freya."
+          },
+          {
+            "text": "As far as she could remember, her elder sister Skuld was their tribe's best hope."
+          },
+          {
+            "text": "She was clever, decisive, brave and resilient."
+          },
+          {
+            "text": "She could already defeat all the other warriors in their tribe when she was just sixteen years old."
+          },
+          {
+            "text": "The high priest of the Martyr Shrine foresaw the future in a prophecy.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martyr Shrine"
+              }
+            ]
+          },
+          {
+            "text": "\"A female warrior, a daughter of Northern Vale, will one day lead this land to a new path.\""
+          },
+          {
+            "text": "Everyone believed that the kid in the prophecy was Skuld."
+          },
+          {
+            "text": "So, in order to fulfill her destiny, she kept training day after night, hoping that one day she could take up the mantle and bring a glorious future to her tribe and the entire Northern Vale."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Unlike her sister Skuld, young Freya lived a carefree life."
+          },
+          {
+            "text": "She was known to be naughty, vigorous and curious."
+          },
+          {
+            "text": "But, she admired her sister Skuld, believing that she could live happily ever so long, as her brilliant and lovingly sweet sister was with her."
+          },
+          {
+            "text": "But her sister Skuld disagreed."
+          },
+          {
+            "text": "She would always encourage Freya, saying that she could one day become the person who would lead their tribe and even all the Northern Vale folks."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When Freya was twelve, Skuld passed the high priest's trial, became an exalted Valkyrie of the Martyr Shrine, and left her homeland."
+          },
+          {
+            "text": "Two years later, Freya sneaked out of the tribe by herself and headed to the Martyr Shrine, the place where all Northern Vale folks were forbidden to visit."
+          },
+          {
+            "text": "She had missed her sister so much, that she was dying to see Skuld."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, her destiny was entirely changed, on that day."
+          },
+          {
+            "text": "Outside the Martyr Shrine, Freya peeked into the wall, watching the Valkyries, who were holding a transcendence ritual for the spirits of the dead."
+          },
+          {
+            "text": "But inside this empty hall, a strange light caught Freya's attention."
+          },
+          {
+            "text": "Freya approached and realized that it was a strange object floating above the altar."
+          },
+          {
+            "text": "Its radiance encircled itself, like a giant light orb."
+          },
+          {
+            "text": "It felt like there was a wonderful dreamland hidden in its light, calling Freya to come."
+          },
+          {
+            "text": "Propelled by this mysterious force, Freya was unknowingly drawn to it and reached out to touch the light orb floating above the altar."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Suddenly, an immense amount of energy raged inside the orb, then broke free from the seal of the altar, rising straight towards the sky."
+          },
+          {
+            "text": "What Freya didn't know was that this orb, Heart of Aurora, was actually an ancient relic possessed and worshiped by the Northern Vale for the past hundreds of years.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heart of Aurora"
+              }
+            ]
+          },
+          {
+            "text": "But it also had another secret identity: It was one of the legendary Apocalypse Shard.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Apocalypse Shard"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After Freya accidentally touched it, the immense energy, once contained within the Heart of Aurora rushed out of control and started to grow ever stronger."
+          },
+          {
+            "text": "Should it explode and spread, the entire Northern Vale would be swept away."
+          },
+          {
+            "text": "This anomaly startled the priests and Valkyries outside."
+          },
+          {
+            "text": "Facing this dire situation, the high priest told everyone that they had to jump into the energy field to be able to stop the energy from growing."
+          },
+          {
+            "text": "Just as Freya was shocked and frozen by this terrible scene, a familiar and gentle figure appeared and hugged her from behind."
+          },
+          {
+            "text": "Skuld emerged from the Valkyries, and gave her own sword and shield to Freya."
+          },
+          {
+            "text": "Skuld nodded and smiled at her, then, dived into the energy field."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The lights became blinding, then everything stopped."
+          },
+          {
+            "text": "The immense energy had vanished and peace was restored in the hall of Valhalla."
+          },
+          {
+            "text": "But after this accident, Skuld and the Heart of Aurora gone rogue, both went missing, never to be found again."
+          },
+          {
+            "text": "Freya was in deep sorrow and she blamed herself for this tragedy."
+          },
+          {
+            "text": "The old high priest approached and caressed her forehead."
+          },
+          {
+            "text": "He told Freya that Skuld had always had high hopes for her sister, she believed that Freya was the chosen one, she believed that Freya could lead Northern Vale to a different path."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Devastated by the sense of guilt, Freya took up her sister's sword and shield along with her faith on her, and walked into the endless dark night."
+          },
+          {
+            "text": "After years of training and extraordinary efforts, she finally became a Valkyrie, at the age of twenty."
+          },
+          {
+            "text": "She returned to the Martyr Shrine, took up her sister's mantle, and kept watch for Northern Vale."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Time flew by as Freya stood guard in the coldness and snow as a Valkyrie."
+          },
+          {
+            "text": "She had been to everywhere in Northern Vale over the years, reconciling conflicts and resolving difficulties for people."
+          },
+          {
+            "text": "She gave everything she had to Northern Vale, like a caring elder sister."
+          },
+          {
+            "text": "As Captain Bane and his Black Shark Pirates rose, the world of Northern Vale shifted.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bane"
+              }
+            ]
+          },
+          {
+            "text": "The merciless Captain Bane and his mortal enemy Franco fought each other fiercely, along the coast shore and the newfound traces of the \"Heart of Aurora\" drew lots of attention.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Franco"
+              }
+            ]
+          },
+          {
+            "text": "The news came: the endless conflict between Bane and Franco, the \"Heart of Aurora\" that sank into the bottom of ocean, the lurking darkness."
+          },
+          {
+            "text": "She remembered the tragedy that had happened years ago and deeply missed her sister."
+          },
+          {
+            "text": "Everything was calling Freya, leading her toward the coast shore."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "There, she would find all the answers she sought, and she would protect her homeland at all cost, as a Valkyrie of Northern Vale."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Fighters on the Stormy Sea",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Fighters on the Stormy Sea"
+        ],
+        "template": "main"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Sacred Orb",
+          "stack"
+        ],
+        "template": "b"
+      },
+      {
+        "name": "Spirit Combo",
+        "template": "ai"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Power of Einherjar",
+        "image-2": "Power of Einherjar Buff",
+        "skill-effect-1": "Burst",
+        "description": "After casting a skill, Freya gains 200% Attack Speed for her next 2 Basic Attacks (this effect can stack up to 6 times). Freya gains 1 stack of on each Basic Attack and can spend Sacred Orb stacks to cast  consecutively.",
+        "term-1": "Attack Speed",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "200-300",
+        "extra-pa": "80",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Spirit Combo"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Leap of Faith",
+        "skill-effect-1": "Mobility",
+        "cooldown": "8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0",
+        "description": "Freya jumps to the target location, dealing to enemies hit and pulling them towards her.",
+        "properties": "*Base Damage: 200 / 220 / 240 / 260 / 280 / 300",
+        "term-1": "Blink",
+        "term-2": "Displacement",
+        "term-3": "Movement Speed",
+        "notes": "*This can cancel the casting animation of any of the to extend their range, especially to the 3rd cast.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "60-260",
+        "extra-pa": "70",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "20-230",
+        "extra-pa": "90",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Sacred Orb",
+          "stack"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "26-276",
+        "extra-pa": "108",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Legend",
+        "image-2": "Spirit Combo 2",
+        "image-3": "Spirit Combo 3",
+        "image-4": "Spirit Combo 4",
+        "name": "Spirit Combo",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Mobility",
+        "cooldown": "10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0",
+        "description": "Freya strikes in the target direction, gaining a while dealing  to enemies hit and slowing them by 30% for 0.5 seconds. Freya can cast this skill again withnin 3.5 seconds at the cost of 2 stacks of . On the 3rd cast, Freya leaps into the air and smashes the area below, dealing  to enemies within range and knocking them airborne for 0.4 seconds.",
+        "properties": "*Shield: 60 / 100 / 140 / 180 / 220 / 260\n*Base Damage: 20 / 62 / 104 / 146 / 188 / 230\n*Final Damage: 26 / 76 / 126 / 176 / 226 / 276",
+        "term-1": "Blink",
+        "term-2": "Airborne",
+        "notes": "** Each of the Spirit Combo skills cannot be interrupted, not even death.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Valkyrie",
+          "state"
+        ],
+        "template": "b"
+      },
+      {
+        "base": "600-900",
+        "extra-pa": "180",
+        "list": [
+          "shield"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Physical Attack"
+        ],
+        "template": "b"
+      },
+      {
+        "variations-1": "Legend",
+        "name": "Valkyrie Descent",
+        "skill-effect-1": "Morph",
+        "skill-effect-2": "Shield",
+        "cooldown": "54.0 / 50.0 / 46.0",
+        "quote": "My faith is my guardian!",
+        "description": "Freya gains 6 stacks of Sacred Orb and enters the state, gaining a  and 30&Ndash;70 . Meanwhile, her Basic Attacks become ranged and deal splash damage. The Valkyrie state lasts for 10 seconds.",
+        "properties": "*Enhanced Basic Attack Range: 3.5\n*Shield: 600 / 750 / 900\n*Attack Bonus: 30 / 50 / 70",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Shield",
+        "notes": "*The lifesteal and attack effects cannot be triggered on enemies who received splash damage but on Freya's main target.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Splash arts",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Freya_(Valkyrie).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Valkyrie).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Valkyrie).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(Dark_Rose).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Dark_Rose).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Dark_Rose).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(Dragon_Hunter).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Dragon_Hunter).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Dragon_Hunter).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(Beach_Sweetheart).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Beach_Sweetheart).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Beach_Sweetheart).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(War_Angel).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(War_Angel).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(War_Angel).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(Gladiator).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Gladiator).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Gladiator).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Zilong_(Christmas_Carnival).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Zilong_(Christmas_Carnival).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Zilong_(Christmas_Carnival).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(Raven_Shogun).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Raven_Shogun).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Raven_Shogun).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(S.A.B.E.R._Manhunter).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(S.A.B.E.R._Manhunter).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(S.A.B.E.R._Manhunter).jpg",
+            "caption": {}
+          },
+          {
+            "file": "File:Freya_(Galatic_Vanquisher).jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Galatic_Vanquisher).jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Freya_(Galatic_Vanquisher).jpg",
+            "caption": {}
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Battle Points"
+        ],
+        "template": "bp cost"
+      },
+      {
+        "list": [
+          "Battle Points"
+        ],
+        "template": "bp cost"
+      },
+      {
+        "list": [
+          "Diamonds"
+        ],
+        "template": "diamond cost"
+      },
+      {
+        "template": "cite"
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "Freya is based on the goddess Freyja, a goddess in Norse mythology. She is associated with love, beauty, fertility, sex, war, death, and magic.",
+          "links": [
+            {
+              "text": "Freyja",
+              "type": "internal",
+              "page": "WP:Freyja"
+            }
+          ]
+        },
+        {
+          "text": "Freya's appearance in lore is based on a Valkyrie. Valkyries are female figures who guide souls the of the dead to the god Odin's hall Valhalla.",
+          "links": [
+            {
+              "text": "Valkyrie",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Valkyrie"
+            },
+            {
+              "text": "Odin's",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Odin"
+            },
+            {
+              "text": "Valhalla",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Valhalla"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "text": "The first-generation Freya is a pay-to-win hero. Additionally, Freya is one of the two heroes (Including Odette) that cannot be bought by . However, Odette used to be bought by back then when she was released in 2017. Freya only stayed purchasable with  up until now. The reason for this is still unknown.",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Odette"
+            }
+          ]
+        },
+        {
+          "text": "Freya English voice actress also voiced some of the Battlefield Quick Chats."
+        }
+      ]
+    ]
+  }
+]

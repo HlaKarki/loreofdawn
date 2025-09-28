@@ -1,0 +1,862 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"The captain of the Eruditio Rangers that protects the city with his amazing football skills.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bruno, the current captain of the Eruditio Rangers and a star footballer, had a very eventful past.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eruditio Rangers"
+              }
+            ]
+          },
+          {
+            "text": "Born in the Agelta Drylands, Bruno grew up in a remote village surrounded by poverty.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Agelta Drylands"
+              }
+            ]
+          },
+          {
+            "text": "But it was those hardships that fueled his longing for freedom."
+          },
+          {
+            "text": "As soon as he was of age, Bruno joined a caravan in hopes of seeing the world."
+          },
+          {
+            "text": "Unfortunately, a tragic accident robbed him of his legs and his freedom."
+          },
+          {
+            "text": "But fate was on his side, for when the caravan passed him through Eruditio, Bruno was offered a second chance."
+          },
+          {
+            "text": "Although it came with great risk, he was so touched by the passion of the city that he decided to take that chance, and in the end of his courage paid off."
+          },
+          {
+            "text": "He not only regained his legs, but was now faster than ever."
+          },
+          {
+            "text": "Instead of continuing his travels, he decided to remain in Eruditio and become its protector."
+          },
+          {
+            "text": "He vowed to uphold the ideals of the Oasis in the desert and help others find true freedom."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:Bruno_Lethal_Nexus_Map_Profile.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno_Lethal_Nexus_Map_Profile.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno_Lethal_Nexus_Map_Profile.png"
+          },
+          {
+            "file": "File:Bruno_Lethal_Nexus_Map_Background_Story.png",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno_Lethal_Nexus_Map_Background_Story.png?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno_Lethal_Nexus_Map_Background_Story.png"
+          },
+          {
+            "file": "File:</gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fgallery%3E"
+          },
+          {
+            "file": "File:</ref><ref_group=\"note\">Age_information_may_be_out_of_date._This_in-game_event,_which_included_ages_and_other_character_information,_was_held_before_the_Eruditio_region_update_in_2023._For_example,_in_this_event,_[[X.Borg]]'s_age_is_listed_as_26,_but_his_canon_age_is_currently_18,_according_to_his_official_Weibo_profile._For_these_reasons,_all_information_from_this_event_may_be_inaccurate_for_the_current_version.</ref>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_group%3D%22note%22%3EAge_information_may_be_out_of_date._This_in-game_event%2C_which_included_ages_and_other_character_information%2C_was_held_before_the_Eruditio_region_update_in_2023._For_example%2C_in_this_event%2C_%5B%5BX.Borg%5D%5D's_age_is_listed_as_26%2C_but_his_canon_age_is_currently_18%2C_according_to_his_official_Weibo_profile._For_these_reasons%2C_all_information_from_this_event_may_be_inaccurate_for_the_current_version.%3C%2Fref%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_group%3D%22note%22%3EAge_information_may_be_out_of_date._This_in-game_event%2C_which_included_ages_and_other_character_information%2C_was_held_before_the_Eruditio_region_update_in_2023._For_example%2C_in_this_event%2C_%5B%5BX.Borg%5D%5D's_age_is_listed_as_26%2C_but_his_canon_age_is_currently_18%2C_according_to_his_official_Weibo_profile._For_these_reasons%2C_all_information_from_this_event_may_be_inaccurate_for_the_current_version.%3C%2Fref%3E"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:Captain_of_the_Eruditio_Rangers",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Captain_of_the_Eruditio_Rangers?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Captain_of_the_Eruditio_Rangers"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:**Scholar's_Union",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/**Scholar's_Union?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/**Scholar's_Union"
+          },
+          {
+            "file": "File:**Eruditio_Rangers",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/**Eruditio_Rangers?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/**Eruditio_Rangers"
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*[[#Ultimate",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5B%23Ultimate?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%5B%5B%23Ultimate",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:*{{hi",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*%7B%7Bhi",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/",
+            "caption": {}
+          },
+          {
+            "file": "File:</ref><ref_name=\"InfocardBruno\">",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_name%3D%22InfocardBruno%22%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3C%2Fref%3E%3Cref_name%3D%22InfocardBruno%22%3E"
+          },
+          {
+            "file": "File:<gallery>",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/%3Cgallery%3E"
+          },
+          {
+            "file": "File:Bruno's_info_card.webp",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno's_info_card.webp?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno's_info_card.webp"
+          }
+        ]
+      },
+      {
+        "text": "The captain of the Eruditio Rangers that protects the city with his amazing football skills.",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Bruno comic.jpg"
+        },
+        "chinese_name": {
+          "text": "前锋 (qiánfēng \"Vanguard\" )"
+        },
+        "alias": {
+          "text": "The Protector (of Eruditio)"
+        },
+        "born": {
+          "text": "Agelta Drylands\nEmerald Road",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Agelta Drylands"
+            },
+            {
+              "type": "internal",
+              "page": "Emerald Road"
+            }
+          ]
+        },
+        "age": {
+          "text": "25",
+          "number": 25
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Lore",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "Bruno's duties as the captain of the Eruditio Rangers kept him very busy, but what little spare time he did have was spent playing football with the children at the market."
+          },
+          {
+            "text": "He was always cheerful and enthusiastic, and would bring gifts and treats for the children."
+          },
+          {
+            "text": "He was a superstar in their eyes, and they loved hearing him tell stories about his past, and how he became so good at football."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bruno always started his stories with a quote from a children's song."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"If you haven't felt every grain of sand beneath your feet, then you haven’t experienced true freedom.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "This song was popular throughout the Agelta Drylands and Bruno had memorized it from a young age."
+          },
+          {
+            "text": "It shaped the man he would become."
+          },
+          {
+            "text": "He would sing the lyrics while gazing at the desert sky."
+          },
+          {
+            "text": "He vowed to travel to every corner of the Land of Dawn on his two feet, to touch every grain of sand and find true freedom."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When he was old enough to work, Bruno took a job at a caravan that belonged to his old friend Thiago."
+          },
+          {
+            "text": "The caravan traveled between Agelta and the Moniyan Empire every year, and occasionally even did business at the Frozen Sea port."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The work was dull and exhausting, consisting of moving heavy goods, caring for the camels, cleaning sand out of the tarps, and other hard labor."
+          },
+          {
+            "text": "But Bruno didn't mind any of it."
+          },
+          {
+            "text": "For him, the excitement of traveling with the caravan far outweighed the hardships."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, a cruel fate would soon befall him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The caravan had stopped near Firewind Valley to rest after traveling for more than half the day under the scorching sun and against the blistering winds."
+          },
+          {
+            "text": "The workers were going about their usual tasks when a huge gust of wind and sand suddenly struck the caravan."
+          },
+          {
+            "text": "The ruckus startled the camels and sent them running, up pulling a loaded wagon to one side."
+          },
+          {
+            "text": "Thiago, who was working on the wagon, could only watch as it tipped towards him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "BOOM!"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The wagon landed on its side and sent a huge cloud of dust into the air."
+          },
+          {
+            "text": "The crew yelled if anyone was hurt, and heard Thiago yell back."
+          },
+          {
+            "text": "When the dust settled, they saw him lying on the ground next to the wagon, unhurt but visibly shaken."
+          },
+          {
+            "text": "Thiago immediately pointed to the wagon with a horrified look on his face."
+          },
+          {
+            "text": "In the split second before the wagon came down, Bruno had dashed in and pushed Thiago to safety, but he could not escape the same fate."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Everyone came together in a frantic effort to pull Bruno out from under the wagon."
+          },
+          {
+            "text": "His life was saved that day, but he would never walk again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The caravan owners were moved by Bruno's selflessness, and unanimously decided to let him stay with the caravan from now on."
+          },
+          {
+            "text": "They would be Bruno's legs and carry him to see the world."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As time passed, Bruno tried his best to be optimistic."
+          },
+          {
+            "text": "He still chatted and joked with the others, and always carried a cheerful expression, but Thiago could see that those once-bright eyes were turning gray."
+          },
+          {
+            "text": "The fire inside the young man was slowly fading away."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One night, the caravan stopped to rest alongside a traveling troupe."
+          },
+          {
+            "text": "As everyone sat around the campfire, a bard began to sang a familiar tune."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"If you haven't felt every grain of sand beneath your feet, then you haven’t experienced true freedom.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "A surge of emotion suddenly hit Bruno."
+          },
+          {
+            "text": "He turned over silently to hide his pain from everyone else."
+          },
+          {
+            "text": "Thiago, who was sitting nearby, turned the other way to hide his own tears."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The next day, the caravan set out for Eruditio, the center of the trade route between Agelta and the Moniyan Empire."
+          },
+          {
+            "text": "Every year, the caravan would pass through Eruditio and stay for nearly a month while doing the bulk of their trade for the year."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One morning, Thiago arrived at Bruno's tent with a look of excitement that Bruno had not seen since the accident."
+          },
+          {
+            "text": "A well-dressed man walked in behind him and introduced himself as the lead researcher of robotics in Eruditio."
+          },
+          {
+            "text": "He was looking for someone to test a prototype prosthetic based on their new Starlium technology."
+          },
+          {
+            "text": "The scholar heard of Bruno's inspiring story and commended him for his bravery, and after examining Bruno's sturdy and resilient frame, he decided that Bruno was the ideal candidate for the project."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "In that moment, Bruno's eyes lit up."
+          },
+          {
+            "text": "The dream that he had almost given up on was now right in front of him."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "However, the scholar went on to explain that this new technology was still only experimental, and even if the operation was successful, Bruno might not be able to run like before."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Bruno began to have second thoughts, but then he looked over at Thiago and saw tears of joy welling up in his eyes."
+          },
+          {
+            "text": "Bruno had never seen Thiago like this, not even when business was at its best."
+          },
+          {
+            "text": "Not wanting to disappoint his old friend, he agreed to go with the scholar and see their research for himself."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "When he arrived at the facility, Bruno immediately noticed that the atmosphere was completely different from what he had imagined."
+          },
+          {
+            "text": "As the scholars and researchers went about with passion and vigor, he was reminded of the bustling caravan, and couldn't help but smile."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "And so he agreed to the operation."
+          },
+          {
+            "text": "After a particularly busy day at the facility, the scholar pushed Bruno's wheelchair to an overlook to see the Spire of Knowledge at sunset."
+          },
+          {
+            "text": "Bruno had been there for many days, but this was the first time he really stopped to look at the city."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As he watched the people of the city walking briskly and brimming with energy, Bruno could not help but ask:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Why are you working so hard for someone like me?\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The scholar replied without hesitation:"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Because that is the spirit of Eruditio! Every thing we do, every inch of progress we make, goes toward realizing the dreams of others! With the power of science and technology, one day we will no longer be bound by our fates. That is the true meaning of freedom. It is our privilege as scholars to be able to contribute to this cause.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As he said this, the scholar's eyes looked into the distance, as if peering into the future."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The same day the caravan was scheduled to depart from Eruditio, the operation was finally completed and Bruno stood up for the first time in a long time."
+          },
+          {
+            "text": "At that moment, he made up his mind to remain in Eruditio and protect everything the city stood for."
+          },
+          {
+            "text": "Bruno headed off to the caravan to bide Thiago farewell."
+          },
+          {
+            "text": "As he approached, Thiago saw Bruno standing tall with a rekindled fire in his eyes, and he immediately understood and simply smiled and nodded his head."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "That is where the story ends."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"So do you get it? The key to playing football is to pass the ball!\""
+          },
+          {
+            "text": "Bruno said with a straight face."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"What did that have to do with football?!\", the children protested before running off and mumbling about being tricked again."
+          },
+          {
+            "text": "Bruno smiled as he took in the inspiring view of the Spire of Knowledge under the sunset glow."
+          }
+        ]
+      }
+    ],
+    "images": [
+      {
+        "file": "File:Bruno_lore.png",
+        "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno_lore.png?width=300",
+        "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bruno_lore.png",
+        "caption": "512px",
+        "links": []
+      }
+    ]
+  },
+  {
+    "title": "Lethal Nexus",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"Bruno loves to run, but an accident has left him legless forever. When he was in despair, Eruditio used [top-notch] technology to shape a pair of mechanical legs for him, giving him the ability to run again. So he joined the Eruditio Rangers, vowing to guard the city with his life. In this riot, Bruno always fights in the front line of the battle.\""
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "Eruditio's lore has been revamped on July 2023."
+        ],
+        "date": "11 December 2023",
+        "template": "outdated"
+      },
+      {
+        "text": "Bruno loves to run, but an accident has left him legless forever. When he was in despair, Eruditio used [top-notch] technology to shape a pair of mechanical legs for him, giving him the ability to run again. So he joined the Eruditio Rangers, vowing to guard the city with his life. In this riot, Bruno always fights in the front line of the battle.",
+        "template": "quote"
+      }
+    ]
+  },
+  {
+    "title": "Notes",
+    "depth": 2,
+    "templates": [
+      {
+        "template": "clr"
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "variations-1": "Neymar Jr",
+        "name": "Mecha Legs",
+        "skill-effect-1": "Buff",
+        "description": "Bruno gains 2% extra Crit Chance each time he deals damage with his skills (up to 10 stacks). Bruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources.",
+        "properties": "*Extra Critical Chance: 2% / 4% / 6% / 8% / 10% / 12% / 14% / 16% / 18% / 20%",
+        "term-1": "Crit Rate",
+        "term-2": "Extra ATK Speed\n*Stack(s) lasts for 5 seconds. Its timer resets when it is until consumed by Bruno's next enhanced Basic Attack or skill damage.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "145-320",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Flying Tackle"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Neymar Jr",
+        "name": "Volley Shot",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Slow",
+        "cooldown": "10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5",
+        "mana-cost": "75 / 85 / 95 / 105 / 115 / 125",
+        "term-1": "Physical Basic Attack",
+        "term-2": "Cooldown",
+        "term-3": "Movement Speed",
+        "description": "Bruno kicks a Powerball on his next Basic Attack, dealing to the target and slowing them by 30% for 0.5 seconds. The Powerball then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the Powerball, after which he can perform another enhanced Basic Attack and have the cooldown of  reduced by 1 second.",
+        "properties": "*Base Damage: 120 / 150 / 180 / 210 / 240 / 270",
+        "notes": "*Stack(s) lasts for 5 seconds. Its timer resets when it is until consumed by Bruno's next enhanced Basic Attack.\n*The Powerball can only be retrieved from the ground for two seconds or will disappear otherwise.\n*If the target unit is killed before the powerball reaches it, the powerball will disappear, hence will not bounce back and land on the ground to be picked up.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "140-265",
+        "total-pa": "40",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Neymar Jr",
+        "name": "Flying Tackle",
+        "skill-effect-1": "Blink",
+        "skill-effect-2": "CC",
+        "cooldown": "7.0",
+        "mana-cost": "60 / 55 / 50 / 45 / 40 / 35",
+        "description": "Bruno makes a slide tackle in the target direction dealing to enemies in his path and stunning them for 0.5 seconds. If the Powerball is bouncing back, Bruno also draws the Powerball toward him.",
+        "properties": "*Base Damage: 140 / 165 / 190 / 215 / 240 / 265",
+        "term-1": "Blink",
+        "term-2": "Stun",
+        "term-3": "Physical Damage Skill",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "base": "250-450",
+        "total-pa": "83",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "base": "150-270",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "variations-1": "Neymar Jr",
+        "name": "Worldie",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "CC",
+        "cooldown": "38.0 / 33.0 / 28.0",
+        "mana-cost": "140 / 160 / 180",
+        "description": "Bruno kicks his Energy Ball at the target enemy hero, and knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing . Each hit also reduces the enemy's Physical Defense by 4%–8% for 8 seconds (up to 3 stacks).",
+        "properties": "*Base Damage: 250 / 350 / 450\n*Physical Defense Reduced: 4% / 6% / 8%\n*Extra Damage: 150 / 210 / 270\n*Physical Defense Reduction Stacks: {4%, 8%, 12%} / {6%, 12%, 18%} / {8%, 16%, 24%}",
+        "term-1": "Displacement",
+        "term-2": "Physical Damage Skill",
+        "term-3": "Physical Defense",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "The name Bruno has Germanic origins and comes from the Old High German word \"brun\", which means \"brown\". It was traditionally used to describe someone with brown hair, brown eyes, or a strong, protective nature. The name Bruno is also common among famous football (soccer) players, which ties into his football-inspired skills.",
+          "formatting": {
+            "bold": [
+              "Bruno"
+            ]
+          }
+        },
+        {
+          "text": "The only sports-themed hero in the game currently, while other heroes use magic or weapons, Bruno fights with pure skill and a football. His skill volley shot is a real life skill. His skill flying tackle is also real."
+        },
+        {
+          "text": "He's the first and only hero to have abilities based on a sport (football). He's also the only hero who never uses his hands in attacking."
+        },
+        {
+          "text": "His ultimate skill name Worldie is also based on real life football club.",
+          "links": [
+            {
+              "text": "Worldie",
+              "type": "external",
+              "site": "https://worldiefc.com/"
+            }
+          ]
+        },
+        {
+          "text": "He is one of the heroes who doesn't have a basic skin.",
+          "links": [
+            {
+              "text": "basic skin",
+              "type": "internal",
+              "page": "basic skin"
+            }
+          ]
+        },
+        {
+          "text": "Before its redesign, his \"Vanguard Elite\" skin featured the colors of Brazil national Football team, it heavily resembled Brazilian football player Neymar.",
+          "links": [
+            {
+              "text": "Brazil national Football team",
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Brazil_national_football_team"
+            },
+            {
+              "type": "interwiki",
+              "wiki": "wikipedia",
+              "page": "Neymar"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

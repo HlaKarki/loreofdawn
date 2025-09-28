@@ -1,0 +1,828 @@
+[
+  {
+    "title": "",
+    "depth": 0,
+    "templates": [
+      {
+        "template": "hero navigation"
+      },
+      {
+        "template": "hero stats"
+      }
+    ],
+    "infoboxes": [
+      {}
+    ]
+  },
+  {
+    "title": "Story",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "\"A bard, a famed Demon Hunter\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself."
+          },
+          {
+            "text": "But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart."
+          },
+          {
+            "text": "When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul."
+          },
+          {
+            "text": "Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily."
+          },
+          {
+            "text": "Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament."
+          }
+        ]
+      }
+    ],
+    "templates": [
+      {
+        "list": [
+          "2",
+          "11"
+        ],
+        "template": "birthday"
+      },
+      {
+        "list": [
+          "Silvanna"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alucard"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Fanny"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Harith"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Tigreal"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Alice"
+        ],
+        "template": "hi"
+      },
+      {
+        "list": [
+          "Dyrroth"
+        ],
+        "template": "hi"
+      },
+      {
+        "template": "cite"
+      },
+      {
+        "text": "A bard, a famed Demon Hunter",
+        "template": "quote"
+      }
+    ],
+    "infoboxes": [
+      {
+        "image": {
+          "text": "Granger comic.jpg"
+        },
+        "chinese_name": {
+          "text": "格兰杰 (gélánjié)"
+        },
+        "alias": {
+          "text": "*Death Chanter\n*The Vagrant Poet\n*Invincible Marksman\n*Lightborn Overrider (Lightborn squad)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Lightborn squad"
+            }
+          ]
+        },
+        "origin": {
+          "text": "Monastery of Light, Moniyan Empire",
+          "links": [
+            {
+              "type": "internal",
+              "page": "Monastery of Light"
+            },
+            {
+              "type": "internal",
+              "page": "Moniyan Empire"
+            }
+          ]
+        },
+        "species": {
+          "text": "Human"
+        },
+        "gender": {
+          "text": "Male"
+        },
+        "occupation": {
+          "text": "*Violinist\n*Bard\n*Demon hunter"
+        },
+        "affiliation": {
+          "text": "*Monastery of Light\n*Moniyan Empire\n**Lightborn squad\n*The Abyss (hostile)",
+          "links": [
+            {
+              "type": "internal",
+              "page": "The Abyss"
+            }
+          ]
+        },
+        "weapons": {
+          "text": "*Dirge (gun)\n*Requiem (cannon)"
+        },
+        "relationships": {
+          "text": "*Unnamed priest\n*,, , , (Lightborn co-members)\n\n*,  (enemies)"
+        },
+        "en_va": {
+          "text": "Jack Dillon (2021; Starfall Knight)",
+          "links": [
+            {
+              "text": "Jack Dillon",
+              "type": "internal",
+              "page": "imdb:nm11449475"
+            }
+          ]
+        },
+        "ja_va": {
+          "text": "Date Masanori (伊達 将範)"
+        },
+        "id_va": {
+          "text": "Ari Wibowo"
+        }
+      }
+    ],
+    "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      }
+    ]
+  },
+  {
+    "title": "Sonata of Bullets",
+    "depth": 1,
+    "paragraphs": [
+      {
+        "sentences": [
+          {
+            "text": "An unnamed town on the edge of the Moniyan Empire is Granger's destination for this journey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moniyan Empire"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He walked quietly, the bright red scarf around his neck giving off an eerie aura."
+          },
+          {
+            "text": "His skin was as pale as parchment, with a high collar covering half his face, revealing only a pair of somber eyes"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Granger made his way to the outskirts of town, fully aware of what was waiting for him."
+          },
+          {
+            "text": "Although their deep growls were hard to catch, the ringing in his ears that he despises was getting louder"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Suddenly, a familiar melody caught Granger's attention."
+          },
+          {
+            "text": "A child is sitting on the street, playing a tune on a flute."
+          },
+          {
+            "text": "It's the \"Hymn of Light,\" a song he often heard when he was young."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Granger's childhood was tragic, to say the least"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "One night, his town was attacked by demons."
+          },
+          {
+            "text": "With no place to run, Granger's parents hid him in a small space under the floorboards."
+          },
+          {
+            "text": "As the demons broke in and dragged his parents away, their cries and the demonic snarls left an indelible shadow in his young heart."
+          },
+          {
+            "text": "That memory turned into a constant ringing in his ears, torturing Granger night after night."
+          },
+          {
+            "text": "The pain caused him to distance himself from others and he became increasingly reclusive."
+          },
+          {
+            "text": "Until the day a beautiful and gentle melody calmed the ringing, like a warm hand across his heart, granting him a moment of peace that he had almost forgotten."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "For the first time, he stepped out of his chaotic world and looked up to see a priest playing the violin."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"What's the name of this piece?\"",
+            "formatting": {
+              "italic": [
+                "\"What's the name of this piece?\""
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The priest took out a pen and paper from his pocket and wrote down the words \"Hymn of Light.\""
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "It turned out that the priest was once the lead of the Monastery of Light's choir."
+          },
+          {
+            "text": "It was his job to soothe the suffering hearts of the people with his voice."
+          },
+          {
+            "text": "But years ago, when Alice infiltrated Lumina City and sent the city into chaos, the priest was struck by a demon and lost the ability to speak.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alice"
+              }
+            ]
+          },
+          {
+            "text": "But instead of wallowing in despair, he picked up the violin and continued to help others through music."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Perhaps the violin's sound was too inviting."
+          },
+          {
+            "text": "Granger came out of his world and followed the priest to the monastery."
+          },
+          {
+            "text": "He even tried learning the violin but could only produce discordant noises."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "\"Looks like I don't have any talent,\" a discouraged Granger lamented.",
+            "formatting": {
+              "italic": [
+                "\"Looks like I don't have any talent,\""
+              ]
+            }
+          },
+          {
+            "text": "The priest smiled and showed him that true melody doesn't come from talent, but from the kindness and perseverance in one's heart, and in this aspect, he believed Granger had plenty."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Granger, who failed to make much progress with music, showed exceptional talent in hunting demons."
+          },
+          {
+            "text": "The church's leaders personally invited him to join the ranks of their demon hunters, even gifting him a specialized weapon—a pair of demon-devouring guns that could absorb demonic energy and convert it into special demon-slaying bullets."
+          },
+          {
+            "text": "The few friends he had, including Alucard, invited him to hunt demons together, but Granger refused.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alucard"
+              }
+            ]
+          },
+          {
+            "text": "Although the priest's music had healed his chaotic world, the night his parents died still remained in his heart like a permanent wound, bleeding at the slightest touch."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The priest respected Granger's decision."
+          },
+          {
+            "text": "He believed that even the deepest wounds could heal one day, and this introverted and gentle child would eventually accept the past and walk into a brighter future."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But that day would never come."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Dyrroth, the Prince of the Abyss, led his Abyssal legions through the Moonlit Forest to attack the Moniyan Empire."
+          },
+          {
+            "text": "In response, the Church of Light recruited demon hunters to prepare for the oncoming war."
+          },
+          {
+            "text": "Seeing Granger unsettled by this, the priest let him take a leave from the monastery to decide his future."
+          },
+          {
+            "text": "Whether he chose to remain a demon hunter or not, the monastery would always be his home."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "But when Granger returned to the monastery, he saw only burning ruins and the priest lying in a pool of blood—the demons had already struck."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Whatever choice he made no longer held any meaning."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The priest's hand still held the violin bow."
+          },
+          {
+            "text": "Granger could almost picture the priest calmly playing his final requiem as the demons attacked."
+          },
+          {
+            "text": "The ringing invaded his world again."
+          },
+          {
+            "text": "But this time, there would be no Hymn of Light to soothe it."
+          },
+          {
+            "text": "There would be no one to smile and comfort his pain, no one to play a lullaby to help him sleep."
+          },
+          {
+            "text": "How could he silence this piercing noise... this creeping madness... this deafening rage in his chest?"
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Sensing the presence of a living soul, the demons stationed nearby closed in."
+          },
+          {
+            "text": "Granger pulled out his guns and began a frenzied \"performance.\""
+          },
+          {
+            "text": "As the demons' wails grew louder, the sound of bullets did too."
+          },
+          {
+            "text": "The two cacophonies intertwined into a grand requiem, drowning out the ringing in Granger's ears."
+          },
+          {
+            "text": "He suddenly realized that for him, this was the only way to soothe the pain."
+          },
+          {
+            "text": "Blood for blood, until all evil was dead and gone."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "After that, Granger officially became a demon hunter."
+          },
+          {
+            "text": "He named one of his guns \"Dirge\", and modified the other into a cannon and installed it into the priest's violin case, which he named \"Requiem.\""
+          },
+          {
+            "text": "He wrapped bandages around his hands to prevent the bloodshed from tainting the hands that once hoped to learn the violin."
+          },
+          {
+            "text": "From that point on, every hunt became a requiem for the ones he lost."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "The memories that had surfaced shattered once again."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "Granger's attention snapped back to the present."
+          },
+          {
+            "text": "Since setting foot in this small town, the ringing in his ears hasn't stopped, but he knew that everything would quiet down soon enough."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "He crouched down and gently placed a few coins in front of the child."
+          }
+        ]
+      },
+      {
+        "sentences": [
+          {
+            "text": "As the \"Ave Maria\" reached its finale, the demon hunter's death sonata was about to begin."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abilities",
+    "depth": 0
+  },
+  {
+    "title": "Passive",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Gun"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Cannon"
+        ],
+        "template": "link"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Transformers",
+        "variations-3": "The Exorcists",
+        "name": "Capriccio",
+        "skill-effect-1": "Damage",
+        "skill-effect-2": "Buff",
+        "description": "Granger's unique Demon Hunting and  are powered by Demonic Energy. Both his weapons have a staring Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Each Minion / Creep kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 / 6, and instantly restore their Energy by 5% / 5%, respectively. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy. Every 1% CD Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy Cost is not affected by Energy Cost Reductions.",
+        "notes": "*Demonic Energy Cost is technically not an energy as it is not affected by Energy Cost Reductions from the purple buff and the energy is omitted on his stats as seen on Granger's Story Page in-game.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 1",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Gun"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "60-120",
+        "total-pa": "50",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Rhapsody"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Gun"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Rondo"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Transformers",
+        "variations-3": "The Exorcists",
+        "name": "Rhapsody",
+        "skill-effect-1": "Burst",
+        "cooldown": "0.3",
+        "description": "Granger rapidly fires 6 shot(s) with his, with each shot dealing and consuming 70 Gun Energy. The last bullet is guaranteed to Crit. Each bullet deals an additional 70 damage to Creeps and Minions. While firing, Granger's Movement Speed is increased by 15%. Granger stops firing when he runs out Energy, or when the skill is cast again.  has a brief cooldown and can be cast once his  Energy is over 420.",
+        "level-scaling": "Gun Energy Cost: 420\nBase Damage: 60 / 72 / 84 / 96 / 108 / 120",
+        "notes": "*Granger can cast throughout the duration of this skill, but he cannot change the direction he's facing.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Skill 2",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Gun"
+        ],
+        "template": "link"
+      },
+      {
+        "list": [
+          "Rondo"
+        ],
+        "template": "ai"
+      },
+      {
+        "list": [
+          "Rhapsody"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Transformers",
+        "variations-3": "The Exorcists",
+        "name": "Rondo",
+        "skill-effect-1": "Mobility",
+        "skill-effect-2": "Buff",
+        "cooldown": "12.0",
+        "description": "Granger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15%-25% Energy for his . can be cast while channeling . Each time Rhapsody hits an enemy, Rondo's Cooldown is reduced by 0.5 second.",
+        "level-scaling": "Energy Regen: 15% / 17% / 19% / 21% / 23% / 25%",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "Ultimate",
+    "depth": 1,
+    "templates": [
+      {
+        "list": [
+          "Cannon"
+        ],
+        "template": "link"
+      },
+      {
+        "base": "150-300",
+        "total-pa": "100",
+        "list": [
+          "pd"
+        ],
+        "template": "scale"
+      },
+      {
+        "list": [
+          "Rhapsody"
+        ],
+        "template": "ai"
+      },
+      {
+        "variations-1": "Legend",
+        "variations-2": "Transformers",
+        "variations-3": "The Exorcists",
+        "name": "Death Sonata",
+        "cooldown": "0.6",
+        "skill-effect-1": "Burst",
+        "skill-effect-2": "Slow",
+        "description": "Granger fires his in the target direction, dealing  to the first enemy hero hit and other targets in the blast radius. Targets hit will be slowed and revealed for a brief duration. Granger can roll in the Joystick's direction after each shot. Death Sonata can be cast while firing . Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot.",
+        "level-scaling": "Cannon Energy Cost: 250\nBase Damage: 250 / 325 / 400",
+        "notes": "*Bullet passes through creeps and minions and deals the same damage to them.",
+        "template": "ability"
+      }
+    ]
+  },
+  {
+    "title": "String the Bow, Rain the Bullets: Granger Revamp Info Disclosure",
+    "depth": 1,
+    "templates": [
+      {
+        "template": "gallery",
+        "images": [
+          {
+            "file": "File:String_the_Bow_Rain_the_Bullets_p1.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p1.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p1.jpg"
+          },
+          {
+            "file": "File:String_the_Bow_Rain_the_Bullets_p2.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p2.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p2.jpg"
+          },
+          {
+            "file": "File:String_the_Bow_Rain_the_Bullets_p3.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p3.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p3.jpg"
+          },
+          {
+            "file": "File:String_the_Bow_Rain_the_Bullets_p4.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p4.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p4.jpg"
+          },
+          {
+            "file": "File:String_the_Bow_Rain_the_Bullets_p5.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p5.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p5.jpg"
+          },
+          {
+            "file": "File:String_the_Bow_Rain_the_Bullets_p6.jpg",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p6.jpg?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/String_the_Bow_Rain_the_Bullets_p6.jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trivia",
+    "depth": 0,
+    "paragraphs": [
+      {
+        "sentences": []
+      },
+      {
+        "sentences": []
+      }
+    ],
+    "lists": [
+      [
+        {
+          "text": "While \"Granger\" originally meant \"farm steward\", it also sounds like \"Ranger\", which fits his lone-wolf, sharpshooter personality. His name could be inspired by The Gunslinger (Stephen King’s Dark Tower series), which features a similar gun-wielding anti-hero.",
+          "links": [
+            {
+              "text": "The Gunslinger (Stephen King’s Dark Tower series)",
+              "type": "external",
+              "site": "https://www.goodreads.com/book/show/43615.The_Gunslinger"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Granger"
+            ]
+          }
+        },
+        {
+          "text": "Granger was the first marksman that does not require mana nor energy.",
+          "links": [
+            {
+              "text": "marksman",
+              "type": "internal",
+              "page": "marksman"
+            },
+            {
+              "text": "mana",
+              "type": "internal",
+              "page": "mana"
+            },
+            {
+              "text": "energy",
+              "type": "internal",
+              "page": "energy"
+            }
+          ]
+        },
+        {
+          "text": "However, his abilities now cost energy after his revamp except for Skill 2."
+        }
+      ],
+      [
+        {
+          "text": "Granger is the first marksman without basic attack crits."
+        },
+        {
+          "text": "His internal game file name is Mike."
+        },
+        {
+          "text": "He has the roots of French and Italian."
+        },
+        {
+          "text": "His gun name is Dirge and his cannon name is Requiem."
+        },
+        {
+          "text": "His Ultimate (Death Sonata) is named after a classical music piece, matching his violinist background.",
+          "formatting": {
+            "bold": [
+              "Death Sonata"
+            ]
+          }
+        },
+        {
+          "text": "His design is heavily inspired by Western gunslingers, mixed with anime and gothic elements"
+        },
+        {
+          "text": "He carries a violin case and calls it a guitar case but it's loaded with cannon. One of his remove voicelines \"Don't you dare touch my guitar case\". But it's actually a violin case."
+        },
+        {
+          "text": "He speaks French in his voicelines."
+        },
+        {
+          "text": "He actually plays music with his gun to his violin case when recalling."
+        },
+        {
+          "text": "Granger’s Doomsday Terminator skin is heavily inspired by The Terminator movie series. His cybernetic design, red glowing eye, and robotic enhancements resemble the T-800 (played by Arnold Schwarzenegger).",
+          "links": [
+            {
+              "text": "The Terminator",
+              "type": "external",
+              "site": "https://terminator.fandom.com/wiki/Terminator_(franchise)"
+            },
+            {
+              "text": "T-800",
+              "type": "external",
+              "site": "https://terminator.fandom.com/wiki/T-800"
+            },
+            {
+              "text": "Arnold Schwarzenegger",
+              "type": "external",
+              "site": "https://en.wikipedia.org/wiki/Arnold_Schwarzenegger"
+            }
+          ],
+          "formatting": {
+            "bold": [
+              "Doomsday Terminator"
+            ]
+          }
+        }
+      ]
+    ]
+  }
+]
