@@ -37,9 +37,11 @@ app.get("/", (c) => {
 });
 
 if (import.meta.main) {
+	const port = Number(Bun.env.PORT ?? process.env.PORT ?? 3000);
 	Bun.serve({
 		fetch: app.fetch.bind(app),
 		idleTimeout: 60 * 3,
+		port,
 	});
 }
 

@@ -3,6 +3,8 @@ import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
 import { serverTrpc } from "@/server/trpc";
 
+export const dynamic = "force-dynamic";
+
 const components = {
 	Callout: ({ children }: { children: React.ReactNode }) => {
 		return (
