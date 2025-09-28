@@ -18,21 +18,13 @@ export const scrape = router({
 		}),
 
 	getJSON: publicProcedure
-		.input(
-			z.object({
-				hero: z.string().default("Miya"),
-			}),
-		)
+		.input(z.object({ hero: z.string().default("Miya") }))
 		.mutation(async ({ input }) => {
 			return await wikiScraper.getJSON(input.hero);
 		}),
 
 	getMdFromJSON: publicProcedure
-		.input(
-			z.object({
-				hero: z.string().default("Miya"),
-			}),
-		)
+		.input(z.object({ hero: z.string().default("Miya") }))
 		.mutation(async ({ input }) => {
 			const markdown_string = await wikiScraper.getMarkdownFromJSON(input.hero);
 			const filepath = path.join(process.cwd(), "src", "data", "temp.md");
@@ -55,11 +47,7 @@ export const scrape = router({
 	}),
 
 	updateHeroMarkdown: publicProcedure
-		.input(
-			z.object({
-				hero: z.string().default("Miya"),
-			}),
-		)
+		.input(z.object({ hero: z.string().default("Miya") }))
 		.mutation(async ({ input }) => {
 			return await wikiScraper.updateHeroMarkdown(input.hero);
 		}),
