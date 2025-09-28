@@ -1,17 +1,21 @@
 import { publicProcedure, router } from "@/lib/trpc";
-import { wikiScraper } from "@/scraper/hero/story";
 import path from "node:path";
 import fs from "node:fs";
 import { z } from "zod";
+import { wikiScraper } from "@/services/scraper.service";
 
 export const scrape = router({
-	heroStory: publicProcedure.query(async () => {
-		return await wikiScraper.scrapeStory();
-	}),
+	heroStory: publicProcedure
+		.input(z.object({ title: z.string().default("Miya") }))
+		.mutation(async ({ input }) => {
+			return await wikiScraper.scrapeStory(input.title);
+		}),
 
-	getMarkdown: publicProcedure.query(async () => {
-		return await wikiScraper.getMarkdown();
-	}),
+	getMarkdown: publicProcedure
+		.input(z.object({ title: z.string().default("Miya") }))
+		.mutation(async ({ input }) => {
+			return await wikiScraper.getMarkdown(input.title);
+		}),
 
 	getJSON: publicProcedure
 		.input(
@@ -49,4 +53,14 @@ export const scrape = router({
 	batchAiMarkdownWrites: publicProcedure.query(async () => {
 		return await wikiScraper.batchAiMarkdownWrites();
 	}),
+
+	updateHeroMarkdown: publicProcedure
+		.input(
+			z.object({
+				hero: z.string().default("Miya"),
+			}),
+		)
+		.mutation(async ({ input }) => {
+			return await wikiScraper.updateHeroMarkdown(input.hero);
+		}),
 });
