@@ -26,7 +26,6 @@
     "drizzle-orm": "^0.44.2",
     "hono": "^4.8.2",
     "pg": "^8.14.1",
-    "temporal-polyfill": "^0.3.0",
     "wtf_wikipedia": "^10.4.0",
     "zod": "^4.0.2"
   },
