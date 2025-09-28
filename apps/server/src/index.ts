@@ -45,4 +45,4 @@ if (import.meta.main) {
 	});
 }
 
-export default app;
+export { app };
