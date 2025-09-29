@@ -33,11 +33,14 @@ export default async function MdxDemoPage() {
 
 	const markdown = response[0].markdown;
 
-	const titles: string[] = [];
+	const titles: { slug: string; label: string }[] = [];
 	const words = markdown.split("\n");
 	for (const word of words) {
 		if (word.includes("#")) {
-			titles.push(slugify(word));
+			titles.push({
+				slug: slugify(word),
+				label: word,
+			});
 		}
 	}
 
