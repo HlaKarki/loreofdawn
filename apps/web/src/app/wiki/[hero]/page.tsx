@@ -1,10 +1,12 @@
 import remarkGfm from "remark-gfm";
+import rehypeSlug from "rehype-slug";
+import GithubSlugger from "github-slugger";
 import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
-import GithubSlugger from "github-slugger";
 import { serverTrpc } from "@/server/trpc";
 import { TableOfContents } from "../_components/table_of_content";
-import rehypeSlug from "rehype-slug";
+import { heroIdKeys, type HeroIdKey } from "@/data/ml/hero_ids";
+import { HeroSummary } from "../_components/hero_summary";
 
 export const dynamic = "force-dynamic";
 
@@ -14,51 +16,30 @@ type WikiPageProps = {
 	}>;
 };
 
-const components = {
-	Callout: ({ children }: { children: React.ReactNode }) => {
-		return (
-			<div className={"rounded-md border-l-4 border-sky-500 p-4 text-sky-900"}>{children}</div>
-		);
-	},
-	Stat: ({ value, label }: { value: string; label: string }) => {
-		return (
-			<div className={"inline-flex flex-col items-center rounded-md border px-3 py-2 text-sm"}>
-				<span className={"text-lg font-semibold"}>{value}</span>
-				<span className={"text-xs uppercase tracking-wide text-muted-foreground"}>{label}</span>
-			</div>
-		);
-	},
-};
-
-const extractHeadings = (markdown: string) => {
-	const slugger = new GithubSlugger();
-
-	return markdown
-		.split("\n")
-		.map((line) => line.trim())
-		.filter((line) => /^#+\s+/.test(line))
-		.map((line) => ({
-			slug: slugger.slug(line.replace(/^#+\s*/, "")),
-			label: line,
-		}));
-};
-
 export default async function WikiPage({ params }: WikiPageProps) {
 	const resolvedParams = await params;
-	const hero = resolvedParams.hero.toLowerCase();
-	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero });
+	const heroParam = resolvedParams.hero.toLowerCase();
 
-	if (!response[0]) {
+	if (!heroIdKeys.includes(heroParam as HeroIdKey)) {
 		notFound();
 	}
 
-	const markdown = response[0].markdown;
+	const heroKey = heroParam as HeroIdKey;
+	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero: heroKey });
+	const heroResponse = await serverTrpc.scrape.getHeroInfo.mutate({ hero: heroKey });
+
+	if (!response[0] || !heroResponse) {
+		notFound();
+	}
+
+	let markdown = `<Hero hero={${JSON.stringify(heroResponse)}} />\n`;
+	markdown += response[0].markdown;
 
 	const titles = extractHeadings(markdown);
 
 	const { content } = await compileMDX({
 		source: markdown,
-		components,
+		components: { Hero: HeroSummary },
 		options: {
 			mdxOptions: {
 				remarkPlugins: [remarkGfm],
@@ -100,3 +81,16 @@ const prose_styling = `
 	prose-code:before:content-[none] prose-code:after:content-[none]
 	prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded-md
 	`;
+
+const extractHeadings = (markdown: string) => {
+	const slugger = new GithubSlugger();
+
+	return markdown
+		.split("\n")
+		.map((line) => line.trim())
+		.filter((line) => /^#+\s+/.test(line))
+		.map((line) => ({
+			slug: slugger.slug(line.replace(/^#+\s*/, "")),
+			label: line,
+		}));
+};

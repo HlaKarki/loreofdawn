@@ -1,4 +1,4 @@
-const hero_ids = {
+export const hero_ids = {
 	obsidia: 130,
 	zetian: 129,
 	kalea: 128,
@@ -129,4 +129,8 @@ const hero_ids = {
 	miya: 1,
 	balmond: 2,
 	saber: 3,
-};
+} as const;
+
+export type HeroIdKey = keyof typeof hero_ids;
+
+export const heroIdKeys = Object.keys(hero_ids) as HeroIdKey[];

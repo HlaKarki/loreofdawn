@@ -3,6 +3,9 @@ import path from "node:path";
 import fs from "node:fs";
 import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
+import { heroIdKeys, type HeroIdKey } from "@/data/ml/hero_ids";
+
+const heroKeyEnum = z.enum(heroIdKeys as [HeroIdKey, ...HeroIdKey[]]);
 
 export const scrape = router({
 	heroStory: publicProcedure
@@ -54,7 +57,6 @@ export const scrape = router({
 
 	getAllHeroInfo: publicProcedure.query(async () => {
 		const heroes = await wikiScraper.getAllHeroInfo();
-		// name: id
 		const ml_hero_ids: Record<string, number> = {};
 		for (const hero of heroes.data.records) {
 			const n = hero.data.hero.data.name.toLowerCase().replaceAll(" ", "_");
@@ -62,4 +64,15 @@ export const scrape = router({
 		}
 		return ml_hero_ids;
 	}),
+
+	getHeroInfo: publicProcedure
+		.input(z.object({ hero: heroKeyEnum }))
+		.mutation(async ({ input }) => {
+			const response = await wikiScraper.getHeroInfo(input.hero);
+
+			if (response?.data?.records?.length) {
+				return response.data.records[0];
+			}
+			return undefined;
+		}),
 });
