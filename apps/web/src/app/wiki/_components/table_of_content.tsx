@@ -3,6 +3,7 @@
 import { parseAsString, useQueryState } from "nuqs";
 import { type CSSProperties, useEffect } from "react";
 import { cn } from "@/lib/utils";
+import { useMobile } from "@/hooks/useMobile";
 
 type TocItem = { slug: string; label: string };
 
@@ -21,6 +22,7 @@ const indentStyle = (level: number): CSSProperties => ({
 });
 
 export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
+	const { isMobile } = useMobile();
 	const [section, setSection] = useQueryState(
 		"section",
 		parseAsString.withDefault(titles[0]?.slug ?? ""),
@@ -41,7 +43,7 @@ export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 		if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
 	}, [section]);
 
-	if (!titles.length) {
+	if (!titles.length || isMobile) {
 		return null;
 	}
 

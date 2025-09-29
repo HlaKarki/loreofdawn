@@ -392,6 +392,7 @@ export interface RawHeroTypeMLBB {
 					updatedAt: number;
 					updatedUser: string;
 				}[];
+				painting: string;
 				sortlabel: string[]; // mage, marksman
 				speciality: string[]; // damage, crowd control
 				story: string; // short sympnosis of the hero's story
@@ -401,7 +402,6 @@ export interface RawHeroTypeMLBB {
 			};
 		};
 		hero_id: number;
-		painting: string;
 		relation: {
 			assist: {
 				desc: string;
