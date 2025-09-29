@@ -9,9 +9,9 @@ import rehypeSlug from "rehype-slug";
 export const dynamic = "force-dynamic";
 
 type WikiPageProps = {
-	params: {
+	params: Promise<{
 		hero: string;
-	};
+	}>;
 };
 
 const components = {
@@ -44,7 +44,8 @@ const extractHeadings = (markdown: string) => {
 };
 
 export default async function WikiPage({ params }: WikiPageProps) {
-	const hero = params.hero.toLowerCase();
+	const resolvedParams = await params;
+	const hero = resolvedParams.hero.toLowerCase();
 	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero });
 
 	if (!response[0]) {

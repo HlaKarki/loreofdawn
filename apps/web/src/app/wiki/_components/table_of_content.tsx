@@ -1,7 +1,7 @@
 "use client";
 
 import { parseAsString, useQueryState } from "nuqs";
-import { CSSProperties, useEffect } from "react";
+import { type CSSProperties, useEffect } from "react";
 import { cn } from "@/lib/utils";
 
 type TocItem = { slug: string; label: string };
@@ -13,7 +13,7 @@ const headingLevel = (label: string) => {
 
 const sanitizeLabel = (label: string) => label.replace(/^#+\s*/, "");
 
-const basePadding = 8; // matches Tailwind's px-2 (0.5rem)
+const basePadding = 8;
 const indentPerLevel = 12; // px offset for nested headings
 
 const indentStyle = (level: number): CSSProperties => ({
