@@ -1,51 +1,74 @@
 "use client";
 
 import { parseAsString, useQueryState } from "nuqs";
-import { type CSSProperties, useEffect } from "react";
+import { useEffect } from "react";
 import { cn } from "@/lib/utils";
 import { useMobile } from "@/hooks/useMobile";
 
 type TocItem = { slug: string; label: string };
 
-const headingLevel = (label: string) => {
-	const match = label.match(/^#+/);
-	return match ? match[0].length : 1;
-};
-
+const headingLevel = (label: string) => label.match(/^#+/)?.[0].length ?? 1;
 const sanitizeLabel = (label: string) => label.replace(/^#+\s*/, "");
 
 const basePadding = 8;
-const indentPerLevel = 12; // px offset for nested headings
-
-const indentStyle = (level: number): CSSProperties => ({
-	paddingLeft: `${basePadding + Math.max(0, level - 1) * indentPerLevel}px`,
+const indentPerLevel = 12;
+const indentStyle = (level: number) => ({
+	paddingLeft: `${basePadding + (level - 1) * indentPerLevel}px`,
 });
 
 export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 	const { isMobile } = useMobile();
+
 	const [section, setSection] = useQueryState(
 		"section",
 		parseAsString.withDefault(titles[0]?.slug ?? ""),
 	);
 
-	// Ensure section is always valid when items change
+	// Keep section valid if titles change
 	useEffect(() => {
 		if (!titles.length) return;
-		if (!titles.some((i) => i.slug === section)) {
+		if (!titles.some((t) => t.slug === section)) {
 			setSection(titles[0].slug, { history: "replace" });
 		}
-	}, [titles, section]);
+	}, [titles, section, setSection]);
 
-	// Scroll whenever section changes
+	// Auto-highlight section on scroll
 	useEffect(() => {
-		if (!section) return;
-		const el = document.getElementById(section);
-		if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
-	}, [section]);
+		if (!titles.length) return;
 
-	if (!titles.length || isMobile) {
-		return null;
-	}
+		const onScroll = () => {
+			const offset = 96; // adjust for sticky header height
+			const scrollY = window.scrollY + offset;
+
+			// find the last heading that has passed
+			let current = titles[0].slug;
+			for (const t of titles) {
+				const el = document.getElementById(t.slug);
+				if (el && el.offsetTop <= scrollY) {
+					current = t.slug;
+				} else {
+					break;
+				}
+			}
+			if (current !== section) {
+				setSection(current, { history: "replace" });
+			}
+		};
+
+		window.addEventListener("scroll", onScroll, { passive: true });
+		onScroll(); // run once on mount
+		return () => window.removeEventListener("scroll", onScroll);
+	}, [titles, section, setSection]);
+
+	const handleClick = (slug: string) => {
+		setSection(slug, { history: "replace" });
+		document.getElementById(slug)?.scrollIntoView({
+			behavior: "smooth",
+			block: "start",
+		});
+	};
+
+	if (!titles.length || isMobile) return null;
 
 	return (
 		<nav
@@ -55,26 +78,22 @@ export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 				"self-start",
 			)}
 		>
-			{titles.map((title) => {
-				const level = headingLevel(title.label);
-				const displayLabel = sanitizeLabel(title.label);
-				const style = indentStyle(level);
+			{titles.map((t) => {
+				const level = headingLevel(t.label);
+				const displayLabel = sanitizeLabel(t.label);
 
 				return (
 					<button
-						key={title.slug}
+						key={t.slug}
 						type="button"
-						onClick={() => {
-							console.log("clicked: ", title.slug);
-							setSection(title.slug, { history: "replace" });
-						}}
+						onClick={() => handleClick(t.slug)}
 						className={cn(
 							"rounded px-2 py-1 text-left transition-colors",
-							title.slug === section
+							t.slug === section
 								? "bg-amber-600 text-white"
 								: "text-muted-foreground hover:bg-muted hover:text-foreground",
 						)}
-						style={style}
+						style={indentStyle(level)}
 					>
 						{displayLabel}
 					</button>
