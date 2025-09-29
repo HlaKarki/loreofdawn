@@ -2,6 +2,9 @@ import remarkGfm from "remark-gfm";
 import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
 import { serverTrpc } from "@/server/trpc";
+import { TableOfContents } from "./table_of_content";
+import rehypeSlug from "rehype-slug";
+import { slugify } from "@/lib/utils";
 
 export const dynamic = "force-dynamic";
 
@@ -27,20 +30,37 @@ export default async function MdxDemoPage() {
 	if (!response[0]) {
 		notFound();
 	}
+
+	const markdown = response[0].markdown;
+
+	const titles: string[] = [];
+	const words = markdown.split("\n");
+	for (const word of words) {
+		if (word.includes("#")) {
+			titles.push(slugify(word));
+		}
+	}
+
 	const { content } = await compileMDX({
-		source: response[0].markdown,
+		source: markdown,
 		components,
 		options: {
-			mdxOptions: { remarkPlugins: [remarkGfm] },
+			mdxOptions: {
+				remarkPlugins: [remarkGfm],
+				rehypePlugins: [rehypeSlug],
+			},
 			parseFrontmatter: true,
 		},
 	});
 
 	return (
-		<div>
-			<header></header>
-
-			<article className={prose_styling}>{content}</article>
+		<div className="relative">
+			<div className="mx-auto flex max-w-5xl gap-10 px-4 pb-16 sm:px-6 lg:px-8">
+				<article id="mdx-content" className={prose_styling}>
+					{content}
+				</article>
+				<TableOfContents titles={titles} />
+			</div>
 		</div>
 	);
 }

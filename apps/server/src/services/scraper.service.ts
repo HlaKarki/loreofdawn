@@ -345,8 +345,8 @@ export const WikiJSONSchema = z.object({
 		)
 		.optional(),
 });
-export type WikiJSON = z.infer<typeof WikiJSONSchema>;
-type WikiSection = NonNullable<NonNullable<WikiJSON["sections"]>[number]>;
+type WikiJSON = z.infer<typeof WikiJSONSchema>;
+export type WikiSection = NonNullable<NonNullable<WikiJSON["sections"]>[number]>;
 
 class WikiScraper {
 	private readonly jsonDefaultQuery = {
