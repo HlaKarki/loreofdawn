@@ -85,12 +85,23 @@ const prose_styling = `
 const extractHeadings = (markdown: string) => {
 	const slugger = new GithubSlugger();
 
-	return markdown
-		.split("\n")
-		.map((line) => line.trim())
-		.filter((line) => /^#+\s+/.test(line))
-		.map((line) => ({
-			slug: slugger.slug(line.replace(/^#+\s*/, "")),
-			label: line,
-		}));
+	const titles = [
+		{
+			slug: "hero-overview",
+			label: "Summary",
+		},
+	];
+
+	titles.push(
+		...markdown
+			.split("\n")
+			.map((line) => line.trim())
+			.filter((line) => /^#+\s+/.test(line))
+			.map((line) => ({
+				slug: slugger.slug(line.replace(/^#+\s*/, "")),
+				label: line,
+			})),
+	);
+
+	return titles;
 };

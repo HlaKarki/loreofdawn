@@ -62,7 +62,10 @@ export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 					<button
 						key={title.slug}
 						type="button"
-						onClick={() => setSection(title.slug, { history: "replace" })}
+						onClick={() => {
+							console.log("clicked: ", title.slug);
+							setSection(title.slug, { history: "replace" });
+						}}
 						className={cn(
 							"rounded px-2 py-1 text-left transition-colors",
 							title.slug === section

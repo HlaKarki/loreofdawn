@@ -67,14 +67,16 @@ export function normalizeHero(raw: RawHeroTypeMLBB): NormalizedHero {
 }
 
 export const HeroSummary = ({ hero: heroData }: { hero: RawHeroTypeMLBB }) => {
-	// const heroDetails = hero?.data?.hero?.data;
 	const hero = normalizeHero(heroData);
 	if (!hero) {
 		return null;
 	}
 
 	return (
-		<section className="mb-8 overflow-hidden rounded-xl border border-border/50 bg-gradient-to-br from-card via-card to-card/80 shadow-lg">
+		<section
+			id={"hero-overview"}
+			className="mb-8 overflow-hidden rounded-xl border border-border/50 bg-gradient-to-br from-card via-card to-card/80 shadow-lg"
+		>
 			<div className="relative border-b border-border/50 bg-gradient-to-r from-primary/5 via-primary/10 to-primary/5 p-6">
 				<div className="flex flex-col gap-6 md:flex-row md:items-start md:justify-between">
 					<div className="flex-1 space-y-3">
