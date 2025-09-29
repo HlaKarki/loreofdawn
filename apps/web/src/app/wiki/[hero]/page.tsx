@@ -1,12 +1,18 @@
 import remarkGfm from "remark-gfm";
 import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
+import GithubSlugger from "github-slugger";
 import { serverTrpc } from "@/server/trpc";
-import { TableOfContents } from "./table_of_content";
+import { TableOfContents } from "../_components/table_of_content";
 import rehypeSlug from "rehype-slug";
-import { slugify } from "@/lib/utils";
 
 export const dynamic = "force-dynamic";
+
+type WikiPageProps = {
+	params: {
+		hero: string;
+	};
+};
 
 const components = {
 	Callout: ({ children }: { children: React.ReactNode }) => {
@@ -24,8 +30,22 @@ const components = {
 	},
 };
 
-export default async function MdxDemoPage() {
-	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero: "miya" });
+const extractHeadings = (markdown: string) => {
+	const slugger = new GithubSlugger();
+
+	return markdown
+		.split("\n")
+		.map((line) => line.trim())
+		.filter((line) => /^#+\s+/.test(line))
+		.map((line) => ({
+			slug: slugger.slug(line.replace(/^#+\s*/, "")),
+			label: line,
+		}));
+};
+
+export default async function WikiPage({ params }: WikiPageProps) {
+	const hero = params.hero.toLowerCase();
+	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero });
 
 	if (!response[0]) {
 		notFound();
@@ -33,16 +53,7 @@ export default async function MdxDemoPage() {
 
 	const markdown = response[0].markdown;
 
-	const titles: { slug: string; label: string }[] = [];
-	const words = markdown.split("\n");
-	for (const word of words) {
-		if (word.includes("#")) {
-			titles.push({
-				slug: slugify(word),
-				label: word,
-			});
-		}
-	}
+	const titles = extractHeadings(markdown);
 
 	const { content } = await compileMDX({
 		source: markdown,

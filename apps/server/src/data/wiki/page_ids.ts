@@ -669,11 +669,6 @@ export const hero_page_ids = {
 		ns: 0,
 		title: "Thamuz",
 	},
-	"the_exorcists/member_introduction": {
-		pageid: 50405,
-		ns: 0,
-		title: "The Exorcists/Member Introduction",
-	},
 	tigreal: {
 		pageid: 148,
 		ns: 0,
@@ -724,7 +719,7 @@ export const hero_page_ids = {
 		ns: 0,
 		title: "Xavier",
 	},
-	yi_sun_shin: {
+	"yi_sun-shin": {
 		pageid: 1478,
 		ns: 0,
 		title: "Yi Sun-shin",

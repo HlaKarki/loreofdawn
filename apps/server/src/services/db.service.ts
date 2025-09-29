@@ -38,7 +38,7 @@ class DbService {
 		return db
 			.insert(wikisTable)
 			.values({
-				hero: hero,
+				hero: hero.toLowerCase(),
 				markdown: content,
 				json: json,
 				createdAt: new Date(),

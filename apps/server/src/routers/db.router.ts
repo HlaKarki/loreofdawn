@@ -31,4 +31,12 @@ export const dbRouter = router({
 		.query(async ({ input }) => {
 			return dbService.fetchMarkdown(input.hero);
 		}),
+
+	listHeroes: publicProcedure.query(() => {
+		return Object.entries(hero_page_ids).map(([slug, data]) => ({
+			slug,
+			title: data.title,
+			pageId: data.pageid,
+		}));
+	}),
 });

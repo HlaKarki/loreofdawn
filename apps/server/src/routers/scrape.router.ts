@@ -51,4 +51,15 @@ export const scrape = router({
 		.mutation(async ({ input }) => {
 			return await wikiScraper.updateHeroMarkdown(input.hero);
 		}),
+
+	getAllHeroInfo: publicProcedure.query(async () => {
+		const heroes = await wikiScraper.getAllHeroInfo();
+		// name: id
+		const ml_hero_ids: Record<string, number> = {};
+		for (const hero of heroes.data.records) {
+			const n = hero.data.hero.data.name.toLowerCase().replaceAll(" ", "_");
+			ml_hero_ids[n] = hero.data.hero.data.heroid;
+		}
+		return ml_hero_ids;
+	}),
 });

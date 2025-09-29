@@ -1,9 +1,8 @@
 "use client";
 
 import { parseAsString, useQueryState } from "nuqs";
-import { type CSSProperties, useEffect } from "react";
+import { CSSProperties, useEffect } from "react";
 import { cn } from "@/lib/utils";
-import { useMobile } from "@/hooks/useMobile";
 
 type TocItem = { slug: string; label: string };
 
@@ -14,7 +13,7 @@ const headingLevel = (label: string) => {
 
 const sanitizeLabel = (label: string) => label.replace(/^#+\s*/, "");
 
-const basePadding = 8; // (0.5rem)
+const basePadding = 8; // matches Tailwind's px-2 (0.5rem)
 const indentPerLevel = 12; // px offset for nested headings
 
 const indentStyle = (level: number): CSSProperties => ({
@@ -22,8 +21,10 @@ const indentStyle = (level: number): CSSProperties => ({
 });
 
 export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
-	const { isMobile } = useMobile();
-	const [section, setSection] = useQueryState("section", parseAsString.withDefault(titles[0].slug));
+	const [section, setSection] = useQueryState(
+		"section",
+		parseAsString.withDefault(titles[0]?.slug ?? ""),
+	);
 
 	// Ensure section is always valid when items change
 	useEffect(() => {
@@ -44,10 +45,6 @@ export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 		return null;
 	}
 
-	if (isMobile) {
-		return null;
-	}
-
 	return (
 		<nav
 			aria-label="Table of contents"
@@ -65,7 +62,7 @@ export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 					<button
 						key={title.slug}
 						type="button"
-						onClick={() => setSection(title.slug, { history: "push" })}
+						onClick={() => setSection(title.slug, { history: "replace" })}
 						className={cn(
 							"rounded px-2 py-1 text-left transition-colors",
 							title.slug === section

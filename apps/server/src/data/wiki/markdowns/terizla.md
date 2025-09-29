@@ -1,8 +1,8 @@
 # Hero Stats
 
-- Magic Defense (Lv 1): 15  
-- Magic Defense (Lv 15): 71  
-- Physical Defense (Lv 1): 19  
+- Magic Defense (Lv 1): 15
+- Magic Defense (Lv 15): 71
+- Physical Defense (Lv 1): 19
 - Physical Defense (Lv 15): 122
 
 # Story
@@ -10,18 +10,6 @@
 > "Once an eccentric master smith, but now an avenger siding with the Abyss."
 
 The once-revered master craftsman was now known as the notorious Executioner of the Abyss, but Terizla didn't care. From the moment he was framed as a heretic by the Church, he had been wielding his hammer solely for revenge, for the day he could at last soothe the restless souls of his kin.
-
-Gallery (image files only — links omitted):
-- Terizla_comic.jpg
-- Terizla_comic_(past).jpg
-- *Metalsmith
-- *Head_of_the_[[Free_Smiths'_Guild]]_(formerly)
-- *[[Church_of_Light]],_[[Moniyan_Empire]]_(hostile)
-- *Free_Smiths'_Guild_(previously)
-- *{{hi
-- *Anne_(wife,_deceased)
-- <gallery>
-- Necrokeep_Terizla_Info.jpg
 
 > "Once an eccentric master smith, but now an avenger siding with the Abyss."
 
@@ -31,7 +19,7 @@ As one of the most powerful institutions in the Land of Dawn (Land of Dawn) the 
 
 Ten years ago, deep in the dungeons of the inquisition, a guard slowly unlocked an iron gate to check on the imprisoned victim, only to find it completely abandoned. The dark and desolate cell lay empty, except for a bloody message that stained its unforgiving walls. Heavy with hatred, the vile words read:
 
-> ''Overthrow faith...  
+> ''Overthrow faith...
 > Light will perish...''
 
 Aghast, the guard stood in the deserted dungeons in silence and sheer horror. Soon enough, news of the breakout spread, taking the entire Monastery of Light by storm: the heretic Terizla has escaped!
@@ -80,11 +68,12 @@ Over time, his hatred for the Church and its followers grew even deeper. Driven 
 
 Terrifying, talented, and tormented, the once-revered master smith had transformed into the notorious Executioner of the Abyss. Anyone unfortunate enough to find themselves in Terizla's unholy forge would find the walls stained with the blood of his victims, depicting a grisly mural: a man with arms outstretched, protecting his family.
 
-> "One day, I will destroy the Church and Moniyan with my own hands..."  
+> "One day, I will destroy the Church and Moniyan with my own hands..."
 > "I will take revenge!"
 
 Images (files only — links omitted):
-- The_Fallen_Smith_1.jpg (caption: 512px)  
+
+- The_Fallen_Smith_1.jpg (caption: 512px)
 - The_Fallen_Smith_2.jpg (caption: 512px)
 
 # Anne
@@ -95,77 +84,81 @@ Images (files only — links omitted):
 
 ## Passive
 
-- Attack Speed  
+- Attack Speed
 - Physical Attack
 
 ### Body of Smith
-- Type: BUFF  
-- Effect: Terizla gains 1% Damage Reduction for every 2.5% HP lost (up to 20% + Hero Level). He cannot gain [missing term] and will convert every 1% attack speed he's supposed to receive into 1 Physical Attack.  
-- Terms: Damage Reduction; Extra ATK Speed  
-- Notes: *Reduction of Terizla's base Attack Speed will result to decrease.*
+
+- Type: BUFF
+- Effect: Terizla gains 1% Damage Reduction for every 2.5% HP lost (up to 20% + Hero Level). He cannot gain [missing term] and will convert every 1% attack speed he's supposed to receive into 1 Physical Attack.
+- Terms: Damage Reduction; Extra ATK Speed
+- Notes: _Reduction of Terizla's base Attack Speed will result to decrease._
 
 ## Skill 1
 
-- Scales / damage entries: base 300–450; extra PA 80 (pd)  
-- Additional: slow; Movement Speed  
+- Scales / damage entries: base 300–450; extra PA 80 (pd)
+- Additional: slow; Movement Speed
 - Another scale entry: base 300–450; extra PA 80; lost-hp: enemy's 20 (pd)
 
 ### Revenge Strike
-- Effects: AoE, Speed Up  
-- Type: Physical Skill  
-- Cooldown: 7.0s  
-- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100  
-- Description: Terizla cracks the ground with his hammer and the fissure will spread out, dealing [value missing]. After the fissure hits the first target, it will drill into the target and them by 30%. At the same time, Terizla's [missing term] will be increased by 25% for 3 seconds. The fissure on target will then explode, dealing [value missing].  
+
+- Effects: AoE, Speed Up
+- Type: Physical Skill
+- Cooldown: 7.0s
+- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100
+- Description: Terizla cracks the ground with his hammer and the fissure will spread out, dealing [value missing]. After the fissure hits the first target, it will drill into the target and them by 30%. At the same time, Terizla's [missing term] will be increased by 25% for 3 seconds. The fissure on target will then explode, dealing [value missing].
 - Listed stats:
-  - Fissure Damage: 300 / 330 / 360 / 390 / 420 / 450  
-  - Movement Speed Bonus: 25% / 28% / 31% / 34% / 37% / 40%  
-  - Explosive Damage: 300 / 330 / 360 / 390 / 420 / 450  
-- Terms: Physical Skill; Extra Physical ATK; Lost HP  
-- Notes: *This skill only deals up to 1000 Physical Damage no matter how critical is the enemy's HP.*
+  - Fissure Damage: 300 / 330 / 360 / 390 / 420 / 450
+  - Movement Speed Bonus: 25% / 28% / 31% / 34% / 37% / 40%
+  - Explosive Damage: 300 / 330 / 360 / 390 / 420 / 450
+- Terms: Physical Skill; Extra Physical ATK; Lost HP
+- Notes: _This skill only deals up to 1000 Physical Damage no matter how critical is the enemy's HP._
 
 ## Skill 2
 
 - Scales / damage entries:
-  - base 135–310; total PA 160–185 (pd)  
+  - base 135–310; total PA 160–185 (pd)
   - base 225–450; total PA 220–320 (pd)
 - Effects / tags: slowed; 60%–100% damage (pd); Execution Strike; mana; Cooldown; Suppression (cc)
 - Images referenced: Execution Strike 2, Execution Strike 3
 
 ### Execution Strike
-- Effects: Burst, Slowed  
-- Type: Physical Skill  
-- Cooldown: 5.0s  
-- Mana Cost: 25  
-- Description: Terizla waves his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal each [value missing], while the third deals [value missing]. Enemies hit will also be slowed by 15% for 1.5 seconds (the slow effect can stack). Deals only [value missing] to minions.  
+
+- Effects: Burst, Slowed
+- Type: Physical Skill
+- Cooldown: 5.0s
+- Mana Cost: 25
+- Description: Terizla waves his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal each [value missing], while the third deals [value missing]. Enemies hit will also be slowed by 15% for 1.5 seconds (the slow effect can stack). Deals only [value missing] to minions.
 - Listed stats:
-  - 1st/2nd Wave Damage: 135 / 170 / 205 / 240 / 275 / 310  
-  - 3rd Wave Damage: 225 / 270 / 315 / 360 / 405 / 450  
-  - Damage to Minions: 60% / 68% / 76% / 84% / 92% / 100%  
-  - Slow Effect: {15%, 30%, 45%}  
-- Terms: Physical Skill; Movement Speed  
+  - 1st/2nd Wave Damage: 135 / 170 / 205 / 240 / 275 / 310
+  - 3rd Wave Damage: 225 / 270 / 315 / 360 / 405 / 450
+  - Damage to Minions: 60% / 68% / 76% / 84% / 92% / 100%
+  - Slow Effect: 15%, 30%, 45%
+- Terms: Physical Skill; Movement Speed
 - Notes:
-  - *2nd and 3rd can be cast within 4 seconds; they also cost [missing term].*  
-  - ** starts when the duration of the skill ends, or when the final phase has been cast.  
-  - **This skill can only be interrupted by [missing term] effects.  
-  - *Terizla can move briefly while casting, but will be momentarily unable to move when the skill is executed.*
+  - _2nd and 3rd can be cast within 4 seconds; they also cost [missing term]._
+  - \*\* starts when the duration of the skill ends, or when the final phase has been cast.
+  - \*\*This skill can only be interrupted by [missing term] effects.
+  - _Terizla can move briefly while casting, but will be momentarily unable to move when the skill is executed._
 
 ## Ultimate
 
 - Tags / effects: jumps, blink; knocking enemy heroes up (cc); slowing; Scaffold (e); pull (cc)
 - Scale entries:
-  - base 300–500; total PA 100 (pd)  
+  - base 300–500; total PA 100 (pd)
   - base 150–250; total PA 30 (pd)
 
 ### Penalty Zone
-- Effects: CC, AoE  
-- Type: Physical Skill  
-- Cooldown: 40.0 / 35.0 / 30.0s  
-- Mana Cost: 100 / 120 / 140  
-- Description: Terizla to the designated area to smash down, causing [, for approximately 0.7 seconds] and [them] by 45%–50%. Meanwhile, he summons [missing noun], which will reach out a hook to the [enemy heroes] and pull the target for [3] times, causing damage each time.  
+
+- Effects: CC, AoE
+- Type: Physical Skill
+- Cooldown: 40.0 / 35.0 / 30.0s
+- Mana Cost: 100 / 120 / 140
+- Description: Terizla to the designated area to smash down, causing [, for approximately 0.7 seconds] and [them] by 45%–50%. Meanwhile, he summons [missing noun], which will reach out a hook to the [enemy heroes] and pull the target for [3] times, causing damage each time.
 - Listed stats:
-  - Smash Damage: 300 / 400 / 500  
-  - Slow Effect: 40% / 45% / 50%  
-  - Pulling Damage: 150 / 200 / 250  
+  - Smash Damage: 300 / 400 / 500
+  - Slow Effect: 40% / 45% / 50%
+  - Pulling Damage: 150 / 200 / 250
 - Terms: Physical Skill; Movement Speed
 
 # Trivia
@@ -173,8 +166,9 @@ Images (files only — links omitted):
 - Hilda
 
 List:
-- In the latter patch note, he shared the role (Fighter/Tank) as both are equipped with axe as their own weapon. (Fighter; Tank)  
-- However, skill 2 is different than Hilda because of the delay that he needs to spam his skill.  
-- Terizla does not gain any attack speed from items.  
-- Execution Strike (second skill) can out-damage some Mages' skills if all hits land.  
+
+- In the latter patch note, he shared the role (Fighter/Tank) as both are equipped with axe as their own weapon. (Fighter; Tank)
+- However, skill 2 is different than Hilda because of the delay that he needs to spam his skill.
+- Terizla does not gain any attack speed from items.
+- Execution Strike (second skill) can out-damage some Mages' skills if all hits land.
 - Penalty Zone (Ultimate) was tested with different CC effects before the pull mechanic was finalized.
