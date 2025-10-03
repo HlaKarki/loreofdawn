@@ -4,6 +4,7 @@ import fs from "node:fs";
 import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
 import { heroIdKeys, type HeroIdKey } from "@/data/ml/hero_ids";
+import { mlService } from "@/services/ml.service";
 
 const heroKeyEnum = z.enum(heroIdKeys as [HeroIdKey, ...HeroIdKey[]]);
 
@@ -56,7 +57,7 @@ export const scrape = router({
 		}),
 
 	getAllHeroInfo: publicProcedure.query(async () => {
-		const heroes = await wikiScraper.getAllHeroInfo();
+		const heroes = await mlService.getAllHeroInfo();
 		const ml_hero_ids: Record<string, number> = {};
 		for (const hero of heroes.data.records) {
 			const n = hero.data.hero.data.name.toLowerCase().replaceAll(" ", "_");
@@ -68,11 +69,73 @@ export const scrape = router({
 	getHeroInfo: publicProcedure
 		.input(z.object({ hero: heroKeyEnum }))
 		.mutation(async ({ input }) => {
-			const response = await wikiScraper.getHeroInfo(input.hero);
+			const response = await mlService.getHeroInfo(input.hero);
 
 			if (response?.data?.records?.length) {
 				return response.data.records[0];
 			}
+			return undefined;
+		}),
+
+	getHeroMatchups: publicProcedure
+		.input(
+			z.object({
+				hero: heroKeyEnum.optional(),
+				counter: z.boolean().default(true),
+				rank: z
+					.enum(["glory", "overall"])
+					.default("glory")
+					.transform((val) => (val === "glory" ? 9 : 101)),
+			}),
+		)
+		.mutation(async ({ input }) => {
+			const response = await mlService.getHeroMatchUps(input);
+
+			if (response?.data?.records?.length) {
+				return response.data.records;
+			}
+			return undefined;
+		}),
+
+	getMetaData: publicProcedure
+		.input(
+			z.object({
+				hero: heroKeyEnum.optional(),
+				counter: z.boolean().default(true),
+				rank: z
+					.enum(["glory", "overall"])
+					.default("glory")
+					.transform((val) => (val === "glory" ? 9 : 101)),
+			}),
+		)
+		.mutation(async ({ input }) => {
+			const response = await mlService.getMetaData(input);
+
+			if (response?.data?.records?.length) {
+				return response.data.records;
+			}
+
+			return undefined;
+		}),
+
+	getGraphData: publicProcedure
+		.input(
+			z.object({
+				hero: heroKeyEnum.optional(),
+				counter: z.boolean().default(true),
+				rank: z
+					.enum(["glory", "overall"])
+					.default("glory")
+					.transform((val) => (val === "glory" ? 9 : 101)),
+			}),
+		)
+		.mutation(async ({ input }) => {
+			const response = await mlService.getGraphData(input);
+
+			if (response?.data?.records?.length) {
+				return response.data.records;
+			}
+
 			return undefined;
 		}),
 });

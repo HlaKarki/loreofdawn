@@ -5,14 +5,12 @@ import TurndownService from "turndown";
 import { openai } from "@ai-sdk/openai";
 import { generateText } from "ai";
 import type {
-	RawHeroTypeMLBB,
 	WikiHTMLResponse,
 	WikiJSON,
 	WikiResponseComplete,
 	WikiSection,
 } from "@/types/scraper.types";
 import { hero_page_ids } from "@/data/wiki/page_ids";
-import { hero_ids, type HeroIdKey } from "@/data/ml/hero_ids";
 
 class WikiScraper {
 	private readonly jsonDefaultQuery = {
@@ -38,8 +36,6 @@ class WikiScraper {
 
 	private readonly markdownSystemPrompt =
 		"Turn the JSON input into markdown document. Do not embed image links. Format dialogs for characters as quote blocks";
-
-	private readonly MAX_HERO_ASSUMPTION = 150;
 
 	private buildQuery(titles: string) {
 		return { ...this.jsonDefaultQuery, titles };
@@ -299,37 +295,6 @@ class WikiScraper {
 		]);
 
 		return ai_response.text;
-	}
-
-	async getAllHeroInfo() {
-		const response = await fetch("https://api.gms.moontontech.com/api/gms/source/2669606/2756564", {
-			method: "POST",
-			body: JSON.stringify({
-				pageSize: this.MAX_HERO_ASSUMPTION,
-			}),
-		});
-
-		return (await response.json()) as {
-			code: number;
-			message: string;
-			data: { records: RawHeroTypeMLBB[] };
-		};
-	}
-
-	async getHeroInfo(hero: HeroIdKey) {
-		const response = await fetch("https://api.gms.moontontech.com/api/gms/source/2669606/2756564", {
-			method: "POST",
-			body: JSON.stringify({
-				pageSize: 5,
-				filters: [{ field: "hero_id", operator: "eq", value: hero_ids[hero] }],
-			}),
-		});
-
-		return (await response.json()) as {
-			code: number;
-			message: string;
-			data: { records: RawHeroTypeMLBB[] };
-		};
 	}
 }
 

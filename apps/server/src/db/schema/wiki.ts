@@ -7,6 +7,6 @@ export const wikisTable = pgTable("wikis", {
 	json: jsonb("json"),
 	createdAt: timestamp("created_at", { withTimezone: true }).defaultNow().notNull(),
 	updatedAt: timestamp("updated_at", { withTimezone: true }).defaultNow().notNull(),
-});
+}).enableRLS();
 
 export type WikiType = typeof wikisTable.$inferSelect;
