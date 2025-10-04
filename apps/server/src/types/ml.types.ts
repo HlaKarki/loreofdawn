@@ -258,27 +258,42 @@ export interface RawMetaTypeML {
 	sourceId: number;
 }
 
-export interface MetaTypeMl {
+export interface MetaTypeML {
 	id: number;
 	name: string;
+	updatedAt: number;
 	pick_rate: number;
 	ban_rate: number;
 	win_rate: number;
 }
 
+export interface GraphTypeML {
+	id: number;
+	name: string;
+	updatedAt: number;
+	trend_start: string | null;
+	trend_end: string | null;
+	points: {
+		date: string;
+		win_rate: number;
+		pick_rate: number;
+		ban_rate: number;
+	}[];
+}
+
 export interface RawGraphTypeML {
 	_createdAt: number;
 	_id: string;
-	_updatedAt: string;
+	_updatedAt: number;
 	data: {
-		bigrank: number;
+		bigrank: string;
 		camp_type: string;
 		main_heroid: number;
 		match_type: string;
 		win_rate: {
 			app_rate: number;
 			ban_rate: number;
-			date: string; // e.g. 2025-09-30
+			date: string;
 			win_rate: number;
 		}[];
 	};

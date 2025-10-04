@@ -4,6 +4,7 @@ import type {
 	HeroTypeML,
 	MatchupTypeML,
 	MetaTypeMl,
+	GraphTrendSeries,
 	RawGraphTypeML,
 	RawMatchupTypeML,
 	RawMetaTypeML,
@@ -225,6 +226,10 @@ class MlService {
 	}
 
 	private normalizeMatchupData(raw: RawMatchupTypeML[], isCounter: boolean): MatchupTypeML[] {
+		if (!raw?.length) {
+			return [];
+		}
+
 		return raw.map((matchup) => {
 			const data = matchup.data;
 			const primary = this.mapSubHeroes(data.sub_hero);
@@ -256,9 +261,44 @@ class MlService {
 			return {
 				id: heroId,
 				name: heroName,
+				updatedAt: meta._updatedAt,
 				pick_rate: data.main_hero_appearance_rate,
 				ban_rate: data.main_hero_ban_rate,
 				win_rate: data.main_hero_win_rate,
+			};
+		});
+	}
+
+	private normalizeGraphData(raw?: RawGraphTypeML[] | null): GraphTrendSeries[] {
+		if (!raw?.length) {
+			return [];
+		}
+
+		return raw.map((record) => {
+			const data = record.data;
+
+			const heroId = data.main_heroid;
+			const heroKey = String(heroId) as keyof typeof hero_names;
+			const heroName = hero_names[heroKey] ?? String(heroId);
+
+			const points = (data.win_rate ?? []).map((point) => ({
+				date: point.date,
+				win_rate: point.win_rate,
+				pick_rate: point.app_rate,
+				ban_rate: point.ban_rate,
+			}));
+
+			const sortedPoints = [...points].sort((a, b) => a.date.localeCompare(b.date));
+			const pointsCount = sortedPoints.length;
+			const lastPoint = pointsCount ? sortedPoints[pointsCount - 1] : null;
+
+			return {
+				id: heroId,
+				name: heroName,
+				updatedAt: record._updatedAt,
+				trend_start: sortedPoints[0]?.date ?? null,
+				trend_end: lastPoint?.date ?? null,
+				points: sortedPoints,
 			};
 		});
 	}
@@ -280,7 +320,7 @@ class MlService {
 		};
 	}
 
-	async getMetaData(opts?: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+	async getMetaData(opts?: { hero?: HeroIdKey; counter?: boolean; rank: 9 | 101 }) {
 		const body = this.buildBody(this.MAX_HERO_ASSUMPTION, {
 			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
 		});
@@ -354,6 +394,11 @@ class MlService {
 	async getHeroMetaData(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
 		const response = await this.getMetaData(opts);
 		return this.normalizeMetaData(response.data.records);
+	}
+
+	async getHeroGraphData(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+		const response = await this.getGraphData(opts);
+		return this.normalizeGraphData(response.data.records);
 	}
 }
 
