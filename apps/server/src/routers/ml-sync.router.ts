@@ -1,8 +1,8 @@
 import { z } from "zod";
 import { publicProcedure, router } from "@/lib/trpc";
 import { HeroNameEnumZ } from "@/data/ml/hero_ids";
-import { persistService } from "@/services/persist.service";
-import { mlDbService } from "@/services/db/ml_db.service";
+import { mlTransformService } from "@/services/ml/ml-transform.service";
+import { mlDbService } from "@/services/ml/ml-db.service";
 
 const standardInput = z.object({
 	hero: HeroNameEnumZ,
@@ -21,15 +21,15 @@ const optionalInput = z.object({
 	counter: z.boolean().default(true),
 });
 
-export const persist = router({
+export const mlSync = router({
 	updateHeroProfile: publicProcedure.input(standardInput).mutation(async ({ input }) => {
-		const profile = await persistService.getNormalizedHeroProfile(input);
+		const profile = await mlTransformService.getNormalizedHeroProfile(input);
 		const [result] = await mlDbService.upsertHeroProfile(profile);
 		return result;
 	}),
 
 	updateAllHeroProfiles: publicProcedure.mutation(async () => {
-		const profiles = await persistService.getNormalizedHeroProfiles();
+		const profiles = await mlTransformService.getNormalizedHeroProfiles();
 		const updated = [];
 		for (const profile of profiles) {
 			const result = await mlDbService.upsertHeroProfile(profile);
@@ -39,12 +39,12 @@ export const persist = router({
 	}),
 
 	updateHeroMatchup: publicProcedure.input(standardInput).mutation(async ({ input }) => {
-		const matchup = (await persistService.getNormalizedMatchupSummaries(input))[0];
+		const matchup = (await mlTransformService.getNormalizedMatchupSummaries(input))[0];
 		return await mlDbService.upsertHeroMatchup(matchup, input.counter);
 	}),
 
 	updateAllHeroMatchups: publicProcedure.input(optionalInput).mutation(async ({ input }) => {
-		const matchups = await persistService.getNormalizedMatchupSummaries(input);
+		const matchups = await mlTransformService.getNormalizedMatchupSummaries(input);
 		for (const matchup of matchups) {
 			await mlDbService.upsertHeroMatchup(matchup, input.counter);
 		}
@@ -52,12 +52,12 @@ export const persist = router({
 	}),
 
 	updateHeroMetaData: publicProcedure.input(standardInput).mutation(async ({ input }) => {
-		const metadata = (await persistService.getNormalizedMetaSummaries(input))[0];
+		const metadata = (await mlTransformService.getNormalizedMetaSummaries(input))[0];
 		return await mlDbService.upsertHeroMetaData(metadata);
 	}),
 
 	updateAllHeroMetaData: publicProcedure.input(optionalInput).mutation(async ({ input }) => {
-		const metadata = await persistService.getNormalizedMetaSummaries(input);
+		const metadata = await mlTransformService.getNormalizedMetaSummaries(input);
 		for (const meta of metadata) {
 			await mlDbService.upsertHeroMetaData(meta);
 		}
@@ -65,12 +65,12 @@ export const persist = router({
 	}),
 
 	updateHeroGraphData: publicProcedure.input(standardInput).mutation(async ({ input }) => {
-		const graphData = (await persistService.getNormalizedGraphSeries(input))[0];
+		const graphData = (await mlTransformService.getNormalizedGraphSeries(input))[0];
 		return await mlDbService.upsertHeroGraphData(graphData);
 	}),
 
 	updateAllHeroGraphData: publicProcedure.input(optionalInput).mutation(async ({ input }) => {
-		const graphData = await persistService.getNormalizedGraphSeries(input);
+		const graphData = await mlTransformService.getNormalizedGraphSeries(input);
 		for (const graph of graphData) {
 			await mlDbService.upsertHeroGraphData(graph);
 		}
@@ -82,7 +82,7 @@ export const persist = router({
 		const counterOptions = [true, false] as const;
 
 		// Update all hero profiles
-		const profiles = await persistService.getNormalizedHeroProfiles();
+		const profiles = await mlTransformService.getNormalizedHeroProfiles();
 		for (const profile of profiles) {
 			await mlDbService.upsertHeroProfile(profile);
 		}
@@ -90,7 +90,7 @@ export const persist = router({
 		// Update matchups for all rank + counter combinations
 		for (const rank of ranks) {
 			for (const counter of counterOptions) {
-				const matchups = await persistService.getNormalizedMatchupSummaries({ rank, counter });
+				const matchups = await mlTransformService.getNormalizedMatchupSummaries({ rank, counter });
 				for (const matchup of matchups) {
 					await mlDbService.upsertHeroMatchup(matchup, counter);
 				}
@@ -99,7 +99,7 @@ export const persist = router({
 
 		// Update metadata for all ranks
 		for (const rank of ranks) {
-			const metadata = await persistService.getNormalizedMetaSummaries({ rank, counter: true });
+			const metadata = await mlTransformService.getNormalizedMetaSummaries({ rank, counter: true });
 			for (const meta of metadata) {
 				await mlDbService.upsertHeroMetaData(meta);
 			}
@@ -107,7 +107,7 @@ export const persist = router({
 
 		// Update graph data for all ranks
 		for (const rank of ranks) {
-			const graphData = await persistService.getNormalizedGraphSeries({ rank, counter: true });
+			const graphData = await mlTransformService.getNormalizedGraphSeries({ rank, counter: true });
 			for (const graph of graphData) {
 				await mlDbService.upsertHeroGraphData(graph);
 			}

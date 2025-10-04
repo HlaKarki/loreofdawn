@@ -10,9 +10,9 @@ import type {
 	MlMetaApiRecord,
 } from "@/types/ml.types";
 import type { MlHeroApiRecord } from "@/types/ml.types";
-import { mlRawService } from "@/services/ml_raw.service";
+import { mlApiService } from "@/services/ml/ml-api.service";
 
-class PersistService {
+class MlTransformService {
 	private parseCooldownAndMana(s: string) {
 		// normalize spacing
 		const text = s.replace(/\s+/g, " ").trim();
@@ -254,12 +254,12 @@ class PersistService {
 	}
 
 	async getNormalizedHeroProfiles() {
-		const response = await mlRawService.fetchAllHeroRecords();
+		const response = await mlApiService.fetchAllHeroRecords();
 		return this.normalizeHeroProfiles(response.data.records);
 	}
 
 	async getNormalizedHeroProfile(opts: { hero: HeroNameKey; rank: 9 | 101 }) {
-		const response = await mlRawService.fetchHeroRecord(opts.hero);
+		const response = await mlApiService.fetchHeroRecord(opts.hero);
 
 		return this.normalizeHeroProfiles(response.data.records)[0];
 	}
@@ -269,19 +269,19 @@ class PersistService {
 		counter: boolean;
 		rank: 9 | 101;
 	}): Promise<MlMatchupSummary[]> {
-		const response = await mlRawService.fetchMatchupRecords(opts);
+		const response = await mlApiService.fetchMatchupRecords(opts);
 		return this.normalizeMatchupSummaries(response.data.records, opts.counter);
 	}
 
 	async getNormalizedMetaSummaries(opts: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
-		const response = await mlRawService.fetchMetaRecords(opts);
+		const response = await mlApiService.fetchMetaRecords(opts);
 		return this.normalizeMetaSummaries(response.data.records);
 	}
 
 	async getNormalizedGraphSeries(opts: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
-		const response = await mlRawService.fetchGraphRecords(opts);
+		const response = await mlApiService.fetchGraphRecords(opts);
 		return this.normalizeGraphData(response.data.records);
 	}
 }
 
-export const persistService = new PersistService();
+export const mlTransformService = new MlTransformService();

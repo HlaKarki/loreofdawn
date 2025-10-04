@@ -2,8 +2,8 @@ import path from "node:path";
 import fs from "node:fs";
 import { TRPCError } from "@trpc/server";
 import { db } from "@/db";
-import { wikisTable } from "@/db/schema/wiki";
 import { eq } from "drizzle-orm";
+import { wikisTable } from "@/db/schema/wiki.schema";
 
 class DbService {
 	async uploadMarkdown(hero: string) {

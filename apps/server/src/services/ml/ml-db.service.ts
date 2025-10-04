@@ -5,7 +5,7 @@ import {
 	heroMatchupTable,
 	heroMetaDataTable,
 	heroProfileTable,
-} from "@/db/schema/ml";
+} from "@/db/schema/ml.schema";
 import type { MlGraphData, MlHeroProfile, MlMatchupSummary, MlMetaSummary } from "@/types/ml.types";
 import { and, eq, ilike } from "drizzle-orm";
 

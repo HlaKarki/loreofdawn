@@ -8,7 +8,7 @@ import type {
 } from "@/types/ml.types";
 import { hero_ids, type HeroNameKey } from "@/data/ml/hero_ids";
 
-class MlRawService {
+class MlApiService {
 	private readonly MAX_HERO_ASSUMPTION = 150;
 	private readonly BASE_URL = process.env.ML_BASE_URL;
 	private readonly FIRST_ID = process.env.ML_FIRST_ID ?? "0";
@@ -155,4 +155,4 @@ class MlRawService {
 	}
 }
 
-export const mlRawService = new MlRawService();
+export const mlApiService = new MlApiService();

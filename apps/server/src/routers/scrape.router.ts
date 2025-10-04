@@ -3,9 +3,9 @@ import path from "node:path";
 import fs from "node:fs";
 import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
-import { persistService } from "@/services/persist.service";
-import { mlRawService } from "@/services/ml_raw.service";
 import { HeroNameEnumZ } from "@/data/ml/hero_ids";
+import { mlApiService } from "@/services/ml/ml-api.service";
+import { mlTransformService } from "@/services/ml/ml-transform.service";
 
 export const scrape = router({
 	heroStory: publicProcedure
@@ -56,7 +56,7 @@ export const scrape = router({
 		}),
 
 	getAllHeroInfo: publicProcedure.query(async () => {
-		const heroes = await mlRawService.fetchAllHeroRecords();
+		const heroes = await mlApiService.fetchAllHeroRecords();
 		const ml_hero_ids: Record<string, number> = {};
 		for (const hero of heroes.data.records) {
 			const n = hero.data.hero.data.name.toLowerCase().replaceAll(" ", "_");
@@ -68,7 +68,7 @@ export const scrape = router({
 	getHeroInfo: publicProcedure
 		.input(z.object({ hero: HeroNameEnumZ }))
 		.mutation(async ({ input }) => {
-			const response = await mlRawService.fetchHeroRecord(input.hero);
+			const response = await mlApiService.fetchHeroRecord(input.hero);
 
 			if (response?.data?.records?.length) {
 				return response.data.records[0];
@@ -88,7 +88,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlRawService.fetchMatchupRecords(input);
+			const response = await mlApiService.fetchMatchupRecords(input);
 
 			if (response?.data?.records?.length) {
 				return response.data.records;
@@ -108,7 +108,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlRawService.fetchMetaRecords(input);
+			const response = await mlApiService.fetchMetaRecords(input);
 
 			if (response?.data?.records?.length) {
 				return response.data.records;
@@ -129,7 +129,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlRawService.fetchGraphRecords(input);
+			const response = await mlApiService.fetchGraphRecords(input);
 
 			if (response?.data?.records?.length) {
 				return response.data.records;
@@ -150,7 +150,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await persistService.getNormalizedGraphSeries(input);
+			return await mlTransformService.getNormalizedGraphSeries(input);
 		}),
 
 	normalizedHero: publicProcedure
@@ -164,7 +164,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await persistService.getNormalizedHeroProfile(input);
+			return await mlTransformService.getNormalizedHeroProfile(input);
 		}),
 
 	normalizedMatchups: publicProcedure
@@ -179,7 +179,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await persistService.getNormalizedMatchupSummaries(input);
+			return await mlTransformService.getNormalizedMatchupSummaries(input);
 		}),
 
 	normalizedMetaData: publicProcedure
@@ -194,6 +194,6 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await persistService.getNormalizedMetaSummaries(input);
+			return await mlTransformService.getNormalizedMetaSummaries(input);
 		}),
 });
