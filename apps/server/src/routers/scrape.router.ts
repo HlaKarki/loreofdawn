@@ -5,7 +5,7 @@ import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
 import { heroIdKeys, type HeroIdKey } from "@/data/ml/hero_ids";
 import { mlService } from "@/services/ml.service";
-import { mlRawService } from "@/routers/ml_raw.service";
+import { mlRawService } from "@/services/ml_raw.service";
 
 const heroKeyEnum = z.enum(heroIdKeys as [HeroIdKey, ...HeroIdKey[]]);
 

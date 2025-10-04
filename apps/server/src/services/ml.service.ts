@@ -10,7 +10,7 @@ import type {
 	MlMetaApiRecord,
 } from "@/types/ml.types";
 import type { MlHeroApiRecord } from "@/types/ml.types";
-import { mlRawService } from "@/routers/ml_raw.service";
+import { mlRawService } from "@/services/ml_raw.service";
 
 class MlService {
 	private parseCooldownAndMana(s: string) {
