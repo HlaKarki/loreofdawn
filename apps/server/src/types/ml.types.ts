@@ -208,7 +208,7 @@ export interface RawMatchupTypeML {
 interface sub_hero_type {
 	index: number;
 	id: number;
-	name: number;
+	name: string;
 	image: string;
 	pick_rate: number;
 	win_rate: number;
@@ -227,9 +227,6 @@ interface sub_hero_type {
 export interface MatchupTypeML {
 	name: string;
 	id: number;
-	pick_rate: number;
-	ban_rate: number;
-	win_rate: number;
 	most_compatible: sub_hero_type[];
 	least_compatible: sub_hero_type[];
 	best_counter: sub_hero_type[];

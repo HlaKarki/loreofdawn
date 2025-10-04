@@ -2,6 +2,7 @@ import { hero_ids, hero_names, type HeroIdKey } from "@/data/ml/hero_ids";
 import type {
 	fetch_type,
 	HeroTypeML,
+	MatchupTypeML,
 	RawGraphTypeML,
 	RawMatchupTypeML,
 	RawMetaTypeML,
@@ -192,6 +193,54 @@ class MlService {
 		});
 	}
 
+	private mapSubHeroes(
+		heroes?: RawMatchupTypeML["data"]["sub_hero"],
+	): MatchupTypeML["most_compatible"] {
+		if (!heroes?.length) {
+			return [];
+		}
+
+		return heroes.map((hero, index) => {
+			const heroKey = String(hero.heroid) as keyof typeof hero_names;
+			return {
+				index: hero.hero_index ?? index,
+				id: hero.heroid,
+				name: hero_names[heroKey] ?? String(hero.heroid),
+				image: hero.hero?.data?.head ?? "",
+				pick_rate: hero.hero_appearance_rate,
+				win_rate: hero.hero_win_rate,
+				increase_win_rate: hero.increase_win_rate,
+				min_win_rate6: hero.min_win_rate6,
+				min_win_rate6_8: hero.min_win_rate6_8,
+				min_win_rate8_10: hero.min_win_rate8_10,
+				min_win_rate10_12: hero.min_win_rate10_12,
+				min_win_rate12_14: hero.min_win_rate12_14,
+				min_win_rate14_16: hero.min_win_rate14_16,
+				min_win_rate16_18: hero.min_win_rate16_18,
+				min_win_rate18_20: hero.min_win_rate18_20,
+				min_win_rate20: hero.min_win_rate20,
+			};
+		});
+	}
+
+	private normalizeMatchupData(raw: RawMatchupTypeML[], isCounter: boolean): MatchupTypeML[] {
+		return raw.map((matchup) => {
+			const data = matchup.data;
+			const primary = this.mapSubHeroes(data.sub_hero);
+			const secondary = this.mapSubHeroes(data.sub_hero_last);
+
+			return {
+				name: data.main_hero?.data?.name ?? "",
+				id: data.main_heroid,
+				most_compatible: isCounter ? [] : primary,
+				least_compatible: isCounter ? [] : secondary,
+				best_counter: isCounter ? secondary : [],
+				worst_counter: isCounter ? primary : [],
+				updatedAt: matchup._updatedAt,
+			};
+		});
+	}
+
 	async getGraphData(opts?: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
 		const body = this.buildBody(this.MAX_HERO_ASSUMPTION, {
 			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
@@ -273,6 +322,11 @@ class MlService {
 		const response = await this.getHeroInfo(opts.hero);
 
 		return this.normalizeHeroData(response.data.records);
+	}
+
+	async getHeroMatchupsNormalized(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+		const response = await this.getHeroMatchUps(opts);
+		return this.normalizeMatchupData(response.data.records, opts.counter);
 	}
 }
 
