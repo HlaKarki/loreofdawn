@@ -1,4 +1,4 @@
-import { hero_names, type HeroIdKey } from "@/data/ml/hero_ids";
+import { hero_names, type HeroNameKey } from "@/data/ml/hero_ids";
 import type {
 	MlHeroProfile,
 	MlMatchupSummary,
@@ -25,6 +25,16 @@ class MlService {
 			cd: cdMatch ? parseInt(cdMatch[1], 10) : null,
 			mana: manaMatch ? parseInt(manaMatch[1], 10) : null,
 		};
+	}
+
+	private parseRankNumber(n: string): string {
+		const parsed = parseInt(n);
+		if (!Number.isNaN(parsed)) {
+			if (parsed === 101) return "overall";
+			else if (parsed === 9) return "glory";
+			// add more down the line
+		}
+		return "undefined";
 	}
 
 	private normalizeRelationSection = (
@@ -86,7 +96,7 @@ class MlService {
 					};
 				});
 
-			const lane = (heroData.roadsort ?? []).map((entry) => ({
+			const lanes = (heroData.roadsort ?? []).map((entry) => ({
 				icon: entry?.data?.road_sort_icon ?? "",
 				title: entry?.data?.road_sort_title ?? "",
 			}));
@@ -111,7 +121,7 @@ class MlService {
 				},
 				difficulty: heroData.difficulty,
 				skills,
-				lane,
+				lanes,
 				roles,
 				speciality: heroData.speciality ?? [],
 				tagline: heroData.story,
@@ -168,10 +178,13 @@ class MlService {
 			const data = matchup.data;
 			const primary = this.normalizeSubHeroSummaries(data.sub_hero);
 			const secondary = this.normalizeSubHeroSummaries(data.sub_hero_last);
+			const rank = this.parseRankNumber(matchup.data.bigrank);
 
 			return {
 				name: data.main_hero?.data?.name ?? "",
 				id: data.main_heroid,
+				rank: rank,
+				updatedAt: matchup._updatedAt,
 				most_compatible: isCounter ? [] : primary,
 				least_compatible: isCounter ? [] : secondary,
 				best_counter: isCounter ? secondary : [],
@@ -191,10 +204,12 @@ class MlService {
 			const heroKey = String(heroId) as keyof typeof hero_names;
 			const fallbackName = hero_names[heroKey] ?? String(heroId);
 			const heroName = data.main_hero?.data?.name ?? fallbackName;
+			const rank = this.parseRankNumber(meta.data.bigrank);
 
 			return {
 				id: heroId,
 				name: heroName,
+				rank: rank,
 				updatedAt: meta._updatedAt,
 				pick_rate: data.main_hero_appearance_rate,
 				ban_rate: data.main_hero_ban_rate,
@@ -224,10 +239,12 @@ class MlService {
 			const sortedPoints = [...points].sort((a, b) => a.date.localeCompare(b.date));
 			const pointsCount = sortedPoints.length;
 			const lastPoint = pointsCount ? sortedPoints[pointsCount - 1] : null;
+			const rank = this.parseRankNumber(record.data.bigrank);
 
 			return {
 				id: heroId,
 				name: heroName,
+				rank: rank,
 				updatedAt: record._updatedAt,
 				trend_start: sortedPoints[0]?.date ?? null,
 				trend_end: lastPoint?.date ?? null,
@@ -236,23 +253,32 @@ class MlService {
 		});
 	}
 
-	async getNormalizedHeroProfiles(opts: { hero: HeroIdKey; rank?: 9 | 101 }) {
-		const response = await mlRawService.fetchHeroRecord(opts.hero);
-
+	async getNormalizedHeroProfiles() {
+		const response = await mlRawService.fetchAllHeroRecords();
 		return this.normalizeHeroProfiles(response.data.records);
 	}
 
-	async getNormalizedMatchupSummaries(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+	async getNormalizedHeroProfile(opts: { hero: HeroNameKey; rank: 9 | 101 }) {
+		const response = await mlRawService.fetchHeroRecord(opts.hero);
+
+		return this.normalizeHeroProfiles(response.data.records)[0];
+	}
+
+	async getNormalizedMatchupSummaries(opts: {
+		hero?: HeroNameKey;
+		counter: boolean;
+		rank: 9 | 101;
+	}): Promise<MlMatchupSummary[]> {
 		const response = await mlRawService.fetchMatchupRecords(opts);
 		return this.normalizeMatchupSummaries(response.data.records, opts.counter);
 	}
 
-	async getNormalizedMetaSummaries(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+	async getNormalizedMetaSummaries(opts: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
 		const response = await mlRawService.fetchMetaRecords(opts);
 		return this.normalizeMetaSummaries(response.data.records);
 	}
 
-	async getNormalizedGraphSeries(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+	async getNormalizedGraphSeries(opts: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
 		const response = await mlRawService.fetchGraphRecords(opts);
 		return this.normalizeGraphData(response.data.records);
 	}

@@ -3,11 +3,9 @@ import path from "node:path";
 import fs from "node:fs";
 import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
-import { heroIdKeys, type HeroIdKey } from "@/data/ml/hero_ids";
 import { mlService } from "@/services/ml.service";
 import { mlRawService } from "@/services/ml_raw.service";
-
-const heroKeyEnum = z.enum(heroIdKeys as [HeroIdKey, ...HeroIdKey[]]);
+import { HeroNameEnumZ } from "@/data/ml/hero_ids";
 
 export const scrape = router({
 	heroStory: publicProcedure
@@ -68,7 +66,7 @@ export const scrape = router({
 	}),
 
 	getHeroInfo: publicProcedure
-		.input(z.object({ hero: heroKeyEnum }))
+		.input(z.object({ hero: HeroNameEnumZ }))
 		.mutation(async ({ input }) => {
 			const response = await mlRawService.fetchHeroRecord(input.hero);
 
@@ -81,7 +79,7 @@ export const scrape = router({
 	getHeroMatchups: publicProcedure
 		.input(
 			z.object({
-				hero: heroKeyEnum.optional(),
+				hero: HeroNameEnumZ.optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -101,7 +99,7 @@ export const scrape = router({
 	getMetaData: publicProcedure
 		.input(
 			z.object({
-				hero: heroKeyEnum.optional(),
+				hero: HeroNameEnumZ.optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -122,7 +120,7 @@ export const scrape = router({
 	getGraphData: publicProcedure
 		.input(
 			z.object({
-				hero: heroKeyEnum.optional(),
+				hero: HeroNameEnumZ.optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -143,7 +141,7 @@ export const scrape = router({
 	normalizedGraphData: publicProcedure
 		.input(
 			z.object({
-				hero: heroKeyEnum.optional(),
+				hero: HeroNameEnumZ.optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -158,7 +156,7 @@ export const scrape = router({
 	normalizedHero: publicProcedure
 		.input(
 			z.object({
-				hero: heroKeyEnum,
+				hero: HeroNameEnumZ,
 				rank: z
 					.enum(["glory", "overall"])
 					.default("glory")
@@ -166,13 +164,13 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getNormalizedHeroProfiles(input);
+			return await mlService.getNormalizedHeroProfile(input);
 		}),
 
 	normalizedMatchups: publicProcedure
 		.input(
 			z.object({
-				hero: heroKeyEnum.optional(),
+				hero: HeroNameEnumZ.optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -187,7 +185,7 @@ export const scrape = router({
 	normalizedMetaData: publicProcedure
 		.input(
 			z.object({
-				hero: heroKeyEnum.optional(),
+				hero: HeroNameEnumZ.optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])

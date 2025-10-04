@@ -6,7 +6,7 @@ import type {
 	MlMetaApiRecord,
 	MlRequestPayload,
 } from "@/types/ml.types";
-import { hero_ids, type HeroIdKey } from "@/data/ml/hero_ids";
+import { hero_ids, type HeroNameKey } from "@/data/ml/hero_ids";
 
 class MlRawService {
 	private readonly MAX_HERO_ASSUMPTION = 150;
@@ -39,7 +39,7 @@ class MlRawService {
 	private buildRequestPayload(
 		page_size: number = 5,
 		opts?: {
-			filter?: { hero_name?: HeroIdKey; counter?: boolean; rank?: 9 | 101 };
+			filter?: { hero_name?: HeroNameKey; counter?: boolean; rank?: 9 | 101 };
 		},
 	) {
 		let body: MlRequestPayload = { pageSize: page_size };
@@ -77,7 +77,7 @@ class MlRawService {
 
 		return JSON.stringify(body);
 	}
-	async fetchGraphRecords(opts?: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+	async fetchGraphRecords(opts?: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
 		const body = this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
 			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
 		});
@@ -94,7 +94,7 @@ class MlRawService {
 		};
 	}
 
-	async fetchMetaRecords(opts?: { hero?: HeroIdKey; counter?: boolean; rank: 9 | 101 }) {
+	async fetchMetaRecords(opts?: { hero?: HeroNameKey; counter?: boolean; rank: 9 | 101 }) {
 		const body = this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
 			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
 		});
@@ -111,7 +111,7 @@ class MlRawService {
 		};
 	}
 
-	async fetchMatchupRecords(opts?: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+	async fetchMatchupRecords(opts?: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
 		const body = this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
 			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
 		});
@@ -128,7 +128,7 @@ class MlRawService {
 		};
 	}
 
-	async fetchHeroRecord(hero: HeroIdKey) {
+	async fetchHeroRecord(hero: HeroNameKey) {
 		const response = await fetch(this.buildEndpointUrl("hero"), {
 			method: "POST",
 			body: this.buildRequestPayload(undefined, { filter: { hero_name: hero } }),

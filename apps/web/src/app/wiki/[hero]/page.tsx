@@ -5,7 +5,7 @@ import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
 import { serverTrpc } from "@/server/trpc";
 import { TableOfContents } from "../_components/table_of_content";
-import { heroIdKeys, type HeroIdKey } from "@/data/ml/hero_ids";
+import { HeroNameKeys, type HeroNameKey } from "@/data/ml/hero_ids";
 import { HeroSummary } from "../_components/hero_summary";
 
 export const dynamic = "force-dynamic";
@@ -20,11 +20,11 @@ export default async function WikiPage({ params }: WikiPageProps) {
 	const resolvedParams = await params;
 	const heroParam = resolvedParams.hero.toLowerCase();
 
-	if (!heroIdKeys.includes(heroParam as HeroIdKey)) {
+	if (!HeroNameKeys.includes(heroParam as HeroNameKey)) {
 		notFound();
 	}
 
-	const heroKey = heroParam as HeroIdKey;
+	const heroKey = heroParam as HeroNameKey;
 	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero: heroKey });
 	const heroResponse = await serverTrpc.scrape.getHeroInfo.mutate({ hero: heroKey });
 

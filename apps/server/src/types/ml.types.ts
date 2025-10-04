@@ -107,56 +107,6 @@ export interface MlHeroApiRecord {
 	updatedUser: string;
 }
 
-export interface MlHeroProfile {
-	id: number;
-	name: string;
-	createdAt: number;
-	updatedAt: number;
-	images: {
-		head: string;
-		head_big: string;
-		painting: string;
-		smallmap: string;
-		squarehead: string;
-		squarehead_big: string;
-	};
-	difficulty: string;
-	skills: {
-		cd: number;
-		mana: number;
-		description: string;
-		icon: string;
-		name: string;
-		tags: string[]; // buff, cc, etc..
-	}[];
-	lane: {
-		icon: string;
-		title: string;
-	}[];
-	roles: {
-		icon: string;
-		title: string;
-	}[];
-	speciality: string[];
-	tagline: string;
-	tale: string;
-	relation: {
-		compatible_with: {
-			description: string;
-			heroes: { id: number; name: string; image: string }[];
-		}[];
-		strong_against: {
-			description: string;
-			heroes: { id: number; name: string; image: string }[];
-		}[];
-		weak_against: {
-			description: string;
-			heroes: { id: number; name: string; image: string }[];
-		}[];
-	};
-	source_link: string;
-}
-
 interface MlMatchupSubHeroApi {
 	hero: {
 		data: {
@@ -250,7 +200,57 @@ export interface MlGraphApiRecord {
 	sourceId: number;
 }
 
-interface MlMatchupSubHeroSummary {
+export interface MlHeroProfile {
+	id: number;
+	name: string;
+	createdAt: number;
+	updatedAt: number;
+	images: {
+		head: string;
+		head_big: string;
+		painting: string;
+		smallmap: string;
+		squarehead: string;
+		squarehead_big: string;
+	};
+	difficulty: string;
+	skills: {
+		cd: number;
+		mana: number;
+		description: string;
+		icon: string;
+		name: string;
+		tags: string[]; // buff, cc, etc..
+	}[];
+	lanes: {
+		icon: string;
+		title: string;
+	}[];
+	roles: {
+		icon: string;
+		title: string;
+	}[];
+	speciality: string[];
+	tagline: string;
+	tale: string;
+	relation: {
+		compatible_with: {
+			description: string;
+			heroes: { id: number; name: string; image: string }[];
+		}[];
+		strong_against: {
+			description: string;
+			heroes: { id: number; name: string; image: string }[];
+		}[];
+		weak_against: {
+			description: string;
+			heroes: { id: number; name: string; image: string }[];
+		}[];
+	};
+	source_link: string;
+}
+
+export interface MlMatchupSubHeroSummary {
 	index: number;
 	id: number;
 	name: string;
@@ -272,6 +272,8 @@ interface MlMatchupSubHeroSummary {
 export interface MlMatchupSummary {
 	name: string;
 	id: number;
+	rank: string;
+	updatedAt: number;
 	most_compatible: MlMatchupSubHeroSummary[];
 	least_compatible: MlMatchupSubHeroSummary[];
 	best_counter: MlMatchupSubHeroSummary[];
@@ -281,6 +283,7 @@ export interface MlMatchupSummary {
 export interface MlMetaSummary {
 	id: number;
 	name: string;
+	rank: string;
 	updatedAt: number;
 	pick_rate: number;
 	ban_rate: number;
@@ -297,6 +300,7 @@ export interface MlGraphPoint {
 export interface MlGraphData {
 	id: number;
 	name: string;
+	rank: string;
 	updatedAt: number;
 	trend_start: string | null;
 	trend_end: string | null;

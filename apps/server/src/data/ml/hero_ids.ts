@@ -1,3 +1,5 @@
+import { z } from "zod";
+
 export const hero_ids = {
 	obsidia: 130,
 	zetian: 129,
@@ -264,6 +266,8 @@ export const hero_names = {
 	"130": "obsidia",
 };
 
-export type HeroIdKey = keyof typeof hero_ids;
+export type HeroNameKey = keyof typeof hero_ids;
 
-export const heroIdKeys = Object.keys(hero_ids) as HeroIdKey[];
+export const HeroNameKeys = Object.keys(hero_ids) as HeroNameKey[];
+
+export const HeroNameEnumZ = z.enum(HeroNameKeys as [HeroNameKey, ...HeroNameKey[]]);
