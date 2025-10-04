@@ -1,4 +1,4 @@
-import { integer, jsonb, pgTable, text, bigint, primaryKey, index } from "drizzle-orm/pg-core";
+import { integer, jsonb, pgTable, text, bigint, primaryKey, index, real } from "drizzle-orm/pg-core";
 import type { MlGraphPoint, MlHeroProfile, MlMatchupSubHeroSummary } from "@/types/ml.types";
 
 export const heroProfileTable = pgTable("hero_profiles", {
@@ -43,9 +43,9 @@ export const heroMetaDataTable = pgTable(
 		id: integer("id").notNull(),
 		name: text("name").notNull(),
 		rank: text("rank").notNull(),
-		pick_rate: integer("pick_rate").notNull(),
-		ban_rate: integer("ban_rate").notNull(),
-		win_rate: integer("win_rate").notNull(),
+		pick_rate: real("pick_rate").notNull(),
+		ban_rate: real("ban_rate").notNull(),
+		win_rate: real("win_rate").notNull(),
 		updatedAt: bigint("updatedAt", { mode: "number" }).notNull(),
 	},
 	(t) => [
