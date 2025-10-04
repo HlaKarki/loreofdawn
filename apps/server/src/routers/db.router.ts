@@ -1,7 +1,7 @@
 import { z } from "zod";
 import { publicProcedure, router } from "@/lib/trpc";
 import { hero_page_ids } from "@/data/wiki/page_ids";
-import { dbService } from "@/services/db.service";
+import { dbService } from "@/services/db/db.service";
 
 export const dbRouter = router({
 	uploadMarkdown: publicProcedure

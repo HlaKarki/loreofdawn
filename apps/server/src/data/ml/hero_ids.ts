@@ -271,3 +271,12 @@ export type HeroNameKey = keyof typeof hero_ids;
 export const HeroNameKeys = Object.keys(hero_ids) as HeroNameKey[];
 
 export const HeroNameEnumZ = z.enum(HeroNameKeys as [HeroNameKey, ...HeroNameKey[]]);
+
+const ranks = {
+	overall: 101,
+	glory: 9,
+};
+
+export type RankNameKey = keyof typeof ranks;
+const RankNameKeys = Object.keys(ranks) as RankNameKey[];
+export const RankNameEnumZ = z.enum(RankNameKeys);

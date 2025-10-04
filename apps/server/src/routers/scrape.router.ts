@@ -3,7 +3,7 @@ import path from "node:path";
 import fs from "node:fs";
 import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
-import { mlService } from "@/services/ml.service";
+import { persistService } from "@/services/persist.service";
 import { mlRawService } from "@/services/ml_raw.service";
 import { HeroNameEnumZ } from "@/data/ml/hero_ids";
 
@@ -150,7 +150,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getNormalizedGraphSeries(input);
+			return await persistService.getNormalizedGraphSeries(input);
 		}),
 
 	normalizedHero: publicProcedure
@@ -164,7 +164,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getNormalizedHeroProfile(input);
+			return await persistService.getNormalizedHeroProfile(input);
 		}),
 
 	normalizedMatchups: publicProcedure
@@ -179,7 +179,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getNormalizedMatchupSummaries(input);
+			return await persistService.getNormalizedMatchupSummaries(input);
 		}),
 
 	normalizedMetaData: publicProcedure
@@ -194,6 +194,6 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getNormalizedMetaSummaries(input);
+			return await persistService.getNormalizedMetaSummaries(input);
 		}),
 });

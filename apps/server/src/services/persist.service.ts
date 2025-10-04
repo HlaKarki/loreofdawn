@@ -12,7 +12,7 @@ import type {
 import type { MlHeroApiRecord } from "@/types/ml.types";
 import { mlRawService } from "@/services/ml_raw.service";
 
-class MlService {
+class PersistService {
 	private parseCooldownAndMana(s: string) {
 		// normalize spacing
 		const text = s.replace(/\s+/g, " ").trim();
@@ -284,4 +284,4 @@ class MlService {
 	}
 }
 
-export const mlService = new MlService();
+export const persistService = new PersistService();

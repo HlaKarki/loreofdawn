@@ -16,7 +16,9 @@ export const heroProfileTable = pgTable("hero_profiles", {
 	tale: text("tale"),
 	relation: jsonb("relation").$type<MlHeroProfile["relation"]>().notNull(),
 	source_link: text("source_link"),
-}).enableRLS();
+}, (t) => [
+	index("hero_profile_name_idx").on(t.name),
+]).enableRLS();
 
 export const heroMatchupTable = pgTable(
 	"hero_matchups",
