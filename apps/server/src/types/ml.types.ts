@@ -1,6 +1,6 @@
-export type fetch_type = "hero" | "matchup" | "meta" | "graph";
+export type MlFetchCategory = "hero" | "matchup" | "meta" | "graph";
 
-export type request_body_type = {
+export type MlRequestPayload = {
 	pageSize: number;
 	pageIndex?: number;
 	filters?: { field: string; operator: string; value: string | number }[];
@@ -8,7 +8,7 @@ export type request_body_type = {
 	fields?: string[];
 };
 
-export interface RawHeroTypeML {
+export interface MlHeroApiRecord {
 	_id: string;
 	id: number;
 	caption: string;
@@ -107,7 +107,7 @@ export interface RawHeroTypeML {
 	updatedUser: string;
 }
 
-export interface HeroTypeML {
+export interface MlHeroProfile {
 	id: number;
 	name: string;
 	createdAt: number;
@@ -157,7 +157,7 @@ export interface HeroTypeML {
 	source_link: string;
 }
 
-interface matchup_sub_hero_type {
+interface MlMatchupSubHeroApi {
 	hero: {
 		data: {
 			head: string;
@@ -179,7 +179,7 @@ interface matchup_sub_hero_type {
 	min_win_rate20: number;
 }
 
-export interface RawMatchupTypeML {
+export interface MlMatchupApiRecord {
 	_createdAt: number;
 	_id: string;
 	_updatedAt: number;
@@ -200,12 +200,57 @@ export interface RawMatchupTypeML {
 		main_hero_win_rate: number;
 		main_heroid: number;
 		match_type: string;
-		sub_hero: matchup_sub_hero_type[];
-		sub_hero_last: matchup_sub_hero_type[];
+		sub_hero: MlMatchupSubHeroApi[];
+		sub_hero_last: MlMatchupSubHeroApi[];
 	};
 }
 
-interface sub_hero_type {
+export interface MlMetaApiRecord {
+	_createdAt: number;
+	_id: string;
+	_updatedAt: number;
+	data: {
+		bigrank: string;
+		camp_type: string;
+		main_hero: {
+			data: {
+				head: string;
+				name: string;
+			};
+		};
+		main_hero_appearance_rate: number;
+		main_hero_ban_rate: number;
+		main_hero_win_rate: number;
+		main_heroid: number;
+		match_type: number;
+		sub_hero: MlMatchupSubHeroApi[];
+		sub_hero_last: MlMatchupSubHeroApi[];
+	};
+	id: number;
+	sourceId: number;
+}
+
+export interface MlGraphApiRecord {
+	_createdAt: number;
+	_id: string;
+	_updatedAt: number;
+	data: {
+		bigrank: string;
+		camp_type: string;
+		main_heroid: number;
+		match_type: string;
+		win_rate: {
+			app_rate: number;
+			ban_rate: number;
+			date: string;
+			win_rate: number;
+		}[];
+	};
+	id: number;
+	sourceId: number;
+}
+
+interface MlMatchupSubHeroSummary {
 	index: number;
 	id: number;
 	name: string;
@@ -224,41 +269,16 @@ interface sub_hero_type {
 	min_win_rate20: number;
 }
 
-export interface MatchupTypeML {
+export interface MlMatchupSummary {
 	name: string;
 	id: number;
-	most_compatible: sub_hero_type[];
-	least_compatible: sub_hero_type[];
-	best_counter: sub_hero_type[];
-	worst_counter: sub_hero_type[];
+	most_compatible: MlMatchupSubHeroSummary[];
+	least_compatible: MlMatchupSubHeroSummary[];
+	best_counter: MlMatchupSubHeroSummary[];
+	worst_counter: MlMatchupSubHeroSummary[];
 }
 
-export interface RawMetaTypeML {
-	_createdAt: number;
-	_id: string;
-	_updatedAt: number;
-	data: {
-		bigrank: string;
-		camp_type: string;
-		main_hero: {
-			data: {
-				head: string;
-				name: string;
-			};
-		};
-		main_hero_appearance_rate: number;
-		main_hero_ban_rate: number;
-		main_hero_win_rate: number;
-		main_heroid: number;
-		match_type: number;
-		sub_hero: matchup_sub_hero_type[];
-		sub_hero_last: matchup_sub_hero_type[];
-	};
-	id: number;
-	sourceId: number;
-}
-
-export interface MetaTypeML {
+export interface MlMetaSummary {
 	id: number;
 	name: string;
 	updatedAt: number;
@@ -267,36 +287,18 @@ export interface MetaTypeML {
 	win_rate: number;
 }
 
-export interface GraphTypeML {
+export interface MlGraphPoint {
+	date: string;
+	win_rate: number;
+	pick_rate: number;
+	ban_rate: number;
+}
+
+export interface MlGraphData {
 	id: number;
 	name: string;
 	updatedAt: number;
 	trend_start: string | null;
 	trend_end: string | null;
-	points: {
-		date: string;
-		win_rate: number;
-		pick_rate: number;
-		ban_rate: number;
-	}[];
-}
-
-export interface RawGraphTypeML {
-	_createdAt: number;
-	_id: string;
-	_updatedAt: number;
-	data: {
-		bigrank: string;
-		camp_type: string;
-		main_heroid: number;
-		match_type: string;
-		win_rate: {
-			app_rate: number;
-			ban_rate: number;
-			date: string;
-			win_rate: number;
-		}[];
-	};
-	id: number;
-	sourceId: number;
+	points: MlGraphPoint[];
 }

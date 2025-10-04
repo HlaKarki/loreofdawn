@@ -5,6 +5,7 @@ import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
 import { heroIdKeys, type HeroIdKey } from "@/data/ml/hero_ids";
 import { mlService } from "@/services/ml.service";
+import { mlRawService } from "@/routers/ml_raw.service";
 
 const heroKeyEnum = z.enum(heroIdKeys as [HeroIdKey, ...HeroIdKey[]]);
 
@@ -57,7 +58,7 @@ export const scrape = router({
 		}),
 
 	getAllHeroInfo: publicProcedure.query(async () => {
-		const heroes = await mlService.getAllHeroInfo();
+		const heroes = await mlRawService.fetchAllHeroRecords();
 		const ml_hero_ids: Record<string, number> = {};
 		for (const hero of heroes.data.records) {
 			const n = hero.data.hero.data.name.toLowerCase().replaceAll(" ", "_");
@@ -69,7 +70,7 @@ export const scrape = router({
 	getHeroInfo: publicProcedure
 		.input(z.object({ hero: heroKeyEnum }))
 		.mutation(async ({ input }) => {
-			const response = await mlService.getHeroInfo(input.hero);
+			const response = await mlRawService.fetchHeroRecord(input.hero);
 
 			if (response?.data?.records?.length) {
 				return response.data.records[0];
@@ -89,7 +90,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlService.getHeroMatchUps(input);
+			const response = await mlRawService.fetchMatchupRecords(input);
 
 			if (response?.data?.records?.length) {
 				return response.data.records;
@@ -109,7 +110,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlService.getMetaData(input);
+			const response = await mlRawService.fetchMetaRecords(input);
 
 			if (response?.data?.records?.length) {
 				return response.data.records;
@@ -130,7 +131,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlService.getGraphData(input);
+			const response = await mlRawService.fetchGraphRecords(input);
 
 			if (response?.data?.records?.length) {
 				return response.data.records;
@@ -151,7 +152,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getHeroGraphData(input);
+			return await mlService.getNormalizedGraphSeries(input);
 		}),
 
 	normalizedHero: publicProcedure
@@ -165,8 +166,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlService.getHero(input);
-			return response;
+			return await mlService.getNormalizedHeroProfiles(input);
 		}),
 
 	normalizedMatchups: publicProcedure
@@ -181,7 +181,7 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getHeroMatchupsNormalized(input);
+			return await mlService.getNormalizedMatchupSummaries(input);
 		}),
 
 	normalizedMetaData: publicProcedure
@@ -196,6 +196,6 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			return await mlService.getHeroMetaData(input);
+			return await mlService.getNormalizedMetaSummaries(input);
 		}),
 });
