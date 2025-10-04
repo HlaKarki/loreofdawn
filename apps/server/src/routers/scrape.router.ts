@@ -138,4 +138,19 @@ export const scrape = router({
 
 			return undefined;
 		}),
+
+	normalizedHero: publicProcedure
+		.input(
+			z.object({
+				hero: heroKeyEnum,
+				rank: z
+					.enum(["glory", "overall"])
+					.default("glory")
+					.transform((val) => (val === "glory" ? 9 : 101)),
+			}),
+		)
+		.mutation(async ({ input }) => {
+			const response = await mlService.getHero(input);
+			return response;
+		}),
 });

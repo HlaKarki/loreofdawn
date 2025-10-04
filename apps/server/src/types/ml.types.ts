@@ -31,6 +31,9 @@ export interface RawHeroTypeML {
 						skillicon: string;
 						skillname: string;
 						skillvideo: string;
+						skilltag: {
+							tagname: string;
+						}[];
 					}[];
 				}[];
 				name: string;
@@ -88,10 +91,70 @@ export interface RawHeroTypeML {
 				}[];
 				target_hero_id: string[];
 			};
+			weak: {
+				desc: string;
+				target_hero: {
+					data: {
+						head: string;
+					};
+				}[];
+				target_hero_id: string[];
+			};
 		};
+		url: string;
 	};
 	updatedAt: number;
 	updatedUser: string;
+}
+
+export interface HeroTypeML {
+	id: number;
+	name: string;
+	createdAt: number;
+	updatedAt: number;
+	images: {
+		head: string;
+		head_big: string;
+		painting: string;
+		smallmap: string;
+		squarehead: string;
+		squarehead_big: string;
+	};
+	difficulty: string;
+	skills: {
+		cd: number;
+		mana: number;
+		description: string;
+		icon: string;
+		name: string;
+		tags: string[]; // buff, cc, etc..
+	}[];
+	lane: {
+		icon: string;
+		title: string;
+	}[];
+	roles: {
+		icon: string;
+		title: string;
+	}[];
+	speciality: string[];
+	tagline: string;
+	tale: string;
+	relation: {
+		compatible_with: {
+			description: string;
+			heroes: { id: number; name: string; image: string }[];
+		}[];
+		strong_against: {
+			description: string;
+			heroes: { id: number; name: string; image: string }[];
+		}[];
+		weak_against: {
+			description: string;
+			heroes: { id: number; name: string; image: string }[];
+		}[];
+	};
+	source_link: string;
 }
 
 interface matchup_sub_hero_type {
@@ -140,6 +203,37 @@ export interface RawMatchupTypeML {
 		sub_hero: matchup_sub_hero_type[];
 		sub_hero_last: matchup_sub_hero_type[];
 	};
+}
+
+interface sub_hero_type {
+	index: number;
+	id: number;
+	name: number;
+	image: string;
+	pick_rate: number;
+	win_rate: number;
+	increase_win_rate: number;
+	min_win_rate6: number;
+	min_win_rate6_8: number;
+	min_win_rate8_10: number;
+	min_win_rate10_12: number;
+	min_win_rate12_14: number;
+	min_win_rate14_16: number;
+	min_win_rate16_18: number;
+	min_win_rate18_20: number;
+	min_win_rate20: number;
+}
+
+export interface MatchupTypeML {
+	name: string;
+	id: number;
+	pick_rate: number;
+	ban_rate: number;
+	win_rate: number;
+	most_compatible: sub_hero_type[];
+	least_compatible: sub_hero_type[];
+	best_counter: sub_hero_type[];
+	worst_counter: sub_hero_type[];
 }
 
 export interface RawMetaTypeML {

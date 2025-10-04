@@ -3,3 +3,6 @@ node_modules
 .alchemy
 .env
 /.idea/
+
+apps/server/scripts/funcs.ts
+apps/web/scripts/funcs.ts

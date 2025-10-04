@@ -1,6 +1,7 @@
-import { hero_ids, type HeroIdKey } from "@/data/ml/hero_ids";
+import { hero_ids, hero_names, type HeroIdKey } from "@/data/ml/hero_ids";
 import type {
 	fetch_type,
+	HeroTypeML,
 	RawGraphTypeML,
 	RawMatchupTypeML,
 	RawMetaTypeML,
@@ -17,7 +18,7 @@ class MlService {
 	private readonly SECOND_ID_META = process.env.ML_SECOND_ID_META ?? "0";
 	private readonly SECOND_ID_GRAPH = process.env.ML_SECOND_ID_GRAPH ?? "0";
 
-	buildUrl(type: fetch_type) {
+	private buildUrl(type: fetch_type) {
 		let second_id = "";
 
 		switch (type) {
@@ -36,7 +37,7 @@ class MlService {
 		return this.BASE_URL + this.FIRST_ID + "/" + second_id;
 	}
 
-	buildBody(
+	private buildBody(
 		page_size: number = 5,
 		opts?: {
 			filter?: { hero_name?: HeroIdKey; counter?: boolean; rank?: 9 | 101 };
@@ -76,6 +77,119 @@ class MlService {
 		}
 
 		return JSON.stringify(body);
+	}
+
+	private parseCDMana(s: string) {
+		// normalize spacing
+		const text = s.replace(/\s+/g, " ").trim();
+
+		// regex to capture "CD: <num>" and "Mana Cost: <num>"
+		const cdMatch = text.match(/CD:\s*(\d+)/i);
+		const manaMatch = text.match(/Mana\s*Cost:\s*(\d+)/i);
+
+		return {
+			cd: cdMatch ? parseInt(cdMatch[1], 10) : null,
+			mana: manaMatch ? parseInt(manaMatch[1], 10) : null,
+		};
+	}
+
+	private mapRelation = (
+		relation?: RawHeroTypeML["data"]["relation"]["assist"],
+	): HeroTypeML["relation"]["compatible_with"] => {
+		if (!relation) {
+			return [];
+		}
+
+		const ids = relation.target_hero_id ?? [];
+		const targets = relation.target_hero ?? [];
+		const heroes: { id: number; name: string; image: string }[] = [];
+
+		for (let index = 0; index < targets.length; index++) {
+			const rawId = ids[index];
+			if (!rawId) {
+				continue;
+			}
+
+			const numericId = Number(rawId);
+			if (Number.isNaN(numericId)) {
+				continue;
+			}
+
+			const key = rawId as keyof typeof hero_names;
+			heroes.push({
+				id: numericId,
+				name: hero_names[key] ?? String(rawId),
+				image: targets[index]?.data?.head ?? "",
+			});
+		}
+
+		return heroes.length
+			? [
+					{
+						description: relation.desc ?? "",
+						heroes,
+					},
+				]
+			: [];
+	};
+
+	private normalizeHeroData(raw: RawHeroTypeML[]): HeroTypeML[] {
+		return raw.map((hero) => {
+			const heroData = hero.data.hero.data;
+			const relation = hero.data.relation;
+
+			const skills = (heroData.heroskilllist ?? [])
+				.flatMap((group) => group?.skilllist ?? [])
+				.map((skill) => {
+					const { cd, mana } = this.parseCDMana(skill["skillcd&cost"] ?? "");
+					return {
+						cd: cd ?? 0,
+						mana: mana ?? 0,
+						description: skill.skilldesc ?? "",
+						icon: skill.skillicon ?? "",
+						name: skill.skillname ?? "",
+						tags: (skill.skilltag ?? []).map((tag) => tag.tagname),
+					};
+				});
+
+			const lane = (heroData.roadsort ?? []).map((entry) => ({
+				icon: entry?.data?.road_sort_icon ?? "",
+				title: entry?.data?.road_sort_title ?? "",
+			}));
+
+			const roles = (heroData.sortid ?? []).map((entry) => ({
+				icon: entry?.data?.sort_icon ?? "",
+				title: entry?.data?.sort_title ?? "",
+			}));
+
+			return {
+				id: hero.data.hero_id,
+				name: heroData.name,
+				createdAt: hero.createdAt,
+				updatedAt: hero.updatedAt,
+				images: {
+					head: hero.data.head,
+					head_big: hero.data.head_big,
+					painting: heroData.painting,
+					smallmap: heroData.smallmap,
+					squarehead: heroData.squarehead,
+					squarehead_big: heroData.squareheadbig,
+				},
+				difficulty: heroData.difficulty,
+				skills,
+				lane,
+				roles,
+				speciality: heroData.speciality ?? [],
+				tagline: heroData.story,
+				tale: heroData.tale,
+				relation: {
+					compatible_with: this.mapRelation(relation?.assist),
+					strong_against: this.mapRelation(relation?.strong),
+					weak_against: this.mapRelation(relation?.weak),
+				},
+				source_link: hero.data.url,
+			};
+		});
 	}
 
 	async getGraphData(opts?: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
@@ -153,6 +267,12 @@ class MlService {
 			message: string;
 			data: { records: RawHeroTypeML[] };
 		};
+	}
+
+	async getHero(opts: { hero: HeroIdKey; rank?: 9 | 101 }) {
+		const response = await this.getHeroInfo(opts.hero);
+
+		return this.normalizeHeroData(response.data.records);
 	}
 }
 
