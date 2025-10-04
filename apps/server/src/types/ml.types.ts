@@ -258,6 +258,14 @@ export interface RawMetaTypeML {
 	sourceId: number;
 }
 
+export interface MetaTypeMl {
+	id: number;
+	name: string;
+	pick_rate: number;
+	ban_rate: number;
+	win_rate: number;
+}
+
 export interface RawGraphTypeML {
 	_createdAt: number;
 	_id: string;

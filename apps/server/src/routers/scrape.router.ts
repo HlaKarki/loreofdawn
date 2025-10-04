@@ -168,4 +168,19 @@ export const scrape = router({
 		.mutation(async ({ input }) => {
 			return await mlService.getHeroMatchupsNormalized(input);
 		}),
+
+	normalizedMetaData: publicProcedure
+		.input(
+			z.object({
+				hero: heroKeyEnum.optional(),
+				counter: z.boolean().default(true),
+				rank: z
+					.enum(["glory", "overall"])
+					.default("glory")
+					.transform((val) => (val === "glory" ? 9 : 101)),
+			}),
+		)
+		.mutation(async ({ input }) => {
+			return await mlService.getHeroMetaData(input);
+		}),
 });

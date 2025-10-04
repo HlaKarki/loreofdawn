@@ -3,6 +3,7 @@ import type {
 	fetch_type,
 	HeroTypeML,
 	MatchupTypeML,
+	MetaTypeMl,
 	RawGraphTypeML,
 	RawMatchupTypeML,
 	RawMetaTypeML,
@@ -236,7 +237,28 @@ class MlService {
 				least_compatible: isCounter ? [] : secondary,
 				best_counter: isCounter ? secondary : [],
 				worst_counter: isCounter ? primary : [],
-				updatedAt: matchup._updatedAt,
+			};
+		});
+	}
+
+	private normalizeMetaData(raw?: RawMetaTypeML[] | null): MetaTypeMl[] {
+		if (!raw?.length) {
+			return [];
+		}
+
+		return raw.map((meta) => {
+			const data = meta.data;
+			const heroId = data.main_heroid;
+			const heroKey = String(heroId) as keyof typeof hero_names;
+			const fallbackName = hero_names[heroKey] ?? String(heroId);
+			const heroName = data.main_hero?.data?.name ?? fallbackName;
+
+			return {
+				id: heroId,
+				name: heroName,
+				pick_rate: data.main_hero_appearance_rate,
+				ban_rate: data.main_hero_ban_rate,
+				win_rate: data.main_hero_win_rate,
 			};
 		});
 	}
@@ -327,6 +349,11 @@ class MlService {
 	async getHeroMatchupsNormalized(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
 		const response = await this.getHeroMatchUps(opts);
 		return this.normalizeMatchupData(response.data.records, opts.counter);
+	}
+
+	async getHeroMetaData(opts: { hero?: HeroIdKey; counter: boolean; rank: 9 | 101 }) {
+		const response = await this.getMetaData(opts);
+		return this.normalizeMetaData(response.data.records);
 	}
 }
 
