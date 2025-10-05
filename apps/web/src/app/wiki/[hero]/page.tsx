@@ -32,8 +32,7 @@ export default async function WikiPage({ params }: WikiPageProps) {
 		notFound();
 	}
 
-	let markdown = `<Hero hero={${JSON.stringify(heroResponse)}} />\n`;
-	markdown += response[0].markdown;
+	let markdown = response[0].markdown;
 
 	const titles = extractHeadings(markdown);
 
@@ -50,7 +49,7 @@ export default async function WikiPage({ params }: WikiPageProps) {
 	});
 
 	return (
-		<div className="relative">
+		<div className="mt-10 relative">
 			<div className="mx-auto flex max-w-5xl gap-10 px-4 pb-16 sm:px-6 lg:px-8">
 				<article id="mdx-content" className={prose_styling}>
 					{content}
@@ -85,12 +84,7 @@ const prose_styling = `
 const extractHeadings = (markdown: string) => {
 	const slugger = new GithubSlugger();
 
-	const titles = [
-		{
-			slug: "hero-overview",
-			label: "Summary",
-		},
-	];
+	const titles = [];
 
 	titles.push(
 		...markdown
