@@ -6,7 +6,6 @@ import { notFound } from "next/navigation";
 import { serverTrpc } from "@/server/trpc";
 import { TableOfContents } from "../_components/table_of_content";
 import { HeroNameKeys, type HeroNameKey } from "@/data/ml/hero_ids";
-import { HeroSummary } from "../_components/hero_summary";
 
 export const dynamic = "force-dynamic";
 
@@ -38,7 +37,7 @@ export default async function WikiPage({ params }: WikiPageProps) {
 
 	const { content } = await compileMDX({
 		source: markdown,
-		components: { Hero: HeroSummary },
+		components: {},
 		options: {
 			mdxOptions: {
 				remarkPlugins: [remarkGfm],
