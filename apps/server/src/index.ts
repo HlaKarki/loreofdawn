@@ -10,10 +10,21 @@ import { logger } from "hono/logger";
 const app = new Hono();
 
 app.use(logger());
+
+const allowedOrigins = [
+	"http://localhost:1201",
+	"https://loreofdawn.com",
+	"https://www.loreofdawn.com",
+	process.env.CORS_ORIGIN,
+];
+
 app.use(
 	"/*",
 	cors({
-		origin: process.env.CORS_ORIGIN || "",
+		origin: (origin) => {
+			if (!origin) return allowedOrigins[0]; // Default for non-browser requests
+			return allowedOrigins.includes(origin) ? origin : allowedOrigins[0];
+		},
 		allowMethods: ["GET", "POST", "OPTIONS"],
 		allowHeaders: ["Content-Type", "Authorization"],
 		credentials: true,

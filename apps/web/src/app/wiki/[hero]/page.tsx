@@ -25,9 +25,8 @@ export default async function WikiPage({ params }: WikiPageProps) {
 
 	const heroKey = heroParam as HeroNameKey;
 	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero: heroKey });
-	const heroResponse = await serverTrpc.scrape.getHeroInfo.mutate({ hero: heroKey });
 
-	if (!response[0] || !heroResponse) {
+	if (!response[0]) {
 		notFound();
 	}
 
