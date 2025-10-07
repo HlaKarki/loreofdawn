@@ -7,7 +7,7 @@ import { mlDbService } from "@/services/ml/ml-db.service";
 export const mlData = router({
 	consolidated: publicProcedure
 		.input(z.object({ hero: HeroNameEnumZ, rank: RankNameEnumZ }))
-		.mutation(async ({ input }) => {
+		.query(async ({ input }) => {
 			return await mlDbService.getConsolidatedData(input);
 		}),
 });

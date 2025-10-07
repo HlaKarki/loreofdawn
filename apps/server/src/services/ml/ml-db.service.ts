@@ -13,35 +13,45 @@ import { and, eq, ilike } from "drizzle-orm";
 class MlDbService {
 	async getConsolidatedData(opts: { hero: HeroNameKey; rank: RankNameKey }) {
 		try {
-			const [[profile], [matchup], [meta], [graph]] = await Promise.all([
-				await db.select().from(heroProfileTable).where(ilike(heroProfileTable.name, opts.hero)),
-				await db
-					.select()
-					.from(heroMatchupTable)
-					.where(
-						and(ilike(heroMatchupTable.name, opts.hero), eq(heroMatchupTable.rank, opts.rank)),
+			const result = await db
+				.select()
+				.from(heroProfileTable)
+				.leftJoin(
+					heroMatchupTable,
+					and(
+						eq(heroProfileTable.name, heroMatchupTable.name),
+						eq(heroMatchupTable.rank, opts.rank),
 					),
-				await db
-					.select()
-					.from(heroMetaDataTable)
-					.where(
-						and(ilike(heroMetaDataTable.name, opts.hero), eq(heroMetaDataTable.rank, opts.rank)),
+				)
+				.leftJoin(
+					heroMetaDataTable,
+					and(
+						eq(heroProfileTable.name, heroMetaDataTable.name),
+						eq(heroMetaDataTable.rank, opts.rank),
 					),
-				await db
-					.select()
-					.from(heroGraphDataTable)
-					.where(
-						and(ilike(heroGraphDataTable.name, opts.hero), eq(heroGraphDataTable.rank, opts.rank)),
+				)
+				.leftJoin(
+					heroGraphDataTable,
+					and(
+						eq(heroProfileTable.name, heroGraphDataTable.name),
+						eq(heroGraphDataTable.rank, opts.rank),
 					),
-			]);
+				)
+				.where(ilike(heroProfileTable.name, opts.hero))
+				.limit(1);
+
+			if (!result[0]) return null;
+
+			const { hero_profiles, hero_matchups, hero_metas, hero_graphs } = result[0];
+
 			return {
-				...profile,
-				...matchup,
-				...meta,
-				...graph,
+				...hero_profiles,
+				...hero_matchups,
+				...hero_metas,
+				...hero_graphs,
 			};
 		} catch (error) {
-			console.error("MlDbService Error: ", error);
+			console.error("MlDbService JOIN Error: ", error);
 			throw error;
 		}
 	}

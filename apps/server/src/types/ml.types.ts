@@ -213,7 +213,7 @@ export interface MlHeroProfile {
 		squarehead: string;
 		squarehead_big: string;
 	};
-	difficulty: string;
+	difficulty: string | null;
 	skills: {
 		cd: number;
 		mana: number;

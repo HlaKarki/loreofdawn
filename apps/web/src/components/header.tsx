@@ -7,6 +7,7 @@ export default function Header() {
 	const links = [
 		{ to: "/", label: "Home" },
 		{ to: "/wiki", label: "Wikis" },
+		{ to: "/hero", label: "Heroes" },
 	] as const;
 
 	return (
@@ -15,7 +16,7 @@ export default function Header() {
 				<nav className="flex gap-4 text-lg">
 					{links.map(({ to, label }) => {
 						return (
-							<Link key={to} href={to}>
+							<Link key={to} href={to} prefetch={true}>
 								{label}
 							</Link>
 						);
