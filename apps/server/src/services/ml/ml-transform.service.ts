@@ -37,6 +37,14 @@ class MlTransformService {
 		return "undefined";
 	}
 
+	private parseSkillDescription = (s: string): string => {
+		// Remove <font color="..."> opening tags
+		let cleaned = s.replace(/<font color="[^"]*">/g, "");
+		// Remove </font> closing tags
+		cleaned = cleaned.replace(/<\/font>/g, "");
+		return cleaned;
+	};
+
 	private normalizeRelationSection = (
 		relation?: MlHeroApiRecord["data"]["relation"]["assist"],
 	): MlHeroProfile["relation"]["compatible_with"] => {
@@ -86,10 +94,12 @@ class MlTransformService {
 				.flatMap((group) => group?.skilllist ?? [])
 				.map((skill) => {
 					const { cd, mana } = this.parseCooldownAndMana(skill["skillcd&cost"] ?? "");
+					const description = this.parseSkillDescription(skill.skilldesc);
+
 					return {
 						cd: cd ?? 0,
 						mana: mana ?? 0,
-						description: skill.skilldesc ?? "",
+						description: description,
 						icon: skill.skillicon ?? "",
 						name: skill.skillname ?? "",
 						tags: (skill.skilltag ?? []).map((tag) => tag.tagname),

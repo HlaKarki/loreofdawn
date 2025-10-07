@@ -2,6 +2,7 @@ import { serverTrpc } from "@/server/trpc";
 import type { HeroNameKey } from "@/data/ml/hero_ids";
 import Image from "next/image";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { tidyLabel } from "@/lib/utils";
 
 interface HeroPageProps {
 	params: Promise<{
@@ -29,92 +30,118 @@ export default async function HeroPage({ params }: HeroPageProps) {
 	return (
 		<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-10 sm:px-6 lg:px-8">
 			{/* Hero Header */}
-			<div className="mb-8 flex flex-col gap-6 md:flex-row md:items-start">
-				<div className="relative h-48 w-48 shrink-0 overflow-hidden rounded-xl border-2 border-amber-500/20 bg-gradient-to-br from-amber-500/10 to-purple-500/10">
-					<Image
-						src={consolidated.images.painting || consolidated.images.head_big}
-						alt={consolidated.name}
-						fill
-						className="object-cover"
-						priority
-					/>
-				</div>
-				<div className="flex flex-1 flex-col gap-4">
-					<div>
-						<h1 className="mb-2 text-4xl font-bold tracking-tight md:text-5xl">
-							{consolidated.name}
-						</h1>
-						<p className="text-lg text-muted-foreground">{consolidated.tagline}</p>
+			<div className="relative mb-8 overflow-hidden rounded-xl">
+				<div
+					style={{
+						backgroundImage: `url(${consolidated.images.squarehead_big})`,
+						backgroundSize: "cover",
+						backgroundPosition: "center top",
+						backgroundRepeat: "no-repeat",
+					}}
+					className="absolute inset-0 opacity-20"
+				/>
+				<div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-background" />
+				<div className="relative flex flex-col gap-6 px-3 py-6 md:flex-row md:items-start md:p-8">
+					<div className="relative mx-auto h-32 w-32 shrink-0 overflow-hidden rounded-xl border-2 border-amber-500/20 bg-gradient-to-br from-amber-500/10 to-purple-500/10 sm:h-40 sm:w-40 md:mx-0 md:h-48 md:w-48">
+						<Image
+							src={consolidated.images.painting || consolidated.images.head_big}
+							alt={tidyLabel(consolidated.name)}
+							fill
+							className="object-cover"
+							priority
+						/>
 					</div>
+					<div className="flex flex-1 flex-col gap-4">
+						<div>
+							<h1 className="mb-2 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
+								{tidyLabel(consolidated.name)}
+							</h1>
+							<p className="text-base text-muted-foreground sm:text-lg">{consolidated.tagline}</p>
+						</div>
 
-					{/* Key Stats */}
-					<div className="grid grid-cols-3 gap-3">
-						<div className="rounded-lg border bg-card p-4">
-							<div className="text-sm text-muted-foreground">Win Rate</div>
-							<div className="mt-1 text-2xl font-bold text-green-500">
-								{((consolidated.win_rate ?? 0) * 100).toFixed(1)}%
-							</div>
-						</div>
-						<div className="rounded-lg border bg-card p-4">
-							<div className="text-sm text-muted-foreground">Pick Rate</div>
-							<div className="mt-1 text-2xl font-bold text-blue-500">
-								{((consolidated.pick_rate ?? 0) * 100).toFixed(1)}%
-							</div>
-						</div>
-						<div className="rounded-lg border bg-card p-4">
-							<div className="text-sm text-muted-foreground">Ban Rate</div>
-							<div className="mt-1 text-2xl font-bold text-red-500">
-								{((consolidated.ban_rate ?? 0) * 100).toFixed(1)}%
-							</div>
-						</div>
-					</div>
-
-					{/* Roles and Lanes */}
-					<div className="flex flex-wrap gap-6">
-						{consolidated.roles.filter((role) => role.title.trim()).length > 0 && (
-							<div className="flex items-center gap-2">
-								<span className="text-sm font-medium text-muted-foreground">Roles:</span>
-								<div className="flex gap-1.5">
-									{consolidated.roles
-										.filter((role) => role.title.trim())
-										.map((role, idx) => (
-											<div
-												key={idx}
-												className="flex items-center gap-1.5 rounded-md bg-primary/10 px-2 py-1 text-xs font-medium"
-											>
-												<Image src={role.icon} alt={role.title} width={16} height={16} />
-												{role.title}
-											</div>
-										))}
+						{/* Key Stats */}
+						<div className="grid grid-cols-3 gap-2 sm:gap-3">
+							<div className="rounded-lg border bg-card p-2 sm:p-4">
+								<div className="text-xs text-muted-foreground sm:text-sm">Win Rate</div>
+								<div className="mt-1 text-lg font-bold text-green-500 sm:text-2xl">
+									{((consolidated.win_rate ?? 0) * 100).toFixed(1)}%
 								</div>
 							</div>
-						)}
-						{consolidated.lanes.filter((lane) => lane.title.trim()).length > 0 && (
-							<div className="flex items-center gap-2">
-								<span className="text-sm font-medium text-muted-foreground">Lanes:</span>
-								<div className="flex gap-1.5">
-									{consolidated.lanes
-										.filter((lane) => lane.title.trim())
-										.map((lane, idx) => (
-											<div
-												key={idx}
-												className="flex items-center gap-1.5 rounded-md bg-amber-500/10 px-2 py-1 text-xs font-medium"
-											>
-												<Image src={lane.icon} alt={lane.title} width={16} height={16} />
-												{lane.title}
-											</div>
-										))}
+							<div className="rounded-lg border bg-card p-2 sm:p-4">
+								<div className="text-xs text-muted-foreground sm:text-sm">Pick Rate</div>
+								<div className="mt-1 text-lg font-bold text-blue-500 sm:text-2xl">
+									{((consolidated.pick_rate ?? 0) * 100).toFixed(1)}%
 								</div>
 							</div>
-						)}
-						{consolidated.difficulty && (
-							<div className="flex items-center gap-2">
-								<span className="text-sm font-medium text-muted-foreground">Difficulty:</span>
-								<span className="rounded-md bg-purple-500/10 px-2 py-1 text-xs font-medium">
-									{consolidated.difficulty}
-								</span>
+							<div className="rounded-lg border bg-card p-2 sm:p-4">
+								<div className="text-xs text-muted-foreground sm:text-sm">Ban Rate</div>
+								<div className="mt-1 text-lg font-bold text-red-500 sm:text-2xl">
+									{((consolidated.ban_rate ?? 0) * 100).toFixed(1)}%
+								</div>
 							</div>
-						)}
+						</div>
+
+						{/* Roles and Lanes */}
+						<div className="flex flex-wrap gap-3">
+							{consolidated.roles.filter((role) => tidyLabel(role.title).trim()).length > 0 && (
+								<div className="flex items-center gap-1.5 rounded-lg border border-primary/20 bg-primary/5 px-2.5 py-1.5">
+									<span className="text-[10px] font-semibold uppercase tracking-wider text-primary/60">
+										Role
+									</span>
+									<div className="h-3 w-px bg-primary/20" />
+									<div className="flex gap-1.5">
+										{consolidated.roles
+											.filter((role) => tidyLabel(role.title).trim())
+											.map((role, idx) => (
+												<div
+													key={idx}
+													className="flex items-center gap-1 text-xs font-medium text-primary"
+												>
+													<Image
+														src={role.icon || "/placeholder.svg"}
+														alt={tidyLabel(role.title)}
+														width={14}
+														height={14}
+													/>
+													<span>{tidyLabel(role.title)}</span>
+												</div>
+											))}
+									</div>
+								</div>
+							)}
+							{consolidated.lanes.filter((lane) => tidyLabel(lane.title).trim()).length > 0 && (
+								<div className="flex items-center gap-1.5 rounded-lg border border-primary/20 bg-primary/5 px-2.5 py-1.5">
+									<span className="text-[10px] font-semibold uppercase tracking-wider text-primary/60">
+										Lane
+									</span>
+									<div className="h-3 w-px bg-amber-500/20" />
+									<div className="flex gap-1.5">
+										{consolidated.lanes
+											.filter((lane) => tidyLabel(lane.title).trim())
+											.map((lane, idx) => (
+												<div key={idx} className="flex items-center gap-1 text-xs font-medium">
+													<Image
+														src={lane.icon || "/placeholder.svg"}
+														alt={tidyLabel(lane.title)}
+														width={14}
+														height={14}
+													/>
+													<span>{tidyLabel(lane.title)}</span>
+												</div>
+											))}
+									</div>
+								</div>
+							)}
+							{consolidated.difficulty && (
+								<div className="flex items-center gap-1.5 rounded-lg border border-primary/20 bg-primary/5  px-2.5 py-1.5">
+									<span className="text-[10px] font-semibold uppercase tracking-wider text-primary/60">
+										Difficulty
+									</span>
+									<div className="h-3 w-px bg-purple-500/20" />
+									<span className="text-xs font-semibold ">{consolidated.difficulty}/100</span>
+								</div>
+							)}
+						</div>
 					</div>
 				</div>
 			</div>
@@ -138,17 +165,25 @@ export default async function HeroPage({ params }: HeroPageProps) {
 						<CardTitle>Skills</CardTitle>
 						<CardDescription>Hero abilities and their effects</CardDescription>
 					</CardHeader>
-					<CardContent className="space-y-4">
+					<CardContent className="space-y-3 sm:space-y-4">
 						{consolidated.skills.map((skill, idx) => (
-							<div key={idx} className="flex gap-4 rounded-lg border bg-card/50 p-4">
-								<div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-lg border bg-gradient-to-br from-amber-500/20 to-purple-500/20">
-									<Image src={skill.icon} alt={skill.name} fill className="object-cover" />
+							<div
+								key={idx}
+								className="flex gap-3 rounded-lg border bg-card/50 p-3 sm:gap-4 sm:p-4"
+							>
+								<div className="relative h-12 w-12 shrink-0 overflow-hidden rounded-lg border bg-gradient-to-br from-amber-500/20 to-purple-500/20 sm:h-14 sm:w-14">
+									<Image
+										src={skill.icon}
+										alt={tidyLabel(skill.name)}
+										fill
+										className="object-cover"
+									/>
 								</div>
-								<div className="flex-1">
-									<div className="mb-1 flex items-center gap-3">
-										<h4 className="font-semibold">{skill.name}</h4>
+								<div className="flex-1 min-w-0">
+									<div className="mb-1 flex flex-wrap items-center gap-2">
+										<h4 className="font-semibold">{tidyLabel(skill.name)}</h4>
 										{skill.tags && skill.tags.length > 0 && (
-											<div className="flex gap-1">
+											<div className="flex flex-wrap gap-1">
 												{skill.tags.map((tag, tagIdx) => (
 													<span
 														key={tagIdx}
@@ -161,7 +196,7 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										)}
 									</div>
 									<p className="mb-2 text-sm text-muted-foreground">{skill.description}</p>
-									<div className="flex gap-4 text-xs text-muted-foreground">
+									<div className="flex flex-wrap gap-3 text-xs text-muted-foreground sm:gap-4">
 										{skill.cd > 0 && <span>CD: {skill.cd}s</span>}
 										{skill.mana > 0 && <span>Mana: {skill.mana}</span>}
 									</div>
@@ -189,9 +224,16 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="grid grid-cols-3 gap-2">
 											{relation.heroes.map((h) => (
 												<div key={h.id} className="group relative aspect-square">
-													<Image src={h.image} alt={h.name} fill className="object-cover" />
+													<Image
+														src={h.image}
+														alt={tidyLabel(h.name)}
+														fill
+														className="object-cover"
+													/>
 													<div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/60 to-transparent p-1 opacity-0 transition group-hover:opacity-100">
-														<span className="text-xs font-medium text-white">{h.name}</span>
+														<span className="text-xs font-medium text-white">
+															{tidyLabel(h.name)}
+														</span>
 													</div>
 												</div>
 											))}
@@ -216,9 +258,16 @@ export default async function HeroPage({ params }: HeroPageProps) {
 									<div className="grid grid-cols-3 gap-2">
 										{relation.heroes.map((h) => (
 											<div key={h.id} className="group relative aspect-square">
-												<Image src={h.image} alt={h.name} fill className="object-cover" />
+												<Image
+													src={h.image}
+													alt={tidyLabel(h.name)}
+													fill
+													className="object-cover"
+												/>
 												<div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/60 to-transparent p-1 opacity-0 transition group-hover:opacity-100">
-													<span className="text-xs font-medium text-white">{h.name}</span>
+													<span className="text-xs font-medium text-white">
+														{tidyLabel(h.name)}
+													</span>
 												</div>
 											</div>
 										))}
@@ -244,9 +293,16 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="grid grid-cols-3 gap-2">
 											{relation.heroes.map((h) => (
 												<div key={h.id} className="group relative aspect-square">
-													<Image src={h.image} alt={h.name} fill className="object-cover" />
+													<Image
+														src={h.image}
+														alt={tidyLabel(h.name)}
+														fill
+														className="object-cover"
+													/>
 													<div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/60 to-transparent p-1 opacity-0 transition group-hover:opacity-100">
-														<span className="text-xs font-medium text-white">{h.name}</span>
+														<span className="text-xs font-medium text-white">
+															{tidyLabel(h.name)}
+														</span>
 													</div>
 												</div>
 											))}
@@ -277,16 +333,20 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="relative h-12 w-12 shrink-0">
 											<Image
 												src={teammate.image}
-												alt={teammate.name}
+												alt={tidyLabel(teammate.name)}
 												fill
 												className="object-cover"
 											/>
 										</div>
 										<div className="flex-1">
-											<div className="font-medium">{teammate.name}</div>
-											<div className="text-xs text-muted-foreground">
-												Win: {(teammate.win_rate * 100).toFixed(1)}% • Pick:{" "}
-												{(teammate.pick_rate * 100).toFixed(1)}%
+											<div className="font-medium">{tidyLabel(teammate.name)}</div>
+											<div className="flex gap-2 text-xs">
+												<span className="text-muted-foreground">
+													WR <span className="font-medium text-foreground">{(teammate.win_rate * 100).toFixed(1)}%</span>
+												</span>
+												<span className="text-muted-foreground">
+													PR <span className="font-medium text-foreground">{(teammate.pick_rate * 100).toFixed(1)}%</span>
+												</span>
 											</div>
 										</div>
 										<div className="text-right">
@@ -316,13 +376,22 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
 									>
 										<div className="relative h-12 w-12 shrink-0">
-											<Image src={counter.image} alt={counter.name} fill className="object-cover" />
+											<Image
+												src={counter.image}
+												alt={tidyLabel(counter.name)}
+												fill
+												className="object-cover"
+											/>
 										</div>
 										<div className="flex-1">
-											<div className="font-medium">{counter.name}</div>
-											<div className="text-xs text-muted-foreground">
-												Win: {(counter.win_rate * 100).toFixed(1)}% • Pick:{" "}
-												{(counter.pick_rate * 100).toFixed(1)}%
+											<div className="font-medium">{tidyLabel(counter.name)}</div>
+											<div className="flex gap-2 text-xs">
+												<span className="text-muted-foreground">
+													WR <span className="font-medium text-foreground">{(counter.win_rate * 100).toFixed(1)}%</span>
+												</span>
+												<span className="text-muted-foreground">
+													PR <span className="font-medium text-foreground">{(counter.pick_rate * 100).toFixed(1)}%</span>
+												</span>
 											</div>
 										</div>
 										<div className="text-right">
@@ -352,13 +421,22 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
 									>
 										<div className="relative h-12 w-12 shrink-0">
-											<Image src={counter.image} alt={counter.name} fill className="object-cover" />
+											<Image
+												src={counter.image}
+												alt={tidyLabel(counter.name)}
+												fill
+												className="object-cover"
+											/>
 										</div>
 										<div className="flex-1">
-											<div className="font-medium">{counter.name}</div>
-											<div className="text-xs text-muted-foreground">
-												Win: {(counter.win_rate * 100).toFixed(1)}% • Pick:{" "}
-												{(counter.pick_rate * 100).toFixed(1)}%
+											<div className="font-medium">{tidyLabel(counter.name)}</div>
+											<div className="flex gap-2 text-xs">
+												<span className="text-muted-foreground">
+													WR <span className="font-medium text-foreground">{(counter.win_rate * 100).toFixed(1)}%</span>
+												</span>
+												<span className="text-muted-foreground">
+													PR <span className="font-medium text-foreground">{(counter.pick_rate * 100).toFixed(1)}%</span>
+												</span>
 											</div>
 										</div>
 										<div className="text-right">
@@ -390,16 +468,20 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="relative h-12 w-12 shrink-0">
 											<Image
 												src={teammate.image}
-												alt={teammate.name}
+												alt={tidyLabel(teammate.name)}
 												fill
 												className="object-cover"
 											/>
 										</div>
 										<div className="flex-1">
-											<div className="font-medium">{teammate.name}</div>
-											<div className="text-xs text-muted-foreground">
-												Win: {(teammate.win_rate * 100).toFixed(1)}% • Pick:{" "}
-												{(teammate.pick_rate * 100).toFixed(1)}%
+											<div className="font-medium">{tidyLabel(teammate.name)}</div>
+											<div className="flex gap-2 text-xs">
+												<span className="text-muted-foreground">
+													WR <span className="font-medium text-foreground">{(teammate.win_rate * 100).toFixed(1)}%</span>
+												</span>
+												<span className="text-muted-foreground">
+													PR <span className="font-medium text-foreground">{(teammate.pick_rate * 100).toFixed(1)}%</span>
+												</span>
 											</div>
 										</div>
 										<div className="text-right">
