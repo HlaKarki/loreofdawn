@@ -3,6 +3,9 @@
   "workspaces": {
     "": {
       "name": "loreofdawn",
+      "dependencies": {
+        "@radix-ui/react-tooltip": "^1.2.8",
+      },
       "devDependencies": {
         "oxlint": "^1.12.0",
         "prettier": "^3.6.2",
@@ -41,6 +44,8 @@
       "name": "web",
       "version": "0.1.0",
       "dependencies": {
+        "@radix-ui/react-popover": "^1.1.15",
+        "@radix-ui/react-tooltip": "^1.2.8",
         "@tailwindcss/typography": "^0.5.19",
         "@tanstack/react-form": "^1.12.3",
         "@tanstack/react-query": "^5.85.5",

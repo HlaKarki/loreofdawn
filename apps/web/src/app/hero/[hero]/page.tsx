@@ -2,7 +2,32 @@ import { serverTrpc } from "@/server/trpc";
 import type { HeroNameKey } from "@/data/ml/hero_ids";
 import Image from "next/image";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { tidyLabel } from "@/lib/utils";
+
+function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: string }) {
+	return (
+		<>
+			{/* Mobile: Show abbreviated with popover */}
+			<Popover>
+				<PopoverTrigger asChild>
+					<span className="cursor-help sm:hidden">
+						<span className="text-muted-foreground">{abbr}</span>{" "}
+						<span className="font-medium text-foreground">{value}</span>
+					</span>
+				</PopoverTrigger>
+				<PopoverContent className="w-auto p-2">
+					<p className="text-xs">{full}</p>
+				</PopoverContent>
+			</Popover>
+			{/* Desktop: Show full text */}
+			<span className="hidden sm:inline">
+				<span className="text-muted-foreground">{full}</span>{" "}
+				<span className="font-medium text-foreground">{value}</span>
+			</span>
+		</>
+	);
+}
 
 interface HeroPageProps {
 	params: Promise<{
@@ -214,24 +239,27 @@ export default async function HeroPage({ params }: HeroPageProps) {
 					consolidated.relation.strong_against.length > 0 && (
 						<Card>
 							<CardHeader>
-								<CardTitle className="text-green-500">Strong Against</CardTitle>
+								<CardTitle>Strong Against</CardTitle>
 								<CardDescription>Heroes this hero counters</CardDescription>
 							</CardHeader>
 							<CardContent className="space-y-3">
 								{consolidated.relation.strong_against.map((relation, idx) => (
 									<div key={idx}>
 										<p className="mb-2 text-sm text-muted-foreground">{relation.description}</p>
-										<div className="grid grid-cols-3 gap-2">
+										<div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
 											{relation.heroes.map((h) => (
-												<div key={h.id} className="group relative aspect-square">
+												<div
+													key={h.id}
+													className="group relative aspect-square overflow-hidden rounded"
+												>
 													<Image
 														src={h.image}
 														alt={tidyLabel(h.name)}
 														fill
 														className="object-cover"
 													/>
-													<div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/60 to-transparent p-1 opacity-0 transition group-hover:opacity-100">
-														<span className="text-xs font-medium text-white">
+													<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
+														<span className="block break-words text-[11px] font-medium leading-snug text-white">
 															{tidyLabel(h.name)}
 														</span>
 													</div>
@@ -248,24 +276,27 @@ export default async function HeroPage({ params }: HeroPageProps) {
 				{consolidated.relation.weak_against && consolidated.relation.weak_against.length > 0 && (
 					<Card>
 						<CardHeader>
-							<CardTitle className="text-red-500">Weak Against</CardTitle>
+							<CardTitle>Weak Against</CardTitle>
 							<CardDescription>Heroes that counter this hero</CardDescription>
 						</CardHeader>
 						<CardContent className="space-y-3">
 							{consolidated.relation.weak_against.map((relation, idx) => (
 								<div key={idx}>
 									<p className="mb-2 text-sm text-muted-foreground">{relation.description}</p>
-									<div className="grid grid-cols-3 gap-2">
+									<div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
 										{relation.heroes.map((h) => (
-											<div key={h.id} className="group relative aspect-square">
+											<div
+												key={h.id}
+												className="group relative aspect-square overflow-hidden rounded"
+											>
 												<Image
 													src={h.image}
 													alt={tidyLabel(h.name)}
 													fill
 													className="object-cover"
 												/>
-												<div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/60 to-transparent p-1 opacity-0 transition group-hover:opacity-100">
-													<span className="text-xs font-medium text-white">
+												<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
+													<span className="block break-words text-[11px] font-medium leading-snug text-white">
 														{tidyLabel(h.name)}
 													</span>
 												</div>
@@ -283,24 +314,27 @@ export default async function HeroPage({ params }: HeroPageProps) {
 					consolidated.relation.compatible_with.length > 0 && (
 						<Card>
 							<CardHeader>
-								<CardTitle className="text-blue-500">Compatible With</CardTitle>
+								<CardTitle>Compatible With</CardTitle>
 								<CardDescription>Heroes that synergize well</CardDescription>
 							</CardHeader>
 							<CardContent className="space-y-3">
 								{consolidated.relation.compatible_with.map((relation, idx) => (
 									<div key={idx}>
 										<p className="mb-2 text-sm text-muted-foreground">{relation.description}</p>
-										<div className="grid grid-cols-3 gap-2">
+										<div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
 											{relation.heroes.map((h) => (
-												<div key={h.id} className="group relative aspect-square">
+												<div
+													key={h.id}
+													className="group relative aspect-square overflow-hidden rounded"
+												>
 													<Image
 														src={h.image}
 														alt={tidyLabel(h.name)}
 														fill
 														className="object-cover"
 													/>
-													<div className="absolute inset-0 flex items-end bg-gradient-to-t from-black/60 to-transparent p-1 opacity-0 transition group-hover:opacity-100">
-														<span className="text-xs font-medium text-white">
+													<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
+														<span className="block break-words text-[11px] font-medium leading-snug text-white">
 															{tidyLabel(h.name)}
 														</span>
 													</div>
@@ -341,12 +375,16 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="flex-1">
 											<div className="font-medium">{tidyLabel(teammate.name)}</div>
 											<div className="flex gap-2 text-xs">
-												<span className="text-muted-foreground">
-													WR <span className="font-medium text-foreground">{(teammate.win_rate * 100).toFixed(1)}%</span>
-												</span>
-												<span className="text-muted-foreground">
-													PR <span className="font-medium text-foreground">{(teammate.pick_rate * 100).toFixed(1)}%</span>
-												</span>
+												<StatLabel
+													abbr="WR"
+													full="Win Rate"
+													value={`${(teammate.win_rate * 100).toFixed(1)}%`}
+												/>
+												<StatLabel
+													abbr="PR"
+													full="Pick Rate"
+													value={`${(teammate.pick_rate * 100).toFixed(1)}%`}
+												/>
 											</div>
 										</div>
 										<div className="text-right">
@@ -386,12 +424,16 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="flex-1">
 											<div className="font-medium">{tidyLabel(counter.name)}</div>
 											<div className="flex gap-2 text-xs">
-												<span className="text-muted-foreground">
-													WR <span className="font-medium text-foreground">{(counter.win_rate * 100).toFixed(1)}%</span>
-												</span>
-												<span className="text-muted-foreground">
-													PR <span className="font-medium text-foreground">{(counter.pick_rate * 100).toFixed(1)}%</span>
-												</span>
+												<StatLabel
+													abbr="WR"
+													full="Win Rate"
+													value={`${(counter.win_rate * 100).toFixed(1)}%`}
+												/>
+												<StatLabel
+													abbr="PR"
+													full="Pick Rate"
+													value={`${(counter.pick_rate * 100).toFixed(1)}%`}
+												/>
 											</div>
 										</div>
 										<div className="text-right">
@@ -431,12 +473,16 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="flex-1">
 											<div className="font-medium">{tidyLabel(counter.name)}</div>
 											<div className="flex gap-2 text-xs">
-												<span className="text-muted-foreground">
-													WR <span className="font-medium text-foreground">{(counter.win_rate * 100).toFixed(1)}%</span>
-												</span>
-												<span className="text-muted-foreground">
-													PR <span className="font-medium text-foreground">{(counter.pick_rate * 100).toFixed(1)}%</span>
-												</span>
+												<StatLabel
+													abbr="WR"
+													full="Win Rate"
+													value={`${(counter.win_rate * 100).toFixed(1)}%`}
+												/>
+												<StatLabel
+													abbr="PR"
+													full="Pick Rate"
+													value={`${(counter.pick_rate * 100).toFixed(1)}%`}
+												/>
 											</div>
 										</div>
 										<div className="text-right">
@@ -476,12 +522,16 @@ export default async function HeroPage({ params }: HeroPageProps) {
 										<div className="flex-1">
 											<div className="font-medium">{tidyLabel(teammate.name)}</div>
 											<div className="flex gap-2 text-xs">
-												<span className="text-muted-foreground">
-													WR <span className="font-medium text-foreground">{(teammate.win_rate * 100).toFixed(1)}%</span>
-												</span>
-												<span className="text-muted-foreground">
-													PR <span className="font-medium text-foreground">{(teammate.pick_rate * 100).toFixed(1)}%</span>
-												</span>
+												<StatLabel
+													abbr="WR"
+													full="Win Rate"
+													value={`${(teammate.win_rate * 100).toFixed(1)}%`}
+												/>
+												<StatLabel
+													abbr="PR"
+													full="Pick Rate"
+													value={`${(teammate.pick_rate * 100).toFixed(1)}%`}
+												/>
 											</div>
 										</div>
 										<div className="text-right">
