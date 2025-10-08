@@ -1,6 +1,6 @@
 "use client";
 
-import type { ReactNode } from "react";
+import { type ReactNode, useEffect } from "react";
 import { motion } from "motion/react";
 
 const shimmerTransition = {
@@ -30,6 +30,10 @@ function SectionCard({ children, className }: { children: ReactNode; className?:
 }
 
 export default function Loading() {
+	useEffect(() => {
+		window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+	}, []);
+
 	return (
 		<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-12 sm:px-6 lg:px-8">
 			<SectionCard className="px-5 py-6 sm:px-6 sm:py-8">
