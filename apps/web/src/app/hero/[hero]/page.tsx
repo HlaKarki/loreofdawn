@@ -2,7 +2,7 @@ import { serverTrpc } from "@/server/trpc";
 import type { HeroNameKey } from "@/data/ml/hero_ids";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowUpRight } from "lucide-react";
+import { ArrowRight, ArrowUpRight, BookOpen } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { tidyLabel } from "@/lib/utils";
@@ -97,6 +97,30 @@ export default async function HeroPage({ params }: HeroPageProps) {
 								<ArrowUpRight className="h-4 w-4" aria-hidden="true" />
 							</Link>
 						</div>
+
+						<Link
+							href={wikiHref}
+							className="group inline-block max-w-xl"
+							aria-label={`Explore the complete wiki entry for ${tidyLabel(consolidated.name)}`}
+						>
+							<Card className="border border-border/70 bg-muted/40 transition-colors hover:border-primary/40 hover:bg-primary/5">
+								<CardContent className="flex items-center gap-3 px-4 py-3 sm:gap-4 sm:px-5 sm:py-4">
+									<div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 sm:h-12 sm:w-12">
+										<BookOpen className="h-5 w-5 text-primary sm:h-6 sm:w-6" />
+									</div>
+									<div className="flex-1">
+										<h3 className="text-sm font-semibold sm:text-base">
+											Explore the complete wiki
+										</h3>
+										<p className="text-xs text-muted-foreground sm:text-sm">
+											Dive deeper into {tidyLabel(consolidated.name)}'s lore, strategies, builds,
+											and community notes.
+										</p>
+									</div>
+									<ArrowRight className="h-5 w-5 shrink-0 text-primary transition-transform group-hover:translate-x-1" />
+								</CardContent>
+							</Card>
+						</Link>
 
 						{/* Key Stats */}
 						<div className="grid grid-cols-3 gap-2 sm:gap-3">
