@@ -1,6 +1,8 @@
 import { serverTrpc } from "@/server/trpc";
 import type { HeroNameKey } from "@/data/ml/hero_ids";
 import Image from "next/image";
+import Link from "next/link";
+import { ArrowUpRight } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { tidyLabel } from "@/lib/utils";
@@ -44,6 +46,8 @@ export default async function HeroPage({ params }: HeroPageProps) {
 		rank: "overall",
 	});
 
+	const wikiHref = `/wiki/${encodeURIComponent(hero)}` as const;
+
 	if (!consolidated) {
 		return (
 			<div className="mx-auto flex min-h-[60vh] w-full max-w-6xl items-center justify-center px-4">
@@ -77,11 +81,21 @@ export default async function HeroPage({ params }: HeroPageProps) {
 						/>
 					</div>
 					<div className="flex flex-1 flex-col gap-4">
-						<div>
-							<h1 className="mb-2 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-								{tidyLabel(consolidated.name)}
-							</h1>
-							<p className="text-base text-muted-foreground sm:text-lg">{consolidated.tagline}</p>
+						<div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+							<div>
+								<h1 className="mb-2 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
+									{tidyLabel(consolidated.name)}
+								</h1>
+								<p className="text-base text-muted-foreground sm:text-lg">{consolidated.tagline}</p>
+							</div>
+							<Link
+								href={wikiHref}
+								className="inline-flex items-center gap-1 text-sm text-muted-foreground underline-offset-4 transition-colors hover:text-foreground hover:underline sm:text-base"
+								aria-label={`Open the ${tidyLabel(consolidated.name)} wiki entry`}
+							>
+								<span>View wiki entry</span>
+								<ArrowUpRight className="h-4 w-4" aria-hidden="true" />
+							</Link>
 						</div>
 
 						{/* Key Stats */}
