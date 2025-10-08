@@ -414,7 +414,7 @@ export const hero_page_ids = {
 		ns: 0,
 		title: "Lancelot",
 	},
-	lapu_lapu: {
+	"lapu-lapu": {
 		pageid: 1206,
 		ns: 0,
 		title: "Lapu-Lapu",

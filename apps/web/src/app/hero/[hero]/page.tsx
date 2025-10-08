@@ -2,7 +2,7 @@ import { serverTrpc } from "@/server/trpc";
 import type { HeroNameKey } from "@/data/ml/hero_ids";
 import Image from "next/image";
 import Link from "next/link";
-import { ArrowRight, ArrowUpRight, BookOpen } from "lucide-react";
+import { ArrowRight, BookOpen } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { tidyLabel } from "@/lib/utils";
@@ -70,76 +70,26 @@ export default async function HeroPage({ params }: HeroPageProps) {
 					className="absolute inset-0 opacity-20"
 				/>
 				<div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-background" />
-				<div className="relative flex flex-col gap-6 px-3 py-6 md:flex-row md:items-start md:p-8">
-					<div className="relative mx-auto h-32 w-32 shrink-0 overflow-hidden rounded-xl border-2 border-amber-500/20 bg-gradient-to-br from-amber-500/10 to-purple-500/10 sm:h-40 sm:w-40 md:mx-0 md:h-48 md:w-48">
-						<Image
-							src={consolidated.images.painting || consolidated.images.head_big}
-							alt={tidyLabel(consolidated.name)}
-							fill
-							className="object-cover"
-							priority
-						/>
-					</div>
+				<div className="relative flex flex-col gap-6 px-0 py-6 md:p-8">
 					<div className="flex flex-1 flex-col gap-4">
 						<div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-							<div>
-								<h1 className="mb-2 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
-									{tidyLabel(consolidated.name)}
-								</h1>
-								<p className="text-base text-muted-foreground sm:text-lg">{consolidated.tagline}</p>
-							</div>
-							<Link
-								href={wikiHref}
-								className="inline-flex items-center gap-1 text-sm text-muted-foreground underline-offset-4 transition-colors hover:text-foreground hover:underline sm:text-base"
-								aria-label={`Open the ${tidyLabel(consolidated.name)} wiki entry`}
-							>
-								<span>View wiki entry</span>
-								<ArrowUpRight className="h-4 w-4" aria-hidden="true" />
-							</Link>
-						</div>
-
-						<Link
-							href={wikiHref}
-							className="group inline-block max-w-xl"
-							aria-label={`Explore the complete wiki entry for ${tidyLabel(consolidated.name)}`}
-						>
-							<Card className="border border-border/70 bg-muted/40 transition-colors hover:border-primary/40 hover:bg-primary/5">
-								<CardContent className="flex items-center gap-3 px-4 py-3 sm:gap-4 sm:px-5 sm:py-4">
-									<div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 sm:h-12 sm:w-12">
-										<BookOpen className="h-5 w-5 text-primary sm:h-6 sm:w-6" />
-									</div>
-									<div className="flex-1">
-										<h3 className="text-sm font-semibold sm:text-base">
-											Explore the complete wiki
-										</h3>
-										<p className="text-xs text-muted-foreground sm:text-sm">
-											Dive deeper into {tidyLabel(consolidated.name)}'s lore, strategies, builds,
-											and community notes.
-										</p>
-									</div>
-									<ArrowRight className="h-5 w-5 shrink-0 text-primary transition-transform group-hover:translate-x-1" />
-								</CardContent>
-							</Card>
-						</Link>
-
-						{/* Key Stats */}
-						<div className="grid grid-cols-3 gap-2 sm:gap-3">
-							<div className="rounded-lg border bg-card p-2 sm:p-4">
-								<div className="text-xs text-muted-foreground sm:text-sm">Win Rate</div>
-								<div className="mt-1 text-lg font-bold text-green-500 sm:text-2xl">
-									{((consolidated.win_rate ?? 0) * 100).toFixed(1)}%
+							<div className="flex items-end gap-4">
+								<div className="relative h-28 w-28 shrink-0 overflow-hidden rounded-xl border-2 border-amber-500/20 bg-gradient-to-br from-amber-500/10 to-purple-500/10 sm:h-42 sm:w-42">
+									<Image
+										src={consolidated.images.painting || consolidated.images.head_big}
+										alt={tidyLabel(consolidated.name)}
+										fill
+										className="object-cover"
+										priority
+									/>
 								</div>
-							</div>
-							<div className="rounded-lg border bg-card p-2 sm:p-4">
-								<div className="text-xs text-muted-foreground sm:text-sm">Pick Rate</div>
-								<div className="mt-1 text-lg font-bold text-blue-500 sm:text-2xl">
-									{((consolidated.pick_rate ?? 0) * 100).toFixed(1)}%
-								</div>
-							</div>
-							<div className="rounded-lg border bg-card p-2 sm:p-4">
-								<div className="text-xs text-muted-foreground sm:text-sm">Ban Rate</div>
-								<div className="mt-1 text-lg font-bold text-red-500 sm:text-2xl">
-									{((consolidated.ban_rate ?? 0) * 100).toFixed(1)}%
+								<div>
+									<h1 className="mb-2 text-3xl font-bold tracking-tight sm:text-4xl md:text-5xl">
+										{tidyLabel(consolidated.name)}
+									</h1>
+									<p className="text-base text-muted-foreground sm:text-lg">
+										{consolidated.tagline}
+									</p>
 								</div>
 							</div>
 						</div>
@@ -205,6 +155,53 @@ export default async function HeroPage({ params }: HeroPageProps) {
 								</div>
 							)}
 						</div>
+
+						{/* Key Stats */}
+						<div className="grid grid-cols-3 gap-2 sm:gap-3">
+							<div className="rounded-lg border bg-card p-2 sm:p-4">
+								<div className="text-xs text-muted-foreground sm:text-sm">Win Rate</div>
+								<div className="mt-1 text-lg font-bold text-green-500 sm:text-2xl">
+									{((consolidated.win_rate ?? 0) * 100).toFixed(1)}%
+								</div>
+							</div>
+							<div className="rounded-lg border bg-card p-2 sm:p-4">
+								<div className="text-xs text-muted-foreground sm:text-sm">Pick Rate</div>
+								<div className="mt-1 text-lg font-bold text-blue-500 sm:text-2xl">
+									{((consolidated.pick_rate ?? 0) * 100).toFixed(1)}%
+								</div>
+							</div>
+							<div className="rounded-lg border bg-card p-2 sm:p-4">
+								<div className="text-xs text-muted-foreground sm:text-sm">Ban Rate</div>
+								<div className="mt-1 text-lg font-bold text-red-500 sm:text-2xl">
+									{((consolidated.ban_rate ?? 0) * 100).toFixed(1)}%
+								</div>
+							</div>
+						</div>
+
+						{/* Lore */}
+						<Link
+							href={wikiHref}
+							className="group inline-block "
+							aria-label={`Explore the complete wiki entry for ${tidyLabel(consolidated.name)}`}
+						>
+							<Card className="border border-border/70 bg-muted/40 transition-colors hover:border-primary/40 hover:bg-primary/5">
+								<CardContent className="flex items-center gap-3 px-4 py-3 sm:gap-4 sm:px-5 sm:py-4">
+									<div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-primary/10 sm:h-12 sm:w-12">
+										<BookOpen className="h-5 w-5 text-primary sm:h-6 sm:w-6" />
+									</div>
+									<div className="flex-1">
+										<h3 className="text-sm font-semibold sm:text-base">
+											Explore the complete wiki
+										</h3>
+										<p className="text-xs text-muted-foreground sm:text-sm">
+											Dive deeper into {tidyLabel(consolidated.name)}'s lore, strategies, builds,
+											and community notes.
+										</p>
+									</div>
+									<ArrowRight className="h-5 w-5 shrink-0 text-primary transition-transform group-hover:translate-x-1" />
+								</CardContent>
+							</Card>
+						</Link>
 					</div>
 				</div>
 			</div>
