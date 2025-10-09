@@ -1,6 +1,8 @@
 import { serverTrpc } from "@/server/trpc";
 import Link from "next/link";
 
+export const dynamic = "force-dynamic";
+
 export default async function HeroesPage() {
 	const heroes = await serverTrpc.dbRouter.listHeroes.query();
 	const sortedHeroes = heroes.sort((a, b) => a.title.localeCompare(b.title));
