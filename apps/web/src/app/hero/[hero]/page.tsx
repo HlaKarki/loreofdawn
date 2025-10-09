@@ -7,6 +7,8 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { tidyLabel } from "@/lib/utils";
 
+export const dynamic = "force-dynamic";
+
 function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: string }) {
 	return (
 		<>
