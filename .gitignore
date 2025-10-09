@@ -3,6 +3,13 @@ node_modules
 .alchemy
 .env
 /.idea/
+.vscode
+
+# Wrangler (Cloudflare Workers)
+.wrangler
+.dev.vars
+wrangler.toml.backup
+worker-configuration.d.ts
 
 apps/server/scripts/funcs.ts
 apps/web/scripts/funcs.ts

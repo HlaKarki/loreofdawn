@@ -78,6 +78,8 @@ export const mlSync = router({
 	}),
 
 	updateDb: publicProcedure.mutation(async () => {
+		// need to check authentication (bearer token)
+
 		const ranks = [9, 101] as const;
 		const counterOptions = [true, false] as const;
 
