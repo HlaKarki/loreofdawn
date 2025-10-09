@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { publicProcedure, router } from "@/lib/trpc";
+import { publicProcedure, router, workerProcedure } from "@/lib/trpc";
 import { HeroNameEnumZ } from "@/data/ml/hero_ids";
 import { mlTransformService } from "@/services/ml/ml-transform.service";
 import { mlDbService } from "@/services/ml/ml-db.service";
@@ -77,8 +77,7 @@ export const mlSync = router({
 		return { updated: graphData.length };
 	}),
 
-	updateDb: publicProcedure.mutation(async () => {
-		// need to check authentication (bearer token)
+	updateDb: workerProcedure.mutation(async () => {
 
 		const ranks = [9, 101] as const;
 		const counterOptions = [true, false] as const;
