@@ -1,46 +1,49 @@
-/**
- * Welcome to Cloudflare Workers! This is your first worker.
- *
- * - Run `npm run dev` in your terminal to start a development server
- * - Open a browser tab at http://localhost:8787/ to see your worker in action
- * - Run `npm run deploy` to publish your worker
- *
- * Bind resources to your worker in `wrangler.jsonc`. After adding bindings, a type definition for the
- * `Env` object can be regenerated with `npm run cf-typegen`.
- *
- * Learn more at https://developers.cloudflare.com/workers/
- */
+import { Hono } from "hono";
+import { trpcServer } from "@hono/trpc-server";
+import { appRouter } from "@/routers";
+import { createDb } from "@/db";
+import { MlDbService } from "@/services/ml-db.service";
+import { KvService } from "@/services/kv.service";
+import { cacheMiddleware } from "@/middleware/cache.middleware";
 
-export default {
-	// This runs on the cron schedule
-	async scheduled(event, env, ctx) {
-		try {
-			const response = await fetch('https://api.loreofdawn.com/trpc/mlSync.updateDb', {
-				method: 'POST',
-				headers: {
-					'Content-Type': 'application/json',
-					Authorization: `Bearer ${env.SECRET_TOKEN}`,
-				},
-				body: JSON.stringify({ input: {} }),
-			});
+type Bindings = {
+	HYPERDRIVE: Hyperdrive;
+	KV: KVNamespace;
+};
 
-			const responseText = await response.text();
-			console.log('Response status:', response.status);
-			console.log('Response body:', responseText);
+const app = new Hono<{ Bindings: Bindings }>();
 
-			if (!response.ok) {
-				console.error(`HTTP error! status: ${response.status}, body: ${responseText}`);
-				throw new Error(`HTTP ${response.status}: ${responseText}`);
-			}
+// Health check endpoint
+app.get("/", (c) => {
+	return c.json({ message: "Worker API with Hyperdrive is running!" });
+});
 
-			console.log('✓ mlSync.updateDb completed successfully');
-		} catch (error) {
-			console.error('Error calling mlSync.updateDb:', error);
-			throw error;
-		}
-	},
+// Cache middleware - checks Cache API before tRPC
+app.use("/trpc/*", cacheMiddleware);
 
-	async fetch(request, env, ctx): Promise<Response> {
-		return new Response('Cron worker is running!');
-	},
-} satisfies ExportedHandler<Env>;
+// tRPC endpoint with Hyperdrive connection
+app.use(
+	"/trpc/*",
+	trpcServer({
+		router: appRouter,
+		createContext: (opts, c) => {
+			// Get Hyperdrive connection string from binding
+			const hyperdriveConnectionString = c.env.HYPERDRIVE.connectionString;
+
+			// Create database connection
+			const db = createDb(hyperdriveConnectionString);
+
+			// Create KV service
+			const kvService = new KvService(c.env.KV);
+
+			// Create service with db and KV instances
+			const mlDbService = new MlDbService(db, kvService);
+
+			return {
+				mlDbService,
+			};
+		},
+	}),
+);
+
+export default app;
