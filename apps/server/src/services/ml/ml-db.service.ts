@@ -1,12 +1,15 @@
-import type { HeroNameKey, RankNameKey } from "@/data/ml/hero_ids";
 import { db } from "@/db";
 import {
 	heroGraphDataTable,
 	heroMatchupTable,
 	heroMetaDataTable,
 	heroProfileTable,
-} from "@/db/schema/ml.schema";
-import type { MlGraphData, MlHeroProfile, MlMatchupSummary, MlMetaSummary } from "@/types/ml.types";
+	type MlGraphData,
+	type MlHeroProfile,
+	type MlMatchupSummary,
+	type MlMetaSummary,
+} from "@repo/database";
+import { type HeroNameKey, type RankNameKey } from "@/data/ml/hero_ids";
 import { and, eq, ilike } from "drizzle-orm";
 
 // all fetches are from db

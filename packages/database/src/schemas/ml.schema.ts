@@ -1,24 +1,35 @@
-import { integer, jsonb, pgTable, text, bigint, primaryKey, index, real } from "drizzle-orm/pg-core";
-import type { MlGraphPoint, MlHeroProfile, MlMatchupSubHeroSummary } from "@/types/ml.types";
+import {
+	integer,
+	jsonb,
+	pgTable,
+	text,
+	bigint,
+	primaryKey,
+	index,
+	real,
+} from "drizzle-orm/pg-core";
+import type { MlGraphPoint, MlHeroProfile, MlMatchupSubHeroSummary } from "../types/ml.types";
 
-export const heroProfileTable = pgTable("hero_profiles", {
-	id: integer("id").notNull().primaryKey(),
-	name: text("name").notNull(),
-	createdAt: bigint("createdAt", { mode: "number" }).notNull(),
-	updatedAt: bigint("updatedAt", { mode: "number" }).notNull(),
-	images: jsonb("images").$type<MlHeroProfile["images"]>().notNull(),
-	difficulty: text("difficulty"),
-	skills: jsonb("skills").$type<MlHeroProfile["skills"]>().notNull(),
-	lanes: jsonb("lanes").$type<MlHeroProfile["lanes"]>().notNull(),
-	roles: jsonb("roles").$type<MlHeroProfile["roles"]>().notNull(),
-	speciality: jsonb("speciality").$type<MlHeroProfile["speciality"]>().notNull(),
-	tagline: text("tagline"),
-	tale: text("tale"),
-	relation: jsonb("relation").$type<MlHeroProfile["relation"]>().notNull(),
-	source_link: text("source_link"),
-}, (t) => [
-	index("hero_profile_name_idx").on(t.name),
-]).enableRLS();
+export const heroProfileTable = pgTable(
+	"hero_profiles",
+	{
+		id: integer("id").notNull().primaryKey(),
+		name: text("name").notNull(),
+		createdAt: bigint("createdAt", { mode: "number" }).notNull(),
+		updatedAt: bigint("updatedAt", { mode: "number" }).notNull(),
+		images: jsonb("images").$type<MlHeroProfile["images"]>().notNull(),
+		difficulty: text("difficulty"),
+		skills: jsonb("skills").$type<MlHeroProfile["skills"]>().notNull(),
+		lanes: jsonb("lanes").$type<MlHeroProfile["lanes"]>().notNull(),
+		roles: jsonb("roles").$type<MlHeroProfile["roles"]>().notNull(),
+		speciality: jsonb("speciality").$type<MlHeroProfile["speciality"]>().notNull(),
+		tagline: text("tagline"),
+		tale: text("tale"),
+		relation: jsonb("relation").$type<MlHeroProfile["relation"]>().notNull(),
+		source_link: text("source_link"),
+	},
+	(t) => [index("hero_profile_name_idx").on(t.name)],
+).enableRLS();
 
 export const heroMatchupTable = pgTable(
 	"hero_matchups",

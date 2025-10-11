@@ -18,6 +18,7 @@
 		"@ai-sdk/anthropic": "^2.0.20",
 		"@ai-sdk/openai": "^2.0.38",
 		"@hono/trpc-server": "^0.4.0",
+		"@repo/database": "workspace:*",
 		"@trpc/client": "^11.6.0",
 		"@trpc/server": "^11.6.0",
 		"@types/turndown": "^5.0.5",

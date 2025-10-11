@@ -1,8 +1,8 @@
 import { Hono } from "hono";
 import { createDb } from "@/db";
-import { heroProfileTable, heroMatchupTable, heroMetaDataTable, heroGraphDataTable } from "@/db/schema/ml.schema";
-import { and, eq, ilike } from "drizzle-orm";
+import { heroProfileTable, heroMatchupTable, heroMetaDataTable, heroGraphDataTable } from "@repo/database";
 import { HeroNameKeys } from "@/data/ml/hero_ids";
+import { and, eq, ilike } from "drizzle-orm";
 
 type Bindings = {
 	HYPERDRIVE: Hyperdrive;

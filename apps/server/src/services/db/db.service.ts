@@ -3,7 +3,7 @@ import fs from "node:fs";
 import { TRPCError } from "@trpc/server";
 import { db } from "@/db";
 import { eq } from "drizzle-orm";
-import { wikisTable } from "@/db/schema/wiki.schema";
+import { wikisTable } from "@repo/database";
 
 class DbService {
 	async uploadMarkdown(hero: string) {

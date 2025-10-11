@@ -8,8 +8,8 @@ import type {
 	MlGraphApiRecord,
 	MlMatchupApiRecord,
 	MlMetaApiRecord,
-} from "@/types/ml.types";
-import type { MlHeroApiRecord } from "@/types/ml.types";
+	MlHeroApiRecord,
+} from "@repo/database";
 import { mlApiService } from "@/services/ml/ml-api.service";
 
 class MlTransformService {

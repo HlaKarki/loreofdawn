@@ -1,3 +1,4 @@
+import { hero_ids, type HeroNameKey } from "@/data/ml/hero_ids";
 import type {
 	MlFetchCategory,
 	MlGraphApiRecord,
@@ -5,8 +6,7 @@ import type {
 	MlMatchupApiRecord,
 	MlMetaApiRecord,
 	MlRequestPayload,
-} from "@/types/ml.types";
-import { hero_ids, type HeroNameKey } from "@/data/ml/hero_ids";
+} from "@repo/database";
 
 class MlApiService {
 	private readonly MAX_HERO_ASSUMPTION = 150;
