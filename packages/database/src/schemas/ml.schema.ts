@@ -85,3 +85,14 @@ export const heroGraphDataTable = pgTable(
 		index("hero_graph_rank_idx").on(t.rank),
 	],
 ).enableRLS();
+
+export const heroesListTable = pgTable(
+	"heroes_list",
+	{
+		id: integer("id").primaryKey(),
+		url_name: text("url_name").notNull(),
+		display_name: text("display_name").notNull(),
+		updatedAt: bigint("updatedAt", { mode: "number" }).notNull(),
+	},
+	(t) => [index("ml_heroes_list_table_idx").on(t.id)],
+).enableRLS();

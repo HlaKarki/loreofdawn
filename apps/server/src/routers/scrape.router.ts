@@ -196,4 +196,8 @@ export const scrape = router({
 		.mutation(async ({ input }) => {
 			return await mlTransformService.getNormalizedMetaSummaries(input);
 		}),
+
+	normalizedHeroList: publicProcedure.query(async () => {
+		return await mlTransformService.getNormalizedHeroList();
+	}),
 });

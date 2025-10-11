@@ -1,10 +1,23 @@
-import { serverTrpc } from "@/server/trpc";
 import Link from "next/link";
+
+type HeroSummary = {
+	slug: string;
+	title: string;
+	pageId: number | string;
+};
 
 export const dynamic = "force-dynamic";
 
 export default async function HeroesPage() {
-	const heroes = await serverTrpc.dbRouter.listHeroes.query();
+	const response = await fetch(`/api/heroes/list`, {
+		cache: "no-store",
+	});
+
+	if (!response.ok) {
+		throw new Error("Failed to load heroes");
+	}
+
+	const heroes = (await response.json()) as HeroSummary[];
 	const sortedHeroes = heroes.sort((a, b) => a.title.localeCompare(b.title));
 
 	return (

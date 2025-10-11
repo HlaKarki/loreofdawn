@@ -1,4 +1,4 @@
-import { serverTrpc } from "@/server/trpc";
+import type { MlGraphData, MlHeroProfile, MlMatchupSummary, MlMetaSummary } from "@repo/database";
 import type { HeroNameKey } from "@/data/ml/hero_ids";
 import Image from "next/image";
 import Link from "next/link";
@@ -33,6 +33,11 @@ function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: s
 	);
 }
 
+type ConsolidatedHero = MlHeroProfile &
+	Partial<MlMatchupSummary> &
+	Partial<MlMetaSummary> &
+	Partial<MlGraphData>;
+
 interface HeroPageProps {
 	params: Promise<{
 		hero: string;
@@ -43,20 +48,28 @@ export default async function HeroPage({ params }: HeroPageProps) {
 	const resolvedParams = await params;
 	const hero = resolvedParams.hero.trim().toLowerCase() as HeroNameKey;
 
-	const consolidated = await serverTrpc.mlData.consolidated.query({
-		hero: hero,
-		rank: "overall",
+	const endpoint = new URL(`/api/heroes/${encodeURIComponent(hero)}/consolidated`);
+	endpoint.searchParams.set("rank", "overall");
+
+	const response = await fetch(endpoint.toString(), {
+		cache: "no-store",
 	});
 
-	const wikiHref = `/wiki/${encodeURIComponent(hero)}` as const;
-
-	if (!consolidated) {
+	if (response.status === 404) {
 		return (
 			<div className="mx-auto flex min-h-[60vh] w-full max-w-6xl items-center justify-center px-4">
 				<p className="text-muted-foreground">Hero not found</p>
 			</div>
 		);
 	}
+
+	if (!response.ok) {
+		throw new Error("Failed to load hero data");
+	}
+
+	const consolidated = (await response.json()) as ConsolidatedHero;
+
+	const wikiHref = `/wiki/${encodeURIComponent(hero)}` as const;
 
 	return (
 		<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-10 sm:px-6 lg:px-8">

@@ -3,6 +3,7 @@ import type {
 	MlFetchCategory,
 	MlGraphApiRecord,
 	MlHeroApiRecord,
+	MlHeroListApiRecord,
 	MlMatchupApiRecord,
 	MlMetaApiRecord,
 	MlRequestPayload,
@@ -40,6 +41,7 @@ class MlApiService {
 		page_size: number = 5,
 		opts?: {
 			filter?: { hero_name?: HeroNameKey; counter?: boolean; rank?: 9 | 101 };
+			fields?: string[];
 		},
 	) {
 		let body: MlRequestPayload = { pageSize: page_size };
@@ -69,6 +71,10 @@ class MlApiService {
 					value: filter.rank ?? 9,
 				});
 			}
+		}
+
+		if (opts?.fields) {
+			body.fields = opts.fields;
 		}
 
 		if (!body.filters.length) {
@@ -151,6 +157,21 @@ class MlApiService {
 			code: number;
 			message: string;
 			data: { records: MlHeroApiRecord[] };
+		};
+	}
+
+	async listHeroes() {
+		const response = await fetch(this.buildEndpointUrl("hero"), {
+			method: "POST",
+			body: this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
+				fields: ["data.hero.data.name", "data.hero.data.heroid"],
+			}),
+		});
+
+		return (await response.json()) as {
+			code: number;
+			message: string;
+			data: { records: MlHeroListApiRecord[] };
 		};
 	}
 }

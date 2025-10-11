@@ -48,7 +48,8 @@ app.get("/", (c) => {
 });
 
 if (import.meta.main) {
-	const port = Number(Bun.env.PORT ?? process.env.PORT ?? 3000);
+	const port = Number(Bun.env.PORT ?? process.env.PORT ?? 1202);
+	console.log("Listening on port: " + port);
 	Bun.serve({
 		fetch: app.fetch.bind(app),
 		idleTimeout: 60 * 3,

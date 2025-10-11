@@ -8,6 +8,17 @@ export type MlRequestPayload = {
 	fields?: string[];
 };
 
+export interface MlHeroListApiRecord {
+	data: {
+		hero: {
+			data: {
+				heroid: number;
+				name: string;
+			};
+		};
+	};
+}
+
 export interface MlHeroApiRecord {
 	_id: string;
 	id: number;
@@ -198,6 +209,13 @@ export interface MlGraphApiRecord {
 	};
 	id: number;
 	sourceId: number;
+}
+
+export interface MlHeroList {
+	id: number;
+	display_name: string;
+	url_name: string;
+	updatedAt: number;
 }
 
 export interface MlHeroProfile {

@@ -1,10 +1,12 @@
 import { db } from "@/db";
 import {
+	heroesListTable,
 	heroGraphDataTable,
 	heroMatchupTable,
 	heroMetaDataTable,
 	heroProfileTable,
 	type MlGraphData,
+	type MlHeroList,
 	type MlHeroProfile,
 	type MlMatchupSummary,
 	type MlMetaSummary,
@@ -129,6 +131,21 @@ class MlDbService {
 				},
 			})
 			.returning();
+	}
+
+	async upsertHeroList(list: MlHeroList) {
+		return db
+			.insert(heroesListTable)
+			.values(list)
+			.onConflictDoUpdate({
+				target: heroesListTable.id,
+				set: {
+					id: list.id,
+					display_name: list.display_name,
+					url_name: list.url_name,
+					updatedAt: list.updatedAt,
+				},
+			});
 	}
 }
 

@@ -9,6 +9,8 @@ import type {
 	MlMatchupApiRecord,
 	MlMetaApiRecord,
 	MlHeroApiRecord,
+	MlHeroListApiRecord,
+	MlHeroList,
 } from "@repo/database";
 import { mlApiService } from "@/services/ml/ml-api.service";
 
@@ -84,6 +86,30 @@ class MlTransformService {
 				]
 			: [];
 	};
+
+	private normalizeHeroList(raw: MlHeroListApiRecord[]): MlHeroList[] {
+		const ids_set = new Map<string, number>();
+
+		raw.forEach((hero) => {
+			const name = hero.data.hero.data.name;
+			const id = hero.data.hero.data.heroid;
+			ids_set.set(name, id);
+		});
+
+		const heroList: MlHeroList[] = [];
+
+		for (const [key, value] of ids_set) {
+			const url_name = key.trim().toLowerCase().replaceAll(" ", "_");
+			heroList.push({
+				id: value,
+				display_name: key,
+				url_name: url_name,
+				updatedAt: Date.now(),
+			});
+		}
+
+		return heroList;
+	}
 
 	private normalizeHeroProfiles(raw: MlHeroApiRecord[]): MlHeroProfile[] {
 		return raw.map((hero) => {
@@ -261,6 +287,10 @@ class MlTransformService {
 				points: sortedPoints,
 			};
 		});
+	}
+	async getNormalizedHeroList() {
+		const response = await mlApiService.listHeroes();
+		return this.normalizeHeroList(response.data.records);
 	}
 
 	async getNormalizedHeroProfiles() {

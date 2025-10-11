@@ -113,6 +113,11 @@ export const mlSync = router({
 			}
 		}
 
+		const heroes = await mlTransformService.getNormalizedHeroList();
+		for (const hero of heroes) {
+			await mlDbService.upsertHeroList(hero);
+		}
+
 		return { success: true, message: "Database updated successfully" };
 	}),
 });

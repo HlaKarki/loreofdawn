@@ -3,9 +3,9 @@ import rehypeSlug from "rehype-slug";
 import GithubSlugger from "github-slugger";
 import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
-import { serverTrpc } from "@/server/trpc";
 import { TableOfContents } from "../_components/table_of_content";
 import { HeroNameKeys, type HeroNameKey } from "@/data/ml/hero_ids";
+import { getInternalBaseUrl } from "@/server/base-url";
 
 export const dynamic = "force-dynamic";
 
@@ -24,13 +24,22 @@ export default async function WikiPage({ params }: WikiPageProps) {
 	}
 
 	const heroKey = heroParam as HeroNameKey;
-	const response = await serverTrpc.dbRouter.fetchMarkdown.query({ hero: heroKey });
+	const baseUrl = getInternalBaseUrl();
+	const response = await fetch(`${baseUrl}/api/wiki/${encodeURIComponent(heroKey)}`, {
+		cache: "no-store",
+	});
 
-	if (!response[0]) {
+	if (response.status === 404) {
 		notFound();
 	}
 
-	let markdown = response[0].markdown;
+	if (!response.ok) {
+		throw new Error("Failed to load wiki data");
+	}
+
+	const wikiRecord = (await response.json()) as { markdown: string };
+
+	let markdown = wikiRecord.markdown;
 
 	const titles = extractHeadings(markdown);
 

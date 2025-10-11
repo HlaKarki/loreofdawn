@@ -1,10 +1,25 @@
 import Link from "next/link";
-import { serverTrpc } from "@/server/trpc";
+import { getInternalBaseUrl } from "@/server/base-url";
+
+type HeroSummary = {
+	slug: string;
+	title: string;
+	pageId: number | string;
+};
 
 export const dynamic = "force-dynamic";
 
 export default async function WikiIndexPage() {
-	const heroes = await serverTrpc.dbRouter.listHeroes.query();
+	const baseUrl = getInternalBaseUrl();
+	const response = await fetch(`${baseUrl}/api/heroes`, {
+		cache: "no-store",
+	});
+
+	if (!response.ok) {
+		throw new Error("Failed to load heroes");
+	}
+
+	const heroes = (await response.json()) as HeroSummary[];
 	const sortedHeroes = heroes.sort((a, b) => a.title.localeCompare(b.title));
 
 	return (
