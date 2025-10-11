@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { env } from "@/env";
 
-export async function GET(req: NextRequest, res: NextResponse) {
+export async function GET(req: NextRequest) {
 	const url = req.nextUrl;
 	const hero = url.searchParams.get("hero");
 	const rank = url.searchParams.get("rank") ?? "overall";
