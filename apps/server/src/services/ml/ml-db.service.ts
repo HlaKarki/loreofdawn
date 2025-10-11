@@ -11,12 +11,11 @@ import {
 	type MlMatchupSummary,
 	type MlMetaSummary,
 } from "@repo/database";
-import { type HeroNameKey, type RankNameKey } from "@/data/ml/hero_ids";
 import { and, eq, ilike } from "drizzle-orm";
 
 // all fetches are from db
 class MlDbService {
-	async getConsolidatedData(opts: { hero: HeroNameKey; rank: RankNameKey }) {
+	async getConsolidatedData(opts: { hero: string; rank: string }) {
 		try {
 			const result = await db
 				.select()
@@ -57,6 +56,45 @@ class MlDbService {
 			};
 		} catch (error) {
 			console.error("MlDbService JOIN Error: ", error);
+			throw error;
+		}
+	}
+
+	async getHeroList() {
+		try {
+			const response = await db.select().from(heroesListTable);
+			if (!response[0]) return null;
+			return response;
+		} catch (error) {
+			console.error("MlDbService getHeroList Error: ", error);
+			throw error;
+		}
+	}
+
+	async getHeroById(id: number): Promise<MlHeroList> {
+		try {
+			const [response] = await db
+				.select()
+				.from(heroesListTable)
+				.where(eq(heroesListTable.id, id))
+				.limit(1);
+			return response;
+		} catch (error) {
+			console.error("MlDbService getHeroName Error: ", error);
+			throw error;
+		}
+	}
+
+	async getHeroByName(name: string): Promise<MlHeroList> {
+		try {
+			const [response] = await db
+				.select()
+				.from(heroesListTable)
+				.where(eq(heroesListTable.url_name, name))
+				.limit(1);
+			return response;
+		} catch (error) {
+			console.error("MlDbService getHeroName Error: ", error);
 			throw error;
 		}
 	}

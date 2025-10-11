@@ -2,10 +2,9 @@ import { z } from "zod";
 import { publicProcedure, router, workerProcedure } from "@/lib/trpc";
 import { mlTransformService } from "@/services/ml/ml-transform.service";
 import { mlDbService } from "@/services/ml/ml-db.service";
-import { HeroNameEnumZ } from "@/data/ml/hero_ids";
 
 const standardInput = z.object({
-	hero: HeroNameEnumZ,
+	hero: z.string(),
 	rank: z
 		.enum(["glory", "overall"])
 		.default("glory")
@@ -13,7 +12,7 @@ const standardInput = z.object({
 	counter: z.boolean().default(true),
 });
 const optionalInput = z.object({
-	hero: HeroNameEnumZ.optional(),
+	hero: z.string().optional(),
 	rank: z
 		.enum(["glory", "overall"])
 		.default("glory")

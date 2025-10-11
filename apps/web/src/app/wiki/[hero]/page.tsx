@@ -4,8 +4,6 @@ import GithubSlugger from "github-slugger";
 import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
 import { TableOfContents } from "../_components/table_of_content";
-import { HeroNameKeys, type HeroNameKey } from "@/data/ml/hero_ids";
-import { getInternalBaseUrl } from "@/server/base-url";
 
 export const dynamic = "force-dynamic";
 
@@ -19,13 +17,11 @@ export default async function WikiPage({ params }: WikiPageProps) {
 	const resolvedParams = await params;
 	const heroParam = resolvedParams.hero.toLowerCase();
 
-	if (!HeroNameKeys.includes(heroParam as HeroNameKey)) {
+	if (!heroParam) {
 		notFound();
 	}
 
-	const heroKey = heroParam as HeroNameKey;
-	const baseUrl = getInternalBaseUrl();
-	const response = await fetch(`${baseUrl}/api/wiki/${encodeURIComponent(heroKey)}`, {
+	const response = await fetch(`/api/wiki/${encodeURIComponent(heroParam)}`, {
 		cache: "no-store",
 	});
 

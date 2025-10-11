@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { getInternalBaseUrl } from "@/server/base-url";
 
 type HeroSummary = {
 	slug: string;
@@ -10,8 +9,7 @@ type HeroSummary = {
 export const dynamic = "force-dynamic";
 
 export default async function WikiIndexPage() {
-	const baseUrl = getInternalBaseUrl();
-	const response = await fetch(`${baseUrl}/api/heroes`, {
+	const response = await fetch(`/api/heroes`, {
 		cache: "no-store",
 	});
 

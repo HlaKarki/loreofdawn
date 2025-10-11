@@ -1,7 +1,7 @@
 import { z } from "zod";
 import { publicProcedure, router } from "@/lib/trpc";
-import { hero_page_ids } from "@/data/wiki/page_ids";
 import { dbService } from "@/services/db/db.service";
+import { mlDbService } from "@/services/ml/ml-db.service";
 
 export const dbRouter = router({
 	uploadMarkdown: publicProcedure
@@ -11,9 +11,12 @@ export const dbRouter = router({
 		}),
 
 	seedWikisTable: publicProcedure.query(async () => {
-		const filenames = Object.entries(hero_page_ids).map(([_key, value]) => {
-			if (!value.title.includes("/")) {
-				return value.title.replaceAll(" ", "_").toLocaleLowerCase();
+		const list = await mlDbService.getHeroList();
+		if (!list) return "failed";
+
+		const filenames = Object.entries(list).map(([_key, value]) => {
+			if (!value.url_name.includes("/")) {
+				return value.url_name.replaceAll(" ", "_").toLocaleLowerCase();
 			}
 		});
 
@@ -31,12 +34,4 @@ export const dbRouter = router({
 		.query(async ({ input }) => {
 			return dbService.fetchMarkdown(input.hero);
 		}),
-
-	listHeroes: publicProcedure.query(() => {
-		return Object.entries(hero_page_ids).map(([slug, data]) => ({
-			slug,
-			title: data.title,
-			pageId: data.pageid,
-		}));
-	}),
 });

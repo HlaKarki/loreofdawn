@@ -3,9 +3,9 @@ import path from "node:path";
 import fs from "node:fs";
 import { z } from "zod";
 import { wikiScraper } from "@/services/scraper.service";
-import { HeroNameEnumZ } from "@/data/ml/hero_ids";
 import { mlApiService } from "@/services/ml/ml-api.service";
 import { mlTransformService } from "@/services/ml/ml-transform.service";
+import { mlDbService } from "@/services/ml/ml-db.service";
 
 export const scrape = router({
 	heroStory: publicProcedure
@@ -65,21 +65,21 @@ export const scrape = router({
 		return ml_hero_ids;
 	}),
 
-	getHeroInfo: publicProcedure
-		.input(z.object({ hero: HeroNameEnumZ }))
-		.mutation(async ({ input }) => {
-			const response = await mlApiService.fetchHeroRecord(input.hero);
+	getHeroInfo: publicProcedure.input(z.object({ hero: z.string() })).mutation(async ({ input }) => {
+		const hero_db = await mlDbService.getHeroByName(input.hero);
 
-			if (response?.data?.records?.length) {
-				return response.data.records[0];
-			}
-			return undefined;
-		}),
+		const response = await mlApiService.fetchHeroRecord(hero_db.id);
+
+		if (response?.data?.records?.length) {
+			return response.data.records[0];
+		}
+		return undefined;
+	}),
 
 	getHeroMatchups: publicProcedure
 		.input(
 			z.object({
-				hero: HeroNameEnumZ.optional(),
+				hero: z.string().optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -99,7 +99,7 @@ export const scrape = router({
 	getMetaData: publicProcedure
 		.input(
 			z.object({
-				hero: HeroNameEnumZ.optional(),
+				hero: z.string().optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -120,7 +120,7 @@ export const scrape = router({
 	getGraphData: publicProcedure
 		.input(
 			z.object({
-				hero: HeroNameEnumZ.optional(),
+				hero: z.string().optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -129,7 +129,15 @@ export const scrape = router({
 			}),
 		)
 		.mutation(async ({ input }) => {
-			const response = await mlApiService.fetchGraphRecords(input);
+			let hero_db;
+			if (input.hero) {
+				hero_db = await mlDbService.getHeroByName(input.hero);
+			}
+			const response = await mlApiService.fetchGraphRecords({
+				hero_id: hero_db?.id,
+				counter: input.counter,
+				rank: input.rank,
+			});
 
 			if (response?.data?.records?.length) {
 				return response.data.records;
@@ -141,7 +149,7 @@ export const scrape = router({
 	normalizedGraphData: publicProcedure
 		.input(
 			z.object({
-				hero: HeroNameEnumZ.optional(),
+				hero: z.string().optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -156,7 +164,7 @@ export const scrape = router({
 	normalizedHero: publicProcedure
 		.input(
 			z.object({
-				hero: HeroNameEnumZ,
+				hero: z.string(),
 				rank: z
 					.enum(["glory", "overall"])
 					.default("glory")
@@ -170,7 +178,7 @@ export const scrape = router({
 	normalizedMatchups: publicProcedure
 		.input(
 			z.object({
-				hero: HeroNameEnumZ.optional(),
+				hero: z.string().optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])
@@ -185,7 +193,7 @@ export const scrape = router({
 	normalizedMetaData: publicProcedure
 		.input(
 			z.object({
-				hero: HeroNameEnumZ.optional(),
+				hero: z.string().optional(),
 				counter: z.boolean().default(true),
 				rank: z
 					.enum(["glory", "overall"])

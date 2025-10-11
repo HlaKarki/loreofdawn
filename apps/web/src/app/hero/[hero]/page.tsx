@@ -1,5 +1,4 @@
 import type { MlGraphData, MlHeroProfile, MlMatchupSummary, MlMetaSummary } from "@repo/database";
-import type { HeroNameKey } from "@/data/ml/hero_ids";
 import Image from "next/image";
 import Link from "next/link";
 import { ArrowRight, BookOpen } from "lucide-react";
@@ -46,7 +45,7 @@ interface HeroPageProps {
 
 export default async function HeroPage({ params }: HeroPageProps) {
 	const resolvedParams = await params;
-	const hero = resolvedParams.hero.trim().toLowerCase() as HeroNameKey;
+	const hero = resolvedParams.hero.trim().toLowerCase();
 
 	const endpoint = new URL(`/api/heroes/${encodeURIComponent(hero)}/consolidated`);
 	endpoint.searchParams.set("rank", "overall");

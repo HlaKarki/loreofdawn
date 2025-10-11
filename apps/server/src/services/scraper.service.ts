@@ -10,7 +10,7 @@ import type {
 	WikiResponseComplete,
 	WikiSection,
 } from "@/types/scraper.types";
-import { hero_page_ids } from "@/data/wiki/page_ids";
+import { mlDbService } from "@/services/ml/ml-db.service";
 
 class WikiScraper {
 	private readonly jsonDefaultQuery = {
@@ -176,9 +176,11 @@ class WikiScraper {
 	}
 
 	async batchMarkupWrites() {
-		for (const [_key, value] of Object.entries(hero_page_ids)) {
-			const title = value.title.replaceAll(" ", "_");
-			const query = this.buildQuery(title);
+		const list = await mlDbService.getHeroList();
+		if (!list) return;
+
+		for (const [_key, value] of Object.entries(list)) {
+			const query = this.buildQuery(value.url_name);
 			const wiki_response = await this.fetchWikiMarkup(query);
 			const filepath = path.join(
 				process.cwd(),
@@ -186,13 +188,13 @@ class WikiScraper {
 				"data",
 				"wiki",
 				"markups",
-				`${title.toLowerCase()}.md`,
+				`${value.url_name}.md`,
 			);
 
 			try {
 				await fs.promises.writeFile(filepath, wiki_response, "utf-8");
 			} catch (error) {
-				console.error(`Failed to write markup for ${title}:`, error);
+				console.error(`Failed to write markup for ${value.url_name}:`, error);
 			}
 		}
 	}

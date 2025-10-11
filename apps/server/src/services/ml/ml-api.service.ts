@@ -1,4 +1,3 @@
-import { hero_ids, type HeroNameKey } from "@/data/ml/hero_ids";
 import type {
 	MlFetchCategory,
 	MlGraphApiRecord,
@@ -40,7 +39,7 @@ class MlApiService {
 	private buildRequestPayload(
 		page_size: number = 5,
 		opts?: {
-			filter?: { hero_name?: HeroNameKey; counter?: boolean; rank?: 9 | 101 };
+			filter?: { hero_id?: number; counter?: boolean; rank?: 9 | 101 };
 			fields?: string[];
 		},
 	) {
@@ -50,11 +49,11 @@ class MlApiService {
 		body.filters = [];
 
 		if (filter) {
-			if (filter.hero_name) {
+			if (filter.hero_id) {
 				body.filters.push({
 					field: field,
 					operator: "eq",
-					value: hero_ids[filter.hero_name],
+					value: filter.hero_id,
 				});
 			}
 			if ("counter" in filter) {
@@ -83,9 +82,9 @@ class MlApiService {
 
 		return JSON.stringify(body);
 	}
-	async fetchGraphRecords(opts?: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
+	async fetchGraphRecords(opts?: { hero_id?: number; counter: boolean; rank: 9 | 101 }) {
 		const body = this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
-			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
+			filter: { counter: opts?.counter, hero_id: opts?.hero_id, rank: opts?.rank },
 		});
 
 		const response = await fetch(this.buildEndpointUrl("graph"), {
@@ -100,9 +99,9 @@ class MlApiService {
 		};
 	}
 
-	async fetchMetaRecords(opts?: { hero?: HeroNameKey; counter?: boolean; rank: 9 | 101 }) {
+	async fetchMetaRecords(opts?: { hero_id?: number; counter: boolean; rank: 9 | 101 }) {
 		const body = this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
-			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
+			filter: { counter: opts?.counter, hero_id: opts?.hero_id, rank: opts?.rank },
 		});
 
 		const response = await fetch(this.buildEndpointUrl("meta"), {
@@ -117,9 +116,9 @@ class MlApiService {
 		};
 	}
 
-	async fetchMatchupRecords(opts?: { hero?: HeroNameKey; counter: boolean; rank: 9 | 101 }) {
+	async fetchMatchupRecords(opts?: { hero_id?: number; counter: boolean; rank: 9 | 101 }) {
 		const body = this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
-			filter: { counter: opts?.counter, hero_name: opts?.hero, rank: opts?.rank },
+			filter: { counter: opts?.counter, hero_id: opts?.hero_id, rank: opts?.rank },
 		});
 
 		const response = await fetch(this.buildEndpointUrl("matchup"), {
@@ -134,10 +133,10 @@ class MlApiService {
 		};
 	}
 
-	async fetchHeroRecord(hero: HeroNameKey) {
+	async fetchHeroRecord(hero_id: number) {
 		const response = await fetch(this.buildEndpointUrl("hero"), {
 			method: "POST",
-			body: this.buildRequestPayload(undefined, { filter: { hero_name: hero } }),
+			body: this.buildRequestPayload(undefined, { filter: { hero_id: hero_id } }),
 		});
 
 		return (await response.json()) as {
