@@ -22,6 +22,7 @@
 	},
 	"include": [
       "src/**/*",
-      "../worker/worker-configuration.d.ts"
+      "../worker/worker-configuration.d.ts",
+      "../crons/worker-configuration.d.ts"
     ]
 }
