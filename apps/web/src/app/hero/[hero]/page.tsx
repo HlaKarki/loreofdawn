@@ -5,6 +5,7 @@ import { ArrowRight, BookOpen } from "lucide-react";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { tidyLabel } from "@/lib/utils";
+import { getServerBaseUrl } from "@/lib/server/base-url";
 
 export const dynamic = "force-dynamic";
 
@@ -43,16 +44,25 @@ interface HeroPageProps {
 	}>;
 }
 
+const resolveImageSrc = (...values: Array<string | null | undefined>) => {
+	for (const value of values) {
+		if (value && value.trim().length > 0) {
+			return value;
+		}
+	}
+	return "/placeholder.svg";
+};
+
 export default async function HeroPage({ params }: HeroPageProps) {
 	const resolvedParams = await params;
 	const hero = resolvedParams.hero.trim().toLowerCase();
 
-	const endpoint = new URL(`/api/heroes/${encodeURIComponent(hero)}/consolidated`);
-	endpoint.searchParams.set("rank", "overall");
+	const baseUrl = await getServerBaseUrl();
+	const endpoint = new URL("/api/heroes/consolidated", baseUrl);
+	endpoint.searchParams.set("hero", hero);
+	endpoint.searchParams.set("rank", "glory");
 
-	const response = await fetch(endpoint.toString(), {
-		cache: "no-store",
-	});
+	const response = await fetch(endpoint.toString(), { cache: "no-store" });
 
 	if (response.status === 404) {
 		return (
@@ -68,6 +78,17 @@ export default async function HeroPage({ params }: HeroPageProps) {
 
 	const consolidated = (await response.json()) as ConsolidatedHero;
 
+	const primaryPortrait = resolveImageSrc(
+		consolidated.images.painting,
+		consolidated.images.head_big,
+		consolidated.images.head,
+	);
+	const bannerImage = resolveImageSrc(
+		consolidated.images.squarehead_big,
+		consolidated.images.head_big,
+		consolidated.images.squarehead,
+	);
+
 	const wikiHref = `/wiki/${encodeURIComponent(hero)}` as const;
 
 	return (
@@ -76,7 +97,7 @@ export default async function HeroPage({ params }: HeroPageProps) {
 			<div className="relative mb-8 overflow-hidden rounded-xl">
 				<div
 					style={{
-						backgroundImage: `url(${consolidated.images.squarehead_big})`,
+						backgroundImage: `url(${bannerImage})`,
 						backgroundSize: "cover",
 						backgroundPosition: "center top",
 						backgroundRepeat: "no-repeat",
@@ -90,9 +111,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 							<div className="flex items-end gap-4">
 								<div className="relative h-28 w-28 shrink-0 overflow-hidden rounded-xl border-2 border-amber-500/20 bg-gradient-to-br from-amber-500/10 to-purple-500/10 sm:h-42 sm:w-42">
 									<Image
-										src={consolidated.images.painting || consolidated.images.head_big}
+										src={primaryPortrait}
 										alt={tidyLabel(consolidated.name)}
 										fill
+										sizes={"256px"}
 										className="object-cover"
 										priority
 									/>
@@ -247,9 +269,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 							>
 								<div className="relative h-12 w-12 shrink-0 overflow-hidden rounded-lg border bg-gradient-to-br from-amber-500/20 to-purple-500/20 sm:h-14 sm:w-14">
 									<Image
-										src={skill.icon}
+										src={resolveImageSrc(skill.icon)}
 										alt={tidyLabel(skill.name)}
 										fill
+										sizes={"256px"}
 										className="object-cover"
 									/>
 								</div>
@@ -302,9 +325,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 													className="group relative aspect-square overflow-hidden rounded"
 												>
 													<Image
-														src={h.image}
+														src={resolveImageSrc(h.image)}
 														alt={tidyLabel(h.name)}
 														fill
+														sizes={"256px"}
 														className="object-cover"
 													/>
 													<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
@@ -339,9 +363,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 												className="group relative aspect-square overflow-hidden rounded"
 											>
 												<Image
-													src={h.image}
+													src={resolveImageSrc(h.image)}
 													alt={tidyLabel(h.name)}
 													fill
+													sizes={"256px"}
 													className="object-cover"
 												/>
 												<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
@@ -377,9 +402,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 													className="group relative aspect-square overflow-hidden rounded"
 												>
 													<Image
-														src={h.image}
+														src={resolveImageSrc(h.image)}
 														alt={tidyLabel(h.name)}
 														fill
+														sizes={"256px"}
 														className="object-cover"
 													/>
 													<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
@@ -415,9 +441,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 									>
 										<div className="relative h-12 w-12 shrink-0">
 											<Image
-												src={teammate.image}
+												src={resolveImageSrc(teammate.image)}
 												alt={tidyLabel(teammate.name)}
 												fill
+												sizes="256px"
 												className="object-cover"
 											/>
 										</div>
@@ -464,9 +491,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 									>
 										<div className="relative h-12 w-12 shrink-0">
 											<Image
-												src={counter.image}
+												src={resolveImageSrc(counter.image)}
 												alt={tidyLabel(counter.name)}
 												fill
+												sizes="256px"
 												className="object-cover"
 											/>
 										</div>
@@ -513,9 +541,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 									>
 										<div className="relative h-12 w-12 shrink-0">
 											<Image
-												src={counter.image}
+												src={resolveImageSrc(counter.image)}
 												alt={tidyLabel(counter.name)}
 												fill
+												sizes="256px"
 												className="object-cover"
 											/>
 										</div>
@@ -562,9 +591,10 @@ export default async function HeroPage({ params }: HeroPageProps) {
 									>
 										<div className="relative h-12 w-12 shrink-0">
 											<Image
-												src={teammate.image}
+												src={resolveImageSrc(teammate.image)}
 												alt={tidyLabel(teammate.name)}
 												fill
+												sizes="256px"
 												className="object-cover"
 											/>
 										</div>

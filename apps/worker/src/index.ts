@@ -1,8 +1,15 @@
 import { Hono } from "hono";
 import { createDb } from "@/db";
-import { heroProfileTable, heroMatchupTable, heroMetaDataTable, heroGraphDataTable } from "@repo/database";
-import { HeroNameKeys } from "@/data/ml/hero_ids";
+import {
+	heroProfileTable,
+	heroMatchupTable,
+	heroMetaDataTable,
+	heroGraphDataTable,
+} from "@repo/database";
+import { HeroNameKeys } from "@/data/hero_ids";
 import { and, eq, ilike } from "drizzle-orm";
+import { cacheKvLayer } from "@/layers/cache_kv";
+import { registerHeroEndpoints } from "@/endpoints/heroes";
 
 type Bindings = {
 	HYPERDRIVE: Hyperdrive;
@@ -13,87 +20,55 @@ type Env = {
 	Bindings: Bindings;
 };
 
-const app = new Hono<Env>();
+export const app = new Hono<Env>();
+
+registerHeroEndpoints(app);
 
 // Health check
 app.get("/", (c) => c.json({ status: "ok" }));
 
 // Simple hero data endpoint: GET /hero/:name/:rank
-app.get("/hero/:name/:rank", async (c) => {
+app.get("/heroes/:name/:rank", async (c) => {
 	const hero = c.req.param("name");
 	const rank = c.req.param("rank");
 	const cacheKey = `hero:${hero}:${rank}`;
 
 	try {
-		// 1. Check Cache API (5 min TTL)
-		const cache = await caches.open("api-cache");
-		const cacheUrl = `https://cache.loreofdawn.com/${cacheKey}`;
-		const cached = await cache.match(cacheUrl);
+		return cacheKvLayer.respond(c, cacheKey, async () => {
+			const db = createDb(c.env.HYPERDRIVE.connectionString);
 
-		if (cached) {
-			console.log("✓ Cache hit");
-			return cached;
-		}
+			const result = await db
+				.select()
+				.from(heroProfileTable)
+				.leftJoin(
+					heroMatchupTable,
+					and(eq(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
+				)
+				.leftJoin(
+					heroMetaDataTable,
+					and(eq(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
+				)
+				.leftJoin(
+					heroGraphDataTable,
+					and(
+						eq(heroProfileTable.name, heroGraphDataTable.name),
+						eq(heroGraphDataTable.rank, rank),
+					),
+				)
+				.where(ilike(heroProfileTable.name, hero))
+				.limit(1);
 
-		// 2. Check KV (60 min TTL)
-		const kvData = await c.env.KV.get(cacheKey, "json");
-		if (kvData) {
-			console.log("✓ KV hit");
-			const response = c.json(kvData);
+			if (!result[0]) {
+				return c.json({ error: "Hero not found" }, 404);
+			}
 
-			// Backfill Cache API
-			const headers = new Headers(response.headers);
-			headers.set("Cache-Control", "public, max-age=300");
-			const cachedResponse = new Response(JSON.stringify(kvData), { headers });
-			await cache.put(cacheUrl, cachedResponse);
-
-			return response;
-		}
-
-		// 3. Query DB via Hyperdrive
-		console.log("✓ DB query");
-		const db = createDb(c.env.HYPERDRIVE.connectionString);
-
-		const result = await db
-			.select()
-			.from(heroProfileTable)
-			.leftJoin(
-				heroMatchupTable,
-				and(eq(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank))
-			)
-			.leftJoin(
-				heroMetaDataTable,
-				and(eq(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank))
-			)
-			.leftJoin(
-				heroGraphDataTable,
-				and(eq(heroProfileTable.name, heroGraphDataTable.name), eq(heroGraphDataTable.rank, rank))
-			)
-			.where(ilike(heroProfileTable.name, hero))
-			.limit(1);
-
-		if (!result[0]) {
-			return c.json({ error: "Hero not found" }, 404);
-		}
-
-		const data = {
-			...result[0].hero_profiles,
-			...result[0].hero_matchups,
-			...result[0].hero_metas,
-			...result[0].hero_graphs,
-		};
-
-		// 4. Backfill KV
-		await c.env.KV.put(cacheKey, JSON.stringify(data), { expirationTtl: 3600 });
-
-		// 5. Return and cache in Cache API
-		const response = c.json(data);
-		const headers = new Headers(response.headers);
-		headers.set("Cache-Control", "public, max-age=300");
-		const cachedResponse = new Response(JSON.stringify(data), { headers });
-		await cache.put(cacheUrl, cachedResponse);
-
-		return response;
+			return {
+				...result[0].hero_profiles,
+				...result[0].hero_matchups,
+				...result[0].hero_metas,
+				...result[0].hero_graphs,
+			};
+		});
 	} catch (error) {
 		console.error("Error:", error);
 		return c.json({ error: "Internal error" }, 500);
@@ -117,15 +92,21 @@ const scheduled: ExportedHandlerScheduledHandler<Bindings> = async (_event, env,
 					.from(heroProfileTable)
 					.leftJoin(
 						heroMatchupTable,
-						and(eq(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank))
+						and(eq(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
 					)
 					.leftJoin(
 						heroMetaDataTable,
-						and(eq(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank))
+						and(
+							eq(heroProfileTable.name, heroMetaDataTable.name),
+							eq(heroMetaDataTable.rank, rank),
+						),
 					)
 					.leftJoin(
 						heroGraphDataTable,
-						and(eq(heroProfileTable.name, heroGraphDataTable.name), eq(heroGraphDataTable.rank, rank))
+						and(
+							eq(heroProfileTable.name, heroGraphDataTable.name),
+							eq(heroGraphDataTable.rank, rank),
+						),
 					)
 					.where(ilike(heroProfileTable.name, hero))
 					.limit(1);
