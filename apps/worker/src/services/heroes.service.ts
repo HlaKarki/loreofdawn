@@ -38,25 +38,30 @@ export class HeroService {
 	}
 
 	/**
-	 * Get consolidated hero profile with matchups, meta, and graph data
+	 * Get consolidated hero profile with matchups, meta, and graph data (LEFT JOIN version)
 	 */
 	async getHeroProfile(name: string, rank: string) {
+		const normalizedName = name.trim().toLowerCase().replaceAll("_", " ");
+
 		const result = await this.db
 			.select()
 			.from(heroProfileTable)
 			.leftJoin(
 				heroMatchupTable,
-				and(eq(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
+				and(ilike(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
 			)
 			.leftJoin(
 				heroMetaDataTable,
-				and(eq(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
+				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
 			)
 			.leftJoin(
 				heroGraphDataTable,
-				and(eq(heroProfileTable.name, heroGraphDataTable.name), eq(heroGraphDataTable.rank, rank)),
+				and(
+					ilike(heroProfileTable.name, heroGraphDataTable.name),
+					ilike(heroGraphDataTable.rank, rank),
+				),
 			)
-			.where(ilike(heroProfileTable.name, name))
+			.where(ilike(heroProfileTable.name, normalizedName))
 			.limit(1);
 
 		if (!result[0]) {
@@ -75,22 +80,27 @@ export class HeroService {
 	 * Seed KV cache with hero data for a specific hero and rank
 	 */
 	async seedHeroCache(heroName: string, rank: string): Promise<void> {
+		const normalizedName = heroName.trim().toLowerCase().replaceAll("_", " ");
+
 		const result = await this.db
 			.select()
 			.from(heroProfileTable)
 			.leftJoin(
 				heroMatchupTable,
-				and(eq(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
+				and(ilike(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
 			)
 			.leftJoin(
 				heroMetaDataTable,
-				and(eq(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
+				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
 			)
 			.leftJoin(
 				heroGraphDataTable,
-				and(eq(heroProfileTable.name, heroGraphDataTable.name), eq(heroGraphDataTable.rank, rank)),
+				and(
+					ilike(heroProfileTable.name, heroGraphDataTable.name),
+					ilike(heroGraphDataTable.rank, rank),
+				),
 			)
-			.where(ilike(heroProfileTable.name, heroName))
+			.where(ilike(heroProfileTable.name, normalizedName))
 			.limit(1);
 
 		if (result[0]) {

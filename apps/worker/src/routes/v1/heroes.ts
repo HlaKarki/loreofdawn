@@ -26,7 +26,7 @@ heroesRouter.get("/list/:name", async (c) => {
 
 /**
  * GET /v1/heroes/:name/:rank
- * Get consolidated hero profile with matchups, meta, and graph data
+ * Get consolidated hero profile with matchups, meta, and graph data (LEFT JOIN)
  */
 heroesRouter.get("/:name/:rank", async (c) => {
 	const name = c.req.param("name");
