@@ -8,16 +8,17 @@ type HeroSummary = {
 	pageId: number | string;
 };
 
-export const revalidate = 300;
+export const dynamic = "force-dynamic";
+// export const revalidate = 300;
 
-export async function generateStaticParams() {
-	// Pre-build top 30 heroes at build time
-	const response = await fetch(makeUrl("/heroes/list/all"));
-	const heroes = (await response.json()) as MlHeroList[];
-	return heroes.slice(0, 10).map((h) => ({
-		hero: h.url_name,
-	}));
-}
+// export async function generateStaticParams() {
+// 	// Pre-build top 30 heroes at build time
+// 	const response = await fetch(makeUrl("/heroes/list/all"));
+// 	const heroes = (await response.json()) as MlHeroList[];
+// 	return heroes.slice(0, 10).map((h) => ({
+// 		hero: h.url_name,
+// 	}));
+// }
 
 export default async function WikiIndexPage() {
 	const response = await fetch(`/api/heroes`);
