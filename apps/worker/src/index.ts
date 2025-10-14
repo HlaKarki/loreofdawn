@@ -10,7 +10,15 @@ export const app = new Hono<Env>();
 
 // Global middleware
 app.use("*", logger());
-app.use("*", cors());
+app.use(
+	"*",
+	cors({
+		origin: ["https://loreofdawn.com", "http://localhost:1201", "https://www.loreofdawn.com"],
+		credentials: true,
+		allowMethods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
+		allowHeaders: ["Content-Type", "Authorization"],
+	}),
+);
 app.use("*", errorHandler);
 
 // Mount API routes
