@@ -1,4 +1,6 @@
 import Link from "next/link";
+import { makeUrl } from "@/lib/utils.api";
+import type { MlHeroList } from "@repo/database";
 
 type HeroSummary = {
 	slug: string;
@@ -6,12 +8,19 @@ type HeroSummary = {
 	pageId: number | string;
 };
 
-export const dynamic = "force-dynamic";
+export const revalidate = 300;
+
+export async function generateStaticParams() {
+	// Pre-build top 30 heroes at build time
+	const response = await fetch(makeUrl("/heroes/list/all"));
+	const heroes = (await response.json()) as MlHeroList[];
+	return heroes.slice(0, 10).map((h) => ({
+		hero: h.url_name,
+	}));
+}
 
 export default async function WikiIndexPage() {
-	const response = await fetch(`/api/heroes`, {
-		cache: "no-store",
-	});
+	const response = await fetch(`/api/heroes`);
 
 	if (!response.ok) {
 		throw new Error("Failed to load heroes");

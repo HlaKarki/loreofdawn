@@ -324,3 +324,8 @@ export interface MlGraphData {
 	trend_end: string | null;
 	points: MlGraphPoint[];
 }
+
+export type ConsolidatedHero = MlHeroProfile &
+	Partial<MlMatchupSummary> &
+	Partial<MlMetaSummary> &
+	Partial<MlGraphData>;

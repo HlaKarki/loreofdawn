@@ -1,3 +1,5 @@
+import { createMiddleware } from "hono/factory";
+import type { Env } from "@/types";
 import { Context } from "hono";
 
 class CacheKvLayer {
@@ -83,3 +85,27 @@ class CacheKvLayer {
 }
 
 export const cacheKvLayer = new CacheKvLayer();
+
+/**
+ * Middleware that automatically caches responses using both Cloudflare Cache API and KV
+ * Set c.set('cacheKey', 'your-key') in your route to enable caching for that route
+ */
+export const withCache = createMiddleware<Env>(async (c, next) => {
+	const cacheKey = c.get("cacheKey");
+
+	// If no cache key is set, skip caching
+	if (!cacheKey) {
+		await next();
+		return;
+	}
+
+	// Try to get from cache
+	const cached = await cacheKvLayer.respond(c, cacheKey, async () => {
+		await next();
+		return c.res.ok ? c.res : null;
+	});
+
+	if (cached) {
+		return cached;
+	}
+});

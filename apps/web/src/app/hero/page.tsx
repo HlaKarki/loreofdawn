@@ -24,7 +24,7 @@ export default async function HeroesPage() {
 				{sortedHeroes.map((hero) => (
 					<li key={hero.url_name}>
 						<Link
-							href={`/hero/${encodeURIComponent(hero.url_name)}`}
+							href={`/hero/${encodeURIComponent(hero.url_name)}?rank=overall`}
 							className="block rounded-lg border border-border bg-card px-4 py-3 transition hover:border-amber-500 hover:bg-card/80"
 						>
 							<span className="text-lg font-medium">{hero.display_name}</span>
