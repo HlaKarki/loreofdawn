@@ -19,7 +19,7 @@ export default async function HeroPage({ params, searchParams }: HeroPageProps) 
 	const hero_name = resolvedParams.hero.trim().toLowerCase();
 	const rank = (resolvedRank && resolvedRank.rank?.trim().toLowerCase()) ?? "overall";
 
-	const response = await fetch(makeUrl(`/heroes/${hero_name}/${rank}`));
+	const response = await fetch(makeUrl(`/v1/heroes/${hero_name}/${rank}`));
 
 	if (response.status === 404) {
 		return (

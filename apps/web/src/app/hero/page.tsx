@@ -1,11 +1,11 @@
 import Link from "next/link";
-import { env } from "@/env";
 import type { MlHeroList } from "@repo/database";
+import { makeUrl } from "@/lib/utils.api";
 
 export const dynamic = "force-dynamic";
 
 export default async function HeroesPage() {
-	const response = await fetch(`${env.NEXT_PUBLIC_SERVER_URL}/heroes/list/all`);
+	const response = await fetch(makeUrl("/v1/heroes/list/all"));
 
 	if (!response.ok) {
 		throw new Error("Failed to load heroes");
