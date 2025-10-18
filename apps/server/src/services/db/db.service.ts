@@ -3,7 +3,7 @@ import fs from "node:fs";
 import { TRPCError } from "@trpc/server";
 import { db } from "@/db";
 import { eq } from "drizzle-orm";
-import { wikisTable } from "@repo/database";
+import { heroesListTable, wikisTable } from "@repo/database";
 
 class DbService {
 	async uploadMarkdown(hero: string) {
@@ -53,6 +53,10 @@ class DbService {
 
 	async fetchMarkdown(hero: string) {
 		return db.select().from(wikisTable).where(eq(wikisTable.hero, hero.toLowerCase())).limit(1);
+	}
+
+	async fetchHeroList() {
+		return db.select().from(heroesListTable);
 	}
 }
 

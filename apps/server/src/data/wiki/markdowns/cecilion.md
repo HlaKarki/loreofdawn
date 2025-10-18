@@ -1,123 +1,133 @@
 # Cecilion
 
-He is the partner of Carmilla, Shadow of Twilight (Carmilla).
+# Profile
 
-Infobox
-- Alias: Embrace of Night; Greatest Opera Singer of the Southern Empire  
-- Chinese name: 琉 (liú)  
-- Born: The Abyss  
-- Gender: Male  
-- Species: Blood Demon  
-- Occupation: Opera actor/singer  
-- Affiliation: Avalor, Castle Aberleen (former residence)  
-- Traits: Graceful, Deeply in love  
-- Abilities: Bat summoning; Summons giant claw; Summons giant bat  
-- Weapons: Scepter  
-- Relationships: * (lover); * (savior); * (enemy)  
-- Japanese voice actor: Wakabayashi Yuu (若林 佑)
+He is the partner of Carmilla, Shadow of Twilight.
 
-Gallery
-- Image file: Profile_CN_Cecilion.jpg
+- **Alias:** *Embrace of Night*  
+  *Greatest Opera Singer of the Southern Empire*
+- **Chinese name:** 琉 (liú)
+- **Born:** The Abyss
+- **Gender:** Male
+- **Species:** Blood Demon
+- **Occupation:** Opera actor/singer
+- **Affiliation:** Avalor, Castle Aberleen (former residence)
+- **Traits:** Graceful, Deeply in love
+- **Abilities:**
+  - Bat summoning
+  - Summons giant claw
+  - Summons giant bat
+- **Weapons:** Scepter
+- **Relationships:**
+  - * (lover)
+  - * (savior)
+  - * (enemy)
+- **Japanese VA:** Wakabayashi Yuu (若林 佑)
 
-## Story
+# Story
 
 > "Carmilla's Blood Demon lover"
 
-As a blood demon, Cecilion fell in love with the human girl Carmilla. Cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into a Blood Demon. From then on, the two of them stayed away in the world together forever.
+As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.
 
-## Lore
+# Bio
 
-Many years ago, enjoying the night opera performed by Cecilion was the most popular form of entertainment for the people of Avalor. It was always full house at the theatre each time this famous opera actor performed. Everyone was attracted by his indescribable handsomeness and talent. However, the applause, love and cheers from human beings didn’t make Cecilion happy. He was a Blood Demon, and it was hard for him to open his mind to humans. He had always tried hard to conceal his true identity and blend in with human society.
+Many years ago, enjoying the night opera performed by Cecilion was the most popular form of entertainment for the people of Avalor. It was always full house at the theatre, each time this famous Opera actor performed. Everyone was attracted by his indescribable handsomeness and talent. However, the applause, love and cheers from human beings didn’t make Cecilion happy. He was a Blood Demon, and it was hard for him to open his mind to humans. He had always tried hard, to conceal his true identity and blend in with human society.
 
-As long as Cecilion could remember, his kind had been living away from human beings. The oppression of Lord Lava against the Blood Demons meant a dark future for them. Some demons decided to leave the Despair Place and come to live among humans, seeking forgiveness from the God of Light and hoping to integrate into human society. In reality they suffered hostility from humans and were hunted by the Abyss. When Cecilion became an adult, he was the only one left amongst his kind.
+As long as Cecilion could remember, his kind had been living away from human beings. The oppression of Lord Lava against the Blood Demons meant a dark future for them. As such, some demons decided to leave the Despair Place and came to live among humans. They were eager to seek forgiveness from the God of Light, live normally and integrate into the human society. But the fact was that they not only suffered hostility from the human society, but they were also hunted by the Abyss. When Cecilion became an adult, he was the only one left amongst his kind.
 
-To hide his true identity, Cecilion lived in Avalor as an opera actor and tried to cover up all abilities and characteristics related to Blood Demons. He was gorgeous and elegant on the stage, surrounded by thousands of passionate people. But at night, Cecilion spent his nights alone, night after night.
+In order to hide his true identity, Cecilion lived in Avalor as an Opera actor and tried to cover up all abilities and characteristics related to the Blood Demons. He was gorgeous and elegant on the stage, surrounded by thousands of passionate people. But at night, Cecilion spent his nights alone, night after night.
 
-The lonely days continued until an unforgettable performance when, as he took a bow at center stage, he saw Carmilla. This beautiful lady was looking at him too, and the two lonely souls instantly fell in love.
+The lonely days continued, but that was until Cecilion made an unforgettable performance. When he went to the center of the stage to take a bow, he saw Carmilla. And this beautiful lady was looking at him too. At that moment, the two lonely souls instantly fell in love.
 
-Although Cecilion warned himself against needless contact with humans, he could not resist his love for Carmilla and decided to follow his heart. In each performance Cecilion would sing a song for Carmilla and they kept eye contact. Carmilla kept her past a secret; even when she doubted his lifestyle, he said nothing. They swore to be loyal to each other.
+Although Cecilion always warned himself against having needless contact with human beings, he could not resist his love for Carmilla. So, in the face of love, he decided to follow his heart. In each of his performances, Cecilion would sing a song for Carmilla and they never ceased eye contact with each other. When talking about his past, Carmilla chose to keep it a secret. Even when Carmilla had doubts about his lifestyle, he still said nothing about it. However, they swore to be loyal to each other.
 
-Their love grew; they met frequently in secret. Carmilla’s father, Earl Ansaac, knew about them and thought Cecilion was only a humble opera actor, wanting Carmilla to marry a more powerful man. When their love deepened, Earl Ansaac violently interrupted the relationship: he imprisoned Carmilla, sealed the opera house and exiled Cecilion.
+As the flames of love grew stronger, without the knowledge of others, they met more frequently. But Carmilla’s father, Earl Ansaac knew everything about what they did. In his eyes, Earl only thought of Cecilion as a humble opera actor. He felt Carmilla should get married to a more powerful man. When this couple's love grew deeper, Earl Ansaac violently interrupted the relationship between the two, imprisoned Carmilla, sealed the Opera house and exiled Cecilion.
 
-Rumor spread that Earl Ansaac planned to marry Carmilla to Baron Tawil, a general. Cecilion was tempted to rescue her, but he knew he couldn’t bring her true happiness—she would become a fugitive. He concluded that love between a blood demon and a human could never be true and decided to give up.
+Soon after, there was a rumor that Earl Ansaac was about to marry off his only daughter, Carmilla, to Baron Tawil, a General of the Imperial Army. At this time, Cecilion was so tempted to knock down the guards and take Carmilla away. However, he knew that he couldn’t bring happiness to her, as she would become a fugitive on the run. After careful thought, he realized that the love between a blood demon and a human could never be true and he thought it best to give up.
 
-On the wedding dawn, Cecilion left a rose and a letter with his name at Carmilla's window and turned away, not knowing Carmilla didn’t care about his nature—she loved him for who he was. After putting on a white wedding dress, Carmilla cut her wrist with a dagger and forfeited her life to Cecilion.
+The night was drawing to a close, and at dawn Carmilla was to marry Baron Tawil. But before the first light of dawn, Cecilion placed a rose and a letter with his name at Carmilla's window and turned away. But what Cecilion didn’t know was that his estranged lifestyle was not important to Carmilla and she didn't care if he was a Blood Demon or a human being. She loved Cecilion for who he was. After putting on the white wedding dress, Carmilla cut her wrist with a sharp dagger, forfeiting her life to her lover, Cecilion.
 
-Devastated, Cecilion visited and found Carmilla’s cold corpse at the funeral. In pain and regret, he could not live without her. As the new moon rose, he spread his wings, swept through the city and revived Carmilla with his own blood—at a price: Carmilla was transformed into a Blood Demon. To protect this eternal love, Cecilion vowed never to let anyone separate them.
+Giving up Carmilla made Cecilion feel terribly sad, and his life seemed to return to what it had been. After two lonely nights, Cecilion went to see Carmilla, from a distance.
 
-After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again—only the legend of the night remained. It was said that, when night came, Carmilla nestled in Cecilion's arms atop the tower of Castle Aberleen as if time had stood still.
+But when Cecilion arrived, he found Carmilla's cold corpse lying still at a solemn funeral. For a moment, looking at Carmilla's cold skin, Cecilion felt nothing but pain and regret, vaguely pouring into his chest. How could he live without Carmilla? As the new moon rose, Cecilion spread his wings and swept through the city in the cold night, taking away his love. He then, revived Carmilla to life, using his own blood; but that kind of power comes with a price. And so, Carmilla was forever transformed into a Blood Demon as well. To protect this eternal love, Cecilion decided that he would never let anyone separate them.
 
-Over time their bond grew stronger; Cecilion realized being a Blood Demon made no difference to Carmilla. They chose to turn away from their past, accepting endless wandering so they could stay together. Cecilion, who had hidden behind darkness since youth and found old-time fame meaningless, decided to share all his secrets with Carmilla. Fleeing with her put his hidden identity at risk. He faced a life of running from humans and Abyssal Demons. Having tolerated much, Cecilion could no longer accept oppression and would not remain silent in crises. He craved forgiveness from the Lord of Light, but if threatened, he would worship the pool of blood with those ready to kill him and his lover.
+After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again. Only the legend of the night, which passed from mouth to mouth over time. It was said, when the night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time had stood still.
 
-Every detail of their life embodied their love. To keep Earl Ansaac from discovering them and to avoid Abyssal interference, they disguised themselves as ordinary humans to fit into society. Accidents happened: when their identities were discovered, Cecilion killed every single one who knew the truth. It is believed that, once Cecilion unleashes his true Blood Demon power, no human or Abyssal Demon could escape.
+As time scurried by, their bond grew stronger and Cecilion realised that being a Blood Demon made no difference to Carmilla. She loved him for who he was and would always remain her beloved. However, the betrayal of the Blood Demons and the hatred of humans, forced Cecilion and Carmilla to choose a path, of turning back from their past. Endless vagrancy and wandering awaited, but at least, they were destined to stay with each other, wherever they went.
 
-## Absolute Silence
+Since his youth, Cecilion had always chose to hide behind the darkness and stay away from the crowd. Leaving all the cheers, chanting and popularity behind, the old-time fame felt unusually meaningless. His identity as a Blood Demon, had constantly restrained him from opening his mind to humans. However, now, he had decided to share every one of his secrets with the one whom he loved. Fleeing away with Carmilla, meant his identity, which he had been trying so hard to conceal, was in the danger of being revealed. What remained for him, was a life of running away, from both Humans and Abyssal Demons. Cecilion, who had already tolerated a lot, throughout his life, could no longer accept any oppression, determined not to remain silent at the time of crisis, anymore. He craved for the forgiveness of the Lord of Light, however, in the face of those getting ready to kill him and his lover, Cecilion would definitely worship the pool of blood, with them.
 
-Main: Absolute Silence
+Every detail in their life, embodied their love. With love, Cecilion believed he could endure anything and everything. To keep Carmilla's father, Earl Ansaac, from discovering the truth of their deep love and to avoid the interference of the Abyssal Demons, they had to disguise themselves as ordinary human beings and fit into the human society. However, accidents happen. Once, due to unavoidable circumstances, their identities were discovered, and Cecilion had to kill every single one, who knew the truth. It is believed that, once Cecilion unleashes his true power of Blood Demon, no one, be it Abyssal Demons or humans, could even dream of escaping.
 
-## Abilities
+# Abilities
 
-### Passive
+## Overflowing
 
-Formula: extra mana = 10 × no. of stacks
+- Formula: Extra Mana = 10 × no. of stacks
 
-- Tags / terms: Max Mana; Mana; Cooldown; Mana Regen; Overflowing; Extra Mana
-- Overflowing (passive / buff): Cecilion increases his [Max Mana] by 10 per stack and restores the same amount when his skill hits an enemy target. Cooldown: 1 second. Cecilion has higher [Max Mana] and [Mana Regen], and his skill damage scales with his [Max Mana]. Extra Mana increments: {10, 20, 30, …, 999990}. Notes: Cecilion can gain up to 99,999 stacks, for which he can gain up to 999,990 extra mana at full stacks.
+- Max Mana
 
-### Skill 1 — Bat Impact
+- Mana
 
-- Type: Magic Skill (AoE, Speed Up)  
-- Cooldown: 1.5 s  
-- Mana cost: 75  
-- Damage:
-  - Base Damage (on hit): 100 / 130 / 160 / 190 / 220 / 250
-  - Destination Damage: 200 / 260 / 320 / 380 / 440 / 500
-- Description: Cecilion orders a giant bat to dive in a designated direction, dealing damage to enemies on the path. The giant bat stays at its destination and launches another attack, dealing damage to enemies and triggering an extra hit 1 time. For 6 seconds, every time Cecilion casts this skill, the mana cost will be increased by 1.8× (capped at 4×). While casting this skill, he gains 30% movement speed for 1 second.
-- Notes: This skill can trigger for a maximum of 3 times in a single cast.
+- Cooldown
 
-(Scaling entries in templates also show alternative MP/mana data: e.g., base 100–250, total-mp 80, total-mana 5; and another scaling entry base 200–500, total-mp 160, total-mana 10.)
+- Max Mana
 
-### Skill 2 — Sanguine Claws
+- Mana Regen
 
-- Type: Magic Skill (CC, AoE; pull, immobilizing)  
-- Cooldown: 12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0 s  
-- Mana cost: 95 / 100 / 105 / 110 / 115 / 120  
-- Damage: Base Damage: 200 / 220 / 240 / 260 / 280 / 300  
-- Description: Cecilion summons a pair of claws in a designated location. After a short delay, the claws move toward each other and enemies along the way to the center, dealing damage and immobilizing them for 1 second.
+- Max Mana
 
-(Scaling entry: base 200–300, total-mp 45, total-mana 1.2.)
+- Overflowing
 
-### Ultimate — Bats Feast
+- Extra Mana
 
-- Type: Magic Skill (Burst, Speed Up)  
-- Cooldown: 44.0 / 41.0 / 38.0 s  
-- Mana cost: 150 / 200 / 250  
-- Base Damage: 35 / 40 / 45 (per bolt)  
-- HP Regen: 10 / 12.5 / 15  
-- Description: Cecilion unleashes Blood Demon power for 6 seconds, increasing his movement speed by 60% (decaying rapidly over 1.5 seconds) and gaining immunity to slow effects. Meanwhile, he shoots 40 bolts of blood energy at nearby enemies, each dealing damage and slowing them by 3% (up to 30%) for 1 second. Hitting an enemy heals him for 10 HP and 1% of his [Max Mana] (or related stat).
-- Slowing effect values: {3%, 6%, 9%, 12%, 15%, 18%, 21%, 24%, 27%, 30%}  
-- Notes: Cooldown starts after casting this skill.
+Cecilion increases his Max Mana by 10 per stack and restores the same amount of Mana when his skill hits an enemy target. Duration: 1 second. Cecilion has higher Max Mana and Mana Regen, and his skill damage scales with his mana.
 
-## Other
+- Extra Mana per stack: {10, 20, 30, …, 999990}
 
-Formulas:
-- shield = 200 + (20 × Carmilla's level)  
-- magic damage = 200 + (20 × Carmilla's level)
+Notes: *Cecilion can gain up to 99999 stacks, for which he can gain up to 999990 extra mana at full stacks.
 
-Moonlit Waltz
-- Type: Magic Skill (Shield, Slowed)  
-- Cooldown: 20.0 s  
-- Description: When Carmilla is nearby, Cecilion can call her into a possessed state by him for 5 seconds, providing a shield that scales with Carmilla's level. Carmilla can select a target place to land, gaining an equal shield, dealing magic damage (scales with her level) within the area of effect, and slowing enemies by 30% for 1 second.
-- Base Shield / Magic Damage (levels): 220 / 240 / 260 / 280 / 300 / 320 / 340 / 360 / 380 / 400 / 420 / 440 / 460 / 480 / 500
-- Notes: Cecilion will be unable to use this if an allied [unit] bought a [item] in the Shop. Carmilla's non-Ultimate skills' cooldowns reset after she casts this skill.
+## Bat Impact
 
-Other entries / tags:
-- Carmilla (ally/partner)
-- Vermeil Shadow / Vermil Shadow
-- Moonlit Waltz, Broken Heart (abilities/themes)
-- Scaling entries show base 220–500 for shield and md.
+Cecilion orders a giant bat to dive in a designated direction, dealing magic damage to enemies on the path. The giant bat will stay at its destination and launch another attack, dealing magic damage to enemies and triggering an extra hit 1 time. In 6 seconds, every time Cecilion casts this skill, the mana cost will be increased by 1.8 time(s) (capped at 4 times). While casting this skill, he also gains 30% Movement Speed for 1 second.
 
-## Trivia
+- Base Damage: 100 / 130 / 160 / 190 / 220 / 250
+- Destination Damage: 200 / 260 / 320 / 380 / 440 / 500
+- Mana Cost (examples / scaling): 75 / 135 / 245 / 445 / 800
 
-- Cecilion is the only hero whose skills scale with magic power and mana (magic power; mana).  
-- Cecilion's Starlight Skin "Stargazer" and Collector Skin "Crimson Wings" are the only skins that have no counterpart to Carmilla (Carmilla).
+Notes: *This skill can trigger for a maximum of 3 times in a single cast.
+
+## Sanguine Claws
+
+Cecilion summons a pair of claws in a designated location. After a short delay, the claws will move toward each other and enemies along the way to the center, dealing magic damage and immobilizing them for 1 second.
+
+- Base Damage: 200 / 220 / 240 / 260 / 280 / 300
+- Effect: Immobilized for 1 second
+
+(This skill pulls enemies toward the center and applies crowd control.)
+
+## Moonlit Waltz
+
+When Carmilla is nearby, Cecilion can call her into a possessed state by him for 5 seconds, providing a shield that scales with Carmilla's level. Carmilla can select a target place and land there, gaining an equal shield, dealing magic damage (scales with her level) within the area of effect, and slowing enemies down by 30% for 1 second.
+
+- Base Shield, Magic Damage (by level): 220 / 240 / 260 / 280 / 300 / 320 / 340 / 360 / 380 / 400 / 420 / 440 / 460 / 480 / 500
+
+Notes:
+- Cecilion will be unable to use this if an allied hero bought a specific item in the Shop.
+- Carmilla's non-Ultimate skills' cooldowns will reset after she casts this skill.
+
+## Bats Feast
+
+Cecilion unleashes Blood Demon power for 6 seconds, increasing his Movement Speed by 60% (decaying rapidly over 1.5 seconds) and gaining a Regen Effect. Meanwhile, he shoots 40 bolts of blood energy at the enemies nearby, each dealing magic damage and slowing them by 3% (up to 30%) for 1 second. Hitting an enemy heals him for 10 and 1% of his current mana.
+
+- Base Damage per bolt: 35 / 40 / 45
+- HP Regen: 10 / 12.5 / 15
+- Slowing Effect per bolt: {3%, 6%, 9%, 12%, 15%, 18%, 21%, 24%, 27%, 30%}
+
+Notes: *Cooldown starts after casting this skill.
+
+# Trivia
+
+- Cecilion is the only hero whose skills scales with magic power and mana.
+- Cecilion's Starlight Skin "Stargazer" and Collector Skin "Crimson Wings" are the only skins that has no counterpart to Carmilla

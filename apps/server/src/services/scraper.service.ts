@@ -3,7 +3,7 @@ import path from "node:path";
 import wtf from "wtf_wikipedia";
 import TurndownService from "turndown";
 import { openai } from "@ai-sdk/openai";
-import { generateText } from "ai";
+import { generateObject, generateText, jsonSchema } from "ai";
 import type {
 	WikiHTMLResponse,
 	WikiJSON,
@@ -11,6 +11,7 @@ import type {
 	WikiSection,
 } from "@/types/scraper.types";
 import { mlDbService } from "@/services/ml/ml-db.service";
+import type { AiMarkdownResponse } from "@repo/database";
 
 class WikiScraper {
 	private readonly jsonDefaultQuery = {
@@ -34,8 +35,206 @@ class WikiScraper {
 		"references",
 	]);
 
-	private readonly markdownSystemPrompt =
-		"Turn the JSON input into markdown document. Do not embed image links. Format dialogs for characters as quote blocks";
+	private readonly markdownSystemPrompt = `
+		Turn the JSON input into markdown document. Do not embed image links. Format dialogs for characters as quote blocks
+		
+		YOU ARE NOT ALLOWED TO USE THE FOLLOWING SYMBOLS: '{', '}', "="
+		
+		Split up the content into the following sections
+		* Profile
+		* Story
+		* Bio
+		* Side Story
+			* Title each section of the side story meaningfully
+		* Abilities
+			* Abilities's subsections
+		* Trivia (MUST HAVE)
+			
+		RULES:
+		
+		* To start a section, the title should start with "# {title is here}"
+		* To start a subsection, the subtitle should start with "## {subtitle is here}"
+		* To start a section under the subsection, the trend will continue with "### {text here}"
+		`;
+
+	private schema = jsonSchema({
+		$schema: "https://json-schema.org/draft/2020-12/schema",
+		$id: "https://example.com/mlbb-hero.schema.json",
+		type: "object",
+		additionalProperties: false,
+		unevaluatedProperties: false,
+
+		properties: {
+			name: {
+				type: "string",
+				description: "Canonical hero name, e.g., 'Miya'.",
+				examples: ["Miya", "Lapu-Lapu", "Brody"],
+			},
+
+			profile: { $ref: "#/$defs/markdownBlock" },
+			story: { $ref: "#/$defs/markdownBlock" },
+			bio: { $ref: "#/$defs/markdownBlock" },
+
+			side_story: {
+				type: "object",
+				additionalProperties: false,
+				properties: {
+					chapters: {
+						type: "array",
+						description: "Side story chapters, each a titled Markdown section.",
+						minItems: 1,
+						items: {
+							type: "object",
+							additionalProperties: false,
+							properties: {
+								title: { type: "string", description: "Meaningful chapter title." },
+								content: { $ref: "#/$defs/markdownBlock" },
+							},
+							required: ["title", "content"],
+						},
+					},
+				},
+				required: ["chapters"],
+			},
+
+			abilities: {
+				type: "array",
+				description: "Structured ability breakdown with full Markdown details.",
+				minItems: 3,
+				maxItems: 6,
+				items: {
+					type: "object",
+					additionalProperties: false,
+					properties: {
+						slot: {
+							type: "string",
+							enum: ["Passive", "Skill 1", "Skill 2", "Skill 3", "Morph", "Ultimate"],
+						},
+						name: { type: "string" },
+						cooldown: { type: "number", minimum: 0, description: "Seconds; 0/omit for passives." },
+						cost: { type: "number", minimum: 0, description: "Mana/energy cost; omit if N/A." },
+						role: {
+							type: "string",
+							enum: ["Damage", "Control", "Mobility", "Defense", "Utility"],
+							description: "Primary function.",
+						},
+						details: { $ref: "#/$defs/markdownBlock" },
+					},
+					required: ["slot", "name", "details"],
+				},
+			},
+
+			trivia: {
+				type: "array",
+				description: "Fun facts. Each item can be a line or a small Markdown paragraph.",
+				minItems: 1,
+				items: { $ref: "#/$defs/markdownBlock" },
+			},
+		},
+
+		required: ["name", "profile", "story", "bio", "side_story", "abilities", "trivia"],
+
+		$defs: {
+			markdownBlock: {
+				type: "object",
+				additionalProperties: false,
+				properties: {
+					markdown: {
+						type: "string",
+						description:
+							"Full Markdown content. Use clear headings, paragraphs, and formatting as needed. No need to be brief.",
+					},
+				},
+				required: ["markdown"],
+			},
+		},
+	});
+
+	private SYSTEM_PROMPT = `
+	You are formatting source content into structured Markdown sections — not rewriting it.
+
+	Guidelines:
+	- Preserve the original tone, voice, and phrasing of the content. Do NOT change point of view or retell it in your own words.
+	- Do NOT add introductory sentences like "According to the lore..." or "This hero is known for...".
+	- If the input already contains Markdown formatting (headings, lists, etc.), keep it as-is and organize it neatly.
+	- If content clearly belongs to a field (Profile, Story, Bio, etc.), place it there — but do not merge unrelated sections together.
+	- If there is side story content, make sure that each chapter that you divide is given meaningful title.
+	- Do NOT invent, summarize, or narrate. Just cleanly organize the existing information into the correct fields.
+	- ❌ **Never include irrelevant metadata such as "Gallery:", image file paths, redirects, external links, file thumbnails, wiki references, or source citations.** These must be dropped entirely.
+	- ❌ **Omit fields like 'Birthday', 'Quote', or 'Gallery' unless they are explicitly part of the narrative text itself.**
+	- If a field has no relevant content, leave it empty ("").
+	- Always return a valid JSON object that matches the provided schema.
+
+	⭐ Paragraph Construction (CRITICAL):
+	- **Group related sentences into proper paragraphs.** Only create a new paragraph when the topic, scene, time, or speaker shifts significantly.
+	- Story and Bio sections should read like natural prose with logical paragraph breaks, NOT like a bulleted timeline with each sentence on its own line.
+	- Profile sections can use lists for structured data (name, species, abilities, etc.), but introductory/contextual sentences should be grouped into paragraphs.
+
+	⭐ Side Story Chapter Titles:
+	- Use **concise, meaningful titles** for each chapter without repeating the side story name.
+	- If the source has chapter names like "Time of Lunar Eclipse — Part One: The Beginning", extract only the meaningful part: "The Beginning" or "Chapter One: The Beginning".
+	- Avoid redundancy. Don't repeat the side story title in every chapter heading.
+
+	❌ BAD (repetitive):
+	## Time of Lunar Eclipse — One: Moonless Night
+	## Time of Lunar Eclipse — Two: Journey Out
+	## Time of Lunar Eclipse — Three: Farewell at the Edge
+
+	✅ GOOD (concise):
+	## Moonless Night
+	## Journey Out
+	## Farewell at the Edge
+
+	Alternative (if numbering adds clarity):
+	## Chapter One: Moonless Night
+	## Chapter Two: Journey Out
+
+	❌ BAD (each sentence as separate paragraph):
+	Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies.
+
+	She saw how the Abyss defiled the Shadow Swamp.
+
+	It was not until the Moon Goddess created the Lunar Aegis that the Moon Elves were able to thrive.
+
+	✅ GOOD (related sentences grouped):
+	Born at the end of the Era of Strife, Miya bore witness to the unspeakable tragedies that befell the elves during the Endless War. She saw how the Abyss defiled the Shadow Swamp and corrupted many of her people into Dark Elves. It was not until the Moon Goddess created the Lunar Aegis over Azrya that the Moon Elves were able to thrive again under its protection.
+
+	⭐ Dialogue Formatting (CRITICAL):
+	- **ALL spoken dialogue** in Story, Bio, and Side Story sections MUST use Markdown blockquote format (\`>\`). Never use inline quotes like "text" for dialogue.
+	- Each line of dialogue gets its own blockquote line starting with \`>\`.
+	- To visually separate different speakers or dialogue beats, add a blank line between blockquote lines.
+	- After dialogue ends, return to regular narrative prose (no \`>\`).
+
+	❌ BAD (inline quotes):
+	"Run! Get out of the forest!" Miya heard the desperate cries, and before she could act, most of her people were already fleeing in panic.
+
+	✅ GOOD (blockquote format):
+	> "Run! Get out of the forest!"
+
+	Miya heard the desperate cries, and before she could act, most of her people were already fleeing in panic.
+
+	Example with conversation:
+	> "What is war, brother?"
+
+	> "When the races of the Land of Dawn turned on one another instead of embracing unity and mutual prosperity, that is war."
+
+	> "Peace, benevolence, and purity... is that your wish for the world?"
+
+	Estes did not reply. The outstretched branches of the Tree of Life wrapped around him, and he fell back into deep slumber.
+
+	⭐ Abilities Formatting:
+	- If numerical data (damage values, cooldowns, costs) is missing or uses placeholder text like "{{damage}}" or blank spaces, write a descriptive placeholder like "damage based on level and stats" or "scaling damage".
+	- **Never leave incomplete phrases** like "deals to the target" or "healing for seconds".
+	- Include all relevant details: cooldown, mana cost, damage type, effects, scaling values if available.
+	- Use simple, clean markdown lists with \`-\` or \`*\` for bullets. **Never use special characters like \`•\` or \`◦\`**.
+	- Avoid over-structuring with subsections like "Effect summary:", "Stats and scaling:", "Additional notes:". Just use natural paragraphs and lists.
+	- Don't repeat information. If something is mentioned in the description, don't restate it again later.
+
+	⭐ Markdown Syntax Only:
+	- **ONLY use standard markdown syntax**: \`#\` for headings, \`-\` or \`*\` for lists, \`>\` for blockquotes, \`**bold**\`, \`*italic*\`.
+	- **NEVER use special characters** like \`•\`, \`◦\`, \`→\`, \`▪\`, or other Unicode symbols for formatting.
+	- Keep formatting clean and simple.
+	`;
 
 	private buildQuery(titles: string) {
 		return { ...this.jsonDefaultQuery, titles };
@@ -244,15 +443,11 @@ class WikiScraper {
 					const prompt = JSON.stringify(JSON.parse(fileContents), null, 2);
 
 					// generateText from openai to get the markdown format
-					const ai_response = await generateText({
-						model: openai("gpt-5-mini"),
-						system: this.markdownSystemPrompt,
-						prompt,
-					});
+					const markdown = await this.getAiMarkdown(prompt);
 
 					// write to file
 					const outputPath = path.join(outputDir, `${path.basename(filename, ".json")}.md`);
-					await fs.promises.writeFile(outputPath, ai_response.text, "utf-8");
+					await fs.promises.writeFile(outputPath, markdown, "utf-8");
 				} catch (error) {
 					console.error(`Failed to process ${filename}: `, error);
 				}
@@ -262,7 +457,7 @@ class WikiScraper {
 		await Promise.all(workers);
 	}
 
-	async updateHeroMarkdown(title: string) {
+	async updateHeroMarkdown(title: string): Promise<string> {
 		const normalizedTitle = this.normalizeTitle(title);
 		const query = this.buildQuery(normalizedTitle);
 		const wikiMarkup = await this.fetchWikiMarkup(query);
@@ -280,11 +475,7 @@ class WikiScraper {
 			fs.promises.mkdir(markdownDir, { recursive: true }),
 		]);
 
-		const ai_response = await generateText({
-			model: openai("gpt-5-mini"),
-			system: this.markdownSystemPrompt,
-			prompt,
-		});
+		const markdown = await this.getAiMarkdown(prompt);
 
 		const fileBase = normalizedTitle.toLowerCase();
 		await Promise.all([
@@ -293,10 +484,84 @@ class WikiScraper {
 				JSON.stringify(sections, null, 2),
 				"utf-8",
 			),
-			fs.promises.writeFile(path.join(markdownDir, `${fileBase}.md`), ai_response.text, "utf-8"),
+			fs.promises.writeFile(path.join(markdownDir, `${fileBase}.md`), markdown, "utf-8"),
 		]);
 
-		return ai_response.text;
+		return markdown;
+	}
+
+	private async getAiMarkdown(markup_content: string) {
+		const object_response = await generateObject({
+			model: openai("gpt-5-mini"),
+			schema: this.schema,
+			messages: [
+				{ role: "system", content: this.SYSTEM_PROMPT },
+				{ role: "user", content: markup_content },
+			],
+		});
+
+		const ai_response = object_response.object as AiMarkdownResponse;
+
+		let markdown: string = "";
+		markdown += this.appendFront("#", ai_response.name);
+		markdown += this.appendSection("#", "Profile", ai_response.profile.markdown);
+		markdown += this.appendSection("#", "Story", ai_response.story.markdown);
+		markdown += this.appendSection("#", "Bio", ai_response.bio.markdown);
+		if (ai_response.side_story && ai_response.side_story.chapters.length > 0) {
+			markdown += this.appendFront("#", "Side Story");
+			for (const chapter of ai_response.side_story.chapters) {
+				markdown += this.appendSection("##", chapter.title, chapter.content.markdown);
+			}
+		}
+		if (ai_response.abilities && ai_response.abilities.length > 0) {
+			markdown += this.appendFront("#", "Abilities");
+			for (const ability of ai_response.abilities) {
+				markdown += this.appendSection("##", ability.name, ability.details.markdown);
+			}
+		}
+		if (ai_response.trivia && ai_response.trivia.length > 0) {
+			markdown += this.appendFront("#", "Trivia");
+			for (const trivia of ai_response.trivia) {
+				markdown += `- ${trivia.markdown}\n`;
+			}
+		}
+
+		return markdown;
+	}
+
+	private appendFront(append: string, text: string): string {
+		return `${append} ${text}\n\n`;
+	}
+
+	private appendSection(append: string, title: string, markdown: string): string {
+		let content: string = "";
+		content += this.appendFront(append, title);
+		content += markdown + "\n\n";
+		return content;
+	}
+
+	async getHeroPages() {
+		const response = await fetch(
+			`https://mobile-legends.fandom.com/api.php?action=query&list=categorymembers&cmtitle=Category:Heroes&cmlimit=max&format=json&origin=*`,
+			{
+				headers: {
+					Accept: "application/json",
+					"User-Agent": "LoreOfDawn/1.0 (+https://loreofdawn.com; contact: hla.dev)",
+					Referer: "https://loreofdawn.com",
+				},
+			},
+		);
+
+		const data = (await response.json()) as {
+			query: {
+				categorymembers: {
+					pageid: number;
+					title: string;
+				}[];
+			};
+		};
+
+		return data.query.categorymembers;
 	}
 }
 

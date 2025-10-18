@@ -4,8 +4,8 @@ import GithubSlugger from "github-slugger";
 import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
 import { TableOfContents } from "../_components/table_of_content";
-
-export const dynamic = "force-dynamic";
+import { makeUrl } from "@/lib/utils.api";
+import type { WikiType } from "@repo/database";
 
 type WikiPageProps = {
 	params: Promise<{
@@ -15,15 +15,13 @@ type WikiPageProps = {
 
 export default async function WikiPage({ params }: WikiPageProps) {
 	const resolvedParams = await params;
-	const heroParam = resolvedParams.hero.toLowerCase();
+	const hero_name = resolvedParams.hero.toLowerCase();
 
-	if (!heroParam) {
+	if (!hero_name) {
 		notFound();
 	}
 
-	const response = await fetch(`/api/wiki/${encodeURIComponent(heroParam)}`, {
-		cache: "no-store",
-	});
+	const response = await fetch(makeUrl(`/v1/wikis/${hero_name}`));
 
 	if (response.status === 404) {
 		notFound();
@@ -33,7 +31,7 @@ export default async function WikiPage({ params }: WikiPageProps) {
 		throw new Error("Failed to load wiki data");
 	}
 
-	const wikiRecord = (await response.json()) as { markdown: string };
+	const wikiRecord = (await response.json()) as WikiType;
 
 	let markdown = wikiRecord.markdown;
 

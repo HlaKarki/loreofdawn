@@ -9,4 +9,4 @@ export const wikisTable = pgTable("wikis", {
 	updatedAt: timestamp("updated_at", { withTimezone: true }).defaultNow().notNull(),
 }).enableRLS();
 
-export type WikiType = typeof wikisTable.$inferSelect;
+export type WikiTableType = typeof wikisTable.$inferSelect;

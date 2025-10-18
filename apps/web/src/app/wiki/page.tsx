@@ -2,33 +2,17 @@ import Link from "next/link";
 import { makeUrl } from "@/lib/utils.api";
 import type { MlHeroList } from "@repo/database";
 
-type HeroSummary = {
-	slug: string;
-	title: string;
-	pageId: number | string;
-};
-
 export const dynamic = "force-dynamic";
-// export const revalidate = 300;
-
-// export async function generateStaticParams() {
-// 	// Pre-build top 30 heroes at build time
-// 	const response = await fetch(makeUrl("/heroes/list/all"));
-// 	const heroes = (await response.json()) as MlHeroList[];
-// 	return heroes.slice(0, 10).map((h) => ({
-// 		hero: h.url_name,
-// 	}));
-// }
 
 export default async function WikiIndexPage() {
-	const response = await fetch(`/api/heroes`);
+	const response = await fetch(makeUrl("/v1/heroes/list/all"));
 
 	if (!response.ok) {
 		throw new Error("Failed to load heroes");
 	}
 
-	const heroes = (await response.json()) as HeroSummary[];
-	const sortedHeroes = heroes.sort((a, b) => a.title.localeCompare(b.title));
+	const heroes = (await response.json()) as MlHeroList[];
+	const sortedHeroes = heroes.sort((a, b) => a.display_name.localeCompare(b.display_name));
 
 	return (
 		<div className="mx-auto flex w-full max-w-5xl flex-col gap-6 px-4 pb-16 pt-10 sm:px-6 lg:px-8">
@@ -40,14 +24,14 @@ export default async function WikiIndexPage() {
 			</header>
 			<ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
 				{sortedHeroes.map((hero) => (
-					<li key={hero.slug}>
+					<li key={hero.url_name}>
 						<Link
-							href={`/wiki/${encodeURIComponent(hero.slug)}`}
+							href={`/wiki/${encodeURIComponent(hero.url_name)}`}
 							className="block rounded-lg border border-border bg-card px-4 py-3 transition hover:border-amber-500 hover:bg-card/80"
 						>
-							<span className="text-lg font-medium">{hero.title}</span>
+							<span className="text-lg font-medium">{hero.display_name}</span>
 							<span className="mt-1 block text-xs uppercase tracking-wide text-muted-foreground">
-								{hero.slug}
+								{hero.url_name}
 							</span>
 						</Link>
 					</li>

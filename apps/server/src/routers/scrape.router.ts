@@ -6,8 +6,28 @@ import { wikiScraper } from "@/services/scraper.service";
 import { mlApiService } from "@/services/ml/ml-api.service";
 import { mlTransformService } from "@/services/ml/ml-transform.service";
 import { mlDbService } from "@/services/ml/ml-db.service";
+import { dbService } from "@/services/db/db.service";
 
 export const scrape = router({
+	getWikiValidPages: publicProcedure.query(async () => {
+		const db_heroes = await dbService.fetchHeroList();
+		const wiki_data = await wikiScraper.getHeroPages();
+
+		const db_names = db_heroes.map((hero) => hero.display_name.toLowerCase());
+		const set = new Set(db_names);
+
+		let valid_pages: { id: number; name: string }[] = [];
+
+		for (const wiki_pages of wiki_data) {
+			const normalized = wiki_pages.title.toLowerCase();
+			if (set.has(normalized)) {
+				valid_pages.push({ id: wiki_pages.pageid, name: wiki_pages.title });
+			}
+		}
+
+		return valid_pages;
+	}),
+
 	heroStory: publicProcedure
 		.input(z.object({ title: z.string().default("Miya") }))
 		.mutation(async ({ input }) => {
