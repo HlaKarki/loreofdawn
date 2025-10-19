@@ -1,118 +1,113 @@
-# Lore
+# Fanny
 
-## Infobox
-- Full name: Fanny Wertz  
-- Chinese name: 梵妮 (fànnī)  
-- Alias:
-  - Blade Dancer
-  - Lightborn Ranger
+# Profile
+
+- Full name: Fanny Wertz
+- Chinese name: 梵妮 (fànnī)
+- Alias: *Blade Dancer*; *Lightborn Ranger*
 - Origin: Imperial Sanctuary, Moniyan Empire
 - Age: 17
 - Species: Human
 - Gender: Female
-- Affiliation:
-  - Moniyan Empire
-  - Lightborn
-  - The Abyss (hostile)
-- Weapons:
-  - Soaring Blades
-  - Steel cable (see Skill 2)
+- Affiliation: Moniyan Empire; Lightborn; The Abyss (hostile)
+- Weapons: Soaring Blades; Steel cable
 - Battles fought: Invasion of Lumina City
-- Relationships: (older brother, Lightborn co-member: Tigreal; other Lightborn co-members and companions)
-- Voice actors:
-  - EN: Sandra Osborne (2020–)
-  - JA: Ono Saki (小野 早稀)
-  - ID: Mirna Haryati
+- Relationships: older brother Tigreal (Lightborn co-member); Lightborn co-members and companions
+- Voice actors: English: Sandra Osborne (2020–); Japanese: Ono Saki (小野 早稀); Indonesian: Mirna Haryati
 
 > "A blade dancer in the battlefield."
 
-Overview:
-Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.
+# Story
 
-## Biography (detailed)
 Fanny Wertz is the youngest daughter of the Wertz family and the youngest sister of Tigreal. Although the men of the Wertz family served in the army for generations and guarded the Moniyan Empire, the female members of the family were never allowed to join the army. From the perspective of the men in the family, their duty was to protect the country and family from threats, and women were to stay away from war.
 
-Ever since she was a child, Fanny had been asked to study painting and design art. The elders hoped she could become a famous artist or designer and help manage the family’s business, but Fanny regarded this as beneath her. Tigreal was her greatest hero; she hoped one day to fight on the front lines like him.
+Therefore, ever since she was a child, Fanny had been asked to study painting and design art. The elders of the family hoped that she could become a famous artist or designer, and help manage the family’s business. But Fanny regarded this as beneath her. From ever since she could remember, Tigreal was Fanny’s greatest hero. She also hoped that one day, like her brother, she could fight on the front lines for the Imperial Army and guard the empire.
 
-As she grew older, the active and rebellious Fanny became a nightmare for her tutor. She often ran away and had a soft spot for dancing with weapons. Smart and quick to learn, she still absorbed lessons rapidly. Tigreal showed extreme affection for her—each time he returned to Lumina City with the army, he would tell her battlefield stories and teach her fighting skills, further fueling her military aspirations. Tigreal, however, always refused to let her join the army because he did not want his only sister in danger. He promised that when Fanny turned 18 he would take her to the Light’s Order base to show her the life he led.
+After she grew older, the active and rebellious Fanny became a nightmare for her tutor. She was very tired of these old-fashioned classes. She often ran away for various reasons and had a soft spot for dancing with weapons: but Fanny was so smart that even though she was tired of her lessons, she was able to gain an understanding in very short time. Tigreal showed extreme affection to his rebellious sister. Each time Tigreal returned to the Lumina City for repair and maintenance with the army, it was Fanny’s happiest day, because Tigreal would not only tell her some peculiar anecdotes and thrilling battlefield stories from various places, but also teach her some useful fighting skills, which made Fanny yearn even more for the military life.
 
-Before that expedition could occur, news came from the front lines: though the battle against the frontier demons was won, Tigreal, leader of the Second Division of the Light’s Order, had left his ranks and disappeared. During a national celebration the Wertz family fell into crisis—rumors painted Tigreal as a deserter, discrediting the once-famous family. Torn between her love for Tigreal and the rumors, Fanny resolved: her brother was no coward, and she would stand up to revitalize the family's honor.
+However, Tigreal firmly refused Fanny’s desire to join the army as he always did. He did not want his only sister to be in danger.
 
-Despite fierce opposition from her mother and elders, Fanny joined the army to protect her brother’s and the Wertz family’s dignity. Life in the barracks was far harsher than she expected; she faced laughter and derision and had to endure heavy training and poor conditions. She cut off her long hair, doubled her training efforts, and passed recruitment tests, joining the scout unit of the Imperial Garrison.
+Out of love for his younger sister, Tigreal promised that when Fanny turned 18, he would take her to the base of the Light’s Order to show her what it was like, so this expedition had special meaning for both Tigreal and Fanny. However, just as Fanny was awaiting the triumphant return of her brother day and night, some news came from the front lines: Although the battle against the frontier demons was won, Tigreal, who lead the Second Division of the Light’s Order, had left his ranks for unknown reasons and disappeared.
 
-Over the years she transformed through scouting missions across cliffs and difficult terrain. Combining Tigreal’s lessons with her design training, she built a pair of long swords with steel cables: pulling a trigger shoots cables that grapple obstacles and pull her toward them. After endless practice she mastered the blades and used them to traverse cliffs and completes missions, winning respect. Soldiers nicknamed her the “Blade Dancer” for her graceful aerial maneuvers.
+While the empire was holding a national celebration, the Wertz family entered a crisis. For a time, deserters and cowards replaced heroes and commanders, and these words became synonymous with Tigreal. The Wertz family, once famous throughout Moniyan, was discredited. On the one hand, she worshiped her beloved brother, and the other hand, there were overwhelming rumors. In the face of all this, Fanny fell into confusion, but after the confusion, she told herself in her heart: my brother is no coward, let alone a deserter. In his absence, I must stand up and revitalize the glory of the Wertz family.
 
-Her performance earned her selection into the Light’s Order. Tigreal, having returned from the Northern Vale, praised her achievements and invited her to fight by his side. Travelers who see a figure flying swiftly among mountains and forests may well have glimpsed Fanny’s graceful form.
+Afterwards, despite the fierce opposition from her mother and other elders, Fanny resolutely chose to join the army. She wanted to use her actions to protect the dignity of her brother and the Wertz family. But it did not go as smoothly as she had imagined. When Fanny came to the barracks, she was greeted with laughter and derision: the soldiers were full of prejudice against this pampered noble lady, and life in the barracks was far more difficult than she imagined. The heavy training and lack of material conditions made it difficult for Fanny, who was used to a privileged life. For this reason, Fanny got rid of her long hair that she loved, devoted twice as much effort to training, and successfully passed the recruitment test. She was incorporated into the scout unit of the Imperial Garrison.
+
+Several years into her scouting career, Fanny had truly grown and transformed. As an imperial scout, Fanny often needed to roam between various steep mountains or other difficult terrain. In order to overcome her physical and strength shortcomings, she inconceivably learned from Tigreal, combining her fighting skills with the design knowledge she learned before by designing and building a pair of long swords with steel cables for herself. When she pulled the trigger, the steel cables would shoot from the hilt, grab on to the target, and pull Fanny over towards it. After endless practice, Fanny finally mastered the sword, and with it, she shuttled between the cliffs, gracefully skimming all kinds of difficult and complicated terrain, successfully completing her missions again and again. Her performance not only convinced those who were full of contempt and prejudice against her before, but also won her respect and prestige. For her graceful and exquisite figure as she danced through the air, the soldiers kindly called her the “Blade Dancer”.
+
+With her outstanding performance in the garrison, Fanny finally obtained the qualifications needed to be selected into the Light’s Order. Even more surprisingly, Tigreal, her older brother who had been away from the Moniyan Empire for many years, also returned to his homeland from the distant Northern Vale. Seeing what his sister had done for the family, Tigreal praised Fanny, believing that she had become a great warrior, and invited her to stay by his side and fight shoulder to shoulder.
+
+Travelers on the Land of Dawn, if you see a person flying by in the mountains and forests like a free bird, you must have seen Fanny’s graceful and swift figure.
+
+# Bio
+
+
 
 # Abilities
 
-## Passive — Air Superiority
-- (notes present: [speed unknown], [amount unknown], [duration unknown])
-- Name: Air Superiority (variations: The Aspirants / Attack on Titan)
-- Effects:
-  - During fights, Fanny deals 10%–20% extra damage to enemies hit (scales with flying speed) and applies a stack of Prey Mark (up to 2 stacks) on each attack.
-  - Subsequent skill hits on marked enemy heroes restore energy: 7 energy per stack. (Energy restoration reduced if hitting multiple enemy heroes in a short time.)
+## Air Superiority
+
+- During fight, Fanny deals 10%–20% extra damage to enemies hit (scales with flying speed; exact scaling unknown) and applies a stack of Prey Mark to them (up to 2 stacks) on each attack.
+- Her subsequent skill hits on marked enemy heroes restore 7 energy per stack for her. The energy restoration is reduced if she hits multiple enemy heroes within a short period of time (exact reduction amount unknown and exact duration unknown).
 - Properties:
   - Energy Gain Per Prey Mark Stack: 8 / 16
 
-(Prey Mark / mark mechanics referenced in other abilities.)
+Note: Some numeric values and exact scaling are not specified in the source and are presented here as given.
 
-## Skill 1 — Tornado Strike
-- Type: AOE, Physical Damage Skill
-- Base damage: 300 / 348 / 396 / 444 / 492 / 540
-- Scaling: 80 PA (physical attack)
-- Cooldown: 3.5 / 3.3 / 3.1 / 2.9 / 2.7 / 2.5 s
+## Tornado Strike
+
+- Fanny whirls her blades, dealing physical damage to nearby enemies.
+- Base Damage by level: 300 / 348 / 396 / 444 / 492 / 540
+- Physical attack scaling: 80 total PA (as listed)
+- Cooldown by level: 3.5 / 3.3 / 3.1 / 2.9 / 2.7 / 2.5 seconds
 - Energy cost: 15
-- Description: Fanny whirls her blades, dealing physical damage to nearby enemies.
 
-## Skill 2 — Steel Cable
+Note: Damage values are listed per level as provided.
+
+## Steel Cable
+
+- Quote:
+
 > "No way I'm going on foot!"
 
-- Name: Steel Cable (variations: The Aspirants / Attack on Titan)
-- Type: Charge
-- Cooldown: 0.0
-- Energy cost: 17 / 16 / 15 / 14 / 13 / 12 (each successive cast reduces cost by 2)
-- Description:
-  - Fanny shoots a cable in a direction that pulls her to the first obstacle hit. She can cast this skill again within 2 seconds until her energy runs out. Each successive cast reduces the skill's energy cost by 2.
-  - Fanny automatically casts Tornado Strike upon hitting an enemy mid-flight, if she has sufficient energy.
-- Notes and special mechanics:
-  - "Obstacles" include map walls, terrains, summoned constructs, turrets, and certain domain borders.
-  - During flight:
-    - Fanny cannot manually cast other skills or basic attacks.
-    - The first Tornado Strike from a Steel Cable cast costs energy; subsequent attacks do not.
-    - Each Tornado Strike per Steel Cable cast is limited to once per target. Even though it appears AOE, a target already hit will not be damaged again by the same Tornado Strike sequence.
-  - Fanny is vulnerable for approximately 0.7 seconds during the first cable cast; the player loses control until grapple succeeds or the cable retracts. If at least one cable grapples successfully, Steel Cable can be cast consecutively within 2 seconds without delay; this window refreshes whenever a cable grapples an obstacle.
-  - During the consecutive cast window, Steel Cable cannot be disabled by immobilize.
-  - Tornado Strike from Steel Cable can hit invisible targets.
-  - Flight can be interrupted by hitting an opposing obstacle, being controlled by airborne/suppressed/displacement effects, and certain skills. All deployed cables return to Fanny if interrupted.
-  - Death replay treats Tornado Strike triggered by Steel Cable as damage dealt by Steel Cable when conditions are met.
-  - Following cables that grapple travel faster than the initial cast, giving more directional control.
-  - Tornado Strike animation/effects from Steel Cable differ slightly from the base Tornado Strike.
+- Fanny shoots a cable in the target direction that pulls her to the first obstacle hit. She can cast this skill again within 2 seconds until her energy runs out. Each successive cast reduces the skill's energy cost by 2. Fanny automatically casts upon hitting an enemy mid-flight, as long as her energy is sufficient.
+- Energy cost by level: 17 / 16 / 15 / 14 / 13 / 12
+- Term: Charge
 
-## Ultimate — Cut Throat
-- Name: Cut Throat (variations: The Aspirants / Attack on Titan)
-- Type: Burst / Blink, Physical Damage Skill
-- Cooldown: 35.0 / 30.0 / 25.0 s
-- Energy cost: 30
-- Base damage: 500 / 680 / 860
-- Extra damage: scales with Prey Mark stacks — each stack increases damage by 20% (properties note lists *Extra Damage Per Prey Mark Stack: 20% / 40%).
-- Scaling: +240 PA (extra physical attack)
-- Description: Fanny leaps to the target enemy hero or creep with her blades, dealing physical damage. Each stack of Prey Mark on the target increases this damage by 20%.
+Notes:
+- "Obstacles" includes: the walls of a map, terrains, summoned constructs, turrets, and the border of certain domains.
+- During flight:
+  - Fanny cannot manually cast the skill or basic attack.
+  - The first Tornado Strike from Steel Cable costs energy and the subsequent attacks will not.
+  - Each Tornado Strike for each Steel Cable cast is limited to one per target. Even though it appears to be an AOE, if Fanny initiates an additional Tornado Strike and opponents who have already received damage intersect with Fanny or the additional Tornado Strike, neither will damage the already damaged opponents. If a Tornado Strike hits more than one opponent, the limit is shared by all of them. To successfully attack the same target twice while in flight with Tornado Strike, Fanny must use another Steel Cable.
+- Fanny is vulnerable for approximately 0.7 seconds during the first steel cable cast; during the delay, the player is unable to control Fanny, including moving her via left joystick, casting basic attacks and casting her skills until the cable grapples successfully or if it fails and retracts back to Fanny. If at least one steel cable grapples successfully, Steel Cable can be cast consecutively within 2 seconds with its energy cost reduced and no delay; this duration can be refreshed indefinitely as long as Steel Cable grapples an obstacle within this duration.
+  - Additionally, during the two seconds consecutive cast, Steel Cable cannot be disabled by immobilize effects.
+- Tornado Strike from Steel Cable can still be triggered to targets who are invisible.
+- Her flight can only be interrupted by hitting an opposing obstacle, by being controlled by airborne, suppressed and displacement effects, or certain disabling skills. All of the deployed cables will go back to Fanny if she is interrupted.
+- According to replay records, the Tornado Strike triggered by Steel Cable (if conditions are met) is considered damage dealt by the skill Steel Cable.
+- The speed of following cables, if they are destined to grapple, are much faster than the initial cast. This allows the player to have more control of Fanny's direction.
+- Tornado Strike animation and special effects from Steel Cable are slightly visually different from the standard Tornado Strike.
+
+## Cut Throat
+
+- Fanny leaps at the target enemy hero or Creep with her blades, dealing physical damage.
+- Base Damage by level: 500 / 680 / 860
+- Extra Damage Per Prey Mark Stack: 20% / 40% (listed as scaling)
+- Each stack of Prey Mark on the target increases this damage by 20% (the source lists scaling values per rank).
+- Skill effects: Burst, Blink
+- Term: Physical Damage Skill
 - Notes:
-  - Casting the ultimate retracts any deployed cables back to Fanny.
+  - Casting this skill will make deployed cables retract towards Fanny.
 
-# Images
-- File: Profile_CN_Fanny.jpg
-- File: Punks_Wall.jpg
+Note: Damage scaling and the per-stack extra damage are presented as listed in the source; exact application per rank is provided above.
 
 # Trivia
-- Energy is a core resource for Fanny's kit.
-- Fanny is frequently associated with Claude.
-- Fanny's name could derive from "Fanny" (short for Frances or Stefanie) or from the Germanic word fannen, meaning "to capture" or "seize", matching her fast, aggressive playstyle.
-- Her surname "Wertz" is Germanic; possible origins include the Old English personal name Hwit ("the white one") or Middle High German "wert" ("river island" or "river bank").
-- Her appearance and fighting style resemble soldiers from Attack on Titan (進撃の巨人).
-- Fanny is rated the most difficult hero (100%) in hero difficulty ratings.
-- She was among the first heroes to use Steel Cable as a skill source.
-- She is the only hero without any form of crowd control in her kit (no slows or stuns).
-- Her "Skylark" skin is inspired by the skylark bird, known for high-speed flight and agility (Eurasian skylark).
-- Fanny has multiple couple skins; examples include "Lifeguard" and "Heart Afloat" in her romantic-themed skins set.
+
+- Fanny's name could be derived from the word "Fanny" (short for Frances or Stefanie), but it might also come from the Germanic word fannen, meaning "to capture" or "seize"—which matches her fast, aggressive playstyle.
+- Her surname "Wertz" is a popular Germanic surname, either derived the Old English personal name Hwit, meaning "the white one" or derived from the Middle High German word "wert" meaning "river island", or "river bank".
+- Fanny's appearance and fighting style resembles the soldiers in the Attack on Titan (進撃の巨人) series.
+- Fanny is the most difficult hero according to the hero difficulty rating with 100%, the highest of all heroes.
+- She is the first heroes to use as the skill source.
+- She is the only hero without any form of crowd control on her kit, not even a slowing effect.
+- Her skin "Skylark" is inspired to a type of bird skylark known for its high-speed flight and agility, perfectly matching Fanny’s fast, aerial combat style.
+- and Fanny are among the few heroes in Mobile Legends with multiple couple skins with Fanny's "Lifeguard" and "Heart Afloat" being part of her romantic-themed skins.

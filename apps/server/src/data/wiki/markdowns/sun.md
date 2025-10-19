@@ -1,39 +1,25 @@
-# Sun (悟空)
+# Sun
 
-Profile
+# Profile
+
 - Chinese name: 悟空 (wùkōng)
 - Origin: Cadia Riverlands
 - Species: Mountain spirit
 - Gender: Male
-- Title: Monkey King / Simian God
+- Title: Monkey King/Simian God
 - Weapons: Golden Staff
 - Traits: Stubborn, Unrestrained
-- Relationships: Li Li (deceased)
-- Voice actors:
-  - English: Christian Banas
-  - Japanese: Tsuji Kengo (辻井健吾)
-  - Indonesian: Sumardi
-  - Spanish: Raymundo Armijo
+- Relationships: *Li Li (deceased)*
+- Voice actors: Christian Banas (en), Tsuji Kengo (ja), Sumardi (id), Raymundo Armijo (es)
 
-## Story
+# Story
 
 > "The immortal Monkey King, resolute and unyielding like the mountain that bore him."
 
-Sun, the immortal mountain spirit born from a magical stone, roamed freely between heaven and earth until one day, when the cries of a group of pandas caught his attention. It was from them that he learned the existence of death.
+Sun, the immortal mountain spirit born from a magical stone, roamed freely between heaven and earth until one day, when the cries of a group of pandas caught his attention. It was from them that he learned the existence of death. While confused by this sudden revelation, he was mistaken by the pandas for the deity of the mountain. In particular, a small panda named Li Li became infatuated with Sun and devoted his days to picking peaches for the Monkey King. But when a flash flood struck the panda village one day, Li Li was lost to the torrents while looking for peaches. Sun arrived too late, and despite the pleas of the other pandas, he did not have the ability to bring his friend back from the dead. It was then that Sun experienced loss for the first time. Unable to comprehend his grief, he fell into a deep slumber.
 
-While confused by this sudden revelation, he was mistaken by the pandas for the deity of the mountain. In particular, a small panda named Li Li became infatuated with Sun and devoted his days to picking peaches for the Monkey King. But when a flash flood struck the panda village one day, Li Li was lost to the torrents while looking for peaches. Sun arrived too late, and despite the pleas of the other pandas, he did not have the ability to bring his friend back from the dead.
+Millennia passed, and many more would have passed by had Sun not been awakened by a battle between dragons. After slaying the Black Dragon and unknowingly saving the Cadia Riverlands, he asked the Silver Dragon about immortality and finding one's purpose. Instead of the answer he sought, the dragon gave him the name Sun and the task of being the guardian of the land. But what does that entail? Sun was once again lost in thought...
 
-It was then that Sun experienced loss for the first time. Unable to comprehend his grief, he fell into a deep slumber. Millennia passed, and many more would have passed by had Sun not been awakened by a battle between dragons.
-
-After slaying the Black Dragon and unknowingly saving the Cadia Riverlands, he asked the Silver Dragon about immortality and finding one's purpose. Instead of the answer he sought, the dragon gave him the name Sun and the task of being the guardian of the land.
-
-> "But what does that entail?"
-
-Sun was once again lost in thought...
-
-(Image: File:Profile_CN_Sun.jpg)
-
-## An Immortal Existence
 
 Before the cataclysmic upheaval awoke him, he had been slumbering for millennia.
 
@@ -45,13 +31,9 @@ He awoke to his true self now, a being born from the spiritual energy of the mou
 
 He gazed down upon the bustling scene beneath the tree, and memories of that small figure, a small panda named Li Li, stirred within him. In the eternity of his existence, this moment marked a brief yet meaningful interlude.
 
-In those times, he roamed freely amid the sprawling mountains between heaven and earth. The mysteries of both his origin and ultimate destination eluded him, yet an unparalleled sense of freedom enveloped him. It was only when a mournful lament fell upon his ears that he was drawn to the black and white creatures, who were grieving because of something they called "death".
+In those times, he roamed freely amid the sprawling mountains between heaven and earth. The mysteries of both his origin and ultimate destination eluded him, yet an unparalleled sense of freedom enveloped him. It was only when a mournful lament fell upon his ears that he was drawn to the black and white creatures, who were grieving because of something they called "death". What was this "death"? Intrigued by this mysterious entity, he cast a single fleeting glance, and thus unwittingly entangled himself in their story. In the narrative spun before him, the very essence of the mountain's spirit had congealed inside a stone, forming an immortal being-none other than himself, the great Monkey King.
 
-What was this "death"? Intrigued by this mysterious entity, he cast a single fleeting glance, and thus unwittingly entangled himself in their story. In the narrative spun before him, the very essence of the mountain's spirit had congealed inside a stone, forming an immortal being—none other than himself, the great Monkey King.
-
-Initially, he dismissed the disturbance and moved to another mountain peak, where he continued to rise in the early dew-soaked mornings, reveling in the seclusion of the mountains. However, a small creature deep within the forest wept ceaselessly, invoking the name of the Monkey King with persistent cries that echoed through the canopy, disrupting his peaceful solitude.
-
-Annoyed, yet curious, he parted the thick veil of the forest and came upon the source of the commotion—its small limbs were marred and worn from relentless toil. At that moment, their gazes intertwined, and a radiant glimmer flickered within the creature's eyes.
+Initially, he dismissed the disturbance and moved to another mountain peak, where he continued to rise in the early dew-soaked mornings, reveling in the seclusion of the mountains. However, a small creature deep within the forest wept ceaselessly, invoking the name of the Monkey King with persistent cries that echoed through the canopy, disrupting his peaceful solitude. Annoyed, yet curious, he parted the thick veil of the forest and came upon the source of the commotion—its small limbs were marred and worn from relentless toil. At that moment, their gazes intertwined, and a radiant glimmer flickered within the creature's eyes.
 
 Rescuing the creature and its kin from the roiling torrent was enough to virtually constitute an afterthought. These creatures were marked by an intractable stubbornness. Well aware of the merciless power of rivers flooding during the rainy season, they had nevertheless clung tenaciously to their meager homeland. The Monkey King had lived through eons and developed miraculous abilities that were akin to divinity. Amongst his many skills was the complete mastery of diverting rivers and building sanctuaries upon the cradling slopes. He imparted these skills not out of charity but solely out of a yearning for peace and quiet.
 
@@ -65,7 +47,7 @@ Despite the Monkey King's initial irritation, as days turned into seasons, he gr
 
 > "I know you are the great immortal Monkey King, but that's not your name, is it? Everything in this world still needs a name."
 
-It was most vexing indeed. The Monkey King moved to a higher mountain, and as expected, the mornings grew serene again. Yet, a peculiar longing began to stir within him. He found himself yearning for the once-disruptive commotion, eagerly awaiting the arrival of that little panda who would defy all odds to traverse the mountain forests. As the days passed by in silence, his longing only intensified. He was suddenly seized by the urge to seek out Li Li and ask him why it was that everything in the world must bear a name. It had become a maddening discomfiture that had taken root within him.
+It was most vexing indeed. The Monkey King moved to a higher mountain, and as expected, the mornings grew serene again. Yet, a peculiar longing began to stir within him. He found himself yearning for the once-disruptive commotion, eagerly awaiting the arrival of that little panda who would defy all odds to traverse the mountain forests. As the days passed by in silence, his longing only intensified. He was suddenly seized by the urge to seek out Li Li and ask him why was it that everything in the world must bear a name. It had become a maddening discomfiture that had taken root within him.
 
 However, upon his descent from the mountain, he once more heard those mournful wails. But this time, it was Li Li who had succumbed to what the pandas lamented as death. Three days earlier, the rain had caused another flood. The ferocious roar of the currents could not reach the far peaks, and when the river swept Li Li away, he was still clinging to a peach. In his final moments, he reassured his friends, unwavering in his conviction, that the Monkey King would surely come to his rescue, for there was nothing the Monkey King could not do.
 
@@ -79,7 +61,9 @@ Who was he? He didn't even have a name.
 
 > "Leave me be!"
 
-He sprinted forward, his mind consumed by the idea of death's permanence. He fled to the north. But where was he going? Where does one go after death?
+He sprinted forward, his mind consumed by the idea of death's permanence.
+
+He fled to the north. But where was he going? Where does one go after death?
 
 Then, a revelation struck him like a bolt of lightning—the path north pointed towards the very mountain of his birth. Did death mean that he would never see Li Li venture across the hills and rivers again?
 
@@ -91,9 +75,7 @@ His consciousness plunged back into the upheaval that had awoken him. It turned 
 
 > "Where'd this bothersome fly come from?"
 
-He defeated the dragon only to see the arrival of another, identical in appearance but silver instead of black. However, this one was not here to fight. The silver dragon began to explain what had happened while the Monkey King was asleep, and how the land had changed greatly over the ages. Throngs of refugees had fled the ravages of war and sought sanctuary here. The silver dragon appeared to be a guardian entrusted with their safety. However, a schism had torn through him and his brethren.
-
-For the sake of these mortals, the silver dragon had no choice but to quell his own kin, a sorrowful duty that had inadvertently caused a cataclysmic vortex in the northern sea. In light of this calamity, the silver dragon had resolved to pacify the tempest with his own body.
+He defeated the dragon only to see the arrival of another, identical in appearance but silver instead of black. However, this one was not here to fight. The silver dragon began to explain what had happened while the Monkey King was asleep, and how the land had changed greatly over the ages. Throngs of refugees had fled the ravages of war and sought sanctuary here. The silver dragon appeared to be a guardian entrusted with their safety. However, a schism had torn through him and his brethren. For the sake of these mortals, the silver dragon had no choice but to quell his own kin, a sorrowful duty that had inadvertently caused a cataclysmic vortex in the northern sea. In light of this calamity, the silver dragon had resolved to pacify the tempest with his own body.
 
 The Monkey King, who was now fully awake, listened half-heartedly while collecting his own thoughts. What was the meaning of existence for an immortal like himself? He still had not discovered the answer in all his slumber. But before him stood the silver dragon, seemingly sharing the same fate.
 
@@ -117,79 +99,63 @@ As the sea began to settle after the dragon's descent, Sun's heart too found a s
 
 After muttering to himself for a while, Sun settled back on the same rock. This time, he gazed up at the sky, as if he could hear a familiar voice. How he longed to see Li Li once more so he could finally tell him his name.
 
-## Abilities
+# Bio
 
-### Passive
 
-- Stats emphasized: HP, Physical Attack
-- Name: Simian God
-- Effects: Debuff, Heal
-- Description: Enemies hit by Sun and his Doppelgangers will have their Physical Defense reduced by 4% (stacks up to 10 times). Sun recovers equal to 50% of the Doppelganger's damage each time a Doppelganger deals damage.
-- Scaling (Physical Defense Reduction): 4% / 8% / 12% / 16% / 20% / 24% / 28% / 32% / 36% / 40%
-- Notes: Sun can only receive HP through his doppelgangers' basic attacks.
 
-### Skill 1
+# Abilities
 
-- Scaling: Base 200–400, Total PA 40
-- Tag: pd (Physical Damage)
-- AI tag: Swift Exchange
-- Name: Endless Variety
-- Effects: AOE
-- Description: Sun hurls his Golden Staff in the target direction, dealing physical damage to enemies in its path. Upon hitting an enemy hero or Creep, or reaching the maximum range, the Golden Staff morphs into a Doppelganger that lasts 5 seconds and inherits 40%–55% of Sun's attributes (and a portion of his Attack Effects). Endless Variety and its paired skill are learned and upgraded together and share the same cooldown.
-- Attack Effects: 40% / 43% / 46% / 49% / 52% / 55%
-- Cooldown: 10.0s
-- Mana cost: 70 / 80 / 90 / 100 / 110 / 120
-- Level-scaling (Attributes Inherited): 40% / 43% / 46% / 49% / 52% / 55%
+## Simian God
 
-### Skill 2
+- Enemies hit by Sun and his Doppelgangers will have their Physical Defense reduced by 4% (stacks up to 10 times).
+- Physical Defense Reduction by level: 4%/8%/12%/16%/20%/24%/28%/32%/36%/40%.
+- Sun recovers equal to 50% of the Doppelganger's damage each time a Doppelganger deals damage (healing scales with the Doppelganger's damage).
 
-- Scaling: Base 200–400, Total PA 40
-- Tag: pd (Physical Damage)
-- Name / AI tag: Swift Exchange
-- Effects: Mobility, AOE
-- Description: Sun hurls his Golden Staff in the target direction, dealing physical damage to enemies in its path. He conjures a Doppelganger at his location that lasts 5 seconds and inherits 40%–55% of his attributes (and a portion of Attack Effects), conceals himself, and moves with the Golden Staff. Sun reappears and retrieves the Golden Staff when it hits an enemy hero or reaches the maximum range.
-- Term: Physical Damage Skill
-- Attack Effects: 40% / 43% / 46% / 49% / 52% / 55%
-- Cooldown: 10.0s
-- Mana cost: 70 / 80 / 90 / 100 / 110 / 120
-- Level-scaling (Attributes Inherited): 40% / 43% / 46% / 49% / 52% / 55%
-- Notes: The projectiles will instead target the conjured doppelganger after Sun conceals himself.
+Notes:
+- Sun can only receive HP through his doppelgangers' basic attacks.
 
-### Skill 3
+## Endless Variety
 
-- Scaling: Base 170–320, Total PA 40
-- Tag: pd (Physical Damage)
-- Name: Instantaneous Move
-- Effects: Mobility, AOE
-- Description: Sun commands his Doppelgangers to strike at the target enemy with him, dealing physical damage to the target and enemies behind them. This counts as Basic Attack damage and can trigger Attack Effects but cannot Crit.
-- Term: Physical Damage Skill
-- Cooldown: 4.0s
-- Mana cost: 40 / 45 / 50 / 55 / 60 / 65
-- Level-scaling (Base Damage): 170 / 200 / 230 / 260 / 290 / 320
+- Type: Physical Damage Skill, AOE
+- Description: Sun hurls his Golden Staff in the target direction, dealing damage based on level and stats to enemies in its path. Upon hitting an enemy hero or Creep, or reaching the maximum range, the Golden Staff morphs into a Doppelganger that lasts 5 seconds and inherits 40%–55% of Sun's attributes (and a portion of his Attack Effects). Endless Variety and Swift Exchange are learned and upgraded together and share the same cooldown.
+- Attack Effects scaling: 40%/43%/46%/49%/52%/55%
+- Mana cost by level: 70 / 80 / 90 / 100 / 110 / 120
+- Attributes Inherited by level: 40% / 43% / 46% / 49% / 52% / 55%
 
-### Ultimate
+## Swift Exchange
 
-- Name: Clone Techniques
-- Effects: Summon
-- Quote: "No one can tell what's false and what's real."
-- Description: Sun summons a Doppelganger that lasts 12 seconds and inherits 70%–100% of his attributes and a portion (100%) of his Attack Effects. The Doppelganger takes increased damage.
-- Cooldown: 36.0 / 32.0 / 28.0s
+- Type: Physical Damage Skill, Mobility, AOE
+- Description: Sun hurls his Golden Staff in the target direction, dealing damage based on level and stats to enemies in its path. He conjures a Doppelganger at his location that lasts 5 seconds and inherits 40%–55% of his attributes (and a portion of Attack Effects), conceals himself, and moves with the Golden Staff. Sun reappears and retrieves the Golden Staff when it hits an enemy hero or reaches the maximum range.
+- Attack Effects scaling: 40%/43%/46%/49%/52%/55%
+- Mana cost by level: 70 / 80 / 90 / 100 / 110 / 120
+- Attributes Inherited by level: 40% / 43% / 46% / 49% / 52% / 55%
+
+Notes:
+- The projectiles would instead target the conjured doppleganger after Sun conceals himself.
+
+## Instantaneous Move
+
+- Type: Physical Damage Skill, Mobility, AOE
+- Description: Sun commands his Doppelgangers to strike at the target enemy with him, dealing damage based on level and stats to the target and enemies behind them. This counts as Basic Attack damage and can trigger Attack Effects but cannot Crit.
+- Base Damage by level: 170 / 200 / 230 / 260 / 290 / 320
+- Mana cost by level: 40 / 45 / 50 / 55 / 60 / 65
+
+## Clone Techniques
+
+> "No one can tell what's false and what's real."
+
+- Skill Effect: Summon
+- Description: Sun summons a Doppelganger that lasts 12 seconds and inherits 70%–100% of his attributes and a portion [100%] of his Attack Effects. The Doppelganger takes increased damage.
+- Duration: 12 seconds
+- Cooldown by level: 36.0 / 32.0 / 28.0
 - Mana cost: 0
-- Duration: 12s
-- Level-scaling (Attributes Inherited): 70% / 85% / 100%
+- Attributes Inherited by level: 70% / 85% / 100%
 
-## Battle emote
+# Trivia
 
-- File: Hehe.png
-- File: Happy_New_Year!2.png
-
-## Trivia
-
-- The classic inspiration for the character is Sun Wukong from the 16th Century Chinese novel Journey to the West. His staff and ability to summon clones are direct references to the mythological figure.
+- The classic inspiration for the character is Sun Wukong from the 16th Century Chinese novel: Journey to the West. His staff and ability to summon clones are direct references to the mythological figure.
 - His name came from a Chinese word which means "grandchild, or descendant".
-- Sun's older version was able to summon three clones (one from his [self] and two from his [ultimate?]), but the reworked one can only summon two clones (one from his [skill] and one from his [ultimate]).
+- Sun's older version was able to summon three clones, one from his and two from his, but the reworked one can only summon two clones, one from his and one from his.
 - When Sun's clones are defeated, they will rotate their staffs and despawn.
 - His internal name is Wukong.
 - His "Rock Star" skin is a visible nod to Elvis Presley.
-
-(End of document)

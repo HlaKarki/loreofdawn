@@ -1,23 +1,29 @@
-# Story
+# Johnson
 
-Infobox
+# Profile
+
+### Profile
+
 - Chinese name: 强森 (qiángshēn)
 - Alias: Wild Engine
 - Born: Planet Varis
 - Origin: Eruditio, Agelta Drylands
 - Age: 30
 
+### Base Defenses
+
+- Physical Defense (Lv. 1): 27
+- Physical Defense (Lv. 15): 139
+- Magic Defense (Lv. 1): 15
+- Magic Defense (Lv. 15): 71
+
+# Story
+
 > "A super cyborg who can transform into a car and lead his teammates into battle."
 
 Johnson was originally from a planet called Varis, where he worked as a delivery driver. On his world, auto racing was the most illustrious sport, but the major races were almost entirely monopolized by the rich and elite. One day, while on a routine delivery, Johnson became mixed up in a race and even managed to win first place March, to the dismay of the wealthy patrons. To punish this upstart, they plotted for him to have an accident. While driving home a speeding truck sidelined Johnson's car, mangling his body with the twisted steel of the wreck. Miraculously, he survived, and chose to be integrated with his car to create a cyborg body. After a successful operation, he had a roaring engine as his new heart, and began racing to satiate his need for speed. As Johnson raced to his heart's content, he kept going faster and faster until he triggered the slip-space device secretly built into his chassis and crossed into the Land of Dawn.
 
-Gallery (image filenames only; links omitted)
-- Johnson_Lethal_Nexus_Map_Profile.png
-- Johnson_Lethal_Nexus_Map_Background_Story.png
-- Johnson's_info_card.webp
-- (many other gallery entries were present but filenames or captions were empty or malformed; links omitted)
-
-# Lore
+# Bio
 
 Johnson was a legend on the world of Varis, a place where speed is everything. Here, the sport of auto racing was monopolized by the rich and elite until Johnson became the first commoner to shatter that mold. But just when he shocked the world by winning his first official race, he vanished without a trace.
 
@@ -71,113 +77,69 @@ Johnson, at this time, had just arrived on a strange new world. To him, this jus
 
 The roar of his engine echoed throughout Eruditio.
 
-Image (filename only; link omitted)
-- Johnson_lore.png
+# Side Story
 
-# Lethal Nexus
+## Plaza Circular Riot
 
-> "A car transformer and the member of Eruditio Rangers. At the final of \"Survival: Nexus\", a large number of Eruditio residents gathered at Plaza Circular to watch the game. Johnson and Chou maintain the order of the plaza together. After riot of the Iron Guardians, the Plaza Circular was thrown into chaos. Johnson and the others evacuated civilians while fighting with the Iron Guardians, but were outnumbered. They are in grave peril."
-
-Note: Eruditio's lore has been revamped on July 2023. (dated 11 December 2023)
-
-# Notes
-
-(No content provided.)
+> "A car transformer and the member of Eruditio Rangers. At the final of "Survival: Nexus", a large number of Eruditio residents gathered at Plaza Circular to watch the game. Johnson and Chou maintain the order of the plaza together. After riot of the Iron Guardians, the Plaza Circular was thrown into chaos. Johnson and the others evacuated civilians while fighting with the Iron Guardians, but were outnumbered. They are in grave peril."
 
 # Abilities
 
-(No top-level summary provided; abilities follow in sections below.)
+## Electro Airbag
 
-## Passive
+When Johnson's HP drops below 30%, he gains a shield for 10 seconds. Cooldown: 100.0 seconds.
 
-- Category: HP
-- Shield scale: base 300, total-pdef 700
-- Passive ability: Electro Airbag
-  - Variations: Transformers / Legend
-  - Skill effect: Shield
-  - Description: When Johnson's drops below 30%, he gains a  for 10 seconds. Cooldown: 100.0 seconds.
-  - (Note: source text contains a missing word after "gains a".)
+- Shield
+  - Base: 300
+  - Scales with total physical defense up to 700
 
-## Skill 1 — Impact Wrench
+## Impact Wrench
 
-- Damage scale: base 120–220, total-pdef 220 (listed as md)
-- Variations: Transformers / Legend
-- Skill effects: CC, AOE
-- Spellvamp ratio: 50%
-- Cooldown: 8.0s
-- Description: Johnson throws his wrench toward the target location, dealing to enemies in its path. Enemies around the landing point are stunned for 0.8 seconds.
-- Terms: Magic Damage Skill, Stun
-- Level scaling: Base Damage: 120 / 140 / 160 / 180 / 200 / 220
+Magic Damage Skill. Johnson throws his wrench toward the target location, dealing magic damage to enemies in its path. Enemies around the landing point are stunned for 0.8 seconds.
+
+- Level Scaling (Base Damage): 120 / 140 / 160 / 180 / 200 / 220
+- Effects: Stun (0.8s)
 - Notes: This skill is disabled when Johnson transforms into a car.
 
-## Skill 2 — Electromagnetic Waves / Nitrous
+## Electromagnetic Waves / Nitrous
 
-- Formula (creep damage): total skill DMG against Creeps = 60 + (20 × skill lv.) + 60% total magic power + 60%  + (15% × no. of stacks), where 0 ≤ no. of stacks ≤ 3
-- Damage scale: base 80–180, total-mp 60 (md)
-- AI tags: Purify
-- Electromagnetic Waves
-  - Variations: Transformers / Legend
-  - Skill effects: AOE, Slow
-  - Spellvamp ratio: 50%
-  - Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
-  - Description: Johnson raises his shield, continuously dealing to enemies in a fan-shaped area in the target direction and slowing them by 20%. Each instance of damage also increases the enemy's subsequent damage taken from the skill by 15% (up to 45%). This damage is increased by 60% against creeps. Johnson can cast Basic Attacks and skills for the duration.
-  - Terms: Magic Damage Skill, Stun
-  - Stack scaling: Damage Increase Per Enemy's Subsequent Damage Taken: 0% / 15% / 30% / 45%
-  - Level scaling: Duration: 3.5 — Base Damage: 80 / 100 / 120 / 140 / 160 / 180
-  - Notes:
-    - Electromagnetic Waves can deal up to 8 times within the duration. The interval in between damage is undetermined.
-    - This skill can only be interrupted by high- and ultimate-level control effects.
-    - The damage increase applied to an enemy counts as a debuff and can be removed by skills such as (text truncated in source).
-- Nitrous
-  - Variations: Transformers / Legend
-  - Skill effect: Speed Up
-  - Cooldown: 0.0
-  - Description: Hold the "Nitrous" skill to increase speed for up to 5 seconds, the acceleration stopping immediately once released.
+Electromagnetic Waves — Magic Damage Skill. Johnson raises his shield, continuously dealing magic damage to enemies in a fan-shaped area in the target direction and slowing them by 20%. Each instance of damage also increases the enemy's subsequent damage taken from the skill by 15% (up to 45%). This damage is increased by 60% against creeps. Johnson can cast Basic Attacks and skills for the duration.
 
-## Ultimate — Full Throttle (and Brake)
+- Duration: 3.5s
+- Base Damage per instance: 80 / 100 / 120 / 140 / 160 / 180
+- Damage Increase Per Enemy's Subsequent Damage Taken: 0% / 15% / 30% / 45%
+- Notes:
+  - Electromagnetic Waves can deal up to 8 times within the duration. The interval in between damage is undetermined.
+  - This skill can only be interrupted by high- and ultimate-level control effects.
+  - The damage increase applied to an enemy counts as a debuff and can be removed by certain cleansing skills.
 
-- Short tags: Hop In; Passive: e; (several AI / hi tags for interactions listed)
-- Damage / scales (various entries):
-  - base 300–400, total-mp 160 (md)
-  - base 450–600, total-mp 280 (md)
-  - sustained damage base 60–80, total-mp 20 (md)
-- Supplied text: [speed unknown]
-- AI tags: Brake, Nitrous; Passive entries; interactions with allies such as Silvanna, Angela, Hanzo etc.
-- Full Throttle
-  - Variations: Transformers / Legend
-  - Skill effects: Morph, CC
-  - Spellvamp ratio: 50%
-  - Cooldown: 36.0 / 33.0 / 30.0
-  - Description (condensed): Johnson transforms into a car and begins accelerating over time. An allied hero can use when near Johnson to board the car (only 1 allied hero can ride with Johnson). The car will explode upon hitting an enemy hero or obstacle, dealing – to nearby enemies, stunning them for 0.5–1 second (scales with the car's speed before impact), [speed unknown] and creating an electrified zone at the location. The zone continuously deals  and slows enemies within. While in car state, tap to stop immediately or hold to continuously gain speed for up to 5 seconds. Johnson's location will be revealed to the enemy for 3 seconds when casting this skill. Johnson's Physical Defense is increased by 10%–30%.
-  - Terms: Charge, Stun, Physical Defense
-  - Properties:
-    - Skill Duration: ≈2 hours, or until he bumps into something
-    - Electrified Zone Duration: 4.0
-    - Physical Defense Bonus: 10% / 20% / 30%
-    - Min Damage: 300 / 350 / 400
-    - Max Damage: 450 / 525 / 600
-    - Sustained Damage: 60 / 70 / 80
-  - Notes (source contains many inconsistencies/missing references; summarized):
-    - Full Throttle deals damage against Turrets.
-    - The damage scaling on speed is capped at the top speed achieved without Nitrous; activating Nitrous will not further increase damage beyond that cap.
-    - With enough speed, Johnson may outdrive incoming turret damage while driving.
-    - Certain crowd-control effects can restrain Johnson from moving in car state.
-    - Electrified zone can deal up to 9 times within the duration; interval between damage instances is undetermined.
-    - It is possible to carry up to 2 passengers at a time in some interaction cases (source text garbled).
-    - This skill can only be interrupted by suppression.
-- Brake
-  - Variations: Transformers / Legend
-  - Skill effects: Cancel, CC
-  - Cooldown: 0.0
-  - Description: Same description as Full Throttle (source references itself).
+Nitrous — Hold the "Nitrous" skill to increase speed for up to 5 seconds, the acceleration stopping immediately once released.
+
+## Full Throttle
+
+Full Throttle — Johnson transforms into a car and begins accelerating over time. An allied hero can use the skill when near Johnson to board the car (only 1 allied hero can ride with Johnson). The car will explode upon hitting an enemy hero or obstacle, dealing damage to nearby enemies and stunning them for 0.5–1 second (stun duration scales with the car's speed before impact), and creating an electrified zone at the location. The zone continuously deals magic damage and slows enemies within. While in car state, tap to stop immediately or hold to continuously gain speed for up to 5 seconds. Johnson's location will be revealed to the enemy for 3 seconds when casting this skill. Johnson's Physical Defense is increased by 10%–30%.
+
+- Properties:
+  - Skill Duration: approximately 2 hours, or until he bumps into something
+  - Electrified Zone Duration: 4.0s
+  - Physical Defense Bonus: 10% / 20% / 30%
+  - Min Damage: 300 / 350 / 400
+  - Max Damage: 450 / 525 / 600
+  - Sustained Damage: 60 / 70 / 80
+- Notes:
+  - Full Throttle deals damage against Turrets.
+  - The damage scaling on speed is capped at the top speed achieved without Nitrous; activating Nitrous will not increase the damage further beyond that cap.
+  - With enough speed, it is possible for Johnson to outdrive incoming turret damage while driving.
+  - Electified zone can deal up to 9 times within the duration. The interval in between damage is undetermined.
+  - This skill can only be interrupted by suppression.
+
+Brake — While in car form, tapping Brake stops Johnson immediately. Brake has no cooldown and shares descriptions with Full Throttle's stop mechanics.
 
 # Trivia
 
 - Johnson is one of the most unique heroes not only in Mobile Legends but in the world of MOBA.
 - The old version of Johnson was one of the characters in Mobile Battleground - Blitz.
 - Johnson's "Jeepney Racer" is a tribute to the Philippines. This special Elite skin turns Johnson into a colorful Philippine jeepney, honoring the country’s iconic public transport.
-- Johnson's and  are the only skills in the game that scales with. (source text incomplete / placeholders present)
-- Johnson's ultimate pairs very well with heroes who have high-damage AoE abilities; his most popular pair is referenced thanks to her (Ultimate). This is referenced on his Mastery Code. (source text contained placeholders)
-- Johnson's quote "Autobots? Sounds familiar.", and his transforming into a car using his ultimate are references to Autobots from the Transformers franchise, which later became a collaboration skin in the game.
-
-(End of provided data. Some source fields contained missing words, placeholders, or malformed entries; those were reproduced as-is where necessary.)
+- Johnson's and  are the only skills in the game that scales with.
+- Johnson's ultimate pairs very well on heroes with high damage AoE abilities; his most popular pair being thanks to her  (Ultimate). This is referenced on his Mastery Code.
+- Johnson in his quote "Autobots? Sounds familiar.", and when transforming into a car using his ultimate ability are references to Autobots from the Transformers franchise which later became a collaboration skin in the game.

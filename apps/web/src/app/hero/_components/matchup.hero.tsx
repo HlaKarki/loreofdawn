@@ -82,56 +82,6 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 				</Card>
 			)}
 
-			{/* Best Counters */}
-			{hero.best_counter && hero.best_counter.length > 0 && (
-				<Card>
-					<CardHeader>
-						<CardTitle>Countered By</CardTitle>
-						<CardDescription>Heroes that counter this hero effectively</CardDescription>
-					</CardHeader>
-					<CardContent>
-						<div className="space-y-2">
-							{hero.best_counter.slice(0, 5).map((counter) => (
-								<div
-									key={counter.id}
-									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
-								>
-									<div className="relative h-12 w-12 shrink-0">
-										<Image
-											src={resolveImageSrc(counter.image)}
-											alt={tidyLabel(counter.name)}
-											fill
-											sizes="256px"
-											className="object-cover"
-										/>
-									</div>
-									<div className="flex-1">
-										<div className="font-medium">{tidyLabel(counter.name)}</div>
-										<div className="flex gap-2 text-xs">
-											<StatLabel
-												abbr="WR"
-												full="Win Rate"
-												value={`${(counter.win_rate * 100).toFixed(1)}%`}
-											/>
-											<StatLabel
-												abbr="PR"
-												full="Pick Rate"
-												value={`${(counter.pick_rate * 100).toFixed(1)}%`}
-											/>
-										</div>
-									</div>
-									<div className="text-right">
-										<div className="text-sm font-semibold text-red-500">
-											{(counter.increase_win_rate * 100).toFixed(1)}%
-										</div>
-									</div>
-								</div>
-							))}
-						</div>
-					</CardContent>
-				</Card>
-			)}
-
 			{/* Worst Matchups */}
 			{hero.worst_counter && hero.worst_counter.length > 0 && (
 				<Card>
@@ -223,6 +173,56 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 									<div className="text-right">
 										<div className="text-sm font-semibold text-red-500">
 											{(teammate.increase_win_rate * 100).toFixed(1)}%
+										</div>
+									</div>
+								</div>
+							))}
+						</div>
+					</CardContent>
+				</Card>
+			)}
+
+			{/* Best Counters */}
+			{hero.best_counter && hero.best_counter.length > 0 && (
+				<Card>
+					<CardHeader>
+						<CardTitle>Countered By</CardTitle>
+						<CardDescription>Heroes that counter this hero effectively</CardDescription>
+					</CardHeader>
+					<CardContent>
+						<div className="space-y-2">
+							{hero.best_counter.slice(0, 5).map((counter) => (
+								<div
+									key={counter.id}
+									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
+								>
+									<div className="relative h-12 w-12 shrink-0">
+										<Image
+											src={resolveImageSrc(counter.image)}
+											alt={tidyLabel(counter.name)}
+											fill
+											sizes="256px"
+											className="object-cover"
+										/>
+									</div>
+									<div className="flex-1">
+										<div className="font-medium">{tidyLabel(counter.name)}</div>
+										<div className="flex gap-2 text-xs">
+											<StatLabel
+												abbr="WR"
+												full="Win Rate"
+												value={`${(counter.win_rate * 100).toFixed(1)}%`}
+											/>
+											<StatLabel
+												abbr="PR"
+												full="Pick Rate"
+												value={`${(counter.pick_rate * 100).toFixed(1)}%`}
+											/>
+										</div>
+									</div>
+									<div className="text-right">
+										<div className="text-sm font-semibold text-red-500">
+											{(counter.increase_win_rate * 100).toFixed(1)}%
 										</div>
 									</div>
 								</div>

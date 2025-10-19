@@ -1,98 +1,102 @@
-# SMART-01 (Jawhead)
+# Jawhead
+
+# Profile
+
+- Chinese name: 大铁罐 (dàtiěguàn, "Great Metal Pot")
+- Full name: SMART-01
+- Aliases: *Steel Sweetheart*; *Prototype One*; *Jawhead (by Ailee)*
+- Origin: Laboratory 1718
+- Species: Robot
+- Gender: Ungendered
+- Occupation: Guardian of Henry family
+- Weapons: Smart missiles
+- Relationships: Prof. and Mrs. Henry (creator)
+- Japanese voice actor: Kontani Yuta (紺谷 勇太)
+
+- Companion — Ailee:
+  - Name: Ailee
+  - Full name: Ailee Henry
+  - Alias: Honey / Honeybear (by Jawhead)
+  - Species: Human
+  - Relationships: Prof. and Mrs. Henry (parents)
+
+# Story
 
 > "Intelligent robot used to protect little [Ailee]"
 
-## Story
-This intelligent robot developed by Professor Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter, little Ailee, after their disappearance.
+This intelligent robot developed by Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter little Ailee after their disappearance.
 
-The Henrys worked for the Dawn Council, a research organization producing cutting-edge technology. Their creation, the "SMART-01", was more intelligent and powerful than any android before — designed so that once a genetically matched host controlled it, it could act according to the controller's consciousness. When the Dawn Council demanded the technology for military mass production, the Henrys refused. After ordering their Prototype One to destroy the experiment's data, the Henrys mysteriously disappeared. Little Ailee knows none of these events; all she knows is that the special robot has always protected and accompanied her, calling her "Honey" like her father once did, while she affectionately calls him "Jawhead". The only clue left by her parents is the pocket watch she carries. Eventually Ailee journeys with her robot friend to track down her parents' whereabouts.
+# Bio
 
-## Infobox / Key info
+Clandestine organizations have existed throughout the many ages of the Land of Dawn's history. No one knows the true purpose of these organizations, but one thing is for sure: whenever a crisis is at hand, mysterious figures emerge from the shadows to restore order to the world.
 
-- Name: SMART-01  
-- Chinese name: 大铁罐 (dàtiěguàn, "Great Metal Pot")  
-- Aliases: Steel Sweetheart; Prototype One; Jawhead (by Ailee)  
-- Origin: Laboratory 1718  
-- Species: Robot  
-- Gender: Ungendered  
-- Occupation: Guardian of Henry family  
-- Weapons: Smart missiles  
-- Relationships: Prof. and Mrs. Henry (creators)  
-- Japanese voice actor: Kontani Yuta (紺谷 勇太)
+Professor Henry and his wife worked for the Dawn Council, known for its research in cutting-edge technology, providing an endless and varied stream of high-tech products to government agencies and mysterious, anonymous clients. But when they finally finished developing the "SMART-01", all this changed, as their new creation was more intelligent and powerful than any android the world had seen before. It was designed so that once a genetically matched host controlled him, he could act according to the controller's consciousness. The leaders of the Dawn Council saw the potential of this technology for warfare and ordered the Henrys to transfer the technology to selected government agencies for a mass production program. The Henrys refused.
 
-Ailee
-- Name: Ailee Henry  
-- Alias: Honey / Honeybear (by Jawhead)  
-- Species: Human  
-- Relationships: Prof. and Mrs. Henry (parents)
+After ordering their Prototype One to destroy all of the experiment's data, the Henrys mysteriously disappeared. To this day, little Ailee has no knowledge of these events. All she knows and cares about is that this special robot has always been there to protect and accompany her, and that he calls her "Honey" like her father once did, while she affectionately calls him "Jawhead" in return. The only clue left behind by her parents was a pocket watch she carries with her wherever she goes. Eventually, Ailee decides to journey with her robot friend to track down her parents' whereabouts...
 
-Role: Guardian
+# Abilities
 
-## Lore
-Clandestine organizations have existed throughout the many ages of the Land of Dawn's history. No one knows their true purpose, but whenever a crisis arises, mysterious figures emerge from the shadows to restore order.
+## Mecha Suppression
 
-Professor Henry and his wife — researchers for the Dawn Council — created SMART-01. After refusing to hand over the technology for warfare, they vanished and ordered Prototype One to destroy the experiment's data. Ailee remains unaware of the full truth; she only knows her robot companion has always protected her. Together they set out to find her parents.
+- Effect: Jawhead's attacks apply a stack on hit (up to 10 stacks). Each stack lasts 3 seconds and increases the damage of Jawhead's Physical Basic Attack to the enemy.
 
-## Abilities
+- Damage increase per stack (stack-scaling): 8% / 16% / 24% / 32% / 40% / 48% / 56% / 64% / 72% / 80%.
 
-### Passive — Mecha Suppression (Basic Attacks)
-- Effect: Jawhead's attacks apply a stack on hit (up to 10 stacks). Each stack lasts 3 seconds.
-- Effect detail: Each stack increases the damage of Jawhead's physical basic attack to the enemy.
-- Stack scaling (Basic Attack Damage Increase Per Stack): 8% / 16% / 24% / 32% / 40% / 48% / 56% / 64% / 72% / 80%
 - Notes:
   - Only applies to non-minion enemies.
-  - Jawhead's attacks refresh stack duration.
-  - "Attacks" that apply Mecha Suppression refer to Jawhead's basic attack and skill damage dealt.
+  - Jawhead's attacks also refresh the duration of the stacks.
+  - "Attacks" that apply Mecha Suppression stacks only refer to Jawhead's basic attack and skill damage dealt.
 
-### Skill 1 — Smart Missiles
-- Type / Effect: Physical damage skill / Burst
-- Cooldown: 5.0 s
-- Mana cost: 60 / 65 / 70 / 75 / 80 / 85
-- Description: Jawhead launches up to 12 missiles at random nearby enemies over 5 seconds, each missile dealing physical damage to the enemy hit.
-- Base damage by level: 135 / 160 / 185 / 210 / 235 / 260
+## Smart Missiles
 
-### Skill 2 — Ejector
-- Type / Effects: Shield / Crowd Control (stun)
-- Cooldown: 15.0 / 14.4 / 13.8 / 13.2 / 12.6 / 12.0 s
-- Mana cost: 80 / 90 / 100 / 110 / 120 / 130
-- Additional note: Can be used again (use-again mechanic).
-- Description:
-  - Jawhead gains 30% Movement Speed and a shield for a duration (shield scales with level).
-  - Jawhead flings the nearest unit (prioritizes heroes) to the target location. Enemies in the landing area take damage and are stunned for 0.5 s.
-  - Can be used on allied heroes; allied targets will not take damage from the fling.
-- Scaling:
+- Cooldown: 5.0 seconds
+- Mana cost: 60 / 65 / 70 / 75 / 80 / 85 (per level)
+- Type: Physical Damage Skill
+
+- Description: Jawhead launches up to 12 missiles at random nearby enemies over 5 seconds, each missile dealing physical damage to the enemy hit. Damage scales with skill level and Jawhead's Physical Attack.
+
+- Level scaling (Base Damage): 135 / 160 / 185 / 210 / 235 / 260
+- Physical Attack scaling: 30% of Jawhead's Physical Attack
+
+- Notes: Each missile deals damage based on the listed base damage for the skill level plus the physical attack scaling.
+
+## Ejector
+
+- Cooldown: 15.0 / 14.4 / 13.8 / 13.2 / 12.6 / 12.0 (first value shown)
+- Mana cost: 80 / 90 / 100 / 110 / 120 / 130 (per level)
+- Effects: Shield; Crowd Control; Movement Speed
+
+- Description: Jawhead gains 30% Movement Speed and a shield (value scales with skill level) for an unknown duration. Jawhead flings the nearest unit (prioritizes heroes) to the target location, dealing physical damage to enemies in the area and stunning them for 0.5 seconds. Can be used on allied heroes and they will not take damage when flung.
+
+- Level scaling:
   - Base Shield: 250 / 320 / 390 / 460 / 530 / 600
   - Base Damage: 300 / 340 / 380 / 420 / 460 / 500
+  - Shield and damage also scale with Jawhead's stats (scaling damage based on level and stats).
 
-### Ultimate — Unstoppable Force
-- Type / Effects: Mobility / CC (stun) / Displacement (blink)
-- Cooldown: 35.0 / 30.0 / 25.0 s
-- Mana cost: 120 / 150 / 180
-- Description: Jawhead charges into the target enemy hero, dealing physical damage and briefly stunning them. Enemies around the target are knocked back and take the same amount of damage. Jawhead is immune to control effects during the charge.
-- Base Damage by level: 350 / 475 / 600
+- Notes:
+  - Prioritizes heroes when selecting the nearest unit to fling.
+  - Allied units flung by this skill do not take damage.
+
+## Unstoppable Force
+
+- Cooldown: 35.0 / 30.0 / 25.0 (first value shown)
+- Mana cost: 120 / 150 / 180 (per level)
+- Effects: Mobility; Crowd Control; Displacement
+
+- Description: Jawhead charges into the target enemy hero, dealing physical damage and briefly stunning them (stun duration unspecified). Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
+
+- Level scaling (Base Damage): 350 / 475 / 600
+- Physical Attack scaling: 150% of Jawhead's Physical Attack (damage based on level and stats)
+
 - Notes:
   - This ability has three phases:
-    1. Channel — Jawhead begins to channel the charge. If interrupted during this step, the ability does not go on cooldown.
-    2. Travel — Jawhead travels to the target.
-    3. Impact — Upon hitting the target, Jawhead loses CC immunity and nearby enemies are knocked back.
+    - Phase 1: Jawhead begins to channel the charge. If interrupted at this step, the ability does not go on cooldown.
+    - Phase 2: Jawhead travels to the target.
+    - Phase 3: Upon hitting the target, Jawhead loses CC immunity and nearby enemies are knocked back.
 
-## Splash arts / Skins
-(Listed by skin name — image links omitted)
-- Steel Sweetheart
-- Girl Scout
-- Space Explorer
-- Foo Quarterback
-- The Nutcracker
-- Samurai Mech
-- Candy Bear
-- Cyber Ranger
-- Victory Loader
-- Proto Guardian
-- Proto Sentinel
-- (additional painted skins / variants referenced in source)
+# Trivia
 
-## Trivia
-- Jawhead is the only hero who carries a companion (Ailee) that does not assist in combat.
-- The name Ailee was revised from earlier variants Alice and Ellie.
-- Almost all of Jawhead's skins have two eyes/lenses, different from the default's single eye.
-- Victory Loader is the first skin that uses Ailee's face in the avatar icon instead of Jawhead's face.
+- Jawhead is the only hero who carries a companion (Ailee) that does not help or assist in fight.
+- Revisions of the name of Ailee was made from Alice and Ellie.
+- Almost all of Jawhead's skins has two eyes/lens which is different from default's one.
+- Victory Loader is the first skin that use Ailee's face in the avatar icon instead of using Jawhead's face.

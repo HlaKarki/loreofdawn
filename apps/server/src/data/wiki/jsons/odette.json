@@ -199,9 +199,9 @@
             "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Unnamed_uncle"
           },
           {
-            "file": "File:*Prince_Alvin_I_(grandfather)<ref_name=\"Discord\">According_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_[[Moniyan_Empire]]_subjects_[https://discord.com/channels/342452785658331137/602741774716370959/1369934179713679420_Part_1_Link]_[https://discord.com/channels/342452785658331137/602741774716370959/1369934180372320348_Part_2_Link]",
-            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_Alvin_I_(grandfather)%3Cref_name%3D%22Discord%22%3EAccording_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_%5B%5BMoniyan_Empire%5D%5D_subjects_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934179713679420_Part_1_Link%5D_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934180372320348_Part_2_Link%5D?width=300",
-            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_Alvin_I_(grandfather)%3Cref_name%3D%22Discord%22%3EAccording_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_%5B%5BMoniyan_Empire%5D%5D_subjects_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934179713679420_Part_1_Link%5D_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934180372320348_Part_2_Link%5D"
+            "file": "File:*Prince_Alvin_I_(grandfather,_deceased)<ref_name=\"Discord\">According_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_[[Moniyan_Empire]]_subjects_[https://discord.com/channels/342452785658331137/602741774716370959/1369934179713679420_Part_1_Link]_[https://discord.com/channels/342452785658331137/602741774716370959/1369934180372320348_Part_2_Link]",
+            "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_Alvin_I_(grandfather%2C_deceased)%3Cref_name%3D%22Discord%22%3EAccording_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_%5B%5BMoniyan_Empire%5D%5D_subjects_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934179713679420_Part_1_Link%5D_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934180372320348_Part_2_Link%5D?width=300",
+            "url": "https://wikipedia.org/wiki/Special:Redirect/file/*Prince_Alvin_I_(grandfather%2C_deceased)%3Cref_name%3D%22Discord%22%3EAccording_to_a_Dev-To-Players_on_the_Official_Discord_Server_regarding_an_expanded_lore_for_Odette_and_other_%5B%5BMoniyan_Empire%5D%5D_subjects_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934179713679420_Part_1_Link%5D_%5Bhttps%3A%2F%2Fdiscord.com%2Fchannels%2F342452785658331137%2F602741774716370959%2F1369934180372320348_Part_2_Link%5D"
           },
           {
             "file": "File:<gallery>",
@@ -252,6 +252,12 @@
         "template": "hi"
       },
       {
+        "list": [
+          "Cici"
+        ],
+        "template": "hi"
+      },
+      {
         "template": "cite"
       },
       {
@@ -277,7 +283,7 @@
           "text": "Swan Princess"
         },
         "birthday": {
-          "text": "*Sirius IV (great-uncle) \n*Aurelius II (1st cousin once removed) \n*Gaius Alvin (ancestor) \n*, (2nd cousins) \n* (relative) \n*Lord Gaius (relative) \n* (lover)",
+          "text": "*Sirius IV (great-uncle) \n*Aurelius II (1st cousin once removed) \n*Gaius Alvin (ancestor) \n*, (2nd cousins) \n* (relative) \n*Lord Gaius (relative) \n*Unnamed mother\n*Unnamed grandmother\n* (lover, fiancé)\n* (friend)",
           "links": [
             {
               "text": "Gaius Alvin",

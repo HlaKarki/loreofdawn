@@ -120,9 +120,6 @@
         "template": "cite"
       },
       {
-        "template": "cite"
-      },
-      {
         "text": "Leader of the Orc Legion",
         "template": "quote"
       }
@@ -193,7 +190,7 @@
           "text": "Lord of Abyss"
         },
         "en_va": {
-          "text": "Con Eyre (2017–2021) \nPatrick Seitz (2021–)"
+          "text": "Con Eyre (2017–2021) \nPatrick Seitz (2021-present; God of Mountains)"
         },
         "id_va": {
           "text": "Edy Rachmat"
@@ -229,6 +226,12 @@
       }
     ],
     "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
       {
         "template": "citation",
         "type": "inline",

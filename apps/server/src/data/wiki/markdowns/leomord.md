@@ -1,29 +1,29 @@
 # Leomord
-(Sworn Sword / The Oathkeeper)
 
-## Infobox
-- Alias: Sworn Sword; The Oathkeeper  
-- Chinese name: 雷蒙 (Léi méng)  
-- Born: Ridgeburg, Moniyan Empire  
-- Species: Undead  
-- Gender: Male  
-- Occupation: Knight; Royal guard  
-- Affiliation: Necrokeep  
-- Weapons: Sword of Oath  
-- Battles fought: Invasion of Ridgeburg  
-- Nationality: Moniyan (formerly)  
-- Likes: Moments alone with Barbiel in a quiet place  
+# Profile
+
+- Alias: Sworn Sword
+- The Oathkeeper
+
+- Chinese name: 雷蒙 (Léi méng)
+- Born: Ridgeburg, Moniyan Empire
+- Species: Undead
+- Gender: Male
+- Occupation: *Knight*
+  * Royal guard
+- Affiliation: Necrokeep
+- Weapons: Sword of Oath
+- Battles fought: *Invasion of Ridgeburg*
+- Nationality: Moniyan (formerly)
+- Likes: Moments alone with Barbiel in a quiet place
 - Relationships:
   - Unnamed royal guard ancestors
   - Atticus (close friend, deceased)
   - Barbiel (pet)
-  - (ally)
-  - (enemy)
-- Voice actors:
-  - EN: Con Eyre (2018–2022)
-  - JA: Okai Katsunori (岡井 カツノリ)
-
----
+  - , (ally)
+  -  (enemy)
+- English VA: Con Eyre (2018–2022)
+- Japanese VA: Okai Katsunori (岡井 カツノリ)
 
 # Story
 
@@ -31,12 +31,11 @@
 
 Once a sworn knight of Ridgeburg, Leomord was forced to shatter the oath he made with his own sword in an unfortunate turn of events. Since then, he had borne the curse of the Mist and guarded the land abandoned even by death. The light had faded, yet his watch had just begun...
 
-Gallery
-- File:Necrokeep_Leomord_Info.jpg
+# Bio
 
-(Additional note found in source: "A sworn knight who vowed to guard Necrokeep until his last breath.")
 
----
+
+# Side Story
 
 ## The Oath
 
@@ -72,7 +71,7 @@ And thus, by first light, the young knight watched as Atticus and his party fade
 
 For two years, Leomord and Princess Vexana waited. The quest took much longer than expected, and at some point, Atticus even stopped sending back letters.
 
-And then one day, out of the blue, a messenger came announcing the Duke's return. Leomord let out a long sigh, as his mind finally felt at ease. Except, instead of the joy he'd expected to see in Atticus's eyes, he saw nothing but… emptiness.
+And then one day, out of blue, a messenger came announcing the Duke's return. Leomord let out a long sigh, as his mind finally felt at ease. Except, instead of the joy he'd expected to see in Atticus's eyes, he saw nothing but…emptiness.
 
 The campaign must have been brutal and arduous, he could only surmise. Leomord opted not to prod any further and promptly set out to join the city folk in preparation for the long-delayed wedding of Duke Atticus and Princess Vexana.
 
@@ -100,7 +99,7 @@ Does the safety of the Duke weigh heavier than the safety of the city? The young
 
 > "Bro…ther… I am…free—"
 
-And as he breathed his last, he turned his eyes to Vexana and whispered:
+And as he breathed his last, he turned his eyes to Vexana and whispered.
 
 > "The Mist… If there is no other choice—"
 
@@ -112,83 +111,70 @@ A hundred years had passed, yet time in Ridgeburg seemed to have frozen in place
 
 Leomord could sometimes be seen standing on one of its towers, gazing far into the horizon. His skin was sickly pale, neither living nor dead. His eyes were tired from a hundred years of half-death, but they still sparkled with a glimmer of hope. He knew in his heart that he and Vexana would eventually find a way to reverse the curse of the Mist.
 
-From that day a hundred years ago, his life no longer belonged to himself, but to Ridgeburg. As long as there was still one soul in the city, he would guard them until his last breath.
-
-Images referenced in this section:
-- File:Necrokeep.jpg (caption: 512px)
-- File:The_Oath_1.jpg (caption: 512px)
-- File:The_Oath_2.jpg (caption: 512px)
-
----
+From that day a hundred years ago, his life no longer belonged to himself, but to Ridgeburg. As long as there was still one soul in the city, he would guard them until his last breath."
 
 ## Wedding in the Mist
 
-Images referenced:
-- File:Wedding_in_the_Mist_-Animated_Trailer_of_Project_NEXT_-_Rise_of_Necrokeep_-Mobile_Legends-_Bang_Bang (caption: 512px)
 
----
 
 # Abilities
 
-## Passive — The Oath Keeper
-- Type: Buff  
-- Effect: Leomord's Basic Attacks are guaranteed to critically strike against enemies below 50%, dealing 200% damage. Leomord converts every 1% Crit Chance gained into 2 Physical Attack.  
-- Term: Crit Damage  
-- Notes: Max HP (listed in template)
+## The Oath Keeper
 
-## Skill 1
-- Name: Momentum (Default)  
-  - Type: Physical Skill; AoE; Slow  
-  - Cooldown: 6.0 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5 s  
-  - Description: Leomord gains a and begins channeling [for 1 second], slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to [calculation needed] to enemies hit (scales with channel time) and slowing them by 40% for 1 second. Leomord can cast this skill again to actively interrupt the channeling.  
-  - Shield (Base): 150 / 180 / 210 / 240 / 270 / 300  
-  - Base Damage: 500 / 560 / 620 / 680 / 740 / 800  
-  - Terms: Shield; Physical Damage Skill; Movement Speed
+- Leomord's Basic Attacks are guaranteed to critically strike against enemies below 50%, dealing 200% damage.
+- Leomord converts every 1% Crit Chance gained into 2 Physical Attack.
 
-- Name: Phantom Stomp (Mounted State)  
-  - Type: Physical Damage Skill; AoE; Slow; Blink  
-  - Cooldown: 5.0 / 4.8 / 4.5 / 4.3 / 4.0 / 3.8 s  
-  - Description: Barbiel leaps forward, dealing damage to enemy units in the area where he lands and slowing them by 40% for 1 second.  
-  - Base Damage: 320 / 380 / 435 / 490 / 545 / 600  
-  - Terms: Blink; Movement Speed; Physical Damage Skill
+- Effect type: Buff
+- Stat effects: Crit Damage behavior and Crit Chance conversion into Physical Attack (scaling with Crit Chance and attack stats).
 
-Scaling notes listed:
-- Shield scale: 150–300 (total-pa 150)
-- Damage scale: 325–600 (total-pa 120) and other listed scales (total-pa 180 for base 500–800)
+## Momentum / Phantom Stomp
 
-(Default and Mounted State variants indicated in original data.)
+Default (Momentum)
 
-## Skill 2
-- Name: Decimation Assault (Default)  
-  - Type: Physical Skill; Blink; Slow  
-  - Cooldown: 14.0 / 13.0 / 12.0 / 11.0 / 10.0 / 9.0 s  
-  - Description: Leomord charges towards a designated direction, dealing damage to enemies along the way and slowing them by 30% for 1 second.  
-  - Base Damage: 300 / 320 / 340 / 360 / 380 / 400
+- Skill type: Physical Skill, AoE, Slow
+- Description: Leomord gains a shield and begins channeling for 1 second, slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to scaling damage to enemies hit (damage scales with channel time and level) and slowing them by 40% for 1 second. Leomord can cast this skill again to actively interrupt the channeling.
+- Base Shield: 150 / 180 / 210 / 240 / 270 / 300
+- Base Damage: 500 / 560 / 620 / 680 / 740 / 800
+- Notes: Damage scales with channel time and Leomord's physical attack.
+- Cooldown: 6.0 → 4.5 seconds (scales by level)
 
-- Name: Phantom Charge (Mounted State)  
-  - Type: Blink; CC (displacement)  
-  - Cooldown: 7.5 / 7.0 / 6.5 / 6.0 / 5.5 / 5.0 s  
-  - Description: Barbiel charges forward and knocks back all enemies in the lane. Deals damage.  
-  - Base Damage: 300 / 320 / 340 / 360 / 380 / 400  
-  - Note: Despite its name, "Phantom Charge" is technically a blink skill.
+Mounted (Phantom Stomp — Barbiel)
 
-(Default and Mounted State variants indicated in original data.)
+- Skill type: Physical Damage Skill, AoE, Slow, Blink
+- Description: Barbiel leaps forward, dealing physical damage to enemy units in the area where he lands and slowing them by 40% for 1 second.
+- Base Damage: 320 / 380 / 435 / 490 / 545 / 600
+- Cooldown: 5.0 → 3.8 seconds (scales by level)
 
-## Ultimate — Phantom Steed
-- Type: Physical Skill; Summon; Morph  
-- Cooldown: 55.0 / 50.0 / 45.0 s  
-- Description: Leomord summons Barbiel to rush to him, dealing damage to enemies on the path. If Barbiel comes in contact with Leomord, they will enter the Mounted State, gaining 30% Movement Speed that decays over 2 seconds. Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area. Leomord also gains extra 60 Movement Speed and 30–90 Physical & Magic Defense.  
-- Base Damage: 350 / 450 / 550  
-- Defense Increase (Hybrid): 40 / 60 / 80  
-- Terms: Displacement; Physical Damage Skill; Movement Speed  
+## Decimation Assault / Phantom Charge
+
+Default (Decimation Assault)
+
+- Skill type: Physical Skill, Blink, Slow
+- Description: Leomord charges towards a designated direction, dealing physical damage to enemies along the way and slowing them by 30% for 1 second.
+- Base Damage: 300 / 320 / 340 / 360 / 380 / 400
+- Cooldown: 14.0 → 9.0 seconds (scales by level)
+
+Mounted (Phantom Charge — Barbiel)
+
+- Skill type: Blink, Displacement, Crowd Control
+- Description: Barbiel charges forward and knocks back all enemies in the lane, dealing physical damage to those hit.
+- Base Damage: 300 / 320 / 340 / 360 / 380 / 400
+- Cooldown: 7.5 → 5.0 seconds (scales by level)
+- Notes: Despite its name, "Phantom Charge" is technically implemented as a blink skill.
+
+## Phantom Steed
+
+- Skill type: Physical Skill, Summon, Morph
+- Description: Leomord summons Barbiel to rush to him, dealing physical damage to enemies on the path. If Barbiel comes in contact with Leomord, they will enter the Mounted State, gaining 30% Movement Speed that decays over 2 seconds. Upon mounting, Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area. Leomord also gains additional Movement Speed and defense.
+- Base Damage: 350 / 450 / 550
+- Hybrid Defense Increase while Mounted: 40 / 60 / 80 (text lists 30–90 Physical & Magic Defense elsewhere; primary listed values: 40/60/80)
+- Additional Movement Speed: +60 (plus an initial 30% decaying boost)
+- Cooldown: 55.0 / 50.0 / 45.0 seconds (per level)
 - Notes: Enemies will be knocked back by charging Barbiel and will be displaced to the side of the AOE.
 
-Scaling listed for ultimate base: 350–550 (total-pa 100).
-
----
-
 # Trivia
+
 - Leomord's name is inspired by "Leon" (lion) and "Mord" (death/murder). This could symbolize his bravery (like a lion) and his tragic fate (as an undead knight).
 - His name may be a reference to Sir Mordred from Arthurian legend – Mordred was a knight who betrayed King Arthur, though Leomord’s story is more about loyalty and tragedy.
 - He is the only hero in the game who can summon a mount mid-battle, changing his skill set.
-- Leomord's "Diavel V4 Rider" skin had a bug where it was immune to displacement effects, but it was later fixed.
+- Leomord's "Diavel V4 Rider" skin had a bug where it was immune to displacement effect but it was later fixed.

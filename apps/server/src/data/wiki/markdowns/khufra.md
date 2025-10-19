@@ -1,30 +1,27 @@
-## Story
+# Khufra
+
+# Profile
+
+- **Alias:** Desert Tyrant
+- **Origin:** Ruins of Tivacan, Agelta Drylands
+- **Species:** Undead (previously human)
+- **Title:** Tyrant
+- **Abilities:**
+  - Body having bandage-like property
+  - Superhuman elasticity
+  - Turns into a ball (see Skill 2)
+- **Relationships:**
+  - Khaleed (enemies)
+  - Moskov (enemies)
+  - Esmeralda (former lover; enemies)
+
+# Story
 
 > "Sealed ancient tyrant"
 
 The ruler of the ancient city of Tivacan was furious, cold blooded and greedy. In order to obtain the help of the astrologers, the astrologer Esmeralda launched a crazy pursuit. Esmeralda was bewitched by him at first, but she awakened and sealed him up. Now he is about to wake up and continue to battle of destiny with the descendants of the astrologers.
 
-Gallery (images listed, no links embedded)
-- File: Khufra_comic.jpg
-- File: Khufra_before_the_seal.jpg
-
-Related heroes
-- Khaleed
-- Moskov
-- Esmeralda
-
-Infobox
-- Alias: Desert Tyrant
-- Origin: Ruins of Tivacan, Agelta Drylands
-- Species: Undead (previously human)
-- Title: Tyrant
-- Abilities:
-  - Body having bandage-like property
-  - Superhuman elasticity
-  - Turns into a ball
-- Relationships: (enemies), (former lover; enemies)
-
-## Bio
+# Bio
 
 In the far reaches of the Western Desert, an ancient city lays hidden among the sands. Despite ages passing by, the desert sands were unable to devour this city, which stands proud and majestic in a sea of emptiness. Scholars of antiquities have long spoke of this fabled city, whose most infamous ruler was none other than Khufra.
 
@@ -36,55 +33,70 @@ He asked Esmeralda to give all the spells to him. He must completely eliminate t
 
 However, hundreds of years later, a cataclysmic event occurred in the Western Desert. A wave of energy from an orb awakened Khufra from his slumber, who swelled with hatred and anger. Returning to the world. Khufra could not accept the betrayal of his lover in the past. His abilities and desires were stronger than ever before. He vowed to find Esmeralda and continue to conquer the centuries-old wish to hold the Land of Dawn within his hands.
 
-## Abilities
+# Abilities
 
-### Passive — Spell Curse
-- Stats / scaling (from templates): total-pa: 120; max-hp: target's 6 (note: source formatting ambiguous)
-- Keywords: Magic Basic Attack; Healing Effect; Cooldown
-- Other associated tags: Max HP; Malefic Gun
-- Description: Khufra activates the Spell Curse left by Esmeralda every 12 seconds, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range [Cast Range: 4.9] and deals [ ] . Also slows the target by 30% for 1.5 seconds and heals Khufra by 8% of his  on hit. Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4 seconds.
-- Notes:
-  - The range of Spell Curse can be increased by and its passive Malefic Energy.
-  - The skill description erroneously identified Esmeralda as the one who cursed Khufra.
-  - The curse was inflicted by Eslora, Esmeralda's ancestor, according to the heroes' respective stories.
+## Spell Curse
 
-### Skill 1 — Tyrant's Revenge
-- Stats / scaling hints: extra-pa: 1.5; Path Damage, Airborne Damage: 50 / 60 / 70 / 80 / 90 / 100
-- Keywords: Blink; Extra Physical Attack; Airborne
-- Effects: Mobility, CC
-- Description: Khufra pulls the bandage on his arms to launch himself in the specified direction, dealing 50–100 plus 7% of his   to all enemy units on the path. When blinking to the furthest distance or encountering a first enemy hero, Khufra will immediately stop, dealing 50–100 plus 7% of his    to enemies nearby and then knocking them in the air for up to 1.1 seconds.
-- Cooldown: 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0
-- Mana cost: 80 / 85 / 90 / 95 / 100 / 105
-- Notes:
-  - Tyrant's Revenge goes into cooldown when Khufra starts to charge.
-  - The cooldown is reduced to 50% once Khufra manually canceled the skill.
-  - This skill can be charged up to 1.5 seconds and can be overcharged for another 3 seconds.
-  - The blink distance and the airborne duration scales with the channel time.
+Khufra activates the Spell Curse left by Esmeralda every 12 seconds, enhancing his next Basic Attack. The enhanced Basic Attack gains extra attack range [Cast Range: 4.9] and deals scaling magic damage based on level and stats. It also slows the target by 30% for 1.5 seconds and heals Khufra by 8% of his Max HP on hit. Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4 seconds.
 
-### Skill 2 — Bouncing Ball
-- Stats / scaling hints: extra-pa: 2; Defense Increase: 30% / 44% / 58% / 72% / 86% / 100%; Base Damage: 50 / 60 / 70 / 80 / 90 / 100
-- Keywords: Airborne; Physical Defense; Magic Defense
-- Effects: Slow, Buff
-- Description: Khufra uses bandage to wrap himself into a magic bouncing ball, increasing his own Physical & Magic Defense by 30%–100%. Enemies trying to use blink skills to move across Khufra will be knocked airborne. [duration needed] Each time the magic bouncing ball hits the ground, it will deal equal to 50–100 plus 3% of his  to enemies nearby and slow them by 80%. Lasts 0.2 seconds.
-- Cooldown: 10.0
-- Mana cost: 70 / 75 / 80 / 85 / 90 / 95
-- Notes:
-  - Bouncing Ball cannot disable Flicker battle spell. (Patch Notes 1.5.30 (Advanced Server))
-  - This skill can only be interrupted by airborne, frozen, suppressed or transformed crowd control effects.
+- Magic Basic Attack
+- Healing Effect: Heals 8% of Khufra's Max HP on hit
+- Cooldown: 12 seconds (reduced by 4 seconds upon applying control to an enemy hero)
 
-### Ultimate — Tyrant's Rage
+Notes:
+- The range of Spell Curse can be increased by Malefic Energy and other passive effects.
+- The skill description erroneously identified Esmeralda as the one who cursed Khufra.
+- The curse was inflicted by Eslora, Esmeralda's ancestor, according to the heroes' respective stories.
+
+## Tyrant's Revenge
+
+Khufra pulls the bandage on his arms to launch himself in the specified direction, dealing path damage and knocking into enemies along the way. Path damage: 50–100 plus 7% of his Max HP to all enemy units on the path. When blinking to the furthest distance or encountering a first enemy hero, Khufra will immediately stop, dealing 50–100 plus 7% of his Max HP to enemies nearby and then knocking them in the air for up to 1.1 seconds.
+
+- Effect: Blink / Mobility, Airborne crowd control
+- Extra Physical Attack: Applies damage upon arrival
+- Airborne: Up to 1.1 seconds on hit
+- Cooldown: varies by level (15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0)
+- Mana Cost: 80 / 85 / 90 / 95 / 100 / 105
+- Level Scaling (Path Damage, Airborne Damage): 50 / 60 / 70 / 80 / 90 / 100
+
+Notes:
+- Tyrant's Revenge goes into cooldown when Khufra starts to charge.
+- The cooldown is reduced to 50% once Khufra manually canceled the skill.
+- This skill can be charged up to 1.5 seconds and can be overcharged for another 3 seconds.
+- The blink distance and the airborne duration scales with the channel time.
+
+## Bouncing Ball
+
+Khufra uses bandage to wrap himself into a magic bouncing ball, increasing his own Physical & Magic Defense by 30%–100% (scales with level). Enemies trying to use blink skills to move across Khufra will be knocked airborne. Duration: varies by level. Each time the magic bouncing ball hits the ground, it will deal base damage equal to 50–100 plus 3% of his Max HP to enemies nearby and slow them by 80% for 0.2 seconds.
+
+- Airborne: Knocks airborne enemies that try to blink across Khufra
+- Physical Defense / Magic Defense: Increases Khufra's defenses by 30% / 44% / 58% / 72% / 86% / 100% (by level)
+- Cooldown: 10.0 seconds
+- Mana Cost: 70 / 75 / 80 / 85 / 90 / 95
+- Level Scaling (Base Damage): 50 / 60 / 70 / 80 / 90 / 100
+
+Notes:
+- Bouncing Ball cannot disable the Flicker battle spell. (Patch Notes 1.5.30 (Advanced Server))
+- This skill can only be interrupted by airborne, frozen, suppressed or transformed crowd control effects.
+
+## Tyrant's Rage
+
 > "Let those who comply with me thrive and those who resist me perish."
 
-- Stats / scaling hints: base: 300-600; total-pa: 100; Base Damage: 300 / 450 / 600; Slow Duration: 1.25 / 1.5 / 1.75
-- Keywords: Displacement; Stun; Movement Speed
-- Effects: CC, AOE
-- Description: Khufra pulls back all enemy targets around him toward his front, dealing and slowing them down for 1.25–1.75 seconds. If the enemies are knocked against walls, extra equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned, instead of slowed.
-- Cooldown: 50.0 / 45.0 / 40.0
-- Mana cost: 150 / 200 / 250
-- Notes:
-  - Cooldown starts after Khufra casts the skill.
+Khufra pulls back all enemy targets around him toward his front, dealing physical damage based on level and his stats and slowing them down for 1.25–1.75 seconds. If the enemies are knocked against walls, extra damage equal to 150% of this skill's damage will be inflicted upon them, and they will be stunned instead of slowed.
 
-## Trivia
-- Khufra's name might be based on the Kufra basin and oasis group in Libya. (See: Kufra; Libya)
-- Khufra's design and origin story is loosely based on a mummy. (See: mummy)
-- Whenever he and Esmeralda meet each other as opponents in-match, the two share special dialogues, the first in MLBB. The dialogue can either be triggered by one of them killing or assisting to slay each other or randomly throughout the match.
+- Displacement: Pulls enemies toward Khufra's front
+- Stun: Occurs if enemies are knocked against walls (extra 150% damage)
+- Movement Speed: Enemies are slowed for 1.25 / 1.5 / 1.75 seconds depending on level
+- Cooldown: 50.0 / 45.0 / 40.0 (varies by level)
+- Mana Cost: 150 / 200 / 250
+- Level Scaling (Base Damage): 300 / 450 / 600
+
+Notes:
+- Cooldown starts after Khufra casts the skill.
+
+# Trivia
+
+- Khufra's name might be based on the Kufra basin and oasis group in Libya.
+- Khufra's design and origin story is loosely based on a mummy.
+- Whenever he and Esmeralda meets each other as opponents in-match, the two share special dialogues, the first in *MLBB*. The dialogue can either be triggered by one of them killing or assisting to slay each other or randomly throughout the match.

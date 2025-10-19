@@ -100,12 +100,6 @@
         "template": "birthday"
       },
       {
-        "list": [
-          "Zhuxin"
-        ],
-        "template": "hi"
-      },
-      {
         "text": "An exorcist from Zhu'an who has inherited the power of the Immortal Nuo.",
         "template": "quote"
       }
@@ -147,7 +141,7 @@
           "text": "Drifter, Unconstrained, Leisurely Refined"
         },
         "relationships": {
-          "text": "*Nuo\n* (companion)"
+          "text": "*Nuo"
         },
         "en_va": {
           "text": "Howard Wang (王世豪)",

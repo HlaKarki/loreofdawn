@@ -1,147 +1,129 @@
 # Carmilla
 
-> "Girl who became a Blood Demon for love"
+# Profile
 
-Infobox
-- Species: Human-turned-Blood Demon  
-- Gender: Female  
-- Affiliation: House Ansaac (House Ansaac)  
-- Abilities (notable): Crimson Flowers; Bloodbath; Curse of Blood  
-- Traits: Sweet, Deeply in Love  
+- Species: Human-turned-Blood Demon
+- Gender: Female
+- Affiliation: House Ansaac
+- Abilities: *Summons crimson flowers; Bloodbath; Curse of Blood*
+- Traits: Sweet, Deeply in Love
 - Relationships:
   - (lover)
   - Earl Ansaac (father)
   - Baron Tawil (fiancé)
   - (enemy)
-- Voice actors:
-  - Japanese/VA: Takada Sakie (高田 紗希衣) — (imdb:nm11620202)  
-  - Indonesian/VA: Lis Kurniasih
+- Japanese VA: Takada Sakie (高田 紗希衣)
+- Indonesian VA: Lis Kurniasih
 
----
-
-## Story
+# Story
 
 > "Girl who became a Blood Demon for love"
 
-As a human, Carmilla fell in love with Cecilion, who was a Blood Demon, but cruel reality separated them — Carmilla had already guessed Cecilion's identity. Even so, she wanted to be with him, so she chose to commit suicide. When she woke up, she found that she had become a Blood Demon, lying in the arms of her lover. From then on, the two of them stayed apart from the world together forever.
+As a human, Carmilla fell in love with Cecilion, who was a Blood Demon, but cruel reality separated them, Carmilla had already guessed the identity of Cecilion.
 
----
+Even so, she wanted to be with Cecilion, so she chose to commit suicide.
 
-## Lore
+When she woke up, she found that she had become a Blood Demon, lying in the arms of her lover.
 
-Many years ago, Carmilla was born into House Ansaac in Castle Aberleen. As the only daughter of the Earl, she was loved by her family from birth. Her eminent family background and captivating beauty made her one of the most popular noble ladies around the castle, perhaps in the whole Empire. However, her royal origin also meant tragedy: she became a political tool of her father, Earl Ansaac, who betrothed her to another powerful family to consolidate power.
+From then on, the two of them stayed from the world together forever.
 
-Though countless aristocrats tried to court Carmilla, none pleased her. Her pride made her refuse mediocrity — she wanted someone who could connect with her soul. Her father had already chosen a match, believing the rising military-nobles would dominate politics; to preserve the family's status he arranged for Carmilla to marry into that class. That plan was foiled by a seemingly insignificant man: Cecilion, the best opera singer in the southern Empire. Carmilla became his most loyal audience from the first day he performed at Castle Aberleen. To her he was elegant and talented, and she sensed melancholy and mystery in his eyes. For every performance she sat quietly in the right-middle of the auditorium, watching him.
+# Bio
 
-One day, during a performance, Cecilion and Carmilla's eyes met. They instantly fell in love. The following days were the happiest of Carmilla's life — at night Cecilion dressed and invited her to the opera house, singing songs he composed for her; she watched intently, then they would meet backstage, dance in the moonlight, and in the dawn he would place a rose on her windowsill and leave quietly.
+Many years ago, Carmilla was born in the House Ansaac in the Castle Aberleen. As the only daughter of the Earl, she was loved by all her family since birth. When she grew up, her eminent family background coupled with her captivating beauty made her one of the most popular noble ladies around the Castle Aberleen, and maybe even the whole Empire. However, her royal origin was inevitably bound to the tragedy as was to become a political tool of her father Earl Anssac, consolidating power by betrothing her to another family of power.
 
-As time passed, Carmilla noticed oddities about Cecilion: he lived in solitude, avoided needless contact, and his skin was always pale. She suspected he had some connection to the legendary blood demon species. Cecilion never spoke of his origins, but Carmilla believed his love was real; species did not matter to her.
+Though countless aristocrats tried to court Carmilla, none of them pleased her. Her innate pride made her refuse to bow down to mediocrity. What she wanted was someone who could connect with her soul. But, her father Earl Ansaac had already made his decision. As the threat of the abyss was getting closer, he knew that the new class of military-nobles would dominate the politics of the land. Thus, he had to establish good relations with them in order to sustain the social status of his family. However, a man who was a rather insignificant to the old Earl foiled this plan. This man was Cecilion, the best opera singer in the southern Empire. Carmilla became his most loyal audience since the first day he came to the Castle Aberleen. In Carmilla’s eyes, he was just so elegant and talented, but she could also read the melancholy and the mystery from his eyes. For every performance of Cecilion, Carmilla would sit in the right middle in the auditorium, quietly enjoying his song performance.
 
-Her father forbade the marriage and imprisoned her, forcing her to marry Baron Tawil, a general stationed nearby. The Earl even closed the opera house to try to make her forget Cecilion. Believing the love between a blood demon and mankind could never be true, Cecilion ultimately decided to leave. He wrote a letter revealing his origins and left it with a rose at her windowsill.
+One day, as the curtains called, Cecilion and Carmilla's eyes met. The flames of passion ignited between them. And like a bolt of lightning cracking open the dark night sky, they instantly fell in love.
 
-Carmilla fought against her father's will, but her heart broke when she read the parting letter. Without him her life felt meaningless. She stood at the window, watched the direction he left toward, and at dawn slit her wrist with a dagger. The world fell into darkness; she buried her love in her own way.
+The days that followed were the happiest ones in Carmilla's life. When night fell, Cecilion dressed up and came to invite her to the opera house, singing songs he composed for her. And Carmilla watched his performance intently, never taking her eyes off him. When the performance ended, they dated at the backstage, dancing in the moonlight. And in the early morning, Cecilion would put a rose on Carmilla's windowsill that was nourished by the morning dew and leave quietly.
 
-When Carmilla awoke, she found herself in Cecilion’s arms. His eyes were kind; he had returned and revived her with his blood. Her touch was cold and her skin pale as his. The two lonely souls were together again and could live forever. After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again—only legendary tales of the night passed down orally. At night Carmilla nestled in Cecilion's arms atop the castle tower, as if time had stopped.
+As time went by, Carmilla noticed something unusual about Cecilion. He lived in solitude and never had needless contact with others. His skin was always pale, even when he didn’t makeup; and it seemed that he always tried to avoid something. From his eyes, Carmilla could feel his desire for a normal life, and she could vaguely see that Cecilion might have some connection to the legendary blood demon species. Though Cecilion never talked about his origins with her, she still chose to believe in him, because she could feel his love was real. No matter he was man or blood demon, it was just about love between them, and Carmilla believed that she would always belong to Cecilion, and would spend the rest of her life with him.
 
----
+Though they loved each other so deeply, Carmilla’s father the Earl forbade her to marry this humble singer. He imprisoned her and forced her to marry Baron Tawil, the general of the imperial army, who was stationed near the Castle Aberleen. In order to make Carmilla forget Cecilion, the Earl even sent his men to close the opera house. In Cecilion’s mind, he knew that the love between the blood demon and mankind would never be true. Though he loved Carmilla, he finally decided to give up. At the day he left, he wrote a letter to her, in which he told her everything, about his origins, his story, and left it with a rose at her windowsill.
 
-## Night Flower
+Carmilla didn’t stop fighting, she was not willing to succumb to her father's will. But her heart broke when she read his parting letter. To Carmilla, it didn't matter what species he belonged to. She loved him, and without him, her life would become meaningless.
 
-- Night Flower
+She stood at the window, watching the direction Cecilion left to. As the dawn was raising, she slit her wrist with a sharp dagger. The world fell into endless darkness. And Carmilla buried her love in her own way.
 
----
+When Carmilla awoke, she found herself once again in Cecilion’s arms. His eyes were full of kindness, and he was looking at her. Then she found that her touch was so cold, as if she was lifeless, and her skin looked just as pale as Cecilion's. She knew, her lover didn’t abandon her, he returned and revived her with his blood. These two lonely souls finally were together again and could live with each other forever.
 
-## Abilities
+After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again, only the legendary tales of the night, which passed from mouth to mouth over time. When night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time stood still.
 
-### Passive — Vampire Pact
-- Type: Buff / Debuff  
-- Description: Each time Carmilla deals damage to an enemy hero, she steals 7–11 Physical Defense & Magic Defense (scales with level) from them. The stolen Physical and Magic Defense can stack up to 5 times and last 5 seconds. Carmilla can only steal defense from the same enemy hero once every 5 seconds.  
-- Stolen Physical & Magic Defense scaling by hero level: 7.00 → 11.00 (progressive values across levels).  
-- Stack examples:
-  - Level 1: 7 / 14 / 21 / 28 / 35  
-  - Level 8: 9 / 18 / 27 / 36 / 45  
-  - Level 15: 11 / 22 / 33 / 44 / 55  
+# Abilities
+
+## Vampire Pact
+
+Each time Carmilla deals damage to an enemy hero, she steals 7–11 Physical Defense & Magic Defense (scales with level) from them. The stolen Physical and Magic Defense can stack up to 5 times and last 5 seconds. However, Carmilla can only steal defense from the same enemy hero once every 5 seconds.
+
+- Stolen Physical & Magic Defense per level: 7.00 / 7.29 / 7.57 / 7.86 / 8.14 / 8.43 / 8.71 / 9.00 / 9.29 / 9.57 / 9.86 / 10.14 / 10.43 / 10.71 / 11.0
+- Stack scaling examples:
+  - Level 1: 7 / 14 / 21 / 28 / 35
+  - Level 8: 9 / 18 / 27 / 36 / 45
+  - Level 15: 11 / 22 / 33 / 44 / 55
+
+Notes:
+- Only Carmilla's basic attacks and skills can trigger Vampire Pact.
+- Enemies can purify themselves to remove the invisible debuff from this skill.
+
+## Crimson Flower
+
+Carmilla summons two Crimson Flowers that circle around her for 5 seconds, dealing magic damage each time they hit an enemy (damage based on skill level and magic power) and slowing them by 10% for 0.8 seconds. The slow effect stacks up to 50% (see scaling). The circling speed of the Crimson Flowers also increases with each hit (speed scaling unknown).
+
+Carmilla recovers health each time a Crimson Flower deals damage (amount based on spell vamp and level). This healing is reduced to 30% when hitting Minions.
+
+- Mana Cost: 50 / 58 / 66 / 74 / 82 / 90
+- Spellvamp Ratio: 50%
+- Level scaling (Base Damage): 100 / 120 / 140 / 160 / 180 / 200
+- HP Regen scaling: 75 / 90 / 105 / 120 / 135 / 150
+- Slow Effect scaling: 10% / 20% / 30% / 40% / 50%
+
+Notes:
+- This is a Magic Damage Skill.
+- Movement Speed reduction (slow) lasts 0.8 seconds per hit and can stack up to 50%.
+
+## Bloodbath
+
+Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5 seconds. Carmilla can unleash the accumulated Bloodbath Energy on a target enemy hero or Creep, dealing magic damage (amount scales with accumulation time and magic power) and stunning them. The damage and stun duration scale with the accumulation time (up to 100%).
+
+- Cooldown: 12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0 (varies by level)
+- Mana Cost: 85 / 100 / 115 / 130 / 145 / 160
+- Base Damage (level scaling): 150 / 180 / 210 / 240 / 270 / 300
 - Notes:
-  - Only Carmilla's basic attacks and skills can trigger Vampire Pact.  
-  - Enemies can purify themselves to remove the invisible debuff from this skill.
+  - Cooldown only starts when the skill was cast or expired.
+  - Bloodbath Energy can fully charge for 2.5 seconds, and can overcharge for another 2 seconds.
+  - Stun duration scales with charge (stun formula and exact scaling vary with charge duration).
 
----
+This is a Magic Damage Skill and grants a temporary Movement Speed boost while charging.
 
-### Skill 1 — Crimson Flower
-- Type: Magic Damage Skill / Heal  
-- Cooldown: 9.0 s  
-- Mana cost: 50 / 58 / 66 / 74 / 82 / 90  
-- Description: Carmilla summons two Crimson Flowers that circle around her for 5 seconds, dealing damage each time they hit an enemy and slowing them by 10% for 0.8 s (slow stacks up to 50%). The circling speed of the Crimson Flowers increases with each hit. Carmilla recovers HP each time a Crimson Flower deals damage (only 30% of that recovery when hitting Minions).  
-- Spellvamp ratio: 50%  
-- Level scaling:
-  - Base Damage: 100 / 120 / 140 / 160 / 180 / 200  
-  - HP Regen: 75 / 90 / 105 / 120 / 135 / 150  
-- Slow scaling (stack): 10% / 20% / 30% / 40% / 50%  
-- Notes: speed of the flowers increases with hits; precise speed values unspecified.
+## Curse of Blood
 
----
+Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8 seconds, enemies still within the area will take magic damage and will be immobilized for 1 second, slowed by 30% and linked for 5 seconds. When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of that damage and become controlled for the same duration. Enemies can move away from one another to break the link.
 
-### Skill 2 — Bloodbath
-- Type: Magic Skill (Speed Up / CC)  
-- Cooldown: 12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0 s  
-- Mana cost: 85 / 100 / 115 / 130 / 145 / 160  
-- Description: Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5 seconds. She can unleash the accumulated energy on a target enemy hero or creep, dealing damage and stunning them for 0.6 s. Damage and stun duration scale with accumulation time (up to 100%). Cooldown only starts when the skill is cast or expired. Bloodbath Energy fully charges in 2.5 s and can overcharge for another 2.0 s.  
-- Level scaling — Base Damage: 150 / 180 / 210 / 240 / 270 / 300  
-- Example math (provided in sources):
-  - base damage = [120 + (30 × skill level)] + [100% + (40% × skill duration)]  
-  - magic bonus = 120% + (48% × skill duration)  
-  - stun duration = 0.32 × skill duration  
-  - where 0 s ≤ skill duration ≤ 2.5 s
+- Cooldown: 60.0 / 52.0 / 44.0 (varies by level)
+- Mana Cost: 150 / 175 / 200
+- Base Damage (level scaling): 275 / 400 / 525
+- Spellvamp Ratio: 50%
 
----
+This is a Magic Damage Skill that provides heavy crowd control through immobilize, slow, and damage-link mechanics.
 
-### Ultimate — Curse of Blood
-- Type: Magic Damage Skill / CC  
-- Cooldown: 60.0 / 52.0 / 44.0 s  
-- Mana cost: 150 / 175 / 200  
-- Description: Carmilla casts Curse of Blood on a target location, initially slowing enemies hit by 50%. After 0.8 s, enemies still inside take damage and are immobilized for 1.0 s, slowed by 30% and become linked for 5 s. When a linked enemy takes damage or becomes controlled, all other linked targets take 50% of that damage and become controlled for 100% of the duration. Enemies can break the link by moving away from each other. Range unspecified.  
-- Spellvamp ratio: 50%  
-- Level scaling — Base Damage: 275 / 400 / 525
+## Vermeil Shadow
 
----
+Summons Carmilla to become a Vermeil Shadow as she wraps herself around Cecilion, granting him a shield. Carmilla leaves Cecilion and charges at the target location, gaining an equal shield while dealing magic damage to enemies hit and slowing them by 30% for 1 second. The cooldowns of her other skills will also reset.
 
-## Other
+- During the Vermeil Shadow state, Carmilla's active skills are replaced with the "Vermeil Shadow" skill.
+- Carmilla will be untargetable after becoming a Vermeil Shadow. Cecilion's death or casting this skill will end the state.
+- This skill can only be used within 5 seconds, and then Carmilla will be immediately detached to Cecilion's body if it expired.
+- Hero-level scaling (Shield / Magic Damage by level): 520 / 540 / 560 / 580 / 600 / 620 / 640 / 660 / 680 / 700 / 720 / 740 / 760 / 780 / 800
 
-- Associated hero: Cecilion  
-- Misc scaling samples: base 500 at level 20 for some shield/MD values.  
-- Abilities and AI tags present: Crimson Flower; Bloodbath; Moonlit Waltz; Broken Heart.
+Notes:
+- Cecilion will be unable to use this if an allied Carmilla bought a specific item in the Shop (design detail from source).
+- This ability functions as a blink/untargetable state combined with a shield and area magic damage that slows enemies.
 
-### Vermeil Shadow
-- Type/effects: Blink / Slow  
-- Description: Carmilla can become a Vermeil Shadow — she wraps around Cecilion, granting him a shield; Carmilla detaches and charges to a target location, gaining an equal shield while dealing magic damage to enemies hit and slowing them by 30% for 1 s. The cooldowns of her other skills reset.  
-- Hero-level scaling examples:
-  - Base Shield & Magic Damage (progressive): 520 → 800 across levels  
-- Notes:
-  - This state can only be used within 5 seconds; otherwise Carmilla is immediately detached back to Cecilion if it expires.  
-  - During Vermeil Shadow state, her active skills are replaced with the Vermeil Shadow skill.  
-  - Carmilla becomes untargetable when becoming Vermeil Shadow. Cecilion's death or casting this skill ends the state.  
-  - Cecilion will be unable to use this if an allied Carmilla bought a certain item in the Shop (item unspecified).
+# Trivia
 
----
-
-## Trivia
-
-- She might be based on Carmilla, the 1872 gothic novella by Sheridan Le Fanu — an early work of vampire fiction. (See: Carmilla — https://en.wikipedia.org/wiki/Carmilla ; Sheridan Le Fanu — https://en.wikipedia.org/wiki/Sheridan_Le_Fanu)  
-- Her Ultimate skill "Curse of Blood" is the first skill to link enemies, spreading damage and crowd control effects.  
+- - She might be based on *Carmilla*, an 1872 gothic novella written by Sheridan Le Fanu and also one of the earliest works of vampire fiction.
+- Her Ultimate Skill "Curse of Blood" is the first skill to link enemies spreading damage and cc effects.
 - Her quote "Whoever wrote my script is a long-winded bastard." is the first canon quote that features profanity.
-
-> "Whoever wrote my script is a long-winded bastard."
-
-- Her epic skin "Astral Arcana" is her only skin that has no counterpart.  
-- In early development, Carmilla was planned as a mage, similar to Alice, with abilities focusing on damage and life drain.  
-- Carmilla’s final design resembles a vampire noble; earlier concept art showed her more like a ghostly spirit.
-
----
-
-Gallery (filenames only — image links omitted)
-- File:Carmilla_trailer.jpg  
-- File:Carmilla_human.jpg  
-- File:Profile_CN_Carmilla.jpg  
-- File:<gallery>  
-- File:</gallery>  
-- (several empty/unnamed file entries omitted)
+- Her epic skin "Astral Arcana" is her only skin that has no counterpart.
+- In early development, Carmilla was planned as a mage, similar to Alice, with abilities that focused on damage and life drain.
+- Carmilla’s final design resembles a vampire noble, but earlier concept art had her looking more like a ghostly spirit.

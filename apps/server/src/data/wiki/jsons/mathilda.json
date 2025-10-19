@@ -77,9 +77,6 @@
         "template": "hi"
       },
       {
-        "template": "cite"
-      },
-      {
         "text": "A brave girl who stands up and doesn't fear power",
         "template": "quote"
       }
@@ -140,6 +137,12 @@
       }
     ],
     "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
       {
         "template": "citation",
         "type": "inline",

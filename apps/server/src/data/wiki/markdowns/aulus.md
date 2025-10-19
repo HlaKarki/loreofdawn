@@ -1,22 +1,25 @@
 # Aulus
 
-Infobox
+# Profile
+
 - Alias: Warrior of Ferocity
 - Origin: Lantis Mountain, The Barren Lands
 - Species: Leonin
 - Gender: Male
-- Weapon: War Axe
-- Relationships: *,, (companions); * (enemy)
-- Voice actor: Kaoru Kawaguchi (河口薫)
-- Image: Aulus comic.jpg
+- Weapons: War Axe
+- Relationships: *,, (companions)
+* (enemy)
+- Voice Actor (JA/VA): Kaoru Kawaguchi (河口薫)
+
+# Story
 
 > "A Leonin warrior that fights to prove himself."
 
-Story
+Aulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe. To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats. But as a Leonin, all he ever faced was prejudice and injustice from the world.
 
-Aulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe. To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats. But as a Leonin, all he ever faced was prejudice and injustice from the world. No longer able to bear it, Aulus headed toward the Lantis Mountains alone to hunt demons. Here, his strong rage awoke the slumbering battleaxe and henceforth they fought side by side to prove themselves, and the power of Leonins.
+No longer able to bear it, Aulus headed toward the Lantis Mountains alone to hunt demons. Here, his strong rage awoke the slumbering battleaxe and henceforth they fought side by side to prove themselves, and the power of Leonins.
 
-Lore
+# Bio
 
 In Aulus’ home stored a powerful battleaxe long forgotten by the Leonins. Legend has it that this battleaxe had fought alongside their ancestors and achieved countless feats, and within it lied great power. But after a century of peace and security, this weapon of war was gradually ignored and despised by the Leonins, and even worse, it became a farming tool used to chop firewood.
 
@@ -42,57 +45,56 @@ At that moment, Aulus felt power surging into both of his hands and the battleax
 
 On the Lantis Mountains, another group were also fighting to prove their powers – Benedetta and her ranger squad, and Aulus joined them without much hesitation. He believed that through battles, he’d become a respected warrior one day. At this time, he’d no longer be fighting for himself, but to prove his strength to the whole Land of Dawn and to crush people’s prejudices against the Leonins.
 
-Abilities
+# Abilities
 
-Passive
+## Fighting Spirit
 
 > "A war axe that fights more fiercely as the battle continues."
 
-Fighting Spirit
-- Effect type: BUFF
-- Flavor: A war axe that fights more fiercely as the battle continues.
-- Description: Aulus adds a stack to his axe per second for 3 seconds after dealing damage to any enemy (up to 4 stacks). Each stack grants 9–15% extra Attack Speed and 1–4 Physical Penetration (scales with level). At max Fighting Spirit stacks, Aulus also gains 10% extra Movement Speed and 42–210 Basic Attack Damage (scales with level).
+Aulus adds a stack of Fighting Spirit to his axe per second for 3 seconds after dealing damage to any enemy (up to 4 stacks). Each stack grants 9-15% extra Attack Speed and 1-4 Physical Penetration (scales with level). Aulus also gains 10% extra Movement Speed and 42-210 Basic Attack Damage at max Fighting Spirit stacks (scales with level).
+
 - Extra Physical Attack: 3 / 6 / 9 / 12
 - Physical Penetration: 1 / 2 / 3 / 4
+- Terms: Physical ATK, Physical PEN, Movement Speed
 
-Undying Fury (listed as passive component)
-- (See Ultimate for full details)
+## Aulus, Charge!
 
-Skill 1 — Aulus, Charge!
-- Effects: Speed Up, Slow
-- Type: Physical Skill
-- Cooldown: 16.0 / 15.6 / 15.2 / 14.8 / 14.4 / 14.0 s
-- Mana Cost: 50 / 55 / 60 / 65 / 70 / 75
-- Description: Aulus removes all slow effects and gains 30–50% extra Movement Speed and 20–50% Damage Reduction against attacks from the front for 5 seconds.
+Aulus removes all slow effects and gains 30-50% extra Movement Speed and 20-50% Damage Reduction against attacks from the front for 5 seconds.
+
 - Movement Speed Bonus: 30% / 34% / 38% / 42% / 46% / 50%
 - Damage Reduction: 30% / 34% / 38% / 42% / 46% / 50%
+- Terms: Movement Speed, Damage Reduction
 
-Skill 2 — The Power of Axe
-- Effects: Burst, BUFF
-- Type: Physical Skill
-- Cooldown: 5.0 s
-- Mana Cost: 40 / 46 / 52 / 58 / 64 / 70
-- Description: Aulus brandishes his axe, dealing damage to enemies in a fan-shaped area, and enhancing his next Basic Attacks for 3 seconds after hitting enemy heroes or creeps. Aulus recovers HP by 50–100 (per Basic Attack).
+Cooldown and mana cost scale by level as listed.
+
+## The Power of Axe
+
+Aulus brandishes his axe, dealing damage based on skill level and his stats to enemies in a fan-shaped area, and enhancing his next Basic Attacks for 3 seconds after hitting enemy heroes or Creeps. Aulus recovers HP by 50-100 per Basic Attack.
+
 - Base Damage: 150 / 230 / 310 / 390 / 470 / 550
 - Attack Speed Boost: 100% / 120% / 140% / 160% / 180% / 200%
-- (Also lists an "extra PA" scaling of 120 and other scale notes.)
+- Term: Healing Effect
 
-Ultimate — Undying Fury
-- Passive (crafting progression): Every time the ultimate is upgraded, Aulus crafts a part for his axe in order:
-  - Permanently increases his Basic Attacks' [value] by 50.
-  - Permanently increases his Attack Range by 65% and the range of [ability].
-  - Permanently increases his Physical Penetration by 20%.
-- Active:
-  - Type: Physical Damage / Physical Skill
-  - Cooldown: 50.0 / 45.0 / 40.0 s
-  - Mana Cost: 150 / 180 / 210
-  - Description: Aulus raises his axe and smashes it to the ground, dealing physical damage to enemies in a line and slowing them by 90% for 0.5 s. A burning trail that lasts for 5 seconds is left on the ground, dealing sustained physical damage to enemies who walk on it every 0.5 s and slowing them by 70%.
-  - Base Damage: 210 / 250 / 290
-  - Sustained Damage: 90 / 110 / 130
-  - Additional noted scalings: extra physical attack scaling (e.g., 100), physical penetration increases, and movement speed terms.
+Damage and healing scale with skill level and Aulus' attack stats.
 
-Trivia
-- He is the 3rd Leonin to be introduced in the game along with [other Leonins].
-- He speaks in a Scottish accent.
-- The item War Axe is his weapon. If you sell the War Axe in-game, he will say:
-> "Goodbye old friend".
+## Undying Fury
+
+Every time it is upgraded, Aulus crafts a part for his axe in order:
+
+- Permanently increases his Basic Attacks' damage by 50.
+- Permanently increases his Attack Range by 65% and the range of his basic attacks.
+- Permanently increases his Physical Penetration by 20%.
+
+Active: Aulus raises his axe and smashes it to the ground, dealing physical damage to enemies in a line and slowing them by 90% for 0.5 seconds. A burning trail that lasts for 5 seconds is left on the ground, dealing damage based on skill level and stats to enemies who walk on it every 0.5 seconds and slowing them by 70%.
+
+- Base Damage: 210 / 250 / 290
+- Sustained Damage (per tick): 90 / 110 / 130
+- Terms: Physical Penetration, Physical Damage, Movement Speed
+
+Cooldown and mana cost scale with ultimate level as listed.
+
+# Trivia
+
+- He is the 3rd leonin to be introduced in the game along with and.
+- He speaks in Scottish accent.
+- The item War Axe is his weapon. If you sell war axe in game, he will quote *"Goodbye old friend".*

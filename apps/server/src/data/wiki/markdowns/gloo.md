@@ -1,36 +1,24 @@
 # Gloo
 
-## Stats
-- Magic Defense: 15 (level 1) → 71 (level 15)
-- Physical Defense: 18 (level 1) → 107 (level 15)
+# Profile
 
-# Story
-
-Gallery (images omitted):
-- File:Gloo_comic.jpg
-- File:Goo_comic.jpg
-
-Associated characters:
-- Karina
-- Miya
-- Eudora
-
-Details
 - Alias: Swamp Spirits
-- Origin: Shadow Swamp, Azrya Woodlands (Shadow Swamp; Azrya Woodlands)
+- Origin: Shadow Swamp, Azrya Woodlands
 - Species: Swamp spirit
 - Gender: Genderless
-- Affiliation: Shadow Swamp (Shadow Swamp)
+- Affiliation: Shadow Swamp
 - Likes: Apples
-- Relationships: *
 - Japanese VA: Takeda Taichi (武田 太一)
 - English VA: Aaron Veach
 
-# Lore
+- Base Physical Defense: 18 (Level 1) | 107 (Level 15)
+- Base Magic Defense: 15 (Level 1) | 71 (Level 15)
 
-During a huge war waged in the Barren Lands, the Moniyan Empire's Second Regiment was almost entirely annihilated. Among the sea of corpses strewn all around, a Moniyan soldier had managed to survive; yet lost every one of his comrades, and was left to walk back to his homeland alone. (Barren Lands; Moniyan Empire)
+# Story
 
-Dark clouds shroud the Barren Lands year in, year out. Without the sun, moon and stars to guide his path, this solitary survivor lost his way and strayed into the Shadow Swamp. (Shadow Swamp)
+During a huge war waged in the Barren Lands, the Moniyan Empire's Second Regiment was almost entirely annihilated. Among the sea of corpses strewn all around, a Moniyan soldier had managed to survive; yet lost every one of his comrades, and was left to walk back to his homeland alone.
+
+Dark clouds shroud the Barren Lands year in, year out. Without the sun, moon and stars to guide his path, this solitary survivor lost his way and strayed into the Shadow Swamp.
 
 Both the earth and water found within the forests of the Shadow Swamp are corrupted by the Abyss, leaving the place moist and putrid. The man's extreme hunger and fatigue, together with the endless forest that surrounded him, plunged him into darkness and despair.
 
@@ -46,21 +34,21 @@ The strange sensation that ran down his back faded away as he stopped, yet it wa
 
 Could that thing be behind all of this? The soldier was determined to get to the bottom of it all, and ploughed ahead in the direction the figure had taken. From the vegetation there emanated a loud rustling, and it seemed some kind of violent struggle was taking place within.
 
-And so as the soldier crept over stealthily, reaching out to push aside a branch, there appeared before him a little critter about the size of a coal briquette; he prepared to catch it and study it more closely, yet before he could make a move, countless others had emerged from all around. They stacked together in an orderly fashion, and in a little over ten seconds the creature no bigger than a lump of coal had transformed into a mighty beast. This struck terror into the heart of the poor Moniyan soldier who fainted on the spot. But when he awakened once more[,] he found himself no longer within the swamp, instead upon the border of the Barren Lands and the Empire.
+And so as the soldier crept over stealthily, reaching out to push aside a branch, there appeared before him a little critter about the size of a coal briquette; he prepared to catch it and study it more closely, yet before he could make a move, countless others had emerged from all around. They stacked together in an orderly fashion, and in a little over ten seconds the creature no bigger than a lump of coal had transformed into a mighty beast. This struck terror into the heart of the poor Moniyan soldier who fainted on the spot. But when he awakened once more, he found himself no longer within the swamp, instead upon the border of the Barren Lands and the Empire.
 
-Upon returning to the empire[,] he regaled those all around with this tale. The Moniyan citizens held much respect for this veteran, yet dismissed his story as merely the hallucinations of a man racked by fatigue while having narrowly escaped death.
+Upon returning to the empire, he regaled those all around with this tale. The Moniyan citizens held much respect for this veteran, yet dismissed his story as merely the hallucinations of a man racked by fatigue while having narrowly escaped death.
 
 After all, even the most learned scholars in Moniyan had never even heard of such a creature. There was little the soldier could do but write his experiences down on paper instead, that evidence to be uncovered in later ages could perhaps prove his sanity.
 
 As luck would have it, he didn't have to wait quite so long. This dream of his was realized while he was still alive and well.
 
-When the Elven text "Azrya" reached the Academy of Magic, a student from the Moniyan Empire read records within of a faction called the Gloo—records which conformed directly with the experiences of that Moniyan soldier he'd read before. (Azrya — Azrya Woodlands)
+When the Elven text "Azrya" reached the Academy of Magic, a student from the Moniyan Empire read records within of a faction called the Gloo--records which conformed directly with the experiences of that Moniyan soldier he'd read before.
 
-The curious student sought the dean of the Ulturia School, Eudora, who having glanced over the soldier's writings confirmed that they indeed described a Gloo encounter. (Ulturia School — Magic Academy; Eudora)
+The curious student sought the dean of the Ulturia School, Eudora, who having glanced over the soldier's writings confirmed that they indeed described a Gloo encounter.
 
-Having heard it from Eudora, mankind became aware of Gloo—peculiar beings with peculiar ways of living. Through a mysterious secretion, once just one of their number had attached to any living being, they could then begin to completely enshroud it.
+Having heard it from Eudora, mankind became aware of Gloo--peculiar beings with peculiar ways of living. Through a mysterious secretion, once just one of their number had attached to any living being, they could then begin to completely enshroud it.
 
-What's more, this gel-like outer coating of theirs acted as a cognizant organ that allowed unique neural networks to function among individual “Goos” which formed the larger sensation “Gloo”. Of these beings some would hold higher roles within the network, commanding all the others when they combined into one form. Through merging in different number[,] they were able to control their size and shape at will.
+What's more, this gel-like outer coating of theirs acted as a cognizant organ that allowed unique neural networks to function among individual “Goos” which formed the larger sensation “Gloo”. Of these beings some would hold higher roles within the network, commanding all the others when they combined into one form. Through merging in different number, they were able to control their size and shape at will.
 
 Goos were found to be intelligent and pure beings, proud of their 'group wisdom' they shared which was mostly used to pull pranks on the neighboring Elves. When she heard of the Moniyan soldier's bizarre adventure, she realized what had happened: a group of Goos must had wandered out too far, and so they latched on to him as a larger organism to hitch a ride back home.
 
@@ -78,73 +66,64 @@ Eudora was by no means unaware of Goo’s predicament. At the end of the Moniyan
 
 When the fates of all the peoples become interlinked together, where will the gentle Gloo head to next?
 
+# Bio
+
+
+
 # Abilities
 
-## Passive
+## Stick, Stick
 
-- Sticky (linked term)
-- Sticky (linked term)
+- Description: Enemies gain a stack each time they're hit by Gloo's skills, decreasing their Movement Speed by 4% for 6 seconds. Stacks up to 5. Each stack on an enemy reduces their damage dealt to Gloo by 4%.
 
-Stick, Stick
-- Effects: Slow; BUFF
-- Description: Enemies gain a stack of each time they're hit by Gloo's skills, decreasing their Movement Speed by 4% for 6 seconds. Stacks up to 5. Each stack of  on an enemy reduces their damage dealt to Gloo by 4%.
-- Terms: Damage Reduction; Movement Speed
+- Effects:
+  - Slow: Reduces enemy Movement Speed by 4% per stack (lasts 6 seconds).
+  - Damage Reduction: Each stack reduces damage dealt to Gloo by 4%.
 
-## Skill 1
+- Notes: Stacks up to 5; stacking behavior applied when hit by any of Gloo's skills.
 
-Slam, Slam
-- Scales / costs:
-  - Base: 80
-  - Total MP: 80
-  - Extra HP scaling: 300–450 base; extra HP 12
-  - Also lists: Max HP
-  - Other entries: "80 to 80 6"; "300 to 450 6"
-- Effects: AOE; CC
-- Description: Gloo reaches out and slams the ground, dealing to the enemy. At the final, a  is left behind that explodes after 3 seconds to deal  to nearby enemies and immobilize them for 1 second. If Gloo touches the, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5%–5% of  if the explosion hits an enemy (doubled if hits an enemy hero).
-- Spellvamp ratio: 50%
-- Cooldown: 10.0 / 9.2 / 8.4 / 7.6 / 6.8 / 6.0
-- Mana cost: 25 / 30 / 35 / 40 / 45 / 50
-- Level scaling notes: Base Damage: ; Extra Base Damage: ; HP Regen: 2.5% / 3% / 3.5% / 4% / 4.5% / 5%
+## Slam, Slam
 
-## Skill 2
+- Cooldown: 10.0 / 9.2 / 8.4 / 7.6 / 6.8 / 6.0 seconds (values by level).
+- Mana Cost: 25 / 30 / 35 / 40 / 45 / 50 (values by level).
 
-Spread, Spread
-- Scales / costs:
-  - Base: 100–200
-  - Total MP: 80
-  - Secondary base: 80 (Total MP 15)
-  - Other entry: "100 to 200 6"
-- Effects: CC; AOE
-- Description: Gloo splits into Goos, dealing to enemies in a fan-shaped area and immobilizing them for 0.5 seconds. While split, Gloo gains 10% Movement Speed and deals  every 0.25 seconds to enemies it touches, lasting 4 seconds. If this skill hits a Goo, Gloo will charge over to merge with it, dragging enemies in its path in the same direction for a distance.
-- Spellvamp ratio: 50%
-- Cooldown: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0
-- Mana cost: 80 / 88 / 96 / 104 / 112 / 120
-- Level scaling: Base Damage:
+- Description: Gloo reaches out and slams the ground, dealing damage based on level and stats to enemies. At the final, a goo marker is left behind that explodes after 3 seconds to deal scaling damage to nearby enemies and immobilize them for 1 second. If Gloo touches the goo marker, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5%–5% of its health (scaling with level) if the explosion hits an enemy (healing doubled if it hits an enemy hero).
 
-## Ultimate
+- Additional Details:
+  - Spellvamp Ratio: 50%.
+  - HP Regen (on hit / explosion): 2.5% / 3% / 3.5% / 4% / 4.5% / 5% (values by level).
+  - Damage values scale with level and Gloo's stats (scaling damage).
 
-Grab, Grab
-> One is all. (All is one.)
+## Spread, Spread
 
-- Unlock: Unlocked when any enemy hero has full Sticky stacks.
-- Effects: Attach; Heal
-- Description: Gloo attaches itself to the target enemy hero for up to 9 seconds, recovering 25%–30% of its . For the duration, its are converted to deal, and it transfers 80% of the damage it receives (excluding damage from turrets) to its host. If the target dies while attached, this skill's cooldown is reduced to 5 seconds.
-- Spellvamp ratio: 50%
-- Cooldown: 50.0
-- Mana cost: 150
-- Level scaling: *Attached Regen: 25% / 27.5% / 30%*; *Base Attack Damage:*
-- Notes:
-  - Gloo lingers on the host even when the host becomes untargetable.
-  - Gloo can freely use any battle spells and equipments while Mobility ones are disabled.
-  - **,, are disabled.**
-  - ** is not disabled but  is disabled.**
-- Related: Flicker; Arrival; Recall; Wind of Nature; Winter Crown
-- Scaling references: Max HP; Basic Attacks; Base: 30–90 (total MP 50; extra HP 6); "30 to 90 3"
+- Cooldown: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds (values by level).
+- Mana Cost: 80 / 88 / 96 / 104 / 112 / 120 (values by level).
+
+- Description: Gloo splits into Goos, dealing scaling damage to enemies in a fan-shaped area and immobilizing them for 0.5 seconds. While split, Gloo gains 10% Movement Speed and deals scaling damage every 0.25 seconds to enemies it touches, lasting 4 seconds. If this skill hits a Goo, Gloo will charge over to merge with it, dragging enemies in its path in the same direction for a distance.
+
+- Additional Details:
+  - Spellvamp Ratio: 50%.
+  - Periodic damage and initial hit damage scale with level and Gloo's stats (scaling damage).
+
+## Grab, Grab
+
+- Cooldown: 50.0 seconds.
+- Mana Cost: 150.
+
+- Description: Unlocked when any enemy hero has full Sticky stacks. Gloo attaches itself to the target enemy hero for up to 9 seconds, recovering 25%–30% of its Max HP (values by level). For the duration, Gloo's basic attacks and damage interactions are altered (converted to deal damage to the target or as described by the ability) and it transfers 80% of the damage it receives (excluding damage from turrets) to its host. If the target dies while attached, this skill's cooldown is reduced to 5 seconds.
+
+- Additional Details:
+  - Attached Regen: 25% / 27.5% / 30% (values by level).
+  - Spellvamp Ratio: 50%.
+  - Notes:
+    - Gloo lingers on the host even when the host becomes untargetable.
+    - Gloo can freely use any battle spells and equipments while Mobility ones are disabled.
+    - Some mobility-related effects are disabled while attached.
+
+- Quote: "One is all. (All is one.)"
 
 # Trivia
 
 - The name Gloo is a pun of the word "Glue", referencing his to stick to an enemy hero.
 - Gloo is the second hero who can attach to another hero and use skills upon attaching, the first being.
 - Gloo is the first hero who attaches to an enemy hero, while attaches to an allied hero.
-
-Related entries mentioned: Grab, Grab (Ultimate); Angela (listed twice).

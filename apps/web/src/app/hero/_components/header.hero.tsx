@@ -31,15 +31,16 @@ export const HeroHeader = ({ hero }: { hero: ConsolidatedHero }) => {
 
 	return (
 		<div className="relative mb-8 overflow-hidden rounded-xl">
-			<div
-				style={{
-					backgroundImage: `url(${bannerImage})`,
-					backgroundSize: "cover",
-					backgroundPosition: "center top",
-					backgroundRepeat: "no-repeat",
-				}}
-				className="absolute inset-0 opacity-20"
-			/>
+			<div className="absolute inset-0 opacity-20">
+				<Image
+					src={bannerImage}
+					alt=""
+					fill
+					sizes="100vw"
+					className="object-cover object-top"
+					priority
+				/>
+			</div>
 			<div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-background" />
 			<div className="relative flex flex-col gap-6 px-0 py-6 md:p-8">
 				<div className="flex flex-1 flex-col gap-4">

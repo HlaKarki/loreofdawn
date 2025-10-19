@@ -1,56 +1,38 @@
 # Bane
 
-Infobox
-- Image: Bane trailer.png
-- Alias:
-  - Frozen King
-  - Lord of Heptaseas (prev.)
-  - Lord of the Seven Seas (prev.)
+# Profile
+
+- Aliases: *Frozen King*; *Lord of Heptaseas (prev.)*; *Lord of the Seven Seas (prev.)*
 - Species: Half-man, half-octopus
 - Gender: Male
-- Occupation:
-  - Leader of Black Shark Pirates
-  - Captain of Behemoth pirate ship
+- Occupation: *Leader of Black Shark Pirates*; *Captain of Behemoth pirate ship*
 - Affiliation: Black Shark Pirates
-- Weapons:
-  - Blade of the Heptaseas
-  - Crab Claw Cannon (Skill 1)
-- Abilities:
-  - Infuses his blade with Tidal Energy (Passive)
-  - Drinks ale and spits venom afterwards (Skill 2)
-  - Summons school of sharks (Ultimate)
+- Weapons: *Blade of the Heptaseas*; *Crab Claw Cannon*
+- Abilities: *Infuses his blade with Tidal Energy*; *Drinks ale and spits venom afterwards*; *Summons school of sharks*
 - Battles fought: Fighters on the Stormy Sea
 - Traits: Cruel, cunning, violent, and tyrannical
-- Relationships:
-  - Unnamed uncle (killed by Bane)
-  - ,, (enemies)
-- Voice actors:
-  - EN: Andy Mack (2021–)
-  - JA: Takeda Taichi (武田 太一)
+- Relationships: *Unnamed uncle (killed by Bane)*; enemies
+- Voice actors: EN: Andy Mack (2021–); JA: Takeda Taichi (武田 太一)
 
----
-
-## Story
+# Story
 
 > "Cruel pirate leader, Franco's sworn enemy"
 
-Bane is a pirate stationed in the Frozen Ocean. He once ruthlessly ruled the vast seas of the Northern Vale (Northern Vale). He was a sworn enemy of Franco, later suffering a defeat at Franco's hands. By chance, he became the half-man, half-octopus he is today.
+Bane is a pirate stationed in the Frozen Ocean. He once ruthlessly ruled the vast seas of the Northern Vale. He was a sworn enemy of Franco, later suffering a defeat at Franco's hands. By chance, he became the half-man, half-octopus he is today.
 
-### Lore
-
-The excellent jewelry and leather products of the people of the Northern Vale not only gave rise to their booming maritime trade economy, but also brought about many illegal dealings, such as with the notorious pirates of the Northern Vale (Northern Vale). For a long time, the pirates of the Frozen Seas and other sea regions existed as bands (Frozen Seas). They divided territories between themselves, and held to a principle of non-interference, plundering only merchant ships that passed through their own territories, to enrich themselves. This became the de facto rule of the Pirate community.
+The excellent jewelry and leather products of the people of the Northern Vale not only gave rise to their booming maritime trade economy, but also brought about many illegal dealings, such as with the notorious pirates of the Northern Vale. For a long time, the pirates of the Frozen Seas and other sea regions existed as bands. They divided territories between themselves, and held to a principle of non-interference, plundering only merchant ships that passed through their own territories, to enrich themselves. This became the de facto rule of the Pirate community.
 
 This widely respected order lasted until the arrival of Bane and his men. Cruel, cunning, violent, and tyrannical… No list of adjectives commonly given to pirates would be enough to describe Bane's terrible reputation. Born into a family of pirates, Bane was raised and trained in the strictest manner from childhood. By the time he became an adult, Bane was already the most feared pirate of his time.
 
 But young Bane's ambition was far greater than this. Not long after, Bane murdered his uncle, and assumed control of the Behemoth, a seaborne fortress with an enormous battering ram and dozens of cannons, hence truly becoming Captain Bane. He then broke the ancient rule of the pirates, and started to encroach upon other pirates' territories.
 
-Facing Bane's incredible firepower and terrible cruelty, the other pirates had only two options: submit, or be annihilated. More and more fugitives and opportunists gathered under Bane's flag, earning him enough funds to establish a huge Pirate fleet, which came to be known as the Black Sharks. For many years, Bane dominated all of the Frozen Seas's sea routes, literally ruling the people of Northern Vale's coast with an iron fist, and the ever-victorious sea dweller, named himself Lord of the Seven Seas. Some people within Northern Vale who could no longer bear Bane's despotic rule armed themselves and gathered under the banner of his nemesis Franco, to wage a war of resistance against Bane (Franco).
+Facing Bane's incredible firepower and terrible cruelty, the other pirates had only two options: submit, or be annihilated. More and more fugitives and opportunists gathered under Bane's flag, earning him enough funds to establish a huge Pirate fleet, which came to be known as the Black Sharks. For many years, Bane dominated all of the Frozen Seas's sea routes, literally ruling the people of Northern Vale's coast with an iron fist, and the ever-victorious sea dweller, named himself Lord of the Seven Seas. Some people within Northern Vale who could no longer bear Bane's despotic rule armed themselves and gathered under the banner of his nemesis Franco, to wage a war of resistance against Bane.
 
-The desperate Bane ordered his men to risk everything to sink Franco's fleet, but after even after several hours of battle, he was still unable to gain an advantage. At this time, Bane learned of a secret: the Aurora Heart, one of the fragments of the mysterious and powerful Twilight Orb, lay somewhere in the depths the Frozen Sea, and it contained a powerful regenerative power that could help him achieve his dream of conquering the world (Twilight Orb).
+The desperate Bane ordered his men to risk everything to sink Franco's fleet, but after even after several hours of battle, he was still unable to gain an advantage. At this time, Bane learned of a secret: the Aurora Heart, one of the fragments of the mysterious and powerful Twilight Orb, lay somewhere in the depths the Frozen Sea, and it contained a powerful regenerative power that could help him achieve his dream of conquering the world.
 
-Bane came up with a cunning plan to kill two birds with one stone. First, he would let the information out, to attract the attention of the Moniyan Empire's Navy (Moniyan Empire). Then, he would pretend to sue for peace with Franco, revealing the location of the Aurora Heart, and falsely expressing an intention for them to jointly rule the Frozen Sea. However, the true intention of his goal was to use Franco's forces and the Moniyan Empire to help him locate the Ionic Heart, while provoking a battle between them, so the Empire would probably destroy his arch nemesis. He would then swoop in amidst the chaos to seize the Aurora Heart for himself.
+Bane came up with a cunning plan to kill two birds with one stone. First, he would let the information out, to attract the attention of the Moniyan Empire's Navy. Then, he would pretend to sue for peace with Franco, revealing the location of the Aurora Heart, and falsely expressing an intention for them to jointly rule the Frozen Sea. However, the true intention of his goal was to use Franco's forces and the Moniyan Empire to help him locate the Ionic Heart, while provoking a battle between them, so the Empire would probably destroy his arch nemesis. He would then swoop in amidst the chaos to seize the Aurora Heart for himself.
 
-Everything went just as Bane had planned. The Moniyan Empire's massive navy had departed from Castle Grandrock's harbour (Castle Grandrock). Meanwhile, Franco seemed to have believed in him, and led his fleet to search for the Aurora Heart. Both parties finally ran into each other in a narrow region on the eastern edge of the Frozen Sea. As each had been unaware of the other's existence, the Moniyan fleet and Franco's fleet were caught in a tense face-off. Bane's opportunity had arrived. He ordered his men to sneak into both fleets with fast and stealthy boats and suddenly open fire, thus igniting a massive naval battle.
+Everything went just as Bane had planned. The Moniyan Empire's massive navy had departed from Castle Grandrock's harbour. Meanwhile, Franco seemed to have believed in him, and led his fleet to search for the Aurora Heart. Both parties finally ran into each other in a narrow region on the eastern edge of the Frozen Sea. As each had been unaware of the other's existence, the Moniyan fleet and Franco's fleet were caught in a tense face-off. Bane's opportunity had arrived. He ordered his men to sneak into both fleets with fast and stealthy boats and suddenly open fire, thus igniting a massive naval battle.
 
 After both sides had been heavily decimated in the ensuing battle, the mastermind Bane arrived aboard the enormous Behemoth. He looked upon the terrible aftermath of his plan with glee, while commanding his men to destroy the surviving ships and seize the Aurora Heart. Bane smiled contemptuously as he appreciated the "beautiful" scene before him, and savored the hateful curses of the Moniyans. With almost no effort at all, he had manipulated the Moniyans, and eradicated Franco. All he needed now was to find the Aurora Heart, and he would have power enough to conquer the world. Then, neither the Moniyan Empire nor the demons of the Abyss would be able to stand against him...
 
@@ -64,7 +46,11 @@ What Bane could not imagine was that a giant octopus had just then picked him ou
 
 On the Northern Vale's shores, the coming and going merchant ships were busily loading and unloading cargo. In the distant waters, the resurrected Captain Bane was no longer bemoaned his repeated failures. Looking at his new cursed body and the familiar seas, he smiled once again. He had finally awakened from the briny depths, and bringing about his tattered Black Pearl, he was ready to announce his return and renew his reign as the undignified pirate, that he was. This was just the beginning of the game.
 
----
+# Bio
+
+
+
+# Side Story
 
 ## Teeth of the Storm
 
@@ -74,90 +60,77 @@ That night, when Sigismund was alone, contemplating his next move, a shadowy fig
 
 > "Your captain has returned."
 
----
 
-## Fighters on the Stormy Sea
+# Abilities
 
-- Fighters on the Stormy Sea
+## Shark Bite (Tidal Energy)
 
----
+Bane infuses his weapon with a stack each time he uses a skill (up to 2 stacks). Each of his subsequent Basic Attacks consumes a stack to deal scaling physical damage and additionally deal damage based on a percentage of the target's Max HP to nearby enemies. Percent damage dealt is based on the enemy's Max HP (see Level Scaling).
 
-## Abilities
+- Cast Range: 3
+- Effect type: Physical Basic Attack; burst effect on use
+- Level Scaling (damage based on enemy's Max HP): 3.8% / 4.1% / 4.4% / 4.7% / 5.0% / 5.3% / 5.6% / 5.9% / 6.2% / 6.5% / 6.8% / 7.1% / 7.4% / 7.7% / 8.0%.
+- Enemy's Max HP Damage Cap against Creeps: 220 / 240 / 260 / 280 / 300 / 320 / 340 / 360 / 380 / 400 / 420 / 440 / 460 / 480 / 500.
 
-### Passive — Tidal Energy (stack)
-- Type: Physical Damage
-- Scales: Max HP, Physical Attack (as listed below)
-- Base scaling examples:
-  - Max HP: base 200, +20 per level
-  - Physical (base 3.5, +0.3 per level)
-  - Total PA: 100 (displayed)
-- Ability: Shark Bite
-  - Effect: Burst
-  - Description: Bane infuses his weapon with a stack each time he uses a skill (up to 2 stacks). Each of his subsequent Basic Attacks consumes a stack to deal equal to plus of the target's to nearby enemies. (Percent damage dealt based on Max HP Damage Cap against Creeps: . (see Patch Notes 1.7.82 Balance Adjustment))
-  - Cast range: 3
-  - Level scaling (Damage based on enemy's Max HP): 3.8% → 8.0% across levels (see data)
-  - Enemy Max HP Damage Cap against Creeps: 220 → 500 across levels (see data)
-  - Notes:
-    - Bane's enhanced basic attacks deal splash damage around him.
-    - Stacks last for 8 seconds. Timer resets until consumed by Bane's next enhanced Basic Attack.
-    - Only the enhanced portion of his basic attack can critically strike.
+Notes:
+- Bane's enhanced basic attacks deal splash damage around him.
+- Stacks last for 8 seconds. The timer resets if another stack is gained before consumption by an enhanced Basic Attack.
+- Only the physical-damage portion of his enhanced Basic Attack can critically strike.
+- Damage values scale with level and Bane's stats.
 
-### Skill 1 — Crab Claw Cannon
-- Type: Physical Damage Skill
-- Base damage: 150–350 (scales)
-- Additional: Total Physical Attack scaling (Total PA 160 shown)
-- Mana cost: 40
-- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0
-- Description: Bane fires his Crab Claw Cannon in the target direction, dealing damage to the first enemy hit and then 150%–200% damage to a random enemy behind them (prioritizes enemy heroes). Enemies hit are slowed by % for 1 second. Every 100 (stat) that Bane possesses reduces this skill's cooldown by an additional 8%.
-- Level scaling:
+## Crab Claw Cannon
+
+`Skill 1 cooldown formula (for reference): [8.4 - (0.4 × hero lv.)] × (1 - CD reduction) × [1 - (physical attack × 0.08%)]`
+
+Bane fires his Crab Claw Cannon in the target direction, dealing base physical damage to the first enemy hit and then 150%–200% of that damage to a random enemy behind them (prioritizes enemy heroes). Enemies hit are slowed for 1 second. Every 100 points of Physical Attack that Bane possesses reduces this skill's cooldown by an additional 8%.
+
+- Mana Cost: 40
+- Cooldown (per level): 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 (further reduced by Physical Attack as described)
+- Level Scaling:
   - Base Damage: 150 / 190 / 230 / 270 / 310 / 350
-  - Extra Damage: 150% → 200% across ranks
-- Term: Physical Damage Skill
-- Notes:
-  - Cooldown reduction is linear to Bane's stat and not stepwise at every 100 points.
+  - Extra Damage to the secondary target: 150% / 160% / 170% / 180% / 190% / 200%
+- Damage Type: Physical
 
-- Cooldown formula (raw):
-  - `{\\rm Skill\\ 1\\ CD} = \\Bigl\\{\\bigl[8.4 - (0.4 \\times hero\\ lv.)\\bigr] \\times (1 - CD\\ reduction)\\Bigr\\} \\times \\bigl[ 1 -(physical\\ attack \\times 0.08%)\\bigr]`
+Notes:
+- The cooldown reduction from Physical Attack is linear to Bane's Physical Attack and not stepwise at every 100 points.
 
-### Skill 2 — Ale
-- Type: Magic Damage Skill / Healing Effect / Movement Speed
-- Mana cost: 60 / 70 / 80 / 90 / 100 / 110
-- Cooldown: 7.5 / 6.9 / 6.3 / 5.7 / 5.1 / 4.5
-- Description: Bane chugs his ale, recovering plus % of his HP and gaining 50% extra Movement Speed that decays over 2.5 seconds. Bane spits venom in the target direction, dealing damage (scales up to 150% with charging time) to enemies in a fan-shaped area. Every 100 (stat) Bane possesses additionally reduces this skill's cooldown by 7%.
-- Level scaling:
-  - HP Regen: 5% / 6% / 7% / 8% / 9% / 10%
-  - Venom Damage: 250 / 290 / 330 / 370 / 410 / 450
-- Terms: Magic Damage Skill, Healing Effect, Movement Speed
-- Notes:
-  - Cooldown reduction is linear to Bane's stat and not stepwise at every 100 points.
-  - Bane can fully charge the skill for 2.5 seconds, and can overcharge for another 2 seconds.
-  - Cooldown starts when the skill ends.
+## Ale
 
-- Damage formula (raw):
-  - `total skill damage = skill damage × [1 + (0.2 × charging time)]`
+`Total skill damage scales with charging time: total skill damage = skill damage × [1 + (0.2 × charging time)]`
 
-- Cooldown formula (raw):
-  - `{\\rm Skill\\ 1\\ CD} = \\Bigl\\{\\bigl[8.1 - (0.6 \\times hero\\ lv.)\\bigr] \\times (1 - CD\\ reduction)\\Bigr\\} \\times \\bigl[ 1 -(magic\\ power \\times 0.07%)\\bigr]`
+Bane chugs his ale, recovering a percentage of his Max HP (see Level Scaling for exact percentages) and gaining 50% extra Movement Speed that decays over 2.5 seconds. Bane then spits venom in the target direction, dealing magic damage in a fan-shaped area. Venom damage scales up to 150% with charging time. Every 100 points of Magic Power that Bane possesses additionally reduces this skill's cooldown by 7%.
 
-### Ultimate — Deadly Catch
-- Type: AOE / CC (Airborne)
+- Mana Cost: 60 / 70 / 80 / 90 / 100 / 110
+- Cooldown (per level): 7.5 / 6.9 / 6.3 / 5.7 / 5.1 / 4.5 (further reduced by Magic Power as described)
+- Level Scaling:
+  - HP Recovered (percent of Max HP): 5% / 6% / 7% / 8% / 9% / 10%
+  - Venom Damage: 250 / 290 / 330 / 370 / 410 / 450 (scales up to 150% with charging time)
+- Damage Type: Magic
+- Additional: Spellvamp ratio: 50% (applies where appropriate)
+
+Notes:
+- Bane can fully charge the skill for 2.5 seconds, and can overcharge for another 2 seconds.
+- Cooldown starts when the skill ends.
+- The cooldown reduction from Magic Power is linear to Bane's Magic Power and not stepwise at every 100 points.
+
+## Deadly Catch
+
+Bane summons a school of sharks to charge in a target direction, dealing damage, knocking enemies airborne for 0.8 seconds, and slowing them by 65% (decays over 3 seconds). This skill deals 40% of its damage to turrets.
+
+- Mana Cost: 120 / 140 / 160
 - Cooldown: 40.0 / 35.0 / 30.0
-- Mana cost: 120 / 140 / 160
-- Base Damage: 600 / 800 / 1000
-- Description: Bane summons a school of sharks to charge in a target direction, dealing damage, knocking them airborne for 0.8 seconds, and slowing them by 65% (decays over 3 seconds). This skill deals 40% damage to turrets.
-- Notes:
-  - Deadly Catch also applies knockback effect.
-  - Turrets are not affected by Deadly Catch's item effects.
+- Base Damage (per level): 600 / 800 / 1000
+- Damage Type: Magic (area)
+- Additional: Spellvamp ratio: 50% (applies where appropriate)
+- Crowd Control: Airborne (0.8s), heavy slow (65% decaying over 3s)
 
----
+Notes:
+- Deadly Catch also applies a knockback effect.
+- Turrets receive 40% of the skill's damage and are not affected by Deadly Catch's item effects.
 
-## Trivia
+# Trivia
 
-- His 2016–2021 voice and quotes are from the character Pandarus from Magic Rush: Heroes. Bane and Pandarus have nothing in common nor any similarity in design or playstyle. (Pandarus)
+- His 2016–2021 voice and quotes are from the character Pandarus from Magic Rush: Heroes. Bane and Pandarus have nothing in common nor any similarity in design or playstyle.
 - When Bane's rework was first leaked, he had the face of an anglerfish.
-- His character design, as well as his background, are somewhat based on Davy Jones of the Pirates of the Caribbean film series. (Davy Jones; Pirates of the Caribbean film series)
-- His season 11 skin "Warlord" was changed to "Dictator," but it was secretly changed again because the then-newly-released starlight skin's name is also "Dictator."
-
----
-
-References: (citation templates present in source)
+- His character design, as well as his background, are somewhat based on Davy Jones of the Pirates of the Caribbean film series.
+- His season 11 skin "Warlord" was changed to "Dictator," but it was secretly changed again because the then-newly-released 's starlight skin's name is also "Dictator."

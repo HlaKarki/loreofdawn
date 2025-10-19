@@ -1,35 +1,55 @@
-# Gusion Paxley
+# Gusion
 
-- Full name: Gusion Paxley  
-- Chinese name: 古辛 (Gǔxīn)  
-- Alias: Holy Blade  
-- Origin: Castle Aberleen, Moniyan Empire (Castle Aberleen; Moniyan Empire)  
-- Species: Human  
-- Gender: Male  
-- Affiliation: House Paxley  
-- Weapons: Light Ray  
-- Abilities: Light Magic (infused in blades)  
-- Relationships (raw): *Duke Paxley (father, deceased); Unnamed mother (deceased); Unnamed brother; (older brother); Eren (younger brother); (illegitimate distant cousin); (love interest); (ancestor); ,, (ally); (saved)  
-- Voice actors: EN — Con Eyre (2018–2022); JP — Hirose Ryuichi (広瀬 竜一); ID — Hardi Dian Anto  
-- Image (infobox): Gusion comic.jpg
+# Profile
 
----
+Full name: Gusion Paxley
 
-## Story
+Chinese name: 古辛 (Gǔxīn)
+
+Alias: Holy Blade
+
+Origin: Castle Aberleen, Moniyan Empire
+
+Species: Human
+
+Gender: Male
+
+Affiliation: House Paxley
+
+Weapons: Light Ray
+
+Abilities: Light Magic (infused in blades)
+
+Relationships:
+
+- Duke Paxley (father, deceased)
+- Unnamed mother (deceased)
+- Unnamed brother
+- (older brother)
+- Eren (younger brother)
+- (illegitimate distant cousin)
+- (love interest)
+- (ancestor)
+- ,, (ally)
+- (saved)
+
+Voice actors:
+
+- English: Con Eyre (2018–2022)
+- Japanese: Hirose Ryuichi (広瀬 竜一)
+- Indonesian: Hardi Dian Anto
+
+# Story
 
 > "Rebellious son of House Paxley"
 
 Although he was born into the most powerful magic family on the continent, Gusion is not interested in magic. He is keen to draw inspiration from the holy light to develop new fighting skills. In the end, Gusion left the family.
 
-Gallery images (filenames only): MelissaExpandedLoreonOfficialDiscord.png
-
----
-
-## Patriarchs and big brother... Do you... really know me?
-
 House Paxley ruled over Castle Aberleen in the south of Moniyan. Generations of the house had guarded these areas for the Moniyan Empire, defending against the invasion of the abyss.
 
-Around a thousand years ago, House Paxley was granted the dukedom during the rule of the legendary mage Valentina. Many horrifying stories were told across the Moniyan Empire about House Paxley's use of forbidden magic, and so people would shy away from any Paxley they met.
+Around a thousand years ago, House Paxley was granted the dukedom during the rule of the legendary mage Valentina.
+
+Many horrifying stories were told across the Moniyan Empire about House Paxley's use of forbidden magic, and so people would shy away from any Paxley they met.
 
 But Gusion Paxley was an exception.
 
@@ -39,7 +59,9 @@ His unruly behaviours continued until his eldest brother Aamon took over the duk
 
 Aamon didn't blame his reckless younger brother, but the word soon spread across the Moniyan Empire that the fourth child in House Paxley was a blade wielder – for the Paxley family that had been famed for their magic skills, only lower-class citizens who didn't know magic would fight with daggers and swords.
 
-The Paxley elders who actually controlled the family soon ordered that Gusion must stop playing with daggers and focus on practicing magic. And Gusion did in fact inherit the family's talent in magic, he had a strong affinity for the element of light and quickly awakened his potential while learning magic. But he abhorred memorizing tedious spells and writing complicated scrolls. When the other students were researching magic indoors all day, Gusion was powering himself up with sunlight so that he would run faster than a leopard, or using the candlelight to move dinner knives and cut a whole table's dishes into pieces.
+The Paxley elders who actually controlled the family soon ordered that Gusion must stop playing with daggers and focus on practicing magic.
+
+And Gusion did in fact inherit the family's talent in magic, he had a strong affinity for the element of light and quickly awakened his potential while learning magic. But he abhorred memorizing tedious spells and writing complicated scroll. When the other students were researching magic indoors all day, Gusion was powering himself up with sunlight so that he would run faster than a leopard, or using the candlelight to move dinner knives and cut a whole table's dishes into pieces.
 
 Gusion was the only upper-class student who would talk with servants in their family academy, and he was a naughty but likable kid, so the maids would always cover for his nonstop violation of the rules; even when he was kept in solitary confinement, the guards would pretend they didn’t see the desserts that the male servants snuck under the door...
 
@@ -49,13 +71,11 @@ Gusion was disappointed and completely ignored his brother's lecturing, while de
 
 And during their dinner together, Aamon persuaded Gusion to follow the family traditions and accept magic training, as Valentina, the first duchess of their family, was a great mage herself. Aamon also told Gusion that he could become an assassin like him, turning magic into sharp blades.
 
-Gusion felt strongly reluctant and asked instead:
-
-> "Can't a Paxley become an assassin that fights with blades?"
+> “Can't a Paxley become an assassin that fights with blades?”
 
 Aamon had no better choice but to say:
 
-> "As a noblemen, you will have to hide what you really like sometimes..."
+> “As a noblemen, you will have to hide what you really like sometimes...”
 
 Gusion looked at his brother and spoke no further.
 
@@ -65,9 +85,9 @@ The other young mages lost to Gusion began to accuse him of “cheating”, but 
 
 The provoked contestants swarmed toward him, when Gusion suddenly used a move that no one had seen before – he swung his arm and sent daggers flying toward the fan-shaped area in front, hitting all the enemies charging at him. Then he jumped on the spectator stand, before throwing a dagger at the statue of the House Paxley ancestor Valentina and hitting it on the forehead to provoke the others!
 
-> "This is what you want – it’s just like the motto of House Paxley: Fear over love."
+> “This is what you want – it’s just like the motto of House Paxley: Fear over love.”
 
-After Gusion shouted out the angry words, the exasperated elders began chanting spells, trying to punish the rebel in House Paxley with magic. Aamon, who had remained silent, then stood out and announced loudly that Gusion was to be expelled from the family for seriously violating their rules!
+After Gusion shouted out the angry words, the exasperated elders began chanting spells, trying to punish the rebel in House Paxley with magic. Aamon, who had remained silent, then stood out and announce loudly: Gusion was to be expelled from the family for seriously violating their rules!
 
 Now that Aamon expelled his brother, the elders that were prepared to kill Gusion had to stop their dark magic spells, watching as Gusion strode out of the arena without sparing them a glance.
 
@@ -75,89 +95,78 @@ What would his future be like? Gusion had never thought about it. He felt a heav
 
 Aamon thought to himself as he watched Gusion walk away:
 
-> "What I can do is to give back your freedom..."
+> “What I can do is to give back your freedom...”
 
-Image (filename only): _Gusion_lore.png (caption: 512px)
+# Bio
 
----
 
-## Fate Deniers
 
-- Main: Fate Deniers
+# Abilities
 
----
+## Dagger Specialist
 
-## Abilities
+Each skill cast adds a rune to Gusion's dagger (stacks up to 4 times). Each stack enhances Gusion's next basic attack to deal additional damage equal to a percentage of the target's max HP and restore HP to himself.
 
-### Passive — Dagger Specialist
+- Enhanced basic attack DMG = (100% × physical attack) + [(3 × no. runes)% × lost HP_target]
 
-Enhanced basic attack DMG = (100% × physical attack) + [(3 × no. runes)% × lost HP_target]  
-lost HP_target = total HP_target - current HP_target
+- lost HP_target = total HP_target - current HP_target
 
-- Type: Basic Attack / Magic Damage (passive converts to magic basic attack)
-- Stacking: Each skill cast adds a rune to Gusion's dagger (stacks up to 4). Each stack enhances Gusion's next basic attack to deal additional damage equal to a percentage of the target's max HP and restores HP to himself.
-- Target's Lost HP scaling by stacks: 3% / 6% / 9% / 12%
-- Base HP Regen per stack: 50 / 100 / 150 / 200
-- Magic scaling: 25% / 50% / 75% / 100%
-- Notes:
-  - When Gusion gains a rune, his basic attack will be converted into a Magic Basic Attack, dealing magic damage. It cannot critically strike.
+- Stack scaling:
+  - Target's Lost HP: 3% / 6% / 9% / 12%
+  - Base HP Regen: 50 / 100 / 150 / 200
+  - Magic Scaling: 25% / 50% / 75% / 100%
 
----
+Notes:
 
-### Skill 1 — Sword Spike
+- When Gusion gains a rune, his basic attack will be converted into Magic Basic Attack, dealing scaling damage based on magic power and the target's lost HP. It cannot critically strike.
 
-- Description: Gusion throws a dagger in the target direction, dealing base damage to the first enemy hit and marking them. Use Again: Gusion moves behind the marked enemy, dealing extra damage to them. This skill cannot be interrupted while Gusion is moving behind the marked enemy.
+## Sword Spike
+
+Gusion throws a dagger in the target direction, dealing base damage to the first enemy hit and marking them.
+
+- Use Again: Gusion moves behind the marked enemy, dealing extra damage to them. This skill cannot be interrupted while Gusion is moving behind the marked enemy.
+
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 - Extra Damage (second cast): 200 / 220 / 240 / 260 / 280 / 300
-- Cooldown: 9.0 → 6.0 (scales per level: 9.0 / 8.4 / 7.8 / 7.2 / 6.6 / 6.0)
+- Cooldown: 9.0 / 8.4 / 7.8 / 7.2 / 6.6 / 6.0 (first value shown)
 - Mana cost: 70
-- Notes:
-  - The skill can be used again within 4 seconds. The second cast does not cost mana.
-  - The second cast has a limited range; if Gusion is too far from the marked target he cannot use the second cast.
-  - Gusion is not immune to crowd control during the dash of the second cast.
 
----
+Notes:
 
-### Skill 2 — Shadowblade Slaughter
+- This skill can be used again within 4 seconds. The second cast does not cost mana.
+- The second cast has a limited range; the player cannot use the second cast if Gusion is too far away from the marked target.
+- Gusion is not immune to crowd control during the dash of the second cast.
 
-- Description: Gusion throws a volley of five daggers in the target direction, each dealing base damage to enemies hit and slowing them by 6% for 2 seconds (slow can stack up to 30% when hit by multiple daggers). Gusion recalls the daggers, each dealing extra damage to enemies in their path.
-- Base Damage: 110 / 130 / 150 / 170 / 190 / 210
-- Recall (extra) Damage: 65 / 75 / 85 / 95 / 105 / 115
-- Slow effect per hit: 6% (can stack up to 30%)
-- Cooldown: 11.0 → 9.0 (scales per level: 11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0)
-- Mana cost: 65 / 75 / 85 / 95 / 105 / 115
-- Notes:
-  - If hit multiple times, slow stacks up to the maximum.
-  - Cooldown starts when the duration of the effect ends.
+## Shadowblade Slaughter
 
----
+Gusion throws a volley of five daggers in the target direction, each dealing base damage to enemies hit and slowing them by 6% for 2 seconds (when hit by multiple daggers, the slow effect can stack up to 30%). Gusion recalls the daggers, each dealing extra damage to enemies in its path.
 
-### Ultimate — Incandescence
+- Base Damage (per dagger): 110 / 130 / 150 / 170 / 190 / 210
+- Extra Damage (recall): 65 / 75 / 85 / 95 / 105 / 115
+- Slow Effect: {6%, 12%, 18%, 24%, 30%}
+- Cooldown: 11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0 (first value shown)
+- Mana cost: 65 / 75 / 85 / 95 / 105 / 115 (first value shown)
 
-- Description: Gusion dashes to the target location, resetting the cooldown of Sword Spike (Skill 1) and Shadowblade Slaughter (Skill 2). If Shadowblade Slaughter was cast once before the reset, Gusion can throw another five daggers on his next Shadowblade Slaughter and recall a total of ten daggers afterward. Gusion dashes a short distance to the targeted location.
-- Cooldown: 28 / 24 / 20 seconds
-- Mana cost: 100 / 50 / 0
-- Notes:
-  - Resets the cooldowns of Skills 1 and 2.
-  - Can be used again within a short window (mechanics allow additional casts related to Skill 2 if conditions are met).
+Notes:
 
----
+- Cooldown starts when the duration of the skill ends.
 
-## Painted avatar icons
+## Incandescence
 
-- Hero105613-color01-icon.png  
-- Hero105613-color02-icon.png
+Gusion dashes to the target location, resetting the cooldowns of Sword Spike and Shadowblade Slaughter. If Shadowblade Slaughter was cast once before the reset, Gusion can throw another five daggers on his next Shadowblade Slaughter, and recall a total of ten daggers afterward. Gusion dashes a short distance to the target location.
 
----
+- Cooldown: 28.0 / 24.0 / 20.0 (first value shown)
+- Mana cost: 100 / 50 / 0 (first value shown)
 
-## Trivia
+Notes:
 
-- In demonology, Gusion is the eleventh of the 72 demons of Goetia. He is a powerful Great Duke of Hell and rules over forty legions of demons. (See: Wikipedia: Gusion)  
-- Both Gusion and his brother's names are derived from writings in The Lesser Key of Solomon.  
-- Gusion was the first hero to deal both physical and magic damage on skills (physical: passive; magic: active skills). His revamp made his passive deal magic damage.  
-- Gusion is the first hero whose active skills have second phases.  
-- In 2018, Gusion used the word "bullshit" in the now-deleted cinematic trailer (deleted on the official MLBB YouTube page; still present on the official Facebook page as of June 6, 2023), marking the first time profanity appeared in official Mobile Legends media.
+- Reset starts after the first cast of the skills.
+- Skill can be used again within 8 seconds after the initial cast.
 
----
+# Trivia
 
-Notes: Some templates, citations, and internal wiki links from the source have been omitted or represented plainly. Image references are shown as filenames only (links removed).
+- In demonology, Gusion is the eleventh of the 72 demons of Goetia. He is a powerful Great Duke of Hell and rules over forty legions of demons.
+- Both Gusion and his brother 's names are derived from the writings of *The Lesser Key of Solomon*.
+- Gusion was the first hero to deal both physical and magic damage on skills. (Physical: passive skill; Magic: all active skills) His revamp made his passive deal magic damage.
+- Gusion is the first hero whose active skills have second phases.
+- In 2018, Gusion used the word "bullshit" in the now-deleted cinematic trailer (only deleted on the official MLBB YouTube page, but the official Facebook page is still present as of June 6, 2023), marking the first time profanity appeared in official *Mobile Legends* media.
