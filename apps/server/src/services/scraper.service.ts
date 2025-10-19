@@ -234,6 +234,21 @@ class WikiScraper {
 	- **ONLY use standard markdown syntax**: \`#\` for headings, \`-\` or \`*\` for lists, \`>\` for blockquotes, \`**bold**\`, \`*italic*\`.
 	- **NEVER use special characters** like \`•\`, \`◦\`, \`→\`, \`▪\`, or other Unicode symbols for formatting.
 	- Keep formatting clean and simple.
+
+	⭐ MDX-Safe Formatting (CRITICAL):
+	- **NEVER use curly braces \`{}\` or square brackets \`[]\` except for proper markdown links.**
+	- Curly braces \`{}\` are JSX expression delimiters and will break MDX compilation.
+	- Square brackets \`[]\` should ONLY be used as part of proper markdown link syntax \`[text](url)\`.
+
+	❌ BAD (breaks MDX):
+	- \`[top-notch]\` — square brackets used for emphasis
+	- \`{4%, 8%, 12%}\` — curly braces used for grouping
+	- \`{damage}\` — curly braces in placeholder text
+
+	✅ GOOD (MDX-safe alternatives):
+	- \`"top-notch"\` or just \`top-notch\` (use quotes or nothing)
+	- \`(4%, 8%, 12%)\` or \`4%, 8%, 12%\` (use parentheses or nothing)
+	- \`damage based on level\` (write it out clearly without braces)
 	`;
 
 	private buildQuery(titles: string) {
@@ -504,9 +519,15 @@ class WikiScraper {
 
 		let markdown: string = "";
 		markdown += this.appendFront("#", ai_response.name);
-		markdown += this.appendSection("#", "Profile", ai_response.profile.markdown);
-		markdown += this.appendSection("#", "Story", ai_response.story.markdown);
-		markdown += this.appendSection("#", "Bio", ai_response.bio.markdown);
+		if (ai_response.profile.markdown) {
+			markdown += this.appendSection("#", "Profile", ai_response.profile.markdown);
+		}
+		if (ai_response.bio.markdown) {
+			markdown += this.appendSection("#", "Bio", ai_response.bio.markdown);
+		}
+		if (ai_response.story.markdown) {
+			markdown += this.appendSection("#", "Story", ai_response.story.markdown);
+		}
 		if (ai_response.side_story && ai_response.side_story.chapters.length > 0) {
 			markdown += this.appendFront("#", "Side Story");
 			for (const chapter of ai_response.side_story.chapters) {

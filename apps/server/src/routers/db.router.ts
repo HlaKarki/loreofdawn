@@ -15,15 +15,11 @@ export const dbRouter = router({
 		if (!list) return "failed";
 
 		const filenames = Object.entries(list).map(([_key, value]) => {
-			if (!value.url_name.includes("/")) {
-				return value.url_name.replaceAll(" ", "_").toLocaleLowerCase();
-			}
+			return value.url_name.replaceAll(" ", "_").toLocaleLowerCase();
 		});
 
 		for (const filename of filenames) {
-			if (filename) {
-				await dbService.uploadMarkdown(filename);
-			}
+			await dbService.uploadMarkdown(filename);
 		}
 
 		return "success";
