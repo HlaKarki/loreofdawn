@@ -518,7 +518,6 @@ class WikiScraper {
 		const ai_response = object_response.object as AiMarkdownResponse;
 
 		let markdown: string = "";
-		markdown += this.appendFront("#", ai_response.name);
 		if (ai_response.profile.markdown) {
 			markdown += this.appendSection("#", "Profile", ai_response.profile.markdown);
 		}

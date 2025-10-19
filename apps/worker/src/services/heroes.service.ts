@@ -5,6 +5,7 @@ import {
 	heroMetaDataTable,
 	heroGraphDataTable,
 	heroesListTable,
+	HeroAssets,
 } from "@repo/database";
 import { and, eq, ilike } from "drizzle-orm";
 import type { Bindings } from "@/types";
@@ -17,20 +18,16 @@ export class HeroService {
 	}
 
 	/**
-	 * Get hero list - either all heroes or a single hero by url_name
+	 * Get all heroes for seeding purposes
 	 */
-	async getHeroList(query: string) {
-		const [hero] = await this.db
-			.select()
-			.from(heroesListTable)
-			.where(eq(heroesListTable.url_name, query))
-			.limit(1);
+	async getHeroList() {
+		const heroes = await this.db.select().from(heroesListTable);
 
-		if (!hero) {
-			throw new Error("Hero not found");
+		if (!heroes) {
+			throw new Error("Could not fetch hero list from the database");
 		}
 
-		return hero;
+		return heroes;
 	}
 
 	/**
@@ -113,9 +110,16 @@ export class HeroService {
 	}
 
 	/**
-	 * Get all heroes for seeding purposes
+	 * Get all assets related to a hero
 	 */
-	async getAllHeroes() {
-		return this.db.select().from(heroesListTable);
+	async getHeroAssets(name: string): Promise<{ images: HeroAssets }> {
+		const [assets] = await this.db
+			.select({
+				images: heroProfileTable.images,
+			})
+			.from(heroProfileTable)
+			.where(ilike(heroProfileTable.name, name))
+			.limit(1);
+		return assets;
 	}
 }

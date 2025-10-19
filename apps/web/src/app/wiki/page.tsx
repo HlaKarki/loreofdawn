@@ -5,7 +5,7 @@ import type { MlHeroList } from "@repo/database";
 export const dynamic = "force-dynamic";
 
 export default async function WikiIndexPage() {
-	const response = await fetch(makeUrl("/v1/heroes/list/all"));
+	const response = await fetch(makeUrl("/v1/heroes/list"));
 
 	if (!response.ok) {
 		throw new Error("Failed to load heroes");

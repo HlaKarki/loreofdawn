@@ -3,7 +3,6 @@
 import { parseAsString, useQueryState } from "nuqs";
 import { useEffect } from "react";
 import { cn } from "@/lib/utils";
-import { useMobile } from "@/hooks/useMobile";
 
 type TocItem = { slug: string; label: string };
 
@@ -17,7 +16,6 @@ const indentStyle = (level: number) => ({
 });
 
 export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
-	const { isMobile } = useMobile();
 
 	const [section, setSection] = useQueryState(
 		"section",
@@ -68,7 +66,7 @@ export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 		});
 	};
 
-	if (!titles.length || isMobile) return null;
+	if (!titles.length) return null;
 
 	return (
 		<nav
@@ -76,6 +74,7 @@ export const TableOfContents = ({ titles }: { titles: TocItem[] }) => {
 			className={cn(
 				"sticky top-24 flex h-fit max-h-[calc(100vh-6rem)] w-60 flex-col gap-2 overflow-y-auto text-sm",
 				"self-start",
+				"hidden lg:flex",
 			)}
 		>
 			{titles.map((t) => {

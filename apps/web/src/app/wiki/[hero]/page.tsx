@@ -6,6 +6,8 @@ import { notFound } from "next/navigation";
 import { TableOfContents } from "../_components/table_of_content";
 import { makeUrl } from "@/lib/utils.api";
 import type { WikiType } from "@repo/database";
+import { HeaderWiki } from "@/app/wiki/_components/header.wiki";
+import { tidyLabel } from "@/lib/utils";
 
 type WikiPageProps = {
 	params: Promise<{
@@ -33,14 +35,16 @@ export default async function WikiPage({ params }: WikiPageProps) {
 
 	const wikiRecord = (await response.json()) as WikiType;
 
-	let markdown = wikiRecord.markdown;
-	markdown = markdown.replaceAll('"', "");
+	let markdown = `<Header hero_name="${hero_name}" />\n\n`;
+	markdown += wikiRecord.markdown.replaceAll('"', "");
 
-	const titles = extractHeadings(markdown);
+	const titles = extractHeadings(markdown, hero_name);
 
 	const { content } = await compileMDX({
 		source: markdown,
-		components: {},
+		components: {
+			Header: HeaderWiki,
+		},
 		options: {
 			mdxOptions: {
 				remarkPlugins: [remarkGfm],
@@ -72,7 +76,7 @@ const prose_styling = `
 	prose-hr:my-8
 	prose-blockquote:italic prose-blockquote:border-l-4
 	prose-blockquote:border-slate-300 dark:prose-blockquote:border-slate-700
-	prose-img:rounded-md
+	prose-img:my-0 prose-img:rounded-md
 	prose-table:my-6 prose-th:font-semibold prose-thead:border-b prose-tr:border-b
 	hover:prose-tr:bg-slate-50 dark:hover:prose-tr:bg-slate-800/40
 	prose-pre:leading-6 prose-pre:bg-slate-100 dark:prose-pre:bg-slate-800/70
@@ -83,10 +87,15 @@ const prose_styling = `
 	prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded-md
 	`;
 
-const extractHeadings = (markdown: string) => {
+const extractHeadings = (markdown: string, hero_name: string) => {
 	const slugger = new GithubSlugger();
 
-	const titles = [];
+	const titles = [
+		{
+			slug: "intro",
+			label: tidyLabel(hero_name),
+		},
+	];
 
 	titles.push(
 		...markdown

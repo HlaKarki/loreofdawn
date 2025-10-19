@@ -41,7 +41,7 @@ wikisRouter.delete("/:name", async (c) => {
 
 	if (name === "all") {
 		const heroService = new HeroService(c.env);
-		const heroes = await heroService.getAllHeroes();
+		const heroes = await heroService.getHeroList();
 
 		for (const hero of heroes) {
 			console.log(`deleting cache for ${hero.display_name}`);
