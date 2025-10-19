@@ -1,6 +1,7 @@
 "use client";
 import Link from "next/link";
 import { ModeToggle } from "./mode-toggle";
+import { cn } from "@/lib/utils";
 
 export default function Header() {
 	const links = [
@@ -10,22 +11,25 @@ export default function Header() {
 	] as const;
 
 	return (
-		<div>
-			<div className="flex flex-row items-center justify-between px-2 py-1">
-				<nav className="flex gap-4 text-lg">
-					{links.map(({ to, label }) => {
-						return (
-							<Link key={to} href={to} prefetch={true}>
-								{label}
-							</Link>
-						);
-					})}
-				</nav>
-				<div className="flex items-center gap-2">
-					<ModeToggle />
-				</div>
+		<header
+			className={cn(
+				"z-50 fixed inset-0 h-fit",
+				"flex items-center justify-between px-2 py-4",
+				"bg-background border-b border-b-accent",
+			)}
+		>
+			<div className="flex gap-4 text-[1.1em]">
+				{links.map(({ to, label }) => {
+					return (
+						<Link key={to} href={to} prefetch={true}>
+							{label}
+						</Link>
+					);
+				})}
 			</div>
-			<hr />
-		</div>
+			<div className="flex items-center gap-2">
+				<ModeToggle />
+			</div>
+		</header>
 	);
 }

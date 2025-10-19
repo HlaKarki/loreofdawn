@@ -1,37 +1,19 @@
-# Brody
-
 # Profile
 
-Alias:
-- *The Lone Star*
+- Alias: *The Lone Star*
+- Born: "Village at the foot of a volcano", The Barren Lands
 
-Born:
-- Village at the foot of a volcano, The Barren Lands — April 25 (Taurus)
-
-Species:
-- Human
-
-Gender:
-- Male
-
-Affiliation:
-- Unnamed village ("second homeland")
-
-Weapons:
-- Right arm corroded by the blood of the demon
-- Spear
-
-Abilities (summary):
-- Marks enemies
-
-Voice Actors:
-- Japanese: Akiyoshi Tooru (秋吉 徹)
-- English: Adam Riley
-
-Relationships:
-- *,, (companions)
-- * (enemy)
-
+- Species: Human
+- Gender: Male
+- Affiliation: Unnamed village ("second homeland")
+- Weapons:
+  - Right arm corroded by the blood of the demon
+  - Spear
+- Abilities: Marks enemies (Abyss Mark passive)
+- Relationships: (companions), (enemy)
+- Japanese VA: Akiyoshi Tooru (秋吉 徹)
+- English VA: Adam Riley
+- Birthday: April 25 (Taurus)
 
 # Bio
 
@@ -63,7 +45,7 @@ He became the guardian of the village, and peace was briefly restored. He drove 
 
 He wanted to uncover his past, but at the same time, he was also afraid of the truth. What did happen to him?
 
-Brody fought like a soulless machine, until he met Benedetta, who was also a homeless poor soul. Benedetta was struggling to fight against a group of demons. And that's when Brody came out of no where and intervened.
+Brody fought like a soulless machine, until he met Benedetta, who was also a homeless poor soul. Benedetta was struggling to fight against a group of demons. And that's when Brody came out of nowhere and intervened.
 
 They were near the Crack of the Abyss, and countless demons kept showing up through portals. The battle became more and more intense. Brody evacuated the villagers to a safer place, and fought side by side with Benedetta.
 
@@ -109,24 +91,19 @@ Brody will fight on for his second homeland.
 
 > "Mysterious man whose right hand was corroded and who lost his memory"
 
-Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons.
-
-In countless battles, Brody gradually recalled his past.
-
-Once, because of his mistakes, his village was massacred by the Demons and his right hand was also corroded.
-
-Now he understands his mission, in order to protect the people around him, Brody will always be fighting in a foreign land.
+Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons. In countless battles, Brody gradually recalled his past. Once, because of his mistakes, his village was massacred by the Demons and his right hand was also corroded. Now he understands his mission, in order to protect the people around him, Brody will always be fighting in a foreign land.
 
 # Abilities
 
 ## Abyss Corrosion
 
-With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his attack (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed. Each Basic Attack deals damage based on level and stats (the damage scaling with level cannot be critical), increases Movement Speed by 30% (which will decay rapidly in 1.2 seconds), and inflicts 1 stack of Abyss Mark on the enemy, capped at 4 stacks. (Marks applied last for 8 seconds.) Each stack of Abyss Mark increases Brody's damage and his Movement Speed by 5%.
+With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his attack (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed. Each Basic Attack deals damage based on level and stats (of which the damage scaling with level cannot be critical), increases Movement Speed by 30% (which will decay rapidly in 1.2 seconds), and inflicts 1 stack of Abyss Mark on the enemy, capped at 4 stacks. (Marks applied last for 8 seconds.) Each stack of Abyss Mark increases Brody's damage output and his Movement Speed by 5%.
 
-Scaling:
-- Base Damage by level: 45 / 90 / 135 / 180 / 225 / 270 / 315 / 360 / 405 / 450 / 495 / 540 / 585 / 630 / 675
-- Damage Increase per stack: 5% / 10% / 15% / 20%
-- Movement Speed Bonus per stack: 5% / 10% / 15% / 20%
+Base Damage by level: 45 / 90 / 135 / 180 / 225 / 270 / 315 / 360 / 405 / 450 / 495 / 540 / 585 / 630 / 675
+
+Damage Increase per stack by level: 5% / 10% / 15% / 20%
+
+Movement Speed Bonus per stack by level: 5% / 10% / 15% / 20%
 
 Notes:
 - Brody's basic attack interval is 50% of his total attack speed.
@@ -135,53 +112,46 @@ Notes:
 
 ## Abyss Impact
 
-Brody launches a shock wave in the designated direction, dealing physical damage, slowing the enemies by 30% for 1.2 seconds, and applying 1 stack of Abyss Mark. As the shock wave travels, for each enemy it hits, it deals an extra physical damage, inflicts an extra 5% slow effect, and applies an additional stack of Abyss Mark, capped at 130% damage increase, 45% slow effect, and 4 stacks. This skill deals only to minions.
+Brody launches a shock wave in the designated direction, dealing physical damage based on level and stats, slowing the enemies by 30% for 1.2 seconds, and applying 1 stack of Abyss Mark. As the shock wave travels, for each enemy it hits, it deals extra physical damage based on level and stats, inflicts an additional 5% slow effect, and applies an additional stack of Abyss Mark, capped at 130% damage ratio, 45% slow effect, and 4 stacks. This skill deals only to minions.
 
-Damage and scaling:
-- Base Damage: 150 / 230 / 310 / 390 / 470 / 550
-- Minions Damage Ratio: 80% / 80% / 90% / 90% / 100% / 100%
-- Damage Increase progression: 0%, 10%, 20%, 30%
-- Slow Effect progression: 30%, 35%, 40%, 45%
-- Marks Applied progression: 1, 2, 3, 4 (capped at 4)
+Base Damage by level: 150 / 230 / 310 / 390 / 470 / 550
 
-Mana Cost by level: 40 / 50 / 60 / 70 / 80 / 90
+Minions Damage Ratio by level: 80% / 80% / 90% / 90% / 100% / 100%
+
+Damage Increase progression: (0%, 10%, 20%, 30%)
+
+Slow Effect progression: (30%, 35%, 40%, 45%)
+
+Marks Applied progression: (1, 2, 3, 4, 4, 4...)
 
 Notes:
 - Damage from this skill does not benefit from the damage increase of the Abyss Mark.
 
 ## Corrosive Strike
 
-Brody dashes to an enemy, dealing physical damage to the target, stunning the target for 0.8 seconds, and inflicting 1 stack of Abyss Mark on the target. Upon hitting the target, he is able to move one more time in the movement direction, gaining 45% Movement Speed that will decay rapidly in 1.2 seconds.
+Brody dashes to an enemy, dealing physical damage based on level and stats to the target, stunning the target for 0.8 seconds, and inflicting 1 stack of Abyss Mark on the target. Upon hitting the target, he is able to move one more time in the movement direction, gaining 45% Movement Speed that will decay rapidly in 1.2 seconds.
 
-Damage and scaling:
-- Base Damage: 200 / 230 / 260 / 290 / 320 / 350
+Base Damage by level: 200 / 230 / 260 / 290 / 320 / 350
 
 Cooldown progression: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0
 
-Mana Cost progression: 75 / 80 / 85 / 90 / 95 / 100
+Mana cost progression: 75 / 80 / 85 / 90 / 95 / 100
 
-Notes:
-- Skill type: Blink / Physical Skill
-- Effect: Blink and Stun
+Terms: Stunned, Blink, Physical Skill
 
 ## Torn-Apart Memory
 
-*Memories are nowhere to be placed. Everything is for me to protect.*
+Brody locks on all the targets within 8 yards, dealing physical damage based on level and stats to them. If the target has an Abyss Mark, all Abyss Marks will be reset, dealing additional damage for each stack the target has.
 
-Brody locks on all the targets within 8 yard(s), dealing physical damage to them. If the target has an Abyss Mark, all Abyss Marks will be reset, dealing additional physical damage for each stack the target has.
+First Damage by level: 340 / 460 / 580
 
-Damage and scaling:
-- First Damage: 340 / 460 / 580
-- Damage per Stack: 136 / 184 / 232
-- Multiplier Lost (based on target's HP): 4% / 5% / 6%
+Damage per Stack by level: 136 / 184 / 232
 
-Cooldown progression: 24.0 / 21.0 / 19.0
-
-Mana Cost progression: 120 / 160 / 200
+Multiplier lost on target's HP: 4% / 5% / 6%
 
 Notes:
 - "Damage per Stack" from this skill does not benefit from the damage increase of the Abyss Mark.
-- Torn-Apart Memory cannot be interrupted, not even death.
+- Torn-Apart Memory cannot be interrupted, not even by death.
 
 # Trivia
 

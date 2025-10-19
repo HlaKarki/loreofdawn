@@ -1,45 +1,34 @@
-# Balmond
-
 # Profile
 
-- **Chinese name:** 巴蒙 (bāméng)
-- **Alias:**
-  - Bloody Beast
-  - Berserker (former)
-- **Born:** Stormeye Wasteland, The Barren Lands
-- **Species:** Orc
-- **Gender:** Male
-- **Occupation:** Leader of Orc Legion
-- **Affiliation:**
-  - Orc Legion
-  - The Abyss
-- **Weapons:** Battleaxe
-- **Abilities:** Bloodthirst (Passive)
-- **Battles fought:** Invasion of Moonlit Forest
-- **Relationships:** *Unnamed father; (mutually exploit); (rival); ,,, , (enemies); (conqueror/defeater)*
-- **Religion:** Lord of Abyss
-- **Voice actors:**
-  - EN: Con Eyre (2017–2021); Patrick Seitz (2021-present; God of Mountains)
-  - ID: Edy Rachmat
-  - JA: Sanpei Yuuki (三瓶 雄樹)
-  - AR: Khaled El Shershaby
-  - PT: Fransisco Junior
-  - RU: Dakhnenko Maksim
-  - TK: Kadir Özübek
-  - ES: Carlos Segundo
-  - ZH: Sheng Feng (图特哈蒙)
+- Chinese name: 巴蒙 (bāméng)
+- Alias: *Bloody Beast*  
+- Former alias: *Berserker*  
+- Born: Stormeye Wasteland, The Barren Lands
+- Species: Orc
+- Gender: Male
+- Occupation: Leader of Orc Legion
+- Affiliation: Orc Legion; The Abyss
+- Weapons: Battleaxe
+- Abilities: Bloodthirst (Passive)
+- Battles fought: Invasion of Moonlit Forest
+- Religion: Lord of Abyss
 
-# Story
+Voice actors:
 
-> "Leader of the Orc Legion"
-
-Balmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons. During a battle, he consumed the blood of a Blood Demon and went into a rage. This aroused Alice's interest, so she signed a contract with Balmond on the condition of returning the Stormeye Wasteland.
-
-Balmond, and his Orc army have since fought for the Demons.
+- English (2017–2021): Con Eyre
+- English (2021–present): Patrick Seitz (God of Mountains)
+- Indonesian: Edy Rachmat
+- Japanese: Sanpei Yuuki (三瓶 雄樹)
+- Arabic: Khaled El Shershaby
+- Portuguese: Fransisco Junior
+- Russian: Dakhnenko Maksim
+- Turkish: Kadir Özübek
+- Spanish: Carlos Segundo
+- Chinese: Sheng Feng (图特哈蒙)
 
 # Bio
 
-The Orcs are a race with a long history and perhaps the most common of those in the Land of Dawn. Throughout the mists of time, they have served under Lord of Abyss as they fought throughout the fierce of Endless War; and also engaged mankind in savage battle during the Golden Era. A series of successive defeats left the once strong United Demi-humans divided instead into Orcs, Minotaurs, and Centaurs, among other peoples. It also left them bereft of their home, forced into exile, and the southern lands where they eked out a meagre [sic] existence.
+The Orcs are a race with a long history and perhaps the most common of those in the Land of Dawn. Throughout the mists of time, they have served under Lord of Abyss as they fought throughout the fierce of Endless War; and also engaged mankind in savage battle during the Golden Era. A series of successive defeats left the once strong United Demi-humans divided instead into Orcs, Minotaurs, and Centaurs, among other peoples. It also left them bereft of their home, forced into exile, and the southern lands where they eked out a meagre existence.
 
 Despite all this, it seemed fate had not yet finished toying with this ancient race. As the Abyss encroach once more powerful demons emerged again from the south presenting a perilous threat to their declining Orc populations. Under the demons' oppression the Orcs were made to split into several small clans scattered throughout the vast expanse of the roaring wilderness, exploited to the utmost.
 
@@ -63,47 +52,67 @@ To this end, the cunning Alice managed to track down Balmond and present him wit
 
 However, even Alice could never have imagined that an even greater plan had been brewing deep in Balmond's mind. First, he would command the demon forces to breach the Moonlit Forest and occupy the elven kingdom, where he would build his strength steadily. Following that, the union of the Orcs and the revival of their kingdom that they'd yearned for over millennia would finally come to be.
 
+# Story
+
+> "Leader of the Orc Legion"
+
+Balmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons. During a battle, he consumed the blood of a Blood Demon and went into a rage. This aroused Alice's interest, so she signed a contract with Balmond on the condition of returning the Stormeye Wasteland.
+
+Balmond, and his Orc army have since fought for the Demons.
+
 # Abilities
 
 ## Bloodthirst
 
-- **Effect:** Heal based on Balmond's Max HP.
-- **Heal amounts:** Restores 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a hero.
-- **Notes:** Trigger conditions are killing blows on the specified unit types.
+Balmond recovers 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a hero.
 
 ## Soul Lock
 
-- **Type:** Blink / Physical Damage Skill
-- **Primary effects:** Charges in the target direction for a set distance or until he hits an enemy hero. Deals physical damage to enemies along the way and knocks back the enemy hero hit slightly. Applies a 60% slow for 2 seconds to the hero struck.
-- **Damage scaling:** Base Damage by level: 150 / 175 / 200 / 225 / 250 / 275. Damage scales with Physical Attack.
-- **Additional scaling:** Physical attack scaling: 60 (total PA indicated in original data).
-- **Cooldown:** Varies by level (listed in original data as 8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0). See in-game tooltips for exact values.
-- **Notes:** The skill functions as a mobility blink and can be used to initiate or reposition. Damage described above refers to physical damage based on base values and Physical Attack.
+- Type: Blink / Physical Damage Skill
+- Effects: Mobility, Slow
+
+Balmond charges to the target direction for a set distance or until he hits an enemy hero, dealing physical damage to enemies along the way. The enemy hero hit will be knocked back slightly and slowed by 60% for 2 seconds.
+
+Level scaling:
+- Base Damage: 150 / 175 / 200 / 225 / 250 / 275
+- Physical Attack scaling: 60 bonus physical attack (scales with items and stats)
+
+Cooldown shown is the first-level cooldown. Higher levels reduce the cooldown.
 
 ## Cyclone Sweep
 
-- **Type:** AOE Physical Damage Skill / Buff
-- **Primary effects:** Balmond gains 15% Movement Speed that decays over time and spins his axe for 3 seconds, dealing physical damage to nearby enemies up to 14 times.
-- **Hit stacking:** Each subsequent hit on the same enemy deals increased damage. Damage increase per subsequent hit scales with level (see stack-scaling below) up to a maximum stacking bonus.
-- **Damage scaling:** Base Damage by level per hit: 25 / 40 / 55 / 70 / 85 / 100. Max Damage by level (if all hits land): 350 / 560 / 770 / 980 / 1190 / 1400.
-- **Stack scaling:** Damage Increase per Subsequent Hit: values progress by level up to a max of 60.0% stacking at highest progression (represented in original data as 7.5% increments up to 60.0%).
-- **Crits:** The Physical Attack bonus portion of the damage can Crit.
-- **Cancel / interruption:** Cyclone Sweep can only be cancelled by using his other skills. Cyclone Sweep cannot be interrupted by Crowd Control. (patch notes referenced in original data)
-- **Notes:** This skill provides sustained AOE damage and brief movement speed buff for chasing or escaping.
+- Type: Physical Damage Skill
+- Effects: AOE, Buff
+
+Balmond gains 15% Movement Speed that decays over time and spins his axe for 3 seconds, dealing physical damage to nearby enemies up to 14 times. Each subsequent hit on the same enemy will deal increased damage, stacking and up to a maximum increase. The Physical Attack bonus portion of the damage can critically strike.
+
+Level scaling:
+- Base Damage per hit: 25 / 40 / 55 / 70 / 85 / 100
+- Max Damage (all hits combined): 350 / 560 / 770 / 980 / 1190 / 1400
+- Damage increase per subsequent hit on the same target: scales up to 60% at max level
+
+Notes:
+- Cyclone Sweep can only be cancelled by using his other skills. (added Patch Notes 1.7.82)
+- Cyclone Sweep cannot be interrupted by Crowd Control. (added Patch Notes 1.8.44)
 
 ## Lethal Counter
 
-- **Type:** True Damage Skill / Burst
-- **Primary effects:** Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing true damage that scales with base values, Physical Attack contribution, and extra damage based on the target's lost HP.
-- **Damage scaling:** Base damage component indicated in original data; Physical Attack scaling indicated as total PA 70. Extra Damage based on target's lost HP: 30% / 37.5% / 45% by skill level.
-- **Non-hero units:** This skill deals up to a capped amount of damage to non-hero units: 1000 / 1500 / 2000 (by skill level).
-- **Cooldown:** Varies by level (listed in original data as 34.0 / 29.0 / 24.0). See in-game tooltips for exact values.
-- **Notes:** Original description had incomplete numeric placeholders; above consolidates available scaling information. Does not show an area of effect pre-animation with Savage Pointguard skin (original note).
+- Type: True Damage Skill
+- Effects: Burst, Slow
+
+Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing true damage based on base power and additional true damage that scales with the target's lost HP and Balmond's stats. This skill deals heavy true damage to heroes and can burst squishier targets. Against non-hero units, damage is capped.
+
+Level scaling and caps:
+- Extra damage portion based on target's lost HP: 30% / 37.5% / 45% (scales by level)
+- Non-hero unit damage cap: 1000 / 1500 / 2000 depending on skill level
+
+Notes:
+- Some skins may not show an area of effect pre-animation for this skill.
 
 # Trivia
 
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
+- The old Balmond design can still be seen in his "Bloodthirst" skill icon.
+- The previous iteration of Balmond was probably inspired by the character Axe from Dota: Allstars, which itself is based on Grommash Hellscream.
+- In his old lore, he went from being 's slave to being a mutually exploited ally in the new lore.
+- Balmond's "Celestial General" (now "God of Mountains") is the skin with the longest release postponement; it was supposed to be released at 2018 but the skin was released on August 2021 for the Grand Collection event.
+- Balmond is notorious within the community as he can be seen in almost every MLBB Google Ads.

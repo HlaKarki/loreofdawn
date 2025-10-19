@@ -1,8 +1,13 @@
-# Hanabi
-
 # Profile
 
-- Name: Hanabi
+After her first revamp on 20 December 2022, she became the face of Season 27: Scarlet Shadow.
+
+Hidden attributes
+
+- Lifesteal Ratio: 80%
+
+Profile
+
 - Chinese name: 花火 (huāhuǒ)
 - Alias: Scarlet Flower
 - Born: Scarlet Shadow, Cadia Riverlands
@@ -10,23 +15,18 @@
 - Species: Human
 - Gender: Female
 - Weapons: Higanbana
-- Voice Actors: English: Alpha Takahashi (2021–)
-  Japanese: Ono Saki (小野 早稀)
-  Indonesian: Aish Daeng Renata
-
-After her first revamp on 20 December 2022, she became the face of Season 27: Scarlet Shadow.
-
-Hidden attributes:
-
-- Lifesteal Ratio: 80%
+- Relationships: *(childhood sweetheart), (close friend), (enemies)*
+- English VA: Alpha Takahashi (2021–)
+- Japanese VA: Ono Saki (小野 早稀)
+- Indonesian VA: Aish Daeng Renata
 
 # Story
 
 > "Leader of the Scarlet Sect, in the Scarlet Shadow upon the Cadia Riverlands."
 
-As the owner of Higanbana, one of the seven great armaments of the Scarlet Shadow clan, Hanabi is the pride of the Scarlet Sect. To carry on her father's will, she has sought power since childhood. As a result of her single-minded goal, she closed herself off to all feelings and emotions.
+As the owner of Higanbana, one of the seven great armaments of the Scarlet Shadow clan, Hanabi is the pride of the Scarlet Sect. To carry on her father's will, she has sought power since childhood. As a result of her single-minded goal, she closed herself off to all feelings and emotions. Even so, she was never truly accepted by Higanbana.
 
-Even so, she was never truly accepted by Higanbana. Once, when she was pursuing an enemy spy and losing ground, she accidentally stepped into the world inside Higanbana and lingered between illusion and reality. Eventually, she came to understand that power without emotion was volatile and fleeting. She came to terms with herself and embraced her feelings and desires as she became one with Higanbana.
+Once, when she was pursuing an enemy spy and losing ground, she accidentally stepped into the world inside Higanbana and lingered between illusion and reality. Eventually, she came to understand that power without emotion was volatile and fleeting. She came to terms with herself and embraced her feelings and desires as she became one with Higanbana.
 
 # Side Story
 
@@ -36,9 +36,9 @@ Even so, she was never truly accepted by Higanbana. Once, when she was pursuing 
 
 — Higanbana, Seven Armaments of the Scarlet Shadow
 
-Hanabi knew the river well. Dark and frigid, yet tranquil. She floated atop the water as if suspended in mid-air. Thick, impenetrable mist swirled all around her. Amongst the darkness, the only light was a cluster of Higanbana off in the distance. They were a brilliant, eye-piercing crimson, red as hellfire, like a fire burning on the distant shore that she would never reach.
+Hanabi knew the river well. Dark and frigid, yet tranquil, she floated atop the water as if suspended in mid-air. Thick, impenetrable mist swirled all around her. Amongst the darkness, the only light was a cluster of Higanbana off in the distance. They were a brilliant, eye-piercing crimson, red as hellfire, like a fire burning on the distant shore that she would never reach.
 
-It was a recurring nightmare Hanabi had experienced ever since she was 7. That was the year when, due to her inherent talent for cultivation, she unintentionally activated the ancient armament of the Scarlet, "Higanbana". All she remembered was being engulfed by the weapon and tumbling into a vast, nightmarish abyss. When she awoke, her eyes were filled with tears, but despite this, the crowd that had gathered before her cheered and congratulated her on becoming the one deemed worthy of being a successor of Scarlet.
+It was a recurring nightmare Hanabi had experienced ever since she was 7. That was the year when, due to her inherent talent for cultivation, she unintentionally activated the ancient armament of the Scarlet, "Higanbana." All she remembered was being engulfed by the weapon and tumbling into a vast, nightmarish abyss. When she awoke, her eyes were filled with tears, but despite this, the crowd that had gathered before her cheered and congratulated her on becoming the one deemed worthy of being a successor of Scarlet.
 
 Even at her young age, Hanabi realized what this signified: Within the Scarlet Shadow, there were the Scarlet Sect, who preferred the use of weapons, and the Shadow Sect, with a predilection for Ninjutsu. For generations, each vied for dominance over the other. And if the Scarlet leader wins, the Scarlet Sect wins. All the young Hanabi could do was place her trust in the sect and their plan. She therefore took on this solemn duty and tried her utmost to keep her head held high. Day after day, she trained, rivulets of sweat streaming down her body from sunup to sundown. In competitions, Hanabi was undefeated. Over time, she became accustomed to victory, and accustomed to the dark river that flowered within her dreams. She knew that when she reached that shore, she would harness the power of Higanbana, and then truly become the leader of the Scarlet Sect.
 
@@ -94,80 +94,83 @@ She raised her head and looked up at the night sky.
 
 ## Ninjutsu: Petal Barrage
 
-basic ATK damage decay = 40% × 85%^(x-1), where x = no. of basic ATK bounces
+basic ATK damage decay = 40% × 85%^(x-1), where x = number of basic ATK bounces
 
-- Description: Hanabi's Basic Attacks and Skills will launch Petal Blades after hitting a target, bouncing up to 4 times to nearby enemies (the first bounce deals 40% of the damage, and subsequent bounces deal 85% of the previous). Bounces from her Basic Attacks inherit a portion of Attack Effects.
+Hanabi's Basic Attacks and Skills will launch Petal Blades after hitting a target, bouncing up to 4 times to nearby enemies (the first bounce deals 40% of the damage, and subsequent bounces deal 85% of the previous). Bounces from her Basic Attacks inherit a portion of Attack Effects.
 
 - Damage Decay Per Bounce: 40% / 34% / 28.9% / 25.565%
 
-- Notes:
+Notes:
 
-  - Can bounce multiple times on the same enemy.
-  - If an enemy dies, the bounce does not trigger.
-  - Basic attacks do not bounce to enemies with invisibility, but does bounce to concealed enemies within sight.
-  - Does not bounce to nearby enemies when attacking a turret, but does bounce to a turret when another enemy is hit.
+- Can bounce multiple times on the same enemy.
+- If an enemy dies, the bounce does not trigger.
+- Basic attacks do not bounce to enemies with invisibility, but do bounce to concealed enemies within sight.
+- Does not bounce to nearby enemies when attacking a turret, but does bounce to a turret when another enemy is hit.
 
 ## Ninjutsu: Equinox
 
-Cooldown: 14.0 / 13.6 / 13.2 / 12.8 / 12.4 / 12.0 seconds
-
-Mana Cost: 35 / 40 / 45 / 50 / 55 / 60
-
-- Description: The secret Ninjutsu of the Scarlet Shadow makes Hanabi immune to control effects when she has a shield from any source. Hanabi gains a shield for 5 seconds. When the shield is active, Hanabi gains 20% Movement Speed, 25% Attack Speed, and 20% of damage dealt will also be added to this shield (only 10% of the damage dealt to non-hero units). The shield cannot exceed 50% of Hanabi's max.
+The secret Ninjutsu of the Scarlet Shadow makes Hanabi immune to control effects when she has a shield from any source. Hanabi gains a shield for 5 seconds. When the shield is active, Hanabi gains 20% Movement Speed, 25% Attack Speed, and 20% of damage dealt will also be added to this shield (only 10% of the damage dealt to non-hero units). The shield cannot exceed 50% of Hanabi's max.
 
 - Shield: 300 / 360 / 420 / 480 / 540 / 600
+- Cooldown: 14.0 / 13.6 / 13.2 / 12.8 / 12.4 / 12.0 seconds
+- Mana Cost: 35 / 40 / 45 / 50 / 55 / 60
 
-- Terms: Shield, Control Immunity
+Terms:
 
-- Notes:
+- Shield
+- Control Immunity
 
-  - Has the passive even without learning this ability.
-  - Only provides on self and allied shields.
-  - Only prevents upcoming CC, does not remove ongoing debuffs nor immune to them.
+Notes:
+
+- Hanabi has the passive even without learning this ability.
+- Only provides on self and allied shields.
+- Only prevents upcoming CC on the shielded target; does not remove ongoing debuffs nor make one immune to them.
 
 ## Ninjutsu: Soul Scroll
 
-Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
-
-Mana Cost: 35 / 40 / 45 / 50 / 55 / 60
-
-- Description: Hanabi fires the energy Kunai in the targeted direction, dealing damage to enemies along the way and reducing their Movement Speed by 60% for 1 second. Enemy units hit will also be marked, allowing Hanabi's next Bounce Damage from Basic Attacks to deal extra damage on them with no damage decay.
+Hanabi fires the energy Kunai in the targeted direction, dealing physical damage to enemies along the way and reducing their Movement Speed by 60% for 1 second. Enemy units hit will also be marked, allowing Hanabi's next Bounce Damage from Basic Attacks to deal extra physical damage on them with no damage decay.
 
 - Base Damage: 450 / 480 / 510 / 540 / 570 / 600
 - Extra Damage: 30 / 60 / 90 / 120 / 150 / 180
+- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
+- Mana Cost: 35 / 40 / 45 / 50 / 55 / 60
 
-- Terms: Physical Damage Skill, Movement Speed
+Terms:
 
-- Notes:
+- Physical Damage Skill
+- Movement Speed
 
-  - Fully bounces to concealed enemies.
+Notes:
+
+- Fully bounces to concealed enemies.
 
 ## Forbidden Jutsu: Higanbana
 
-Cooldown: 40.0 / 35.0 / 30.0 seconds
+Quote: A sprout without flowers. A blossom without leaves.
 
-Mana Cost: 120 / 160 / 200
-
-- Quote: A sprout without flowers. A blossom without leaves.
-
-- Description: Hanabi throws Higanbana in the targeted direction, dealing damage to the first enemy hero hit and immobilizing them for 0.8 seconds. After 1 second, Higanbana will bloom at the location of the first hit, dealing bloom damage to nearby enemies. Subsequent hits on the same target decay 20% damage.
+Hanabi throws Higanbana in the targeted direction, dealing physical damage to the first enemy hero hit and immobilizing them for 0.8 seconds. After 1 second, Higanbana will bloom at the location of the first hit, dealing bloom physical damage to nearby enemies. Subsequent hits on the same target decay 20% damage.
 
 - Base Damage: 300 / 400 / 500
 - Bloom Damage: 300 / 400 / 500
+- Cooldown: 40.0 / 35.0 / 30.0 seconds
+- Mana Cost: 120 / 160 / 200
 
-- Terms: Immobilize, Physical Damage Skill
+Terms:
 
-- Notes:
+- Immobilize
+- Physical Damage Skill
 
-  - If enemies hit are displaced away from the hitting position, the bloom damage only takes place at the position before displacement.
+Notes:
+
+- If enemies hit are displaced away from the hitting position, the bloom damage only takes place at the position before displacement.
 
 # Trivia
 
 - The name Hanabi (花火) is of Japanese origin and means "fireworks" (花 = "flower," 火 = "fire"). It symbolizes beauty, fleeting moments, and explosive power.
 - Her petal-like energy shurikens resemble fireworks when they bounce between enemies. Her Ultimate, Forbidden Jutsu: Higanbana, explodes like a firework bloom, stunning multiple enemies.
 - Hanabi's weapon name and Ultimate's, Higanbana, refers to the Japanese common name for the plant Lycoris radiata, known in English as red spider lily or equinox flower.
-- Hanabi and entrance quote Sanjou is a Japanese term that roughly translates to "I've arrived" or "I'm here." In the context of ninjas,  "Sanjou" is often used as a declaration of arrival or a way to announce one's presence. It's a way for the ninja to assert their presence and let others know they're ready for action.
-- Hanabi's "Fiery Moth" skin is inpired in Japanese folklore. Moths are sometimes believed to carry the spirits of the dead, fitting Hanabi’s Higanbana (flower of death) theme.
+- Hanabi and entrance quote Sanjou is a Japanese term that roughly translates to "I've arrived" or "I'm here." In the context of ninjas, Sanjou is often used as a declaration of arrival or a way to announce one's presence. It's a way for the ninja to assert their presence and let others know they're ready for action.
+- Hanabi's "Fiery Moth" skin is inspired in Japanese folklore. Moths are sometimes believed to carry the spirits of the dead, fitting Hanabi’s Higanbana (flower of death) theme.
 - Hanabi's skin Rakshesha is inspired by Rakshasa (राक्षस), which are demonic entities in Hindu and Buddhist mythology.
 - She is somewhat inspired by Coco of Magic Rush: Heroes.
 - Hanabi’s design is inspired by kunoichi (female ninja) from Japanese folklore. Her rival, Hayabusa, has a samurai-like discipline, while Hanabi embodies the rogue ninja archetype who pursues forbidden techniques.

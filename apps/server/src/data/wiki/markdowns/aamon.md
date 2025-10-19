@@ -1,35 +1,42 @@
-# Aamon
-
 # Profile
 
-Full name: Aamon Paxley
+He is the first hero listed alphabetically.
 
-Aliases:
+**Full Name:** Aamon Paxley
+
+**Aliases:**
 - Duke of Shards
 - Lord of Castle Aberleen
 
-Origin: Castle Aberleen, Moniyan Empire
+**Origin:** Castle Aberleen, Moniyan Empire
 
-Species: Human
+**Species:** Human
 
-Gender: Male
+**Gender:** Male
 
-Affiliation: House Paxley
+**Affiliation:** House Paxley
 
-Title: Duke Paxley, The Head Of House Paxley
+**Title:** Duke Paxley, The Head Of House Paxley
 
-Weapons: Shards
+**Weapons:** Shards
 
-Abilities (summary):
+**Abilities (summary):**
 - Superior light magic (light magic creation)
 - Enters camouflage state with Invisible Armor
 - Shard conjuration
 
-Relationships: Eren (younger brother) and other family members (father Duke Paxley and mother, both deceased)
+**Relationships:**
+- Duke Paxley (father, deceased)
+- Unnamed mother (deceased)
+- Unknown sisters
+- Eren (younger brother)
+- Illegitimate distant cousin (unnamed)
+- Ancestor companion (unnamed)
+- Several companions (unnamed)
 
-Voice actors:
-- English VA: Daman Mills
-- Japanese VA: Ishiguro Fumitake (石黒 史剛)
+**English Voice Actor:** Daman Mills
+
+**Japanese Voice Actor:** Ishiguro Fumitake (石黒 史剛)
 
 # Story
 
@@ -39,7 +46,7 @@ Aamon is the head of House Paxley and the current Duke of Castle Aberleen. Despi
 
 An infant's cry shattered the silent dawn of Castle Aberleen. House Paxley, the most powerful and influential duchy in the Moniyan Empire, finally had an heir.
 
-The child's father Duke Paxley named him Aamon, and soon his younger brothers were born one after another. But as the eldest son and the family heir, Aamon had been subject to more strict discipline since his childhood. He was never allowed to be as free-spirited as his brother Gusion, and since as early as his boyhood, he'd been occupied with studies and official duties all day.
+The child's father, Duke Paxley, named him Aamon, and soon his younger brothers were born one after another. But as the eldest son and the family heir, Aamon had been subject to stricter discipline since his childhood. He was never allowed to be as free-spirited as his brother Gusion, and since as early as his boyhood, he'd been occupied with studies and official duties all day.
 
 Aamon did not only learn the things required for a normal nobleman. His father Duke Paxley also secretly taught him the spell that was only passed down to the family's direct descendants. It was a devious, ruthless spell that killed people neither honestly nor honorably. Aamon once felt skeptical because the secret family spell didn't match the honorable history of House Paxley that believed in the Lord of Light, and for this, he went out of his way to read on the family history.
 
@@ -51,7 +58,7 @@ After the late Duke Paxley was presumed dead, Aamon was not only left with the r
 
 Aamon once thought that protecting the house and protecting his family were completely the same, until one day, the curse from the ancient prophecy befell his younger brother, Gusion...
 
-Aamon never showed it to anyone, but among all his brothers and sisters, Gusion had been the one he'd paid the most attention to. Because Aamon saw the qualities that he didn't possess on Gusion – he was a free-spirited rebel who'd wreak havoc without a second thought. But Aamon didn't dislike his brother for it, and he thought maybe they were supposed to resemble each other as brothers, except that he had no choice but to turn into the person he was now. Whenever he looked at Gusion, he seemed to see the person he could have been.
+Aamon never showed it to anyone, but among all his brothers and sisters, Gusion had been the one he'd paid the most attention to. Because Aamon saw the qualities that he didn't possess in Gusion – he was a free-spirited rebel who'd wreak havoc without a second thought. But Aamon didn't dislike his brother for it, and he thought maybe they were supposed to resemble each other as brothers, except that he had no choice but to turn into the person he was now. Whenever he looked at Gusion, he seemed to see the person he could have been.
 
 Therefore, even though the entire Moniyan Empire knew that Aamon had a trickster good-for-nothing brother, he'd never discipline Gusion about his delinquent behaviors. Even one time when little Gusion accidentally cut Aamon's face with a knife, leaving a permanent scar on his cheek, Aamon only patted him and didn’t say anything more. Of course, Gusion didn't dare to bring any sharp objects near his respectable brother again.
 
@@ -67,82 +74,80 @@ The young Duke Paxley let out a sigh and decided to do it himself — to find th
 
 ## Invisible Armor
 
-For generations, the Invisible Armor has been used as the symbol of the greatest power in House Paxley.
+Aamon enters a Camouflage state each time he hits an enemy with a skill.
 
-- Effect summary:
-  - Aamon enters a Camouflage state each time he hits an enemy with a skill. While in Camouflage, he restores HP every 0.6 seconds and gains 60% extra movement speed that rapidly decays over 3.5 seconds. Upon leaving the Camouflage state, Aamon immediately resets his enhanced Basic Attack behavior and movement behavior within the next 2.5 seconds.
-  - Each enhanced Basic Attack deals scaling damage based on level and Aamon's stats and reduces Aamon's skill cooldown by 0.5 second. The first enhanced Basic Attack's damage is increased when Aamon leaves the Camouflage state actively.
+- While in the Camouflage state, he restores HP every 0.6 seconds and gains 60% extra Movement Speed that rapidly decays over 3.5 seconds.
+- Upon leaving the Camouflage state, Aamon immediately resets his enhanced Basic Attack's charges and skill related timers within the next 2.5 seconds.
+- Each enhanced Basic Attack deals scaling magic damage and reduces Aamon's skill cooldowns by 0.5 second. The first enhanced Basic Attack's damage is increased when Aamon leaves the Camouflage state actively.
 
-- Notes:
-  - While in Camouflage state, his enhanced Basic Attack will be guided toward the target and then initiate a Basic Attack.
-  - The enhanced basic attack has a specific increased range (value described as range of 3 in original data).
+Notes:
+- While in Camouflage State his enhanced Basic Attack will be guided towards the target before initiating a Basic Attack.
+- The enhanced Basic Attack has a range of 3 (game units).
+- This ability is presented as a stealth and blink style mechanic tied to his magic basic attacks.
 
-- Terminology: Stealth, Blink, Magic Basic Attack
-
-- Known issues noted in original data: Some triggers can occur after the state ended.
+Quote:
+> For generations, the Invisible Armor has been used as the symbol of the greatest power in House Paxley.
 
 ## Soul Shards
 
-Type: Magic Skill
+Aamon charges his armor each time he casts a skill or hits an enemy with a skill or attack. At 5 charges, Aamon throws 6 shards at the target on his next attack, each shard dealing scaling magic damage. The shards will then scatter around the target. Aamon may throw a shard at a nearby enemy, dealing additional scaling magic damage.
 
-- Passive (charges): Aamon charges his armor each time he casts a skill or hits an enemy with a skill or ability. At 5 charges, Aamon throws 6 shards at the target on his next attack, each shard dealing passive damage based on level. The shards will then scatter around the target. When Aamon throws a shard at a nearby enemy from the ground, it deals scaling damage.
+- Passive Base Damage: 40 / 52 / 64 / 76 / 88 / 100 (scaling with skill level and stats)
+- Active Base Damage: 150 / 180 / 210 / 240 / 270 / 300 (scaling with skill level and stats)
+- Mana cost (active): 60 / 66 / 72 / 78 / 84 / 90
+- Cooldown (active): 9.0 / 8.5 / 8.0 / 7.5 / 7.0 / 6.5 seconds
 
-- Active: Aamon can activate Soul Shards to deal a larger burst of magic damage to the target.
-
-- Numbers (base values from original data):
-  - Passive base damage: 40 / 52 / 64 / 76 / 88 / 100 (levels 1–6)
-  - Active base damage: 150 / 180 / 210 / 240 / 270 / 300 (levels 1–6)
-  - Cooldown: 9.0 / 8.5 / 8.0 / 7.5 / 7.0 / 6.5 seconds (levels 1–6)
-  - Mana cost: 60 / 66 / 72 / 78 / 84 / 90 (levels 1–6)
-
-- Additional notes from original data:
-  - If this skill's passive is triggered by this active skill, the passive skill damage will deal additional scaling damage.
-  - Base Damage for the passive does not increase its base damage despite being upgradable through Hero Training in original sources.
-  - Shards dropped on the battlefield last 8 seconds.
-  - There is a maximum of 12 shards scattered on the battlefield.
-  - Shards dropped on the ground are visible to everyone.
-  - If the target of this ability dies or becomes untargetable when the shard reaches them, no effect takes place.
+Notes and mechanics:
+- The shards dropped on the ground are visible to everyone.
+- If the target of this ability dies or becomes untargetable when a shard reaches them, no effect takes place for that shard.
+- Shards scattered on the battlefield last 8 seconds.
+- There is a maximum of 12 shards scattered on the battlefield.
+- If this skill's passive is triggered by its active component, the passive damage will deal additional scaling damage.
+- Base Damage for the passive cannot increase its base value via Hero Training, though the skill can be upgraded through other means.
 
 ## Slayer Shards
 
-Type: Magic Skill
+Aamon throws a shard forward, dealing magic damage to the first non-minion enemy hit and slowing them by 50% for 2 seconds. The shard will then return to Aamon immediately. If the shard fails to hit an enemy, it will return to Aamon after a short delay and allow him to enter the Camouflage state.
 
-- Description: Aamon throws a shard forward, dealing base magic damage to the first non-minion enemy hit and slowing them by 50% for 2 seconds. The shard will then return to Aamon immediately. If the shard fails to hit an enemy, it will return to Aamon after a short delay and allow him to enter the Camouflage state.
+- Base Damage: 120 / 140 / 160 / 180 / 200 / 220 (scaling with skill level and stats)
+- Mana cost: 110 / 104 / 98 / 92 / 86 / 80
+- Cooldown: 15.0 / 14.5 / 14.0 / 13.5 / 13.0 / 12.5 seconds
 
-- Numbers (base values from original data):
-  - Base damage: 120 / 140 / 160 / 180 / 200 / 220 (levels 1–6)
-  - Cooldown: 15.0 / 14.5 / 14.0 / 13.5 / 13.0 / 12.5 seconds (levels 1–6)
-  - Mana cost: 110 / 104 / 98 / 92 / 86 / 80 (levels 1–6)
-  - Additional scaling: +50% Total Magic Power (as noted in original data)
-
-- Effects: Magic damage, slowing, and can grant entry into Camouflage state when the shard returns without hitting an enemy.
-
-## Enhanced Basic Attack (Aamon)
-
-- This represents Aamon's enhanced Basic Attacks while under the effects of Invisible Armor and other interactions. Enhanced Basic Attacks interact with his charge and shard mechanics, dealing additional scaling magic damage and reducing certain cooldowns as described in his passive and other skills.
-
-- Range and behavior: Enhanced basic attacks have extended behavior and range compared to normal basic attacks (original data references an increased range and guided behavior toward targets while in Camouflage).
+Notes:
+- Deals magic damage and applies a movement speed slow.
+- Can be used to trigger the Camouflage state if the returning shard does not hit an enemy.
+- The ability interacts with his armor charges and shard mechanics.
 
 ## Endless Shards
 
-Type: Magic Skill
+Aamon throws all available shards at a designated enemy and slows them by 30% for 1.5 seconds. After a short delay, the shards will fly to the enemy's location again, each dealing scaling magic damage. The number of shards increases with Aamon's armor charges and the shards present on the ground (range approximately 8 to 25 shards). The damage dealt increases with the target's lost HP, reaching maximum damage when the target's HP is below 30%. The same target takes 50% less damage from subsequent attacks from this ultimate.
 
-- Description: Aamon throws all shards at a designated enemy and slows them by 30% for 1.5 seconds. After a short delay, the shards will fly to the enemy's location again, each dealing magic damage. The number of shards increases with Aamon's armor charges and the shards on the ground (minimum and maximum noted in original data as 8 to 25). The damage dealt increases with the target's lost HP, reaching maximum when the target's HP is below 30%. The same target takes 50% less damage from subsequent attacks of this ability.
+- Minimum Damage per shard: 90 / 100 / 110 (levels 1/2/3)
+- Maximum Damage per shard: 150 / 165 / 180 (levels 1/2/3)
+- Mana cost: 150 / 170 / 190
+- Cooldown: 46.0 / 42.0 / 38.0 seconds
 
-- Numbers (base values from original data):
-  - Cooldown: 46.0 / 42.0 / 38.0 seconds (levels 1–3)
-  - Mana cost: 150 / 170 / 190 (levels 1–3)
-  - Minimum damage per shard: 90 / 100 / 110 (levels 1–3)
-  - Maximum damage per shard: 150 / 165 / 180 (levels 1–3)
-  - Shard count range (as noted): approximately 8–25 depending on charges and shards on the ground
+Damage formulas (expressed in plain text):
+- Base damage example by level:
+  - Level 1 base damage: 175.71 minus (85.714 times current HP divided by max HP)
+  - Level 2 base damage: 192.86 minus (92.857 times current HP divided by max HP)
+  - Level 3 base damage: 210 minus (100 times current HP divided by max HP)
 
-- Additional notes from original data:
-  - The number of shards is updated next to the ability retroactively.
-  - The shards first travel to the target, then expand outwardly before converging; they deal damage when expanding and converging to all enemies around, and follow the target as it moves.
-  - The target may avoid the damage by using certain mobility or untargetable skills at the time of convergence.
+- Magic bonus example expressed in plain text: magic bonus equals 0.46857 minus (0.22857 times current HP divided by max HP).
+
+Notes:
+- The number of shards is updated next to the ability retroactively.
+- The shards first travel to the target, then expand outwardly before converging, dealing damage when expanding and converging to all enemies around, and follow the target as it moves.
+- The target may avoid the damage by using invulnerability or any mobility skill at the time of convergence.
 
 # Trivia
 
-- undefined
-- undefined
-- undefined
+- Similarly to his brother, Aamon is named after the demon with the same name. Also known as Amon or Nahum, Aamon is a Grand Marquis of Hell who governs 40 infernal legions and the 7th of the Goetian demons. Both of their names are derived from the demonological writings of The Lesser Key of Solomon.
+- Aamon's quote:
+
+> "It is better to be feared than loved, if you cannot be both."
+
+This quote is directly derived from Niccolò Machiavelli, an Italian philosopher known for his work, The Prince.
+
+This quote suggests that when it comes to leadership and governance, it is more advantageous for a ruler to instill fear in their subjects rather than to be loved, especially if they cannot achieve both fear and love simultaneously. In the context of Aamon's quote, Aamon may believe that fear can be a more reliable means of maintaining control and obedience among the populace of Castle Aberleen.
+- Aamon is based on European nobility and aristocratic assassins.

@@ -1,26 +1,14 @@
-# Obsidia
-
 # Profile
 
 - **Name:** Obsidia
 - **Origin:** Abyss Crack, The Barren Lands
 - **Gender:** Female
 - **Title:** Sovereign of Dark's End
-- **Relationships:** *,, , , (enemies)
-
-Related entities and tags:
-
-- Lord of Darkness
-- Selena
-- Alice
-- Thamuz
-- Dyrroth
+- **Related characters:** Lord of Darkness; Selena; Alice; Thamuz; Dyrroth
 
 # Story
 
 > "TBA"
-
-TBA
 
 Deep in the vast, dark depths of the Abyss, Obsidia hunts. The stench of rot emanates from ancient blood, like beacons flickering in the darkness, marking the path of her prey—the Spawns of Decay. As her power grows, the bones of her weapon multiply, swaying in her wake.
 
@@ -64,9 +52,15 @@ While some demons were able to harness this power without becoming mindless husk
 
 With her hunt temporarily over, Obsidia stepped into the chasm's darkest depths. She felt the Abyss's familiar pulse, and those bearers of her blood, as conspicuous as stars in the night sky.
 
-> "Then I shall do it."
+> "Then I shall do it,"
 
-> "I shall herald the return of the Abyss. I shall hunt down every last Spawn of Decay. I shall lay the trap to slay a god."
+She thought.
+
+> "I shall herald the return of the Abyss."
+
+> "I shall hunt down every last Spawn of Decay."
+
+> "I shall lay the trap to slay a god."
 
 > "This is my land, my kingdom, my domain."
 
@@ -76,44 +70,19 @@ With her hunt temporarily over, Obsidia stepped into the chasm's darkest depths.
 
 ## Return to Bone
 
-- When Obsidia deals damage to enemies, she gains Bone Energy.
-  - Basic Attacks against non-hero units grant 1 Energy; against hero units grant 2 Energy; skills grant 3 times the Energy.
-  - No Energy is gained from hitting creeps.
-- When Bone Energy reaches 30, it forms a Bone Shard, up to 25 shards total.
-- When Obsidia uses Basic Attacks, all Bone Shards strike the target:
-  - Each Bone Shard deals (7% Total Physical Attack) Physical Damage.
-  - Each Bone Shard inherits 7% Attack Effects.
-
-Note: Damage from Bone Shards scales with Obsidia's total physical attack and level.
+undefined
 
 ## Abyssal Bone Needle
 
-- Obsidia launches a piercing attack, dealing damage based on level and stats to enemies hit and triggering Return to Bone on the first enemy hero hit.
-- Scaling and numbers indicated in data files:
-  - Base listed values include 325 (with level scaling up to 500 in some entries).
-  - Total physical attack ratio listed as 80 (interpreted as 80% physical damage scaling with attack).
-  - Additional listed values include ranges such as 35 to 50 and 325 to 500 (these refer to level-based scaling values).
-- Cooldown (per level): 4.5 / 4.2 / 3.9 / 3.6 / 3.3 / 3.0 seconds.
-
-Note: Exact damage values depend on skill level and Obsidia's stats; described above as damage based on level and stats.
+undefined
 
 ## Phantom Shadowmeld
 
-- Obsidia descends into the Abyss and enters a shadow form, gaining 500% Movement Speed for 0.3 seconds.
-- Cooldown (per level): 4.5 / 4.2 / 3.9 / 3.6 / 3.3 / 3.0 seconds.
-
-Note: This skill provides a brief burst of extreme movement speed and can be used for engages, repositioning, or to follow up other abilities.
+undefined
 
 ## Hunt of Bone
 
-- Obsidia shoots in the target direction, dealing damage based on level and stats and briefly stunning the first enemy hero hit, then pulls herself near that target.
-- Bone shards then tether to the enemy, preventing Obsidia from moving more than 4 units away from them. The tether prevents the enemy from using displacement skills, and their movement will pull Obsidia along.
-- During this time, Obsidia gains 5 temporary bone energy (resource). This effect lasts 3 seconds.
-- While tethered, Obsidia can move through obstacles and use Basic Attacks while moving. Phantom Shadowmeld is enhanced during this period, with its duration increased to 1 second and its cooldown reduced by 33%.
-- Listed scaling and numbers include a base of 125 and a total physical attack ratio of 60, with other level-based ranges noted as 125 to 225 and 100 to 0 in source data (these refer to level-based scaling entries).
-- Cooldown (per level): 40.0 / 35.0 / 30.0 seconds.
-
-Note: Exact damage, tether interactions, and resource gains scale with skill level and Obsidia's stats; some source entries reference Bone Shards and other data used by this ultimate.
+undefined
 
 # Trivia
 

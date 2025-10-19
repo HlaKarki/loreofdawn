@@ -1,19 +1,26 @@
-# Fanny
-
 # Profile
 
-- Full Name: Fanny Wertz
-- Chinese Name: 梵妮 (fànnī)
-- Aliases: Blade Dancer; Lightborn Ranger
+> "A blade dancer in the battlefield."
+
+- Full name: Fanny Wertz
+- Chinese name: 梵妮 (fànnī)
+- Alias:
+  - Blade Dancer
+  - Lightborn Ranger
 - Origin: Imperial Sanctuary, Moniyan Empire
 - Age: 17
 - Species: Human
 - Gender: Female
-- Affiliation: Moniyan Empire; Lightborn; The Abyss (hostile)
-- Weapons: Soaring Blades; Steel cable
-- Battles Fought: Invasion of Lumina City
-- Relationships: Tigreal (older brother, Lightborn co-member); other Lightborn co-members; companions
-- Voice Actors:
+- Affiliation:
+  - Moniyan Empire
+  - Lightborn
+  - The Abyss (hostile)
+- Weapons:
+  - Soaring Blades
+  - Steel cable
+- Battles fought: Invasion of Lumina City
+- Relationships: (older brother, Lightborn co-member) and various Lightborn companions
+- Voice actors:
   - English: Sandra Osborne (2020–)
   - Japanese: Ono Saki (小野 早稀)
   - Indonesian: Mirna Haryati
@@ -23,8 +30,6 @@
 Fanny is the younger sister of Tigreal, who grew up under the protection of her family and her elder brother since she was a child. But Tigreal took the blame for a mistake in battle and left home. Disregarding obstructions from her family, Fanny joined the army, and through her own designed weapons, she successfully completed one task after another, becoming an outstanding fighter who can take care of herself.
 
 # Story
-
-> "A blade dancer in the battlefield."
 
 Fanny Wertz is the youngest daughter of the Wertz family and the youngest sister of Tigreal. Although the men of the Wertz family served in the army for generations and guarded the Moniyan Empire, the female members of the family were never allowed to join the army. From the perspective of the men in the family, their duty was to protect the country and family from threats, and women were to stay away from war.
 
@@ -50,56 +55,63 @@ Travelers on the Land of Dawn, if you see a person flying by in the mountains an
 
 ## Air Superiority
 
-During fight, Fanny deals 10%–20% extra damage to enemies hit (scales with flying speed speed unknown) and applies a stack of Prey Mark to them (up to 2 stacks) on each attack. Her subsequent skill hits on marked enemy heroes restore 7 energy per stack for her. The energy restoration is reduced amount unknown if she hits multiple enemy heroes within a short period of time duration unknown.
+- During a fight, Fanny deals 10%–20% extra damage to enemies hit (scales with flying speed (speed unknown)) and applies a stack of Prey Mark to them (up to 2 stacks) on each attack. Her subsequent skill hits on marked enemy heroes restore 7 energy per stack for her. The energy restoration is reduced (amount unknown) if she hits multiple enemy heroes within a short period of time (duration unknown).
 
 - Energy Gain Per Prey Mark Stack: 8 / 16
-- Applies the Prey Mark status on hit (mark)
+
+- Note: damage scales with level and Fanny's relevant stats.
 
 ## Tornado Strike
 
-Fanny whirls her blades, dealing physical damage to nearby enemies.
+- Fanny whirls her blades, dealing damage based on level and stats to nearby enemies.
 
-- Base Damage: 300 / 348 / 396 / 444 / 492 / 540
-- Scaling: physical attack 80
-- Skill Type: Physical Damage Skill
-- Area of Effect (AOE)
+- Base Damage: 300 / 348 / 396 / 444 / 492 / 540 (scales with level)
+- Skill type: Physical Damage Skill (AOE)
+- Energy Cost: 15
+- Cooldown: 3.5 / 3.3 / 3.1 / 2.9 / 2.7 / 2.5 seconds (varies by level)
 
 ## Steel Cable
 
-Fanny shoots a cable in the target direction that pulls her to the first obstacle hit. She can cast this skill again within 2 seconds until her energy runs out. Each successive cast reduces the skill's energy cost by 2. Fanny automatically casts upon hitting an enemy mid-flight, as long as her energy is sufficient.
+- Fanny shoots a cable in the target direction that pulls her to the first obstacle hit. She can cast this skill again within 2 seconds until her energy runs out. Each successive cast reduces the skill's energy cost by 2. Fanny automatically casts Tornado Strike upon hitting an enemy mid-flight, as long as her energy is sufficient.
 
-- Quote: "No way I'm going on foot!"
-- Skill Effect: Charge
+- Quote: No way I'm going on foot!
+- Energy Cost: 17 / 16 / 15 / 14 / 13 / 12 (reduces with successive casts)
+- Cooldown: 0.0 (can be cast consecutively while conditions are met)
+
 - Notes:
-  - Obstacles includes map walls, terrains, summoned constructs, turrets, and the border of certain domains.
+  - "Obstacles" includes: the walls of a map, terrains, summoned constructs (e.g. enemy constructs), turrets, and the border of certain domains.
   - During flight:
     - Fanny cannot manually cast the skill or basic attack.
-    - The first Tornado Strike from Steel Cable costs energy and the subsequent attacks will not.
+    - The first Tornado Strike from Steel Cable costs energy and the subsequent Tornado Strikes will not.
     - Each Tornado Strike for each Steel Cable cast is limited to one per target. Even though it appears to be an AOE, if Fanny initiates an additional Tornado Strike and opponents who have already received damage intersect with Fanny or the additional Tornado Strike, neither will damage the already damaged opponents. If a Tornado Strike hits more than one opponent, the limit is shared by all of them. To successfully attack the same target twice while in flight with Tornado Strike, Fanny must use another Steel Cable.
   - Fanny is vulnerable for approximately 0.7 seconds during the first steel cable cast, during which the player is unable to control Fanny, including moving her via left joystick, casting basic attacks and casting her skills until the cable grapples successfully or if it fails and retracts back to Fanny. If at least one steel cable grapples successfully, Steel Cable can be cast consecutively within 2 seconds with reduced energy cost and no delay; this duration can be refreshed indefinitely as long as Steel Cable grapples an obstacle within this duration.
-  - During the two seconds consecutive cast, certain disables cannot stop the cable.
+  - Additionally, during the two seconds consecutive cast, Steel Cable cannot be disabled by immobilize effects.
   - Tornado Strike from Steel Cable can still be triggered on targets who are invisible.
-  - Her flight can only be interrupted by hitting an opposing obstacle, by airborne, suppressed and displacement effects and certain skills. If she is interrupted, all deployed cables will go back to Fanny.
+  - Her flight can only be interrupted by hitting an opposing obstacle, by being controlled by airborne, suppressed and displacement effects, or certain disabling skills. All of the deployed cables will go back to Fanny if she is interrupted.
+  - According to Death Replay, the Tornado Strike triggered by Steel Cable (if conditions are met) is considered damage dealt by the skill Steel Cable.
   - The speed of following cables, if they are destined to grapple, are much faster than the initial cast. This allows the player to have more control of Fanny's direction.
-  - Tornado Strike animation and special effects from Steel Cable are slightly visually different from the regular Tornado Strike.
+  - Tornado Strike animation and special effects from Steel Cable are slightly visually different from the standard Tornado Strike.
 
 ## Cut Throat
 
-Fanny leaps at the target enemy hero or Creep with her blades, dealing physical damage based on level and stats. Each stack of Prey Mark on the target increases this damage by 20%.
+- Fanny leaps at the target enemy hero or creep with her blades, dealing burst physical damage based on level and stats. Each Prey Mark stack on the target increases this damage by a percentage.
 
-- Base Damage: 500 / 680 / 860
-- Extra Damage Per Prey Mark Stack: 20% / 40%
-- Skill Type: Blink; Physical Damage Skill
+- Base Damage: 500 / 680 / 860 (scales with level)
+- Extra Damage Per Prey Mark Stack: 20% / 40% (varies by level)
+- Skill type: Blink, Physical Damage Skill
+- Energy Cost: 30
+- Cooldown: 35.0 / 30.0 / 25.0 seconds (varies by level)
+
 - Notes:
   - Casting this skill will make deployed cables retract towards Fanny.
 
 # Trivia
 
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
-- undefined
+- Fanny's name could be derived from the word "Fanny" (short for Frances or Stefanie), but it might also come from the Germanic word fannen, meaning "to capture" or "seize"—which matches her fast, aggressive playstyle.
+- Her surname "Wertz" is a popular Germanic surname, either derived from the Old English personal name Hwit, meaning "the white one" or derived from the Middle High German word "wert" meaning "river island", or "river bank".
+- Fanny's appearance and fighting style resembles the soldiers in the Attack on Titan (進撃の巨人) series.
+- Fanny is the most difficult hero according to the hero difficulty rating with 100%, the highest of all heroes.
+- She is the first heroes to use energy as the skill source.
+- She is the only hero without any form of crowd control in her kit, not even a slowing effect.
+- Her skin "Skylark" is inspired by a type of bird known for its high-speed flight and agility, perfectly matching Fanny’s fast, aerial combat style.
+- Fanny and other heroes are among the few in Mobile Legends with multiple couple skins; Fanny's "Lifeguard" and "Heart Afloat" are part of her romantic-themed skins.

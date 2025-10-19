@@ -1,43 +1,46 @@
-# Hayabusa
-
 # Profile
-
-Chinese name: 隼 (sǔn )  
-Alias: Crimson Shadow  
-Origin: Scarlet Shadow, Cadia Riverlands  
-Age: 20  
-Species: Human  
-Gender: Male  
-Occupation: Shadow Sect Ninja  
-Fighting style: Ninjutsu  
-Weapons:  
-- Katana
-- Kunai  
-Relationships:  
-- Unnamed father
-- Kurēn (olders brother, deceased)
-- Hanabi (childhood sweetheart)
-- Kagura (close as siblings)
-- Hanzo (enemies)  
-English VA: Gaku Space (2021–)  
-Indonesian VA: Kamal Nasuti  
-Japanese VA: Fukagawa Kasumasa (深川 和征)
-
-# Story
 
 > "Leader of the Scarlet Shadow's Shadow sect, upon the Cadia Riverlands."
 
-As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself. To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect. Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles.
+- Chinese name: 隼 (sǔn )
+- Alias: Crimson Shadow
+- Origin: Scarlet Shadow, Cadia Riverlands
+- Age: 20
+- Species: Human
+- Gender: Male
+- Occupation: Shadow Sect Ninja
+- Fighting style: Ninjutsu
+- Weapons:
+  - Katana
+  - Kunai
+- Relationships:
+  - Unnamed father
+  - Kurēn (olders brother, deceased)
+  - (childhood sweetheart)
+  - (close as siblings)
+  - (enemies)
+- Voice actors:
+  - English VA: Gaku Space (2021–)
+  - Indonesian VA: Kamal Nasuti
+  - Japanese VA: Fukagawa Kasumasa (深川 和征)
 
-He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect. But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.
+# Story
+
+As the second heir to the Shadow Sect of the Scarlet Shadow, Hayabusa had always looked up to his brother, a figure who he saw as the moon itself.
+
+To preserve the delicate balance of power between the Shadow and Scarlet Sects, Hayabusa willingly took his brother's place to be a political pawn and hostage, to be raised within the rival Scarlet Sect.
+
+Every day spent in the Scarlet Sect, Hayabusa lived by his brother's principles. He mastered his unique Shadow Shuriken technique and forged an unbreakable bond with Hanabi, a kunoichi of the Scarlet Sect.
+
+But when Hanzo's betrayal and his brother's disappearance shattered their hopes for peace, Hayabusa realized that the moonlight that had always guided him was gone. Yet, he gripped his blade firmly, determined to forge ahead through the shadows, following his brother's nindo.
 
 # Side Story
 
 ## Shadow and Moon
 
-*When clouds obscure the moon,*  
+*When clouds obscure the moon,*
 
-*Where shall shadows find their place?*  
+*Where shall shadows find their place?*
 
 As descendants of the Shadow Sect, Hayabusa and his brother underwent rigorous training from childhood. Even as a young boy, Hayabusa knew his brother's skills far surpassed his own. But what truly seemed beyond his reach was his brother's vision of nindo, the ninja way: integrating ninja tools with ninjutsu to end the hostility between ninja clans.
 
@@ -53,9 +56,13 @@ Sitting beside his brother, Hayabusa removed his mask. A childlike smile broke t
 
 In his first years at the Scarlet Sect, Hayabusa, as a pawn, was met with contempt. He found companionship only in his own shadow. During training, he constantly worked to integrate ninja tools with his ninjutsu, creating his unique Shadow Shuriken technique. Gradually, more and more people came to challenge him. Hayabusa calmly accepted each challenge and silently departed after each victory. For him, winning or losing mattered less than fulfilling his brother's will—ending the hostility between the two sects.
 
-Until one day, he met a girl whose convictions rivaled his own—Hanabi. As the successor of *"Scarlet,"* Hanabi always held her head high. She saw her victories as victories for the Scarlet Sect, and her fierce competitive spirit drove her to challenge Hayabusa again and again.
+Until one day, he met a girl whose convictions rivaled his own—Hanabi. As the successor of "Scarlet," Hanabi always held her head high. She saw her victories as victories for the Scarlet Sect, and her fierce competitive spirit drove her to challenge Hayabusa again and again.
 
-Hidden valleys, bamboo forests, rooftops... Every corner of the Scarlet Shadow bore witness to their battles. Every time Hayabusa won, Hanabi would ask, *"Why did I lose..."* but he would only shrug in return.
+Hidden valleys, bamboo forests, rooftops... Every corner of the Scarlet Shadow bore witness to their battles. Every time Hayabusa won, Hanabi would ask,
+
+> "Why did I lose..."
+
+but he would only shrug in return.
 
 Hayabusa had long accepted that he possessed no extraordinary talent. In pursuit of his brother's nindo, he trained alone, until he finally understood that the relationship between ninja tools and ninjutsu was like that of scarlet and shadow—two sides of the same coin. They were inseparable. The Scarlet Sect and Shadow Sect surely knew this too, yet they chose to remain fixated on winning over each other.
 
@@ -73,7 +80,9 @@ Strangely, the order made no mention of his brother. Filled with doubt, Hayabusa
 
 During his pursuit, Hayabusa discovered Hanabi lying on the ground, surrounded by ninjas from both sects writhing in agony. As Hayabusa tried to wake Hanabi, a malevolent aura struck at him. He gripped his blade tightly. Then, he saw a familiar yet strange figure—it was his brother, radiating with murderous intent.
 
-He saw blood staining his brother's hands...####He saw the light had vanished from his eyes...
+He saw blood staining his brother's hands...
+
+He saw the light had vanished from his eyes...
 
 No matter how Hayabusa called out, he was met only with increasingly violent attacks, each aimed to kill.
 
@@ -95,9 +104,9 @@ In that instant, Hayabusa regained consciousness. With one hand, he formed a sea
 
 Hayabusa watched as the murderous aura gradually dissipated along with his brother's image, revealing Ame no Habakiri's true form, glaring with rage and laughing maniacally.
 
-The cunning Ame no Habakiri had tried to use illusions to exploit the weakness in human hearts, only to encounter such resilience within. Breaking free from the illusion, Hayabusa was no longer bound by the darkness. Though he knew Ame no Habakiri was powerful, behind him stood Hanabi, Kagura, and the unknown fate of his brother.
+The cunning Ame no Habakiri had tried to use illusions to exploit the weakness in human hearts, only to encounter such resilience within. Breaking free from the illusion, Hayabusa was no longer bound by the darkness.
 
-He had no choice but to stand up.
+Though he knew Ame no Habakiri was powerful, behind him stood Hanabi, Kagura, and the unknown fate of his brother. He had no choice but to stand up.
 
 Even without the moon's guidance, a shadow must forge its own path.
 
@@ -107,44 +116,47 @@ Even without the moon's guidance, a shadow must forge its own path.
 
 ## Ninjutsu: Trace of Shadow
 
+Shadow Mark (mark)
+
 Hayabusa's attacks apply a stack on hit (up to 4 stacks). Each stack lasts 6 seconds and increases Hayabusa's damage to the enemy by 5%.
 
-- Damage increase per Shadow Mark stack: 5% / 10% / 15% / 20%
+- Damage Increase Per Shadow Mark Stack: 5% / 10% / 15% / 20%
 - Hayabusa's basic attacks and non-ultimate skills can only apply Shadow Marks.
 
 ## Ninjutsu: Phantom Shuriken
 
-Hayabusa throws three returning shurikens in the target direction, each dealing physical damage to enemies hit and slowing them by 35% for 2 seconds. Enemies hit by multiple shurikens take only 30% of the damage after the first hit. Hayabusa restores 10 energy for each non-Minion enemy hit. Hayabusa permanently gains 3%–18% Spell Vamp.
+Hayabusa throws three returning shurikens in the target direction, each dealing physical damage based on level and stats to enemies hit and slowing them by 35% for 2 seconds. Enemies hit by multiple shurikens take only 30% of the damage after the first hit. Hayabusa restores 10 energy for each non-Minion enemy hit. Hayabusa permanently gains 3%–18% Spell Vamp.
 
-- Base damage: 150 / 170 / 190 / 210 / 230 / 250
+- Type: Physical Damage Skill
 - Spell Vamp: 3% / 6% / 9% / 12% / 15% / 18%
+- Base Damage: 150 / 170 / 190 / 210 / 230 / 250
 
 Notes:
 - This skill can only stack up to 2 Shadow Marks.
-- The weapons used in this skill described as "returning shurikens" is incorrect because the weapon is, in fact, a kunai.
+- The weapons used in this skill described as "returning shurikens" are actually kunai.
 
 ## Ninjutsu: Quad Shadow
 
-Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing physical damage and slowing them by 40% for 2 seconds. Hayabusa will immediately stop if he hits an enemy hero during the dash. Hayabusa teleports to a phantom's location and reduces the cooldown of this skill by 1 second. If the phantom is attached to an enemy hero, he also deals extra physical damage to the enemy.
+Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing physical damage based on level and stats and slowing them by 40% for 2 seconds. Hayabusa will immediately stop if he hits an enemy hero during the dash. Hayabusa teleports to a phantom's location and reduces the cooldown of this skill by 1 second. If the phantom is attached to an enemy hero, he also deals extra physical damage based on level and stats to the enemy.
 
-- Base damage: 130 / 140 / 150 / 160 / 170 / 180
-- Extra damage when teleporting to attached phantom: 130 / 140 / 150 / 160 / 170 / 180
+- Base Damage: 130 / 140 / 150 / 160 / 170 / 180
+- Extra Damage (when teleporting to an attached phantom): 130 / 140 / 150 / 160 / 170 / 180
 
 Notes:
-- The shadow that attached to the target can be removed with any crowd control removal sources.
-- Despite the very fast animation, Khufra's abilities can block the dash towards each shadow.
+- The shadow that attached to the target can be removed with any CC removal source.
+- Despite the very fast animation, Khufra's crowd control can block the dash towards each shadow.
 
 ## Ougi: Shadow Kill
 
-Hayabusa blends into the shadows and launches multiple single-target attacks on enemies in the area, prioritizing enemies with Shadow Marks. Each attack consumes a mark to deal additional physical damage. This ability does not apply Shadow Marks.
+Hayabusa blends into the shadows and launches multiple single-target attacks on enemies in the area, each dealing physical damage based on level and stats. The attacks prioritize enemies with Shadow Marks and each will consume a mark to deal extra physical damage based on level and stats. This ability does not apply Shadow Mark.
 
 - Hits: 6 / 9 / 12
-- Extra damage per consumed mark: 45 / 65 / 85
+- Extra Damage per consumed mark: 45 / 65 / 85
 
 Notes:
 - When the target becomes untargetable or moves a certain distance away from Hayabusa and no other valid targets are nearby, Hayabusa loses untargetability prematurely and wastes the remaining attacks.
 - Hayabusa continuously moves side-to-side of the target and can freely cast Battle Spells.
-- Despite not having a Mobility tag, this ability is disabled in some special match modes.
+- Despite not having the Mobility tag, this ability is disabled in certain modes.
 
 # Trivia
 
@@ -154,4 +166,4 @@ Notes:
 - His Ultimate, "Ougi: Shadow Kill," also resembles classic ninja assassination techniques. In Japanese ninja stories, a "final move" (奥義 / Ougi) is a secret assassination technique passed down through generations.
 - Hayabusa is likely inspired by Ryu Hayabusa from the Ninja Gaiden and Dead or Alive series.
 - Early concept art for Hayabusa featured a simpler, more traditional ninja outfit, closer to common historical Japanese ninja depictions.
-- Hayabusa’s Quad Shadow skill is similar to Zed from League of Legends "Living Shadow", which is placing a clone that he can teleport to and attack from different angles.
+- Hayabusa’s Quad Shadow skill is similar to Zed from League of Legends' Living Shadow, which places a clone that he can teleport to and attack from different angles.

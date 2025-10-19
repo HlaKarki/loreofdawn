@@ -1,5 +1,3 @@
-# Cecilion
-
 # Profile
 
 He is the partner of Carmilla, Shadow of Twilight.
@@ -12,12 +10,16 @@ He is the partner of Carmilla, Shadow of Twilight.
 - Occupation: Opera actor/singer
 - Affiliation: Avalor, Castle Aberleen (former residence)
 - Traits: Graceful, Deeply in love
-- Abilities: Bat summoning; Summons giant claw; Summons giant bat
+- Abilities: Bat summoning; Summons giant claw (Skill 2); Summons giant bat (Skill 1)
 - Weapons: Scepter
-- Relationships: (lover); (savior); (enemy)
-- Japanese VA: Wakabayashi Yuu (若林 佑)
+- Relationships: Carmilla (lover, savior); Gusion (enemy); Alice (enemy)
+- Japanese voice actor: Wakabayashi Yuu (若林 佑)
 
-# Bio
+# Story
+
+> "Carmilla's Blood Demon lover"
+
+As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.
 
 Many years ago, enjoying the night opera performed by Cecilion was the most popular form of entertainment for the people of Avalor. It was always full house at the theatre, each time this famous Opera actor performed. Everyone was attracted by his indescribable handsomeness and talent. However, the applause, love and cheers from human beings didn’t make Cecilion happy. He was a Blood Demon, and it was hard for him to open his mind to humans. He had always tried hard, to conceal his true identity and blend in with human society.
 
@@ -47,70 +49,55 @@ Since his youth, Cecilion had always chose to hide behind the darkness and stay 
 
 Every detail in their life, embodied their love. With love, Cecilion believed he could endure anything and everything. To keep Carmilla's father, Earl Ansaac, from discovering the truth of their deep love and to avoid the interference of the Abyssal Demons, they had to disguise themselves as ordinary human beings and fit into the human society. However, accidents happen. Once, due to unavoidable circumstances, their identities were discovered, and Cecilion had to kill every single one, who knew the truth. It is believed that, once Cecilion unleashes his true power of Blood Demon, no one, be it Abyssal Demons or humans, could even dream of escaping.
 
-# Story
-
-> "Carmilla's Blood Demon lover"
-
-As a blood demon, Cecilion in love with human girl Carmilla, but cruel reality made Cecilion give up on their love. After Cecilion left, Carmilla chose to commit suicide which made Cecilion desperately sad. He used his abilities to turn Carmilla into Blood Demon. From then on, the two of them stayed away in the world together forever.
-
 # Abilities
 
 ## Overflowing
 
-Cecilion gains extra mana stacks.
+Cecilion gains extra Max Mana stacks. Each stack grants extra mana and restores the same amount when his skill hits an enemy target. Duration: 1 second. Cecilion has increased Max Mana and Mana Regen, and his skill damage scales with his Max Mana.
 
-- Extra mana equals 10 times the number of stacks (extra mana = 10 × number of stacks).
-- Extra Mana examples: 10, 20, 30, …, 999990.
-- Cecilion can gain up to 99999 stacks, for which he can gain up to 999990 extra mana at full stacks.
-
-Cecilion increases his Max Mana by 10 and restores the same amount when his skill hits an enemy target. Cecilion has higher Max Mana and Mana Regen, and his skill damage scales with his mana.
+- Extra Mana per stack: 10, 20, 30, ..., 999990 (scales with levels)
+- Notes: Cecilion can gain up to 99,999 stacks, for which he can gain up to 999,990 extra mana at full stacks.
 
 ## Bat Impact
 
-Cecilion orders a giant bat to dive in a designated direction, dealing scaling magic damage to enemies on the path. The giant bat will stay at its destination and launch another attack, dealing additional scaling magic damage to enemies and triggering extra effects one more time. For 6 seconds, every time Cecilion casts this skill, the mana cost will be increased by 1.8 times (capped at 4 times). While casting this skill, he also gains 30% Movement Speed for 1 second.
+Cecilion orders a giant bat to dive in a designated direction, dealing damage based on level and stats to enemies on the path. The giant bat will stay at its destination and launch another attack, dealing damage based on level and stats to enemies and triggering extra effect 1 time. For 6 seconds, every time Cecilion casts this skill, the mana cost will be increased by 1.8 times (capped at 4 times). While casting this skill, he also gains 30% Movement Speed for 1 second.
 
 - Base Damage: 100 / 130 / 160 / 190 / 220 / 250
 - Destination Damage: 200 / 260 / 320 / 380 / 440 / 500
-- Mana Cost scaling examples: 75 / 135 / 245 / 445 / 800
+- Mana Cost progression: 75 / 135 / 245 / 445 / 800
 
 Notes:
 - This skill can trigger for a maximum of 3 times in a single cast.
 
 ## Sanguine Claws
 
-Cecilion summons a pair of claws in a designated location. After a short delay, the claws will move toward each other and enemies along the way to the center, dealing scaling magic damage and immobilizing them for 1 second.
+Cecilion summons a pair of claws in a designated location. After a short delay, the claws will move toward each other and enemies along the way to the center, dealing magic damage based on level and stats and immobilizing them for 1 second.
 
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
-- Cooldown per level examples: 12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0
-- Mana Cost per level examples: 95 / 100 / 105 / 110 / 115 / 120
+- Immobilized duration: 1 second
 
 ## Bats Feast
 
-Cecilion unleashes Blood Demon power for 6 seconds, increasing his Movement Speed by 60% (decaying rapidly over 1.5 seconds) and gaining regen effects. Meanwhile, he shoots 40 bolts of blood energy at nearby enemies, each dealing scaling magic damage and slowing them by a percentage for 1 second. Slowing stacks up to a maximum percentage. Hitting an enemy heals him for a flat amount and for a percentage of his mana.
+Cecilion unleashes Blood Demon power for 6 seconds, increasing his Movement Speed by 60% (decaying rapidly over 1.5 seconds) and gaining a regeneration effect. Meanwhile, he shoots 40 bolts of blood energy at the enemies nearby, each dealing damage based on level and stats and slowing them by a percentage (up to 30%) for 1 second. Hitting an enemy heals him for 10 and for 1% of his Max Mana.
 
 - Base Damage per bolt: 35 / 40 / 45
-- HP Regen per hit: 10 / 12.5 / 15
-- Slowing effect examples: 3% to 30% depending on hits
-- Cooldown per level examples: 44.0 / 41.0 / 38.0
-- Mana Cost per level examples: 150 / 200 / 250
+- HP Regen: 10 / 12.5 / 15
+- Slowing effect per bolt: increments leading up to 30%
 
 Notes:
 - Cooldown starts after casting this skill.
-- Hitting an enemy heals Cecilion for 10 and 1% of his mana per hit.
 
 ## Moonlit Waltz
 
-When Carmilla is nearby, Cecilion can call her into a moonlit waltz possessed by him for 5 seconds, providing a shield that scales with Carmilla's level. Carmilla can select a target place and land there, gaining an equal shield, dealing magic damage (scales with her level) within the area of effect, and slowing enemies by 30% for 1 second.
+When Carmilla is nearby, Cecilion can call her into a form possessed by him for 5 seconds, providing a shield that scales with Carmilla's level. Carmilla can select a target place and land there, gaining an equal shield, dealing magic damage that scales with her level within the area of effect, and slowing enemies down by 30% for 1 second.
 
-- Base Shield and Magic Damage per level: 220 / 240 / 260 / 280 / 300 / 320 / 340 / 360 / 380 / 400 / 420 / 440 / 460 / 480 / 500
-- Shield formula examples: shield = 200 + (20 × Carmilla's level)
-- Magic damage formula examples: magic damage = 200 + (20 × Carmilla's level)
+- Base Shield and Magic Damage (scales with Carmilla's level): 220 / 240 / 260 / 280 / 300 / 320 / 340 / 360 / 380 / 400 / 420 / 440 / 460 / 480 / 500
 
 Notes:
-- Cecilion will be unable to use this if an allied hero bought a specific item in the Shop.
+- Cecilion will be unable to use this if an allied hero bought a certain item in the Shop.
 - Carmilla's non-Ultimate skills' cooldowns will reset after she casts this skill.
 
 # Trivia
 
-- Cecilion is the only hero whose skills scales with magic power and mana.
-- Cecilion's Starlight Skin "Stargazer" and Collector Skin "Crimson Wings" are the only skins that has no counterpart to Carmilla
+- undefined
+- undefined

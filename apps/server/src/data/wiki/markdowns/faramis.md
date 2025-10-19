@@ -1,21 +1,30 @@
-# Faramis
-
 # Profile
 
-- Alias: Soul Binder
+Alias: Soul Binder
+
 - Born: Lumina City, Moniyan Empire
 - Species: Undead
 - Gender: Male
-- Occupation: Physician; Necromancer
+- Occupation: Physician, Necromancer
 - Affiliation: Necrokeep
 - Weapons: Ancestral staff
-- Abilities: Absorbs soul fragment as health; Enters shadow state; Casts bursts of Nether Energy; Summons a Nether Realm
-- Likes: Studying challenging and intractable diseases
-- Relationships: Unnamed physician ancestors (ally)
-- Voice Actors:
-  - English: Cian Hoyne (2019-2022); Ryan Colt Levy (2022-present)
-  - Japanese: Watanabe Hiroshi (渡辺紘)
-  - Indonesian: Irfan Setiawan
+
+Abilities:
+
+- Absorbs soul fragment as health
+- Enters shadow state
+- Casts bursts of Nether Energy
+- Summons a Nether Realm
+
+Likes: Studying challenging and intractable diseases
+
+Relationships: Unnamed physician ancestors (ally)
+
+Voice Actors:
+
+- English: Cian Hoyne (2019-2022), Ryan Colt Levy (2022-present)
+- Japanese: Watanabe Hiroshi (渡辺紘)
+- Indonesian: Irfan Setiawan
 
 # Story
 
@@ -43,19 +52,17 @@ Upon learning about the incident in Necrokeep, Faramis believed that he'd found 
 
 Protected by his ancestral staff, Faramis found himself immune to the Mist that plagued the city. He walked through crowds of desolate residents and came upon Duchess Vexana, ruler of the ruined fortress. She was brewing and handing out the "Moonlight Brew", a remedy made of Moonlight Grass that was said to be the "cure" for the erosion of the Mist.
 
-At first, Faramis thought that was all a blunt lie—she was only putting on an act, ignorant and hypocritical as the other nobles.
+At first, Faramis thought that was all a blunt lie — she was only putting on an act, ignorant and hypocritical as the other nobles.
 
-Until that one time, Vexana thrust the last "Moonlight Brew" in his hands without a second thought—Faramis was stunned. It was equal to giving up the "hope of life" to him.
+Until that one time, Vexana thrust the last "Moonlight Brew" in his hands without a second thought — Faramis was stunned. It was equal to giving up the "hope of life" to him.
 
 The "hypocrite" really wanted to save everyone.
 
 Looking at the noble lady in a new light, Faramis couldn't help but think of his brief encounter with the kindly girl in his childhood.
 
-The Mist was nothing like the incurable diseases Faramis had encountered before. After many failed attempts, he finally made a breakthrough by infusing magic into the herbs. And with every progress he made, he insisted on testing the effects on himself. Except, his frail body could only take so much abuse. He soon started feeling the aftermath of his experiments, eventually falling faint in his laboratory. Lying on the cold floor, Faramis felt his life quickly draining out of him. He clenched his fists and tried to get up, only to find he couldn't even peel open his eyes, his consciousness gradually fading.
+The Mist was nothing like the incurable diseases Faramis had encountered before. After many failed attempts, he finally made a breakthrough by infusing magic into the herbs. And with every progress he made, he insisted on testing the effects on himself. Except, his frail body could only take so much abuse. He soon started feeling the aftermath of his experiments, eventually falling faint in his laboratory. Lying on the cold floor, Faramis felt his life quickly draining out of him. He clenched his fists and tried to get up, only to find he couldn't even peel open his eyes, his consciousness gradually fading. Faramis never thought he could open his eyes again, and when he did, he saw a young lady leaning over, parting his lips to drop a bitter liquid into his mouth. With his mind in a haze, Faramis found the sight overlapped with his memory of the girl in the garden. Looking at the strange but familiar face, Faramis recognized that she was the very same noble girl who'd helped him back then.
 
-Faramis never thought he could open his eyes again, and when he did, he saw a young lady leaning over, parting his lips to drop a bitter liquid into his mouth. With his mind in a haze, Faramis found the sight overlapped with his memory of the girl in the garden. Looking at the strange but familiar face, Faramis recognized that she was the very same noble girl who'd helped him back then.
-
-*The girl who'd brought light to his childhood had come to his aid again!* She was the only person who'd never given him up except for his parents.
+*The girl who'd brought light to his childhood had come to his aid again!*  She was the only person who'd never given him up except for his parents.
 
 As soon as Faramis recovered, however, Vexana urged him to leave the place, saying it was dangerous for a living person to continue to stay in Necrokeep. The Mist was starting to overpower his enchanted staff. If he stayed any longer, he would soon meet a fate like theirs.
 
@@ -73,65 +80,53 @@ This time, it was his turn to pull Vexana out of the misery she was in.
 
 ## Vicious Retrieval
 
-- Every 4 seconds, Faramis's next skill against enemy heroes and summoned objects generates a soul fragment on the spot. Faramis can absorb the soul fragment to restore health and gain 2 extra Magic Power per stack (up to 40 stacks).
-- Upon death, he consumes the absorbed soul fragments to reduce the respawn timer; each consumed fragment reduces the timer by 3% (scaling with stacks, up to a maximum reduction of 90%).
-- Enemies that die around Faramis also have a chance (chance not specified) to drop soul fragments.
+Every 4 seconds, Faramis's next skill against enemy heroes and summoned objects generates a soul fragment on the spot. Faramis can absorb the soul fragment to restore health and gain 2 extra Magic Power per fragment, up to 40 stacks.
 
-Notes:
-- Grants 2 extra Magic Power per absorbed soul fragment, up to 40 stacks (maximum 80 Magic Power).
-- Respawn timer reduction scales per consumed fragment and can reach up to a 90% reduction at maximum stacks.
+Upon death, he consumes the absorbed soul fragments to reduce the respawn timer, each fragment reducing the timer by 3%, up to a maximum reduction of 90% (the maximum reduction is reached at 30 stacks). Enemies that die around Faramis also have a chance to drop soul fragments; the exact chance is unspecified.
+
+- Extra Magic Power per fragment: 2 (up to 40 stacks)
+- Respawn Timer Reduction per fragment: 3% (up to 90% at 30 stacks)
 
 ## Shadow Stampede
 
-- Type: Magic Skill
-- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120 (per level)
-- Cooldown: 15 seconds
+Faramis enters the Shadow state for 3 seconds, gaining 70% extra Movement Speed, 25 extra Physical and Magic Defense, 20% cooldown reduction of this skill, and the ability to move through terrain. Enemy heroes that come into contact with Faramis in this state are dealt base damage and applied with a Nether Mark. Upon leaving the Shadow state, Faramis drags all the marked enemy heroes toward him, dealing additional damage. Use again to leave the Shadow state early and drag marked enemies toward him.
 
-Description:
-Faramis enters the Shadow state for 3 seconds, gaining 70% extra Movement Speed, 25 extra Physical and Magic Defense, 20% cooldown reduction of this skill, and the ability to move through terrain. Enemy heroes that come into contact with Faramis in this state are marked with Nether Mark and take scaling magic damage (damage based on level and stats). Upon leaving the Shadow state, Faramis drags all the marked enemy heroes toward him, dealing damage based on level and stats. Use again to leave the Shadow state early and drag marked enemies toward him.
+The range of soul fragment absorption is increased while this skill is active.
 
-Additional Effects:
-- The range of soul fragment absorption is increased while this skill is active.
-
-Damage:
+- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120
 - Base Damage: 250 / 280 / 310 / 340 / 370 / 400
-- Extra Damage on leave: 250 / 280 / 310 / 340 / 370 / 400
+- Additional Damage when dragging marked enemies: 250 / 280 / 310 / 340 / 370 / 400
 
-Notes:
-- Entering and leaving other mobility states cancels this ability.
+Note: Entering and leaving the Shadow state cancels this ability.
 
 ## Ghost Bursters
 
-- Type: Magic Skill
-- Mana Cost: 75 / 85 / 95 / 105 / 115 / 125 (per level)
-- Cooldown: 6.0 / 5.8 / 5.6 / 5.4 / 5.2 / 5.0 (scales with level)
+Faramis gathers Nether energy in a fan-shaped area ahead, dealing magic damage to enemies within. The energy will then split and bounce to nearby enemies, dealing split damage. The energy can split up to 2 times when it hits enemy heroes and 1 time on non-enemy hero hits.
 
-Description:
-Faramis gathers Nether energy in a fan-shaped area ahead, dealing magic damage to enemies within. The energy will then split and bounce to nearby enemies, dealing split damage (splits up to 2 times on enemy hero hits and 1 time on non-enemy hero hits).
-
-Damage:
+- Mana Cost: 75 / 85 / 95 / 105 / 115 / 125
 - Base Damage: 330 / 360 / 390 / 420 / 450 / 480
-- Split Damage: 200 / 220 / 240 / 260 / 280 / 300
+- Split Damage after bounce: 200 / 220 / 240 / 260 / 280 / 300
+- Cooldown: 6.0 / 5.8 / 5.6 / 5.4 / 5.2 / 5.0
+
+The ability deals area damage and then smaller split damage as it bounces to other targets.
 
 ## Cult Altar
 
-- Cooldown: 80 / 75 / 70 (per level)
-- Mana Cost: 150 / 250 / 350 (per level)
+Faramis turns his surroundings into the Nether Realm for 6 seconds, making affected allied heroes (including himself) enter an Immortality state and granting them bonus health and an unspecified percentage increase plus 50% extra Movement Speed for 1 second. When the Immortality state breaks, the hero will clear all debuffs and enter a brief Resurrection state for 1 second. An allied hero's Immortality state ends when they leave the Nether Realm.
 
-Description:
-Faramis turns his surroundings into the Nether Realm for 6 seconds, making affected allied heroes (including himself) enter the Specter state and granting them bonus health plus an unspecified percentage and 50% extra Movement Speed for 1 second. When the Specter state breaks, the hero will clear all debuffs and enter a brief Resurrection state for 1 second. An allied hero's Specter state ends when they leave the Nether Realm.
-
-Stats:
-- Extra HP: 400 / 600 / 800
+- Cooldown: 80.0 / 75.0 / 70.0
+- Mana Cost: 150 / 250 / 350
+- Extra HP granted: 400 / 600 / 800
 
 Notes:
-- Replace allied units' health bar with the bonus health for the duration.
+
+- Replace and affected allies' health bar for the duration.
 - The bonus health is affected by healing amplification or reduction.
-- Shields from abilities and items are hidden and unaffected by damage while bonus health remains.
-- Affected units are untargetable during the Resurrection state.
-- The extra health makes this effect take priority over on-death effects.
+- The shield from abilities and items are hidden and unaffected by damage when bonus health remains.
+- Affected units are untargetable during Resurrection state.
+- The extra health makes the effect of this ability always take priority over on-death effects.
 - The effect ends prematurely if Faramis' bonus health depletes.
-- A unit can only benefit once per cast of this ability.
+- A unit can only benefit once per this ability cast.
 
 # Trivia
 
@@ -139,5 +134,5 @@ Notes:
 - Faramis finally received a skin ("Royal Magus") on 24 October 2022 making it the longest time for a hero to receive a second skin, in a span of 3 years, 5 months and 6 days or 1255 days.
 - Faramis is the first hero to receive a Mythic skin "Infernal Magister", next being Clint.
 - He is a physician and a necromancer.
-- He is currently the only hero who isn't officially listed in the Roamer list but rather is only listed as a Mid Laner.
+- He is currently the only one who isn't officially listed in the Roamer list but rather is only listed as a Mid Laner.
 - His abilities and aesthetic are similar to necromancers from fantasy lore, such as the Lich King (Warcraft) and Vlad Dracula-inspired characters.

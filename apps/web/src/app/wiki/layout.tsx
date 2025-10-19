@@ -1,4 +1,5 @@
 import { Quicksand } from "next/font/google";
+import { cn } from "@/lib/utils";
 
 const quicksand = Quicksand({
 	subsets: ["latin"],
@@ -10,5 +11,5 @@ const quicksand = Quicksand({
 });
 
 export default function WikiLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-	return <main className={quicksand.className}>{children}</main>;
+	return <main className={cn(quicksand.className)}>{children}</main>;
 }

@@ -1,5 +1,3 @@
-# Floryn
-
 # Profile
 
 She was released as a part of the MLBB 5th Anniversary. Players had a chance to redeem the hero for free for a limited time.
@@ -11,9 +9,8 @@ She was released as a part of the MLBB 5th Anniversary. Players had a chance to 
 - Gender: Female
 - Affiliation: The Oasis
 - Abilities: Healing abilities; Energy Seed
-- Relationships: Dew (companion); creator/father (unnamed); other companion (unnamed)
-- Japanese voice actor: Goto Ayasa (後藤 彩佐)
-- Indonesian voice actor: Melati Pertiwi Putri
+- Relationships: Dew (companion); (creator/father); (companion)
+- Voice Actors: Goto Ayasa (後藤 彩佐); Melati Pertiwi Putri
 
 # Story
 
@@ -43,7 +40,7 @@ Floryn followed the young man's trail out of the Oasis. She wanted to find out t
 
 However, what awaited her was a silent answer from what she saw and heard along the way. It was the first time Floryn had stepped into the desert, and also the first time she'd seen the howling sandstorms and the look of despair on people's faces. Before that, she'd never understood what kind of suffering people outside the Oasis were going through.
 
-When Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids, and those desperate ones who'd stop at nothing to survive.
+When Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids… and those desperate ones who'd stop at nothing to survive.
 
 The young man was slumped in a corner. He'd wanted to sell the seed to feed his family, but he'd never expected that the seed would wither the moment it left Floryn. As a result, those who'd been willing to bid would pay not a single penny.
 
@@ -53,7 +50,7 @@ Floryn, however, didn't say a word.
 
 The experience along the way had given Floryn a glimpse of the young man's predicament. Compared to the sadness of being betrayed by her friend, another even stronger and more complicated emotion was churning in her heart. Driven by this emotion, Floryn wanted badly to do something for the land, to save the people who lived in extreme misery as the young man did.
 
-A surge of magic power swelled from the bottom of Floryn's heart. It flowed through her arm and poured into the seed in her hand. Feeling the power, the once withered seed shone again, and from the light that was a hundred times more dazzling than before popped out a cute and lively little creature!
+A surge of magic power swelled from the bottom of Floryn's heart. It flowed through her arm and poured into the seed in her hand. feeling the power, the once withered seed shone again, and from the light that was a hundred times more dazzling than before popped out a cute and lively little creature!
 
 This little creature leaped out into the air and eagerly showed off its miraculous powers; it summoned rain with just a wave of its tail, and new shoots gradually sprouted from where the rain fell. The once lifeless village was surrounded by greenery in mere minutes.
 
@@ -71,15 +68,19 @@ Now, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a
 
 ## Dew
 
-Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat in 5 seconds, Floryn can share the Flower of Hope with an allied hero (30 seconds cooldown), which will grant them a buff each time they are healed by Floryn. Floryn will never sell the Lantern.
+Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat in 5 seconds, Floryn can share the Flower of Hope with an allied hero (30 seconds cooldown), which will grant them a each time they are healed by Floryn. Floryn will never sell the Lantern.
 
 - Notes:
 - Does not affect target ally's networth.
-- The Lantern can be cast regardless of distance or even when dead.
+- The Lantern can be cast regardless of distance or even when death.
 
 ## Sow
 
-Floryn tosses an Energy Seed at a target enemy, dealing damage based on level and her magic power. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring healing based on level and Floryn's stats.
+Cooldown: 9.0 / 8.7 / 8.4 / 8.1 / 7.8 / 7.5 seconds
+
+Mana Cost: 90 / 100 / 110 / 120 / 130 / 140
+
+Description: Floryn tosses an Energy Seed at a target enemy, dealing scaling damage. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring scaling healing.
 
 - Properties:
 - Spell Vamp Ratio: 50%
@@ -88,39 +89,43 @@ Floryn tosses an Energy Seed at a target enemy, dealing damage based on level an
 
 - Notes:
 - Healing Fruits range has the same range as the cast range of this skill.
-- Healing Fruits travel to the nearby allies in 0.6 seconds and ignore distance of their point of origin.
+- Healing Fruits travel to the nearby allies in 0.6 seconds (ignores distance of its point of origin).
 - If the target enemy dies before the ability hits, no heal takes effect.
 
 ## Sprout
 
-Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing damage based on level and stunning nearby enemies for 0.7 seconds while briefly revealing their positions.
+Cooldown: 13.0 / 12.4 / 11.8 / 11.2 / 10.6 / 10.0 seconds
+
+Mana Cost: 100 / 110 / 120 / 130 / 140 / 150
+
+Description: Floryn casts a blob of energy ahead and explodes upon hitting an enemy, dealing scaling damage to nearby enemies and stunning them for 0.7 seconds (and revealing their positions briefly) (duration needed).
 
 - Properties:
 - Spell Vamp Ratio: 50%
 - Base Damage: 175 / 210 / 245 / 280 / 315 / 350
-- Stun duration: 0.7 seconds
-- Reveal duration: a brief reveal on hit
 
-- Notes:
-- Duration details for the reveal are brief and context dependent.
-- This skill provides crowd control and area damage.
+- Term: Stun
 
 ## Bloom
 
-Floryn resonates with Dew's power, restoring base healing to all allied heroes twice regardless of their position on the battlefield. This effect removes any Healing Reduction or Shield Reduction effects on allied heroes and grants immunity to those effects for 2 seconds.
+Cooldown: 70.0 seconds
+
+Mana Cost: 150 / 175 / 200
+
+Description: Floryn resonates with Dew's power, restoring to all allied heroes two times no matter where they are on the battlefield. This effect removes any Healing Reduction or Shield Reduction effects on allied heroes, and makes them immune to the effects for 2 seconds.
 
 - Properties:
 - Base Healing: 250 / 350 / 450
-- Effect applies twice to allies alive at the time of casting.
 
 - Notes:
-- Cannot affect allies under certain special conditions or inside certain areas; the effect only takes effect on allies alive at the time of casting.
+- Cannot affect ally inside 's nor allies outside if  is inside.
+- The effect only takes effect on allies alive at the time of casting.
 
 ## Share
 
-Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes.
+Cooldown: 30.0 seconds
 
-- Cooldown: 30 seconds
+Description: Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes.
 
 - Notes:
 - Share's cooldown is not affected by Cooldown Reduction.
@@ -131,14 +136,9 @@ Floryn shares the Lantern's power with an allied hero, slightly increasing their
 
 - Floryn was the 8th and is one of the heroes who was given to players for free on release. The other heroes who were given for free are:, , , , , , , and.
 - It's highly possible that Floryn was based off Flora, the Roman Goddess of flowers and spring.
-
-Floryn's design and skillset reflect a nurturing, supportive role, which further ties her to the themes typically linked to a character inspired by flora or nature-based spirits.
+- Floryn's design and skillset reflect a nurturing, supportive role, which further ties her to the themes typically linked to a character inspired by flora or nature-based spirits.
 - Floryn is the first hero to heal allies anywhere on the map.
-
-She is the only hero to buff another hero by placing another item on them.
-
-Like, she can also create life, she created Dew.
-
-Floryn's "Yatai Waitress" skin is inspired by the Japanese word "Yatai" (屋台), which refers to street food stalls in Japan that sell ramen, takoyaki, and other delicious treats. These stalls are often run by friendly vendors wearing traditional Japanese aprons and kimonos just like Floryn in this skin.
-
-Floryn has similarities with Filipino "Diwata" (fairies/guardian spirits) and Southeast Asian folklore creatures. Diwatas are mythical nature spirits or deities in Filipino folklore, often compared to fairies, nymphs, or guardian deities in other cultures. They are known for protecting nature, bestowing blessings, and sometimes punishing those who harm the environment.
+- She is the only hero to buff another hero by placing another item on them.
+- Like, she can also create life, she created Dew.
+- Floryn's "Yatai Waitress" skin is inspired by the Japanese word "Yatai" (屋台), which refers to street food stalls in Japan that sell ramen, takoyaki, and other delicious treats. These stalls are often run by friendly vendors wearing traditional Japanese aprons and kimonos just like Floryn in this skin.
+- Floryn has similarities with Filipino "Diwata" (fairies/guardian spirits) and Southeast Asian folklore creatures. Diwatas are mythical nature spirits or deities in Filipino folklore, often compared to fairies, nymphs, or guardian deities in other cultures. They are known for protecting nature, bestowing blessings, and sometimes punishing those who harm the environment.

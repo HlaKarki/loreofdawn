@@ -1,17 +1,12 @@
-# Wanwan
-
 # Profile
 
-"The Agile Tiger of the Oriental Fighters an a lively young girl who wields the Crossbow of Tang."
+The Agile Tiger of the Oriental Fighters an a lively young girl who wields the Crossbow of Tang.
 
-- Relationships: *Master of Tang Clan (foster father)*
+- Relationships: *Master of Tang Clan (foster father)*; *The Spirit of Agile Tiger*; (co-Oriental Fighters), (companion), (friend/enemy), (enemy)
 
-- Voice Actors:
-  - English: Jaclyn Castaneda
-  - Japanese: Akane Fujikawa (藤川茜)
-  - Indonesian: Leni M. Tarra
-
-- Notes: The Agile Tiger of the Oriental Fighters an a lively young girl who wields the Crossbow of Tang.
+- English voice actor: Jaclyn Castaneda
+- Japanese voice actor: Akane Fujikawa (藤川茜)
+- Indonesian voice actor: Leni M. Tarra
 
 # Story
 
@@ -27,17 +22,25 @@ Can a young girl just venturing into the world bear the duty of protecting all o
 
 Many years ago, a stillborn infant was left in the mountains. The Spirit of the Agile Tiger, who was searching for a successor at the time, came upon the scene and felt sorrow for the child who was never given a chance. Thus, he ended his search and gave his power to give new life to the baby girl. As she inherited the power of an Oriental Fighter, marks appeared on her face and she grew a tiger's tail. And as if by fate, the master of the Tang Clan happened to be strolling through the forest and found the blessed child. He adopted her and named her Tang Wanwan. Thus, the mountains now had an extra noisy "little tiger."
 
-Under her adopted father's care, Wanwan grew into an exuberant girl. She loved to talk, as if trying to make up for not being able to greet the world when she was born. She was always chatting away, usually to herself, and bouncing around with her tail swaying in the wind. The mountains and forests became her playground. Sometimes she would shoot her arrows into the blue sky, imagining that she was flying towards the vast world beyond. But the arrows always fell back to the ground.
+Under her adopted father's care, Wanwan grew into an exuberant girl. She loved to talk, as if trying to make up for not being able to greet the world when she was born. She was always chatting away, usually to herself, and bouncing around with her tail swaying in the wind. The mountains and forests became her playground. Sometimes she would shoot her arrows into the blue sky, imagining that she was flying towards the vast world beyond.
+
+But the arrows always fell back to the ground.
 
 Only the wind, which passed through the forest freely, noticed the disappointment in the girl's eyes, so it reached out as it passed to pat her on the head. But little did the wind know, before it could even pass, the girl's smile had already returned, brighter than ever.
 
 > "It's okay," Wanwan thought, "I'll definitely see the world someday!"
 
-But before Wanwan could leave the mountains, someone barged in first. On that day, Wanwan found a severely injured stranger passed out in the mountains. When the man regained consciousness, he told Wanwan that his name was Yu Zhong. Finally, Wanwan had found someone to talk to! Then began the daily barrage of questions, although they were seldom answered. But when he spoke, his insight into the outside world reignited Wanwan's curiosity.
+But before Wanwan could leave the mountains, someone barged in first.
+
+On that day, Wanwan found a severely injured stranger passed out in the mountains.
+
+When the man regained consciousness, he told Wanwan that his name was Yu Zhong. Finally, Wanwan had found someone to talk to! Then began the daily barrage of questions, although they were seldom answered. But when he spoke, his insight into the outside world reignited Wanwan's curiosity.
 
 This went on for a few years as Yu Zhong slowly recuperated, but one day he suddenly decided to leave.
 
 > "Where are you going?"
+
+Yu Zhong replied:
 
 > "The world."
 
@@ -63,25 +66,27 @@ And step by step, Wanwan believed she would finally see the world she had imagin
 
 Years passed. Rumors about the reincarnation of the Black Dragon began spreading throughout the Cadia Riverlands. At first, Wanwan thought it was just the latest gossip. But a few days later, she heard a familiar name among the rumors and felt unease in her heart. Just then, the Dragon Orb began to get hot, as if giving a warning or perhaps pointing to answers. Wanwan bid farewell to her father and Yin, and left to find Yu Zhong.
 
-With a new purpose in her step, Wanwan followed the news about the Black Dragon, and with the help of the Dragon Orb, eventually arrived at the Dragon Altar. Within, the new Oriental Fighters came together for the first time, but could not stop Yu Zhong from merging with the Black Dragon's power. Wanwan had unknowingly played a part in Yu Zhong's plan, bringing the Dragon Orb that allowed him to defeat the Evil God Lieh.
+With a new purpose in her step, Wanwan followed the news about the Black Dragon, and with the help of the Dragon Orb, eventually arrived at the Dragon Altar.
 
-As Yu Zhong and Luo Yi chased after Lieh, he gave one last glance back at Wanwan.
+Within, the new Oriental Fighters came together for the first time, but could not stop Yu Zhong from merging with the Black Dragon's power. Wanwan had unknowingly played a part in Yu Zhong's plan, bringing the Dragon Orb that allowed him to defeat the Evil God Lieh.
 
-A thousand questions came to her mind.
+As Yu Zhong and Luo Yi chased after Lieh, he gave one last glance back at Wanwan. A thousand questions came to her mind.
 
-> "—Come back..."
+> ''—Come back...
 
-> "Did you know from the beginning that I was the Agile Tiger of the Oriental Fighters?"
+> Did you know from the beginning that I was the Agile Tiger of the Oriental Fighters?''
 
-> "—Did you lead me all this way just to obtain the Black Dragon's power?"
+> —Did you lead me all this way just to obtain the Black Dragon's power?
 
-> "—I've traveled so far, but never even took a moment to see the world."
+> —I've traveled so far, but never even took a moment to see the world.
 
-> "—It's the duty of the Oriental Fighters to protect the Cadia Riverlands, but I never lived my life as an Oriental Fighter; all this time, I lived as Tang Wanwan."
+> —It's the duty of the Oriental Fighters to protect the Cadia Riverlands, but I never lived my life as an Oriental Fighter; all this time, I lived as Tang Wanwan.
 
 Countless questions tangled in her mind. Wanwan sat down where she was, buried her face in her hands, closed her eyes, and tried to sort through all the thoughts running through her mind. Her thoughts drifted with the wind, back to the forest where she was born, back to the cottage with Yu Zhong, back to the Floral Falls where she played with Yin, and onwards, all the way to the Dragon Altar and beyond...
 
-The girl took a deep breath and bounced to her feet. It was already dawn. She had been sitting there for a whole day and night.
+The girl took a deep breath and bounced to her feet.
+
+It was already dawn. She had been sitting there for a whole day and night.
 
 > "Ahhh—I still don't get it!"
 
@@ -97,32 +102,35 @@ The girl grabbed her crossbows, packed her things, and left the Dragon Altar. Wh
 
 ## Tiger Pace
 
-Enemy heroes hit by Wanwan's attacks will have their weakness or weaknesses exposed and position revealed for 5 seconds. When hitting an enemy's weakness, Wanwan deals scaling true damage and increases their damage taken from her subsequent attacks by 10% for 5 seconds. Wanwan can dash a short distance after each arrow fired from her basic attacks. The dash speed scales with her Attack Speed.
+Enemy heroes hit by Wanwan's attacks will have their weaknesses exposed and position revealed for 5 seconds. When hitting an enemy's weakness, Wanwan deals true damage based on level and stats, and increases the target's damage taken from her subsequent attacks by 10% for 5 seconds. Wanwan can dash a short distance after each arrow fired. The dash speed scales with her Attack Speed.
 
-- True Damage based on level and stats: 58 / 61 / 64 / 67 / 70 / 73 / 76 / 79 / 82 / 85 / 88 / 91 / 94 / 97 / 100.
-- Damage increase stacks: 10% / 20% / 30%.
+- True Damage scaling by level: 58 / 61 / 64 / 67 / 70 / 73 / 76 / 79 / 82 / 85 / 88 / 91 / 94 / 97 / 100.
+- Damage Increase stacks: 10% / 20% / 30%.
 
 Notes:
-- Additional damage dealt to enemy heroes only includes damage from skills and basic attacks.
-- Applies three Weaknesses visuals upon hitting an enemy Hero. The angle of Weaknesses visuals is related to the angle between Wanwan and her opponent; the first visual is always behind the target, while the other two visuals are positioned 60 degrees towards its left and right.
+- Additional damage dealt to enemy heroes only includes damage from skills and scaling attacks.
+- Applies 3 Weaknesses visuals upon hitting an enemy Hero. The angle of Weaknesses' visuals is related to the angle between Wanwan and her opponent; the first visual is always behind the target, while the other two visuals are positioned 60 degrees to its left and right.
 - Weaknesses exposed to enemies will immediately disappear after Wanwan dies.
 - Wanwan gets 30% extra attack speed after getting a kill for an unknown duration.
-- The dash after each attack is fully disabled by root and blocked by crowd control that prevents dashes.
+- The dash after each attack is fully disabled by root and blocked by specific control effects.
+
+Known bug:
+- Wanwan cannot actually get the attack speed buff when getting an assist (originally stated: get extra Attack Speed after a kill or assist).
 
 ## Swallow's Path
 
-Wanwan throws a Fire Swallow in the target direction, triggering damage to enemies in its path. The Fire Swallow then turns into three rotating Swallow Daggers. After a short delay, these Swallow Daggers will fly back to Wanwan one after another, dealing damage to enemies on their way back and slowing them by 30% for 1.5 seconds. Enemies hit by the Swallow Dagger twice are immobilized for 0.5 seconds.
+Wanwan throws a Fire Swallow in the target direction, triggering and dealing physical damage based on level and stats to enemies in its path. The Fire Swallow then turns into three rotating Swallow Daggers. After a short delay, these Swallow Daggers will fly back to Wanwan one after another, dealing physical damage based on level and stats to enemies on their way back and slowing them by 30% for 1.5 seconds. Enemies hit by a Swallow Dagger twice are immobilized for 0.5 seconds.
 
 - Base Damage by level: 120 / 140 / 160 / 180 / 200 / 220.
 - Swallow Dagger Damage by level: 60 / 72 / 84 / 96 / 108 / 120.
 
 Notes:
 - Swallow Daggers return to Wanwan once every 0.5 seconds.
-- Immobilize refers to a 0.5 second crowd control that prevents movement and most actions.
+- Immobilize refers to a short-duration root effect that prevents movement.
 
 ## Needles in Flowers
 
-Wanwan removes all control effects on herself and triggers her passive. Meanwhile, she shoots Deadly Needles in all directions, dealing damage to enemies hit.
+Wanwan removes all control effects on herself and triggers Tiger Pace. Meanwhile, she shoots Deadly Needles in all directions, dealing physical damage based on level and stats to enemies hit.
 
 - Base Damage by level: 150 / 170 / 190 / 210 / 230 / 250.
 
@@ -131,19 +139,22 @@ Notes:
 
 ## Crossbow of Tang
 
-Wanwan leaps into the air and fires arrows at the target enemy hero for 2.5 seconds in rapid succession, dealing damage per arrow. If the target is killed during this attack, Wanwan will switch to another enemy hero in her attack range, gain 30% Attack Speed, and extend the skill duration by 1 second (this effect can trigger up to 3 times). Wanwan is untargetable and invincible for the duration and can trigger her passive upon killing an enemy and at the end of the duration. Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. This damage is regarded as physical damage from basic attacks, and the firing rate scales with Wanwan's Attack Speed.
+Wanwan leaps into the air and fires arrows at the target enemy hero for 2.5 seconds in rapid succession, dealing physical damage based on level and stats per arrow. If the target is killed during this attack, Wanwan will switch to another enemy hero in her attack range, gain 30% Attack Speed, and extend the skill duration by 1 second (this effect can trigger up to 3 times). Wanwan is untargetable and invincible for the duration and can trigger Tiger Pace upon killing an enemy and at the end of the duration. Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. The firing rate scales with Wanwan's Attack Speed.
 
-- Base Damage per arrow by level: 60 / 75 / 90.
+- Base Damage per arrow by ultimate level: 60 / 75 / 90.
 
 Notes:
-- The additional attack speed mentioned in some notes is given by her passive and not by the ultimate itself.
-- Additional damage dealt to creeps includes all types of damage from any source.
-- Wanwan can cast her ultimate while jumping.
-- Wanwan is invincible throughout the duration of Crossbow of Tang.
-- This skill removes all existing debuffs on Wanwan, however it remains unusable while under the control of basic or higher-level crowd control effects.
-- She can freely move through joystick input, but cannot pass through obstacles during the animation.
+- The invincibility and untargetable status apply for the entire duration.
+- This skill removes all existing debuffs on Wanwan, however, it remains unusable while under the control of basic or higher-level crowd control effects.
+- Wanwan can freely move via joystick control during the skill animation, but cannot pass through obstacles despite the flying animation.
 - This skill's base damage cannot be critical.
-- The Attack Speed bonus from other sources is not limited to this skill.
+- The Attack Speed bonus referenced in other abilities is the source of extra attack speed, not the ultimate itself.
+
+## The Oriental Fighters
+
+A team will gain increased movement speed for each allied Oriental Fighter on the battlefield.
+
+- Extra Movement Speed stacking by number of allied Oriental Fighters: 1 / 2 / 3 / 4.
 
 # Trivia
 
@@ -155,7 +166,7 @@ Notes:
 - "Baxia! I didn't paint that turtle on your face! [giggles]" —Wanwan to
 - "Ling, it's so hard to see your smile!" —Wanwan to
 - Wanwan and the others will gain a bonus movement speed on the battlefield if they team up with one or more members of the Oriental Fighters.
-- Wanwan's form-fitting, lightweight outfit resembles attire worn by Chinese martial artists and acrobats. The short, high-collared top and arm wraps are practical for agility, mirroring traditional wuxia martial artists and kunoichi female ninjas.
+- Wanwan's form-fitting, lightweight outfit resembles attire worn by Chinese martial artists and acrobats. The short, high-collared top and arm wraps are practical for agility, mirroring traditional wuxia (martial arts heroes) and kunoichi (female ninjas).
 - Wanwan is one of the only Marksmen with a built-in Purify effect, making her one of the hardest heroes to CC in the game!
 - Unlike other Marksmen who can freely cast their Ultimates, Wanwan must first hit all Weaknesses (Vital Points) of an enemy to unlock Crossbow of Tang.
 - Wanwan "Pixel Blast" had the music from 515 UNITE but abridged.

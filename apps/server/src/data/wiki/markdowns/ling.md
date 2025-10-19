@@ -1,19 +1,30 @@
-# Ling
-
 # Profile
 
-> "A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermillion Bird's power."
+"A graceful, free-soaring Finch and the Oriental Fighter who inherited the Vermillion Bird's power."
 
 - Species: Human
 - Gender: Male
-- Affiliation: Finch Sect; Oriental Fighters; Four Immortals
+- Affiliation: *Finch Sect
+*Oriental Figthers
+*Four Immortals
 - Weapons: Defiant Sword
 - Abilities: Qinggong
 - Height: 180 cm
 - Traits: Unparalleled Courage and Swordsmanship
-- Relationships: co-Oriental Fighter, fellow disciple, rival; companions and enemies among Oriental Fighters; Great Dragon (master); The Spirit of the Vermillion Bird
-- Japanese VA: Yuutarou Shirato (祐太郎)
-- Indonesian VA: Richard Miracle Rehabeam Toelle
+
+Relationships:
+
+* (co-Oriental Fighter, fellow disciple, rival)
+*, (co-Oriental Fighters)
+* (companion)
+*,  (enemies)
+*Great Dragon (master)
+*The Spirit of the Vermillion Bird
+
+Voice Actors:
+
+- Japanese (ja_va): Yuutarou Shirato (祐太郎)
+- Indonesian (id_va): Richard Miracle Rehabeam Toelle
 
 # Story
 
@@ -25,13 +36,13 @@ It wasn't until he allied with Yu Zhong, the reincarnation of the Black Dragon, 
 
 # Side Story
 
-## I am the Cyan Finch
+## I Am the Cyan Finch
 
 > "From now on, you are the Vermilion Bird. When the bird's cry echoes through the Dragon Altar, you will soar."
 
 Ling was not like the other members of the Finch Sect—different in talent and circumstance. And he was treated differently by the elder.
 
-The Finch Sect, an order of assassins from the Cadia Riverlands, takes in orphans, training and honing them to be renowned killers. The disciples of Finch Sect are numerous, each with their own reasons for fighting. Some are blindly loyal to the Finch Sect, some were never given a choice, and others are driven by the pursuit of power... Whatever the reason, once one becomes a Finch of the Sect, their life belongs to it. Not a single Finch has ever left the nest.
+The Finch Sect, an order of assassins from the Cadia Riverlands, takes in orphans, training and honing them to be renowned killers. The disciples of Finch Sect are numerous, each with their own reasons for fighting. Some are blindly loyal to the Finch Sect, some were never given a choice, and others are driven by the pursuit of power. Whatever the reason, once one becomes a Finch of the Sect, their life belongs to it. Not a single Finch has ever left the nest.
 
 Ling became the prodigy of the Finch Sect at a young age. His skills had quickly surpassed his peers and he was known to have never failed a mission. The other members would often whisper:
 
@@ -43,7 +54,9 @@ He was met with silence. It was a good question. If they left the Sect, where co
 
 At that moment, Ling sheathed his sword and leaped away. As the wind brushed his face, he suddenly recalled something from the past.
 
-When Ling was on a mission in his younger years, he encountered a bird merchant. The merchant raised beautiful birds for others to enjoy. But these birds were caged from birth and never experienced the freedom that was their natural right. Even if the cage door was opened, they wouldn't know where to go. At that time, a young man nearby suddenly said, "Something born with wings belongs in the sky. What a pity."
+When Ling was on a mission in his younger years, he encountered a bird merchant. The merchant raised beautiful birds for others to enjoy. But these birds were caged from birth and never experienced the freedom that was their natural right. Even if the cage door was opened, they wouldn't know where to go. At that time, a young man nearby suddenly said:
+
+> "Something born with wings belongs in the sky. What a pity."
 
 Later, Ling became friends with that young man, who turned out to be a disciple of the Tianyin Swordmaster Sect named Zilong.
 
@@ -111,64 +124,79 @@ This was the Vermilion Bird's final dance... and the Cyan Finch's first flight.
 
 ## Cloud Walker
 
-Ling's superb Lightness Skill helps him leap among walls. When resting on the wall, He gains 4 Lightness Points per second when he's on a walland 5 extra Lightness Points each time he deals damage. Ling gains 1.6 times Crit Chance from all sources but only has 150% Critical Damage.
+Ling's superb Lightness Skill helps him leap among walls. When resting on the wall, he gains 4 Lightness Points per second when he's on a wall and 5 extra Lightness Points each time he deals damage. Ling gains 1.6 times Crit Chance from all sources but only has 150% Critical Damage.
 
-- Term: Crit Rate; Crit Damage
+- Effect: BUFF
+- Benefits while on wall:
+  - Regain Lightness Points: 4 per second
+  - Additional Lightness Points: 5 each time he deals damage
+- Critical stats while passive is active:
+  - Crit Rate: 1.6 times from all sources
+  - Crit Damage: 150%
 
 Notes:
-- Cannot jump on certain walls (game-specific exceptions).
-- Is fully visible to enemies and on minimap if sighted.
+
+- cannot jump on the following walls:
+  - 's, 's
+  - The inner edge of 's
+  - Brawl wall
+- is fully visible to enemies and on minimap if sighted.
 - Crowd controls will unperch and put the ability on cooldown.
-- Displacement effects do not unperch. Joystick movement is limited on the wall where he stands.
+- Displacement, such as Cyclone Eye, does not unperch. 's joystick movement is limited on the wall on which he stands.
 
 ## Finch Poise
 
-- Cooldown: 20.0 seconds
+Ling’s Critical Chance is permanently increased by a scaling amount. Ling casts his Lightness Skill, leaping onto the designated wall, entering a half-stealth state, restoring Lightness Points more quickly and gaining 30% Movement Speed. If Ling receives damage, he will leave the half-stealth state. If he is controlled, he will fall onto the ground and be slowed by 30% for 2 seconds. When using this skill to jump from a wall to another, it will reset the Cooldown and refresh the half-stealth state.
+
+- Skill effects: Blink, BUFF
 - Energy Cost: 30
-
-Ling’s Critical Chance is permanently increased by a value based on skill level. Ling casts his Lightness Skill, leaping onto the designated wall, entering half-stealth state, restoring Lightness Points more quickly and gaining 30% Movement Speed. If Ling receives damage, he will leave the half-stealth state. If he is controlled, he will fall onto the ground and be slowed by 30% for 2 seconds. When using this skill to jump from a wall to another, it will reset the cooldown and refresh the half-stealth state.
-
+- Cooldown: 20 seconds
 - Critical Chance by level: 2.5% / 4.5% / 6.5% / 8.5% / 10.5% / 12.5%
-
-- Terms: Crit Rate; Half-Stealth
+- Term: Half-Stealth
 
 Notes:
+
 - Basic attack range is greatly increased while on a wall, and the next basic attack allows him to dash to an enemy hero on the ground.
-- Half-stealth is broken upon taking damage.
+- If controlled while on the wall, he will fall and be slowed for 2 seconds.
 
 ## Defiant Sword
 
+Ling charges in a designated direction and stabs the nearby enemies at his destination, dealing physical basic attack damage. If Ling casts this skill when he is on the wall, he'll dash to the target location on the ground, dealing area damage to enemies within a small area and slowing them down by 30% for 1.5 seconds. If this attack critically strikes, the enemies will be slowed by an extra 45% for 0.75 seconds. This attack is regarded as a Basic Attack, can trigger attack effects, and restores HP for Ling each time it hits an enemy.
+
+- Skill effects: Blink, Damage
+- Skill types: Physical Basic Attack, Blink
 - Cooldown: 2.5 seconds
 - Energy Cost: 40
-
-Ling charges in a designated direction and stabs the nearby enemies at his destination, dealing physical damage. If Ling casts this skill when he is on the wall, he'll dash to the target location on the ground, dealing area damage to enemies within a small area and slowing them by 30% for 1.5 seconds. If this attack critically strikes, the enemies will be slowed by an extra 45% for 0.75 seconds. This attack is regarded as a Physical Basic Attack, can trigger attack effects, and restores HP for Ling each time it hits an enemy.
-
 - Base Damage by level: 300 / 320 / 340 / 360 / 380 / 400
 - HP Regen per hit by level: 35 / 40 / 45 / 50 / 55 / 60
-
-- Terms: Physical Basic Attack; ATK Effect
+- Terms: Physical Basic Attack, ATK Effect
 
 Notes:
+
 - Ling is briefly untargetable for 0.75 seconds upon landing.
 
 ## Tempest of Blades
 
-- Cooldown: 52.0 / 49.0 / 46.0 seconds (varies by level)
+Ling leaps into the air, becoming invincible and gaining 10% extra Movement Speed for 1.5 seconds. He can move freely when in the air. He then lands on the ground, dealing physical skill damage to enemies in the area, knocking those in the center airborne for 1 second, and creating a Sword Field for 8 seconds. Four swords will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of his Skill 1 by 4 seconds, reset the cooldown of Skill 2, and gain 25 Lightness points.
 
-Ling leaps into the air, becoming invincible and gaining 10% extra Movement Speed for 1.5 seconds. He can move freely when in the air. He then lands on the ground, dealing physical damage to enemies in the area, knocking those in the center airborne for 1 second, and creating a Sword Field for 8 seconds. Four swords will also appear on the edge of the Sword Field. Ling can touch them to reduce the cooldown of his Ultimate by 4 seconds, reset the cooldown of Finch Poise, and gain 25 Lightness points.
-
+- Skill effects: Burst, CC
+- Skill type: Physical Skill
+- Cooldown: 52 / 49 / 46 seconds (varies by level; primary shown as 52)
 - Base Damage by level: 250 / 350 / 450
-
-- Terms: Invincible; Untargetable; Airborne
+- Terms: Invincible, Untargetable, Airborne
 
 Notes:
+
 - Swords last 8 seconds.
-- This skill removes all existing debuffs, crowd controls, and damage over time on Ling; cannot cast when being controlled.
-- Can hold-spin the ultimate to change the formation in which the swords will land. The landing positions of swords are visible before the ability finishes. A sword landing on a wall can be picked up if he uses Finch Poise on the wall.
+- This skill removes all existing debuffs, crowd controls, and damage over time on Ling.
+- Cannot cast when being controlled.
+- Can hold-spin the ultimate to change the formation in which the swords will land.
+  - The landing position of swords are visible before the ability finishes.
+  - A sword landing on a wall can be picked up if he uses Skill 1 on the wall.
 - Can freely use any equipment and abilities while being untargetable.
 
 # Trivia
 
-- undefined
-- undefined
-- undefined
+- Along with other members of the Oriental Fighters, he is based on the Four Symbols, the Vermilion Bird of the South.
+- The Vermillion Bird of the South is described as a red bird that resembles a pheasant with a five-colored plumage and is perpetually covered in flames. However, his Fiery Dance skin mostly represents the accurate description of Vermillion Bird.
+- Ling is disabled in Brawl, as the game mode has no wall for Ling to climb on top of it.

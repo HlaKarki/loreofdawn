@@ -1,60 +1,80 @@
-# Grock
-
 # Profile
 
-[object Object]
+- Alias: Fortress Titan
+- Origin: Lantis Mountains, The Barren Lands
+- Species: Castle
+- Gender: Male
+- Occupation: Guardian
+- Affiliation: Ancient Ones; The Abyss (hostile)
+- Weapons: Weathered Citadel
+- Abilities: Power of nature; Summons guardian's barrier
+- Likes: Sleeping
+- Voice Actor: Nakamura Taishi (中村 大志)
 
 # Bio
 
-[object Object]
+Deep within the mountains of the Land of Dawn sits an ancient fortress. Though the owner is unknown, it is rumored that it could be a descendant of the legendary race that once walked the Lands of Dawn. It is said that this race is older than the earth itself, and having a special affinity for nature, they were able to build deep connections and relations with various beings of nature, especially the Stone Titans.
+
+These amiable giants possess rocky skin that is almost impervious to all physical force, but due to their kind nature, they mainly use their physical prowess to sleep safely. These stony giants love sleeping so much that they will hibernate for up to half a year sometimes; however, once they are awakened, it is hard for them to fall asleep again. One day when Grock awoke again, he found himself to be alone with the guardians of the fortress long gone. He proceeded to saddle the fortress onto his back to find the owners, setting out all over the Land of Dawn to find any news of their whereabouts, so he may one day return their home to them.
 
 # Story
 
-[object Object]
+> "Stone man awakened from sleep"
+
+The stone man who signed a contract with the Ancient Ones has a kind-hearted nature and infinite power. He sleeps most of his life. After Grock woke up, he found that the Ancient Ones he was guarding had disappeared, so he carried the Castle of the Ancient Ones on his shoulders and walked out of the mountains to find the whereabouts of the Ancient Ones.
 
 # Abilities
 
 ## Bastion of Stone
 
-Grock gains a Shield equal to 10% of his Max HP and empowers the next Basic Attack to deal damage based on the target's Max HP (capped at a fixed value against non-hero units). This effect has a cooldown that decreases with level (approximately 18 to 12 seconds). The cooldown is greatly reduced when near terrain. Grock gains Control Immunity while casting skills and gains extra Physical Defense while the Shield is active, with the extra Physical Defense scaling based on level and stats.
+Grock gains a Shield equal to 10% of his Max HP and empowers the next Basic Attack to deal a percentage of the target's Max HP (scaling with level; capped at a fixed value against non-hero units). This effect has an 18 to 12 seconds cooldown (decreases with level), which reduces by 200% when near terrain. Grock gains Control Immunity while casting skills and gains an extra percentage of Physical Defense while the Shield is active.
 
-- Shield: 10% of Max HP
-- Empowered Basic Attack: deals additional damage based on target's Max HP (capped vs non-hero units)
-- Cooldown: decreases from approximately 18 seconds to 12 seconds as level increases; cooldown is greatly reduced when near terrain
-- Additional effects: Control Immunity while casting skills; extra Physical Defense while Shield is active (scales with level and stats)
+- Shield value: 10% of Max HP
+- Empowered Basic Attack: deals a percentage of the target's Max HP (scaling with level; capped against non-hero units)
+- Cooldown: 18 to 12 seconds (decreases with level); cooldown is reduced significantly when near terrain
+- Additional effects: Control Immunity while casting skills; extra Physical Defense while the Shield is active
+
+Damage and numerical scaling are based on level and Grock's stats.
 
 ## Mighty Swing
 
-Grock strikes forward with massive force, dealing physical damage based on base damage and his physical attack. Enemies that are knocked into an obstacle are launched airborne and take additional damage equal to a percentage of their Max HP (capped against non-hero units). If there are no obstacles behind the enemy, they are only knocked back slightly.
+Grock strikes forward with massive force, dealing physical damage to enemies in a cone. Enemies that collide with an obstacle are launched airborne and take additional damage equal to a percentage of their Max HP (scaling with level; capped at a fixed value against non-hero units). If there are no obstacles behind, enemies are only knocked back slightly.
 
-- Base Damage (per level): 240 / 280 / 320 / 360 / 400 / 440
-- Additional Scaling: gains extra damage from physical attack
-- Special: enemies hit into terrain are launched airborne and take extra damage based on their Max HP (capped vs non-hero units)
-- Crowd Control: Airborne when hit into terrain
-- Cooldown: approximately 8.0 seconds at base, decreases with level
+- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
+- Base Damage: 240 / 280 / 320 / 360 / 400 / 440
+- Additional scaling: bonus physical attack scaling applies
+- Effects: Airborne on enemies that hit terrain; AoE impact on hit
+
+Damage values scale with skill level and Grock's physical attack.
 
 ## Earthen Rampart
 
-After a brief delay, Grock summons a stone wall in the target area, dealing physical damage and displacing enemies by knocking them toward him. The wall can be canceled early to stop placement. Placing a wall near a nearby unit (including himself) will displace them while disrupting their skills, whether ally or enemy, and even if they are immune to crowd control. Because the displacing effect is the result of obstacle mechanics rather than a traditional control effect, units that can place themselves on the obstacle's path will automatically be moved to valid ground to avoid becoming stuck.
+After a brief delay, Grock summons a stone wall in the target area, dealing damage and displacing enemies by knocking them toward him. The wall can be cancelled early by using the skill again.
 
-- Base Damage (per level): 100 / 120 / 140 / 160 / 180 / 200
-- Additional Scaling: gains damage from physical attack
-- Effects: summons a stone wall that knocks enemies toward Grock and disrupts skill casting
-- Notes: wall placement displaces units via obstacle mechanics; the displacing effect is not counted as a control effect
-- Cooldown: approximately 14.0 seconds at base, decreases with level
+- Cooldown: 14.0 / 13.2 / 12.4 / 11.6 / 10.8 / 10.0 seconds
+- Base Damage: 100 / 120 / 140 / 160 / 180 / 200
+- Additional scaling: bonus physical attack scaling applies
+- Effects: Creates an obstacle that displaces units (including allies and enemies) in its path; this displacement interacts with terrain and obstacle mechanics rather than being a traditional control effect
+
+Notes:
+- Placing a wall near a nearby unit (including himself) will displace them while disrupting their skills, whether it is an ally or an enemy and even if they are immune to crowd control. Because the displacing effect is a result of obstacle interaction, units that can place themselves on the obstacle's path will automatically be moved to valid ground to avoid becoming stuck, except when they are flying over or ignoring obstacles until the duration ends. The same effect applies to similar abilities.
+
+Damage and numerical scaling are based on skill level and Grock's stats.
 
 ## Tectonic Charge
 
 > "The brave fear nothing."
 
-Grock charges forward, dealing physical damage to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1 second and deals additional area damage. If this skill does not hit terrain, 50% of its cooldown is refunded.
+Grock charges forward, dealing damage to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1 second and deals heavy added damage. If this skill does not hit terrain, 50% of its cooldown is refunded.
 
-- Base Damage: 100 (consistent base component per use)
-- Added Damage on terrain impact (per level): 650 / 850 / 1050
-- Effects: Charge that deals damage along the path; on terrain impact triggers explosion that knocks enemies airborne for 1 second and deals added area damage
-- Cooldown: approximately 55 / 50 / 45 seconds across ranks; if the charge does not hit terrain, 50% of the cooldown is refunded
+- Cooldown: 55.0 / 50.0 / 45.0 seconds
+- Path Base Damage: 100 / 100 / 100
+- Explosion Added Damage: 650 / 850 / 1050
+- Effects: Charge that deals damage along the path and a large AoE explosion on terrain impact; airborne on nearby enemies for 1 second
+
+Damage values scale with skill level and Grock's stats.
 
 # Trivia
 
-- undefined
-- undefined
+- Grock’s design is heavily influenced by golems, which are stone or earth-based protectors in mythology and fantasy.
+- Grock is the first hero to summon a physical wall in the game.

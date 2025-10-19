@@ -1,18 +1,11 @@
-# Odette
-
 # Profile
 
-Full name: Princess Odette of House Alvin
-
-Chinese name: 奥黛塔 (àodàitǎ)
-
-Alias: Swan Princess
-
-Voice actors:
-
-- Japanese: Dosaka Yuki (堂坂 有希)
-- Indonesian: Tisa Julianti
-- Spanish: Jessica Ángeles
+- Full name: Princess Odette of House Alvin
+- Chinese name: 奥黛塔 (àodàitǎ)
+- Alias: Swan Princess
+- Japanese VA: Dosaka Yuki (堂坂 有希)
+- Indonesian VA: Tisa Julianti
+- Spanish VA: Jessica Ángeles
 
 # Bio
 
@@ -24,7 +17,7 @@ Owning right to the throne, Prince Alvin and his family understood the tricky si
 
 By the time she reached adolescence, she worked up the courage to conceal herself under a mantle and sneak out to visit the market nearby without her parents' permission. The naive princess once tried to pay for bread with a whole bag of gold coins and offered a beggar all the jewelry she had on her after hearing his routine tear-jerking story, but these little delinquencies just outside her home were enough for Odette to feel adventurous.
 
-But eventually her adventures brought her trouble—this clueless young princess only learned what powerless felt like when she was harassed by a few thugs in a tavern... Thankfully in a drunken stupor, drew his sword and drove those men away. But Odette felt at a loss of what to do seeing her rescuer get injured and fall on the ground, her eyes brimming with tears. So, she made a decision that went against her family rules—to bring the unconscious Lancelot back to the Swan Castle.
+But eventually her adventures brought her trouble—this clueless young princess only learned what powerless felt like when she was harassed by a few thugs in a tavern. Thankfully a drunken stranger drew his sword and drove those men away. But Odette felt at a loss of what to do seeing her rescuer get injured and fall on the ground, her eyes brimming with tears. So, she made a decision that went against her family rules—to bring the unconscious Lancelot back to the Swan Castle.
 
 In a room atop their castle tower, Odette dressed Lancelot's wound and casted her family's healing spell with a scepter to treat him with the help of a young maid. She spent the whole day and night watching over Lancelot who was on the verge of death, and only let out a sigh of relief and smiled wearily when the man finally opened his eyes again.
 
@@ -32,9 +25,7 @@ For the following days, Odette hid Lancelot inside the Swan Castle so that he co
 
 Odette's meetings with Lancelot became the greatest fun of her days. As she gradually opened up to this new friend of hers, she would also tell him about her little adventures of rebellious delinquencies and even learned from him a few sword fighting techniques for self-defense.
 
-As they bounded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the hero Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.
-
-The innocent Odette didn't understand the reason behind his change, until the sneaky maid suddenly asked her in a whisper:
+As they bonded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the hero Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.
 
 > "Who do you think Lancelot is playing these songs to, Your Grace?"
 
@@ -44,11 +35,13 @@ It was once again the mischievous young maid persuading Odette to not run away o
 
 As Lancelot's injury healed with each day, Odette knew that the day of his departure was nearing. Her spirits sank low, and one day a letter delivered by his father disturbed her mind even more—"Duke Baroque was proposing to me on behalf of his son? What an annoying suitor!"
 
-But Odette suddenly came to a realization: wasn't the "romantic knight of Castle Gorge" from House Baroque's fief? So, the duke's son must be... Despite her heart beating out of her chest, Odette had to feign calmness before her parents. But when she returned to her bedchamber, she couldn't help but giggle to herself and even danced cheerfully with the maid. But unsure how to face Lancelot, Odette realized that she couldn't bring herself to see him now.
+But Odette suddenly came to a realization: wasn't the "romantic knight of Castle Gorge" from House Baroque's fief? So, the duke's son must be...
 
-But unexpectedly, Lancelot left a letter and went away without a farewell a few days later. Feeling dejected, Odette finally realized how much she'd adored him. Until one night, having made up her mind, Odette wrote a letter to her parents before quietly leaving the Swan Castle.
+Despite her heart beating out of her chest, Odette had to feign calmness before her parents. But when she returned to her bedchamber, she couldn't help but giggle to herself and even danced cheerfully with the maid. But unsure how to face Lancelot, Odette realized that she couldn't bring herself to see him now.
 
-She would follow the traces Lancelot left behind and search for the love of her life…
+But unexpectedly, Lancelot left a letter and went away without a farewell a few days later. Feeling dejected, Odette finally realized how much she'd adored him.
+
+Until one night, having made up her mind, Odette wrote a letter to her parents before quietly leaving the Swan Castle. She would follow the traces Lancelot left behind and search for the love of her life.
 
 # Story
 
@@ -60,71 +53,63 @@ As the daughter of Prince Alvin, Princess Odette was a romantic that seemed a we
 
 ## Lakeshore Ambience
 
-After each skill cast, Odette's next basic attack or skill will cast a sound wave that rebounds between her and enemies, each bounce dealing damage based on level and stats.
+After each skill cast, Odette's next basic attack or skill will cast a sound wave that rebounds between her and enemies, each bounce dealing scaling magic damage based on level and Ability Power.
 
 - Base Damage: 144 / 148 / 152 / 156 / 160 / 164 / 168 / 172 / 176 / 180 / 184 / 188 / 192 / 196 / 200
 - Term: Magic Basic Attack
 
 Notes:
-
-- only benefits 50% of Magic Lifesteal.
+- Only benefits 50% of Magic Lifesteal.
 - This skill stacks up to 3 times.
-- Stack(s) lasts for 8 seconds; time resets by consuming it.
+- Stack(s) last for 8 seconds; time resets when consumed.
 - Sound waves can bounce up to 4 times.
-- This skill is a magic effect and only benefits from skill effects.
-- Can bounce to or from turrets and trigger item effects.
-- Still bounce to and from summons but does not damage enemies while they are untargetable.
-- Still bounce to and from allied units.
+- This skill is a magic basic attack effect and only benefits from skill effects.
+- Can bounce to and from turrets and trigger item effects.
+- Can still bounce to and from untargetable units but does not damage enemies while they are untargetable.
+- Can still bounce to and from allied units.
 
 ## Avian Authority
 
-Odette concentrates energy to summon a swan to attack enemies, dealing magic damage and slowing them by 30%. Lasts 2 seconds.
+Odette concentrates energy to summon a swan to attack enemies, dealing magic damage and slowing them by 30% for 2 seconds.
 
 - Base Damage: 300 / 350 / 400 / 450 / 500 / 550
 - Skill Type: Magic Skill
-- Cooldown: 6.0 / 5.8 / 5.6 / 5.4 / 5.2 / 5.0 seconds
-- Mana Cost: 90 / 100 / 110 / 120 / 130 / 140
-- Term: Movement Speed
+- Movement Speed reduction: 30%
 
 Notes:
-
-- only benefits 50% of Magic Lifesteal.
+- Only benefits 50% of Magic Lifesteal.
 
 ## Blue Nova
 
-Odette releases a set of magic energy balls forward, dealing magic damage to the enemy hit and immobilizing them for 1.5 seconds. Another energy ball will then spawn and attack a nearby enemy (prioritizes enemy heroes), dealing diffusion damage and immobilizing them for 1.5 seconds.
+Odette releases a set of magic energy balls forward, dealing magic damage to the enemy hit and immobilizing them for 1.5 seconds. Another energy ball will then spawn and attack a nearby enemy (prioritizes enemy heroes), dealing diffusion magic damage and immobilizing them for 1.5 seconds.
 
 - Base Damage: 250 / 280 / 310 / 340 / 370 / 400
 - Diffusion Damage: 250 / 280 / 310 / 340 / 370 / 400
 - Skill Type: Magic Skill
-- Cooldown: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds
-- Mana Cost: 90 / 95 / 100 / 105 / 100 / 115
 
 Notes:
-
-- only benefits 50% of Magic Lifesteal.
+- Only benefits 50% of Magic Lifesteal.
 
 ## Swan Song
 
-Odette leaps in a designated direction, gains a shield, and begins gathering energy, dealing magic damage to enemies within the area every 0.5 seconds for 5 seconds. Odette slows nearby enemies by 90% (decays over 2 seconds) upon casting this skill. The rebounding speed and count of Odette's sound wave in the area are also enhanced when the skill is active. This skill requires constant channeling and will be interrupted if Odette is controlled or performs other actions.
+Odette leaps in a designated direction, gains a shield, and begins gathering energy, dealing magic damage to enemies within the area every 0.5 seconds for 5 seconds. Odette reduces the movement speed of nearby enemies by 90% upon casting this skill (decays over 2 seconds). The rebounding speed and count of Lakeshore Ambience sound waves in the area are also enhanced when the skill is active. This skill requires constant channeling and will be interrupted if Odette is subjected to strong crowd control or performs other actions.
 
 - Base Shield: 1400 / 1600 / 1800
-- Base Damage: 240 / 280 / 320
+- Base Damage per tick: 240 / 280 / 320
 - Skill Type: Magic Skill
-- Cooldown: 50.0 / 45.0 / 40.0 seconds
-- Mana Cost: 200 / 240 / 280
-- Radius: 5.5 unit
+- Shield
+- Movement Speed reduction formula: extra movement SPD = (-0.45 × time) + 90%
 
 Notes:
-
-- only benefits 25% of Spell Vamp.
+- The effect has a radius of 5.5 units.
+- Only benefits 25% of Spell Vamp.
 - Sound waves rebound up to 7 times when the skill is active.
-- Sound waves will travel in a straight line, instead of the usual upward trajectory.
-- This skill gets spell vamp without being reduced, unlike magic lifesteal.
+- When active, sound waves travel in a straight line instead of the usual upward trajectory.
+- This skill grants spell vamp without reduction, unlike magic lifesteal.
 - This skill is only interrupted by high crowd control effects, namely airborne, frozen, transformed, petrified or suppressed.
 - The shield still lingers shortly after the ability ends.
-- Battle Spells, Items and summoning abilities can be used during the duration.
-- Entering certain states cancels this ability upon entering and exiting.
+- Battle Spells and Items can be used during the duration.
+- Entering or exiting certain states will cancel this ability.
 
 # Trivia
 
@@ -138,5 +123,5 @@ Notes:
 - Her "Black Swan" skin is also a reference to another character from the same opera.
 - The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite), OP. 20
 - She was purchasable at first. Now, she can only be obtained by new players through quests, be bought in the Fragment Shop using Hero Fragments, or in the Lucky Shop using Lucky Gems.
-- Odette is the only hero that cannot be purchased using Battle Points or Diamonds.
-- The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite), OP.
+- Odette is the only hero that cannot be purchased using certain currencies.
+- The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite).

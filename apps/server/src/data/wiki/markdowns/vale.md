@@ -1,5 +1,3 @@
-# Vale
-
 # Profile
 
 - Origin: Wind Fort, Agelta Drylands
@@ -10,13 +8,15 @@
 - Affiliation: Fire Throat
 - Weapons: Floating Ritual Instrument
 - Abilities: Wind magic
-- Relationships: *(childhood friend, rival)*
+- Relationships: * (childhood friend, rival)
 
 # Story
 
 > "Heir to Wind Fort, wind mage"
 
 A magician of Wind Fort and the only genius in the entire family who can change the form of wind magic at will. Once a close friend of Valir of Fire Throat. After the changes in the Land of Fire and Valir left his hometown, Vale has always adhered to the agreement he made with him, waiting for his return.
+
+## Lore
 
 > "Valir, my beloved brother."
 
@@ -38,69 +38,61 @@ As time went on, the day of The pact was coming soon. Vale's magical abilities t
 
 ## Windtalk
 
-- Windtalk (stack)
+- Windtalk
+- stack
 
-Vale gains 1 stack each time he gets a kill or an assist. Each stack increases his Movement Speed. This effect can stack up to 10 times.
+Vale gains 1 stack each time he gets a kill or an assist that increases his Movement Speed by 8. This effect can stack up to 10 times.
 
-- Extra Movement Speed by stack count: 8 / 16 / 24 / 32 / 40 / 48 / 56 / 64 / 72 / 80
-
-- Notes: stacks are gained on kills and assists and increase movement speed as listed above.
+- Extra Movement Speed: 8 / 16 / 24 / 32 / 40 / 48 / 56 / 64 / 72 / 80
 
 ## Wind Blade
 
-- Wind Blade (AOE)
+- Wind Blade
+- AOE
+- Cooldown: 6.0 seconds (base)
+- Mana Cost: 60 (base)
+- Spellvamp Ratio: 50%
 
-- Cooldown by level: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0 seconds
-- Mana cost by level: 60 / 65 / 70 / 75 / 80 / 85
-- Spellvamp ratio: 50%
-- Base Damage by level: 250 / 290 / 330 / 370 / 410 / 450
+Vale unleashes two wind blades toward the left and right of a target area, each dealing magic damage based on level and stats. Base Damage scales with skill level.
 
-Description:
+- Base Damage: 250 / 290 / 330 / 370 / 410 / 450
 
-Vale unleashes two wind blades toward the left and right of a target area, each dealing magic damage based on level and his stats. The damage scales with the listed base damage values.
-
-- Term: Magic Damage Skill
+This is a magic damage skill and its damage scales with ability power and level.
 
 ## Windblow
 
-- Windblow (CC, AOE)
-
+- Windblow
+- CC, AOE
 - Cooldown: 10.0 seconds
-- Mana cost by level: 90 / 95 / 100 / 105 / 110 / 115
-- Spellvamp ratio: 50%
-- Base Damage by level: 300 / 320 / 340 / 360 / 380 / 400
-- Sustained Damage by level (damage over time while whirlwind remains): 200 / 240 / 280 / 320 / 360 / 400
+- Mana Cost: 90 (base)
+- Spellvamp Ratio: 50%
 
-Description:
+Vale sends a whirlwind in the target direction, dealing magic damage to enemies hit and knocking them airborne for 1 second (each enemy can only be knocked airborne 1 time). When the whirlwind reaches its destination, it will remain for 1.6 seconds while continuously dealing sustained damage to enemies in range.
 
-Vale sends a whirlwind in the target direction, dealing magic damage to enemies hit and knocking them airborne for 1 second (each enemy can only be knocked airborne one time). When the whirlwind reaches its destination, it will remain for 1.6 seconds while continuously dealing sustained magic damage to enemies in range.
+- Base Damage: 300 / 320 / 340 / 360 / 380 / 400
+- Sustained Damage: 200 / 240 / 280 / 320 / 360 / 400
 
 Notes:
-
-- The sustained damage deals per hit and can be applied up to 4 times.
-- The sustained damage does not trigger on-hit damage effects.
-- During the cast delay, the caster can use Flicker to reposition the source of the whirlwind.
+- The sustained damage deals sustained damage for each hit, and can deal up to 4 times.
+- The sustained damage does not trigger damage effects.
+- During the cast delay, you can use Flicker to reposition the source of the whirlwind.
 
 ## Windstorm
 
-- Windstorm (CC, AOE)
+- Windstorm
+- CC, AOE
+- Cooldown: 40.0 seconds (base)
+- Mana Cost: 150 (base)
+- Spellvamp Ratio: 50%
 
-- Cooldown by level: 40.0 / 36.0 / 32.0 seconds
-- Mana cost by level: 150 / 200 / 250
-- Spellvamp ratio: 50%
-- Sustained Damage per tick by level: 150 / 225 / 300
-- Base Explosion Damage by level: 1000 / 1200 / 1400
-- Slow: 20%
-- Other: Pull effect that continuously draws enemies toward the storm center
+Vale summons a windstorm at the target location, dealing sustained damage over time to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1.6 seconds, the windstorm will explode, dealing additional magic damage. Remaining whirlwinds will also be pulled into the center.
 
-Description:
-
-Vale summons a windstorm at the target location that continuously deals sustained magic damage while pulling enemies toward its center and slowing them by 20%. The sustained damage occurs in ticks (see sustained damage values) and can be applied multiple times. After 1.6 seconds, the windstorm explodes, dealing base explosion damage to enemies in the area. Remaining whirlwinds will also be pulled into the center.
+- Sustained Damage per hit: 150 / 225 / 300
+- Base Explosion Damage: 1000 / 1200 / 1400
 
 Notes:
-
-- The sustained damage deals per hit and can be applied up to 6 times.
+- The sustained damage deals sustained damage for each hit, and can deal up to 6 times.
 
 # Trivia
 
-- Despite being developed before several other heroes (,, , , , , , , , , , and ), Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other hero. If you sort the heroes in the "Heroes" page by "Sale Time," Vale will appear between Claude and Leomord, instead of being after  Badang. The hero order is due to his earlier introduction in Advanced Servers.
+- Despite being developed before several other heroes (Claude, Leomord, Badang), Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other hero. If you sort the heroes in the "Heroes" page by "Sale Time," Vale will appear between Claude and Leomord, instead of being after Badang. The hero order is due to his earlier introduction in Advanced Servers.

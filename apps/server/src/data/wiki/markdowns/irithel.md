@@ -1,24 +1,23 @@
-# Irithel
-
 # Profile
 
-- Chinese name: 黎希尔 (Líxīěr)
-- Alias: Jungle Heart
-- Origin: Azrya Woodlands
-- Species: Moon Elf
-- Gender: Female
-- Affiliation: Human (hostile)
-- Weapons: Crossbow; Heavy crossbow
-- Traits: Wild-natured and a savaged valiant, Bravely Outspoken
-- Relationships: Unnamed smilodon (foster mother); Leo (foster brother, companion); Nana (companion)
-- English voice actor: Feena Glynn
-- Japanese voice actor: Kameyama Maki (亀山 雅妃)
+- **Chinese name:** 黎希尔 (Líxīěr)
+- **Alias:** Jungle Heart
+- **Origin:** Azrya Woodlands
+- **Species:** Moon Elf
+- **Gender:** Female
+- **Affiliation:** Human (hostile)
+- **Weapons:** Crossbow; Heavy crossbow
+- **Traits:** Wild-natured and a savaged valiant, Bravely Outspoken
+- **Relationships:** Unnamed smilodon (foster mother); Leo (foster brother, companion); Nana (companion)
+- **Voice Actors:** EN: Feena Glynn; JA: Kameyama Maki (亀山 雅妃)
 
 # Bio
 
-Irithel was abandoned in the jungle by her parents when she was a little girl. Under the guidance of the God of Jungle, a female smilodon that had just given birth adopted her. Being protected by the mother smilodon, the little smilodon Leo and Irithel learned to hunt, survive, and grew up like an animal.
+Irithel was abandoned in the jungle by her parents when she was a little girl. Under the guidance of the God of Jungle, a female smilodon that had just given birth adopted her.
 
-During a territory fight, the mother smilodon was badly injured. When Irithel and her "brother" Leo went to a town for help, they were captured as "smilodon children" by a slaveholder. When the cat elf mage Nana passed by and couldn't watch them get beaten to death, she suddenly had the super power inside her that allowed her to save these two poor children.
+Being protected by the mother smilodon, the little smilodon Leo and Irithel learned to hunt, survive, and grew up like an animal. During a territory fight, the mother smilodon was badly injured.
+
+When Irithel and her "brother" Leo went to a town for help, they were captured as "smilodon children" by a slaveholder. When the cat elf mage - Nana - passed by and couldn't watch them get beaten to death, she suddenly had the super power inside her that allowed her to save these two poor children.
 
 With the help of Nana, Irithel was able to understand human languages and combat skills while Leo grew up to become a strong adult smilodon. But Irithel still hates humans and trusts her only friend - Leo.
 
@@ -32,44 +31,53 @@ A jungle orphan raised by a smilodon, was rescued by Leonin Nana when she was al
 
 ## Jungle Heart
 
-Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal per bolt scaling physical damage based on level and stats and inherit a portion of Irithel's Attack Effects.
+Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal damage based on level and stats per bolt and inherit a portion 55% of Attack Effects. Moving will build up Jungle Heart, up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt(s).
 
-- Basic: Each Basic Attack fires 2 bolts while moving.
-- Attack Effects: 55% of Attack Effects are applied per bolt.
-- Jungle Heart buildup: Moving builds Jungle Heart, up to a maximum of 10 units. The next Basic Attack after reaching units unleashes 1 additional bolt.
-- Energy Gain: 5 energy per 0.5 units of Jungle Heart built.
-
-Note: Basic Attack behavior allows Irithel to attack while moving and modifies how her attacks consume time and apply effects.
+- Energy Cost: 100
+- Attack Effects: 55%
+- Energy Gain: 5 energy/0.5 units
+- Type: Physical Basic Attack
+- Notes: Movement builds Jungle Heart stacks; maximum 10 stacks.
 
 ## Strafe
 
-Irithel launches a volley of arrows on the target area, dealing base physical damage to enemies within and reducing their Physical Defense by 15–40 for 3 seconds.
+Irithel launches a volley of arrows on the target area, dealing damage based on level and stats to enemies within and reducing their Physical Defense by 15–40 for 3 seconds.
 
-- Base Damage by level: 330 / 370 / 410 / 450 / 490 / 530 (base physical damage, scales with level and attack).
-- Physical Defense Reduction: 15 / 20 / 25 / 30 / 35 / 40 for 3 seconds.
+- Cooldown: 10 seconds (scales with level)
+- Energy Cost: 0
+- Base Damage: 330 / 370 / 410 / 450 / 490 / 530
+- Physical Defense Reduction: 15 / 20 / 25 / 30 / 35 / 40 (for 3 seconds)
+- Type: Physical Damage Skill
 
-Note: Debuff only applies to non-minion enemies.
+Notes:
+
+- Debuff only applies to non-minion enemies.
 
 ## Force of the Queen
 
-Leo lets out a piercing roar, dealing base physical damage to nearby enemies and slowing them by 40% for 2 seconds.
+Leo lets out a piercing roar, dealing damage based on level and stats to nearby enemies and slowing them by 40% for 2 seconds.
 
-- Base Damage by level: 200 / 230 / 260 / 290 / 320 / 350 (base physical damage, scales with level and attack).
-- Slow: Reduces enemy Movement Speed by 40% for 2 seconds.
-
-This is an area-of-effect ability that deals physical damage and applies a strong slow to affected enemies.
+- Cooldown: 10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0 seconds
+- Energy Cost: 0
+- Base Damage: 200 / 230 / 260 / 260 / 320 / 350
+- Slow: 40% (for 2 seconds)
+- Type: Physical Damage Skill
 
 ## Heavy Crossbow
 
 > "No arrow is shot in vain."
 
-Irithel orders Leo to leap in the target direction and empowers her crossbow for 10 seconds. For the duration, she gains 30 extra Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing physical damage to the target and nearby units. Jungle Heart also accumulates faster for the duration.
+Irithel order Leo to leap in the target direction and empowers her crossbow for 10 seconds. For the duration, she gains 30 extra Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing damage based on level and stats to the target and nearby units. Jungle Heart also accumulates faster for the duration.
 
-- Base explosion damage: 120 base physical damage (scaling with level and attack).
-- Attack Effects: 100% of Attack Effects trigger on the explosion.
-- Physical Attack Bonus by ultimate level: 60% / 70% / 80% (bonus physical attack applied to explosion damage).
+- Duration: 10 seconds
+- Movement Speed Gain: 30
+- Attack Effects: 100%
+- Physical Attack Bonus: 60% / 70% / 80%
+- Type: Physical Basic Attack / Blink
 
-Note: Triggers basic attack effects on each enemy hero hit by the explosion. Jungle Heart accumulation rate increases during the ultimate's duration.
+Notes:
+
+- Triggers basic attack effects on each enemy hero hit by the explosion.
 
 # Trivia
 

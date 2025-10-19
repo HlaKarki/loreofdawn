@@ -1,24 +1,30 @@
-# Melissa
-
 # Profile
 
-### Profile
+- She is the second hero to be introduced as a member of Forsaken Light.
 
-- Name: Melissa (Chinese: 梅丽莎 (Méilìshā))
+- Chinese name: 梅丽莎 (Méilìshā)
 - Alias: Cursed Needle
 - Born: Moniyan Empire
 - Age: 16
 - Species: Human
 - Gender: Female
-- Occupation: Tailoress; Owner of Melissa's Tailor
+- Occupation:
+  - Tailoress
+  - Owner of Melissa's Tailor
 - Affiliation: Forsaken Light
-- Weapons: Cursed Needle; Cuddles; Giggles; Muddles
+- Weapons:
+  - Cursed Needle
+  - Cuddles
+  - Giggles
+  - Muddles
 - Abilities: Black magic
 - Traits: Goes through her own way, Rebellious Maiden
 - Likes: Stuffed toys, exquisite needles
-- Relationships: Unnamed mother; Unnamed father; Unnamed half-sister; maternal distant cousins
-
-She is the second hero to be introduced as a member of Forsaken Light.
+- Relationships:
+  - Unnamed mother
+  - Unnamed father
+  - Unnamed half-sister
+  - (maternal distant cousins)
 
 # Story
 
@@ -38,9 +44,7 @@ There used to be an inconspicuous little tailor shop on the busy streets of the 
 
 They lived a hard life, but Melissa always wore a clean, pretty dress and shoes, the worn-out parts carefully patched up in adorable patterns. She was naughty, but she was also thoughtful and sensible. When she was in the shop, she'd help her mother with the needlework and put aside the shredded cloths. When she was old enough and already had enough worldly experience, she never asked again about where her dad was.
 
-Melissa always wished for a beautiful rag doll, but she never once mentioned it to her mother, because she knew that her mother couldn't even afford to go to the doctor's despite her illness.
-
-Every time she passed by the doll shop, she'd pop her head up to stare inside, and the aggravated shop owner had tried to scare her off a few times with empty threats. Then the young girl would make a face instead of panicking, so the shop owner that pretended to lose temper would give up first.
+Melissa always wished for a beautiful rag doll, but she never once mentioned it to her mother, because she knew that her mother couldn't even afford to go to the doctor's despite her illness. Every time she passed by the doll shop, she'd pop her head up to stare inside, and the aggravated shop owner had tried to scare her off a few times with empty threats. Then the young girl would make a face instead of panicking, so the shop owner that pretended to lose temper would give up first.
 
 One day, after their shop closed, her mother magically produced a rag doll sewn together with shredded cloths from a pile of cloths. Melissa was beyond happy, smiling and jumping up and down holding the doll and her mom.
 
@@ -64,9 +68,7 @@ It was soon her sister's coming-of-age ceremony, and important guests were gathe
 
 A melodious piano sound filled the room, and it soon reached the highlight of the song. It was when her sister confidently pressed the keys that Melissa poked the doll—she had rehearsed it to perfection when her sister was practicing the piano.
 
-At that moment, the song started to go awry.
-
-Her sister kept hitting the wrong notes, once, twice, and the guests began to whisper to each other as they listened to the off-key melody. Her sister's pale face gradually turned crimson, until she finally broke and smashed the piano while cussing at it, and the entire audience was dead silent.
+At that moment, the song started to go awry. Her sister kept hitting the wrong notes, once, twice, and the guests began to whisper to each other as they listened to the off-key melody. Her sister's pale face gradually turned crimson, until she finally broke and smashed the piano while cussing at it, and the entire audience was dead silent.
 
 When her sister and the maid who snitched rushed into Melissa's room, she had already changed into her old attire and sneaked out of the house with her little baggage and dolls.
 
@@ -82,99 +84,84 @@ At the mere age of 16, Melissa really manages to solve every problem of her clie
 
 When those targets come to seek revenge on Melissa, she would grin and make them remember how it feels to be regretful with her cursed needles.
 
-Not long after she opened the shop, even the nobles begin to talk about it—Have you heard of Melissa's Tailor?
+Not long after she opened the shop, even the nobles begin to talk about it.
 
-I have. Is the owner really as good as they say?
+> "Have you heard of Melissa's Tailor?"
 
-Yeah, I've got a tough job that needs some help with…
+> "I have. Is the owner really as good as they say?"
+
+> "Yeah, I've got a tough job that needs some help with…"
 
 If you also find yourself in trouble in the Lumina City, just go to Melissa's Tailor and find its owner, Melissa…
 
 # Abilities
 
-## Doll Buster (Muddles)
+## Doll Buster
 
-> "Uh-oh, Melissa's taken apart another bunch of dolls!"
+"My tailor shop excels at "fixing" dolls and "fixing" dolls. Am I right?, ?" (Melissa deals 125% damage to minions, creeps and summoned units.)
 
-"My tailor shop excels at "fixing" dolls and "fixing" dolls. Am I right?, ?"
-
-- Additional damage to minions, creeps and summoned units: Melissa deals 125% damage to minions, creeps and summoned units.
-
-- Notes:
-  - Additional damage dealt to summoned units and minions includes all types of damage from battle spells, talents, equipment, skills, and basic attacks.
-  - Consider this passive as extra damage against minions and summoned units and that values scale with level and stats.
+- Additional damage dealt to summoned units and minions includes all types of damage from battle spells, talents, equipment, skills, and basic attacks.
+- Descriptive effect: additional damage to summoned units and minions (damage based on level and stats).
 
 ## Falling!
 
-> "Melissa is falling… In your dreams!"
+Melissa slides forward and gains attack speed for 3 seconds. The skill's cooldown is reduced by 0.5 seconds each time Melissa damages the enemy by attacking Muddles.
 
-"Watch me slide forward and increase my for 3 seconds—Ah, that was just boring…"
+- Mana cost progression: 30 / 35 / 40 / 45 / 50 / 55
+- Cooldown progression: 7.5 / 7.0 / 6.5 / 6.0 / 5.5 / 5.0 seconds
+- Attack Speed Bonus: 50% / 55% / 60% / 65% / 70% / 75%
 
-- Skill effects: Blink; BUFF (Attack Speed)
-- Cooldown (per level): 7.5 / 7.0 / 6.5 / 6.0 / 5.5 / 5.0 seconds.
-- Mana cost (per level): 30 / 35 / 40 / 45 / 50 / 55.
-- Attack Speed Bonus: 50% / 55% / 60% / 65% / 70% / 75%.
+"Watch me slide forward and increase my for 3 seconds—Ah, that was just boring…" "Muddles, go that way!" "Cuddles, come here!"
 
-- Description details:
-  - Muddles is involved in this skill's interactions. The skill's cooldown is reduced by 0.5 seconds each time Melissa damages the enemy by attacking Muddles.
-  - Term types: Blink; ATK Speed.
-
-- Notes:
-  - The skill increases Melissa's attack speed for the stated duration. Exact buff scaling and interactions depend on level and on-hit effects.
+Notes:
+- Blink effect and attack speed buff combined.
+- The skill's cooldown is reduced when Melissa damages enemies by attacking Muddles.
 
 ## Eyes on You!
 
-> "Go, Muddles!"
+"The plan's like this: Throw Muddles out to hold the bad guys, and then… I come on stage!" "I puncture the bad guys, while Giggles hit Muddles to punish the bad guys! Hee, fantastic!"
 
-"The plan's like this: Throw Muddles out to hold the bad guys, and then I come on stage!"
+Melissa throws out Muddles to attack. Muddles deals damage on the first hit and links nearby enemy heroes and summoned units for up to 6 seconds. Linked enemies will be slowed by 60% that decays over 1.5 seconds and can break the link by moving out of range. Muddles will return to Melissa early when she's too far away. When Muddles is present, you can tap the Attack Minion button to directly attack Muddles, though it cannot trigger the multi-hit damage.
 
-- Skill type: Physical Skill; Debuff; AoE.
-- Cooldown (per level): 9.0 / 8.6 / 8.2 / 7.8 / 7.4 / 7.0 seconds.
-- Mana cost (per level): 60 / 50 / 40 / 30 / 20 / 10.
-- Base Damage (per level): 250 / 280 / 310 / 340 / 370 / 400.
-- Damage Transfer: 60% (percentage of damage transferred through the link).
+- Base Damage: 250 / 280 / 310 / 340 / 370 / 400 (damage based on level and stats)
+- Damage Transfer: 60% (damage transferred from Muddles to linked enemies)
 
-- Description details:
-  - Muddles deals base damage on the first hit and links nearby enemy heroes and summoned units for up to 6 seconds. Linked enemies will be slowed by 60% that decays over 1.5 seconds and can break the link by moving out of range. Muddles will return to Melissa early when she is too far away.
-  - When Muddles is present, you can tap the Attack Minion button to directly attack Muddles; this attack does not trigger the multi-hit damage.
+Notes:
+- Dealing damage against linked enemies may vary according to their unit types. Damage against linked enemies that can be affected by her passive is higher (scaling damage).
+- Cooldown begins instantly after cast.
+- While Muddles is in the air, Melissa can dash without moving Muddles.
+- Muddles applies on-hit effects and critical damage. Damage dealt by Muddles through the link is affected by the Damage Transfer Ratio.
+- On-hit effects such as Weakness Finder and Corrosion are not affected by the Damage Transfer Ratio and retain full effectiveness.
+- Muddles can independently land critical hits from Melissa and will activate critical-dependent effects.
+- Muddles' attack is considered a basic attack from Melissa and can apply effects such as Impulse, Endless Strike, Engulf, Retribution and Corrosion.
 
-- Additional mechanics and notes:
-  - Dealing damage against linked enemies may vary according to their unit types. Damage against linked enemies that can be affected by her passive is 75%.
-  - Cooldown begins instantly after cast.
-  - While in the air, certain actions can be used to dash without moving Muddles.
-  - Muddles applies on-hit effects and critical damage. Damage dealt by Muddles through the link is affected by the Damage Transfer Ratio.
-  - On-hit effects such as Weakness Finder and Corrosion are not reduced by the transfer and retain full effectiveness.
-  - Effects that can only target one enemy will apply to the first enemy hit if attacking Muddles; otherwise they affect the targeted enemy.
-  - Muddles can independently land Critical Hits from Melissa and will activate Critical dependent effects.
-  - Muddles benefits from various buffs and behaves as a source of basic attacks for many interactions; its attacks can apply effects such as Impulse, Endless Strike, Engulf, Retribution and Corrosion where applicable.
-  - The exact damage values scale with level and Melissa's stats.
-
-## Go Away! (Cuddles)
-
-> "Do you know? Hugs will give you the courage to face the darkness."
+## Go Away!
 
 "Cuddles, protect me! For 4 seconds, let no bad guys come close. Unless I say otherwise!"
 
-- Skill type: Magic Skill; Summon; BUFF.
-- Cooldown (per level): 50.0 / 45.0 / 40.0 seconds.
-- Mana cost (per level): 120 / 150 / 180.
-- Base Damage (per level): 500 / 700 / 900.
-- Extra Damage (per level): 50 / 70 / 90 per tick.
-- Extra Defense: 3 / 4 / 5 (Melissa's Physical & Magical Defense increase; effect is increased when the skill is active).
+When activated, Melissa creates a protective dome that continuously damages and repels enemies in the area. The dome continuously knocks back enemies who attempt to enter the field, dealing continuous damage and briefly slowing them by 60%. The field will also interrupt the enemy's movement skills unless they are immune to control effects. The field will move with Melissa once, when she's about to move out of the boundary.
 
-- Description details:
-  - When activated, Melissa summons a protective field (Cuddles' dome) that continuously damages and repels enemies in the area and knocks back enemies who attempt to enter the field. The dome deals continuous magic damage based on skill level and magic power to them and briefly slows them by 60%.
-  - The field interrupts enemy movement skills unless they are immune to control effects. The field will move with Melissa once when she is about to move out of the boundary.
-  - Passive: Melissa's Physical & Magical Defense are increased by the stated extra defense. This effect is increased when the skill is active.
+Passive: Melissa's Physical & Magical Defense are increased by 3. This effect is increased to 5 times when the skill is active.
 
-- Notes and special mechanics:
-  - The dome has a diameter of 5.3 units.
-  - The first damage application can apply on-hit effects and control interactions, but the continuous damage does not apply on-hit effects.
-  - The Protective Field can be repositioned twice: once through dashing out of the field with specific moves and once through moving out naturally.
-  - If a target is pinned against a wall, the extra damage ticks a total of 15 times, for an additional total of 750 / 1050 / 1350 extra damage. Total damage including the base damage becomes approximately 1250 / 1750 / 2250 depending on level and interactions.
-  - The ability follows when Melissa is teleported. Leaving the field fully cancels this ability.
+- Base Damage: 500 / 700 / 900 (first hit)
+- Extra Damage: 50 / 70 / 90 (continuous ticks)
+- Extra Defense while active: 3 / 4 / 5
+- Mana cost: 120 / 150 / 180
+- Cooldown: 50.0 / 45.0 / 40.0 seconds
 
-- The continuous damage and exact totals scale with skill level and Melissa's magic stat.
+Notes:
+- The dome has a diameter of 5.3.
+- The first damage applies on-hit effects, but the continuous damage applies none.
+- The Protective Field can be repositioned twice: once by dashing out of the field and once by moving out naturally. If moving out naturally twice, the field will remain in the second location until repositioned again.
+- The extra damage ticks a total of 15 times if the target is pinned against a wall, for a total extra damage of 750 / 1050 / 1350. Total damage including the base damage is 1250 / 1750 / 2250 (damage based on level and stats).
+- The ability follows Melissa when she is teleported.
+- Leaving the field fully cancels this ability.
+
+## Forsaken Light (BUFF)
+
+Since there are other Forsaken Light members on the team, Melissa's Max HP, Max Mana, Movement Speed and Critical Damage are increased (small team-wide buffs). (Original text: Forsaken Light: Since all the Forsaken Light members are present, your Max HP, Max Mana, Movement Speed, and Crit Damage are increased.)
+
+- Descriptive effect: team buff to Max HP, Max Mana, Movement Speed, and Critical Damage (values scale based on team composition).
 
 # Trivia
 

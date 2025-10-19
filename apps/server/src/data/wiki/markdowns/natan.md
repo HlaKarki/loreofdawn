@@ -1,9 +1,7 @@
-# Natan
-
 # Profile
 
 - Alias: Spacetime Walker
-- Chinese name: 纽特 (Niǔtè)
+- Chinese Name: 纽特 (Niǔtè)
 - Origin: Eruditio, Agelta Drylands
 - Species: Human
 - Gender: Male
@@ -16,15 +14,10 @@
   - Eruditio
   - The Abyss (enemies)
 - Weapons: Time Machine
-- Abilities:
-  - Time traveling
-  - Teleportation
-  - Summons Reverse-Clone
+- Abilities: Time traveling, Teleportation, Summons Reverse-Clone
 - Traits: Steady, Intelligent
-- Relationships: (companions and enemies not listed in source)
-- Voice actors:
-  - Indonesian VA: Agathon Hafi
-  - Japanese VA: Ryosuke Asano (浅野 良介)
+- Relationships: *,, , , (companions)  * (enemy)
+- Voice Actors: Agathon Hafi (id_va); Ryosuke Asano (浅野 良介) (ja_va)
 
 # Bio
 
@@ -34,19 +27,13 @@ Over the past few centuries, the seal that holds back the Lord of the Abyss had 
 
 With this, the Lord of the Abyss fully awakened and his demon forces reached the walls of Moniyan’s cities. Humanity began to understand that their apocalypse was nigh. But then, a ray of pure light appeared, and provided Moniyan its protection.
 
-The people cast their gazes skyward, seeking out of the source of this divine light. It was then that they realized – this was a sign that the Lord of Light has awakened, too.
-
-The powers of light and darkness sprang into action, and the Endless War descended upon the lands once more.
+The people cast their gazes skyward, seeking out of the source of this divine light. It was then that they realized – this was a sign that the Lord of Light has awakened, too. The powers of light and darkness sprang into action, and the Endless War descended upon the lands once more.
 
 Tragedy and warfare abounded, wreaking destruction upon all life, never to be reborn. In such an era it seemed that nobody could halt the spread of war. A thousand years passed, then three hundred more, yet still the conflict waged with a growing intensity, showing no signs of stopping.
 
-It was into such an era that Natan was born.
+It was into such an era that Natan was born. As he grew up in Eruditio, Natan proved himself naturally gifted. Whether in science or magic, he achieved attainments unimaginable by any normal man.
 
-As he grew up in Eruditio, Natan proved himself naturally gifted. Whether in science or magic, he achieved attainments unimaginable by any normal man.
-
-As the years passed, the turmoil of war had rent a terrible scar upon the hearts of the people, never to be healed. This despair was a heavy burden borne by all, even the young children.
-
-And none more so than the Eruditians, who as humanity’s last hope now formed the peak of human wisdom, as built over millennia. Hence Natan walked the same path as the other scholars, from a young age taking on the task of saving this world.
+As the years passed, the turmoil of war had rent a terrible scar upon the hearts of the people, never to be healed. This despair was a heavy burden borne by all, even the young children. And none more so than the Eruditians, who as humanity’s last hope now formed the peak of human wisdom, as built over millennia. Hence Natan walked the same path as the other scholars, from a young age taking on the task of saving this world.
 
 Several years later, the youthful Natan had already became the driving force of Eruditio, taking an active part in various important research projects. By the time he was 28, he had already been appointed as the official leader of Eruditio for his outstanding achievements. Together with its citizens, he endeavored to seek out a way to save the world.
 
@@ -54,27 +41,17 @@ The Abyss had by this point accrued even more Twilight Orbs. If every last one f
 
 A wealth of weapons, each one powerful beyond belief, was researched and created before being sent into war. Nevertheless, humanity remained vulnerable under the threat of the demons and their Twilight Orbs. The plan to halt the Lord of the Abyss’ advance was already less a plan of action than a wish, something that cast humanity even further into despair.
 
-It was at that somber moment that Natan stepped forth once more, and presented a new idea – the creation of a time machine.
+It was at that somber moment that Natan stepped forth once more, and presented a new idea – the creation of a time machine. It was a wild fantasy of an idea, one that seemed to raise more problems than it solved. How exactly does one travel through time? Even if it were possible, how would you know which turning point in time to travel to? Ad moreover, would changing the past really change the future, too?
 
-It was a wild fantasy of an idea, one that seemed to raise more problems than it solved. How exactly does one travel through time? Even if it were possible, how would you know which turning point in time to travel to? Ad moreover, would changing the past really change the future, too?
-
-Regardless, humanity had been forced into a corner with no way back. Even the weakest flicker of hope could not be allowed to die out.
-
-Erudition put all other research aside and committed all of its manpower and resources into the search for a way to make time travel a reality.
-
-Natan allowed himself not a second of rest, with almost all of his time and energy dedicated to his research.
+Regardless, humanity had been forced into a corner with no way back. Even the weakest flicker of hope could not be allowed to die out. Erudition put all other research aside and committed all of its manpower and resources into the search for a way to make time travel a reality. Natan allowed himself not a second of rest, with almost all of his time and energy dedicated to his research.
 
 This unrelenting effort eventually produced results. Natan and the other researchers worked together to produce an apparatus that, if provided enough power, could warp time itself. They continued to advance their research based around this discovery, a rudimentary time machine slowly developing before their eyes. A nagging problem remained, however: even with their current research, they had no way of providing the machine with such a gargantuan amount of power.
 
 Another issue was the fact that all four corners of the Land of Dawn had been ravaged by the Endless War for a long, long time now. Fissures spidered across the earth, floods surged, and tornadoes howled as countless lifeforms faced extinction in their unforgiving environments. The Moniyan Empire’s former glory was replaced by a scene of true desolation. Erudition lived on thanks to its shield of protection, and took in myriad refugee families.
 
-No more was Eruditio merely the ‘City of Scholars’. Now, it was the final light still shining as humanity faced its apocalypse.
+No more was Eruditio merely the ‘City of Scholars’. Now, it was the final light still shining as humanity faced its apocalypse. As the Abyss gained control of the final shard of the Twilight Orb, it seemed that fate had been decided. Dark blasts of fearful energy bust forth, circling the skies above as the Land of Dawn let out a pained cry. It felt like it would be split apart entirely before long.
 
-As the Abyss gained control of the final shard of the Twilight Orb, it seemed that fate had been decided. Dark blasts of fearful energy bust forth, circling the skies above as the Land of Dawn let out a pained cry. It felt like it would be split apart entirely before long.
-
-The final bastion of humanity, Eruditio, stood alone as it strived to kindle its dying flames of hope.
-
-However, it was precisely then that a miracle came to be. The explosive power that blasted from the Twilight Orbs resonated with the time machine, and so Natan hurriedly activated the device: it shook with an awe-inspiring energy that surged into its hollows and shined with a warm and mighty brilliance as if it were alive.
+The final bastion of humanity, Eruditio, stood alone as it strived to kindle its dying flames of hope. However, it was precisely then that a miracle came to be. The explosive power that blasted from the Twilight Orbs resonated with the time machine, and so Natan hurriedly activated the device: it shook with an awe-inspiring energy that surged into its hollows and shined with a warm and mighty brilliance as if it were alive.
 
 Beyond the lab, darkness encroached upon the land as it descended from the skies. The defensive network had been devastated by the blast of energy, and now an unstoppable tide of demons flooded into the city en masse. Buildings toppled and the streets went up in flames.
 
@@ -82,9 +59,7 @@ Everyone knew all too well that this was to be humanity’s last stand. More tha
 
 Natan took in the bleak scene before him, and start up the machine with resolution in his eyes. There had been no time to test it, but their theories suggested it could support a single person and transport them through time and space. This was only a theory, however, meaning there’d be no way to guarantee his safety.
 
-The end of the world loomed before him, and at his back shone the hope of all others. Natan shouldered the expectations of humanity and stepped into past.
-
-The future had to change. Even if it meant a lifetime spent searching the sprawling expanses of time and space, Natan would never give up hope, for such hope didn’t belong to him alone. It was the hope of everyone in the Moniyan. Just as long as he kept going, and never gave up, there was still a chance for the Land of Dawn survival.
+The end of the world loomed before him, and at his back shone the hope of all others. Natan shouldered the expectations of humanity and stepped into past. The future had to change. Even if it meant a lifetime spent searching the sprawling expanses of time and space, Natan would never give up hope, for such hope didn’t belong to him alone. It was the hope of everyone in the Moniyan. Just as long as he kept going, and never gave up, there was still a chance for the Land of Dawn survival.
 
 # Story
 
@@ -94,87 +69,78 @@ The future had to change. Even if it meant a lifetime spent searching the sprawl
 
 A thousand years after falling into a deep slumber, the Lord of the Abyss and the Lord of Light awoke, and so the Endless War raged once more. Natan stood as Eruditio's leader, guiding the people in their search for hope in this world. Yet having faced numerous defeats he decided instead to cast his gaze not to the future, but to the past by inventing a time machine.
 
-As the world teetered on the brink of destruction, his time machine finally reached completion as it absorbed the combined power of the Twilight Orbs: Natan stepped within, and started searching the past for a chance to save the world.
+As the world teetered on the brink of destruction, his time machine finally reached completion as it absorbed the combined power of the Twilight Orbs. Natan stepped within, and started searching the past for a chance to save the world.
 
 # Abilities
 
 ## Theory of Everything
 
-- Entanglement stacks: Natan gains a stack of Entanglement each time he or his Reverse-Clone hits an enemy with a skill (up to 6 stacks). Each stack lasts 2.5 seconds and grants extra Attack Speed and Movement Speed. Hitting an enemy refreshes Entanglement's duration.
+Natan gains a stack of Entanglement each time he or his Reverse-Clone hits an enemy with a skill, up to 6 stacks. Each stack lasts 2.5 seconds and grants extra Attack Speed and extra Movement Speed. Natan's projectiles will return to Natan after reaching maximum range, dealing an extra 30 magic damage to enemies along the way and inheriting 65% of Natan's attack effects. Hitting an enemy refreshes Entanglement's duration.
 
-- Extra Attack Speed formula: extra ATK SPD = [ (0.0053571 × hero level) + 0.069643 ] × number of Entanglement stacks.
+- Stacks: up to 6
+- Stack duration: 2.5 seconds
+- Extra Attack Speed per stack: 7.5% (scales with level and stacks)
+- Extra Movement Speed per stack: 7.5% (scales with level and stacks)
 
-- Projectiles: Natan's projectiles will return to Natan after reaching maximum range, dealing extra scaling damage to enemies along the way and inheriting 65% of Natan's attack effects.
-
-- Stacks: Each stack grants 7.5% extra Attack Speed and 7.5% Movement Speed (scaling up with levels and stacks; total potential values increase with skill progression and stacks).
-
-- Notes:
-  - Natan only benefits 80% of his Physical and Magic Lifesteal.
-  - Damage interactions may be reduced by unique passive mechanics on some items.
-
-- Summary: Passive grants Entanglement stacks that boost attack speed and movement speed, causes projectiles to return and deal additional scaling damage, and interacts with attack effects at a reduced percentage.
+Notes:
+- Natan only benefits 80% of his Physical and Magic Lifesteal.
+- Damage is reduced when interacting with certain unique passive effects.
 
 ## Superposition
 
-- Skill type: Magic Skill
-- Cooldown (per level): 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
-- Mana cost (per level): 50 / 55 / 60 / 65 / 70 / 75
+There is no "collapse".
 
-Description:
+Natan shoots a dense mass of energy, dealing magic damage to enemies along its path. The projectile returns to Natan after reaching maximum range, hitting enemies again on the return and dealing additional damage.
 
-Natan shoots a dense mass of energy, dealing scaling magic damage to enemies along its path.
-
-- Base damage (per level): 225 / 260 / 295 / 330 / 365 / 400 (scaling with magic power and level).
+- Base Damage by level: 225 / 260 / 295 / 330 / 365 / 400
+- Mana Cost by level: 50 / 55 / 60 / 65 / 70 / 75
+- Cooldown by level: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
 
 Notes:
-
 - Only benefits 50% of Natan's Physical and Magic Lifesteal.
 - Backswing removed.
 
 ## Interference!
 
-- Skill type: Charge (Magic Skill)
-- Cooldown (per level): 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds
-- Mana cost (per level): 60 / 65 / 70 / 75 / 80 / 85
+There is only "decoherence".
 
-Description:
+Natan launches a Gravitational Attractor which carries enemies on contact along its path and deals magic damage to them. The attractor explodes upon reaching the end, knocking back nearby enemies, stunning them for 0.1 second, and dealing additional magic damage.
 
-Natan launches a Gravitational Attractor which carries enemies on contact along the path and deals scaling magic damage to them. The attractor explodes upon reaching the end, knocking back nearby enemies, stunning them for 0.1 second, and dealing additional scaling magic damage to them.
-
-- Base damage (per level): 150 / 180 / 210 / 240 / 270 / 300
-- Extra explosion damage (per level): 30 / 35 / 40 / 45 / 50 / 55 (scaling with level and magic power)
+- Base Damage by level: 150 / 180 / 210 / 240 / 270 / 300
+- Explosion Extra Damage by level: 30 / 35 / 40 / 45 / 50 / 55
+- Mana Cost by level: 60 / 65 / 70 / 75 / 80 / 85
+- Cooldown by level: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds
 
 Notes:
-
 - Only benefits 50% of Natan's Physical and Magic Lifesteal.
 - Backswing removed.
-- Known bug: Explosion of attractor may fail to trigger certain effects despite the stun effect.
+- Known bug: explosion of attractor may fail to trigger despite the stun effect.
 
 ## Entropy?
 
-- Skill effects: Summon, Blink
-- Cooldown: 24.0 / 20.0 / 16.0 seconds
-- Mana cost: 100 / 50 / 0
+Entropy can decrease.
 
-Description:
+Natan summons a Reverse-Clone at a target location 6 units away that lasts 10 seconds. The Reverse-Clone inherits a percentage of Natan's attack attributes and copies his moves and attacks in reverse. Use Again: Natan switches places with the Reverse-Clone. Each cast reduces other skills' remaining cooldowns by 50%. The Reverse-Clone will disappear if Natan is too far away.
 
-Natan summons a Reverse-Clone at a target location 6 units away that lasts 10 seconds. The Reverse-Clone inherits 35% / 37.5% / 40% of his attack attributes (and 35% of Natan's attack effects), and will copy his moves and attacks in reverse. Use Again: Natan switches places with the Reverse-Clone. Use Again cooldown: 12 seconds. Each cast reduces other skills' remaining cooldown by 50%. The Reverse-Clone will disappear if Natan is too far away.
-
-- Attributes inherit per level: 35% / 37.5% / 40%
+- Attributes Inherit by level: 35% / 37.5% / 40%
+- Duration: 10 seconds
+- Initial summon distance: 6 units
+- Use Again cooldown: 12 seconds
+- Ultimate cooldown by level: 24 / 20 / 16 seconds
+- Mana Cost by level: 100 / 50 / 0
 
 Notes:
-
+- The Reverse-Clone inherits attack attributes and 35% of Natan's attack effects.
+- The link between Natan and the clone turns red at 10 units and breaks at 13 units.
 - Cooldown starts after ending the ultimate.
-- The reverse-clone starts 6 units away and faces the same facing angle. The link between them turns red at 10 units and breaks at 13 units.
 - Foreswing time has been reduced by 50%.
-- Sub-ability of the Reverse-Clone is not affected by cooldown reduction.
-- Attack effects inheritance has been reduced to 35%.
+- Sub-ability of the clone is not affected by cooldown reduction.
 
 # Trivia
 
 - All of Natan's skills are based on real-life physics concepts.
 - His passive, Theory of Everything, states that one theory could explain every aspect of physics. Finding a theory of everything is one of the major unsolved problems in physics.
-- His skill 1, Superposition, and skill 2, Interference, describes the phenomenon relating to waves.
-- His ultimate, Entropy, is used as a measure of "randomness" in a system.
+- His skill 1, Superposition, and skill 2, Interference, describe phenomena related to waves.
+- His ultimate, Entropy, is used as a measure of randomness in a system.
 - According to Natan's timeline, it implies that the Abyss are about to win the Endless War on the Land of Dawn and are about to conquer the only-standing Eruditio.
-- Most of Natan's quotes are just puns about time, reflecting his horological knowledge.
+- Most of Natan's quotes are puns about time, reflecting his horological knowledge.

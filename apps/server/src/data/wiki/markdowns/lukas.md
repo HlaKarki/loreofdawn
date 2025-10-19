@@ -1,33 +1,26 @@
-# Lukas
-
 # Profile
 
-He is the face of *MLBB* Season 35: Peerless Light.
+*He is the face of MLBB Season 35: Peerless Light.*
 
-- Name: Lukas
-- Chinese name: 卢卡斯 (lúkǎsī)
-- Alias: Beast of Light
-- Origin: Lumina City, Moniyan Empire
-- Age: More than 1000
-- Species: Sacred Beast
-- Gender: Male
-- Weapons: Tonfa Hammers
-- Abilities: Transform into Sacred Beast (Ultimate)
-- Relationships:
-  - (companion)
-  - (ally)
-  - Gaius Alvin (companion, deceased)
-- Voice actor: Bonkobara Kō (盆子原康)
+- **Name:** Lukas
+- **Chinese name:** 卢卡斯 (lúkǎsī)
+- **Alias:** Beast of Light
+- **Origin:** Lumina City, Moniyan Empire
+- **Age:** More than 1000
+- **Species:** Sacred Beast
+- **Gender:** Male
+- **Weapons:** Tonfa Hammers
+- **Abilities:** Transform into Sacred Beast (Ultimate)
+- **Relationships:** Gaius Alvin (companion, deceased)
+- **Japanese VA:** Bonkobara Kō (盆子原康)
 
 # Story
 
 > "A legendary Sacred Beast that can take the form of a rambunctious young man"
 
-Lukas is a recently revived from inside the Imperial Sanctuary. Endowed with a special bloodline that allows him to take human form, he was once befriended by Emperor Gaius and fought alongside him to create the glorious Moniyan Empire.
+Lukas is a recently revived from inside the Imperial Sanctuary. Endowed with a special bloodline that allows him to take human form, he was once befriended by Emperor Gaius and fought alongside him to create the glorious Moniyan Empire. After a millennium-long slumber, he was awakened by Silvanna and vowed to herald a new era for the Empire at her side.
 
-After a millennium-long slumber, he was awakened by Silvanna and vowed to herald a new era for the Empire at her side. Beneath his brazen and rambunctious appearance lies a pure and earnest heart.
-
-For Lukas, fighting is not only his duty but the instinctive expression of his spirit. He firmly believes he will create something as brilliant as the dawning sun to illuminate every corner of the Moniyan Empire and rewrite the legend of the Beast of Light.
+Beneath his brazen and rambunctious appearance lies a pure and earnest heart. For Lukas, fighting is not only his duty but the instinctive expression of his spirit. He firmly believes he will create something as brilliant as the dawning sun to illuminate every corner of the Moniyan Empire and rewrite the legend of the Beast of Light.
 
 # Side Story
 
@@ -45,9 +38,9 @@ The beast and the young man were destined to meet, and so they did—in a titani
 
 The man laid down his lance and extended his hand to the beast. It was his hope to fight alongside the beast and leave their mark on the world together. The beast never imagined a human would be brazen enough to offer friendship, but as the young man reached out his hand, the beast felt a strange feeling as his three tails began to wag.
 
-And so, the two embarked on their long journey, traversing the bone-chilling Frozen Sea, the sand-swept Agelta Drylands, and the tranquil Moonlit Forest... fighting for unification amidst the chaos. They faced countless adversaries and obstacles, but their trials of battle had forged an unbreakable bond between them. Together, they were invincible.
+And so, the two embarked on their long journey, traversing the bone-chilling Frozen Sea, the sand-swept Agelta Drylands, and the tranquil Moonlit Forest... fighting for unification amidst the chaos. They faced countless adversaries and obstacles, but their trials of battle had forged an unbreakable bond between them. Together, they were invincible. Eventually, the young man and the beast founded the Moniyan Empire.
 
-Eventually, the young man and the beast founded the Moniyan Empire. This new nation became the new sun in the Land of Dawn; a beacon of everlasting glory that drew in war-weary people from the four corners of the world. The young man was now revered as Emperor Gaius, and his most trusted companion became a Sacred Beast. He would be known as Lukas, the Beast of Light, in the hearts of all Moniyans.
+This new nation became the new sun in the Land of Dawn; a beacon of everlasting glory that drew in war-weary people from the four corners of the world. The young man was now revered as Emperor Gaius, and his most trusted companion became a Sacred Beast. He would be known as Lukas, the Beast of Light, in the hearts of all Moniyans.
 
 At the empire's first knighting ceremony, Gaius infused the light from his bloodline into Lukas's horns, causing them to shine a brilliant gold. From then on, wherever Lukas went, the sun's radiance followed.
 
@@ -75,11 +68,13 @@ The Beast of Light gazed into Silvanna's blue eyes, full of hope and determinati
 
 As the Sacred Beast of a new era, Lukas went about busily catching up with everything he had missed. To raise funds for people who had lost everything to war, he set up a ring on the streets and took on all challengers; to dispel the empire's ghosts of the past, he courageously braved a haunted house; to protect bullied children, he personally led an uprising in their make-believe war.
 
-Oh, and did I mention he won the eating competition 3 years in a row? Truly his proudest accomplishment.
+Oh, and did I mention he won the eating competition 3 years in a row?
+
+Truly his proudest accomplishment.
 
 Although the citizens of Lumina City found these feats too childish and unfit for the prestige of a Sacred Beast, Lukas didn't care! He would do things his way and give it his all, whether it was playing with the children or defending the empire alongside Silvanna. His roar would echo through the skies of Lumina City like a thousand years ago—
 
-> Together, we will create something glorious!"
+> Together, we will create something glorious!
 
 The court historian's pen finally snapped as he could barely keep up with the story. He let out a long sigh, only to be interrupted by a tug on his collar.
 
@@ -97,59 +92,64 @@ In front of the emblem of the sun and sword was a golden-horned beast with its h
 
 Lukas gains 1 Resolve per second and an additional 2 Resolve when dealing damage to heroes. Lukas consumes 10 Resolve per second while in Sacred Beast form.
 
+- Also gains Hero's Resolve when attacking certain targets and special units (examples referenced in original notes).
+
 Notes:
-- also gains Hero's Resolve when attacking:
-  - an untargetable enemy
-  - 's .
-  - 's .
-  - 's clones.
-  - .
-  - 's.
+- Resolve is consumed to maintain Sacred Beast form and to fuel certain enhanced skills.
+- Exact interactions with specific untargetable enemies, clones, and special units vary and are treated as special cases in-game.
 
 ## Flash Combo
 
-Lukas can enhance with his Basic Attacks up to 2 times, lasting 4s. Lukas consumes all Vigor to unleash Pulverize, dealing damage based on level and stats, plus additional attacks depending on the Vigor consumed (recovers HP equal to 8% of Max HP when hitting a hero).
+Lukas can enhance his Basic Attacks up to 2 times, lasting 4s. Lukas consumes all Vigor to unleash Pulverize, dealing scaling damage based on level and stats, plus additional attacks depending on the Vigor consumed. When hitting a hero, he recovers HP equal to 8% of Max HP.
 
-- Effects include brief stuns, multi-hit spins, pulls, and follow-up attacks depending on variation and Vigor consumed. Some variations knock back or pull enemies and include additional hits. Certain sequences cannot be interrupted.
-- Spellvamp ratio: 50%.
-- Level scaling (examples from data):
-  - Base Damage: 100 / 120 / 140 / 160 / 180 / 200
-  - Combo Damage: 50 / 60 / 70 / 80 / 90 / 100
-  - Spin Damage: 100 / 120 / 140 / 160 / 180 / 200
+Human Form variations:
+- Pulverize: Lukas briefly stuns the target and spins his tonfa hammers to deal damage multiple times, pulling the enemy toward him.
+- Follow-up: Lukas briefly stuns the target and follows up with 2 attacks that deal scaling damage per hit. He will then spin his tonfa hammers to deal additional multi-hit damage (cannot be interrupted).
 
-Notes:
-- Enhanced effects and exact damage values depend on form and Vigor consumed.
-- Recovery on hit: recovers 8% of Max HP when hitting a hero.
+Sacred Beast Form variations:
+- Tail swing: Lukas consumes all Vigor to unleash a tail swing and additional attacks depending on Vigor consumed. When hitting a hero, he recovers 8% of his Max HP.
+- Pounce: Lukas briefly stuns the target and pounces to deal multi-hit damage, knocking the enemy back.
+- Leap and lightning: Lukas briefly stuns the target and leaps to deal multi-hit damage, then summons sacred lightning for further multi-hit damage (cannot be interrupted).
+
+Additional data from level scaling (examples from source):
+- Base Damage / Combo / Spin Damage values are provided per level in-game; actual damage is scaling damage based on level and stats.
+- Spell vamp ratio: 50% (applies to specified hits).
 
 ## Flash Step
 
-Lukas dashes in the target direction and turns his next Basic Attack within 4s into a special strike. Lukas blinks behind the enemy, dealing damage based on level and stats. He then increases his Attack Range, gains 20% Movement Speed and 20% Attack Speed, and summons lightning storms with Basic Attacks to deal extra damage, lasting for 4s.
+Lukas dashes in the target direction and turns his next Basic Attack within 4s into an enhanced attack.
 
-- Level scaling (example): Base Damage: 60 / 72 / 84 / 96 / 108 / 120
-- Cooldown progression (by level): 12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0
+Human Form (Flash Strike / Flash Step):
+- Blink/Charge: Lukas blinks behind the enemy or charges toward the enemy depending on form, dealing base damage on hit.
+- Buffs: He increases his Attack Range, gains 20% Movement Speed and 20% Attack Speed, and summons lightning storms or sacred lightning with Basic Attacks to deal extra damage for 4s.
+
+Notes and scaling:
+- Base Damage scales with skill level (example base damage per level: 60 / 72 / 84 / 96 / 108 / 120).
+- Cooldown scales by level (12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0 seconds).
+- Exact additional damage and interactions depend on form and are treated as scaling damage based on level and stats.
+
+## Unleash the Beast / Shockwave Blast
+
+Unleash the Beast (Morph / Buff):
+- Lukas transforms into his Sacred Beast form. While in this state, his base Movement Speed is increased by 30, all attributes are increased by a percentage, and his skills gain new effects.
+- "All attributes" include HP, Physical Attack, Attack Speed, Physical & Magic Defense and Attack Range.
+- Sacred Beast form fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing burst damage.
+
+Shockwave Blast (Sacred Beast ability):
+- The Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing burst damage.
+
+Level-scaling examples from source:
+- Attribute Increase: 15% / 17.5% / 20%
+- Base Damage (Shockwave Blast): 450 / 775 / 1100
+- Resolve Regen: 0.5 / 1 / 1.5
 
 Notes:
-- Variations include charging toward the enemy to knock them back and summon sacred lightning with Basic Attacks.
-- Exact extra damage from lightning storms is based on level and stats.
-
-## Unleash the Beast
-
-Lukas transforms into his Sacred Beast form. While in this state, his base Movement Speed is increased by 30, all attributes are increased by a percentage, and his skills gain new effects.
-
-- Attribute increases (by level): 15% / 17.5% / 20% (applies to HP, Physical Attack, Attack Speed, Physical & Magic Defense and Attack Range).
-- Base Damage (Shockwave Blast) by level: 450 / 775 / 1100.
-- Resolve Regen by level: 0.5 / 1 / 1.5.
-
-Shockwave Blast:
-- The Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing base damage as listed above.
-- Cooldown when used as an ability: 0.5 seconds between uses in some contexts.
+- Ultimate itself has no traditional cooldown and is a transformation; the Shockwave Blast has a short internal cast cooldown (example 0.5 seconds between blasts).
+- Attack range increases from 1.8 to 2.6 for the duration in Sacred Beast form.
 - The blast has a max range of 11.
-
-Notes:
-- While in Sacred Beast form, attack range increases from 1.8 to 2.6 for the duration.
-- The ability can be hold-spun to change facing direction.
+- Some abilities can be charged/held to change facing direction while in Sacred Beast form.
 
 # Trivia
 
-- The name Lukas is of Greek and Latin origin, derived from the Greek name Loukas (Λουκᾶς), meaning "from Lucania", a region in southern Italy. It is also associated with the Latin name Lucas, meaning "light" or "bringer of light."
-- Lukas's motifs and beast form are probably influenced by the Pixiu (貔貅, píxiū) a beast in chinese folklore described as "having wings, a head of a dragon and a body of a lion" are considered auspicious and influencial creatures to their masters similarily how Lukas is referred as a sacred beast of the Moniyan Empire fighting side by side with his best friend Gaius thousands of years ago later was awakened by Gaius's descendant Silvanna
+- **Lukas** is of Greek and Latin origin, derived from the Greek name **Loukas (Λουκᾶς)**, meaning "from Lucania", a region in southern Italy. It is also associated with the Latin name **Lucas**, meaning "light" or "bringer of light."
+- Lukas's motifs and beast form are probably influenced by the Pixiu (píxiū), a beast in Chinese folklore described as having wings, a head of a dragon and a body of a lion. Pixiu are considered auspicious and influential creatures to their masters, similar to how Lukas is referred to as a sacred beast of the Moniyan Empire fighting side by side with his best friend Gaius thousands of years ago and later awakened by Gaius's descendant Silvanna.

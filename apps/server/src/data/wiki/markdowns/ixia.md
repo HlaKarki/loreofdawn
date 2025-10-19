@@ -1,5 +1,3 @@
-# Ixia
-
 # Profile
 
 She was released as part of Project NEXT 2023 and is one of the faces of Season 29: Outlaw, alongside Layla.
@@ -14,11 +12,17 @@ Born into a tribe of Sand Hunters, Ixia was honed by the harsh desert environmen
 
 ## Sandstorm at Snakebone Tavern
 
-> "This is a stick-up, hands where I can see!"
+> "This is a stick-up, hands where I can see!" "Those fine books, I'll take from your hands.
 
-> "Those fine books, I'll take from your hands."
+> She is the leader of Bad Soul who "takes" books from others only for invention.
 
-She is the leader of Bad Soul who "takes" books from others only for invention. She was honed into a cunning leader by the harsh desert environment. While believing science should not be a tool reserved only for a few, she is determined to make her way! How will she keep inventing her gadgets and live by her own rules like the ever-shifting sands of the Agelta Drylands?
+> She was honed into a cunning leader by the harsh desert environment.
+
+> While believing science should not be a tool reserved only for a few, she is determined to make her way!
+
+> How will she keep inventing her gadgets and live by her own rules like the ever-shifting sands of the Agelta Drylands?
+
+> Tap on the link below and check out the story of Bad Soul's honcho - Ixia!"
 
 - MLBB social media post promoting Ixia's story
 
@@ -30,7 +34,7 @@ She is the leader of Bad Soul who "takes" books from others only for invention. 
 
 > "Now head that way, before you get lost in these sands."
 
-> "—Ixia, Boss of Bad Soul (7 years old)"
+> —Ixia, Boss of Bad Soul (7 years old)
 
 The entire place seemed like it was on the verge of coming down. Gravel blasted in through the cracks of the windows, pelting the mugs like bullets. But at this moment, the traveler would rather be braving the sandstorm outside than spend another second in Snakebone Tavern.
 
@@ -40,9 +44,7 @@ The traveler had come from the Moniyan Empire, intending to take advantage of th
 
 Ixia was always a clever kid. She learned how to load a gun before she could even walk straight. Sigh... It's a pity she picked up such bad habits. She was only seven when she stole for the first time. And what was her plunder? A stack of books! Can you believe that? What kind of Sand Hunter steals books? And from then on, she would always target caravans bound for Eruditio, just to return with sacks of dusty books. She said she wanted to be an inventor... What a naive, little fool! She kept 'inventin' all these useless junk... A grill made out of a guitar, a desert swimming contraption.... Hell, my boy nearly drowned in that quicksand!
 
-> "And... Huh?!"
-
-> "Who's making that noise?"
+And... Huh?! Who's making that noise?
 
 The traveler pretended to choke on his soup to cover his sudden burst of laughter. An outlaw who loved to read? He had never heard of such a thing. Filled with curiosity about this Ixia person, the traveler silently moved his stool ever so closer to the rowdy table.
 
@@ -53,18 +55,6 @@ The traveler was taken back, for he had a keen interest in medical devices. Perh
 THUMP!
 
 A knife came down and nearly split the table as the leader of the group angrily cleared his throat.
-
-> "Idiots! You deserve to have suffered under her thumb for all these years. Who cares about her inventions, or even dishonor amongst thieves? Ixia's biggest mistake was drawing the ire of Eruditio. Just think about it! When did the winds of this desert turn against us? The Eruditio Rangers have spent years trying to keep us down, yet grit and gunfire have seen us through the worst of it. But ever since they found out Ixia was inventing things, they thought we were looking to take what was theirs! They came to our lands, installed pumps and generators, and then lured our men into taking their so-called 'stable jobs'. Depravity, complete depravity! But Eruditio doesn't care about Ixia at all. During the last Festival of Enlightenment, drawn by their nonsense about equality and openness, she took that new invention of hers to the city for some exhibition. What a laugh! She was stopped by a guard before she could even get inside."
-
-> "They smashed her contraption and turned her into the laughingstock of these lands."
-
-> "Do you know what that guard said?"
-
-> "'Eruditio would never accept such a crude invention."
-
-> "Stop daydreaming and crawl back to the desert where you belong!'"
-
-BAM! The door of the tavern suddenly burst open, and the onslaught of wind and sand nearly threw the traveler off his stool.
 
 > "Those are my stories to tell."
 
@@ -86,7 +76,9 @@ But in the spur of the moment, the traveler summoned the courage to utter a ques
 
 > "D-D-Do you think I can become an academic at Eruditio?"
 
-> "Heck if I know," Ixia shrugged as she grabbed the traveler's bag.
+> "Heck if I know,"
+
+Ixia shrugged as she grabbed the traveler's bag.
 
 > "But in this desert, no one can tell you which way is right or wrong. They say Sand Hunters can't be inventors, and inventors can't be outlaws."
 
@@ -98,14 +90,15 @@ The traveler was taken back by her words and become lost in his thoughts for a m
 
 > "You have to make your own way, just like the ever-shifting sands."
 
-
 # Abilities
 
-## Siphon Starlium / Starlium Charge
+## Starlium Charge / Siphon Starlium
 
-Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack will consume the stacks and be replaced with Siphon Starlium, dealing scaling damage plus additional damage based on stats to the target. Ixia recovers health equal to the damage dealt by Siphon Starlium (only a percentage against non-hero units). Siphon Starlium can trigger on all enemies in front of Ixia that are within her Basic Attack range, but it cannot critically strike. Ixia's Basic Attacks cannot trigger Lifesteal.
+Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack will consume the stacks and be replaced with Siphon Starlium, dealing scaling damage based on level and stats plus additional scaling damage. Ixia recovers health equal to the damage dealt by Siphon Starlium (reduced percentage versus non-hero units). Siphon Starlium can trigger on all enemies in front of Ixia that are within her Basic Attack range, but it cannot critically strike. Ixia's Basic Attacks cannot trigger Lifesteal.
 
-Base Damage scaling by level: 10 / 20 / 30 / 40 / 50 / 60 / 70 / 80 / 90 / 100 / 110 / 120 / 130 / 140 / 150.
+- Base Damage per level listed below represents the Siphon Starlium base damage progression.
+
+Base Damage: 10 / 20 / 30 / 40 / 50 / 60 / 70 / 80 / 90 / 100 / 110 / 120 / 130 / 140 / 150
 
 Notes:
 
@@ -122,39 +115,39 @@ Bugs:
 
 ## Dual Beam
 
-Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing damage to enemies in a rectangular area and slowing enemy heroes by 40%. Upon hitting an enemy hero, Ixia also gains 40% Movement Speed for 3 seconds. Enemies hit by both beams will take double damage.
+Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing damage to enemies in a rectangular area (base damage listed below) and slowing enemy heroes by 40%. Upon hitting an enemy hero, Ixia also gains 40% Movement Speed for 3 seconds. Enemies hit by both beams will take double damage.
 
-Cooldown: 8.0 / 7.2 / 6.4 / 5.6 / 4.8 / 4.0 seconds.
+Base Damage: 175 / 200 / 225 / 250 / 275 / 300
 
-Mana Cost: 40 / 45 / 50 / 55 / 60 / 65.
+Cooldown: 8.0 / 7.2 / 6.4 / 5.6 / 4.8 / 4.0 seconds
 
-Base Damage by level: 175 / 200 / 225 / 250 / 275 / 300.
-
-Scaling: base values and additional physical damage scaling as noted in internal design.
-
-## Star Helix
-
-Ixia launches a canister of Starlium energy in the target direction, knocking back nearby enemies, and pulling enemies in range to the center line after a short delay (approximately 0.5 seconds) and dealing damage.
-
-Cooldown: 11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0 seconds.
-
-Mana Cost: 75 / 80 / 85 / 90 / 95 / 100.
-
-Base Damage by level: 200 / 220 / 240 / 260 / 280 / 300.
+Mana Cost: 40 / 45 / 50 / 55 / 60 / 65
 
 Notes:
 
-- The knockback and pull effects of this skill have 0.1 seconds stun.
+- Damage values scale with skill level and Ixia's ability stats.
+
+## Star Helix
+
+Ixia launches a canister of Starlium energy in the target direction, knocking back nearby enemies and pulling enemies in range to the center line after a short delay (approximately 0.5 seconds), dealing damage (base damage listed below).
+
+Base Damage: 200 / 220 / 240 / 260 / 280 / 300
+
+Cooldown: 11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0 seconds
+
+Mana Cost: 75 / 80 / 85 / 90 / 95 / 100
+
+Notes:
+
+- The knockback and pull effects of this skill include a brief 0.1 second stun.
 
 ## Full Barrage
 
 Ixia disassembles her weapon into 6 smaller weapons and enters the Barrage state for 4 seconds. In this state, Ixia's Basic Attacks and skills can hit enemies in a large fan-shaped area but not outside of it. Ixia's Basic Attacks can hit up to 6 enemy units (prioritizes heroes), and the smaller weapons will fire simultaneously with her normal Basic Attacks.
 
-Cooldown: 54.0 / 48.0 / 42.0 seconds.
-
-Mana Cost: 75 / 90 / 105.
-
-Cast Range: 11 (Patch Notes 1.8.20).
+- Cast range: 11 (Patch Notes 1.8.20)
+- Cooldown: 54.0 / 48.0 / 42.0 seconds
+- Mana Cost: 75 / 90 / 105
 
 Notes:
 

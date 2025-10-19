@@ -1,5 +1,3 @@
-# X.Borg
-
 # Profile
 
 - Origin: Eruditio
@@ -212,58 +210,55 @@
 
 ## Firaga Armor
 
-X.Borg's armor has its own Armor HP separate from his real HP. The armor absorbs all incoming damage while active. When the armor is destroyed, X.Borg disengages from it and rolls in the joystick direction; he is immune to damage and control effects during this roll. The armor's energy regenerates over time while X.Borg is without armor. At full energy, X.Borg re-equips the armor and restores it to a portion of the armor HP. X.Borg's skills deal true damage while in the overheated state.
+X.Borg's Armor HP acts as a shield and absorbs all incoming damage while it's active. When the Armor is destroyed, X.Borg disengages from it and rolls in the direction of the Joystick. He is immune to damage and control effects while rolling. The Armor's energy regenerates over time (regenerates at 3 energy per second) while X.Borg is in the Armorless State. At full energy, X.Borg re-equips the Armor and restores it to 30% of his Armor HP. X.Borg's skills deal True Damage in Overheated state.
 
 - Notes:
-  - The armor's energy is not the same as the game's standard energy attribute and does not interact with purple energy buffs.
-  - X.Borg's basic attack becomes ranged in armored state. Certain actions are adjusted while armorless.
-  - HP scaling (Max HP, Lost HP, Current HP) is determined by X.Borg's current state; Armor HP and real HP do not combine for scaling purposes. Armor HP can be scaled in Armored state; real HP can be scaled in Armorless state.
+  - The HP Armor's energy is technically not an energy attribute since X.Borg does not benefit from the purple buff and the energy is omitted on his stats.
+  - X.Borg's Basic Attack becomes ranged during Armored State, and attack properties are adjusted while in Armorless State.
+  - X.Borg's state determines HP scaling (including Max HP, Lost HP, and Current HP) from abilities, battle spells, and equipment unique passives, as his HP and Armor HP cannot be combined during scaling. Armor HP scales only in Armored State, while HP scales only during Armorless State.
   - "Fire damage" refers only to damage dealt by X.Borg's basic attacks and skills.
 
 ## Fire Missiles
 
-X.Borg sprays fire, dealing multiple hits over a short duration to enemies in range. The skill deals reduced damage to minions and changes shape in a variation that becomes narrower but longer while dealing reduced damage.
+X.Borg sprays fire, dealing multiple hits over a short duration to enemies in range. Damage to minions is reduced.
 
-- Base Damage per use: 25 / 40 / 55 / 70 / 85 / 100 (scales with skill level and physical attack where applicable)
-- Damage to Minions: 75% / 80% / 85% / 90% / 95% / 100%
-- Damage type: physical normally; skills deal true damage in overheated state.
+- Properties:
+  - Base Damage: 25 / 40 / 55 / 70 / 85 / 100
+  - Damage to Minions: 75% / 80% / 85% / 90% / 95% / 100%
 
 - Notes:
   - Fire Missiles is not visible during stealth.
   - This skill can only be interrupted by high- and ultimate-level control effects.
-  - Entering or leaving certain states cancels this ability.
+  - Changing Armor state cancels this ability upon entering and leaving.
 
 ## Fire Stake
 
-X.Borg shoots five Fire Stakes to the edge of a fan-shaped area and retrieves them after a delay. Each stake deals damage and pulls enemies along its path toward X.Borg. Firaga Supplies in the path will also be retrieved if touched by Fire Stakes. In the alternate state, X.Borg adjusts the launcher to increase range and shorten the distance between stakes.
+X.Borg shoots 5 Fire Stakes to the edge of the fan-shaped indicator and retrieves them after 1.7 seconds. Each stake deals damage and pulls enemies in the path toward him. Firaga Supplies in the path will also be retrieved if touched by Fire Stakes. In Armored State, X.Borg adjusts the Fire Stake Launcher to increase its range and shorten the distance between Fire Stakes.
 
-- Base Damage: 50 / 60 / 70 / 80 / 90 / 100 (scales with skill level and physical attack where applicable)
-- Skill effects: displacement and crowd control when stakes are retrieved.
+- Properties:
+  - Base Damage: 50 / 60 / 70 / 80 / 90 / 100
 
 - Notes:
-  - Retrieving Fire Stakes applies a micro stun to enemies (Patch Notes 1.7.58).
+  - Retrieving Fire Stakes applies a micro stun to enemies.
 
 ## Last Insanity
 
-X.Borg charges forward in the target direction while rotating and spraying fire, dealing many hits to enemies and slowing them. He stops upon colliding with an enemy hero, applying an additional slow. After a set time from skill start, X.Borg's armor detonates, dealing a large amount of damage to nearby enemies. If the armor is destroyed before self-detonation, the detonation deals only half damage. When the armor detonates, X.Borg dashes a short distance in the joystick direction, enters armored state, and removes all debuffs from himself. This skill cannot be used while armorless; using it forces the armor to detonate immediately.
+X.Borg charges forward in the target direction while rotating and spraying fire, dealing multiple hits and slowing enemies by 25%. He stops upon running into an enemy hero and applies an additional slow of 40% to that hero. After 3 seconds from the start of the skill, X.Borg's Armor will detonate, dealing damage based on level and stats to nearby enemies. If the Armor is destroyed before it can self-detonate, it will only deal 50% of the detonation damage. When his Armor detonates, X.Borg will dash a short distance in the Joystick's direction and enter Armored State while removing all debuffs from himself. This skill cannot be used in the Armorless State. Using this skill forces X.Borg to stop spraying fire and immediately detonate his Firaga Armor.
 
-- Cooldown (varies by level): 30.0 / 27.0 / 24.0 seconds (skill level dependent)
-- Base Damage (skill hits): 200 / 225 / 250
-- True Damage from armor detonation: 300 / 500 / 700
-- Energy cost: 100
-- Skill effects: burst damage, blink/dash, slows enemies (25% base slow; additional 40% slow when stopped by a hero)
+- Base Damage (movement hits): 200 / 225 / 250
+- True Damage (Armor detonation): 300 / 500 / 700
 
 - Notes:
-  - X.Borg gains control immunity during the skill duration.
-  - Movement speed during the skill gradually decays (exact decay amounts not specified in source text).
-  - Certain state transitions do not cancel this ability.
+  - X.Borg's movement speed during the charge gradually decays.
+  - He gains control immunity within the skill duration.
+  - This skill stops spraying fire and triggers the Armor detonation when used.
 
 # Trivia
 
-- The name X.Borg could be likely stands for "Experimental Cyborg", referring to his part-human, part-machine nature. "X" could symbolize "Experimental", as X.Borg was a test subject in Eruditio’s failed technology project. "Borg" comes from "Cyborg", meaning a human with mechanical enhancements.
+- - The name X.Borg could likely stand for "Experimental Cyborg", referring to his part-human, part-machine nature. "X" could symbolize "Experimental", as X.Borg was a test subject in Eruditio’s failed technology project. "Borg" comes from "Cyborg", meaning a human with mechanical enhancements.
 - X.Borg appears to be suffering from pyromania based on his personality and abilities in the game.
 - X.Borg is the only hero to have more than one HP bar.
-- X.Borg is the first hero in MLBB to have two separate HP bars: Armor HP (outer bar), works like a shield and absorbs damage. Real HP (inner bar), when his armor breaks, he enters a weaker "Frenzy" state.
+- X.Borg is the first hero in MLBB to have two separate HP bars: Armor HP (outer bar), which works like a shield and absorbs damage, and Real HP (inner bar); when his armor breaks, he enters a weaker Frenzy state.
 - With Armor HP included and excluded, X.Borg has the lowest base HP in the game at level 1, with 998 and 2499 respectively. He also has the lowest base HP at level 15 with 2524 (with HP Armor excluded).
 - Pecados Rioter is the first-ever MLBB skin that could be obtained by playing and reaching Grandmaster in Magic Chess!
 - The hero's name is similar to Power Rangers Megaforce called X Borgs.

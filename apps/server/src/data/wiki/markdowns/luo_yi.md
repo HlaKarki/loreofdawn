@@ -1,10 +1,8 @@
-# Luo Yi
-
 # Profile
 
 ### Profile
 
-- Chinese name: 珞翊 (luò yì)
+- Chinese Name: 珞翊 (luò yì)
 - Alias: Yin-yang Geomancer
 - Born: Zhu'an, Cadia Riverlands
 - Species: Human
@@ -14,9 +12,10 @@
 - Weapons: Fly Whisk or Hossu (払子)
 - Abilities: Creates a sigil between Yin and Yang
 - Traits: Mysterious, Elegant
-- Voice actor (Japanese): Takaoka Chihiro (高岡 千紘)
+- Temperament / Traits: 气质 (qìzhì) meaning temperament, disposition, manners, aura qualities
+- Japanese Voice Actor: Takaoka Chihiro (高岡 千紘)
 
-Luo Yi is a geomancer from Zhu'an in the Cadia Riverlands. She mastered the secrets of Yin and Yang and is known for creating sigils that manipulate opposing energies.
+> "Seeking to revive an ancient past, she is the sole being who has mastered the secrets of Yin and Yang."
 
 # Story
 
@@ -26,17 +25,15 @@ Luo Yi was the only person in all of the Cadia Riverlands to truly comprehend th
 
 Now serving as Yu Zhong's loyal strategist, Luo Yi has taken his ambitions and meticulously set them into motion. However, hidden under her veil lies her own vision for the world.
 
-# Side Story
+### Yin and Yang
 
-## Yin and Yang
-
-What is Yin and what is Yang?
+> "What is Yin and what is Yang?"
 
 The first time Luo Yi asked the Grand Sorceress this question, she sighed deeply and gently patted Luo Yi on the head.
 
 > "The Cadia Riverlands was born from Yin and Yang. And Zhu'an is where Yin energy is most concentrated, thus it has become our eternal duty to safeguard this city."
 
-The young Luo Yi was puzzled:
+The young Luo Yi was puzzled.
 
 > "How can we watch over Yin without knowing Yang?"
 
@@ -46,11 +43,13 @@ The Grand Sorceress's hand suddenly stopped, gripped tightly, and released in a 
 
 Luo Yi was indeed different. For as long as she could remember, she was the sole successor to Zhu'an's Grand Sorceress. As an orphan born with a vision, she had no friends. She was only accompanied by a sea of books and neverending training from her master. Even though she was a young genius, her mysterious background always made people weary of her presence.
 
-However, none of these mattered to Luo Yi as she was only interested in one thing: what is Yin and what is Yang?
+However, none of these mattered to Luo Yi as she was only interested in one thing: the question that haunted her since childhood.
 
-The people of the Cadia Riverlands know that Yin and Yang are a part of all things in life's neverending cycle. However, Luo Yi knew the true answer and it had always haunted Luo Yi until one day she strayed to the Cliff of Endless Lights.
+> "What is Yin and what is Yang?"
 
-Luo Yi witnessed a river of souls, a harmonious blend of white and black, surfacing from the grotto and circling around her. The souls began to pick up speed as they merged into a dazzling bright light. At the same time, a cacophony of voices echoed in Luo Yi's ears:
+The people of the Cadia Riverlands know that Yin and Yang are a part of all things in life's neverending cycle. However, Luo Yi knew the true answer and it had always haunted her, until one day she strayed to the Cliff of Endless Lights.
+
+There, Luo Yi witnessed a river of souls, a harmonious blend of white and black, surfacing from the grotto and circling around her. The souls began to pick up speed as they merged into a dazzling bright light. At the same time, a cacophony of voices echoed in Luo Yi's ears:
 
 > "The Ancient Ones enlightened Yin and Yang to create life and shape the Cadia Riverlands."
 
@@ -84,7 +83,7 @@ Luo Yi left the last traces of her former self with her tears in Zhu'an. With th
 
 But it was only after encountering Yu Zhong, the reincarnation of the Black Dragon, that her vision of restoring Yin and Yang was set into motion.
 
-What is Yin and what is Yang?
+> "What is Yin and what is Yang?"
 
 Standing before the dignified Baxia and the other current-day Oriental Fighters, Luo Yi remained calm and collected.
 
@@ -92,11 +91,7 @@ Standing before the dignified Baxia and the other current-day Oriental Fighters,
 
 She slowly lifted the hossu in her hand and a swirl of black and white energy surfaced around her.
 
-First stroke—to give birth to the fiery realm of Yang.
-
-Second stroke—to give birth to the frozen realm of Yin.
-
-Third stroke—to assemble the power of Yin and Yang.
+First stroke—to give birth to the fiery realm of Yang. Second stroke—to give birth to the frozen realm of Yin. Third stroke—to assemble the power of Yin and Yang.
 
 Baxia, Zilong, and Ling suddenly found themselves trapped in a circle of enchantment. They could only watch as the power of the Black Dragon burst from its seal of a thousand years before enveloping Luo Yi and Yu Zhong and vanishing.
 
@@ -108,76 +103,62 @@ And she spoke the truth without empty words, yet the balance of Yin and Yang had
 
 But Luo Yi's own ambitions stretched beyond all of this—to the utopia created by Fu Yang and Su Yin. A world far beyond what the Twin Dragons can recreate; a world far beyond what the Four Immortals can protect. Thus, with her own hands, she will restore Yin and Yang to their primal form and usher this world into true, everlasting peace.
 
-## Oriental Fighters Assemble
-
-
-
-## The Awakening of the Black Fierce Dragon Yu Zhong
-
-
-
-## Secrets of the New Hero - Luo Yi
-
-
-
-## Dragon's Reborn
-
-
-
 # Abilities
 
-## Duality (Sigils of Yin/Yang)
+## Duality
 
-Luo Yi's skills create Sigils on the battlefield. Each Sigil lasts up to 6 seconds. Sigils of opposite attributes will trigger when they are within a certain distance (unspecified), dealing burst damage to marked enemy heroes, stunning them for 1 second, and pulling them toward each other. Each time Luo Yi applies a new Sigil to a marked enemy hero, she gains a stack (up to 3 stacks) and 30% extra Movement Speed that decays over 2 seconds.
+- Luo Yi's skills create Sigils on the battlefield. Each Sigil lasts up to 6 seconds.
+- Sigils of opposite attributes that come within a certain distance will trigger a Yin-Yang Reaction, dealing damage based on level and magic power to marked enemy heroes, stunning them for 1 second, and pulling them toward each other.
+- Each time Luo Yi applies a new Sigil to a marked enemy hero, she gains a stack (up to 3) and 30% extra Movement Speed that decays over 2 seconds.
 
-- Base Damage (per triggering): scaling values by skill level (examples: 385 / 405 / 425 / 445 / 465 / 485 / 505 / 525 / 545 / 565 / 585 / 605 / 625 / 645 / 665).
-- Shield: scaling shield values (examples by level; sample values shown in game data include 310 and above).
-- Base Shield examples: lower-tier examples 310, 620, 930; higher-tier examples 450, 900, 1350.
-- Magic Bonus Shield: scaling percentages such as 150%, 300%, 450% depending on level or context.
+- Base Damage by level: 385 / 405 / 425 / 445 / 465 / 485 / 505 / 525 / 545 / 565 / 585 / 605 / 625 / 645 / 665.
+- Shield values and magic bonus shield scale with level and magic power. Example base shield progression shown: 310 / 320 / 330 / 340 / 350 / 360 / 370 / 380 / 390 / 400 / 410 / 420 / 430 / 440 / 450.
+- Additional base shield examples at early and late levels include values such as 310, 620, 930 at low levels and 450, 900, 1350 at high levels as part of stacking shield mechanics.
 
-Notes:
-- Sigils provide both offensive burst and defensive shields when triggered.
-- Exact trigger distance and some numerical parameters are unspecified in source data and may vary by level and patch.
+- Effects: Stun, Pull, Burst damage, Protective Shield.
 
-## Dispersion (Yin/Yang)
+Note: Damage and shield scale with level and Luo Yi's magic attributes.
 
-Luo Yi casts the skill's energy in the target direction, dealing damage to the first enemy hit and to those behind in a cone. Enemy heroes hit are marked with a Sigil of Yin or Yang. Luo Yi stores up to 4 Dispersion charges and gains 1 charge every 8 seconds. She also gains 1 charge each time a Sigil reaction is triggered. The state of this skill changes on each cast.
+## Yin/Yang — Dispersion
+
+- Luo Yi casts the energy of Yin or Yang in the target direction, dealing magic damage to the first enemy hit and to those behind in a cone. Enemy heroes hit are marked with a Sigil of Yin or Yang.
+- Luo Yi stores up to 4 Dispersion charges and gains 1 charge every 8 seconds. She also gains 1 charge each time a Sigil reaction is triggered.
+- The state of this skill changes on each cast (alternates between Yin and Yang). The skill starts as Yang by default. This skill shifts to Yang when Luo Yi dies.
 
 - Base Damage by level: 210 / 250 / 290 / 330 / 370 / 410.
-- Mana cost per level example: 50 / 58 / 66 / 74 / 82 / 90.
-- Charge recharge time: ranges from 8.0 down to about 6.5 seconds depending on skill level.
+- Dispersion charge recharge time: 8.0 / 7.7 / 7.4 / 7.1 / 6.8 / 6.5 seconds.
+- Mana Cost by level: 50 / 58 / 66 / 74 / 82 / 90.
+
+- Effect type: Magic Skill, AoE cone. Stores charges and interacts with Sigils to mark enemies.
+
+## Fire of Yang / Aqua of Yin — Rotation
+
+- Luo Yi summons an elemental zone at a target location, dealing magic damage to enemies hit and slowing them by 60% for 0.5 seconds. Fire of Yang or Aqua of Yin then remains at the location for 6 seconds, dealing continuous magic damage at intervals.
+- The zone can trigger a Yin-Yang Reaction with marks of the opposite attribute.
+- The state of this skill changes on each cast (alternates between Yang and Yin). The skill starts as Yang by default. This skill shifts to Yang when Luo Yi dies.
+
+- Initial Base Damage by level: 250 / 270 / 290 / 310 / 330 / 250.
+- Continuous Damage per tick by level: 50 / 54 / 58 / 62 / 66 / 70.
+- Mana Cost by level: 120 / 130 / 140 / 150 / 160 / 170.
+- Effect type: Magic Skill, AoE zone with slowing effect and periodic damage.
 
 Notes:
-- The state of this skill starts as yang by default. The skill's state shifts to yang when Luo Yi dies.
-- This skill's behavior (Yin or Yang) alternates on each cast.
+- The remaining duration indicator of the zone is visible to both enemies and allies.
 
-## Rotation (Fire of Yang / Aqua of Yin)
+## Diversion
 
-Luo Yi summons an area at a target location, dealing instant damage to enemies hit and slowing them by 60% for 0.5 seconds. The Fire of Yang or Aqua of Yin then remains at the location for 6 seconds, dealing continuous magic damage every 0.7 seconds. It can also trigger Sigil reactions with marks of opposite attributes. The state of this skill changes on each cast.
+- Luo Yi creates a Teleport Circle around herself and marks a target location within range as its destination. After a 3 second delay, allied heroes (including Luo Yi) within the Circle will be teleported to the marked location.
+- Luo Yi’s Cooldown Reduction is increased by a percentage based on ultimate level.
 
-- Instant Base Damage by level examples: 250 / 270 / 290 / 310 / 330 (and variations in data may exist).
-- Continuous Damage every tick by level examples: 50 / 54 / 58 / 62 / 66 / 70.
-- Mana cost per level example: 120 / 130 / 140 / 150 / 160 / 170.
-
-Notes:
-- The state of this skill starts as yang by default and shifts to yang when Luo Yi dies.
-- The remaining duration indicator for the summoned area is visible to both enemies and allies.
-
-## Diversion (Ultimate)
-
-Active: Luo Yi creates a Teleport Circle around herself and marks a target location within range as its destination. After a 3 second delay, allied heroes (including herself) within the Circle will be teleported to the marked location.
-
-Passive: Luo Yi's Cooldown Reduction is increased by a percentage while the ultimate is learned.
-
-- Cooldown reduction per ultimate level: 6% / 8% / 10%.
-- Max range per ultimate level examples: 20 / 24 / 28.
-- Mana cost: 0.
+- Cooldown by level: 55.0 / 50.0 / 45.0 seconds.
+- Cooldown Reduction bonus by level: 6% / 8% / 10%.
+- Max teleport range by level: 20 / 24 / 28 units.
+- Mana Cost: 0.
 
 Notes:
-- When the circle's center is cast into a bush, the Teleport Circle on the battlefield and minimap is concealed from enemies. The circle also provides vision around the area.
+- When the center is cast into a bush, the Teleport Circle on the battlefield and minimap is concealed from enemies. The circle also provides vision around the area.
 - Allies' channeling abilities are not interrupted by the teleport. Allies affected by untargetability are also teleported.
-- Allies teleported to an unsighted bush are not instantly exposed to nearby enemies upon arrival.
-- The source lists tiered cooldown values by ultimate level (examples: 55, 50, 45 seconds).
+- Allies teleported to an unsighted bush are not instantly exposed to nearby enemies.
 
 # Trivia
 
@@ -189,3 +170,4 @@ Notes:
 - She is the first hero that can teleport teammates. Luo Yi's Ultimate (Diversion) allows her to teleport her teammates to a different location, making it one of the most game-changing mobility skills in MLBB.
 - Luo Yi was the first hero released in the "Oriental Fighters" revamp that introduced Eastern-themed lore into MLBB.
 - She is the third hero to use the concept of Yin and Yang along with other heroes.
+- Related / notable interactions: Baxia, Ling, Wanwan, Zilong, Yu Zhong, Kagura, Lunox.

@@ -1,34 +1,21 @@
-# Franco
-
 # Profile
 
-• Chinese name: 佛朗哥 (fúlǎnggē)
+- Chinese name: 佛朗哥 (fúlǎnggē)
+- Alias: Frozen Warrior
+- Origin: Northern Vale
+- Species: Human
+- Gender: Male
+- Occupation: Unnamed tribe leader
+- Affiliation: Black Shark Pirates (hostile)
+- Weapons:
+  - Iron hook
+  - Hammer
+- Battles fought: Battle of the Frozen Sea
+- Relationships: (companions), (enemies)
+- Voice actor: Nakamura Taishi (中村 大志)
 
-• Alias: Frozen Warrior
-
-• Origin: Northern Vale
-
-• Species: Human
-
-• Gender: Male
-
-• Occupation: Unnamed tribe leader
-
-• Affiliation: Black Shark Pirates (hostile)
-
-• Weapons:
-- Iron hook
-- Hammer
-
-• Battles fought: Battle of the Frozen Sea
-
-• Relationships: (companions), (enemies)
-
-• Japanese voice actor: Nakamura Taishi (中村 大志)
-
-• Base defenses:
-- Physical Defense: 25 (level 1), 135 (level 15)
-- Magic Defense: 15 (level 1), 71 (level 15)
+- Base Physical Defense: 25 (level 1) — 135 (level 15)
+- Base Magic Defense: 15 (level 1) — 71 (level 15)
 
 # Bio
 
@@ -68,49 +55,51 @@ Franco is the only warrior on the Frozen Ocean who can lead people in the fighte
 
 ## Wasteland Force
 
-If no damage is taken within 5 seconds, Franco gains 10% Movement Speed, recovers 1% per second, and begins accumulating stacks (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase the skill's damage by up to 150%.
+If no damage is taken within 5 seconds, Franco gains 10% Movement Speed, recovers 1% per second, and begins accumulating (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase the skill's damage by up to 150%.
 
 - Damage Increase Per Stack: 5% / 10% / 15% / 20% / 25% / 30% / 35% / 40% / 45% / 50%
-- Terms: Movement Speed, Max HP
+- Movement Speed: increases while passive active
+- Max HP: passive scales with Max HP recovery per second
 
 Notes:
+
 - If the stack has been consumed while the passive is active, Franco has to receive damage or the stack won't start accumulating again.
 
 ## Iron Hook
 
 Franco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing damage and dragging them to Franco.
 
-- Cooldown: 15.0 / 14.2 / 13.4 / 12.6 / 11.8 / 11.0 seconds
-- Mana cost: 135 / 140 / 145 / 150 / 155 / 160
 - Base Damage: 400 / 450 / 500 / 550 / 600 / 650
-- Terms: Physical Damage Skill, Displacement
+- Physical Damage Skill
+- Displacement: the hook pulls the target toward Franco's position
 
 Notes:
-- The hook will pull to the caster's current position, which can be extended or repositioned by movement.
+
+- The hook will pull to Franco's current position, which can be extended or repositioned by movement.
 - The hook first applies stun, then the pulling effect.
 - When the hook hits a target, it plays a different sound and lingers briefly before returning.
-- Some abilities that provide CC immunity may fail to remove the pulling effect.
+- Some CC immunity effects may fail to remove the pulling effect.
 - Fully affects invisible and concealed enemies.
 
 ## Fury Shock
 
 Franco lashes out, dealing equal to 300–450 plus 4% of his Max HP to nearby enemies and slowing them by 70% for 1.5 seconds.
 
-- Cooldown: 7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5 seconds
-- Mana cost: 40 / 45 / 50 / 55 / 60 / 65
 - Base Damage: 300 / 330 / 360 / 390 / 420 / 450
-- Terms: Physical Damage Skill, Max HP, Movement Speed
+- Physical Damage Skill
+- Max HP scaling
+- Movement Speed: slows enemies by 70% for 1.5 seconds
 
 ## Bloody Hunt
 
-Franco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing 50 / 60 / 70 physical damage per hit.
+Franco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing 50 / 60 / 70 physical damage based on skill level.
 
-- Cooldown: 62.0 / 55.0 / 45.0 seconds
-- Mana cost: 110 / 125 / 140
 - Damage Per Hit: 50 / 60 / 70
-- Terms: Suppress, Physical Damage Skill
+- Suppress: target is suppressed for 1.8 seconds
+- Physical Damage Skill
 
 Notes:
+
 - Ability ends prematurely when being crowd controlled.
 
 # Trivia

@@ -329,3 +329,12 @@ export type ConsolidatedHero = MlHeroProfile &
 	Partial<MlMatchupSummary> &
 	Partial<MlMetaSummary> &
 	Partial<MlGraphData>;
+
+export interface HeroAssets {
+	head: string;
+	head_big: string;
+	painting: string;
+	smallmap: string;
+	squarehead: string;
+	squarehead_big: string;
+}

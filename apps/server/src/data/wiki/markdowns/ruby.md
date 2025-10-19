@@ -1,5 +1,3 @@
-# Ruby
-
 # Profile
 
 - Full name: Ruby
@@ -11,10 +9,14 @@
 - Occupation: Wolf Hunter
 - Speciality: Wolf hunting
 - Weapons: Scythe
-- Relationships: Unnamed grandmother (deceased); Unnamed grandfather (deceased); (companion); Whitefang (enemy)
-- Voice actors: EN: Dina Sherman (Mecha Maiden); JA: Iwasaki Chiaki (岩崎 千明); ID: Jane Leisilla Zahara
-
-- Spell Vamp (stat): 10%
+- Relationships:
+  - Unnamed grandmother (deceased)
+  - Unnamed grandfather (deceased)
+  - (companion)
+  - Whitefang (enemy)
+- English VA: Dina Sherman (Mecha Maiden)
+- Japanese VA: Iwasaki Chiaki (岩崎 千明)
+- Indonesian VA: Jane Leisilla Zahara
 
 # Bio
 
@@ -22,13 +24,13 @@ It could have been just another peaceful night in a remote village, near the out
 
 Years earlier, Roger had saved her family from a pack of wild wolves, whom they had accidentally encountered when wandering on the Land of Dawn. His bravery took a huge toll on the wolves. Under the request from the elders in the village, Roger finally stayed to train the villagers. One day, he left the village without any notice, and no trace was to be found.
 
-What happened in the fairy tales can seldom be the same in reality. On a silent, moonless night, Pale Tusk, the new Wolf King, caught the village off guard and sneaked in with his kind. In the end, Ruby's grandfather and grandmother both died protecting Ruby, who in turn made a narrow escape by hiding under the corpse of her grandparents.
+What happened in the fairy tales can seldom be the same in reality. On a silent, moonless night, Pale Tusk, the new Wolf King, caught the village off guard and sneaked in with his kind. In the end, Ruby's grandfather and grandmother, both died, protecting Ruby, who in turn made a narrow escape by hiding under the corpse of her grandparents.
 
-No one could imagine that from the moment she witnessed her grandparents' death, her character would change completely. Outraged, she got back on her feet, picked up the scythes, and to everyone's utter shock, rushed into the pack of wolves and slaughtered almost all of them. Under the seemingly weak appearance now lay an unsettling, irritable soul. Pale Tusk was the only survivor among the wolves. Staring at the skyline, Ruby was determined to put an end to everyone responsible for the death of all those innocent and good people, including her grandparents.
+No one could imagine, that from the moment she witnessed her grandparent's death, her character would change completely. Outraged, she got back on her feet, picked up the scythes, and to everyone's utter shock, rushed into the pack of wolves and slaughtered almost all of them. Under the seemingly weak appearance now lay an unsettling, irritable soul. Pale Tusk was the only survivor among the wolves. Staring at the skyline, Ruby was determined to put an end to everyone, responsible for the death of all those innocent and good people, including her grandparents.
 
-Pale Tusk was never defeated before, but this time it came in the severest way. During an instance of the fight, Ruby hesitated to strike down the wolf; Pale Tusk seized the chance and knocked down Ruby by clawing her on the left eye. Surprisingly, Pale Tusk didn't go for the kill, but instead turned and fled.
+Pale Tusk was never defeated before, but this time it came in the severest way. But during an instance between of fight, Ruby hesitated to strike down the wolf, who seized the chance, knocked down Ruby by clawing her on the left eye. Surprisingly, Pale Tusk didn't go for the kill, but instead turned and fled.
 
-Ruby gradually regained consciousness after Pale Tusk left, but unfortunately she lost one of her eyes in the battle. Now, whenever she hears the wolves howl, her eye becomes engulfed with rage and pain.
+Ruby gradually regained consciousness after Pale Tusk left, but unfortunately, she lost one of her eye, in the battle. Now, whenever she hears the wolves howl, her eye becomes engulfed with rage and pain.
 
 # Story
 
@@ -36,65 +38,75 @@ Ruby gradually regained consciousness after Pale Tusk left, but unfortunately sh
 
 The village where Ruby lived was attacked by werewolves. At the time of crisis, Roger appeared to help them repel the werewolves. Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village.
 
-# Side Story
-
-## Glimmer Amidst the Icy Night
-
-
-
 # Abilities
 
 ## Let's Dance!
 
-Ruby gains 6% to 20% Spell Vamp (based on level) and inherits 125% Spell Vamp Ratio (Basic Attacks cannot trigger Lifesteal). After each skill cast, Ruby can dash to another location, gaining Physical and Magic Defense that scale with level for 4 seconds. This defense buff stacks up to 3 times.
+Ruby gains 6%-20% Spell Vamp (based on level) and inherits 125% Spell Vamp Ratio (Basic Attacks cannot trigger Lifesteal). After each skill cast, Ruby can dash to another location, gaining Physical & Magic Defense (scales with level) for 4 seconds. (stacks up to 3 times).
 
-- Extra hybrid defense per level (per passive data): 10.8 / 12.6 / 14.4 / 16.2 / 18 / 19.8 / 21.6 / 23.4 / 25.2 / 27 / 28.8 / 30.6 / 32.4 / 34.2 / 36
-- Stack scaling example: Extra hybrid defense at hero level 1: 10.8 / 21.6 / 32.4. Extra hybrid defense at hero level 15: 36 / 72 / 108
+- Base scale: 7.5, level: 1.5
+- Extra Hybrid Defense Per Level: 10.8 / 12.6 / 14.4 / 16.2 / 18 / 19.8 / 21.6 / 23.4 / 25.2 / 27 / 28.8 / 30.6 / 32.4 / 34.2 / 36
+- Extra Hybrid Defense (stack scaling): Extra Hybrid Defense (hero lv. 1): 10.8 / 21.6 / 32.4  Extra Hybrid Defense (hero lv. 15): 36 / 72 / 108
+
+Terms:
+- Blink
+- Spell Vamp
 
 Notes:
-- Backward dash distance is shorter than forward and sideward dashes.
-- When using an aimed skill, "front" refers to the direction the skill is facing.
-- When using Skill 2, "front" refers to the direction Ruby is facing before using the skill.
+- Backward dash distance is shorter than of forwards and sidewards.
+- When using aimed skill, "front" would be the direction of the skill is facing.
+- When using skill 2, "front" would be the direction Ruby is facing before using the skill.
 - Disabled by root.
 
 ## Be Good!
 
-Ruby swings her scythe, dealing scaling physical damage to enemies hit. She then unleashes a shockwave in the same direction, dealing additional scaling physical damage to enemies hit and slowing them by 40% for 1 second.
+Ruby swings her scythe, dealing initial physical damage based on level and Physical Attack to enemies hit. She then unleashes a shockwave in the same direction, dealing scaling physical damage based on level and Physical Attack to enemies hit and slowing them by 40% for 1 second.
 
-- Damage: scaling physical damage based on level and physical attack (see scaling below).
-- Physical bonus scaling by level: 70% / 82% / 94% / 106% / 118% / 130%.
-- Spell Vamp Ratio: 125%.
+- Skill effects: AOE, Slow
+- Spell vamp ratio: 125%
+- Physical Bonus (level scaling): 70% / 82% / 94% / 106% / 118% / 130%
 
-Terms: Physical Damage Skill; Movement Speed (slow effect).
+Terms:
+- Physical Damage Skill
+- Movement Speed
 
 ## Don't Run, Wolf King!
 
-Ruby swings her scythe twice, each swing dealing damage to nearby enemies, stunning them for 0.5 seconds, and slowly pulling them toward her.
+Ruby swings her scythe herself twice, each swing dealing scaling physical damage based on level and Physical Attack to nearby enemies, stunning them for 0.5 seconds, and slowly pulling them toward her.
 
-- Damage: base damage 60 / 85 / 110 / 135 / 160 / 185 plus 55% of physical attack.
-- Mana cost by level: 50 / 55 / 60 / 65 / 70 / 75.
-- Spell Vamp Ratio: 125%.
+- Skill effects: Crowd Control, AoE
+- Skill type: Physical Skill
+- Mana cost: 50 / 55 / 60 / 65 / 70 / 75
+- Spell vamp ratio: 125%
+- Base Damage (level scaling): 60 / 85 / 110 / 135 / 160 / 185
 
-Terms: Physical Damage Skill; Stun; Displacement.
+Terms:
+- Physical Damage Skill
+- Stun
+- Displacement
 
 ## I'm Offended!
 
-Ruby sweeps her scythe in the target direction, dealing damage to enemies hit, pulling them toward her, and stunning them for 0.5 seconds.
+Ruby sweeps scythe in the target direction, dealing scaling physical damage based on level and Physical Attack to enemies hit, pulling them toward her, and stunning them for 0.5 seconds.
 
-- Damage: base damage 200 / 340 / 480 plus 200% of physical attack.
-- Cooldown by level: 26 / 23 / 20 seconds.
-- Mana cost by level: 80 / 100 / 120.
-- Spell Vamp Ratio: 125%.
+- Skill effects: Crowd Control, AoE
+- Spell vamp ratio: 125%
+- Base Damage (level scaling): 200 / 340 / 480
+- Cooldown: 26.0 / 23.0 / 20.0
+- Mana cost: 80 / 100 / 120
 
-Terms: Physical Damage Skill; Stun; Displacement.
+Terms:
+- Physical Damage Skill
+- Stun
+- Displacement
 
 # Trivia
 
-- **Ruby** is named after the ruby gemstone, which is red and symbolizes passion, strength, and vitality. This fits her red-themed design, scythe weapon, and blood-related lifesteal abilities. The color red (ruby) also represents blood, aggression, and power, matching her vampiric lifesteal gameplay.
+- The name Ruby is named after the ruby gemstone, which is red and symbolizes passion, strength, and vitality. This fits her red-themed design, scythe weapon, and blood-related lifesteal abilities. The color red (ruby) also represents blood, aggression, and power, matching her vampiric lifesteal gameplay.
 - Her appearance might be inspired by Ruby Rose from RWBY which itself is alluded in the fairytale character Little Red Riding Hood.
 - Her story and her title "Little Red Hood" is also a reference to Little Red Riding Hood. Furthermore, in game files, she is named X, which translates to "Little Red Riding Hood" in Chinese.
 - Her original lore was retconned upon the release of the so-called "family friendly update" as the story of Ruby ripping Haas the Wolf's (later renamed to Whitefang) still beating heart and drinking its blood, as well as Ruby falling into insanity, was deemed too dark and disturbing for many young audiences of the game.
-- Old Ruby full picture: her eye patch is on the left eye but in the in-game model, it's on her right eye.
-- Ruby's eyes are blue in color but the model has green eyes.
+- Old Ruby full picture her eye patch is on the left eye but in the in-game model, it's in her right eye.
+- Ruby eyes are blue in color but the model has green eyes.
 - Ruby has one of the highest lifesteal rates in the game. Her passive (Let's Dance!) allows her to gain massive spell vamp from items and skills. With the right build, she can heal back to full HP in just a few attacks!
 - She is inspired by Little Red from Moonton's Magic Rush, which is also a clear reference to Little Red Riding Hood.

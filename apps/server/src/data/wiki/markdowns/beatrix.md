@@ -1,44 +1,28 @@
-# Beatrix
-
 # Profile
 
-### Profile
-
-- **Species:** Human
-- **Gender:** Female
-- **Occupation:**
-  - Eruditio scholar
-  - Scientist
-  - Programmer of Survival: Nexus
-
-- **Affiliation:**
-  - Eruditio
-    - Scholar's Union
-    - Eruditio Rangers
-  - Leviathan Workshop (current residence)
-
-- **Weapons:**
-  - Renner (sniper rifle)
-  - Bennett (rocket launcher)
-  - Nibiru (submachine)
-  - Wesker (shotgun)
-
-- **Battles fought:** Eruditio Crisis
-
-- **Traits:** Conceited, playful, confident, never giving up
-
-- **Likes:** Developing weird inventions
-
-- **Relationships:**
-  - Unnamed parents
-  - Morgan (butler)
-  - Dr. Rooney
-  - Octavius (enemy)
-
-- **Voice Actors:**
-  - EN: Jeannie Tirado
-  - JA: Nemoto Miyari (根本京里)
-  - ID: Jane Leisilla Zahara
+- Species: Human
+- Gender: Female
+- Occupation: *Eruditio scholar
+  *Scientist
+  *Programmer of Survival: Nexus
+- Affiliation: *Eruditio
+  **Scholar's Union
+  **Eruditio Rangers
+  **Leviathan Workshop (current residence)
+- Weapons: *Renner (sniper rifle)
+  *Bennett (rocket launcher)
+  *Nibiru (submachine)
+  *Wesker (shotgun)
+- Battles fought: Eruditio Crisis
+- Traits: Conceited, playful, confident, never giving up
+- Likes: Developing weird inventions
+- Relationships: *Unnamed parents
+  *Morgan (butler)
+  *Dr. Rooney
+  *Octavius (enemy)
+- English voice actor: Jeannie Tirado
+- Japanese voice actor: Nemoto Miyari (根本京里)
+- Indonesian voice actor: Jane Leisilla Zahara
 
 # Story
 
@@ -58,9 +42,9 @@ In order to prove her technological prowess, she raised a wild and imaginative p
 
 She felt unfairly treated, and it left her seething with rage. Without bidding farewell, Beatrix departed Eruditio and returned to her laboratory back in Castle Gorge. With Morgan's help, she utilized her family's wealth and resources and began bringing her invention concepts to reality.
 
-About half a year or so had passed, and a competition known as "Survival: Nexus" began to take Eruditio by storm. Convenient terminals allowed participants to virtually control avatars solely with their brainwaves, immersing themselves in a virtual realm. Here, they could take part in a tactical competition without any real physical harm. The creator behind this technological marvel was none other than the student who had stormed out of Eruditio just half a year earlier: Beatrix. Thanks to the enormous prize money she'd offered to the competition victor, Eruditio scholars and citizens alike were queuing up to partake in "Operation Dawnbreak".
+About half a year or so had passed, and a competition known as "Survival: Nexus" began to take Eruditio. Convenient terminals allowed participants to virtually control avatars solely with their brainwaves, immersing themselves in a virtual realm. Here, they could take part in a tactical competition without any real physical harm. The creator behind this technological marvel was none other than the student who had stormed out of Eruditio just half a year earlier: Beatrix. Thanks to the enormous prize money she'd offered to the competition victor, Eruditio scholars and citizens alike were queuing up to partake in "Operation Dawnbreak".
 
-Beatrix watched on with glee as her prized project dominated over the conservative thinkers of the Scholars' Union. But then, disaster struck. The network of terminals she designed was maliciously hacked into by the nefarious Laboratory 1718. Everyone neurologically connected into the system were now under their control, and Laboratory 1718 stole the Iron Guardians: a robot army that had been sealed underground, beneath the Eruditio Congress Building.
+Beatrix watched on with glee as her prized project dominated over the conservative thinkers of the Scholars' Union. But then, disaster struck. The network of terminals she designed was maliciously hacked into by the nefarious Laboratory 1718. Everyone neurologically connected into the system were now under their control, and Laboratory 1718 stole the "Iron Guardians": a robot army that had been sealed underground, beneath the Eruditio Congress Building.
 
 Those trapped within the terminals were linked to these robots. With their consciousness still immersed in the virtual battles and unaware of the real world, they led the robot army to wreak destruction upon the streets of Eruditio. The ultra-advanced technological capital was plundered and plunged into an unprecedented crisis.
 
@@ -76,119 +60,115 @@ Responsible for averting a crisis in Eruditio, Beatrix finally earned herself an
 
 ## Lethal Nexus
 
-Beatrix's theoretical proposition was not accepted. She felt unfairly treated. Without bidding farewell, Beatrix departed Eruditio and returned to her laboratory back in Castle Gorge. With Morgan's help, she utilized her family's wealth and resources and began bringing her invention concepts to reality. About half a year or so had passed, the "Survival: Nexus" competition began to take Eruditio by storm. Convenient terminals allowed participants to virtually control avatars solely with their brainwaves, immersing themselves in a virtual realm. The creator behind this technological marvel was none other than the student who had stormed out of Eruditio just half a year earlier: Beatrix. Thanks to the enormous prize money she'd offered to the competition victor, Eruditio scholars and citizens alike were queuing up to partake in "Survival: Nexus". Beatrix watched on with glee as her prized project proved the conservative thinkers of the Scholars' Union. But then, disaster struck.
+Beatrix's theoretical proposition was not accepted. She felt unfairly treated. Without bidding farewell, Beatrix departed Eruditio and returned to her laboratory back in Castle Gorge. With Morgan's help, she utilized her family's wealth and resources and began bringing her invention concepts to reality. About half a year or so had passed, the "Survival: Nexus" competition began to take Eruditio by storm. Convenient terminals allowed participants to virtually control avatars solely with their brainwaves, immersing themselves in a virtual realm. The creator behind this technological marvel was none other than the student who had stormed out of Eruditio just half a year earlier: Beatrix. Thanks to the enormous prize money she'd offered to the competition victor, Eruditio scholars and citizens alike were queuing up to partake in "Survival: Nexus". Beatrix watched on with glee as her prized project proves the conservative thinkers of the Scholars' Union. But then, disaster struck.
 
 # Abilities
 
 ## Mechanical Genius
 
-Her extraordinary talent in the field of mechanics allowed Beatrix to produce four weapons of truly awe-inspiring firepower. She can switch between different weapons which change her Basic Attack behavior and Ultimate.
+Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower.
 
-- Basic Attack behavior (summary of weapon-specific damage values):
-  - Renner (sniper rifle) Basic Attack Damage: 360% / 372.5% / 385% / 397.5% / 410% / 422.5% / 435% / 447.5% / 460% / 472.5% / 485% / 497.5% / 510% / 522.5% / 535%.
-  - Bennett (grenade launcher) Basic Attack Damage: 180% / 190% / 200% / 210% / 220% / 230% / 240% / 250% / 260% / 270% / 280% / 290% / 300% / 310% / 320%.
-  - Wesker (shotgun) Basic Attack Damage: 125% / 130% / 135% / 140% / 145% / 150% / 155% / 160% / 165% / 170% / 175% / 180% / 185% / 190% / 195% (fires 5 shots at the target; damage to repeated hits on the same target decays).
-  - Nibiru (submachine) Basic Attack Damage: 50% / 51.25% / 52.5% / 53.75% / 55% / 56.25% / 57.5% / 58.75% / 60% / 61.25% / 62.5% / 63.75% / 65% / 66.25% / 67.5% (lets loose a volley of 4 shots).
+- Basic Attack: Fire a powerful shot in the enemy's current direction, dealing damage to the first target hit (this shot can be dodged, or blocked by others. Deals reduced damage to creeps). Beatrix cannot fire automatically while moving and converts every 1% of an unspecified stat gained into 2 of another stat.
+
+- Renner (sniper rifle) Basic Attack Damage: 360% / 372.5% / 385% / 397.5% / 410% / 422.5% / 435% / 447.5% / 460% / 472.5% / 485% / 497.5% / 510% / 522.5% / 535%.
+
+- Bennett (rocket launcher) Basic Attack: Choose a location to bombard, dealing damage to all enemies in that area and slowing them by 30% for 0.5 second (reduced damage to creeps). Basic Attack Damage: 180% / 190% / 200% / 210% / 220% / 230% / 240% / 250% / 260% / 270% / 280% / 290% / 300% / 310% / 320%.
+
+- Wesker (shotgun) Basic Attack: Fire 5 shots at the target, each one dealing damage (damage to targets hit multiple times decays). Basic Attack Damage: 125% / 130% / 135% / 140% / 145% / 150% / 155% / 160% / 165% / 170% / 175% / 180% / 185% / 190% / 195%. Decay ratio information: second shot reduced to 70%, third and subsequent shots have a fixed decay; can be triggered up to 5 times per use.
+
+- Nibiru (submachine) Basic Attack: Let loose a volley of 4 shots, each one dealing damage (reduced damage to creeps). Basic Attack Damage: 50% / 51.25% / 52.5% / 53.75% / 55% / 56.25% / 57.5% / 58.75% / 60% / 61.25% / 62.50% / 63.75% / 65% / 66.25% / 67.5%.
 
 Notes:
-- Some basic attack variants can be dodged or blocked by other heroes and creeps.
-- Certain basic attack effects apply reduced benefits in some cases (for example, area effects may deal half damage to certain targets).
-- Additional specific decay ratios, lifesteal interactions, and special case notes exist depending on weapon and interaction (refer to weapon-specific ability details).
+- She can only automatically fire an Outer Turret Shield whilst stationary.
+- Area Bombing and Proximity Advantage only benefit 50% in certain unspecified contexts.
+- Some effects mention conversions and reductions to other mechanics; the source text contains placeholders for those values.
 
 ## Masterful Gunner
 
-Cooldown per level: 12 / 11 / 10 / 9 / 8 / 7 seconds.
+Passive and active skill. Beatrix can carry 2 weapons at once, and increase her physical attack by 5–30. Beatrix takes 0.6 second to swap her primary weapon with the secondary weapon she has slung over her back, gaining an all-new way to attack and Ultimate.
 
-Beatrix can carry two weapons at once, and increase her Physical Attack by 5–30 depending on skill level. Beatrix takes 0.6 second to swap her primary weapon with the secondary weapon she has slung over her back, gaining an all-new way to attack and a changed Ultimate.
+- Physical Attack bonus per level: 5 / 10 / 15 / 20 / 25 / 30.
 
-- Physical Attack increase per level: 5 / 10 / 15 / 20 / 25 / 30.
-
-This skill functions as both a passive (allowing two weapons to be carried) and an active swap (morph) with a short swap time.
+Cooldown: 12 / 11 / 10 / 9 / 8 / 7 seconds (values per skill level).
 
 ## Tactical Reposition
 
-Cooldown per level: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds.
+Skill effects: Blink and BUFF. Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds (values per skill level).
 
-Behavior depends on the currently equipped weapon:
+Description: Beatrix drops and rolls forward; leaps and nimbly forward; rolls ahead sideways; slides forward and fully reloads her current weapon.
 
-- Renner: drops and rolls forward.
-- Bennett: leaps and nimbly forward.
-- Wesker: rolls ahead sideways.
-- Nibiru: slides forward and fully reloads her current weapon.
+## Need Backup
 
-This skill functions as a blink and provides a buff effect depending on the weapon used.
+Having escaped battle for 3 seconds, Beatrix can call for her butler Morgan to provide her with a backup weapons crate. Beatrix must then choose two weapon from the crate to serve as her primary and secondary. Her weapon selection is interrupted if she commits any action or is interrupted during this period.
+
+Notes:
+- Selecting only one weapon before the skill is cancelled will switch her primary weapon but will keep the same secondary weapon she previously has.
 
 ## Renner's Apathy
 
-Cooldown per level: 24.0 / 21.0 / 18.0 seconds.
-
-Beatrix wields Renner calmly upon the battlefield, aiming at the enemy. When releasing the skill, she deals burst physical damage to the first enemy hit. This skill gets 50% (scaling), but is not affected by certain other modifiers. Beatrix can aim up to 20 seconds.
+Beatrix wields Renner calmly upon the battlefield, aiming at the enemy. When releasing the skill, she deals base damage to the first enemy hit. This skill gets increased damage from certain modifiers, but is not affected by others. Beatrix can aim up to 20 seconds.
 
 Notes:
 - This shot can be dodged or blocked by other heroes and creeps.
-- The bullet penetrates through minions and deals the same damage to each.
+- The bullet penetrates through minions and deals the same damage.
 - Renner's Apathy initially starts with the aim wobbling left to right until it settles down to the center.
 - A laser sight attached turns on when activating this skill.
 - It can be manually cancelled and the skill will not go on cooldown if cancelled.
 
 ## Bennett's Rage
 
-Cooldown per level: 40.0 / 35.0 / 30.0 seconds.
-
-Beatrix focuses her rage, and has Bennett rain down a bombardment in a set area 5 times. Each bombardment slows the target by 30% and deals physical damage to enemies hit. Damage to the same target decays when hit multiple times. This skill gets 25% (scaling), but is not affected by certain other modifiers.
+Beatrix focuses her rage, and has Bennett rain down a bombardment in a set area 5 time(s). Each bombardment slows the target by 30% and deals base damage to enemies hit (this damage decays when hitting the same target multiple times, lasting 1 second). This skill gets increased damage from certain modifiers, but is not affected by others.
 
 - Base Damage per wave: 580 / 780 / 980.
-- Decay Ratio per successive bombardment on the same enemy: (100%, 20%, 20%, 20%, 20%).
+- Decay Ratio for successive hits: 100%, 20%, 20%, 20%, 20%.
 
-Notes:
-- Damage decay applies to repeated hits on the same target.
+Cooldown: 40 / 35 / 30 seconds (values per skill level).
 
 ## Wesker's Elation
 
-Cooldown per level: 24.0 / 21.0 / 18.0 seconds.
+Beatrix raises Wesker and fires off ultra-bullets that deal damage each time they hit an enemy (the damage of successive hits on the same enemy decays but falls no lower than a floor value). This skill gets increased damage from certain modifiers, but is not affected by others.
 
-Beatrix raises Wesker and fires off ultra-bullets that deal physical damage each time they hit an enemy. The damage of successive hits on the same enemy decays but falls no lower than a minimum ratio.
-
-- Base Damage per shot: 295 / 370 / 445.
-- Decay Ratio per successive hit: (100%, 75%, 50%, 25%, 25%).
+- Base Damage: 295 / 370 / 445.
+- Decay Ratio: 100%, 75%, 50%, 25%, 25%.
 
 Notes:
 - The shots can be dodged, or blocked by others.
 
+Cooldown: 24.0 / 21.0 / 18.0 seconds (values per skill level).
+
 ## Nibiru's Passion
 
-Cooldown per level: 40.0 / 35.0 / 30.0 seconds.
+Beatrix squeezes the trigger to greet oncoming enemies with a 6-shot volley from Nibiru, inflicting damage to each hit. This skill gets increased damage from certain modifiers, but is not affected by others.
 
-Beatrix squeezes the trigger to greet oncoming enemies with a 6-shot volley from Nibiru, inflicting physical damage to each hit. This skill gets 25% (scaling), but is not affected by certain other modifiers.
-
-- Base Damage per shot: 200 / 260 / 320.
+- Base Damage: 200 / 260 / 320.
 
 Notes:
-- This ability is a focused cast. If Beatrix is affected by crowd control, displaced by any means, or uses certain actions, the ability is canceled.
+- This ability is a focused cast. If Beatrix is affected by crowd control, or displaced by any means, the ability is canceled.
 
-## Need Backup
-
-Having escaped battle for 3 seconds, Beatrix can call for her butler Morgan to provide her with a backup weapons crate. Beatrix must then choose two weapons from the crate to serve as her primary and secondary. Her weapon selection is interrupted if she commits any action or is affected by crowd control during this period.
-
-Notes:
-- Selecting only one weapon before the skill is cancelled will switch her primary weapon but will keep the same secondary weapon she previously had.
+Cooldown: 40.0 / 35.0 / 30.0 seconds (values per skill level).
 
 # Trivia
 
-- The name Beatrix came from the name Viatrix, originated from Late Latin name Viator, meaning "Voyager" or "Traveler".
+- - The name Beatrix came from the name Viatrix, originated from Late Latin name Viator, meaning "Voyager" or "Traveler".
 - In the New Arrival Shop, Beatrix's hero description is "A gifted crack shot with a variety of strong and lively weapons".
 - According to one of the tips during her in-game loading screen, carrying different weapons puts Beatrix in different moods; explaining her different voice tones when picking up certain weapons.
-- Beatrix is represented by different emoticon-inspired expressions depending on weapon/mood, which inspired the names and tone of some of her Ultimates.
+- Beatrix is represented by multiple emotive representations for her ultimates: grinning, winking with tongue-out, expressionless or apathetic, and pouting or angry, corresponding to her different Ultimate names and moods.
 - According to her Lethal Nexus character page, Beatrix is 17 years old and develops weird inventions for a hobby.
 - According to a question in April 2021's Trial of Knowledge, Beatrix dislikes the number four.
 - Beatrix is the first hero with different multiple dying animations (up to four).
-- Some of Beatrix's dying animations vary depending on weapon and state (examples: knocked down into a crawling position, quickly knocked flat on her back, slowly fall backwards and lie on her left side, kneel then lie face down).
-- Beatrix's skills do not benefit from certain modifiers but do benefit from others; some specific interactions and conversions exist between stats in her kit.
+- Beatrix's skills do not benefit from certain unspecified stats, but benefit from others instead.
+- Beatrix is one of the heroes in the game whose skills benefit from spell vamp and physical lifesteal.
+- Beatrix is the fifth hero in the game whose passive converts a stat to another stat.
+- Beatrix is the second hero without certain unspecified stats; the first being another unnamed hero.
+- Beatrix is the fourth hero who can attack turrets from outside their range, using certain abilities.
+- Using certain skills, Beatrix is the second hero whose ultimate requires manual aiming, the first being another hero.
+- Beatrix is the second with bullets reloading mechanism, the first being another hero.
 - Including Survival: Nexus and Ravage mode, Beatrix has a total of 10 weapons.
-- Beatrix's weapons include a pair of unnamed weapons, a heavy machine gun, a boomerang, a laser gun, an energy gun, a flamethrower, and a sword. Aside from a few named weapons, the rest have no known names.
-- Beatrix was originally called Boudicca during development.
-- In the Advanced Server, one of her abilities was previously a circular AoE Damage skill before being revamped.
-- Beatrix's previous line for an Ultimate was italicized as "Bullets around!" before being replaced by its current line.
+- Beatrix's weapons are a pair of unnamed items, a heavy machine gun, a boomerang, a laser gun, an energy gun, a flamethrower, and a sword; aside from a few named ones, the rest currently have no known names.
+- Beatrix was originally called Boudicca.
+- In the Advanced Server, one of her skills was previously a circular AoE damage skill before being revamped.
+- Beatrix's previous line of the Ultimate was "Bullets around!" before being replaced by its current line.
+- Beatrix originally gave a salute with her right hand and did not wield any weapon at the end of her hero animation; this was changed so she now salutes with her left hand while wielding a weapon in her right.
 - Beatrix was born in Castle Gorge within the Moniyan Empire, but currently resides in Eruditio.
-- Her 'X Factor' lexically refers to a noteworthy special talent/quality and also a variable in a given situation that could have the most significant impact on the outcome.
-- One of her skill names during testing ('Blitz Attack') was originally called 'Hawkeye Bolt' in the Advanced Server.
+- The name of Beatrix's 'X Factor' lexically refers to a noteworthy special talent/quality and also a variable in a given situation that could have the most significant impact on the outcome.
+- Her Blitz Attack was originally called Hawkeye Bolt during tests in the Advanced Server.

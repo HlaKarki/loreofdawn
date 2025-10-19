@@ -1,10 +1,8 @@
-# Diggie
-
 # Profile
 
-- Name: Diggie
-- Aliases: *Timekeeper
-*Intellectual Owl
+Diggie
+
+- Aliases: *Timekeeper*, *Intellectual Owl*
 - Origin: Eruditio, Agelta Drylands
 - Age: 15
 
@@ -22,11 +20,9 @@ Diggie is a scholar from Eruditio. With his "Time Nest" Diggie can turn back tim
 
 # Side Story
 
-## Mastermind of the Eruditio Rangers
+## Eruditio Crisis
 
 > "Although the little owl Diggie is small in stature, it is the wise of the Eruditio Rangers. When the entire Eruditio was thrown into crisis, Diggie not only served as a mastermind, but also waved his small wings to pass information. Thanks to him, Layla and the others finally reunited successfully."
-
-Eruditio's lore has been revamped on July 2023.
 
 # Abilities
 
@@ -34,93 +30,84 @@ Eruditio's lore has been revamped on July 2023.
 
 Upon death, Diggie reverses time and turns to egg form, in which he can continue to move around and gains a new set of skills. He cannot be targeted in egg form and will revive after a period of time.
 
-- Untargetable (egg form)
-- Invincible (egg form)
+- Untargetable
+- Invincible
 
 Notes:
 
-- Diggie provides vision in egg form.
+- Diggie provides vision on egg form.
 - Diggie will receive 75 extra movement speed during egg form.
-- Item unique passives are disabled in egg form.
+- Item unique passives are disabled on egg form.
 - There will be a 2-second delay to fully control Diggie after death or revival.
-- Diggie will be vulnerable to attacks 1 second after reviving.
+  - Diggie will be vulnerable to attacks 1 second after reviving.
 
 Bugs:
 
-- Guardian Helmet unique passive Recovery works during egg form.
+- Guardian Helmet Unique Passive-Recovery works during egg form.
 
 ## Auto Alarm Bomb
 
-Description (Default):
+Diggie flings an owl alarm to the target location. The alarm will then remain stationary for 25 seconds or until it reacts to the first enemy in range, chasing them and exploding upon collision. The explosion deals Base Damage: 500 / 520 / 540 / 560 / 580 / 600 plus 100% magic power to nearby enemies and slows them by 30%.
 
-Diggie flings an owl alarm to the target location. The alarm will then remain stationary for 25 seconds or until it reacts to the first enemy in range, chasing them and exploding upon collision. The explosion deals magic damage to nearby enemies and slows them by 30%.
+- Diggie gains 2 stacks of Dangerous Sparks each time an enemy hero is hit by the explosion (up to 60 stacks). Each stack increases the skill's damage by 1% (up to 60%).
+- Diggie loses half the stacks upon death, but can gain 1 stack of Dangerous Sparks each time his skill hits an enemy hero when in the egg form.
+- Up to 5 owl alarms can exist at the same time.
 
-- Cooldown (default): 8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0 seconds
-- Mana cost (default): 70 / 80 / 90 / 100 / 110 / 120
-- Base Damage (default): 500 / 520 / 540 / 560 / 580 / 600
-- Extra skill damage per Dangerous Sparks stack: increases skill damage by 1% per stack (up to 60 stacks)
-- Diggie gains 2 Dangerous Sparks stacks each time an enemy hero is hit by the explosion (up to 60 stacks)
-- Diggie loses half the stacks upon death, but can gain 1 stack each time his skill hits an enemy hero when in egg form
-- Up to 5 owl alarms can exist at the same time
-- When thrown into an enemy unit, the owl alarm detonates immediately rather than chasing the enemy
-- Properties: Spell Vamp Ratio: 50%
+Cooldown and Mana Cost (per original values): 8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0 seconds. Mana cost: 70 / 80 / 90 / 100 / 110 / 120.
 
-Notes and scaling:
+Notes:
 
-- Total damage scales with Diggie's magic power (scaling damage based on level and stats).
-- Stacking up Dangerous Sparks for each egg form skill has a 1 second cooldown.
-- There is a limit to the number of stacks and maximum extra damage from stacks is 60%.
+- Stacking up Dangerous Sparks for each egg form skills has 1 second cooldown.
+- When thrown into an enemy unit, the owl alarm detonates immediately rather than chasing the enemy as a ward.
+- Spell Vamp Ratio: 50%.
 
-Egg Form (alternate behavior):
+Egg Form:
 
-- In egg form, Diggie can still use versions of his skills that deal small amounts of damage. Egg form skills can stack Dangerous Sparks as described above.
-
-Other:
-
-- The skill can deal multiple hits in certain animations and interactions; these occurrences are noted in game as repeated small hits.
+- Egg form variants of the skill have their own behavior and damage scaling. The skill can deal multiple hits depending on ability specifics.
 
 ## Reverse Time
 
-Reverse Time (Default):
+Diggie marks a target enemy hero for 4 seconds and pulls them back to their previous location after the duration ends, dealing damage and slowing it by 80%. If the enemy moves out of the circle, the pull will be triggered easily.
 
-Diggie marks a target enemy hero for 4 seconds and pulls them back to their previous location after the duration ends, dealing magic damage and slowing them by 80%. If the enemy moves out of the circle, the pull will be triggered earlier.
+- Base Damage: 150 / 200 / 250 / 300 / 350 / 400.
+- Cooldown: 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds.
+- Mana Cost: 90.
 
-- Cooldown: 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds
-- Mana cost: 90
-- Base Damage: 150 / 200 / 250 / 300 / 350 / 400
+Terms:
 
-Egg Form (Egg Dance):
+- Magic Skill
+- Movement Speed
 
-Diggie happily dances his hometown jig, dealing a small amount of damage to enemies.
+Egg Form - Egg Dance:
 
-- Cooldown (egg): 5.0 seconds
-- Egg form damage is smaller and can hit multiple times depending on the animation (can deal up to 10 small hits in some interactions).
+- Diggie happily dance his hometown jig, dealing a small amount of damage to enemies.
+- The egg form attack can deal multiple hits (original notes indicate up to 10 times).
 
 ## Time Journey
 
-Time Journey (Ultimate):
-
 Diggie removes all debuffs on nearby allied heroes (including himself) and grants them Control Immunity for 3 seconds. He also gains 50% Movement Speed for 0.5 seconds.
 
-- Cooldown: 76.0 / 70.0 / 64.0 seconds
-- Mana cost: 130 / 150 / 170
-- Base Shield: 650 / 765 / 880 (applies as a shield on allies)
-- Grants Control Immunity for 3 seconds to nearby allies and removes debuffs
+- Base Shield: 650 / 765 / 880.
+- Cooldown: 76.0 / 70.0 / 64.0 seconds.
+- Mana Cost: 130 / 150 / 170.
 
-Egg Form (Victory Prayer):
+Terms:
 
-Diggie rolls on the ground, praying for the enemy's base to explode immediately. They say it's impossible to happen.
+- Control Immunity
+- Shield
 
-- Cooldown (egg): 5.0 seconds
-- Egg form variants are humorous and deal small amounts of damage in certain animations (can deal up to 12 small hits in some interactions).
+Egg Form - Victory Prayer:
+
+- Diggie rolls on the ground, praying for the enemy's base to explode immediately. They say it's impossible to happen.
+- The egg form variant notes indicate multi-hit interactions (original notes indicate up to 12 times).
 
 # Trivia
 
 - He,, , and  are the only anthropomorphous heroes in the game.
 - His design is inspired by owls, symbolizing wisdom and intelligence.
-- Diggie held the record for longest gap between hero release and new skin at almost 18 months (November 2017 - May 2019), but this record was later broken by a different hero.
+- Diggie held the record for longest gap between hero release and new skin at almost 18 months (November 2017 - May 2019), but this record was later broken by, who has not had a new skin ever since he was released in January 2019 (Cerulean Wind) and was offcialy announched in January 2021 (Kannagi).
 - Diggie is the only hero where he can still be controlled by the player, even upon death.
 - His in-game file name is "digger".
 - Although Diggie description says it is a male, he is voiced by a female voice actor, Feena Glynn.
-- His voicelines "I have a clumsy new apprentice called Einstein" is a reference to a famous scientist named Albert Einstein.
+- His voicelines. "I have a clumsy new apprentice called Einstein", is a reference to a famous scientist named Albert Einstein.
 - He has voicelines that break the fourth wall.

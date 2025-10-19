@@ -1,25 +1,31 @@
-# Novaria
-
 # Profile
 
-- Full Name: Novaria
-- Alias: Star Rebel
-- Origin: Eruditio
-- Species: Half-Human, Half-Star
-- Gender: Female
-- Weapons: Star Magic
-- Abilities: Astral Sphere manipulation
-- Relationships:
-  - Unnamed mother (fate unknown)
-  - (student)
-  - (companion)
-- Japanese VA: Yuu Sakuragi (桜木 夕)
+Full Name: Novaria
+
+Alias: Star Rebel
+
+Origin: Eruditio
+
+Species: Half-Human, Half-Star
+
+Gender: Female
+
+Weapons: Star Magic
+
+Abilities: Astral Sphere manipulation
+
+Relationships:
+- Unnamed mother (fate unknown)
+- (student)
+- (companion)
+
+Voice Actor: Yuu Sakuragi (桜木 夕)
 
 # Story
 
 > "Tap the link to know more stories of Novaria from her bio "The Nova". Together, let's witness her rebelling journey against the stars and how she brings back the destiny that they had stolen!"
 
-MLBB social media post promoting Novaria's bio
+- MLBB social media post promoting Novaria's bio
 
 Novaria woke up in the silence of the night. She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas.
 
@@ -109,7 +115,7 @@ Novaria felt something stirring in her heart, something she hadn't felt since th
 
 > "No creature could..."
 
-Or could they...? 
+Or could they...?
 
 The last hope was kindled in Novaria's heart. A great explosion lit up the sky in a magnificent spectacle. It was that star! For her to shatter a star... it was unthinkable! She had challenged destiny by her own will. The stars were no longer arrogant; they began to tremble at the sight of such power. The astral rings that shackled Novaria trembled as well. This was her chance.
 
@@ -131,61 +137,63 @@ Novaria shook off the star fragments and walked towards the dawn.
 
 ## Star Trail
 
-- Description: Star Trail summoned by Novaria will continuously slow nearby enemies by 20% and grant vision of them for 2 seconds.
-- Base Damage: 260 / 285 / 310 / 335 / 360 / 385 (damage based on level and stats)
+Novaria's summoned Astral Spheres will continuously slow nearby enemies by 20% and grant vision of them for 2 seconds.
+
+- Base Damage by level (when applicable): 260 / 285 / 310 / 335 / 360 / 385
 - Extra Percentage Damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%
 
-Notes:
-- The passive is tied to Astral Spheres summoned by Novaria.
-- Values scale with ability level and Novaria's stats.
+Damage and effects scale with ability level and Novaria's stats.
 
 ## Astral Meteor
 
-- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
-- Mana Cost: 60 / 70 / 80 / 90 / 100 / 110
-- Description: Novaria summons an Astral Sphere at the target location, continuously dealing damage to nearby enemies six times. After 2 seconds, the sphere will explode, dealing burst damage to nearby enemies, and increasing Astral Sphere's slow effect to 2.5 times the original slow effect (50% slow).
-- Base Damage (per tick): 75 / 90 / 105 / 120 / 135 / 150
-- Final Explosion Base Damage: 260 / 285 / 310 / 335 / 360 / 385 (damage based on level and stats)
+Novaria summons an Astral Sphere at the target location. The sphere continuously deals scaling damage to nearby enemies six times. After 2 seconds, the sphere will explode, dealing a final burst to nearby enemies and increasing Astral Sphere's slow effect to 2.5 times the original slow effect (50% slow).
+
+- Cooldown by level: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
+- Mana Cost by level: 60 / 70 / 80 / 90 / 100 / 110
+- Base Damage (per tick) by level: 75 / 90 / 105 / 120 / 135 / 150
+- Final Base Damage by level: 260 / 285 / 310 / 335 / 360 / 385
 - Extra Percentage Damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%
 
 Notes:
-- The damage, excluding the final one, reveals enemies until they exit the area of effect. The final damage reveals heroes for 2 seconds.
-- The skill applies an AoE slow that is amplified on explosion.
+- The damage, excluding the final one, reveals enemies until they leave the area of effect.
+- The final damage reveals hero targets for 2 seconds.
+- Damage and reveal durations scale with ability level and stats.
 
 ## Astral Recall
 
-- Cooldown: 8.0 seconds
-- Mana Cost: 120 / 150 / 180 / 210 / 240 / 270
-- Description: Novaria summons an Astral Sphere at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall increases the Movement Speed bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy hero, dealing damage. The damage increases based on the Astral Sphere's travel distance (starting from when the sphere is summoned) up to 2.5 times the original.
-- Base Damage: 260 / 285 / 310 / 335 / 360 / 385 (damage based on level and stats)
+Novaria summons an Astral Sphere at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall increases the Movement Speed bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy hero, dealing damage. The damage increases based on the Astral Sphere's travel distance (starting from when the sphere is summoned) up to 2.5 times the original.
+
+- Mana Cost by level: 120 / 150 / 180 / 210 / 240 / 270
+- Base Damage by level: 260 / 285 / 310 / 335 / 360 / 385
 - Extra Percentage Damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%
-- Damage Increase per distance step: 15% / 30% / 45% / 60% / 75% / 90% / 105% / 120% / 135% / 150%
+- Damage Increase per succeeding distance (stacks): 15% / 30% / 45% / 60% / 75% / 90% / 105% / 120% / 135% / 150%
 
 Notes:
-- Enemies will be revealed for a short amount of time (duration needed) when passed by the returning Astral Sphere. No eye mark if it doesn't hit them.
+- Enemies will be revealed for a short amount of time when passed by the returning Astral Sphere.
 - The game camera zooms out during the skill duration.
 - If Astral Recall ends when Novaria is inside an obstacle, she will be displaced to the nearest valid point.
-- Novaria cannot go beyond the battlefield for an unspecified distance within the skill duration.
-- Novaria can recall during the skill duration, but it will be interrupted when she receives the Astral Sphere, or when the skill duration ends while she is inside an obstacle.
-- Its damage increases by 15% for each unknown succeeding distance (duration unknown).
-- It deals up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000 to non-hero units.
-- Novaria speeds up by 60% when passing through obstacles and can gain more stacks when passing through obstacles.
+- Novaria cannot go beyond the battlefield for an unspecified amount of distance while the skill is active.
+- Recalling can be interrupted if she receives the Astral Sphere or if the skill duration ends while she is inside an obstacle.
+- Damage to non-hero units can reach up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000.
+- Novaria gains a 60% movement speed bonus when passing through obstacles and can gain additional stacks when passing through multiple obstacles.
 - Assisted Aiming Mode is disabled by default on this skill.
 - Passing by obstacles increases speed once per cast.
-- When she passes by the obstacle, her model also has an embedding background.
-- The inner edge of destroyed turrets and similar objects are also obstacles.
-- Certain unspecified mechanics do not prevent retrieval in any way.
+- Certain destroyed structures and obstacle edges count as obstacles for the purpose of passing through.
+
+All durations and damage scale with ability level and Novaria's stats.
 
 ## Astral Echo
 
-- Cooldown: 45.0 / 40.0 / 35.0 seconds
-- Mana Cost: 150 / 75 / 0
-- Description: Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% for approximately 0.8 seconds while applying a mark on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 5 seconds.
+Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% for approximately 0.8 seconds while applying a mark on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 5 seconds.
+
+- Cooldown by level: 45.0 / 40.0 / 35.0 seconds
+- Mana Cost by level: 150 / 75 / 0
+- Hitbox increase does not extend enemy ability range.
 
 Notes:
-- The ability has a distance of 23 units.
-- Allies can get an assist from an enemy marked by the Astral Echo.
-- Hitbox increase does not increase enemy ability range.
+- The ability has a travel distance of 23 units.
+- Allies can gain assists from enemies marked by Astral Echo.
+- Hitbox increase does not increase enemy ability ranges.
 
 # Trivia
 

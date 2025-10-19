@@ -1,8 +1,6 @@
-# Cici
-
 # Profile
 
-They are the faces of MLBB Season 31: Beats.
+### Profile
 
 - Chinese name: 茜茜 (xīxī)
 - Origin: Castle Aberleen, Moniyan Empire
@@ -14,17 +12,17 @@ They are the faces of MLBB Season 31: Beats.
   - Member of Whimsical Wonders theater troupe
 - Weapons: Yoyo
 - Height: 160cm
-- Traits: Extroverted, Intuitive Feeling and Perceiving (ENFP) Full of Energy, Extremely Optimistic
+- Traits: Extroverted, Intuitive Feeling and Perceiving (ENFP), Full of Energy, Extremely Optimistic
 - Relationships: Yoyo (companion)
-- English VA: Madeline Dorroh
+- English voice actress: Madeline Dorroh
+
+A cheerful performer who spreads fun and wonderment wherever she goes.
 
 # Story
 
 > "A cheerful performer who spreads fun and wonderment wherever she goes."
 
-Cici, the lead act of the Whimsical Wonders theater troupe, accompanied by her magical companion Yoyo, embarked on their annual tour. She chose Castle Aberleen, the city where her aunt was once called the Queen of Revelry, as her first destination. But upon arrival, Cici discovered that the city had forbidden unsanctioned performances of any kind, especially folk performances, and her aunt had been exiled when the law was enacted. Undaunted, she resolved to bring fun and wonderment back to the city.
-
-Inspired by her spirit, the long-muted performers of Castle Aberleen emerged from the shadows and took part in the most magnificent show the castle has ever witnessed.
+Cici, the lead act of the Whimsical Wonders theater troupe, accompanied by her magical companion Yoyo, embarked on their annual tour. She chose Castle Aberleen, the city where her aunt was once called the Queen of Revelry, as her first destination. But upon arrival, Cici discovered that the city had forbidden unsanctioned performances of any kind, especially folk performances, and her aunt had been exiled when the law was enacted. Undaunted, she resolved to bring fun and wonderment back to the city. Inspired by her spirit, the long-muted performers of Castle Aberleen emerged from the shadows and took part in the most magnificent show the castle has ever witnessed.
 
 # Side Story
 
@@ -54,9 +52,7 @@ Yoyo, her magical companion, and in many ways the brains of the operation, broug
 
 Yoyo followed behind, leaving a trail of stardust.
 
-Oh, Cici, my Cici. This year's tour shall undoubtedly be the grandest of them all. Now follow me, camera! Let us step into Castle Aberleen! Castle Aberleen, a place most ominous and chilling. This did not, however, deter Miss Cici in the slightest. After a few rambunctious calls from her, curious children emerged from every nook and cranny and followed. Shortly after, her renowned performance began to unfold.
-
-She tossed Yoyo soaring into the sky for what seemed like an eternity before it came rolling back on the string to her hand. She leapt from spot to spot, as if walking on clouds, while twirling Yoyo. on this night, the stars were a humble witness to their majestic presence.
+Oh, Cici, my Cici. This year's tour shall undoubtedly be the grandest of them all. Now follow me, camera! Let us step into Castle Aberleen! Castle Aberleen, a place most ominous and chilling. This did not, however, deter Miss Cici in the slightest. After a few rambunctious calls from her, curious children emerged from every nook and cranny and followed. Shortly after, her renowned performance began to unfold. She tossed Yoyo soaring into the sky for what seemed like an eternity before it came rolling back on the string to her hand. She leapt from spot to spot, as if walking on clouds, while twirling Yoyo. on this night, the stars were a humble witness to their majestic presence.
 
 Applause thundered through the streets of Castle Aberleen. The show was a smashing success by any measurement, but why do I have this unsettling feeling? Ever since I followed Miss Cici into the city, a red-eyed raven has been circling overhead...
 
@@ -68,7 +64,7 @@ Following Miss Cici's gaze, I spun around and saw the strange shop. Everything l
 
 > "What happened here? Are you a performer?"
 
-The old man reached for the sunflower pendant hanging around Cici's neck, the symbol of the Whimsical Wonders Troupe that every member possessed.
+The old man reached for the sunflower pendant hanging around Cici's neck, the symbol of the Whimscial Wonders Troupe that every member possessed.
 
 > "Cici..."
 
@@ -146,53 +142,48 @@ And so the curtain falls.
 
 ## Performer's Delight
 
-Cici generates a stack after dealing damage, increasing her Movement Speed by 0.75% and Spell Vamp by 0.75% per stack up to 10 times, doubling the effects at full stacks.
+- Cici generates a stack after dealing damage, increasing her Movement Speed by 0.75% and Spell Vamp by 0.75% per stack up to 10 times, doubling the effects at full stacks.
 
-- Stack scaling (Extra Movement Speed and Spell Vamp): 0.75% / 1.50% / 2.25% / 3.00% / 3.75% / 4.50% / 5.25% / 6.00% / 6.75% / 15.0%
+- Extra Movement Speed and Spell Vamp by stacks (per stack shown): 0.75% / 1.50% / 2.25% / 3.00% / 3.75% / 4.50% / 5.25% / 6.00% / 6.75% / 15.0%.
 
-- Additional notes:
-  - Aside from the buff indicator, a visual indicator of Delight stacks below Cici's health bar is shown and is visible to both allies and enemies.
+- Aside from the buff indicator, a visual indicator of Delight stacks below Cici's health bar is shown and is visible to both allies and enemies.
 
 ## Yo-Yo Blitz
 
-Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5 seconds, hitting them up to 10 times. Each hit deals base physical damage plus a percentage of the target's Max HP (damage scales with skill level). Cici can move and use other skills during this attack. If there's no enemy hero within range, Yoyo will attack Turrets or the Base instead. The skill deals 20% extra damage to Minions.
-
+- Type: Burst
 - Duration: 3.5 seconds
+- Description: Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5 seconds, hitting them up to 10 times. Each hit deals damage based on skill level and Cici's stats, and additionally deals a percentage of the target's Max HP per hit. Cici can move and use other skills during this attack. If there's no enemy hero within range, Yoyo will attack Turrets or the Base instead. The skill deals 20% extra damage to Minions.
+
 - Level scaling:
   - Base Damage: 60 / 65 / 70 / 75 / 80 / 85
   - Target's HP Percentage per hit: 3% / 3.3% / 3.6% / 3.9% / 4.2% / 4.5%
   - Max Damage to Creeps: 75 / 130 / 185 / 240 / 295 / 350
 
-- Notes:
-  - Cooldown starts upon casting.
-  - Only suppression can cancel this skill, thus ending its duration; appropriate crowd control effects can only interrupt this skill.
+- Notes: Cooldown starts upon casting. Only suppression can cancel this skill; appropriate crowd control effects can only interrupt this skill.
 
 ## Buoyant Bounce
 
-Cici leaps to a target location. If she lands on any unit (not including Turrets and Base), she can leap again in the Joystick's direction. If she lands on an enemy with the first leap, she deals damage based on the skill's level and physical attack to them.
+- Type: Mobility
+- Cooldown by level: 9.5 / 9.1 / 8.7 / 8.3 / 7.9 / 7.5 seconds
+- Description: Cici leaps to a target location. If she lands on any unit (not including Turrets and Base), she can leap again in the Joystick's direction. If she lands on an enemy with the first leap, she deals damage based on level and Cici's stats.
 
-- Level scaling (Base Damage): 200 / 220 / 240 / 260 / 280 / 300
-- Cooldown by level: 9.5 / 9.1 / 8.7 / 8.3 / 7.9 / 7.5
-
-## 
-
-
+- Level scaling: Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 
 ## Curtain Call
 
-Cici throws Yoyo at the target enemy hero and links them with another nearby enemy hero, dealing physical damage, slowing them by 30%, and pulling them together. During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the same time. If only one is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced by the decay ratio.
+- Type: Crowd Control / Slow
+- Cooldown by level: 36.0 / 32.0 / 28.0 seconds
+- Description: Cici throws Yoyo at the target enemy hero and links them with another nearby enemy hero, dealing damage based on level and Cici's stats, slowing them by 30%, and pulling them together. During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the same time. If only one is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced according to the decay ratio.
 
-- Cooldown by level: 36.0 / 32.0 / 28.0
-- Level scaling (Decay Ratio): 20% / 25% / 30%
+- Level scaling: Decay Ratio: 20% / 25% / 30%
 
-- Notes:
-  - Yoyo applied to an enemy counts as a debuff; therefore, it can be removed by effects such as Purify.
+- Notes: Yoyo applied to an enemy counts as a debuff; therefore, it can be removed by effects such as Purify.
 
 # Trivia
 
 - In Chinese, Cici's official hanzi name "茜茜" which differently has no meaning and used for transliterating foreign names is a homophone to the word "嘻嘻" meaning "giggle" or "laugh," fitting her playful nature. Her fighting style also have Wushu (Chinese martial arts) influences, supporting this connection.
-- Its possible that her name is a shortened form of "Cecilia" the name is a feminine form of "Caecilius" derived from the latin word "Caecus" meaning "Blind" but it more likely derives from the Saint Cecilia the patroness of music.
+- Its possible that her name is a shortened form of "Cecilia" the name is a feminine form of "Caecilius" derived from the latin word "Caecus" meaning "Blind" but it more likely derives from the Saint Cecilia the patroness of music. (see: https://en.wikipedia.org/wiki/Saint_Cecilia)
 - She was originally scheduled to be released on December 23rd but due to a gameplay-related issue, they decided to move her release date to December 27th.
-- Unlike other fighters who uses common weapons, Cici utilizes a yo-yo, allowing her to attack while moving, enhancing her kiting abilities and sustained damage output.
+- Unlike other fighters who uses common weapons, Cici utilizes a yo-yo, allowing her to attack while moving, enhancing her kiting abilities and sustained damage output. (see: https://en.wikipedia.org/wiki/Yo-yo)
 - Her skills mimic real yo-yo techniques like looping, bouncing, and spinning. The way she controls her yo-yo reflects the speed and skill required for Yo-Yo tricks in real life.
 - Unlike most fighters who rely on heavy single strikes, Cici focuses on rapid hits.

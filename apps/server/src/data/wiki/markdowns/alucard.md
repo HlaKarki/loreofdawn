@@ -1,5 +1,3 @@
-# Alucard
-
 # Profile
 
 - Chinese name: 阿鲁卡 (ālǔkǎ)
@@ -15,15 +13,17 @@
   - Moniyan Empire (formerly)
   - The Abyss (hostile)
 - Dislikes: Demons
-- Relationships: Unnamed father (deceased); various companions, allies, and enemies (unspecified)
-- Japanese voice actor: Yano Masaaki (矢野 正明)
-- Indonesian voice actor: Ari Wibowo
+- Relationships: *Unnamed father (deceased)
+* (crush)
+*, (companions)
+*,, ,  (Lightborn co-members)
+*,  (allies) 
+*, , ,  (enemies)
+- Voice Actors:
+  - Japanese: Yano Masaaki (矢野 正明)
+  - Indonesian: Ari Wibowo
 
-# Story
-
-> "Demon hunter who detest the darkness"
-
-Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.
+# Bio
 
 The last great war is a glorious memory for the Moniyans. The powerful Light's Order, together with the Imperial Border Guards, wiped out the demonic strongholds at the Moniyan and the Barren Lands pass, driving the fiends back to the hinterlands of the Forsaken Wastes. But for young Alucard, the war was nothing but a terrible memory of pain and misery. His father's second regiment suffered heavy losses due to a rash lone advance. Alucard's father disappeared in the battle and was later declared dead by the Light's Order.
 
@@ -47,55 +47,29 @@ In the following years, Alucard began wandering the Land of Dawn, annihilating d
 
 After a string of epic battles, Alucard became known as one of the most legendary fighters in Moniyan. Soon, everyone knew that wherever demons ran rampant, the demon hunter with the dark right hand would no doubt descend from the sky and leave none alive.
 
+# Story
+
+> "Demon hunter who detest the darkness"
+
+Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.
+
 # Abilities
 
 ## Pursuit
 
-After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal damage based on level and stats. The attack is treated as a Physical Basic Attack.
-
-- Enhanced Basic Attack Range: 4
-- Total physical attack scaling reference: 140 (value from available data)
-
-Notes:
-- The range of Pursuit can be increased by other effects and its passive Malefic Energy.
-- Damage scales with Alucard's level and physical attack.
+undefined
 
 ## Groundsplitter
 
-Alucard rolls to the target location and slams his blade on the ground, dealing damage to enemies hit and slowing them by 40% for 2 seconds. Damage is based on the listed base damage and Alucard's physical attack.
-
-- Base Damage: 270 / 290 / 310 / 330 / 350 / 370
-- Cooldown: 8.5 / 8.1 / 7.7 / 7.3 / 6.9 / 6.5 seconds
-- Type: Physical skill, Blink, AOE
-
-The roll functions as a blink to the target location and applies the ground slam at arrival. The slow is 40% for 2 seconds.
+undefined
 
 ## Whirling Smash
 
-Alucard launches a whirling slash, dealing damage to nearby enemies based on the listed base damage and his physical attack.
-
-- Base Damage: 345 / 390 / 435 / 480 / 525 / 570
-- Cooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0 seconds
-- Type: Physical skill, AOE
-
-This skill hits enemies around Alucard in an area of effect and scales with his physical attack.
+undefined
 
 ## Fission Wave
 
-Passive: Alucard permanently gains extra Hybrid Lifesteal.
-
-Active: Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and reducing their Hybrid Defense by 10 to 20 depending on skill level. Alucard gains Hybrid Defense for each enemy hero hit. While the active buff is in effect, the cooldown of his other skills is reduced to 50% for 6 seconds. After the initial cast, Alucard can release a shockwave in the target direction, dealing damage to enemies hit based on the listed base damage and his physical attack.
-
-- Duration of reduced cooldown and buffs: 6.0 seconds
-- Hybrid Lifesteal (Passive): 10% / 20% / 30%
-- Hybrid Defense gained per enemy hero hit: 10 / 15 / 20
-- Hybrid Defense reduction on enemies: 10 / 15 / 20
-- Base Damage (shockwave): 400 / 550 / 700
-- Cooldown: 40.0 / 35.0 / 30.0 seconds
-
-Notes:
-- Fission Wave goes into cooldown on the first cast.
-- Despite the Active description, Alucard can still gain the buff even if there are no enemies in the target direction during the initial cast.
+undefined
 
 # Trivia
 

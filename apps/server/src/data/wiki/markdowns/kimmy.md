@@ -1,5 +1,3 @@
-# Kimmy
-
 # Story
 
 > "A cool girl who loves technology and invention"
@@ -20,11 +18,9 @@ Though her wings were confined within the cage her father built, Kimmy never aba
 
 Perhaps Kimmy's most carefree and joyful days were spent in Eruditio. She cut her hair short and made many friends, and one in particular, Beatrix, became her closest companion. The two were drawn together by the fierce determination they shared. Kimmy helped Beatrix test various weapons - no matter how complex their design or intricate their controls, she always seemed to bring out their true potential.
 
-When Beatrix urged her on, Kimmy's heart raced at the suggestion:
-
 > "Why not just go for it? Enlist first and tell him later!"
 
-As their fists bumped together, their rebellious alliance was officially sealed.
+Kimmy's heart raced at Beatrix's suggestion. As their fists bumped together, their rebellious alliance was officially sealed.
 
 Kimmy packed up and left Eruditio to join the Moniyan Empire's Western Border Guard. The closer she got to the military outpost, the more desolate the surroundings became, but her heart had never felt more fulfilled. She stretched her hand upward, as though she could grasp the sky itself.
 
@@ -32,7 +28,7 @@ Kimmy's early days in the Border Guard were anything but easy. Her time spent in
 
 It was then that the Weapons Department invented a new weapon - a Starlium-powered jetpack and rifle. However, its complex operation was too much for most of the testers, yet Kimmy's talent and experience allowed her to master it almost immediately. The weapon found its full potential in her hands, shocking even the researchers. The flashes of the muzzle illuminated Kimmy's path forward - the Hoverjet Blaster became her weapon, and together they would shine in battle.
 
-Kimmy paid no mind to others' cold stares, focusing solely on her own efforts. The fledging had shed her down and was ready to spread her wings and soar. Yet... thoughts of her father still filled her with doubt.
+Kimmy paid no mind to others' cold stares, focusing solely on her own efforts. The fledging had shed her down and was ready to spread her wings and soar. Yet thoughts of her father still filled her with doubt.
 
 Soon after, Kimmy was assigned to an elite squad, deploying her weapon into battle for the first time on an important rescue mission. The enemy, highly mobile and intimate with the terrain, had the upper hand. Though it was Kimmy's first real combat mission, she remained remarkably calm. She quickly identified the enemy's movement patterns, tracked them to a small outpost, and launched a successful first strike on her own.
 
@@ -40,9 +36,9 @@ Before the thrill of victory could fade, the full scope of the enemy's operation
 
 Behind iron bars were over a dozen imprisoned allies. Kimmy acted decisively, blasting open the prison doors with her rifle. The sound alerted her comrades waiting to launch their attack outside. With their coordinated assault from both inside and out, chaos erupted in the enemy stronghold, leading to their quick defeat.
 
-As Kimmy evacuated the prisoners, an older officer, slowed due to his injuries, caught her attention. Those familiar shoulders, that crew cut of gray hair - it was her father. The usually fearless Kimmy felt her confidence waver. She had never told her strict father about enlisting. As their eyes met, Kimmy braced for the worst.
+As Kimmy evacuated the prisoners, an older officer, slowed due to his injuries, caught her attention. Those familiar shoulders, that crew cut of gray hair - it was her father. The usually fearless Kimmy felt her confidence waver. She had never told her strict father about enlisting. As their eyes met, Kimmy braced for the worst. However, after a moment's pause, he simply gave her a formal military salute pretending not to recognize his masked daughter.
 
-However, after a moment's pause, he simply gave her a formal military salute pretending not to recognize his masked daughter. His voice was no longer as deep as she remembered, and his injured stature seemed smaller than she remembered. He advised the "new recruit" to make something of herself in the military. Kimmy shouldered her weapon and nodded solemnly while trying to keep her voice from trembling.
+His voice was no longer as deep as she remembered, and his injured stature seemed smaller than she remembered. He advised the "new recruit" to make something of herself in the military. Kimmy shouldered her weapon and nodded solemnly while trying to keep her voice from trembling.
 
 New missions awaited on the horizon. Kimmy looked to the sky, knowing that her wings now carried her father's expectations. She was bound for even greater heights.
 
@@ -50,41 +46,50 @@ New missions awaited on the horizon. Kimmy looked to the sky, knowing that her w
 
 ## Aerial Dominance
 
-Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals scaling damage based on level and stats. Hitting enemy heroes/non-hero units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal additional magic damage and pierce through targets. Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
+Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals damage based on level and stats. Hitting enemy heroes/non-hero units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal damage based on level and stats and pierce through targets. Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
 
-- Starlium is a resource that builds and depletes over time. If no Starlium is gained within 7 seconds, the Starlium begins to deplete.
-- Due to this passive, Kimmy cannot use Manual Targeting.
+- If no Starlium is gained within 7 seconds, the Starlium begins to deplete.
+- Due to this passive Kimmy cannot use Manual Targeting.
 
 ## Anti-Grav Thruster
 
-Kimmy uses her jetpack to take flight, removing and becoming immune to Slow Effects. She can pass through terrain and gains 90% Movement Speed for 1 second. During the flight, she fires 4 Chemical Bolts at nearby enemies, each dealing scaling damage based on level and stats and slowing them by 50% for 0.5 seconds.
+Kimmy uses her jetpack to take flight, removing and becoming immune to Slow Effects. She can pass through terrain and gains 90% Movement Speed for 1 second. During the flight, she fires 4 Chemical Bolts at nearby enemies, each dealing damage based on level and stats and slowing them by 50% for 0.5 seconds.
 
-- Cooldown: 14.0 / 13.0 / 12.0 / 11.0 / 10.0 / 9.0 seconds (value above is the highest-level cooldown). 
-- Spell Vamp ratio: 50%.
+- Cooldown by level: 14.0 / 13.0 / 12.0 / 11.0 / 10.0 / 9.0 seconds.
+- Spell Vamp: 50%.
 
 Notes:
+
 - Chemical Bolts ignore invisible, concealed and unsighted enemies.
 
 ## Starlium Beam
 
-Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals damage over 2 seconds (scaling damage based on level and stats). Gain 20 Starlium for each enemy hero hit.
+Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals damage based on level and stats over 2 seconds. Gain 20 Starlium for each enemy hero hit.
 
-- Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds (value above is the highest-level cooldown).
-- Spell Vamp ratio: 50%.
+- Cooldown by level: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds.
+- Base damage and energy regen scale with level and stats.
 
-Level scaling includes base damage and energy regeneration values that scale with ability level and stats.
+Term:
+
+- Immobilize: immobilizes enemies hit.
+
+Notes:
+
+- Damage scales with level and Kimmy's stats.
 
 ## Traction Pulse
 
-Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal scaling area damage to nearby enemies and creates a force field that slows enemies within by 75%. After 1 second, the field contracts, pulling all enemy heroes to its center and dealing a percentage of their current HP as Magic Damage (15% / 22.5% / 30% depending on skill level). Gain 40 Starlium for each enemy hero hit.
+Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal damage based on level and stats to nearby enemies and creates a force field that slows enemies within by 75%. After 1 second, the field contracts, pulling all enemy heroes to its center and dealing current HP based damage as Magic Damage. Gain 40 Starlium for each enemy hero hit.
 
-- Cooldown: 40.0 / 35.0 / 30.0 seconds (value above is the highest-level cooldown).
-- Spell Vamp ratio: 50%.
+- Cooldown by level: 40.0 / 35.0 / 30.0 seconds.
+- Base damage scales with level and stats.
+- Current HP Percentage damage: 15% / 22.5% / 30% by ultimate level.
 
 Notes:
+
 - Cooldown begins as soon as the ability is cast.
-- The ability can be held for up to 3 seconds before firing.
-- The HP-based damage from the second part of this ability will not trigger Kimmy's passive.
+- The ability can be charged for up to 3 seconds before firing.
+- The HP based damage on the second part of this ability will not trigger Kimmy's passive.
 
 # Trivia
 
@@ -97,5 +102,5 @@ Notes:
 - Her basic attack used to spread and pierce through enemies similar to how shotgun pellets works.
 - She used to have 2 skill sources: one for her first skill and one for her second skill.
 - Her second skill used to be another basic attack buff skill similar to her first skill, but was later changed into a blink skill that does not consume any energy.
-- Before her rework on Patch Notes 1.6.10, Kimmy had Mixed Damage; it was later replaced with Magic Damage. This change made Esmeralda the only hero who specializes in **Mixed Damage**.
+- Before her rework on Patch Notes 1.6.10, Kimmy had Mixed Damage alongside other types, then it was later replaced with Magic Damage specialty making Esmeralda the only hero who specializes in Mixed Damage.
 - The melody she says when picked with Dragon Tamer skin is a parody on Hush Little Baby Don't Say A Word by the King's Singers 1987.
