@@ -34,6 +34,7 @@ export default async function WikiPage({ params }: WikiPageProps) {
 	const wikiRecord = (await response.json()) as WikiType;
 
 	let markdown = wikiRecord.markdown;
+	markdown = markdown.replaceAll('"', "");
 
 	const titles = extractHeadings(markdown);
 

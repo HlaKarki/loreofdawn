@@ -82,6 +82,12 @@ class CacheKvLayer {
 
 		return c.json(fresh);
 	}
+
+	async delete(cacheKey: string, c: Context) {
+		const cache = await caches.open(this.namespace);
+		await cache.delete(this.cacheUrlFor(cacheKey));
+		await c.env.KV.delete(cacheKey);
+	}
 }
 
 export const cacheKvLayer = new CacheKvLayer();

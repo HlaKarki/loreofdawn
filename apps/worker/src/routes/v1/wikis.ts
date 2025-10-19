@@ -30,3 +30,16 @@ wikisRouter.get("/:name", async (c) => {
 		},
 	);
 });
+
+wikisRouter.delete("/:name", async (c) => {
+	const name = c.req.param("name")?.trim().toLowerCase();
+
+	if (!name) {
+		return c.json({ error: "Hero name is required" }, 400);
+	}
+
+	const cacheKey = `wiki:${name}`;
+	await cacheKvLayer.delete(cacheKey, c);
+
+	return c.json({ success: true, message: `Cache deleted for ${name}` });
+});
