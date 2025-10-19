@@ -2,153 +2,97 @@
 
 # Profile
 
-- Related Heroes: Belerick, Floryn
+- Name: Sora
+- Relationships: , (companions)
 
 # Story
 
 > "TBA"
 
+Belerick
+
+Floryn
+
 TBA
-
-# Bio
-
-
 
 # Abilities
 
 ## Mystic Surge
 
-Sora gains 1 stack of each time he damages an enemy hero or their summons, lasting 5 seconds. At 5 stacks, he can ascend to  or  by using his Ultimate. After ascending, collecting 5 more stacks unlocks his True Art. : Converts extra HP into 10% Physical Attack, adopting an assassin style. : Converts each point of bonus Attack into 10 Max HP, adopting a tank style.
+Sora gains 1 stack each time he damages an enemy hero or their summons, lasting 5 seconds. At 5 stacks, he can ascend to Thunder or Torrent by using his Ultimate. After ascending, collecting 5 more stacks unlocks his True Art.
 
-## Sundering Strike (Default)
+- Thunder: Converts extra HP into 10% Physical Attack, adopting an assassin style.
+- Torrent: Converts each point of bonus Attack into 10 Max HP, adopting a tank style.
 
-Cooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0
+## Sundering Strike
 
-Description: Sora strikes twice, dealing, then lunges forward, dealing . He can dash after striking.
+Sora strikes twice, dealing damage based on level and stats, then lunges forward, dealing damage based on level and stats. He can dash after striking.
 
-Properties:
 - Haymaker Damage: 150 / 170 / 190 / 210 / 230 / 250
 - Straight Punch Damage: 240 / 280 / 320 / 360 / 400 / 440
-
-Scaling:
-- Haymaker Base: 150
-- Haymaker Total PA: 40
-- Straight Punch Base: 240
-- Straight Punch Total HP: 5
+- Scaling: base damage 150 and 240 with additional scaling from Physical Attack and bonus HP as appropriate.
 
 ## Sundering Strike: Thunder Flash
 
-Cooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0
+Sora strikes four times, dealing damage based on level and stats, then lunges forward, dealing damage based on level and stats. He can move freely during this skill.
 
-Description: Sora strikes four times, dealing, then lunges forward, dealing . He can move freely during this skill.
-
-Properties:
 - Haymaker Damage: 150 / 170 / 190 / 210 / 230 / 250
 - Straight Punch Damage: 240 / 280 / 320 / 360 / 400 / 440
-
-Scaling:
-- Haymaker Base: 150
-- Haymaker Total PA: 40
-- Straight Punch Base: 240
-- Straight Punch Total HP: 5
+- Scaling: base damage values as listed with additional scaling from Physical Attack and bonus HP.
 
 ## Sundering Strike: Overwhelm
 
-Cooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0
+Sora strikes twice, dealing damage based on level and stats and slowing enemies by 40%. He then lunges forward, dealing damage based on level and stats and stunning enemies for 0.5 seconds.
 
-Description: Sora strikes twice, dealing and slowing enemies for 40%. He then lunges forward, dealing, stunning enemies for 0.5 seconds.
-
-Properties:
 - Haymaker Damage: 150 / 170 / 190 / 210 / 230 / 250
 - Straight Punch Damage: 240 / 280 / 320 / 360 / 400 / 440
+- Scaling: base damage values as listed with additional scaling from Physical Attack and bonus HP.
 
-Scaling:
-- Haymaker Base: 150
-- Haymaker Total PA: 40
-- Straight Punch Base: 240
-- Straight Punch Total HP: 5
+## Windstride
 
-## Windstride (Default)
+Sora leaps forward, dealing damage based on level and stats. If he hits an enemy hero or reaches max range, he slams the ground, dealing additional damage based on level and stats and slowing them by 40% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
 
-Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
-
-Description: Sora leaps forward, dealing . If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional and slowing them by 40% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
-
-Properties:
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 - Extra Damage: 200 / 220 / 240 / 260 / 280 / 300
-
-Scaling:
-- Base Damage Range: 200-300
-- Total PA: 70
-- Base Extra Damage Range: 200-300
-- Total HP (extra): 10
+- Scaling: base damage values with additional scaling from Physical Attack and bonus HP.
 
 ## Windstride: Thunder Rush
 
-Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
+Sora leaps forward, dealing damage based on level and stats, then summons a thunderstorm that hits for damage based on level and stats and slows enemies by 50% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
 
-Description: Sora leaps forward, dealing, then summons a thunderstorm that hits for and slowing them by 50% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
-
-Properties:
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 - Extra Damage: 200 / 220 / 240 / 260 / 280 / 300
-
-Scaling:
-- Base Damage Range: 200-300
-- Total PA: 70
-- Base Extra Damage Range: 200-300
-- Total HP (extra): 10
+- Scaling: base damage values with additional scaling from Physical Attack and bonus HP.
 
 ## Windstride: Skyfall
 
-Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
+Sora leaps forward, dealing damage based on level and stats and knocking enemies back to the landing point. He then smashes the ground and deals additional damage based on level and stats, knocking enemies airborne for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
 
-Description: Sora leaps forward, dealing and knocking enemies back to the landing point. He then smashes the ground and deals, knocking enemies airborne for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
-
-Properties:
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 - Extra Damage: 200 / 220 / 240 / 260 / 280 / 300
+- Scaling: base damage values with additional scaling from Physical Attack and bonus HP.
 
-Scaling:
-- Base Damage Range: 200-300
-- Total PA: 70
-- Base Extra Damage Range: 200-300
-- Total HP (extra): 10
+## Shifting Skies
 
-## Shifting Skies (Default)
+Swipe left to ascend into Thunder for 10 seconds. Sora gains brief Movement Speed and becomes untargetable, then deals damage based on level and stats to nearby enemies. Swipe right to ascend into Torrent for 10 seconds, pulling in nearby enemies and dealing damage based on level and stats.
 
-Description: Swipe left to ascend into for 10 seconds. Sora gains brief Movement Speed and becomes untargetable, then deals  to nearby enemies. Swipe right to ascend into  for 10 seconds, pulling in nearby enemies and dealing.
-
-Properties:
 - Base Damage: 250 / 350 / 450
-
-Notes:
-- This skill's description contains form-related placeholders in the original text.
-
-Scaling:
-- Base Damage Range: 250-450
-- Total PA: 80
+- Duration of ascent: 10 seconds
 
 ## Heaven's Wrath
 
-Description: Sora leaps into the air and strikes a target area 15 times, dealing with each hit. Sora can move freely during this skill.
+Sora leaps into the air and strikes a target area 15 times, dealing damage based on level and stats with each hit. Sora can move freely during this skill.
 
-Properties:
-- Base Damage: 50 / 70 / 90
-
-Scaling:
-- Base per Hit: 50-70
-- Total PA: 30
+- Base Damage per hit: 50 / 70 / 90
+- Total hits: 15
+- Scaling: each hit scales with Physical Attack and other relevant stats
 
 ## Stormbind
 
-Description: Sora leaps into the air and strikes a target area 10 times, dealing and slowing enemies by 10% for 1 second (up to 80%) with each hit. Sora can move freely during this skill.
+Sora leaps into the air and strikes a target area 10 times, dealing damage based on level and stats and slowing enemies by 10% for 1 second with each hit (up to 80% slow). Sora can move freely during this skill.
 
-Properties:
-- Base Damage: 50 / 70 / 90
-
-Scaling:
-- Base per Hit: 50-70
-- Total HP (per hit): 2
+- Base Damage per hit: 50 / 70 / 90
+- Total hits: 10
+- Slow: 10% per hit, up to 80%
+- Scaling: each hit scales with Physical Attack and other relevant stats
 

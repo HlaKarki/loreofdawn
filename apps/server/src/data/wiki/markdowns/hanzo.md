@@ -2,13 +2,19 @@
 
 # Profile
 
+Genius ninja in the Shadow Sect who is at the crossroads.
 
+A genius ninja of the Shadow Sect in the Scarlet Shadow who absorbed the Hanekage into his body to pursue greater power.
 
 # Story
 
 > "Genius ninja in the Shadow Sect who is at the crossroads"
 
-A genius ninja of the Shadow Sect in the Scarlet Shadow. In order to pursue great power, he absorbed the "Hanekage" into his body, and used the enemy's flesh and blood to provide nourishment for the "Hanekage". After gaining power, he took away the most powerful supreme ninjutsu and Ame no Habakiri in the Scarlet Shadow, and went further and further on the road of killing.
+A genius ninja of the Shadow Sect in the Scarlet Shadow. In order to pursue great power, he absorbed the "Hanekage" into his body, and used the enemy's flesh and blood to provide nourishment for the "Hanekage".
+
+After gaining power, he took away the most powerful supreme ninjutsu and Ame no Habakiri in the Scarlet Shadow, and went further and further on the road of killing.
+
+# Side Story
 
 ## The End of Nindo
 
@@ -36,111 +42,88 @@ Kurēn had been secretly gaining influence to abolish this vile practice once he
 
 > "Those that were sacrificed to Ame no Habakiri... what of their futures?"
 
-Kurēn had no answer to his question, which sent Hanzo into a rage. He had seen too many hypocrites claiming to act for the greater good, and in that moment, he realized the Scarlet Shadow was no different. His Nindo did not tolerate evil deeds, thus the Scarlet Shadow should not exist. If they craved Ame no Habakiri's power so much, he would show them its true might
-
-> "Come, either devour me, or let me devour everything!"
-
-As Hanzo reached for the demon blade on the pedestal, he thought to himself, "Come, either devour me, or let me devour everything!"
-
-The moment he grasped the Ame no Habakiri, its unbridled demonic power invaded his body. In a trance, he saw a whirlpool swallowing ships, or was it a leviathan devouring entire islands? Quickly he realized what he was actually seeing:
-
-It was a vortex of souls; the ninjas who had been sacrificed, and countless more before them. Their wills had long been erased, leaving only an insatiable hunger and darkness churning within the blade; a madness that was neither human nor demon.
-
-The demonic power invaded Hanzo's very being, but his pride refused to be consumed. Feeding on his rage and obsession, he finally tamed the Ame no Habakiri.
+Kurēn had no answer to his question, which sent Hanzo into a rage. He had seen too many hypocrites claiming to act for the greater good, and in that moment, he realized the Scarlet Shadow was no different. His Nindo did not tolerate evil deeds, thus the Scarlet Shadow should not exist. If they craved Ame no Habakiri's power so much, he would show them its true might.
 
 > "Naive pretender, you will witness my reign from within this blade."
 
+As Hanzo reached for the demon blade on the pedestal, he thought to himself, > "Come, either devour me, or let me devour everything!"
+
+The moment he grasped the Ame no Habakiri, its unbridled demonic power invaded his body. In a trance, he saw a whirlpool swallowing ships, or was it a leviathan devouring entire islands? Quickly he realized what he was actually seeing: it was a vortex of souls; the ninjas who had been sacrificed, and countless more before them. Their wills had long been erased, leaving only an insatiable hunger and darkness churning within the blade; a madness that was neither human nor demon.
+
+The demonic power invaded Hanzo's very being, but his pride refused to be consumed. Feeding on his rage and obsession, he finally tamed the Ame no Habakiri.
+
 And with that, Hanzo swung the blade at his former comrade Kurēn. "Gaining influence"... that's merely the cowardly compromise of the weak. Without the courage to make the first cut, there would never be change.
 
-After devouring Kurēn, Hanzo left the forbidden grounds. He knew his path as a ninja of the Shadow Sect ninja was forever severed. But what of it?########[p]This Akuma shall carve out the rot from within the Scarlet Shadow once and for all.
-
-# Bio
-
-
+After devouring Kurēn, Hanzo left the forbidden grounds. He knew his path as a ninja of the Shadow Sect ninja was forever severed. But what of it? This Akuma shall carve out the rot from within the Scarlet Shadow once and for all.
 
 # Abilities
 
 ## Ame No Habakiri
 
-- Damage dealt by Hanzo's basic attacks and skills inflict a stack of Ame No Habakiri on the target, up to 5 stacks.
-- The ultimate/consumptive skills can only be used on targets with full stacks of Ame No Habakiri.
+Damage dealt by Hanzo's basic attacks and skills inflicts a stack of a cursed mark on the target, up to 5 stacks. A special effect or skill can only be used on targets with full stacks of this mark.
 
-Notes:
-- The passive applies stacks on hit and enables special interactions with Hanzo's skills when the target reaches max stacks.
+- Effect summary: damage sources apply stacks up to 5.
+- Use note: targets with full stacks are eligible for certain follow-up Ninjutsu effects.
 
-## Ninjutsu: Demon Feast
+## Ninjutsu: Demon Feast / Forbidden Ninjutsu: Soul Snatch
 
-Cooldown: 25.0 / 23.0 / 21.0 / 19.0 / 17.0 / 15.0
+Ninjutsu: Demon Feast
 
-This skill can only be used on targets with max stacks of Ame No Habakiri. If the target is a Common Creep, Hanzo will immediately devour them and digest over a period of time to recover 20% HP. Targeting enemy heroes deals true damage; targeting Lord or Turtle deals true damage as specified below.
+- Skill type: Burst, True Damage Skill
+- Cooldown: 25.0 / 23.0 / 21.0 / 19.0 / 17.0 / 15.0 seconds (based on level)
+- Description: This skill can only be used on targets with max stacks of the cursed mark. If the target is a Common Creep, Hanzo will immediately devour them and digest over a period of time to recover 20% HP. Targeting enemy heroes deals true damage based on level and stats. Targeting Lord or Turtle deals a larger amount of true damage based on level and stats.
+- Properties:
+  - Base Damage: 540 / 576 / 612 / 648 / 684 / 720
+  - True Damage: 500 / 700 / 900 / 1100 / 1300 / 1500
+  - Physical Bonus: 120% / 128% / 136% / 144% / 152% / 160%
 
-Properties:
-- Base Damage: 540 / 576 / 612 / 648 / 684 / 720 (scaling by level)
-- True Damage: 500 / 700 / 900 / 1100 / 1300 / 1500
-- Physical Bonus: 120% / 128% / 136% / 144% / 152% / 160%
+Forbidden Ninjutsu: Soul Snatch
 
-Notes:
-- This is a true damage skill when used on heroes with max stacks of Ame No Habakiri. Exact recovery and interactions depend on target type.
+- Skill type: Damage
+- Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds (based on level)
+- Description: Hanekage dashes to an enemy hero, dealing physical damage to the target and its surrounding units after a brief delay. Each stack of the cursed mark on the target increases the damage by 20% (surrounding units are not affected by this bonus). When the target has max stacks of the mark, the skill deals additional damage equal to a percentage of the target's Max HP (this additional damage ignores 30% of the target's Physical Defense) and recovers 30% HP for Hanzo.
+- Properties:
+  - Base Damage: 270 / 288 / 306 / 324 / 342 / 360
+  - Physical Bonus: 60% / 64% / 68% / 72% / 76% / 80%
 
-## Forbidden Ninjutsu: Soul Snatch
+## Ninjutsu: Dark Mist / Forbidden Ninjutsu: Black Mist
 
-Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
+Ninjutsu: Dark Mist
 
-Hanekage dashes to an enemy hero, dealing damage to the target and its surrounding units after a brief delay. Each stack of Ame No Habakiri on the target increases the damage by 20% (surrounding units are not affected by this bonus). When the target has max stacks of Ame No Habakiri, it deals additional damage equal to a percentage of the target's Max HP (this damage ignores 30% of the target's Physical Defense) and recovers 30% HP for Hanzo.
+- Skill type: AoE, Slow, Physical Damage Skill
+- Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds (based on level)
+- Description: Hanzo dashes in the target direction, leaving a dark mist in front that deals damage to enemies in the area every 0.5 seconds, up to 5 times. This damage counts as physical damage but cannot critically strike. The mist slows enemies in the area by 40% and grants Hanzo 20% Movement Speed.
+- Properties:
+  - Base Damage: 90 / 100 / 110 / 120 / 130 / 140
+  - Additional attack effect: 45% (as indicated)
 
-Properties:
-- Base Damage: 270 / 288 / 306 / 324 / 342 / 360
-- Physical Bonus: 60% / 64% / 68% / 72% / 76% / 80%
-- Additional true/max-HP based damage and HP recovery occur when target has max stacks.
+Forbidden Ninjutsu: Black Mist
 
-## Ninjutsu: Dark Mist
+- Skill type: AoE, Crowd Control, Physical Basic Attack
+- Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds (based on level)
+- Description: Hanekage dashes in the target direction, briefly knocking enemies in his path airborne for 0.4 seconds and leaving a black mist in the area he passes through. The mist deals damage to enemies in the area every 0.5 seconds, up to 5 times. This damage counts as physical damage but cannot critically strike. The mist slows enemies in the area by 40%.
+- Properties:
+  - Base Damage: 135 / 150 / 165 / 180 / 195 / 210
+  - Additional attack effect: 45% (as indicated)
 
-Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
+## Kinjutsu: Pinnacle Ninja / Ninjutsu Flee: Return
 
-Hanzo dashes in the target direction, leaving a dark mist in front that deals damage to enemies in the area every 0.5 seconds, up to 5 times (this damage counts as physical damage but cannot crit). The mist slows enemies in the area by 40% and grants Hanzo 20% Movement Speed.
+Kinjutsu: Pinnacle Ninja
 
-Properties:
-- Base Damage per tick: 90 / 100 / 110 / 120 / 130 / 140
-- Damage type: Physical (cannot crit)
-- Movement Speed bonus: 20%
+- Skill type: Morph, Mobility
+- Cooldown: 24.0 / 21.0 / 18.0 seconds (based on level)
+- Description: Hanzo charges into battle as Hanekage, consuming 12.5 Energy per second. He gains 2 Energy when a non-hero unit dies nearby and 20 Energy when a hero dies nearby. After consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position. While in Hanekage form, Hanzo's body is invincible, and Hanekage ignores obstacles and gains 35% Movement Speed and 30% Attack Speed. After being killed, Hanekage will be immediately drawn to Hanzo's position, during which he recovers 16% HP and cannot be targeted. This effect is also triggered when this skill is cast again. If Hanekage is killed, Hanzo will be slowed by 50% and reveal his location for 6 seconds.
 
-Notes:
-- The mist deals repeated area damage and provides movement speed to Hanzo while active.
+Ninjutsu Flee: Return
 
-## Forbidden Ninjutsu: Black Mist
-
-Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
-
-Hanekage dashes in the target direction, briefly knocking enemies in his path airborne for 0.4 seconds and leaving a black mist in the area he passes through. The mist deals damage to enemies in the area every 0.5 seconds, up to 5 times (this damage counts as physical damage but cannot crit). The mist slows enemies in the area by 40%.
-
-Properties:
-- Base Damage per tick: 135 / 150 / 165 / 180 / 195 / 210
-- Physical Attack Effect: 45%
-- Crowd control: 0.4s knockup on dash path
-
-Notes:
-- Surrounding units take repeated damage from the mist; the dash also provides a brief airborne crowd control on enemies in the path.
-
-## Kinjutsu: Pinnacle Ninja
-
-Cooldown: 24.0 / 21.0 / 18.0
-
-Hanzo charges into battle as Hanekage, consuming 12.5 Energy per second. He gains 2 Energy when a non-hero unit dies nearby and 20 Energy when it's a hero. After consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position. While in Hanekage form, Hanzo's body is invincible, and Hanekage ignores obstacles and gains 35% Movement Speed and 30% Attack Speed. After being killed, Hanekage will be immediately drawn to Hanzo's position, during which he recovers 16% HP and cannot be targeted. This effect is also triggered when this skill is cast again. If Hanekage is killed, Hanzo will be slowed by 50% and reveal his location for 6 seconds.
-
-Notes:
-- Hanekage is a separate controllable form with special movement and combat bonuses. Energy management determines duration and return behavior.
-
-## Ninjutsu Flee: Return
-
-Cooldown: 1.0
-
-Hanekage returns to Hanzo's body and exits the Hanekage form.
+- Cooldown: 1.0 second
+- Description: Hanekage returns to Hanzo's body and exits the Hanekage form.
 
 # Trivia
 
 - The name Hanzo was borne by the infamous ninja Hanzō Hattori, nicknamed Oni no Hanzō (Demon Hanzō).
 - The name is derived from the letter 半 (han) meaning "half" and 蔵 (zō/zou) meaning "to hide".
-- According to Japanese mythology, Ame no Habakiri is one of the 4 Totsuka swords. Ame no Habakiri was wielded by Susanoo to slay Yamata no Orochi.
+- According to Japanese mythology, Ame no Habakiri is one of the Totsuka swords. Ame no Habakiri was wielded by Susanoo to slay Yamata no Orochi.
 - The Japanese word written on his back is Fū which translates to "seal".
 - Some aspects of Hanzo’s armor and mask resemble the Tengu, mythical creatures that were feared and respected as powerful ninja-like beings.
 - Hanzo has one of the fastest jungle clears because his first skill (Ninjutsu: Demon Feast) instantly eats jungle monsters, securing buffs faster than most heroes.

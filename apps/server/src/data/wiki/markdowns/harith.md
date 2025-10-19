@@ -2,24 +2,34 @@
 
 # Profile
 
-- Alias: *Time Traveler Imperial Master of Magic Master of Magic Inspirer of Lightborn Chevaliers
-- Chinese name: 哈里斯 (hālǐsī)
-- Born: Enchanted Forest, Azrya Woodlands
-- Origin: Monastery of Light, Moniyan Empire
-- Age: 15
-- Species: Leonin
-- Gender: Male
-- Title: Time Traveler
-- Affiliation: *Moniyan Empire
-- Weapons: Magical Orb
-- Abilities: Space and Time Control
-- Relationships: * (friend)
-*, (companions)
-*,,  (Lightborn co-members)
-* (Savior/Lightborn co-members)
-*,  (allies) 
-*, , , ,  (enemies)
+• Alias: *Time Traveler Imperial Master of Magic Master of Magic Inspirer of Lightborn Chevaliers*
+
+• Chinese name: 哈里斯 (hālǐsī)
+
+• Born: Enchanted Forest, Azrya Woodlands
+
+• Origin: Monastery of Light, Moniyan Empire
+
+• Age: 15
+
+• Species: Leonin
+
+• Gender: Male
+
+• Title: Time Traveler
+
+• Affiliation: Moniyan Empire
+
+• Weapons: Magical Orb
+
+• Abilities: Space and Time Control
+
+• Relationships: (friend), (companions), (Lightborn co-members), (Savior/Lightborn co-members), (allies), (enemies)
+
+• Voice actors:
+
 - English VA: Feena Glynn
+
 - Japanese VA: Itō Kanako
 
 # Story
@@ -34,49 +44,54 @@ Full of excitement and fervor, Harith also knew that once he is appointed the ti
 
 Despite Nana showing signs of affection towards him, he could not express his feelings, believing that the best way to protect her from criticism was for him be alone. After all, whenever the empire needed magical assistance, the Master of Magic was on the job to seal away the dangers of evil.
 
-# Bio
-
-
-
 # Abilities
 
 ## Key Insight
 
 Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.
 
+- Effect type: Buff
+- Terminology: Hybrid Lifesteal (Spell Vamp / Lifesteal)
+
+Notes: Provides sustained sustain based on nearby enemy heroes.
+
 ## Synchro Fission
 
-Harith creates a phantom of himself in a distant location. Harith and his phantom will then release toward each other, dealing 236–376 (base damage based on skill level and his magic power) to all enemy units on the path. When the 2 energy waves collide, an explosion occurs, dealing 590–940 (explosion damage based on skill level and his magic power) to all enemies in the explosion area.
+Harith creates a phantom of himself in a distant location. Harith and his phantom will then release toward each other, dealing scaling damage to all enemy units on the path. When the two energy waves collide, an explosion occurs, dealing scaling damage to all enemies in the explosion area.
 
-- Mana cost: 50 / 55 / 60 / 65 / 70 / 75 (per level)
-- Base Damage: 236 / 264 / 292 / 320 / 348 / 376
-- Explosion Damage: 590 / 660 / 730 / 800 / 870 / 940
+- Effect type: AoE
+- Mana cost (per level): 50 / 55 / 60 / 65 / 70 / 75
+- Base Damage (per level): 236 / 264 / 292 / 320 / 348 / 376
+- Explosion Damage (per level): 590 / 660 / 730 / 800 / 870 / 940
 - Spell Vamp Ratio: 50%
 - Damage type: Magic Damage Skill
 
 ## Chrono Dash
 
-Harith dashes towards the target direction. When he arrives, he steals Magic power from enemy heroes, generates a shield that absorbs a shield amount based on skill level and his stats and enhances his next Basic Attack. Harith's enhanced Basic Attack deals damage based on skill level and his magic power and slows enemies by 40%. Hitting an enemy with Harith's enhanced Basic Attack reduces the cooldown of Chrono Dash by 3 seconds.
+Harith dashes towards the target direction. When he arrives, he steals Magic power from enemy heroes, generates a shield that absorbs a minimum amount of damage based on level and stats, and enhances his next Basic Attack. Harith's enhanced Basic Attack deals scaling damage and slows enemies by 40%. Hitting an enemy with Harith's enhanced Basic Attack reduces the cooldown of Synchro Fission by 3 seconds.
 
-- Mana cost: 40 / 43 / 46 / 49 / 52 / 55 (per level)
-- Shield amount: scaling based on level and stats
-- Enhanced Basic Attack damage: scaling damage based on level and stats
-- Notes: The skill provides a Blink and a temporary Shield, and interacts with cooldown reduction on successful hits.
+- Effect types: Blink, Buff
+- Mana cost (per level): 40 / 43 / 46 / 49 / 52 / 55
+- Base Damage (scale): 185-310 (scaling damage based on level and stats)
+- Alternative damage scale provided: 225-350 (scaling) with additional parameters
+- Terminology: Shield, Magic Basic Attack
+
+Notes: Generates protection and enables a follow-up enhanced basic attack that inflicts damage and slow.
 
 ## Zaman Force
 
-Harith uses his Key to summon the Zaman Force. When the multidimensional rift appears, the cooldown of Chrono Dash is reduced by 4 seconds. The rift initially slows enemy heroes in the area by 70% and will continuously slow enemy heroes by 35% afterwards. If Harith comes into contact with the rift using Chrono Dash, he will absorb the energy within and reduce the cooldown of Chrono Dash by 1 second and Synchro Fission by 3 seconds. Harith gains 15% Resilience while on the rift.
+Harith uses his Key to summon the rift. When the multidimensional rift appears, the cooldown of Chrono Dash (Skill 2) is reduced by 4 seconds. The rift initially slows enemy heroes in the area by 70% and will continuously slow enemy heroes by 35% afterwards. If Harith comes into contact with the rift using Chrono Dash, he will absorb the energy within and reduce the cooldown of Chrono Dash by 1 second and Synchro Fission by 3 seconds. Harith gains 15% Resilience while on the rift.
 
-- Mana cost: 120 / 160 / 200 (per level)
-- Cooldown: 40.0 / 35.0 / 30.0 (ultimate levels)
-- Area slow: 70% initial, 35% continuous
-- Harith gains 15% Resilience while on the rift
+- Effect types: Buff, Slow
+- Mana cost (per level): 120 / 160 / 200
+- Cooldown (per level): 40.0 / 35.0 / 30.0
 
-Notes:
-- The Rift has the length of 12 unit.
+Quote: They say geniuses recognize one another!, a quote from.
+
+Notes: The rift has the length of 12 unit.
 
 # Trivia
 
 - Harith's Passive "Key Insight" used to be able to increase his Resilience.
 - Although Harith is a mage, his main role is often played in the Gold Lane rather than the Mid Lane.
-- Harith is the first hero to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include, , , and.
+- Harith is the first hero to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include, , , and .

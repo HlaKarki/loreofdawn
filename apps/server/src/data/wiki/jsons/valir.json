@@ -85,7 +85,7 @@
           "text": "*Unnamed father (deceased)\n* (childhood friend)\n* (ex-mentor)"
         },
         "en_va": {
-          "text": "Justin Cabanting"
+          "text": "Justin Cabanting (Demonlord)"
         },
         "id_va": {
           "text": "Hardianto"
@@ -103,6 +103,12 @@
       }
     ],
     "references": [
+      {
+        "template": "citation",
+        "type": "inline",
+        "data": {},
+        "inline": {}
+      },
       {
         "template": "citation",
         "type": "inline",

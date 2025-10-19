@@ -2,29 +2,29 @@
 
 # Profile
 
- - **Name:** Helcurt
-- **Alias:** Shadowbringer
-- **Origin:** Abyss Crack, The Barren Lands
-- **Species:** Unknown
-- **Gender:** Male
-- **Affiliation:** The Abyss
-- **Weapons:** Venomous stingers
-- **Traits:** Traitorous
-- **Relationships:** * Lord of the Abyss (Former Master/Enemy)
-- **English Voice Actor:** Cian Hoyne (2017–2024)
+- Name: Helcurt
+- Chinese name: 哈卡特 (hākǎtè)
+- Alias: Shadowbringer
+- Origin: Abyss Crack, The Barren Lands
+- Species: Unknown
+- Gender: Male
+- Affiliation: The Abyss
+- Weapons: Venomous stingers
+- Traits: Traitorous
+- Relationships:
+  - Lord of the Abyss (Former Master/Enemy)
+  - (rival)
+  - (enemy)
+- English VA: Cian Hoyne (2017–2024)
 
-Helcurt
 
 # Story
 
 > "The nightmare of the Abyss who's Willing to betray anyone in order to survive."
 
-Helcurt was born into the Styx Clan of the Abyss and bore the stigma of his clan's betrayal against the Lord of the Abyss. However, in a twist of fate, he was put on the Tribunal tasked with executing traitors for the Lord. To survive, Helcurt was willing to do anything, including hunting his own kin. Yet, during the great uprising against the Lord of the Abyss, Helcurt was the one who slew him.
+Helcurt was born into the Styx Clan of the Abyss and bore the stigma of his clan's betrayal against the Lord of the Abyss. However, in a twist of fate, he was put on the Tribunal tasked with executing traitors for the Lord.
 
-He was born a traitor and never knew the honor of loyalty, but even as a traitor, he had the right to live.
-
-# Bio
-
+To survive, Helcurt was willing to do anything, including hunting his own kin. Yet, during the great uprising against the Lord of the Abyss, Helcurt was the one who slew him. He was born a traitor and never knew the honor of loyalty, but even as a traitor, he had the right to live.
 
 
 # Side Story
@@ -33,9 +33,9 @@ He was born a traitor and never knew the honor of loyalty, but even as a traitor
 
 > "Born in the darkness, Helcurt was bestowed with the genius of stalking and ambushing. He dwelt in the shadows, seeking only his prey. Enslaved by the Abyss, he waited for that split second his prey would falter. Now, Helcurt steps forth from the gloom, his blade at the ready. The time of lurking has ended, and the hunt shall begin. Official MLBB socials"
 
-They were traitors the moment they were born. In the darkest depths of the Abyss, the Styx Clan once bared their fangs against the Lord of the Abyss.
+They were traitors the moment they were born.
 
-The Styx Clan were the deadliest hunters to roam the shadows, born to spread the darkness. They could stalk their enemies for days in complete silence before finally slitting their throats and vanishing into the night. Their talents made them the most feared assassins of the Abyss. But even more terrifying was their beast-like nature, because when survival is at stake, there is no predicting what a beast would do.
+In the darkest depths of the Abyss, the Styx Clan once bared their fangs against the Lord of the Abyss. The Styx Clan were the deadliest hunters to roam the shadows, born to spread the darkness. They could stalk their enemies for days in complete silence before finally slitting their throats and vanishing into the night. Their talents made them the most feared assassins of the Abyss. But even more terrifying was their beast-like nature, because when survival is at stake, there is no predicting what a beast would do.
 
 > "Survive..."
 
@@ -59,13 +59,13 @@ He was born with the stigma of a traitor, and now he must live up to that name a
 
 In the murky swamps where he could alone, Helcurt marked each passing year by tying a knot on a rope. This was his proof that he was alive. Living was his most humble and proud desire, even if he did so like a dog in the shadows......
 
-Helcurt had survived to see the end of the war, but with the absence of the gods. madness to spread through the Abyss. The source of it all was the Lord of the Abyss, who had lost his way without his dark god, For thousands of years, he controlled the Abyss using his corrupted blood, and now his madness infected them in the same manner.
+Helcurt had survived to see the end of the war, but with the absence of the gods, madness spread through the Abyss. The source of it all was the Lord of the Abyss, who had lost his way without his dark god. For thousands of years, he controlled the Abyss using his corrupted blood, and now his madness infected them in the same manner. This was the 310CX-i Curse.
 
-This was the 310CX-i Curse. Left with no choice, the demons of the Abyss, led by Thamuz, turned against the Lord of the Abyss. They surged toward the Lord of the Abyss's palace, and Helcurt, leading the Tribunal, stood as the last line of defense like an imposing wall.
+Left with no choice, the demons of the Abyss, led by Thamuz, turned against the Lord of the Abyss. They surged toward the Lord of the Abyss's palace, and Helcurt, leading the Tribunal, stood as the last line of defense like an imposing wall.
 
 Amidst the chaos, Helcurt gripped his tightly.
 
-> "A thousand knots, a thousand years...'
+> "A thousand knots, a thousand years...'"
 
 The coarse feel of the reminded him that he was still alive.
 
@@ -83,6 +83,7 @@ He was born a traitor.
 
 He had always been a traitor.
 
+
 ## Help! I Almost Got Killed in the Abyss!
 
 
@@ -91,57 +92,80 @@ He had always been a traitor.
 
 ## Shadow of Styx
 
-- **Quote:** "He who hides in the shadow."
+- He who hides in the shadow.
 
-- **Description:** Helcurt remains in the Conceal state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating HP (amount scales with level and stats) if he has not dealt any damage. He gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4 seconds upon being spotted and leaves Conceal state 0.75 second later.
+- Description:
+  - Helcurt remains in the state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating HP if he has not dealt any damage.
+  - He gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4 seconds upon being spotted and leaves state 0.75 second later.
+  - Any hero killed after hit by Helcurt leaves a that explodes and spreads with a cooldown of 10 seconds. Helcurt Conceals himself while within the.
 
-- Any hero killed after hit by Helcurt leaves a shadow fragment that explodes and spreads with a cooldown of 10 seconds. Helcurt conceals himself while within the shadow.
-
-- **Notes:**
-  - In the description, Helcurt's "Conceal" grants him Invisibility.
+- Notes:
+  - In the description, Helcurt's "Conceal" grants him Invisibility. The only other hero to possess an Conceal skill is .
   - The sound effect when losing the state is audible to all nearby units.
+
 
 ## Hidden Terror
 
-- **Effects:** Mobility, CC
-- **Cooldown (per level):** 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds
+- Mobility, CC
 
-- **Description:** When Helcurt is in Conceal state, the skill terrifies enemy heroes hit and its cooldown decreases 3 times as fast. Active: Helcurt blinks to the target location and deals damage to enemies within the area, reducing their Movement Speed by 60% for 0.75s.
+- Description:
+  - When Helcurt is in state, the skill terrifies enemy heroes hit and its cooldown decreases 3 times as fast.
+  - Helcurt blinks to the target location and deals scaling damage to enemies within the area, reducing their Movement Speed by 60% for 0.75s.
 
-- **Base Damage (per level):** 150 / 180 / 210 / 240 / 270 / 300
+- Cooldown:
+  - 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds (scales by level)
 
-- **Terms:** Blink, CC
+- Level Scaling:
+  - Base Damage: 150 / 180 / 210 / 240 / 270 / 300
+
+- Terms:
+  - Blink
+  - CC
+
 
 ## Deadly Stinger
 
-- **Effects:** Burst
-- **Cooldown (per level):** 4.0 / 3.7 / 3.4 / 3.1 / 2.8 / 2.5 seconds
+- Burst
 
-- **Description:** Passive: Helcurt gains one stinger for every 1.5s spent in Conceal state or on each Basic Attack. Up to 5 stingers can be stored. Active: Helcurt fires all stored stingers forward, each dealing physical damage to enemies (Minions and Creeps only take 70% of the damage). Deadly Stinger counts as a Basic Attack, but it cannot Crit.
+- Description:
+  - Helcurt gains one stinger for every 1.5s spent in state or on each Basic Attack. Up to 5 stingers can be stored.
+  - Helcurt fires all stingers forward, each dealing physical damage to enemies (Minions and Creeps only take 70% of the damage).
+  - Deadly Stinger counts as a Basic Attack, but it cannot Crit.
 
-- **Base Damage (per level):** 180 / 200 / 220 / 240 / 260 / 280
-- **Extra Physical Attack:** 42 (scales with stats)
-- **Attack Effects:** 100%
+- Cooldown:
+  - 4.0 / 3.7 / 3.4 / 3.1 / 2.8 / 2.5 seconds (scales by level)
 
-- **Terms:** Physical Damage Skill, Extra Physical Attack, Movement Speed
+- Level Scaling:
+  - Base Damage: 180 / 200 / 220 / 240 / 260 / 280
+  - Extra Physical Attack: 42 (scaling with AD)
 
-- **Notes:** This skill cannot trigger the attack effect stacking part of 's Unique Passive, Endless Strike.
+- Notes:
+  - This skill cannot trigger the attack effect stacking part of 's Unique Passive, Endless Strike.
+
 
 ## Dark Night Falls
 
-- **Effects:** Buff, Debuff
-- **Cooldown (per level):** 60.0 / 55.0 / 50.0 seconds
-- **Duration:** 3 seconds
+- Buff, Debuff
 
-- **Description:** Helcurt summons the Dark Night, reducing all enemies' sight range and making them lose sight of their allies for 3s. During Dark Night, Helcurt gains Movement Speed (see scaling below). The Dark Night makes it easier for Helcurt to leave enemies' sight range.
+- Description:
+  - Helcurt summons the Dark Night, reducing all enemies' sight range and making them lose sight of their allies for 3 seconds. During the Dark Night, Helcurt gains Movement Speed.
+  - The Dark Night makes it easier for Helcurt to leave enemies' sight range.
 
-- **Movement Speed Bonus (per level):** 40% / 45% / 50%
+- Cooldown:
+  - 60.0 / 55.0 / 50.0 seconds (scales by level)
 
-- **Notes:**
+- Duration:
+  - 3 seconds
+
+- Movement Speed Bonus:
+  - 40% / 45% / 50% (scales by level)
+
+- Notes:
   - Does not affect enemy turrets.
-  - Does not affect units inside Helcurt's shadow fragments.
+  - Does not affect units inside 's .
   - Enemies' attack and abilities are not restricted by vision.
-  - Is not considered as an assist if an enemy hero is killed within the duration without any Helcurt damage.
+  - Is not considered as an assist if an enemy hero is killed within the duration without any Helcurt's damage.
+
 
 # Trivia
 

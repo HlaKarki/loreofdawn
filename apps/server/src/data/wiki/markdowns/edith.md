@@ -2,34 +2,22 @@
 
 # Profile
 
-She was released as a part of the M3 World Championship-related events.
+She was released as a part of the M3 World Championship-related events. Players had a chance to redeem the hero for free for a limited time.
 
-Players had a chance to redeem the hero for free for a limited time.
-
-- Alias: *Ancient Guard*, *Forsaken Warden*, *Primal Warden*
+- Aliases: *Ancient Guard*, *Forsaken Warden*, *Primal Warden*
 - Chinese name: 伊童 (yītóng) - Edith 菲莱克斯 (Fēiláikèsī) - Phylax
 - Origin: Sanctum Island
 - Age: more than 1000
 - Species: Demigoddess
 - Gender: Female
 - Occupation: Priestess
-- Affiliation: *Sanctum Island*, *Celestial Palace*
-- Weapons: Phylax
+- Affiliation: Sanctum Island; Celestial Palace
+- Weapon / Mecha: Phylax
 - Abilities: Primal Lightning
 - Battles fought: Endless War
 - Traits: Paradox (Divinity and Humanity), Tenacious, Sense of Responsibility
-- Relationships: *Unnamed foster father*, *Phylax (armor)*, *(ally)*, *Evil Gods (enemies)*
-- Voice actors: EN: Xanthe Huynh; JA: Shibata Mei (柴田 芽衣)
-
-# Story
-
-> "Forsaken Warden with sealed memories."
-
-Created by the Ancient Ones, Edith was the Primal Warden that watched over the sealed Evil Gods on the Sanctum Island. Awakened and injured in an earthquake, she lost her memories and was saved by her foster father who made a living by selling scraps and continued to raise her for ten years.
-
-When she once again helped her foster father enter the temple to search for scraps, the guardian of the ruins—Elemental Giant Uranus—was prepared to destroy the invaders. It was then that Edith remembered everything, but her humanity overpowered her divine nature, and she fought Uranus to protect her foster father.
-
-Just then, the Celestial Palace fell and the sealed Evil Gods scattered. Edith parted with her foster father, drove her Mecha "Phylax" and set out on a journey to hunt down fleeing Evil Gods.
+- Relationships: Unnamed foster father; Phylax (armor); allies include Kaja and Uranus; enemies include Evil Gods
+- Voice actors: EN — Xanthe Huynh; JP — Shibata Mei (柴田 芽衣)
 
 # Bio
 
@@ -53,21 +41,19 @@ After a devastating earthquake, the ruins of a temple were revealed. It was buri
 
 The old man risked his life and carried the girl back to the seaside fishing village. Having been injured in the head, the girl could only remember her name—Edith. The childless old man took her in, and together they lived in the small village.
 
-Edith's foster father doted on the daughter that he miraculously found, and spared no effort to care for her. Edith could stroll around in the village when she didn't have to help with the chores, but the old man had one rule: she couldn't go near the valley—he had a hunch that one day he would lose his daughter there…
+Edith's foster father doted on the daughter that he miraculously found, and spared no effort to care for her. Edith could stroll around in the village when she didn't have to help with the chores, but the old man had one rule: she couldn't go near the valley—he had a hunch that one day he would lose his daughter there.
 
 When Edith was bored, she would often gaze up at the Celestial Palace above—the villagers said that it was the temple of the gods, and sometimes she could see bizarre birdlike people gliding across the sky with lightning. But every time she saw them, a strong feeling of unease would fill her heart, for the past she'd forgotten seemed to be connected to the lightning sparks. So, she would always run back home and bury herself in her father's arms, calming down as the old man patted her hand.
 
-Ten years passed, and the old man became frailer. The other kids all grew up, except for Edith who remained as young as when she was first found.
-
-Eventually, her foster father was too old for physical labor. In order to survive, he had to break the rule that he set up himself—he brought Edith with him to pick up metal scraps in the ruins of the valley.
+Ten years passed, and the old man became frailer. The other kids all grew up, except for Edith who remained as young as when she was first found. Eventually, her foster father was too old for physical labor. In order to survive, he had to break the rule that he set up himself—he brought Edith with him to pick up metal scraps in the ruins of the valley.
 
 Having searched the outside in vain, the old man had to take the risk and step inside the temple with Edith. As they walked deeper within, Edith felt that her memories were surfacing once again, and suddenly lightning struck as giant flying blades were shot at her father! Edith dashed forward and instinctively stopped the blades with her power, the blades plunging into the ground and splitting rocks with lightning sparks.
 
-Amidst the fire and dust, an Elemental Giant in gold armor appeared in front of Edith,
+Amidst the fire and dust, an Elemental Giant in gold armor appeared in front of Edith.
 
 > "You left your post, Edith!"
 
-This was—Uranus, the Guardian of the Celestial Palace! At that very moment, countless memories flooded Edith's mind: the Ancient Ones, priests and priestesses, the temple, Evil Gods… She screamed to reject the memories, but her mind was already engrossed in the past: the earthquake accidentally awoke me from my slumber, and it was the old man who raised me when I barely knew anything…
+This was—Uranus, the Guardian of the Celestial Palace! At that very moment, countless memories flooded Edith's mind: the Ancient Ones, priests and priestesses, the temple, Evil Gods. She screamed to reject the memories, but her mind was already engrossed in the past: the earthquake accidentally awoke me from my slumber, and it was the old man who raised me when I barely knew anything.
 
 > "Die, invader!"
 
@@ -87,7 +73,7 @@ And Edith calmly replied,
 
 Among the temple ruins in the depths of the valley, Edith and Uranus were locked in a fierce battle, roars of thunder echoing in the mountains as lightning strikes crashed against each other, shattering the stone pillars and statues.
 
-While the two were still in a deadlock, a birdlike Guardian of the Celestial Palace—Kaja—closed his wings and descended upon the ruins,
+While the two were still in a deadlock, a birdlike Guardian of the Celestial Palace—Kaja—closed his wings and descended upon the ruins.
 
 > "Stop the foolish fight! The Celestial Palace is in peril!"
 
@@ -117,102 +103,93 @@ But the land was facing new crises due to the fall of the Celestial Palace. Edit
 
 > "I promise!"
 
-Edith drove "Phylax" and flew toward the Land of Dawn.
+Edith drove "Phylax" and flew toward the Land of Dawn. Later, a lot of people across the Land of Dawn would claim that they had seen a giant Mecha Guard. Every time an Evil God wreaked havoc in the world, Edith and her "Phylax" would be there in an instant, punishing the dark forces without mercy.
 
-Later, a lot of people across the Land of Dawn would claim that they had seen a giant Mecha Guard. Every time an Evil God wreaked havoc in the world, Edith and her "Phylax" would be there in an instant, punishing the dark forces without mercy.
+In between battles, the girl would detach from "Phylax" and gaze at the far distant northeast. Across the horizon, mountains, rivers and seas, on the remote island, an old man would also be looking longingly at the direction of his daughter.
 
-In between battles, the girl would detach from "Phylax" and gaze at the far distant northeast. Across the horizon, mountains, rivers and seas, on the remote island, an old man would also be looking longingly at the direction of his daughter…
+# Story
+
+> "Forsaken Warden with sealed memories."
+
+Created by the Ancient Ones, Edith was the Primal Warden that watched over the sealed Evil Gods on the Sanctum Island. Awakened and injured in an earthquake, she lost her memories and was saved by her foster father who made a living by selling scraps and continued to raise her for ten years.
+
+When she once again helped her foster father enter the temple to search for scraps, the guardian of the ruins — Elemental Giant Uranus — was prepared to destroy the invaders. It was then that Edith remembered everything, but her humanity overpowered her divine nature, and she fought Uranus to protect her foster father.
+
+Just then, the Celestial Palace fell and the sealed Evil Gods scattered. Edith parted with her foster father, drove her Mecha "Phylax" and set out on a journey to hunt down fleeing Evil Gods.
 
 # Abilities
 
 ## Overload
 
-After each skill cast, Edith and Phylax become Overloaded for 3 seconds, during which all Basic Attacks will trigger chain lightning, dealing extra Magic Damage equal to scaling damage to up to 4 enemies. Chain lightning damage against Minions is increased to 150%.
-
+- After each skill cast, Edith and Phylax become Overloaded for 3 seconds, during which all Basic Attacks will trigger chain lightning, dealing extra Magic Damage to up to 4 enemies (scaling damage based on level and magic power).
+- Chain lightning damage against Minions is increased to 150%.
 - Chain lightning counts as Skill Damage.
-- When the first target of its/her chain lightning is not a nearby Turret, the Turret will not be included in the chain.
+- When the first target of the chain lightning is not a nearby Turret, the Turret will not be included in the chain.
 
 ## Earth Shatter / Divine Retribution
 
-Earth Shatter
+Phylax — Earth Shatter
 
-- Cooldown: 8.5 / 8.1 / 7.7 / 7.3 / 6.9 / 6.5 seconds
-- Base Damage (by level): 225 / 270 / 315 / 360 / 405 / 450 (physical)
+- After a 0.75 seconds delay, Edith controls Phylax to launch an earth-shattering blow in a designated direction.
+- Effects: Deals physical damage to enemies hit and knocks Minions airborne for 1 second. Deals increased damage to Minions (120% of hit damage).
+- This skill won't be interrupted by regular control effects (excluding Suppression).
+- Base Damage by level: 225 / 270 / 315 / 360 / 405 / 450 (physical damage). Cooldown scales by level.
 
-After a 0.75 seconds delay, Edith controls Phylax to launch an earth-shattering blow in a designated direction, dealing physical damage based on level and stats to enemies hit. Deals 120% damage to Minions and knocks them airborne for 1 second. This skill won't be interrupted by regular control effects (excluding Suppression).
+Edith — Divine Retribution
 
-Term: Airborne, Physical Damage Skill
-
----
-
-Divine Retribution
-
-- Cooldown: 5.0 / 4.7 / 4.4 / 4.1 / 3.8 / 3.5 seconds
-- Base Damage (initial, by level): 170 / 200 / 230 / 260 / 290 / 320 (magic)
-- Continuous Damage every 0.5s (by level): 68 / 80 / 92 / 104 / 116 / 128 (magic)
-- Mana cost: 40 (scales by level as given)
-
-Edith exacts Divine Retribution on a target area, dealing magic damage based on level and stats to enemies hit and slowing them by 30%. She then continues to deal continuous magic damage based on level and stats to enemies in the area every 0.5 second over the next 1.5 seconds.
-
-Term: Magic Damage Skill
+- Edith exacts Divine Retribution on a target area, dealing magic damage to enemies hit and slowing them by 30%.
+- She then continues to deal magic damage to enemies in the area every 0.5 second over the next 1.5 seconds (continuous damage over time).
+- Base Damage (instant) by level: 170 / 200 / 230 / 260 / 290 / 320 (magic damage).
+- Continuous Damage by pulse by level: 68 / 80 / 92 / 104 / 116 / 128 (magic damage).
+- Spell Vamp Ratio: 25%.
 
 Notes:
-- Spell Vamp Ratio: 25%.
+- Damage values are provided per level as listed above. Cooldowns vary by level.
 
 ## Onward / Lightning Bolt
 
-Onward
+Phylax — Onward
 
-- Cooldown: 10.0 seconds
-- Base Damage (by level): 90 / 100 / 110 / 120 / 130 / 140 (physical)
+- Edith controls Phylax to charge in the target direction, dealing physical damage to enemies along the way.
+- If Phylax hits an enemy hero during this process, it will stop immediately and throw them over its shoulder, dealing additional physical damage and causing Airborne.
+- Base Damage by level: 90 / 100 / 110 / 120 / 130 / 140 (physical damage).
 
-Edith controls Phylax to charge in the target direction, dealing physical damage based on level and stats to enemies along the way. If Phylax hits an enemy hero during this process, it will stop immediately and throw them over its shoulder, dealing additional physical damage based on level and stats.
+Edith — Lightning Bolt
 
-Term: Charge, Airborne, Physical Damage Skill
-
----
-
-Lightning Bolt
-
-- Cooldown: 10.0 seconds
-- Base Damage (by level): 150 / 180 / 210 / 240 / 270 / 300 (magic)
-- Mana cost: 50 (as indicated in scaling)
-
-Edith fires a Lightning Bolt in a designated direction, dealing magic damage based on level and stats to the first enemy hero hit and immobilizing them for 0.8 seconds.
-
-Term: Immobilize, Magic Damage Skill
+- Edith fires a Lightning Bolt in a designated direction, dealing magic damage to the first enemy hero hit and immobilizing them for 0.8 seconds.
+- Base Damage by level: 150 / 180 / 210 / 240 / 270 / 300 (magic damage).
+- Spell Vamp Ratio: 25%.
 
 Notes:
-- Spell Vamp Ratio: 25%.
+- Onward and Lightning Bolt share a cooldown of 10 seconds.
 
 ## Primal Wrath
 
-Passive / Wrath / Active
-
-- Cooldown: 40.0 / 37.0 / 34.0 seconds
-- Flight Duration (by level): 8 / 10 / 12 seconds
-- Basic Attack Damage when in flight (by level): 35 / 50 / 65 (magic basic attack)
-- Base Shield (by level): 350 / 500 / 650
-- Magic Power scaling applies to damage values
-
-When inside Phylax, Edith can accumulate Wrath according to the damage she receives (calculated before damage reduction). Edith ejects herself forward from Phylax, knocking back nearby enemies. After that, she takes flight and can perform ranged Basic Attacks, each dealing damage based on level and stats. Edith also gains new skills in this state.
-
-When in flight, Edith gains an extra Shield (350–650 based on ultimate level), 50%–150% extra Attack Speed and 5%–20% Hybrid Lifesteal based on Wrath she accumulated, and converts each point of Extra Physical Defense and Extra Magic Defense into 3.5 scaling damage. The Flight state lasts up to 8–12 seconds.
+- Type: Morph / Buff. When inside Phylax, Edith can accumulate Wrath according to the damage she receives (calculated before damage reduction).
+- Active: Edith ejects herself forward from Phylax, knocking back nearby enemies. After that, she takes flight and can perform ranged Basic Attacks, each dealing magic damage. Edith also gains new skills in this state.
+- While in flight, Edith gains a shield and multiple bonuses based on Wrath accumulated:
+  - Base Shield by ultimate level: 350 / 500 / 650.
+  - Basic Attack Damage (magic basic attack) by ultimate level: 35 / 50 / 65.
+  - Duration (flight) by ultimate level: 8 / 10 / 12 seconds.
+  - Additional benefits scale with Wrath: increased Attack Speed (scales, example range cited in source), Hybrid Lifesteal (scales by Wrath), and conversion of Extra Physical Defense and Extra Magic Defense into a 3.5 scaling value per point.
+- Cooldown by level: 40 / 37 / 34 seconds.
 
 Notes:
 - Wrath begins to deplete after 5 seconds of Phylax not being in battle (i.e. not taking or dealing damage), with 10% of Wrath depleted every 0.5 seconds.
 - Wrath persists after death and depletes nonetheless.
 - Edith can end Primal Wrath prematurely by canceling it.
 
+Additional values and scaling are based on in-game Wrath accumulation and hero stats; exact per-point conversions and percentage scaling are determined by level and equipped stats.
+
 # Trivia
 
-- Edith is a feminine given name derived from the Old English word ēad, meaning wealth or prosperity, in combination with the Old English gȳð, meaning strife or war. Her name would technically mean "prosperous in war".
-- Edith is the first hero to have the Tank/Marksman role.
-- Edith was the 9th hero who was given to players for free on release. The other free heroes are, , , , , , and.
-- She is currently the only hero who does not have Attack speed growth.
-- Aside from Brody, Edith is the only hero who doesn't wield any weapon.
-- In Ancient Greek, phylax (φύλαξ) means “watcher, guard, sentinel, guardian, keeper, or protector”.
-- Phylax was first introduced in advanced server. It was later revealed that Edith was alongside it from leaks and early-access servers.
-- According to Phylax' old hero feature ("An ancient machine guard that executes any trespassers on the Sanctuary Island"), it is described as an executioner to any trespassers. Phylax/Edith were also supposed to come from Sanctuary Island, which it was named later as Sanctum Island.
-- In addition, Phylax is described as an Ancient Machine rather than an Ancient Guard before indicating that Phylax is primarily focused.
-- Edith was supposed to be released on December 21, 2021 along with Patch Notes 1.6.42, but it was postponed until it was finally released on December 24, 2021.
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined

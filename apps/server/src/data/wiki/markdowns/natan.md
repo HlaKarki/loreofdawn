@@ -2,48 +2,29 @@
 
 # Profile
 
-Alias: Spacetime Walker
-
-Chinese name: 纽特 (Niǔtè)
-
-Origin: Eruditio, Agelta Drylands
-
-Species: Human
-
-Gender: Male
-
-Occupation:
-- Eruditio scholar
-- Researcher
-- Inventor
-- "Official leader of Eruditio" (former)
-
-Affiliation:
-- Eruditio
-- The Abyss (enemies)
-
-Weapons: Time Machine
-
-Abilities:
-- Time traveling
-- Teleportation
-- Summons Reverse-Clone
-
-Traits: Steady, Intelligent
-
-Relationships: (companions and enemies not detailed)
-
-Voice actors:
-- ID VA: Agathon Hafi
-- JP VA: Ryosuke Asano (浅野 良介)
-
-# Story
-
-> "The savior who travels through time and space."
-
-> "When the world is at the brink of doom, Natan appears. He'll travel through time to find the way to save the world, no matter the odds and cost."
-
-A thousand years after falling into a deep slumber, the Lord of the Abyss and the Lord of Light awoke, and so the Endless War raged once more. Natan stood as Eruditio's leader, guiding the people in their search for hope in this world. Yet having faced numerous defeats he decided instead to cast his gaze not to the future, but to the past by inventing a time machine. As the world teetered on the brink of destruction, his time machine finally reached completion as it absorbed the combined power of the Twilight Orbs: Natan stepped within, and started searching the past for a chance to save the world.
+- Alias: Spacetime Walker
+- Chinese name: 纽特 (Niǔtè)
+- Origin: Eruditio, Agelta Drylands
+- Species: Human
+- Gender: Male
+- Occupation:
+  - Eruditio scholar
+  - Researcher
+  - Inventor
+  - "Official leader of Eruditio" (former)
+- Affiliation:
+  - Eruditio
+  - The Abyss (enemies)
+- Weapons: Time Machine
+- Abilities:
+  - Time traveling
+  - Teleportation
+  - Summons Reverse-Clone
+- Traits: Steady, Intelligent
+- Relationships: (companions and enemies not listed in source)
+- Voice actors:
+  - Indonesian VA: Agathon Hafi
+  - Japanese VA: Ryosuke Asano (浅野 良介)
 
 # Bio
 
@@ -79,7 +60,9 @@ It was a wild fantasy of an idea, one that seemed to raise more problems than it
 
 Regardless, humanity had been forced into a corner with no way back. Even the weakest flicker of hope could not be allowed to die out.
 
-Erudition put all other research aside and committed all of its manpower and resources into the search for a way to make time travel a reality. Natan allowed himself not a second of rest, with almost all of his time and energy dedicated to his research.
+Erudition put all other research aside and committed all of its manpower and resources into the search for a way to make time travel a reality.
+
+Natan allowed himself not a second of rest, with almost all of his time and energy dedicated to his research.
 
 This unrelenting effort eventually produced results. Natan and the other researchers worked together to produce an apparatus that, if provided enough power, could warp time itself. They continued to advance their research based around this discovery, a rudimentary time machine slowly developing before their eyes. A nagging problem remained, however: even with their current research, they had no way of providing the machine with such a gargantuan amount of power.
 
@@ -103,77 +86,95 @@ The end of the world loomed before him, and at his back shone the hope of all ot
 
 The future had to change. Even if it meant a lifetime spent searching the sprawling expanses of time and space, Natan would never give up hope, for such hope didn’t belong to him alone. It was the hope of everyone in the Moniyan. Just as long as he kept going, and never gave up, there was still a chance for the Land of Dawn survival.
 
+# Story
+
+> "The savior who travels through time and space."
+
+> "When the world is at the brink of doom, Natan appears. He'll travel through time to find the way to save the world, no matter the odds and cost."
+
+A thousand years after falling into a deep slumber, the Lord of the Abyss and the Lord of Light awoke, and so the Endless War raged once more. Natan stood as Eruditio's leader, guiding the people in their search for hope in this world. Yet having faced numerous defeats he decided instead to cast his gaze not to the future, but to the past by inventing a time machine.
+
+As the world teetered on the brink of destruction, his time machine finally reached completion as it absorbed the combined power of the Twilight Orbs: Natan stepped within, and started searching the past for a chance to save the world.
+
 # Abilities
 
 ## Theory of Everything
 
-> "Time is nothing more than a descriptor of space..."
+- Entanglement stacks: Natan gains a stack of Entanglement each time he or his Reverse-Clone hits an enemy with a skill (up to 6 stacks). Each stack lasts 2.5 seconds and grants extra Attack Speed and Movement Speed. Hitting an enemy refreshes Entanglement's duration.
 
-Natan gains a stack of Entanglement each time he or his Reverse-Clone hits an enemy with a skill (up to 6 stacks). Each stack lasts 2.5 seconds and grants extra Attack Speed and Movement Speed. The shown values scale with Entanglement stacks and hero level.
+- Extra Attack Speed formula: extra ATK SPD = [ (0.0053571 × hero level) + 0.069643 ] × number of Entanglement stacks.
 
-- Entanglement stacks: up to 6. Each stack refreshes duration on hit.
-- Movement and Attack Speed bonus: grants 7.5% extra Attack Speed and 7.5% Movement Speed per stack (values scale with level; listed scaling values omitted here).
-- Projectiles: Natan's projectiles will return to Natan after reaching maximum range, dealing extra scaling damage to enemies along the way (extra damage scales with level and stats). Projectile returns inherit 65% of Natan's attack effects.
+- Projectiles: Natan's projectiles will return to Natan after reaching maximum range, dealing extra scaling damage to enemies along the way and inheriting 65% of Natan's attack effects.
 
-Notes:
-- Natan only benefits 80% of his Physical and Magic Lifesteal from this passive.
-- Some damage interactions may be modified by unique passive/devour effects.
+- Stacks: Each stack grants 7.5% extra Attack Speed and 7.5% Movement Speed (scaling up with levels and stacks; total potential values increase with skill progression and stacks).
+
+- Notes:
+  - Natan only benefits 80% of his Physical and Magic Lifesteal.
+  - Damage interactions may be reduced by unique passive mechanics on some items.
+
+- Summary: Passive grants Entanglement stacks that boost attack speed and movement speed, causes projectiles to return and deal additional scaling damage, and interacts with attack effects at a reduced percentage.
 
 ## Superposition
 
-"There is no \"collapse\"."
+- Skill type: Magic Skill
+- Cooldown (per level): 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
+- Mana cost (per level): 50 / 55 / 60 / 65 / 70 / 75
 
-Natan shoots a dense mass of energy, dealing magic damage to enemies along its path.
+Description:
 
-- Base Damage by level: 225 / 260 / 295 / 330 / 365 / 400 (scales with magic power).
-- Skill type: Magic Skill.
-- Mana cost by level: 50 / 55 / 60 / 65 / 70 / 75.
-- Cooldown by level: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds.
+Natan shoots a dense mass of energy, dealing scaling magic damage to enemies along its path.
+
+- Base damage (per level): 225 / 260 / 295 / 330 / 365 / 400 (scaling with magic power and level).
 
 Notes:
-- Only 50% of Natan's Physical and Magic Lifesteal benefits this skill.
+
+- Only benefits 50% of Natan's Physical and Magic Lifesteal.
 - Backswing removed.
 
 ## Interference!
 
-"There is only \"decoherence\"."
+- Skill type: Charge (Magic Skill)
+- Cooldown (per level): 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds
+- Mana cost (per level): 60 / 65 / 70 / 75 / 80 / 85
 
-Natan launches a Gravitational Attractor which carries enemies on contact along its path and deals magic damage to them. The attractor explodes upon reaching the end, knocking back nearby enemies, applying a brief interrupt for 0.1 second, and dealing additional scaling magic damage.
+Description:
 
-- Base damage by level (initial): 150 / 180 / 210 / 240 / 270 / 300 (scales with magic power).
-- Explosion extra damage by level: 30 / 35 / 40 / 45 / 50 / 55 (scales with magic power).
-- Skill type: Charge / Magic Skill.
-- Mana cost by level: 60 / 65 / 70 / 75 / 80 / 85.
-- Cooldown by level: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds.
+Natan launches a Gravitational Attractor which carries enemies on contact along the path and deals scaling magic damage to them. The attractor explodes upon reaching the end, knocking back nearby enemies, stunning them for 0.1 second, and dealing additional scaling magic damage to them.
+
+- Base damage (per level): 150 / 180 / 210 / 240 / 270 / 300
+- Extra explosion damage (per level): 30 / 35 / 40 / 45 / 50 / 55 (scaling with level and magic power)
 
 Notes:
-- Only 50% of Natan's Physical and Magic Lifesteal benefits this skill.
+
+- Only benefits 50% of Natan's Physical and Magic Lifesteal.
 - Backswing removed.
-- Known bug: Explosion of attractor may fail to trigger certain effects despite the interrupt/stun effect.
+- Known bug: Explosion of attractor may fail to trigger certain effects despite the stun effect.
 
 ## Entropy?
 
-"Entropy can decrease."
+- Skill effects: Summon, Blink
+- Cooldown: 24.0 / 20.0 / 16.0 seconds
+- Mana cost: 100 / 50 / 0
 
-Natan summons a Reverse-Clone at a target location 6 units away that lasts 10 seconds. The Reverse-Clone inherits a percentage of Natan's attack attributes and will copy his moves and attacks in reverse. Use Again: Natan switches places with the Reverse-Clone (blink). Each cast reduces other skills' remaining cooldowns by 50%. The Reverse-Clone will disappear if Natan is too far away.
+Description:
 
-- Attributes inherited by level: 35% / 37.5% / 40% of Natan's attack attributes (Reverse-Clone also inherits 35% of Natan's attack effects).
-- Blink: Natan can switch places with the Reverse-Clone. Cooldown between switches: 12 seconds.
-- Ultimate cooldown by level: 24.0 / 20.0 / 16.0 seconds.
-- Mana cost by level: 100 / 50 / 0.
+Natan summons a Reverse-Clone at a target location 6 units away that lasts 10 seconds. The Reverse-Clone inherits 35% / 37.5% / 40% of his attack attributes (and 35% of Natan's attack effects), and will copy his moves and attacks in reverse. Use Again: Natan switches places with the Reverse-Clone. Use Again cooldown: 12 seconds. Each cast reduces other skills' remaining cooldown by 50%. The Reverse-Clone will disappear if Natan is too far away.
+
+- Attributes inherit per level: 35% / 37.5% / 40%
 
 Notes:
-- Cooldown for the ultimate starts after ending the ultimate.
-- The Reverse-Clone starts 6 units away from Natan, facing the same angle. The link turns red at 10 units and breaks at 13 units.
-- Foreswing time has been reduced by 50% for some sub-abilities.
-- Sub-ability of the ultimate is not affected by cooldown reduction.
-- Some attack effects are halved when inherited by the Reverse-Clone (example: 70% -> 35%).
+
+- Cooldown starts after ending the ultimate.
+- The reverse-clone starts 6 units away and faces the same facing angle. The link between them turns red at 10 units and breaks at 13 units.
+- Foreswing time has been reduced by 50%.
+- Sub-ability of the Reverse-Clone is not affected by cooldown reduction.
+- Attack effects inheritance has been reduced to 35%.
 
 # Trivia
 
 - All of Natan's skills are based on real-life physics concepts.
 - His passive, Theory of Everything, states that one theory could explain every aspect of physics. Finding a theory of everything is one of the major unsolved problems in physics.
-- His skill 1, Superposition, and skill 2, Interference, describe phenomena relating to waves.
+- His skill 1, Superposition, and skill 2, Interference, describes the phenomenon relating to waves.
 - His ultimate, Entropy, is used as a measure of "randomness" in a system.
 - According to Natan's timeline, it implies that the Abyss are about to win the Endless War on the Land of Dawn and are about to conquer the only-standing Eruditio.
 - Most of Natan's quotes are just puns about time, reflecting his horological knowledge.

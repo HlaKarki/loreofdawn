@@ -444,7 +444,7 @@ class WikiScraper {
 		const entries = await fs.promises.readdir(jsonDir);
 		const files = entries.filter((name) => name.endsWith(".json"));
 
-		const limit = 3;
+		const limit = 15;
 		const queue = [...files];
 
 		const workers = Array.from({ length: limit }, async () => {
@@ -528,7 +528,7 @@ class WikiScraper {
 		if (ai_response.story.markdown) {
 			markdown += this.appendSection("#", "Story", ai_response.story.markdown);
 		}
-		if (ai_response.side_story && ai_response.side_story.chapters.length > 0) {
+		if (ai_response.side_story?.chapters?.length > 0) {
 			markdown += this.appendFront("#", "Side Story");
 			for (const chapter of ai_response.side_story.chapters) {
 				markdown += this.appendSection("##", chapter.title, chapter.content.markdown);

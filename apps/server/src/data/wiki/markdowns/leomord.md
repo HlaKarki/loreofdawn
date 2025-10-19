@@ -3,37 +3,47 @@
 # Profile
 
 - Alias: Sworn Sword
-- The Oathkeeper
+  The Oathkeeper
 
 - Chinese name: 雷蒙 (Léi méng)
+
 - Born: Ridgeburg, Moniyan Empire
+
 - Species: Undead
+
 - Gender: Male
-- Occupation: *Knight*
-  * Royal guard
+
+- Occupation:
+  - Knight
+  - Royal guard
+
 - Affiliation: Necrokeep
+
 - Weapons: Sword of Oath
-- Battles fought: *Invasion of Ridgeburg*
+
+- Battles fought:
+  - Invasion of Ridgeburg
+
 - Nationality: Moniyan (formerly)
+
 - Likes: Moments alone with Barbiel in a quiet place
+
 - Relationships:
   - Unnamed royal guard ancestors
   - Atticus (close friend, deceased)
   - Barbiel (pet)
-  - , (ally)
-  -  (enemy)
-- English VA: Con Eyre (2018–2022)
-- Japanese VA: Okai Katsunori (岡井 カツノリ)
+  - (ally)
+  - (enemy)
+
+- English voice actor: Con Eyre (2018–2022)
+
+- Japanese voice actor: Okai Katsunori (岡井 カツノリ)
 
 # Story
 
 > "A sworn knight who vowed to guard Necrokeep until his last breath."
 
 Once a sworn knight of Ridgeburg, Leomord was forced to shatter the oath he made with his own sword in an unfortunate turn of events. Since then, he had borne the curse of the Mist and guarded the land abandoned even by death. The light had faded, yet his watch had just begun...
-
-# Bio
-
-
 
 # Side Story
 
@@ -77,7 +87,7 @@ The campaign must have been brutal and arduous, he could only surmise. Leomord o
 
 The people of Ridgeburg greeted the evening with festivity and cheer. The time had come at last for Atticus to give Vexana the wedding ring. However, as the Duke opened the box, what came out instead was a pair of magic wings, as a deep, grating voice shook the stone walls of the fortress:
 
-> "Embrace the world of death!"
+> Embrace the world of death!
 
 Atticus and his men turned into demons at that exact moment, their eyes burning with malice. They reeked of foul magic—rotten and vile—the putrid blight of the Abyss. The once devoted guardians of the city became destroyers and the bane of their existence; the holy wedding morphed into a massacre.
 
@@ -111,11 +121,9 @@ A hundred years had passed, yet time in Ridgeburg seemed to have frozen in place
 
 Leomord could sometimes be seen standing on one of its towers, gazing far into the horizon. His skin was sickly pale, neither living nor dead. His eyes were tired from a hundred years of half-death, but they still sparkled with a glimmer of hope. He knew in his heart that he and Vexana would eventually find a way to reverse the curse of the Mist.
 
-From that day a hundred years ago, his life no longer belonged to himself, but to Ridgeburg. As long as there was still one soul in the city, he would guard them until his last breath."
+From that day a hundred years ago, his life no longer belonged to himself, but to Ridgeburg. As long as there was still one soul in the city, he would guard them until his last breath.
 
-## Wedding in the Mist
-
-
+> "As long as there was still one soul in the city, he would guard them until his last breath."
 
 # Abilities
 
@@ -124,53 +132,56 @@ From that day a hundred years ago, his life no longer belonged to himself, but t
 - Leomord's Basic Attacks are guaranteed to critically strike against enemies below 50%, dealing 200% damage.
 - Leomord converts every 1% Crit Chance gained into 2 Physical Attack.
 
-- Effect type: Buff
-- Stat effects: Crit Damage behavior and Crit Chance conversion into Physical Attack (scaling with Crit Chance and attack stats).
+Notes: Crit Damage and crit conversion scale with Leomord's stats and items.
 
-## Momentum / Phantom Stomp
+## Momentum (Default) / Phantom Stomp (Mounted)
 
-Default (Momentum)
+Default — Momentum
 
-- Skill type: Physical Skill, AoE, Slow
-- Description: Leomord gains a shield and begins channeling for 1 second, slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to scaling damage to enemies hit (damage scales with channel time and level) and slowing them by 40% for 1 second. Leomord can cast this skill again to actively interrupt the channeling.
+- Cooldown (base): 6.0 seconds (scales with level as listed in original values).
+- Leomord gains a shield and begins channeling for 1 second, slowing enemies in the target direction by 25%. When the channeling is complete or interrupted, he thrusts his sword in the same direction, dealing up to scaling physical damage to enemies hit (scales with channel time; calculation needed) and slowing them by 40% for 1 second. Leomord can cast this skill again to actively interrupt the channeling.
+
 - Base Shield: 150 / 180 / 210 / 240 / 270 / 300
 - Base Damage: 500 / 560 / 620 / 680 / 740 / 800
-- Notes: Damage scales with channel time and Leomord's physical attack.
-- Cooldown: 6.0 → 4.5 seconds (scales by level)
 
-Mounted (Phantom Stomp — Barbiel)
+Mounted — Phantom Stomp (Barbiel)
 
-- Skill type: Physical Damage Skill, AoE, Slow, Blink
-- Description: Barbiel leaps forward, dealing physical damage to enemy units in the area where he lands and slowing them by 40% for 1 second.
-- Base Damage: 320 / 380 / 435 / 490 / 545 / 600
-- Cooldown: 5.0 → 3.8 seconds (scales by level)
+- Cooldown (mounted, base): 5.0 seconds (scales by rank).
+- Barbiel leaps forward, dealing scaling physical damage to enemy units in the area where he lands and slowing them by 40% for 1 second.
 
-## Decimation Assault / Phantom Charge
+- Base Damage (mounted): 320 / 380 / 435 / 490 / 545 / 600
 
-Default (Decimation Assault)
+Notes: Damage and shield scale with level and Leomord's Physical Attack. Exact calculations depend on level and stats.
 
-- Skill type: Physical Skill, Blink, Slow
-- Description: Leomord charges towards a designated direction, dealing physical damage to enemies along the way and slowing them by 30% for 1 second.
+## Decimation Assault (Default) / Phantom Charge (Mounted)
+
+Default — Decimation Assault
+
+- Cooldown (base): 14.0 seconds (scales with level).
+- Leomord charges towards a designated direction, dealing scaling physical damage to enemies along the way and slowing them by 30% for 1 second.
+
 - Base Damage: 300 / 320 / 340 / 360 / 380 / 400
-- Cooldown: 14.0 → 9.0 seconds (scales by level)
 
-Mounted (Phantom Charge — Barbiel)
+Mounted — Phantom Charge (Barbiel)
 
-- Skill type: Blink, Displacement, Crowd Control
-- Description: Barbiel charges forward and knocks back all enemies in the lane, dealing physical damage to those hit.
-- Base Damage: 300 / 320 / 340 / 360 / 380 / 400
-- Cooldown: 7.5 → 5.0 seconds (scales by level)
-- Notes: Despite its name, "Phantom Charge" is technically implemented as a blink skill.
+- Cooldown (mounted, base): 7.5 seconds (scales with level).
+- Barbiel charges forward and knocks back all enemies in the lane, dealing scaling physical damage to enemies hit and displacing them to the side of the area of effect.
+
+- Base Damage (mounted): 300 / 320 / 340 / 360 / 380 / 400
+
+Notes: Despite its name, "Phantom Charge" is technically a blink-type movement. Damage scales with level and Leomord's Physical Attack.
 
 ## Phantom Steed
 
-- Skill type: Physical Skill, Summon, Morph
-- Description: Leomord summons Barbiel to rush to him, dealing physical damage to enemies on the path. If Barbiel comes in contact with Leomord, they will enter the Mounted State, gaining 30% Movement Speed that decays over 2 seconds. Upon mounting, Leomord gains a brand-new set of skills, and his Basic Attack can be used while moving and hits a circular area. Leomord also gains additional Movement Speed and defense.
-- Base Damage: 350 / 450 / 550
-- Hybrid Defense Increase while Mounted: 40 / 60 / 80 (text lists 30–90 Physical & Magic Defense elsewhere; primary listed values: 40/60/80)
-- Additional Movement Speed: +60 (plus an initial 30% decaying boost)
-- Cooldown: 55.0 / 50.0 / 45.0 seconds (per level)
-- Notes: Enemies will be knocked back by charging Barbiel and will be displaced to the side of the AOE.
+- Cooldown (base): 55.0 seconds (scales to 50.0 / 45.0 at higher ranks).
+- Leomord summons Barbiel to rush to him, dealing scaling physical damage to enemies on the path. If Barbiel comes in contact with Leomord, they will enter the Mounted State, gaining 30% Movement Speed that decays over 2 seconds.
+
+- Upon mounting, Leomord gains a brand-new set of skills. His Basic Attack can be used while moving and hits a circular area. Leomord also gains additional Movement Speed and increased defenses.
+
+- Base Damage (summon): 350 / 450 / 550
+- Hybrid Defense Increase (mounted): 40 / 60 / 80 (values may correspond to rank and level)
+
+Notes: Enemies will be knocked back by charging Barbiel and will be displaced to the side of the area of effect. Damage and defense bonuses scale with Leomord's level and item stats.
 
 # Trivia
 

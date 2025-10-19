@@ -2,8 +2,6 @@
 
 # Profile
 
-# Profile
-
 A magician (abbreviated as mage) is a hero with a longer range, ability-based area of effect damage, and crowd control that they may utilize to strike from a distance. Mages primarily focus on magic skills that deals magic damage, usually burst damage, and as a consequence, they spend a lot of gold on equipment that allows them to do more damage and have shorter skill cooldowns.
 
 Though mages typically focus on killing prime targets in combat, they can also use their innate crowd control and utility to manipulate opponents, protecting their team from them or setting them up for a takedown, and in the right circumstances, can damage and control multiple enemies at the same time. Regardless of their might, mages are fundamentally frail and succumb fast to direct attacks.
@@ -59,14 +57,6 @@ Because they are used in a different way than a mage's main purpose, these heroe
 - Esmeralda
 - Alice
 
-# Story
-
-
-
-# Bio
-
-
-
 # Trivia
 
 - ## General
@@ -91,7 +81,7 @@ Because they are used in a different way than a mage's main purpose, these heroe
 
 - The closest heroes who's skills are similar to / hybrid roles are, and . 's  helps her allies to a certain location while 's  and 's  gave allies speed boost however they are still labeled as  many of the players are still requesting them to be added to the  role.
 
-- Because of the introduction of Magic Damage specialty in Patch 1.4.94,, , , and become abstracted from the mage role.
+- Because of the introduction of Magic Damage specialty in Patch 1.4.94,, , , , and become abstracted from the mage role.
 
 - is currently the only hero who bares the / role as of Patch 1.9.64 's role was originally / but was swapped to / due to how his gamestyle is similar to that of an and although it is not mentioned it is prompted to be to be more lore accurate said to be an "assassin" to murder heretics by the orders of the Church of Light (see Julian Lore).
 

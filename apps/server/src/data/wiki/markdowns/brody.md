@@ -3,42 +3,35 @@
 # Profile
 
 Alias:
-
 - *The Lone Star*
 
-Birth / Origin:
+Born:
+- Village at the foot of a volcano, The Barren Lands — April 25 (Taurus)
 
-- "Village at the foot of a volcano", The Barren Lands
-- April 25 (Taurus)
+Species:
+- Human
 
-Species: Human
+Gender:
+- Male
 
-Gender: Male
-
-Affiliation: Unnamed village ("second homeland")
+Affiliation:
+- Unnamed village ("second homeland")
 
 Weapons:
-
 - Right arm corroded by the blood of the demon
 - Spear
 
-Abilities (highlight):
-
+Abilities (summary):
 - Marks enemies
 
-Relationships: *,, (companions)
+Voice Actors:
+- Japanese: Akiyoshi Tooru (秋吉 徹)
+- English: Adam Riley
 
-Voice Actor (JA): Akiyoshi Tooru (秋吉 徹)
+Relationships:
+- *,, (companions)
+- * (enemy)
 
-Voice Actor (EN): Adam Riley
-
-Birthday: April 25 (Taurus)
-
-# Story
-
-> "Mysterious man whose right hand was corroded and who lost his memory"
-
-Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons. In countless battles, Brody gradually recalled his past. Once, because of his mistakes, his village was massacred by the Demons and his right hand was also corroded. Now he understands his mission, in order to protect the people around him, Brody will always be fighting in a foreign land.
 
 # Bio
 
@@ -54,7 +47,7 @@ In the dream that he had over and over again, someone cried out to him:
 
 But hurry for what? He did not know the answer.
 
-In his faint memories, there was always a great fire. And his right hand… looked quite ordinary at the time. So what happened to it? Every time he tried to recall the past, Brody would feel an intense headache. He didn't know his purpose. He wandered the lands aimlessly. The torn-apart memories and the pain from his right arm were constantly torturing him.
+In his faint memories, there was always a great fire. And his right hand... looked quite ordinary at the time. So what happened to it? Every time he tried to recall the past, Brody would feel an intense headache. He didn't know his purpose. He wandered the lands aimlessly. The torn-apart memories and the pain from his right arm were constantly torturing him.
 
 The villagers took him as a freak and stayed away from him. Brody knew that people feared him. He was an outsider, someone who had no memories nor a past.
 
@@ -62,7 +55,9 @@ One day, an elder chased by demons went astray into the mountain. Brody didn't t
 
 The elder he rescued believed that he was a kind lad, so he invited him to stay with him at the village. Encouraged by the old man, the other villagers also started to open their arms to this quiet young man. It was at the moment that Brody suddenly realized that—even without memories—he liked this feeling, the feeling of being needed. Brody thought to himself, this was probably because he could finally feel that he had a purpose when he was needed.
 
-This idea calmed Brody down and eased the burden on his mind. But that voice still existed in his head, yelling to him: "Help! Help me!"
+This idea calmed Brody down and eased the burden on his mind. But that voice still existed in his head, yelling to him:
+
+> "Help! Help me!"
 
 He became the guardian of the village, and peace was briefly restored. He drove back the demons of Abyss one wave after another. It was because of this that the villagers started to like this quiet lad. Brody became stronger and stronger as he fought battles after battles. And in each battle, he would see things that seemed to be his past memories.
 
@@ -110,73 +105,83 @@ But fortunately, he still has someone to protect.
 
 Brody will fight on for his second homeland.
 
+# Story
+
+> "Mysterious man whose right hand was corroded and who lost his memory"
+
+Brody lost his memory and wandered aimlessly between the villages of the Barren Lands, but there was always a voice in his heart asking him to hunt the Demons.
+
+In countless battles, Brody gradually recalled his past.
+
+Once, because of his mistakes, his village was massacred by the Demons and his right hand was also corroded.
+
+Now he understands his mission, in order to protect the people around him, Brody will always be fighting in a foreign land.
+
 # Abilities
 
 ## Abyss Corrosion
 
-With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed.
+With his Basic Attacks resonated with the Abyss Power within his body, Brody is able to move while winding up his attack (which will be interrupted when casting skills), at the cost of having longer Basic Attack Animation and lower Attack Speed. Each Basic Attack deals damage based on level and stats (the damage scaling with level cannot be critical), increases Movement Speed by 30% (which will decay rapidly in 1.2 seconds), and inflicts 1 stack of Abyss Mark on the enemy, capped at 4 stacks. (Marks applied last for 8 seconds.) Each stack of Abyss Mark increases Brody's damage and his Movement Speed by 5%.
 
-- Each Basic Attack deals scaling physical damage based on level and stats (damage scaling with level cannot be critical), increases Movement Speed by 30% (which will decay rapidly in 1.2 seconds), and inflicts 1 stack of Abyss Mark on the enemy, capped at 4 stacks. [Marks applied last for 8 seconds.]
-- Each stack of Abyss Mark increases Brody's damage and his Movement Speed by 5%.
-
-Level scaling (Base Damage): 45 / 90 / 135 / 180 / 225 / 270 / 315 / 360 / 405 / 450 / 495 / 540 / 585 / 630 / 675
-
-Stack scaling:
-
-- Damage Increase: 5% / 10% / 15% / 20%
-- Movement Speed Bonus: 5% / 10% / 15% / 20%
+Scaling:
+- Base Damage by level: 45 / 90 / 135 / 180 / 225 / 270 / 315 / 360 / 405 / 450 / 495 / 540 / 585 / 630 / 675
+- Damage Increase per stack: 5% / 10% / 15% / 20%
+- Movement Speed Bonus per stack: 5% / 10% / 15% / 20%
 
 Notes:
-
 - Brody's basic attack interval is 50% of his total attack speed.
 - Abyss Mark cannot be applied to creeps.
 - This passive can be interrupted by Crowd control effects, or can be canceled by Brody's skills during the wind-up.
 
 ## Abyss Impact
 
-Brody launches a shock wave in the designated direction, dealing physical damage, slowing the enemies by 30% for 1.2 seconds, and applying 1 stack of Abyss Mark. As the shock wave travels, for each enemy it hits, it deals extra physical damage, inflicts an extra 5% slow effect, and applies an additional stack of Abyss Mark, capped at 130% damage ratio, 45% slow effect, and 4 stacks. This skill deals only to minions.
+Brody launches a shock wave in the designated direction, dealing physical damage, slowing the enemies by 30% for 1.2 seconds, and applying 1 stack of Abyss Mark. As the shock wave travels, for each enemy it hits, it deals an extra physical damage, inflicts an extra 5% slow effect, and applies an additional stack of Abyss Mark, capped at 130% damage increase, 45% slow effect, and 4 stacks. This skill deals only to minions.
 
+Damage and scaling:
 - Base Damage: 150 / 230 / 310 / 390 / 470 / 550
 - Minions Damage Ratio: 80% / 80% / 90% / 90% / 100% / 100%
-- Damage Increase per travel/hit: 0% / 10% / 20% / 30% (scaling)
-- Slow Effect: 30% / 35% / 40% / 45%
-- Marks Applied per level: {1, 2, 3, 4, 4, 4, …}
+- Damage Increase progression: 0%, 10%, 20%, 30%
+- Slow Effect progression: 30%, 35%, 40%, 45%
+- Marks Applied progression: 1, 2, 3, 4 (capped at 4)
+
+Mana Cost by level: 40 / 50 / 60 / 70 / 80 / 90
 
 Notes:
-
 - Damage from this skill does not benefit from the damage increase of the Abyss Mark.
 
 ## Corrosive Strike
 
-Brody dashes to an enemy, dealing physical damage to the target, stunning the target for 0.8 seconds, and inflicting 1 stack of Abyss Mark on the target.
+Brody dashes to an enemy, dealing physical damage to the target, stunning the target for 0.8 seconds, and inflicting 1 stack of Abyss Mark on the target. Upon hitting the target, he is able to move one more time in the movement direction, gaining 45% Movement Speed that will decay rapidly in 1.2 seconds.
 
-- Upon hitting the target, he is able to move one more time in the movement direction, gaining 45% Movement Speed that will decay rapidly in 1.2 seconds.
+Damage and scaling:
 - Base Damage: 200 / 230 / 260 / 290 / 320 / 350
 
-Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 (seconds)
+Cooldown progression: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0
+
+Mana Cost progression: 75 / 80 / 85 / 90 / 95 / 100
 
 Notes:
-
-- Effect types: Blink, Stunned (CC), Physical Skill.
+- Skill type: Blink / Physical Skill
+- Effect: Blink and Stun
 
 ## Torn-Apart Memory
 
-Brody locks on all the targets within 8 yard(s), dealing physical damage to them. If the target has an Abyss Mark, all Abyss Marks will be reset, dealing additional damage for each stack the target has.
+*Memories are nowhere to be placed. Everything is for me to protect.*
 
+Brody locks on all the targets within 8 yard(s), dealing physical damage to them. If the target has an Abyss Mark, all Abyss Marks will be reset, dealing additional physical damage for each stack the target has.
+
+Damage and scaling:
 - First Damage: 340 / 460 / 580
 - Damage per Stack: 136 / 184 / 232
-- Multiplier Lost (target's HP multiplier applied): 4% / 5% / 6%
+- Multiplier Lost (based on target's HP): 4% / 5% / 6%
 
-Additional scaling (physical attack): extra PA values present in data; total damage scales with physical attack stats.
+Cooldown progression: 24.0 / 21.0 / 19.0
+
+Mana Cost progression: 120 / 160 / 200
 
 Notes:
-
 - "Damage per Stack" from this skill does not benefit from the damage increase of the Abyss Mark.
 - Torn-Apart Memory cannot be interrupted, not even death.
-
-Quote (voice line):
-
-- "Memories are nowhere to be placed. Everything is for me to protect."
 
 # Trivia
 

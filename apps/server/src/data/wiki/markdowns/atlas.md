@@ -2,43 +2,35 @@
 
 # Profile
 
-### Alias
-- Ocean Gladiator
-- Ironclad Kraken
+• **Alias:** *Ocean Gladiator*, *Ironclad Kraken*
 
-### Origin
-- Frozen Sea, Northern Vale
+• **Origin:** Frozen Sea, Northern Vale
 
-### Species
-- Abysmal Sea creature
+• **Species:** Abysmal Sea creature
 
-### Gender
-- Male
+• **Gender:** Male
 
-### Affiliation
-- Frozen Sea
-- Black Flag pirate group (hostile)
+• **Affiliation:** *Frozen Sea*; *Black Flag pirate group (hostile)*
 
-### Weapons
-- Mecha Sentry
+• **Weapons:** Mecha Sentry
 
-### Abilities (highlight)
-- Generates Frigid Breath (Passive)
+• **Abilities:** Generates Frigid Breath
 
-### Relationships / VA
-- Voice actor (ja/va): Kenjiro Abekawa (安部川賢治郎)
+• **Relationships:** *, (allies)
 
-> "Abysmal Sea creature who broke free from the seal"
+• **Voice Actor (JA/VA):** Kenjiro Abekawa (安部川賢治郎)
 
-# Story
+# Bio
 
 > "Abysmal Sea creature who broke free from the seal"
 
 Atlas is one of the ancient Abysmal Sea creature, sealed in the deep sea by the Ancient Ones. Atlas found the Mecha built by Iceland Golems in the Abysmal Sea in the past. By integrating with the Mecha, Atlas escaped the Abysmal Sea and came to the seas around the world to absorb knowledge. It looks forward to the day when it is able to break the prohibition, so that is own kind can be free.
 
----
+# Story
 
-The dark, cold and mysterious deep sea is the last unexplored frontier in the Land of Dawn. All the way down from surface, the sun fades away and the temperature drops, then there is complete darkness. It is called the Abysmal Sea, where currents and the high pressure are strong enough to tear apart any advanced materials Eruditio has invented. This place is a forbidden zone of life, where no human has ever set foot in. Only the remains of those abandoned and eliminated civilizations have been sinking and piling up.
+The dark, cold and mysterious deep sea is the last unexplored frontier in the Land of Dawn. All the way down from surface, the sun fades away and the temperature drops, then there is complete darkness.
+
+It is called the Abysmal Sea, where currents and the high pressure are strong enough to tear apart any advanced materials Eruditio has invented. This place is a forbidden zone of life, where no human has ever set foot in. Only the remains of those abandoned and eliminated civilizations have been sinking and piling up.
 
 Nevertheless, it is not only death here. Many unbelievable and indescribable creatures, including Atlas, have been struggling and multiplying for ages in this dangerous area. They were among the oldest living things on the Land of Dawn, devouring elemental creatures for power, which made them imprisoned in this deepest place by the Ancient Ones. The powerful Injunction blocked light, heat as well as their upward path. In order to adapt to the high-pressure environment, they removed their shells and redundant structures, and developed a variety of fluid shapes. In the endless darkness, there is no fight and strife, only the law of survival: existence, alternation and circulation.
 
@@ -56,10 +48,6 @@ Atlas felt strange and curious about this world. He visited all reachable seas d
 
 Now, Atlas has not only a hard armor but also a plan. He aims to break the Injunction between the Abysmal Sea and the world and save his kind from the eternal imprisonment. There is a secret treasure only the pirates believe that hidden somewhere in the sea of Northern Vale. It has the power to regenerate, powerful enough to change the ecology of an entire ocean. Atlas wants it, from the first time he learned the story.
 
-# Bio
-
-
-
 # Side Story
 
 ## Prologue
@@ -70,7 +58,15 @@ undefined
 
 undefined
 
-## Chapter One: The New Ship & The Nightwheel
+## The New Ship
+
+undefined
+
+## The Nightwheel
+
+undefined
+
+## The Storm
 
 undefined
 
@@ -78,7 +74,23 @@ undefined
 
 undefined
 
+## Hand-to-Hand Combat
+
+undefined
+
 ## Chapter Three: Confrontation
+
+undefined
+
+## Crisis
+
+undefined
+
+## The Final Battle
+
+undefined
+
+## Epilogue
 
 undefined
 
@@ -86,63 +98,67 @@ undefined
 
 ## Frigid Breath
 
-Atlas generates Frigid Breath around him for 5 seconds each time he casts a skill. Enemies who stay inside the area for more than 1.5 seconds have their movement speed gradually reduced until they are frozen for 0.5 seconds. While Frigid Breath is present, Atlas gains extra hybrid defense and additional defenses.
+• Atlas generates a Frigid Breath area around him for 5 seconds each time he casts a skill.
 
-- Duration of aura: 5 seconds per skill cast.
-- Crowd control: Enemies remaining in the area for 1.5 seconds suffer gradual slow that culminates in a freeze (immobilize) for 0.5 seconds.
-- Bonuses to Atlas while Frigid Breath is active: Extra Hybrid Defense scales by level.
-- Extra Hybrid Defense by hero level: 16 / 17 / 18 / 19 / 20 / 21 / 22 / 23 / 24 / 25 / 26 / 27 / 28 / 29 / 30 (levels 1–15).
+• Enemies who stay in the area for more than 1.5 seconds will have their movement speed gradually reduced until they are frozen for 0.5 seconds.
 
-Note: "Hybrid Defense" refers to an added defense value blending physical and magic resistance. Slow and freeze durations are fixed as above. The passive provides defensive presence and localized crowd control around Atlas.
+• While Frigid Breath is present, Atlas gains extra hybrid defense and additional defenses. Extra Hybrid Defense by level: 16 / 17 / 18 / 19 / 20 / 21 / 22 / 23 / 24 / 25 / 26 / 27 / 28 / 29 / 30 (scales with level).
+
+• Effect type: BUFF (for Atlas) and Debuff (for enemies).
+
+• Affected defenses: Physical Defense and Magic Defense.
+
+• Duration of generated area: 5 seconds. Freeze on enemy: 0.5 seconds after being in area for 1.5 seconds.
 
 ## Annihilate
 
-Atlas smashes the ground and causes 3 consecutive explosions. Each explosion deals magic damage to enemies in the area. If Atlas is in Ejected State (pilot outside the Mecha Sentry), both the pilot and the Mecha will cast the ability.
+• Skill type: Magic Skill, AoE.
 
-- Type: Magic Skill / AoE
-- Cooldown: 7 / 6.5 / 6 / 5.5 / 5 / 4.5 seconds (per level; base shown).
-- Mana Cost: 60 / 66 / 72 / 78 / 84 / 90 (scales by level).
-- Base Damage per explosion: 230 / 270 / 310 / 350 / 390 / 430 (levels 1–6).
-- Scaling: additional magic power scaling (damage based on level and magic power).
+• Cooldown: 7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5 seconds.
 
-Notes: When Atlas is ejected, both pilot and Mecha can trigger this skill, effectively duplicating the explosion effects from both bodies. Damage values above represent base magic damage before ability power scaling.
+• Mana Cost: 60 / 66 / 72 / 78 / 84 / 90.
+
+• Base Damage (per explosion): 230 / 270 / 310 / 350 / 390 / 430 (magic damage; damage scales with ability power and level).
+
+• Description: Atlas smashes the ground and causes 3 explosions. Each explosion deals magic damage to enemies in the area. If Atlas has ejected from his Mecha Sentry, both himself and his Mecha will cast the skill.
+
+• Notes: Total damage is distributed across the three explosions. Damage scales with level and magic power.
 
 ## Perfect Match
 
-Atlas enters Ejected State, leaving his pilot separated from the Mecha. In Ejected State, Atlas (pilot) gains 40% movement speed and immunity to slow effects. The Mecha Sentry will follow the pilot at increasing speed and can only be controlled by the pilot's position. Once they meet, Atlas returns to the Mecha, dealing area damage to nearby enemies and stunning them briefly.
+• Skill type: Magic Skill / Blink; also interacts with Ejected State.
 
-- Type: Magic Skill / Blink (movement) / CC
-- Cooldown: 15 / 14 / 13 / 12 / 11 / 10 seconds (per level; base shown).
-- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100 (scales by level).
-- Base Damage on return: 320 / 340 / 360 / 380 / 400 / 420 (levels 1–6).
-- Effects while ejected:
-  - Movement Speed bonus: +40% to pilot.
-  - Slow immunity: pilot is immune to slow effects while ejected.
-  - Shared HP bar: Atlas and his Mecha share the same HP bar in this state.
-  - Damage reduction: 50% of damage taken is reduced for the Mecha/pilot while separated.
-  - On reunion: deals base aoe damage and stuns enemies for 1 second.
+• Cooldown: 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds.
 
-Notes:
-- Some item effects do not function during Ejected State (examples noted in-game): Golden Staff, Twin Blade, Blade of Heptaseas, Bruteforce Breastplate, War Axe (even with Cursed Helmet passive) do not work. Demon Hunter Sword additional damage is applied but Atlas doesn't gain the lifesteal stack. Corrosion Scythe slow is applied but Atlas doesn't gain the attack speed stack.
-- Use Ejected State tactically: it provides high mobility, slow immunity and damage mitigation but restricts some item synergies.
+• Mana Cost: 75 / 80 / 85 / 90 / 95 / 100.
+
+• Base Damage (on reconnection): 320 / 340 / 360 / 380 / 400 / 420 (magic damage; scales with level and ability power).
+
+• Description: Atlas ejects from the Mecha Sentry, gaining increased movement speed (40%) and immunity to slow effects while ejected. In this state, the Mecha Sentry will follow the pilot at an increasing speed and can only be controlled by the pilot. Once Atlas and the Mecha meet, Atlas will return to the Mecha, dealing magic damage to enemies nearby and stunning them for 1 second.
+
+• Shared mechanics: Atlas and his Mecha share the same HP bar while separated, and reduce incoming damage during this state (damage reduction: reduces a percentage of incoming damage; 50% is noted for some interactions as damage mitigation while sharing HP).
+
+• Notes on items: Some items do not work during ejected state. Golden Staff, Twin Blade, Blade of Heptaseas, Bruteforce Breastplate, War Axe (even with Cursed Helmet passive) do not work. Demon Hunter Sword additional damage is applied but Atlas doesn't gain the lifesteal stack. Corrosion Scythe slow is applied but Atlas doesn't gain the attack speed stack.
 
 ## Fatal Links
 
-Atlas hurls chains around and starts to channel. While channeling he deals connection damage to enemy heroes hit and reduces their movement speed by 40% for 3 seconds. During channeling, Atlas can use the skill again to trigger the second phase: he smashes down on the designated location, dealing massive area magic damage.
+• Skill type: Magic Skill, CC, AoE; channeled ability with secondary activation.
 
-- Type: Magic Skill / AoE / CC
-- Cooldown: 55 / 50 / 45 seconds (levels 1–3; base shown).
-- Mana Cost: 130 / 150 / 170 (levels 1–3).
-- [Connection] Base Damage: 225 / 350 / 475 (levels 1–3).
-- [Smash] Base Damage: 360 / 560 / 760 (levels 1–3).
-- Primary effects:
-  - First phase: chains heroes in range, dealing connection damage and slowing them by 40% for 3 seconds.
-  - Recast while channeling: Atlas smashes the target area dealing smash damage (AoE).
-- Use while in Ejected State: The Mecha Sentry will return to Atlas immediately; in this case the slow effect applied by the first phase is replaced by a stronger disable (stun or equivalent crowd control) when the smash occurs.
+• Cooldown: 55.0 / 50.0 / 45.0 seconds.
 
-Notes:
-- Atlas only chains heroes that are in range before he starts channeling. Heroes that walk into range after channel starts will not be chained.
-- Holding the skill starts the channeling and releasing it triggers the second phase. This means you cannot cancel the channel once initiated and you cannot preview the second-phase range while holding.
+• Mana Cost: 130 / 150 / 170.
+
+• [Connection] Base Damage: 225 / 350 / 475 (magic damage).
+
+• [Smash] Base Damage (on release): 360 / 560 / 760 (magic damage).
+
+• Description: Atlas hurls chains around and starts to channel (channel can only be interrupted by certain crowd control). While channeling, the initial connection damage is dealt to enemy heroes hit and they are slowed by 40% for 3 seconds. Using the skill again while channeling triggers the second phase: Atlas smashes down on the designated location, dealing smash damage in an area.
+
+• Use in Ejected State: If used while Atlas is ejected, the Mecha Sentry will immediately return to Atlas, and the slow effect on chained enemies is replaced by a stronger disabling effect (stun) as part of the ejected-state interaction.
+
+• Notes:
+- Atlas only chains heroes that are in range before he starts channeling. Heroes that walk into range while he is already channeling will not be chained.
+- Holding the skill starts the channeling and releasing it triggers the second phase. This means that you cannot cancel this skill and you can't check its range easily.
 
 # Trivia
 
@@ -150,4 +166,4 @@ Notes:
 - Fittingly, this Atlas's Ultimate involves a feat of great strength, jumping high & strong enough to cause a shockwave on landing even with up to 5 potentially heavy enemies attached to him.
 - Atlas is Abysmal Sea kraken creature.
 - Atlas is the second hero in Mobile Legends to have the ability to freeze enemies, but this is specifically tied to his Ultimate skill, Fatal Links. While Atlas' primary function isn't freezing enemies in the traditional sense (like freezing in place), his Ultimate can disable and immobilize enemies by pulling them towards him, rendering them temporarily stunned and immobilized, which can be considered a form of control or "freeze" in team fights.
-- The name Atlas and the hero's mechanics emphasize great strength and control over enemies, fitting the titan-related namesake.
+- The name Atlas bears connotations of great strength; this Atlas' Ultimate involves a feat of great strength, jumping high and creating a shockwave on landing.

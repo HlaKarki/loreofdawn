@@ -2,9 +2,13 @@
 
 # Profile
 
-He was released as part of the 515 eParty 2021. Players had a chance to redeem the hero for free for a limited time.
+He was released as part of the 515 eParty 2021.
+
+Players had a chance to redeem the hero for free for a limited time.
 
 - Basic attack range: 2.3
+
+# Bio
 
 - Alias: *Shadow of Dread (formerly)*
 - Alias: *Chains of Sin*
@@ -14,20 +18,20 @@ He was released as part of the 515 eParty 2021. Players had a chance to redeem t
 - Occupation: Border Guard
 - Affiliation: *Moniyan Empire (hostile)*
 - Weapons: Monolith (Astaros)
-- Relationships: *Astaros (companion)
+- Relationships: *Astaros (companion) (enemy)
 
-- English voice actor: James Troup
-- Japanese voice actor: Kenjiro Abekawa (安部川賢治郎)
+Voice actors:
+
+- English VA: James Troup
+- Japanese VA: Kenjiro Abekawa (安部川賢治郎)
 
 # Story
 
 > "A former soldier from the border of the Empire who took on the chains of sin to defend his people."
 
-Phoveus was framed. Having been severely punished, he was then sent to fight with the vanguard.
+Phoveus was framed. Having been severely punished, he was then sent to fight with the vanguard. Once battle was over, Phoveus came across a most mysterious cage; and which was sealed the spirit of Astaros, God of Terror. Bewitched by Astaros, Phoveus sacrificed his own two eyes in exchange for a great power, and now the two head ever deeper into the Dread Caves to awaken the body off that's numbers within.
 
-Once battle was over, Phoveus came across a most mysterious cage; and which was sealed the spirit of Astaros, God of Terror. Bewitched by Astaros, Phoveus sacrificed his own two eyes in exchange for a great power, and now the two head ever deeper into the Dread Caves to awaken the body off that's numbers within.
-
-# Bio
+**Lore**
 
 Phoveus was once a Moniyan soldier from the borders of the Lantis Mountains. His unit, consisting of fourteen hardened warriors, was well known among the locals for their reckless bravery, fighting against the Abyss using questionable yet effective methods.
 
@@ -63,7 +67,9 @@ Phoveus remained silent but failed to notice his hand subconsciously inching tow
 
 But all that was no more. The only thing that remained were the unmarked tombstones erected on the border. The border they protected with blood and tears, and from which they could not find peace even in death. Phoveus was then reminded that names are only useful to the living.
 
-When the Abyss began relentlessly attacking the Lantis Mountain pass, trying to break the Empire's defensive line, a desperate Phoveus found himself in front of a giant demonic eye. He felt as if the eye was peering into his soul, searching for something... "Ah, he desires power, overwhelming enough to stop this senseless massacre."
+When the Abyss began relentlessly attacking the Lantis Mountain pass, trying to break the Empire's defensive line, a desperate Phoveus found himself in front of a giant demonic eye. He felt as if the eye was peering into his soul, searching for something...
+
+> "Ah, he desires power, overwhelming enough to stop this senseless massacre."
 
 Under the influence of the demonic entity, Phoveus and his men managed to soundly rout the Abyssal forces that day. The trumpet of the momentary victory along with the frustrated howls of the Abyss was carried all the way to the center of the Empire, fueling the Empire's ambitions of reclaiming lost territory.
 
@@ -83,76 +89,98 @@ Phoveus rubbed away the dust on the monolith, revealing the ancient oath engrave
 
 > "Our will is your eternal shackle."
 
-The cage burst into pieces to reveal Phoveus, covered in chains and pulsing with power. With heavy steps, he lumbered back towards the border, dragging the monolith behind him. The monolith now imprisoned two souls, yet Phoveus had never felt more liberated, for he had finally obtained the power to save his people.
+The cage burst into pieces to reveal Phoveus, covered in chains and pulsing with power. With heavy steps, he lumbered back towards the border, dragging the monolith behind him.
+
+The monolith now imprisoned two souls, yet Phoveus had never felt more liberated, for he had finally obtained the power to save his people.
 
 # Abilities
 
 ## Demonic Force
 
-Phoveus' next basic attack allows him to charge at the enemy, knocking them back, dealing extra damage equal to 4% of the enemy's Max HP, and gaining a Shield equal to 8% of his Max HP. This effect has a 26–14 seconds cooldown (based on level).
+Phoveus' next allows him to charge at the enemy, knocking them back, dealing extra damage (scaling damage based on level and stats) equal to 4% of the enemy's Max HP, and gaining a Shield equal to 8% of his Max HP. This effect has a 26-14 seconds cooldown (based on level).
 
-- Passive trigger: Whenever an enemy hero blinks, dashes, or is displaced within 8 units of Phoveus, the cooldown of Demonic Force will be reduced by 20% and the cooldown of his other skills will be reduced by 0.5 second.
+Whenever an enemy hero blinks, dashes, or is displaced within 8 units of Phoveus, the cooldown of this ability will be reduced by 20% and the cooldown of his other skills will be reduced by 0.5 second.
+
+Terms:
+
+- Displacement
 
 Notes:
+
 - The enhanced basic attack has the range of 4 unit, with the indicator visible to everyone.
-- The passive triggers even when enemies farther than 8 unit dash into any point within 8 unit.
-- The enhanced basic attack of Demonic Force can be increased by other effects such as Malefic Energy.
-- Cyclone Eye effect on enemies triggers the passive.
-- Teleportation also triggers the passive, such as certain blink or return effects.
-- Death resets the cooldown of the passive.
+- The passive triggers even when the enemies farther than 8 unit dash into any point within 8 unit.
+- The enhanced basic attack of Demonic Force can be increased by and its passive Malefic Energy.
+- Cyclone Eye effect on enemies triggers this passive.
+- Teleportation also triggers the passive, such as certain blink or reposition skills or a unit enters a specific area.
+- However, the returning of some skills do not.
+- Death resets cooldown of this passive.
 
 ## Demonic Impact
 
-Phoveus slams his monolith into the ground, dealing damage to enemies in the area and slowing them by 70% for 0.5 second. If this skill hits an enemy, Phoveus' next basic attack will leave behind an Astaros Eye. The Astaros Eye implodes after a short delay, dealing additional damage to enemies.
+Phoveus slams his monolith into the ground, dealing damage to enemies in the area and slowing them by 70% for 0.5 second. If this skill hits an enemy, Phoveus' next will leave behind an Astaros Eye.
 
-Properties:
-- Base Damage: 200 / 260 / 320 / 380 / 440 / 500
-- Astaros Eye Damage: 100 / 130 / 160 / 190 / 220 / 250
+Astaros Eye: Implodes after a short delay, dealing damage to the enemies.
 
 Effects:
+
 - AOE
 - Slow
 
-Notes:
-- Damage scales with level and relevant stats.
+Properties:
+
+- Base Damage: 200 / 260 / 320 / 380 / 440 / 500
+- Astaros Eye Damage: 100 / 130 / 160 / 190 / 220 / 250
 
 ## Dark Wave
 
-Phoveus drops the stone and releases his demonic power in the target direction, knocking enemies airborne, dragging them along, and dealing magic damage to them.
-
-Properties:
-- Base Damage: 250 / 300 / 350 / 400 / 450 / 500
+Phoveus drops the stone and releases his demonic power in the target direction, knocking enemies airborne, dragging them along, and dealing damage.
 
 Effects:
+
 - AOE
-- Crowd Control (airborne / displacement)
+- Crowd control (airborne / displacement)
+
+Properties:
+
+- Base Damage: 250 / 300 / 350 / 400 / 450 / 500
 
 Notes:
-- The ability can be repositioned during the cast delay.
-- Damage scales with level and relevant stats.
+
+- The ability can be repositioned with movement during the cast delay.
 
 ## Infernal Pursuit
 
-Phoveus leaps into the air and smashes down with his monolith at the enemy hero, dealing physical damage plus extra damage equal to a percentage of the target's Max HP to enemies in the area while Phoveus recovers HP.
-
-- Base Damage (level scaling): 250 / 375 / 500
-- Bonus Damage (percentage of target Max HP): 5% / 7.5% / 10%
-- HP Recovery: Phoveus recovers 50 plus 6% of his Lost HP. The HP recovered is reduced by 80% when hitting multiple enemies.
+Infernal Pursuit: Phoveus leaps into the air and smashes down with his monolith at the enemy hero with a mark, dealing physical skill damage plus extra damage equal to a percentage of the target's Max HP to enemies in the area while Phoveus recovers HP (50 plus 6% of his Lost HP). The HP recovered is reduced by 80% when hitting multiple enemies.
 
 Effects:
-- Mobility (blink)
-- Burst damage
+
+- Mobility
+- Burst
+- Physical Skill
+- Blink
+
+Description details:
+
+- Upon casting the skill, Phoveus will be momentarily untargetable while traveling into the target.
+- The duration scales on how far the target is from Phoveus.
+- The untargetable effect ends the moment Phoveus is just above the target.
+
+Level scaling:
+
+- Base Damage: 250 / 375 / 500
+- Bonus Damage: 5% / 7.5% / 10% of the target's Max HP
 
 Notes:
-- This blink has control immunity while traveling. Upon casting the skill, Phoveus will be momentarily untargetable while traveling into the target.
-- The duration of the untargetable state scales with how far the target is from Phoveus.
+
+- This blink duration has control immunity.
+- Upon casting the skill, Phoveus will be momentarily untargetable while traveling into the target.
+- The duration scales on how far the target is from Phoveus.
 - The untargetable effect ends the moment Phoveus is just above the target.
-- Damage scales with level and relevant stats.
 
 # Trivia
 
-- Phoveus is the 7th and is one of the heroes who was given to players for free on release. The other free heroes are, , , , , , , and.
-- Phoveus is the third hero to be given for free during the 515 event (of 2021). The other are, and
-- In the old voicelines, Astaros speaks in Latin on certain quotes.
-- He used to be a Magic Damage Hero, but was revamped to Physical Damage while still retaining some Magic Damage.
-- Phoveus has not received a skin since his release on 11 May 2021, therefore breaking the record for the longest time for a hero to receive a skin other than the basic skin, which is (1255 days) in a span of  days at 30 June 2025.
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined

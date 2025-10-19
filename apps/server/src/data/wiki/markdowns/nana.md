@@ -9,27 +9,27 @@
 - Species: Leonin
 - Gender: Female
 - Weapons: Wings of Molina
-- Abilities: *Blessing bestowed by Molina, making Nana morph into an invincible cat; Summoning Molina*
-- Relationships: *Molina (friend, deceased)*
+
+Abilities:
+
+- Blessing bestowed by Molina, making Nana morph into an invincible cat
+- Summoning Molina
+
+Relationships:
+
+- Molina (friend, deceased)
 
 Voice Actors:
-- EN: Aria Nice
-- JA: Shishido Chie (宍戸 智恵)
-- ID: Inen Rahmasuci Bismarck
-- AR: Bouthina Hani
-- PT: Leticia Celini
-- RU: Martirosova Eliza
-- TK: Ceren Menekşedağ
-- ES: Jessica Angeles
-- ZH: Yan Yeqiao (闫夜桥)
 
-# Story
-
-> "Little Leonin with no worries"
-
-In order to have the means of controlling the magic in her body and stop causing trouble, Nana went to the Shadow Swamp in search of a magical fruit with her good friend Molina.
-
-But when danger came, Molina died protecting Nana. Although Nana got what she wanted, she also lost her friend. With the strength that Molina left her, Nana embarked on a new journey.
+- English: Aria Nice
+- Japanese: Shishido Chie (宍戸 智恵)
+- Indonesian: Inen Rahmasuci Bismarck
+- Arabic: Bouthina Hani
+- Portuguese: Leticia Celini
+- Russian: Martirosova Eliza
+- Turkish: Ceren Menekşedağ
+- Spanish: Jessica Angeles
+- Chinese: Yan Yeqiao (闫夜桥)
 
 # Bio
 
@@ -37,7 +37,7 @@ After the Endless War, the Land of Dawn was covered scars, but the Moonlit Fores
 
 Leonins were the most peculiar race in this forest. They were few in number, but they were born with a cute appearance, agile demeanor, and some talent for using spiritual power. They used their spiritual power to bake apple pies, catch fish, and jump around in the woods… So long as the Leonins were awake, the Moonlit Forest was especially lively.
 
-Nana was the [naughtiest] Leonin among them. She was born on a moonlit night with great spiritual powers. Nana was naturally enthusiastic and energetic, and liked to use her own power to help her friends in the jungle. It is just a pity that she, being rash and reckless, either baked other people’s apple pies to ashes or uprooted the berry bushes. Gradually, everyone began to distance themselves from Nana.
+Nana was the naughtiest Leonin among them. She was born on a moonlit night with great spiritual powers. Nana was naturally enthusiastic and energetic, and liked to use her own power to help her friends in the jungle. It is just a pity that she, being rash and reckless, either baked other people’s apple pies to ashes or uprooted the berry bushes. Gradually, everyone began to distance themselves from Nana.
 
 Fortunately, there was a little Tanuki called Molina who was always by Nana’s side. Molina was a small Tanuki living on the edge of the Moonlit Forest. She had no father, no mother, and no friends. She lived alone ever since she could remember. Owing to an accident, Molina broke into the gathering place of the Leonins, got stuck in a dangerous cave and it was Nana who saved her. Since then, Molina always liked to pester Nana. But Nana didn’t like being with Molina all day long. She felt that Molina, who only had ability to change, was too weak and given that Nana always like to make trouble, felt like Molina shouldn’t always be by her side.
 
@@ -53,27 +53,41 @@ Nana walked all the way to the west, her path filled with strange creatures. She
 
 Molina understood Nana’s guilt and how she must be feeling. She told Nana: In the southern part of Azrya – the Shadow Swamp near the Land of Despair, there is a kind of mystical fruit that grows in dangerous places that can help the user to control their own energy.
 
-Nana was a little surprised that the little Tanuki was still following her, and she was a little moved. But Nana still refused Molina’s request to go with her to the Shadow Swamp. She was worried that there would be some dangers on the way that would hurt her little friend.
+Nana was a little surprised that the little Tanuki was still following her, and she was a little moved. But Nana still refused Molina’s request to go with her to the Shadow Swamp. She was worried that there would be some dangers on the way that would hurt her little friend. Nana pretended to frighten Molina harshly:
 
 > "You’re so weak and small."
 
 > "Don’t follow me."
 
-Nana pretended to frighten Molina harshly, but shortly after she left, Molina caught up and stubbornly refused to leave. Nana discovered for the first time that the weak and small Tanuki was also persistent. She was happy inside, but on the surface[,] she accepted Molina’s company with reluctance.
+But shortly after she left, Molina caught up and stubbornly refused to leave.
+
+Nana discovered for the first time that the weak and small Tanuki was also persistent. She was happy inside, but on the surface, she accepted Molina’s company with reluctance.
 
 The two passed through numerous obstacles and finally reached the Shadow Swamp. In the depths of the cave, they found the magical fruit they’d been looking for. Nana happily went to get the fruit, but did not notice the gradually approaching danger. Near the Land of Despair, there lived many monsters corroded by the Abyss, the pure nature of Nana made this pitch black and ugly creature lick its chops and open its fiercely-looking mouth.
 
 Molina by her side noticed the danger. Seeing her good friend Nana was about to pick the fruit, she yelled and put to use the power of transformation that would only work from time to time – Molina became Nana’s likeness and stood in front of the defenseless Nana.
 
-> _"As weak as I am, I can still protect my friend."_
+> "As weak as I am, I can still protect my friend."
 
 Nana, who had gotten the fruit, was stunned by everything that had happened in front of her. With the help of the fruit, Nana sent a powerful force to repel the monster, but Molina was also dying. Nana cried and shared her spiritual power with Molina, but it was no use. Finally, Molina grabbed Nana’s hand and shared her transformation power with Nana, hoping that she would be with her only friend forever.
 
-> _"Stay happy, stay happy forever."_
+> "Stay happy, stay happy forever."
 
 It turned out that learning control was only the beginning of her growth. Nana continued on the road with Molina’s blessing and entrustment.
 
 Those who have never forgotten will always survive in another way; those who have never forgotten their hometown will always return to their hometown.
+
+# Story
+
+> "Little Leonin with no worries"
+
+In order to have the means of controlling the magic in her body and stop causing trouble, Nana went to the Shadow Swamp in search of a magical fruit with her good friend Molina.
+
+But when danger came, Molina died protecting Nana.
+
+Although Nana got what she wanted, she also lost her friend.
+
+With the strength that Molina left her, Nana embarked on a new journey.
 
 # Abilities
 
@@ -81,56 +95,57 @@ Those who have never forgotten will always survive in another way; those who hav
 
 Upon taking fatal damage, Nana removes all debuffs on her and transforms, becoming untargetable and invincible, and gains 70% Movement Speed for 2 seconds. She also recovers 10% over the duration. Nana can only transform once every 150 seconds and cannot cast skills in the transformed form.
 
-- Skill-effect: Death Immune
+- Effect: Death Immune
 - Term: Transformed / Damage Immunity
 
 Notes:
+
 - A visual indicator is shown around Nana when Molina's Gift is ready. (see Patch Notes 1.6.58)
-- If other available effects trigger, Molina's Gift will trigger first; the end does not cancel the other effects.
+- If another ability is available, Molina's Gift will trigger first; ending does not cancel the other ability.
 
 ## Magic Boomerang
 
-Cooldown: 5.5 / 5.2 / 4.9 / 4.6 / 4.3 / 4.0 seconds
-Mana Cost: 50 / 55 / 60 / 65 / 70 / 75
-
 Nana hurls her Magical Boomerang in the target direction, dealing damage to enemies hit on its way out and back. The boomerang deals to the first enemy. For every additional enemy hit, the damage is reduced by 20% (max reduction of 60%).
 
-- Skill-effect: AOE
-- Properties:
-  - Spell Vamp Ratio: 50%
-  - Base Damage: 320 / 344 / 368 / 392 / 416 / 440
+- Cooldown (by level): 5.5 / 5.2 / 4.9 / 4.6 / 4.3 / 4.0 seconds
+- Mana Cost (by level): 50 / 55 / 60 / 65 / 70 / 75
+- Spell Vamp Ratio: 50%
+- Base Damage: 320 / 344 / 368 / 392 / 416 / 440
+
+Skill Type: Magic Damage, AOE
 
 Damage Reduction Stacks: 0% / 20% / 40% / 60% / 60% / 60%
 
 ## Molina Smooch
 
-Cooldown: 14.5 / 14.0 / 13.5 / 13.0 / 12.5 / 12.0 seconds
-Mana Cost: 80 / 85 / 90 / 95 / 100 / 105
-
 Nana summons Molina at the target location. After a short delay, Molina will chase the nearest enemy hero in range for 2.5 seconds. Molina will deal to the first enemy hero it collides with and transform them for 1.5 seconds, and also slow them by 50% and reduce their Magic Defense by 25% for the duration. If there are no enemy heroes in range, Molina will disappear after 12 seconds.
 
-- Skill-effects: CC, Debuff
-- Properties:
-  - Morph Damage: 250 / 275 / 300 / 325 / 350 / 375
-  - Slowing Effect: 50% / 54% / 58% / 62% / 66% / 70%
-  - Terms: Transform / Magic Damage Skill / Magic Defense
+- Cooldown (by level): 14.5 / 14.0 / 13.5 / 13.0 / 12.5 / 12.0 seconds
+- Mana Cost (by level): 80 / 85 / 90 / 95 / 100 / 105
+- Morph Damage: 250 / 275 / 300 / 325 / 350 / 375
+- Slowing Effect: 50% / 54% / 58% / 62% / 66% / 70%
+
+Skill Type: Transform / Magic Damage / Debuff
 
 Notes:
+
 - Affected enemies are revealed.
 - Molina will chase the enemy hero at an exponential rate before it disappears.
 
 ## Molina Blitz
 
-Cooldown: 36.0 / 32.0 / 28.0 seconds
-Mana Cost: 135 / 150 / 165
+Nana summons Molina to strike the target area 3 times, each time dealing to enemies within the area and slowing them by 50% for 1 second. Enemies hit consecutively will be stunned for 1 second.
 
-Nana summons Molina to strike the target area 3 times, each time dealing damage to enemies within the area and slowing them by 50% for 1 second. Enemies hit consecutively will be stunned for 1 second.
+- Cooldown (by level): 36.0 / 32.0 / 28.0 seconds
+- Mana Cost (by level): 135 / 150 / 165
+- Base Damage: 440 / 550 / 660
+- Spell Vamp Ratio: 50%
 
-- Skill-effects: Burst, CC
-- Properties:
-  - Spell Vamp Ratio: 50%
-  - Base Damage: 440 / 550 / 660
-  - Terms: Stun / Magic Damage Skill / Movement Speed
+Skill Type: Magic Damage / Burst / CC
+
+Notes:
+
+- Enemies hit consecutively by the strikes will be stunned for 1 second.
 
 # Trivia
 

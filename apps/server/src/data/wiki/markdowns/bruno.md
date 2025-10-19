@@ -2,14 +2,16 @@
 
 # Profile
 
-- **Chinese name:** 前锋 (qiánfēng "Vanguard")
 - **Alias:** The Protector (of Eruditio)
+- **Chinese name:** 前锋 (qiánfēng "Vanguard")
 - **Born:** Agelta Drylands; Emerald Road
 - **Age:** 25
 
+# Story
+
 > "The captain of the Eruditio Rangers that protects the city with his amazing football skills."
 
-# Bio
+Bruno, the current captain of the Eruditio Rangers and a star footballer, had a very eventful past. Born in the Agelta Drylands, Bruno grew up in a remote village surrounded by poverty. But it was those hardships that fueled his longing for freedom. As soon as he was of age, Bruno joined a caravan in hopes of seeing the world. Unfortunately, a tragic accident robbed him of his legs and his freedom. But fate was on his side, for when the caravan passed him through Eruditio, Bruno was offered a second chance. Although it came with great risk, he was so touched by the passion of the city that he decided to take that chance, and in the end of his courage paid off. He not only regained his legs, but was now faster than ever. Instead of continuing his travels, he decided to remain in Eruditio and become its protector. He vowed to uphold the ideals of the Oasis in the desert and help others find true freedom.
 
 Bruno's duties as the captain of the Eruditio Rangers kept him very busy, but what little spare time he did have was spent playing football with the children at the market. He was always cheerful and enthusiastic, and would bring gifts and treats for the children. He was a superstar in their eyes, and they loved hearing him tell stories about his past, and how he became so good at football.
 
@@ -25,11 +27,13 @@ However, a cruel fate would soon befall him. The caravan had stopped near Firewi
 
 BOOM!
 
-The wagon landed on its side and sent a huge cloud of dust into the air. The crew yelled if anyone was hurt, and heard Thiago yell back. When the dust settled, they saw him lying on the ground next to the wagon, unhurt but visibly shaken. Thiago immediately pointed to the wagon with a horrified look on his face. In the split second before the wagon came down, Bruno had dashed in and pushed Thiago to safety, but he could not escape the same fate. Everyone came together in a frantic effort to pull Bruno out from under the wagon. His life was saved that day, but he would never walk again.
+The wagon landed on its side and sent a huge cloud of dust into the air. The crew yelled if anyone was hurt, and heard Thiago yell back. When the dust settled, they saw him lying on the ground next to the wagon, unhurt but visibly shaken. Thiago immediately pointed to the wagon with a horrified look on his face. In the split second before the wagon came down, Bruno had dashed in and pushed Thiago to safety, but he could not escape the same fate.
 
-The caravan owners were moved by Bruno's selflessness, and unanimously decided to let him stay with the caravan from now on. They would be Bruno's legs and carry him to see the world. As time passed, Bruno tried his best to be optimistic. He still chatted and joked with the others, and always carried a cheerful expression, but Thiago could see that those once-bright eyes were turning gray. The fire inside the young man was slowly fading away.
+Everyone came together in a frantic effort to pull Bruno out from under the wagon. His life was saved that day, but he would never walk again. The caravan owners were moved by Bruno's selflessness, and unanimously decided to let him stay with the caravan from now on. They would be Bruno's legs and carry him to see the world.
 
-One night, the caravan stopped to rest alongside a traveling troupe. As everyone sat around the campfire, a bard began to sing a familiar tune.
+As time passed, Bruno tried his best to be optimistic. He still chatted and joked with the others, and always carried a cheerful expression, but Thiago could see that those once-bright eyes were turning gray. The fire inside the young man was slowly fading away.
+
+One night, the caravan stopped to rest alongside a traveling troupe. As everyone sat around the campfire, a bard began to sang a familiar tune.
 
 > "If you haven't felt every grain of sand beneath your feet, then you haven’t experienced true freedom."
 
@@ -65,81 +69,68 @@ Bruno said with a straight face.
 
 The children protested before running off and mumbling about being tricked again. Bruno smiled as he took in the inspiring view of the Spire of Knowledge under the sunset glow.
 
+# Side Story
+
+## Lethal Nexus
 
 > "Bruno loves to run, but an accident has left him legless forever. When he was in despair, Eruditio used top-notch technology to shape a pair of mechanical legs for him, giving him the ability to run again. So he joined the Eruditio Rangers, vowing to guard the city with his life. In this riot, Bruno always fights in the front line of the battle."
 
-# Story
-
-> "The captain of the Eruditio Rangers that protects the city with his amazing football skills."
-
-Bruno, the current captain of the Eruditio Rangers and a star footballer, had a very eventful past. Born in the Agelta Drylands, Bruno grew up in a remote village surrounded by poverty. But it was those hardships that fueled his longing for freedom. As soon as he was of age, Bruno joined a caravan in hopes of seeing the world.
-
-Unfortunately, a tragic accident robbed him of his legs and his freedom. But fate was on his side, for when the caravan passed him through Eruditio, Bruno was offered a second chance. Although it came with great risk, he was so touched by the passion of the city that he decided to take that chance, and in the end his courage paid off. He not only regained his legs, but was now faster than ever.
-
-Instead of continuing his travels, he decided to remain in Eruditio and become its protector. He vowed to uphold the ideals of the Oasis in the desert and help others find true freedom.
+Eruditio's lore has been revamped on July 2023.
 
 # Abilities
 
 ## Mecha Legs
 
-Bruno gains extra critical chance stacks when he deals damage with his skills and has altered attack speed scaling.
+Bruno gains 2% extra Crit Chance each time he deals damage with his skills (up to 10 stacks). Bruno has higher Physical Attack but only gains 80% extra Attack Speed from all sources.
 
-- Bruno gains 2% extra Critical Chance each time he deals damage with his skills, stacking up to 10 stacks (stack values scale by level; see properties below).
-- Bruno has higher base Physical Attack, but only gains 80% of extra Attack Speed from all sources.
-- Stack duration: each stack lasts for 5 seconds. Its timer resets when it is refreshed until consumed by Bruno's next enhanced Basic Attack or skill damage.
-
-Properties:
-- Extra Critical Chance per stack by level: 2% / 4% / 6% / 8% / 10% / 12% / 14% / 16% / 18% / 20% (depending on hero level).
-
-Notes:
-- Stacks are consumed by Bruno's next enhanced Basic Attack or by skill damage as described above.
+- Extra Critical Chance per stack: 2% / 4% / 6% / 8% / 10% / 12% / 14% / 16% / 18% / 20%
+- Stack duration: Stacks last for 5 seconds. Its timer resets when it is consumed by Bruno's next enhanced Basic Attack or skill damage.
 
 ## Volley Shot
 
-Bruno kicks a Powerball on his next Basic Attack, dealing damage to the target and slowing them by 30% for 0.5 seconds. The Powerball then bounces back toward Bruno and lands on the ground. Bruno or allied heroes can retrieve the Powerball; after retrieval Bruno can perform another enhanced Basic Attack and the cooldown of Volley Shot is reduced by 1 second.
+Bruno kicks a Powerball on his next Basic Attack, dealing damage to the target and slowing them by 30% for 0.5 seconds. The Powerball then bounces back toward Bruno and lands on the ground. He or allied heroes can retrieve the Powerball, after which he can perform another enhanced Basic Attack and have the cooldown of Volley Shot reduced by 1 second.
 
-- Base Damage (by skill rank): 120 / 150 / 180 / 210 / 240 / 270 (physical damage).
-- Cooldown (by rank): 10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5 seconds.
-- Mana Cost (by rank): 75 / 85 / 95 / 105 / 115 / 125.
-- Slow: 30% movement speed reduction for 0.5 seconds.
+- Base Damage: 120 / 150 / 180 / 210 / 240 / 270
+- Damage scales with Physical Attack (scaling: 100% of Physical Attack)
+- Cooldown: 10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5 seconds
+- Mana cost: 75 / 85 / 95 / 105 / 115 / 125
 
-Additional notes:
-- The Powerball can only be retrieved from the ground for two seconds after it lands; it will disappear otherwise.
-- If the target unit is killed before the Powerball reaches it, the Powerball will disappear and will not bounce back to the ground to be picked up.
-- Enhanced Basic Attack granted upon retrieval consumes any relevant stacks or effects as described by Bruno's mechanics.
+Notes:
+- Stacks last for 5 seconds. Its timer resets when consumed by Bruno's next enhanced Basic Attack.
+- The Powerball can only be retrieved from the ground for two seconds or it will disappear.
+- If the target unit is killed before the Powerball reaches it, the Powerball will disappear and will not bounce back to be picked up.
 
 ## Flying Tackle
 
-Bruno performs a slide tackle in the target direction, dealing physical damage to enemies in his path and stunning them for 0.5 seconds. If the Powerball is currently bouncing back, Bruno also draws the Powerball toward him upon using this skill.
+Bruno makes a slide tackle in the target direction dealing damage to enemies in his path and stunning them for 0.5 seconds. If the Powerball is bouncing back, Bruno also draws the Powerball toward him.
 
-- Base Damage (by skill rank): 140 / 165 / 190 / 215 / 240 / 265 (physical damage).
-- Cooldown: 7.0 seconds.
-- Mana Cost (by rank): 60 / 55 / 50 / 45 / 40 / 35.
-- Effects: Blink-like movement (slide), and a 0.5 second stun to enemies hit.
+- Base Damage: 140 / 165 / 190 / 215 / 240 / 265
+- Damage scales with Physical Attack (scaling: 40% of Physical Attack)
+- Mana cost: 60 / 55 / 50 / 45 / 40 / 35
+- Effect: Blink / Stun
 
 Notes:
-- If the Powerball is in flight or bouncing back when Flying Tackle is used, the Powerball will be drawn toward Bruno as part of the skill interaction.
+- Physical damage skill that also provides displacement when appropriate.
 
 ## Worldie
 
-Bruno kicks his Energy Ball at the target enemy hero, knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, dealing damage with each hit. Each hit also reduces the enemy's Physical Defense by a percentage for 8 seconds (can stack up to 3 times).
+Bruno kicks his Energy Ball at the target enemy hero, knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing physical damage. Each hit also reduces the enemy's Physical Defense by a percentage for 8 seconds (up to 3 stacks).
 
-- Initial Hit (by ultimate level): base damage 250 / 350 / 450 plus physical attack scaling (approximately 83% of Bruno's Physical Attack).
-- Bounce Hit Extra Damage (by ultimate level): 150 / 210 / 270 plus physical attack scaling (approximately 50% of Bruno's Physical Attack) applied on bounces between enemies.
-- Physical Defense Reduction (by ultimate level): 4% / 6% / 8% per hit, lasting 8 seconds, up to 3 stacks.
-- The Energy Ball can bounce up to 10 times total between nearby enemies.
-- Cooldown (by ultimate rank): 38.0 / 33.0 / 28.0 seconds.
-- Mana Cost (by rank): 140 / 160 / 180.
+- Base Damage per bounce: 250 / 350 / 450
+- Extra damage component: 150 / 210 / 270
+- Physical Defense reduction per hit: 4% / 6% / 8% (values scale with skill level)
+- Mana cost: 140 / 160 / 180
+- Cooldown: 38.0 / 33.0 / 28.0 seconds
 
 Notes:
-- The skill causes displacement (knockback) of the initial target.
-- Each hit applies a stack of Physical Defense reduction; maximum is 3 stacks on a single target.
+- The Energy Ball can bounce up to 10 times between nearby enemies.
+- Each hit reduces Physical Defense for 8 seconds and can stack up to 3 times. The exact stack value scales with skill level and number of hits.
 
 # Trivia
 
 - The name Bruno has Germanic origins and comes from the Old High German word "brun", which means "brown". It was traditionally used to describe someone with brown hair, brown eyes, or a strong, protective nature. The name Bruno is also common among famous football (soccer) players, which ties into his football-inspired skills.
-- The only sports-themed hero in the game currently; while other heroes use magic or weapons, Bruno fights with pure skill and a football. His skill Volley Shot is based on a real-life football action. His skill Flying Tackle is also a real-life action.
+- The only sports-themed hero in the game currently, while other heroes use magic or weapons, Bruno fights with pure skill and a football. His skill Volley Shot is a real life skill. His skill Flying Tackle is also real.
 - He's the first and only hero to have abilities based on a sport (football). He's also the only hero who never uses his hands in attacking.
-- His ultimate skill name Worldie is also based on a real-life football term.
+- His ultimate skill name Worldie is also based on real life football club terminology.
 - He is one of the heroes who doesn't have a basic skin.
-- Before its redesign, his "Vanguard Elite" skin featured the colors of the Brazil national football team and heavily resembled Brazilian football player Neymar.
+- Before its redesign, his "Vanguard Elite" skin featured the colors of the Brazil national Football team; it heavily resembled Brazilian football player Neymar.

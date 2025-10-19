@@ -2,29 +2,33 @@
 
 # Profile
 
-- **Chinese name:** 佛朗哥 (fúlǎnggē)
-- **Alias:** Frozen Warrior
-- **Origin:** Northern Vale
-- **Species:** Human
-- **Gender:** Male
-- **Occupation:** Unnamed tribe leader
-- **Affiliation:** Black Shark Pirates (hostile)
-- **Weapons:**
-  - Iron hook
-  - Hammer
-- **Battles fought:** Battle of the Frozen Sea
-- **Relationships:**
-  - (companions)
-  - (enemies)
-- **Voice actor:** Nakamura Taishi (中村 大志)
+• Chinese name: 佛朗哥 (fúlǎnggē)
 
-**Defenses:** Physical Defense: 25 (level 1) — 135 (level 15). Magic Defense: 15 (level 1) — 71 (level 15).
+• Alias: Frozen Warrior
 
-# Story
+• Origin: Northern Vale
 
-> "Brave permafrost warrior, Bane's sworn enemy"
+• Species: Human
 
-Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.
+• Gender: Male
+
+• Occupation: Unnamed tribe leader
+
+• Affiliation: Black Shark Pirates (hostile)
+
+• Weapons:
+- Iron hook
+- Hammer
+
+• Battles fought: Battle of the Frozen Sea
+
+• Relationships: (companions), (enemies)
+
+• Japanese voice actor: Nakamura Taishi (中村 大志)
+
+• Base defenses:
+- Physical Defense: 25 (level 1), 135 (level 15)
+- Magic Defense: 15 (level 1), 71 (level 15)
 
 # Bio
 
@@ -54,28 +58,35 @@ With Bane drowned, Franco became ruler of the entire coast of the Northern Vale.
 
 Out of respect for Franco's glorious achievements, the people of the Northern Vale titled him the Frozen Warrior. But to Franco, all that he had done so far was still not worthy of such praise. Not long after, Franco learned that Bane not only had not perished, but had gained a new power, and was gathering his men to make his return.
 
+# Story
+
+> "Brave permafrost warrior, Bane's sworn enemy"
+
+Franco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.
+
 # Abilities
 
 ## Wasteland Force
 
-- **Description:** If no damage is taken within 5 seconds, Franco gains 10% Movement Speed, recovers 1% Max HP per second, and begins accumulating Wasteland Force stacks (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase that skill's damage by up to 150%.
-- **Damage Increase Per Stack:** 5% / 10% / 15% / 20% / 25% / 30% / 35% / 40% / 45% / 50% (scales with level)
+If no damage is taken within 5 seconds, Franco gains 10% Movement Speed, recovers 1% per second, and begins accumulating stacks (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase the skill's damage by up to 150%.
+
+- Damage Increase Per Stack: 5% / 10% / 15% / 20% / 25% / 30% / 35% / 40% / 45% / 50%
+- Terms: Movement Speed, Max HP
 
 Notes:
-
-- If the stacks have been consumed while the passive is active, Franco must receive damage before the stacks start accumulating again.
+- If the stack has been consumed while the passive is active, Franco has to receive damage or the stack won't start accumulating again.
 
 ## Iron Hook
 
-- **Cooldown:** 15.0 / 14.2 / 13.4 / 12.6 / 11.8 / 11.0 seconds (per level)
-- **Mana Cost:** 135 / 140 / 145 / 150 / 155 / 160 (per level)
-- **Description:** Franco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing damage and dragging them to Franco.
-- **Base Damage:** 400 / 450 / 500 / 550 / 600 / 650 (per level)
-- **Type:** Physical Damage Skill, Displacement
+Franco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing damage and dragging them to Franco.
+
+- Cooldown: 15.0 / 14.2 / 13.4 / 12.6 / 11.8 / 11.0 seconds
+- Mana cost: 135 / 140 / 145 / 150 / 155 / 160
+- Base Damage: 400 / 450 / 500 / 550 / 600 / 650
+- Terms: Physical Damage Skill, Displacement
 
 Notes:
-
-- The hook will pull the target to Franco's current position, which can be extended or repositioned by Franco's movement.
+- The hook will pull to the caster's current position, which can be extended or repositioned by movement.
 - The hook first applies stun, then the pulling effect.
 - When the hook hits a target, it plays a different sound and lingers briefly before returning.
 - Some abilities that provide CC immunity may fail to remove the pulling effect.
@@ -83,34 +94,31 @@ Notes:
 
 ## Fury Shock
 
-- **Cooldown:** 7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5 seconds (per level)
-- **Mana Cost:** 40 / 45 / 50 / 55 / 60 / 65 (per level)
-- **Description:** Franco lashes out, dealing physical damage equal to 300–450 plus 4% of his Max HP to nearby enemies and slowing them by 70% for 1.5 seconds.
-- **Base Damage:** 300 / 330 / 360 / 390 / 420 / 450 (per level)
-- **Type:** Physical Damage Skill
+Franco lashes out, dealing equal to 300–450 plus 4% of his Max HP to nearby enemies and slowing them by 70% for 1.5 seconds.
 
-Notes:
-
-- Damage includes a flat base component plus a percentage of Franco's Max HP.
+- Cooldown: 7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5 seconds
+- Mana cost: 40 / 45 / 50 / 55 / 60 / 65
+- Base Damage: 300 / 330 / 360 / 390 / 420 / 450
+- Terms: Physical Damage Skill, Max HP, Movement Speed
 
 ## Bloody Hunt
 
-- **Cooldown:** 62.0 / 55.0 / 45.0 seconds (per level)
-- **Mana Cost:** 110 / 125 / 140 (per level)
-- **Description:** Franco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing physical damage.
-- **Damage Per Hit:** 50 / 60 / 70 (per hit, per level)
-- **Type:** Suppress, Physical Damage Skill
+Franco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing 50 / 60 / 70 physical damage per hit.
+
+- Cooldown: 62.0 / 55.0 / 45.0 seconds
+- Mana cost: 110 / 125 / 140
+- Damage Per Hit: 50 / 60 / 70
+- Terms: Suppress, Physical Damage Skill
 
 Notes:
-
-- Ability ends prematurely when Franco is crowd controlled.
+- Ability ends prematurely when being crowd controlled.
 
 # Trivia
 
 - Franco is based on a real-life, historical viking warrior.
-- Both Franco and have the same quote: "One shot, one kill"
+- Both Franco and have the same quote: "One shot, one kill"
 - had the same quote but was removed due to being revamped for Project NEXT.
-- Most of his quotes are directly taken from the character **York** from *Magic Rush: Heroes*, which he also shares the same voice acting with. This explains why some of them seem completely unrelated to him, such as: *"I love the smell of gunpowder in the morning".*
+- Most of his quotes are directly taken from the character York from Magic Rush: Heroes, which he also shares the same voice acting with. This explains why some of them seem completely unrelated to him, such as: "I love the smell of gunpowder in the morning".
 - Franco is currently the only hero whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced.
 - Franco was banned temporarily in the game on 29 December 2021 after an exploit had been discovered on the Serpent lair. The ban was lifted on 19 January 2022 which spans for 21 days and 3 hours, which is the longest recorded ban in MLBB history, before the Helcurt ban in 2023.
 - Franco is one of three heroes that can apply the Suppression crowd control, the other being and.

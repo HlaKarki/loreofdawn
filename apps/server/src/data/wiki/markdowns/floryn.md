@@ -2,9 +2,7 @@
 
 # Profile
 
-She was released as a part of the MLBB 5th Anniversary.
-
-Players had a chance to redeem the hero for free for a limited time.
+She was released as a part of the MLBB 5th Anniversary. Players had a chance to redeem the hero for free for a limited time.
 
 - Chinese name: 洛霖 (luòlín)
 - Alias: The Budding Hope
@@ -12,14 +10,10 @@ Players had a chance to redeem the hero for free for a limited time.
 - Species: Anthropomorphic plant
 - Gender: Female
 - Affiliation: The Oasis
-- Abilities: Healing abilities
-  - Energy Seed
-- Relationships:
-  - Dew (companion)
-  - (creator/father)
-  - (companion)
-- Japanese VA: Goto Ayasa (後藤 彩佐)
-- Indonesian VA: Melati Pertiwi Putri
+- Abilities: Healing abilities; Energy Seed
+- Relationships: Dew (companion); creator/father (unnamed); other companion (unnamed)
+- Japanese voice actor: Goto Ayasa (後藤 彩佐)
+- Indonesian voice actor: Melati Pertiwi Putri
 
 # Story
 
@@ -49,7 +43,7 @@ Floryn followed the young man's trail out of the Oasis. She wanted to find out t
 
 However, what awaited her was a silent answer from what she saw and heard along the way. It was the first time Floryn had stepped into the desert, and also the first time she'd seen the howling sandstorms and the look of despair on people's faces. Before that, she'd never understood what kind of suffering people outside the Oasis were going through.
 
-When Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids… and those desperate ones who'd stop at nothing to survive.
+When Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids, and those desperate ones who'd stop at nothing to survive.
 
 The young man was slumped in a corner. He'd wanted to sell the seed to feed his family, but he'd never expected that the seed would wither the moment it left Floryn. As a result, those who'd been willing to bid would pay not a single penny.
 
@@ -73,10 +67,6 @@ Dew circled Floryn excitedly, as if it also liked the name. The changes in the e
 
 Now, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a considerable speed. And this greenery will eventually spread across the entire desert, dispersing all desolation and despair.
 
-# Bio
-
-
-
 # Abilities
 
 ## Dew
@@ -84,49 +74,58 @@ Now, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a
 Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat in 5 seconds, Floryn can share the Flower of Hope with an allied hero (30 seconds cooldown), which will grant them a buff each time they are healed by Floryn. Floryn will never sell the Lantern.
 
 - Notes:
-  - Does not affect target ally's networth.
-  - The Lantern can be cast regardless of distance or even when dead.
-  - This passive includes the "Share" effect: Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes. Share's cooldown is 30.0 seconds and is not affected by Cooldown Reduction.
-  - Share's casting does not provide skill-based buffs from items like Azure Blade.
+- Does not affect target ally's networth.
+- The Lantern can be cast regardless of distance or even when dead.
 
 ## Sow
 
-Floryn tosses an Energy Seed at a target enemy, dealing damage based on level and Floryn's stats. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring healing based on level and Floryn's attributes.
+Floryn tosses an Energy Seed at a target enemy, dealing damage based on level and her magic power. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring healing based on level and Floryn's stats.
 
 - Properties:
-  - Spell Vamp Ratio: 50%
-  - Base Damage: 180 / 210 / 240 / 270 / 300 / 330 (scales by level)
-  - Base Healing: 175 / 185 / 195 / 205 / 215 / 225 (scales by level)
+- Spell Vamp Ratio: 50%
+- Base Damage: 180 / 210 / 240 / 270 / 300 / 330
+- Base Healing: 175 / 185 / 195 / 205 / 215 / 225
 
 - Notes:
-  - Healing Fruits range has the same range as the cast range of this skill.
-  - Healing Fruits travel to nearby allies in 0.6 seconds (ignores distance of its point of origin).
-  - If the target enemy dies before the ability hits, no heal takes effect.
+- Healing Fruits range has the same range as the cast range of this skill.
+- Healing Fruits travel to the nearby allies in 0.6 seconds and ignore distance of their point of origin.
+- If the target enemy dies before the ability hits, no heal takes effect.
 
 ## Sprout
 
-Floryn casts a blob of energy ahead and it explodes upon hitting an enemy, dealing damage based on level and Floryn's stats to nearby enemies and stunning them for 0.7 seconds (and revealing their positions briefly).
+Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing damage based on level and stunning nearby enemies for 0.7 seconds while briefly revealing their positions.
 
 - Properties:
-  - Spell Vamp Ratio: 50%
-  - Base Damage: 175 / 210 / 245 / 280 / 315 / 350 (scales by level)
-  - Term: Stun
+- Spell Vamp Ratio: 50%
+- Base Damage: 175 / 210 / 245 / 280 / 315 / 350
+- Stun duration: 0.7 seconds
+- Reveal duration: a brief reveal on hit
 
 - Notes:
-  - The ability stuns enemies for 0.7 seconds and briefly reveals their positions.
-  - Duration of some secondary effects may vary depending on level and interactions.
+- Duration details for the reveal are brief and context dependent.
+- This skill provides crowd control and area damage.
 
 ## Bloom
 
-Floryn resonates with Dew's power, restoring base healing to all allied heroes twice no matter where they are on the battlefield. This effect removes any Healing Reduction or Shield Reduction effects on allied heroes, and makes them immune to those effects for 2 seconds.
+Floryn resonates with Dew's power, restoring base healing to all allied heroes twice regardless of their position on the battlefield. This effect removes any Healing Reduction or Shield Reduction effects on allied heroes and grants immunity to those effects for 2 seconds.
 
 - Properties:
-  - Base Healing: 250 / 350 / 450 (scales by ultimate level)
+- Base Healing: 250 / 350 / 450
+- Effect applies twice to allies alive at the time of casting.
 
 - Notes:
-  - The healing is applied twice to each allied hero alive at the time of casting.
-  - This effect cannot affect allies inside certain protected areas nor allies outside if a protected area is inside; it only takes effect on allies alive at the time of casting.
-  - Removes and grants brief immunity to Healing Reduction and Shield Reduction effects for 2 seconds.
+- Cannot affect allies under certain special conditions or inside certain areas; the effect only takes effect on allies alive at the time of casting.
+
+## Share
+
+Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes.
+
+- Cooldown: 30 seconds
+
+- Notes:
+- Share's cooldown is not affected by Cooldown Reduction.
+- Casting this skill does not give skill-based buffs like on Azure Blade and its successor items.
+- The icon of this skill is based off of the now-removed Shimmering Lantern.
 
 # Trivia
 

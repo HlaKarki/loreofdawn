@@ -1,18 +1,10 @@
 # Kimmy
 
-# Profile
-
-Born into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition. She is obsessed with technology and inventions. In order to prove herself to her father, Kimmy picks up her invention and joined the Imperial Expeditionary Army.
-
 # Story
 
 > "A cool girl who loves technology and invention"
 
-Born into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition. She is obsessed with technology and inventions. In order to prove herself to her father, Kimmy picks up her invention and joined the Imperial Expeditionary Army.
-
-# Bio
-
-
+Born into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition. She is obsessed with technology and inventions In order to prove herself to her father, Kimmy picks up her invention and joined the Imperial Expeditionary Army.
 
 # Side Story
 
@@ -28,9 +20,11 @@ Though her wings were confined within the cage her father built, Kimmy never aba
 
 Perhaps Kimmy's most carefree and joyful days were spent in Eruditio. She cut her hair short and made many friends, and one in particular, Beatrix, became her closest companion. The two were drawn together by the fierce determination they shared. Kimmy helped Beatrix test various weapons - no matter how complex their design or intricate their controls, she always seemed to bring out their true potential.
 
+When Beatrix urged her on, Kimmy's heart raced at the suggestion:
+
 > "Why not just go for it? Enlist first and tell him later!"
 
-Kimmy's heart raced at Beatrix's suggestion. As their fists bumped together, their rebellious alliance was officially sealed.
+As their fists bumped together, their rebellious alliance was officially sealed.
 
 Kimmy packed up and left Eruditio to join the Moniyan Empire's Western Border Guard. The closer she got to the military outpost, the more desolate the surroundings became, but her heart had never felt more fulfilled. She stretched her hand upward, as though she could grasp the sky itself.
 
@@ -48,11 +42,7 @@ Behind iron bars were over a dozen imprisoned allies. Kimmy acted decisively, bl
 
 As Kimmy evacuated the prisoners, an older officer, slowed due to his injuries, caught her attention. Those familiar shoulders, that crew cut of gray hair - it was her father. The usually fearless Kimmy felt her confidence waver. She had never told her strict father about enlisting. As their eyes met, Kimmy braced for the worst.
 
-However, after a moment's pause, he simply gave her a formal military salute pretending not to recognize his masked daughter. His voice was no longer as deep as she remembered, and his injured stature seemed smaller than she remembered. He advised the:
-
-> "new recruit"
-
-to make something of herself in the military. Kimmy shouldered her weapon and nodded solemnly while trying to keep her voice from trembling.
+However, after a moment's pause, he simply gave her a formal military salute pretending not to recognize his masked daughter. His voice was no longer as deep as she remembered, and his injured stature seemed smaller than she remembered. He advised the "new recruit" to make something of herself in the military. Kimmy shouldered her weapon and nodded solemnly while trying to keep her voice from trembling.
 
 New missions awaited on the horizon. Kimmy looked to the sky, knowing that her wings now carried her father's expectations. She was bound for even greater heights.
 
@@ -60,55 +50,41 @@ New missions awaited on the horizon. Kimmy looked to the sky, knowing that her w
 
 ## Aerial Dominance
 
-- Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy.
-- Kimmy's Spray Gun attack deals scaling magic damage based on level and magic power.
-- Hitting enemy heroes/non-hero units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal additional scaling magic damage and pierce through targets.
-- Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
+Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals scaling damage based on level and stats. Hitting enemy heroes/non-hero units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal additional magic damage and pierce through targets. Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
 
-Notes:
-- If no Starlium is gained within 7 seconds, the Starlium begins to deplete.
+- Starlium is a resource that builds and depletes over time. If no Starlium is gained within 7 seconds, the Starlium begins to deplete.
 - Due to this passive, Kimmy cannot use Manual Targeting.
 
 ## Anti-Grav Thruster
 
-- Kimmy uses her jetpack to take flight, removing and becoming immune to Slow Effects.
-- She can pass through terrain and gains 90% Movement Speed for 1 second.
-- During the flight, she fires 4 Chemical Bolts at nearby enemies, each dealing scaling magic damage and slowing them by 50% for 0.5 seconds.
+Kimmy uses her jetpack to take flight, removing and becoming immune to Slow Effects. She can pass through terrain and gains 90% Movement Speed for 1 second. During the flight, she fires 4 Chemical Bolts at nearby enemies, each dealing scaling damage based on level and stats and slowing them by 50% for 0.5 seconds.
 
-Additional information:
-- Spell Vamp: 50% (as provided).
-- Damage scales with level and magic power.
+- Cooldown: 14.0 / 13.0 / 12.0 / 11.0 / 10.0 / 9.0 seconds (value above is the highest-level cooldown). 
+- Spell Vamp ratio: 50%.
 
 Notes:
 - Chemical Bolts ignore invisible, concealed and unsighted enemies.
 
 ## Starlium Beam
 
-- Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals magic damage over 2 seconds.
-- Gain 20 Starlium for each enemy hero hit.
+Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals damage over 2 seconds (scaling damage based on level and stats). Gain 20 Starlium for each enemy hero hit.
 
-Additional information:
-- Base damage and energy regen scale with level and magic power.
-- Immobilize effect duration and damage scale with skill level.
+- Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds (value above is the highest-level cooldown).
+- Spell Vamp ratio: 50%.
 
-Notes:
-- Damage and exact values depend on level and Kimmy's stats; listed base values were provided as placeholders (use scaling damage).
+Level scaling includes base damage and energy regeneration values that scale with ability level and stats.
 
 ## Traction Pulse
 
-- Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal area magic damage to nearby enemies and creates a force field that slows enemies within by 75%.
-- After 1 second, the field contracts, pulling all enemy heroes to its center and dealing current HP based magic damage equal to a percentage of their current HP.
-- Gain 40 Starlium for each enemy hero hit.
+Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal scaling area damage to nearby enemies and creates a force field that slows enemies within by 75%. After 1 second, the field contracts, pulling all enemy heroes to its center and dealing a percentage of their current HP as Magic Damage (15% / 22.5% / 30% depending on skill level). Gain 40 Starlium for each enemy hero hit.
 
-Additional information:
-- Base damage scales with level and magic power.
-- Current HP Percentage: 15% / 22.5% / 30% depending on ultimate level.
-- Spell Vamp: 50% (as provided).
+- Cooldown: 40.0 / 35.0 / 30.0 seconds (value above is the highest-level cooldown).
+- Spell Vamp ratio: 50%.
 
 Notes:
 - Cooldown begins as soon as the ability is cast.
-- The ability can be held (charged) for up to 3 seconds before firing.
-- The HP based damage on the second part of this ability will not trigger the passive's effects.
+- The ability can be held for up to 3 seconds before firing.
+- The HP-based damage from the second part of this ability will not trigger Kimmy's passive.
 
 # Trivia
 
@@ -121,5 +97,5 @@ Notes:
 - Her basic attack used to spread and pierce through enemies similar to how shotgun pellets works.
 - She used to have 2 skill sources: one for her first skill and one for her second skill.
 - Her second skill used to be another basic attack buff skill similar to her first skill, but was later changed into a blink skill that does not consume any energy.
-- Before her rework on Patch Notes 1.6.10, Kimmy had Mixed Damage; it was later replaced with Magic Damage, making Esmeralda the only hero who specializes in Mixed Damage.
+- Before her rework on Patch Notes 1.6.10, Kimmy had Mixed Damage; it was later replaced with Magic Damage. This change made Esmeralda the only hero who specializes in **Mixed Damage**.
 - The melody she says when picked with Dragon Tamer skin is a parody on Hush Little Baby Don't Say A Word by the King's Singers 1987.

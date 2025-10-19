@@ -20,10 +20,6 @@ export class HeroService {
 	 * Get hero list - either all heroes or a single hero by url_name
 	 */
 	async getHeroList(query: string) {
-		if (query === "all") {
-			return this.db.select().from(heroesListTable);
-		}
-
 		const [hero] = await this.db
 			.select()
 			.from(heroesListTable)

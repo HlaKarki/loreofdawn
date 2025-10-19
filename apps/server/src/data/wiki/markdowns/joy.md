@@ -2,19 +2,22 @@
 
 # Profile
 
-- Aliases: *Flash of Miracle*, *Child of Miracle*, *Petty Thief*
+- Aliases: Flash of Miracle; Child of Miracle; Petty Thief
 - Born: Gleaming Marsh, Azrya Woodlands
 - Species: Leonin
 - Gender: Female
 - Traits: Crafty, devious and tenacious
 - Relationships: Unnamed deceased parents; "Granny" Susan (guardian, deceased); (companion); Volta (friend)
-- Voice Actors: Japanese: Moriyama Yukira (森山 由梨佳); Indonesian: Adinda Mia Larasati
+- Japanese VA: Moriyama Yukira (森山 由梨佳)
+- Indonesian VA: Adinda Mia Larasati
 
 # Story
 
-> "The \"Child of Miracle\" who returned to the Leonins after years of wandering."
+> "The "Child of Miracle" who returned to the Leonins after years of wandering."
 
 Agile and cunning, known as the most infamous "petty thief" in Lumina City, Joy had longed to have her stomach filled and her heart warmed. In a fortunate turn of events, Joy returned to the Leonins' land, her wandering heart healed by the simple and unconditional love of her kin. She no longer feared losing love again and vowed to protect those around her, to turn into a golden flash resonating with home...
+
+## I, Joy
 
 > "Who am I?"
 
@@ -22,17 +25,19 @@ The moment the lightning struck her chest, the Leonin girl couldn't help but thi
 
 > "You're granny's favorite lovebunny."
 
-This was the answer she received from her adoptive grandmother. For as long as she could remember, they had lived in the slums of Lumina City. Though grandma was poor, she could always find a way to keep the girl fed and put her to sleep. During that time, the magic necklace on the girl's chest would always be beating slightly to the lullaby. According to her grandmother, she was already wearing the necklace when she was discovered. One, two, three, four! It was like the beats of love.
+This was the answer she received from her adoptive grandmother. For as long as she could remember, they had lived in the slums of Lumina City. Though grandma was poor, she could always find a way to keep the girl fed and put her to sleep. During that time, the magic necklace on the girl's chest would always be beating slightly to the lullaby. According to her grandmother, she was already wearing the necklace when she was discovered.
 
-One day, grandma never woke up again. The girl stood by the frozen body for days, but couldn't find a way to wake her grandma up. The beating of the necklace on the girl's chest became slower and lighter.
+One, two, three, four!
 
-One... Two... Three... Four...
+It was like the beats of love.
+
+One day, grandma never woke up again. The girl stood by the frozen body for days, but couldn't find a way to wake her grandma up. The beating of the necklace on the girl's chest became slower and lighter. One... Two... Three... Four...
 
 It was as if her heart was being tightly grasped by a pair of large hands, and she could never hear the lullaby again. It was that day that the girl learned of death, learned of the impermanence of love. No matter how hard she tried, it would always disappear in the end. For no reason!
 
 As she wiped away her tears, she thought about where she would find some warm bread. The girl began to wander. Though life had always been sorrowful, it had also taught her many tricks. She learned to sneak into stores to steal food, slip away from the city guard, and even fight stray cats for nourishment. Her Leonin magic was strong enough to protect the girl, turning the bitterness of her life into a sweet cake.
 
-During those days, the answer she would most commonly hear was "a thief that brings shame to the Leonin clan." She remembered these words from Harith, an enforcer of the Imperial Army. He was upset that the girl was tarnishing the clan's reputation of honesty and kindness. Despite all attempts at reprimands and punishment, the girl never changed. Harith's anger grew greater and greater, until one day he found that the girl had never returned to the Leonin clan... never knew who she was.
+During those days, the answer she would most commonly hear was "a thief that brings shame to the Leonin clan." She remembered these words from Harith, an enforcer of the Imperial Army. He was upset that the girl was tarnishing the clan's reputation of honesty and kindness. Despite all attempts at reprimands and punishment, the girl never changed. Harith's anger grew greater and greater, until one day he found that the girl had never returned to the Leonin clan and never knew who she was.
 
 Lumina City was large enough that wanderers would often lose sight of themselves. The Leonin girl didn't know that she had a choice other than wandering. After several fights, Harith finally managed to bring the girl back to her homeland, the Gleaming Marsh.
 
@@ -44,17 +49,19 @@ The patriarch took the girl to the Leonin Temple, where the Leonin Crystal was e
 
 One, two, three, four!
 
-It was as if grandma's song was sung again. But even prophecy was not able to change the girl's habits. She continued to play tricks on those around her and lie to get her hands on delicious food. She even threw a BBQ party in the Leonin Temple! Even the other kids who didn't take kindly to the girl had no way to handle her. Whenever the kind and simple Leonin villagers showed concern or kindness towards her, they always reminded the girl of that moment she felt her heartbeat slow... Of the tingling feeling she never wanted to experience again.
+It was as if grandma's song was sung again.
+
+But even prophecy was not able to change the girl's habits. She continued to play tricks on those around her and lie to get her hands on delicious food. She even threw a BBQ party in the Leonin Temple. Even the other kids who didn't take kindly to the girl had no way to handle her. Whenever the kind and simple Leonin villagers showed concern or kindness towards her, they always reminded the girl of that moment she felt her heartbeat slow... Of the tingling feeling she never wanted to experience again.
 
 > "I don't need to care about who I am here... I hope that things can remain this way forever."
 
-But the thunder in the middle of a night broke the girl's dreams. This abyssal thunderstorm seemed as if it was going to wipe everything away. The girl was terrified... She was the "miracle child", one who had been given so much drink and food for free... They were definitely going to ask her to save them!
+But the thunder in the middle of a night broke the girl's dreams. This abyssal thunderstorm seemed as if it was going to wipe everything away. The girl was terrified. She was the "miracle child", one who had been given so much drink and food for free. They were definitely going to ask her to save them!
 
-But the request that came from the patriarch was that she runs away to a safe place. The Leonins had no intention of sacrificing a child for the sake of prophecy. They cared for her not because they wanted something... but rather because they had pity for an orphan. The Leonins were returning the girl's freedom, just as if she was a child who had left home.
+But the request that came from the patriarch was that she runs away to a safe place. The Leonins had no intention of sacrificing a child for the sake of prophecy. They cared for her not because they wanted something, but rather because they had pity for an orphan. The Leonins were returning the girl's freedom, just as if she was a child who had left home.
 
 Looking up, the girl saw that the temple was about to collapse under the pressure of the thunderstorm. The shivering Leonins had surrounded the temple, trying their best to keep it supported with magic. Closing their eyes and praying, they thought back to their families for peace of mind.
 
-The necklace on her chest began to beat once more, slowly and lightly. Was she going to lose her new home the same way she lost her grandmother? As another bright bolt of lightning struck out from the sky, the temple began to collapse. Suddenly... that girl managed to withstand the lightning bolt! Running back and forth through the thunderstorm, she absorbed the lightning in her body, preventing it from damaging the temple any further. She continued to run and roll at high speed, until a bolt of lightning struck her in the chest.
+The necklace on her chest began to beat once more, slowly and lightly. Was she going to lose her new home the same way she lost her grandmother? As another bright bolt of lightning struck out from the sky, the temple began to collapse. Suddenly, that girl managed to withstand the lightning bolt. Running back and forth through the thunderstorm, she absorbed the lightning in her body, preventing it from damaging the temple any further. She continued to run and roll at high speed, until a bolt of lightning struck her in the chest.
 
 > "Who am I?"
 
@@ -64,7 +71,7 @@ One, two, three, four!
 
 > "I used to be an orphan."
 
-The Leonins and the Crystal surged with magical energy oozing from the girl, as if a blessing from home. The light spread to her ears and legs... illuminating her whole body.
+The Leonins and the Crystal surged with magical energy oozing from the girl, as if a blessing from home. The light spread to her ears and legs, illuminating her whole body.
 
 > "I've stolen food and done many bad things..."
 
@@ -76,48 +83,46 @@ She no longer feared losing love. Instead, she would use her life to protect tho
 
 > "I! AM! JOY!"
 
-# Bio
-
-The "Child of Miracle" who returned to the Leonins after years of wandering. Agile and cunning, known as the most infamous "petty thief" in Lumina City, Joy had longed to have her stomach filled and her heart warmed. After returning to the Leonins' land, her wandering heart was healed by the simple and unconditional love of her kin, and she vowed to protect those around her.
-
 # Abilities
 
-## Angry!
+## Humph, Joy's Angry!
 
-- Joy gains a buff each time her skill hits a non-Minion enemy. The buff deals 100 magic damage (scaling damage based on level and stats) and increases her Movement Speed by 60%, which decays over 4s.
-- Hitting the same target has a 4s cooldown per target.
-- While Angry! is active, Joy's Basic Attacks deal additional magic damage based on level and stats.
+- Trigger: Each time Joy's skill hits a non-Minion enemy.
+- Effect: Joy deals 100 magic damage to the target and gains Movement Speed increased by 60% that decays over 4s. Hitting the Leonin Crystal will also grant the Movement Speed effect. This effect has a cooldown of 4s for each target.
+- Basic Attack Interaction: Joy's Basic Attack will deal bonus damage based on level and stats.
+- Notes on scaling: Damage and other related values scale with level and stats (base values from templates: base 65; total physical attack 65; total magic power 65).
 
 ## Look, Leonin Crystal!
 
-- Joy summons a Leonin Crystal at the target location, dealing scaling damage to nearby enemies and slowing them by 30% for 1s.
+- Joy summons a Leonin Crystal at the target location, dealing damage based on level and stats to nearby enemies and slowing them by 30% for 1s.
 - The Leonin Crystal lasts 2 seconds and can be used as a springboard for her second skill.
-- Level scaling (base damage per level): 200 / 220 / 240 / 260 / 280 / 300.
-- Damage scales with Joy's stats and level.
+- Level scaling (base damage by skill level): 200 / 220 / 240 / 260 / 280 / 300.
 
 ## Meow, Rhythm of Joy!
 
 - Joy dashes in the target direction, dealing damage to enemies in her path.
-- Hitting an enemy or a Leonin Crystal allows Joy to cast this skill again within 0.8 seconds and grants 1 Beat Energy.
-- Casting this skill "on the beat" increases the skill damage by 100% and grants a shield that lasts 3s.
+- Hitting an enemy or the Leonin Crystal allows Joy to cast this skill again within 0.8 seconds and gain 1 Beat Energy.
+- Casting this skill on the beat increases the skill damage by 100% and grants a shield that lasts 3s.
 - This skill can be cast up to 4 times in succession.
-- Level scaling (base damage per level): 120 / 138 / 156 / 174 / 192 / 210.
-- Shield values per level: 80 / 90 / 100 / 110 / 120 / 130.
-- Damage and shield scale with Joy's stats.
+- Level scaling:
+  - Base Damage: 120 / 138 / 156 / 174 / 192 / 210
+  - Shield: 80 / 90 / 100 / 110 / 120 / 130
 
 ## Ha, Electrifying Beats!
 
-- Joy increases her Physical & Magic Defense by a value based on level and gains 30% Movement Speed.
-- Over the next 4s, she pulses 8 times, dealing damage each pulse to nearby enemies. Each cast on the beat increases this skill's damage by 40%.
-- If perfect rhythm is achieved by hitting every beat with Meow, Rhythm of Joy!, Joy also gains 40% Spell Vamp while this skill is active.
-- This skill unlocks when Joy acquires Beat Energy. Casting this skill with 3 Beat Energy will remove all debuffs on Joy and make her immune to slow effects while this skill is active.
-- Level scaling (base damage per pulse): 120 / 160 / 200. Both Defense Increase values by level: 15 / 20 / 25.
-- Damage and defense values scale with Joy's level and stats.
+- Upon activation, Joy increases her Physical and Magic Defense and gains 30% Movement Speed.
+- Over the next 4s, she pulses 8 times, dealing damage each pulse to nearby enemies.
+- Each pulse cast on the beat increases this skill's damage by 40%.
+- If perfect rhythm is achieved by hitting every beat with Meow, Rhythm of Joy!, Joy gains 40% Spell Vamp while this skill is active.
+- Casting this skill with 3 Beat Energy will remove all debuffs on Joy and make her immune to slow effects while this skill is active.
+- Level scaling:
+  - Base Damage per pulse: 120 / 160 / 200
+  - Both Defense Increase: 15 / 20 / 25
 
 # Trivia
 
 - The name "Joy" represents her playful and energetic nature. Her voice lines are cheerful and enthusiastic, showing her youthful and fun-loving personality.
-- She is the 4th Leonin to be introduced in the game along with, and.
+- She is the 4th Leonin to be introduced in the game.
 - She has cat-like ears, a playful personality, and makes cute purring and meowing sounds in some of her voice lines. Even her Ultimate, "Ha, Electrifying Beats!", has her leaping around like a hyperactive kitten.
 - Joy is the first hero to accompany rhythm through her skills, akin to a rhythm game.
-- Joy was officially released on 18 November 2022, since the release of on 12 August 2022, making it the longest gap between hero releases at 98 days.
+- Joy was officially released on 18 November 2022, since the release of another hero on 12 August 2022, making it the longest gap between hero releases at 98 days.

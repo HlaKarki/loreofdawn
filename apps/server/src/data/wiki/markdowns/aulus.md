@@ -2,22 +2,21 @@
 
 # Profile
 
-- Alias: Warrior of Ferocity
-- Origin: Lantis Mountain, The Barren Lands
-- Species: Leonin
-- Gender: Male
-- Weapons: War Axe
-- Relationships: *,, (companions)
-* (enemy)
-- Voice Actor (JA/VA): Kaoru Kawaguchi (河口薫)
+Alias: Warrior of Ferocity
 
-# Story
+Origin: Lantis Mountain, The Barren Lands
 
-> "A Leonin warrior that fights to prove himself."
+Species: Leonin
 
-Aulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe. To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats. But as a Leonin, all he ever faced was prejudice and injustice from the world.
+Gender: Male
 
-No longer able to bear it, Aulus headed toward the Lantis Mountains alone to hunt demons. Here, his strong rage awoke the slumbering battleaxe and henceforth they fought side by side to prove themselves, and the power of Leonins.
+Weapons: War Axe
+
+Relationships:
+- *,, (companions)
+- * (enemy)
+
+Japanese Voice Actor: Kaoru Kawaguchi (河口薫)
 
 # Bio
 
@@ -33,7 +32,7 @@ Aulus saw that instead of solving the problem, his rage further aggravated their
 
 Aulus suppressed his hot temper, trying to blend into the human society and look for opportunities to achieve his dream. But to his surprise, the outside world had lots of prejudices against the Leonins.
 
-Once Aulus wanted to follow the caravans to the Moniyan Empire and join the army, but the caravan leader said the small Leonins were better suited being jesters in the palace, instead of going to the battles. Aulus thus went north to Northern Vale, but they only hire him to clean up the battlefield. And when he finally had a chance to fight with the army, another soldier rubbed Aulus’ ear and said he reminded him of his cute kitten at home…
+Once Aulus wanted to follow the caravans to the Moniyan Empire and join the army, but the caravan leader said the small Leonins were better suited being jesters in the palace, instead of going to the battles. Aulus thus went north to Northern Vale, but they only hire him to clean up the battlefield. And when he finally had a chance to fight with the army, another soldier rubbed Aulus’ ear and said he reminded him of his cute kitten at home.
 
 All of this enraged Aulus, but he put up with it. He kept honing his battle skills and rushed to the frontline without fear, hoping that he’d one day be recognized at the triumphant ceremony. Yet on the ceremony he’d long been waiting for, the general gave the honor that should belong to Aulus to a rookie soldier. Aulus could bear it no longer and questioned him, and to his surprise, the drunk general answered honestly that he didn’t think a Leonin deserved to lead humans.
 
@@ -45,56 +44,59 @@ At that moment, Aulus felt power surging into both of his hands and the battleax
 
 On the Lantis Mountains, another group were also fighting to prove their powers – Benedetta and her ranger squad, and Aulus joined them without much hesitation. He believed that through battles, he’d become a respected warrior one day. At this time, he’d no longer be fighting for himself, but to prove his strength to the whole Land of Dawn and to crush people’s prejudices against the Leonins.
 
+# Story
+
+> "A Leonin warrior that fights to prove himself."
+
+Aulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe. To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats. But as a Leonin, all he ever faced was prejudice and injustice from the world. No longer able to bear it, Aulus headed toward the Lantis Mountains alone to hunt demons. Here, his strong rage awoke the slumbering battleaxe and henceforth they fought side by side to prove themselves, and the power of Leonins.
+
 # Abilities
 
 ## Fighting Spirit
 
-> "A war axe that fights more fiercely as the battle continues."
-
-Aulus adds a stack of Fighting Spirit to his axe per second for 3 seconds after dealing damage to any enemy (up to 4 stacks). Each stack grants 9-15% extra Attack Speed and 1-4 Physical Penetration (scales with level). Aulus also gains 10% extra Movement Speed and 42-210 Basic Attack Damage at max Fighting Spirit stacks (scales with level).
+Aulus adds a stack to his axe per second for 3 seconds after dealing damage to any enemy (up to 4 stacks). Each stack grants 9-15% extra Attack Speed and 1-4 Physical Penetration (scales with level). Aulus also gains 10% extra Movement Speed and 42-210 Basic Attack Damage at max Fighting Spirit stacks (scales with level).
 
 - Extra Physical Attack: 3 / 6 / 9 / 12
 - Physical Penetration: 1 / 2 / 3 / 4
-- Terms: Physical ATK, Physical PEN, Movement Speed
+- Effect scales with level and stats
 
 ## Aulus, Charge!
 
-Aulus removes all slow effects and gains 30-50% extra Movement Speed and 20-50% Damage Reduction against attacks from the front for 5 seconds.
+Aulus removes all slow effects and gains extra Movement Speed and Damage Reduction against attacks from the front for 5 seconds.
 
 - Movement Speed Bonus: 30% / 34% / 38% / 42% / 46% / 50%
 - Damage Reduction: 30% / 34% / 38% / 42% / 46% / 50%
-- Terms: Movement Speed, Damage Reduction
-
-Cooldown and mana cost scale by level as listed.
+- Cooldown: 16.0 / 15.6 / 15.2 / 14.8 / 14.4 / 14.0 seconds (first value shown)
+- Mana Cost: 50 / 55 / 60 / 65 / 70 / 75 (first value shown)
 
 ## The Power of Axe
 
-Aulus brandishes his axe, dealing damage based on skill level and his stats to enemies in a fan-shaped area, and enhancing his next Basic Attacks for 3 seconds after hitting enemy heroes or Creeps. Aulus recovers HP by 50-100 per Basic Attack.
+Aulus brandishes his axe, dealing damage to enemies in a fan-shaped area, and enhancing his next Basic Attacks for 3 seconds after hitting enemy heroes or creeps. Aulus recovers HP by 50-100 per Basic Attack.
 
 - Base Damage: 150 / 230 / 310 / 390 / 470 / 550
 - Attack Speed Boost: 100% / 120% / 140% / 160% / 180% / 200%
-- Term: Healing Effect
-
-Damage and healing scale with skill level and Aulus' attack stats.
+- Healing Effect: recovers HP by 50-100 per Basic Attack
+- Cooldown: 5.0 seconds
+- Mana Cost: 40 / 46 / 52 / 58 / 64 / 70 (first value shown)
 
 ## Undying Fury
 
-Every time it is upgraded, Aulus crafts a part for his axe in order:
+Passive upgrades: Every time it is upgraded, Aulus crafts a part for his axe in order:
 
 - Permanently increases his Basic Attacks' damage by 50.
-- Permanently increases his Attack Range by 65% and the range of his basic attacks.
+- Permanently increases his Attack Range by 65% and increases the range of his abilities.
 - Permanently increases his Physical Penetration by 20%.
 
-Active: Aulus raises his axe and smashes it to the ground, dealing physical damage to enemies in a line and slowing them by 90% for 0.5 seconds. A burning trail that lasts for 5 seconds is left on the ground, dealing damage based on skill level and stats to enemies who walk on it every 0.5 seconds and slowing them by 70%.
+Active: Aulus raises his axe and smashes it to the ground, dealing physical damage to enemies in a line and slowing them by 90% for 0.5 seconds. A burning trail that lasts for 5 seconds is left on the ground, dealing sustained physical damage to enemies who walk on it every 0.5 seconds and slowing them by 70%.
 
 - Base Damage: 210 / 250 / 290
-- Sustained Damage (per tick): 90 / 110 / 130
-- Terms: Physical Penetration, Physical Damage, Movement Speed
-
-Cooldown and mana cost scale with ultimate level as listed.
+- Sustained Damage: 90 / 110 / 130
+- Cooldown: 50.0 / 45.0 / 40.0 seconds (first value shown)
+- Mana Cost: 150 / 180 / 210 (first value shown)
+- Effects: physical damage, strong short slow on impact, sustained damage and slow on burning trail
 
 # Trivia
 
 - He is the 3rd leonin to be introduced in the game along with and.
 - He speaks in Scottish accent.
-- The item War Axe is his weapon. If you sell war axe in game, he will quote *"Goodbye old friend".*
+- The item War Axe is his weapon. If you sell war axe in game, he will quote > "Goodbye old friend".

@@ -4,18 +4,18 @@
 
 Having possessed by Evil God **Lieh**, he is the first hero be introduced as a member of Forsaken Light.
 
-- Chinese name: 寅 (yín)
-- Alias: Martial Genius
 - Origin: Floral Falls, Cadia Riverlands
 - Age: 17
 - Species: Human
 - Gender: Male
 - Affiliation: Forsaken Light
+- Alias: Martial Genius
 - Fighting style: Ancient oriental martial arts, presumably Kung Fu
 - Weapons: Golden Rings
 - Abilities: Summons domain and transforms into Lieh
 - Likes: Animals, children, being trusted by others
-- Voice actors: EN: Bryan Green; JA: Kajikawa Shohei (梶川 翔平); ID: Dafa Surya
+- Relationships: (Forsaken Light co-members, alter ego)
+- Voice actors: English: Bryan Green; Japanese: Kajikawa Shohei (梶川 翔平); Indonesian: Dafa Surya
 
 # Story
 
@@ -23,33 +23,25 @@ Having possessed by Evil God **Lieh**, he is the first hero be introduced as a m
 
 Among the four renowned members of Forsaken Light, one young man from the East stands out. Known as Yin, this simple and righteous martial artist sometimes exudes a sinister aura, creating a stark contrast that leaves many wary of him. Few know that his wild and violent behavior stems from the Evil God, Lieh, dwelling within him.
 
-He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power.
+He is the reason Yin left his home in the Cadia Riverlands—to hone himself in the Land of Dawn and find a way to defeat Lieh. But Yin's struggles in this foreign land have had the opposite effect; as a being that thrives on chaos, the more Yin fights, the faster Lieh can recover his power. Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires.
 
-Thus, Lieh began to impart his power to Yin, watching him sink deeper into madness with each act of righteousness and chivalry, and leading him toward the self-destruction Lieh desires. However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh.
-
-Yin never backs down from a challenge, god or no god.
-
-# Bio
-
-
+However, even knowing the risks, Yin continues to wield this power—because for him, abandoning his code and ignoring the suffering of others would make him no better than Lieh. Yin never backs down from a challenge, god or no god.
 
 # Side Story
 
 ## The Righteous Fist
 
-For those who endured a lifetime of conflict and yearned for peace, the Floral Falls, hidden by mystical mechanisms, is a true utopia where the past is forgotten.
+For those who endured a lifetime of conflict and yearned for peace, the Floral Falls, hidden by mystical mechanisms, is a true utopia where the past is forgotten. But Yin's story is a little different—he arrived here before his life truly began.
 
-But Yin's story is a little different—he arrived here before his life truly began. Many years ago, on a spring day, the hermits of the valley found a bamboo basket floating down the river. Had they not taken a closer look, they would have missed the baby inside who ever uttered a single sound.
+Many years ago, on a spring day, the hermits of the valley found a bamboo basket floating down the river. Had they not taken a closer look, they would have missed the baby inside who ever uttered a single sound. While the hermits felt sorry for the abandoned boy, he met the world's cruelty with cheerful laughter. Whoever sent him down the river left him with no name or identifiable keepsakes.
 
-While the hermits felt sorry for the abandoned boy, he met the world's cruelty with cheerful laughter. Whoever sent him down the river left him with no name or identifiable keepsakes. Perhaps they knew the child would drift to this isolated sanctuary and purposely left no ties to the outside world?
+Perhaps they knew the child would drift to this isolated sanctuary and purposely left no ties to the outside world? Either way, the boy's life started anew in the Floral Falls and he was given a name. In the spring breeze, the hermits named him Yin—to honor the start of the lunar year, when life begins anew. They also gave him a blessing—to always look forward, always look up, for each day is the start of something new.
 
-Either way, the boy's life started anew in the Floral Falls and he was given a name. In the spring breeze, the hermits named him Yin—to honor the start of the lunar year, when life begins anew. They also gave him a blessing—to always look forward, always look up, for each day is the start of something new.
+Yin lived up to the expectations placed upon him. Although growing up in the Floral Falls was not easy, Yin was able to learn many valuable lessons. The reclusive hermits, weary of the world's affairs, imparted not only their martial arts but also their code of chivalry to him. Yin was a diligent student, but the more obedient he was, the more concerned the hermits who raised him became.
 
-Yin lived up to the expectations placed upon him. Although growing up in the Floral Falls was not easy, Yin was able to learn many valuable lessons. The reclusive hermits, weary of the world's affairs, imparted not only their martial arts but also their code of chivalry to him.
+Unlike the other residents of Floral Falls, who had lived their lives and grown weary of the world, a boy should not be afraid to make mistakes. What use is one's fist if one has nothing to fight for? Without stumbling, how could one learn to stand firm? If one never holds onto anything, how can one learn to let go? But it was during this time, while practicing martial arts, that Yin encountered Wanwan of the Tang clan, who had come to explore this strange abode.
 
-Yin was a diligent student, but the more obedient he was, the more concerned the hermits who raised him became. Unlike the other residents of Floral Falls, who had lived their lives and grown weary of the world, a boy should not be afraid to make mistakes. What use is one's fist if one has nothing to fight for? Without stumbling, how could one learn to stand firm? If one never holds onto anything, how can one learn to let go?
-
-But it was during this time, while practicing martial arts, that Yin encountered Wanwan of the Tang clan, who had come to explore this strange abode. For the first time, Yin met someone his own age. The energetic and playful Wanwan gradually helped him to discover what being young and free is like. They were always playing together, and time passed quickly. Yin began to see the vast and complex world outside the valley in a different light. Perhaps going out and seeing the world wouldn't be a bad idea? As a sensible child, Yin never voiced his thoughts to the elders, so he never realized that they shared his sentiments.
+For the first time, Yin met someone his own age. The energetic and playful Wanwan gradually helped him to discover what being young and free is like. They were always playing together, and time passed quickly. Yin began to see the vast and complex world outside the valley in a different light. Perhaps going out and seeing the world wouldn't be a bad idea? As a sensible child, Yin never voiced his thoughts to the elders, so he never realized that they shared his sentiments.
 
 Years later, when Wanwan departed to fulfill her duties as an Oriental Fighter, Yin's heart became restless. His yearning for the outside world clashed with the valley's traditions, leaving him torn between two worlds. He would isolate himself and practice alone, and his doubts gradually became a pool of negative energy. And this negative energy, in turn, would attract disaster.
 
@@ -101,77 +93,65 @@ The young man left Floral Falls, ready to cross the vast and tumultuous sea. Bef
 
 If there are no nearby allies within 4 units, Yin's damage is to 120% and gains 8% Spell Vamp.
 
-## Charged Punch
+## Charged Punch / Frenzy Strike (Lieh)
 
-Yin gains 60% extra (decays over 3 seconds). Yin can launch an enhanced basic attack that deals damage based on level and stats within the duration. Upon hitting an enemy with the enhanced Basic Attack, Yin will throw another charged punch forward, dealing scaling damage to enemies in the path. Successfully throwing a charged punch increases a related effect by 35%.
+Charged Punch:
+
+- Yin gains 60% extra attack (decays over 3 seconds). Yin can launch an enhanced Basic Attack that deals damage based on level and stats within the duration. Upon hitting an enemy with the enhanced Basic Attack, Yin will throw another charged punch forward, dealing damage based on level and stats to enemies in the path. Successfully throwing a charged punch reduces the skill's cooldown by 35%.
 
 - [Base] Basic Attack Damage: 25 / 40 / 55 / 70 / 85 / 100
 - [Base] Extra Damage: 360 / 400 / 440 / 480 / 520 / 560
-- Type: Physical Skill
-- Term: Movement Speed
 
 Notes:
-- Affects the dashing speed and casting speed of the initial attack but not the second one.
-- The initial attack is considered a basic attack; the succeeding attack is dealt as skill damage.
-- The charged punch can [interact with other mechanics].
 
-(Values and some effects are presented as in original text; certain phrases use descriptive placeholders where exact wording was missing.)
+- The initial attack is considered as basic attack damage, the succeeding attack is dealt as skill damage.
+- The initial dash's speed and casting speed are affected by the extra attack speed but not the second one.
 
-## Frenzy Strike
+Frenzy Strike (Lieh):
 
-Lieh smashes an area ahead up to 9 times, each smash dealing scaling physical damage to enemies hit and slowing them by 75% for 0.2 second. Lieh is immune to control effects for the duration, while the smashing speed will gradually increase. The first half of the attacks will automatically lock onto nearby enemies, while the latter half cannot change directions. Lieh can move or cast other skills during the latter half to cancel the skill early.
+- Lieh smashes an area ahead up to 9 times. Each smash deals damage based on level and stats to enemies hit and slows them by 75% for 0.2 second. Lieh is immune to control effects for the duration, while the smashing speed will gradually increase. The first half of the attacks will automatically lock onto nearby enemies, while the latter half cannot change directions. Lieh can move or cast other skills during the latter half to cancel the skill early.
 
-- Base Damage: 130 / 140 / 150 / 160 / 170 / 180
-- Type: Physical Skill
-- Term: Movement Speed
-
-(Scaling damage and some specific numbers are preserved where available; descriptive placeholders are used where original text omitted wording.)
+- Base Damage per hit: 130 / 140 / 150 / 160 / 170 / 180
 
 ## Instant Blast
 
-Yin dashes forward, leaving rings behind while dealing damage based on level and stats to enemies along the way. He gains 30% extra [effect] for 4 seconds if an enemy hero is hit. After 1 second, Golden Rings will catch up with Yin, dealing scaling damage to enemies it passes through and stunning them for 1 second.
+Instant Blast (Yin):
+
+- Yin dashes forward, leaving rings behind while dealing damage based on level and stats to enemies along the way. He gains 30% extra damage for 4 seconds if an enemy hero is hit. After 1 second, Golden Rings will catch up with Yin, dealing damage based on level and stats to enemies it passes through and stunning them for 1 second.
 
 - Base Damage: 75 / 90 / 105 / 120 / 135 / 150
 - [Base] Extra Damage: 150 / 180 / 210 / 240 / 270 / 300
-- Terms: Blink, Stunned, Physical Skill
 
 Notes:
+
 - Rings left behind by Yin before entering Lieh's domain will be dragged inside at the same distance behind Yin and will try to catch up to Lieh.
 - Yin's extra 30% does not stack with Lieh's damage reduction but its duration will be reset instead.
 
-Lieh variation:
+Instant Blast (Lieh):
 
-Lieh strikes a flying kick forward, leaving a ring behind while dealing scaling damage to enemies along the way. Enemies hit will also be knocked back slightly. He gains 30% extra [effect] for 4 seconds if an enemy hero is hit. After 1 second, Golden Rings will catch up with Lieh, dealing scaling damage to enemies it passes through and stunning them for 1.25 seconds.
+- Lieh strikes a flying kick forward, leaving rings behind while dealing damage based on level and stats to enemies along the way. Enemies hit will also be knocked back slightly. He gains 30% extra damage for 4 seconds if an enemy hero is hit. After 1 second, Golden Rings will catch up with Lieh, dealing damage based on level and stats to enemies it passes through and stunning them for 1.25 seconds.
 
-- Base Damage: 75 / 90 / 105 / 120 / 135 / 150
-- [Base] Extra Damage: 150 / 180 / 210 / 240 / 270 / 300
-- Terms: Blink, Stunned, Physical Skill
+Notes:
 
-(Descriptions use placeholders where original text had omitted words.)
+- Rings left behind by Lieh just before exiting his domain will be dragged outside at the same distance and will try to catch up to Yin.
 
 ## My Turn
 
-After a short delay Yin pulls an enemy (excluding summons) into his domain for up to 8 seconds and turns into Lieh. When in the domain, the two cannot be affected by other heroes' skills. Lieh has stronger skills and gains 50-80 extra defense & movement speed that lasts for 8 seconds. The domain will end early if any of the two hero is killed.
+My Turn:
 
-If Lieh successfully kills the enemy, he'll restore 20% HP, leave the domain with the bonus of [unspecified effect] and cooldown reset, and continue to fight as Lieh for 8 seconds. If Yin fails to pull his target into his domain, the skill will enter a 3 second cooldown.
+- After a short delay, Yin pulls an enemy into his domain for up to 8 seconds and turns into Lieh. When inside the domain, neither Yin nor the pulled enemy can be affected by other heroes' skills. Lieh has stronger skills and gains extra defenses and movement speed that lasts for 8 seconds.
 
-- Extra Defense: 50 / 65 / 80
-- Type: Physical Skill
-- Term: Movement Speed
+- Extra Defense (by level): 50 / 65 / 80
+
+- The domain will end early if either hero is killed. If Lieh successfully kills the enemy while inside the domain, Lieh will restore 20% HP, leave the domain with cooldowns reset on his skills, and continue to fight as Lieh for 8 seconds. If Yin fails to pull his target into his domain, the skill will enter a 3 second penalty cooldown.
 
 Notes:
-- Pulling an enemy inside Lieh's domain has a slight casting delay.
-- For interaction detail, please refer to the interaction sections.
 
-(Some phrases preserved verbatim; descriptive placeholders used where original text omitted specifics.)
-
-## Forsaken Light (Team Buff)
-
-Since there are other Forsaken Light members on [the hero's] team, [his] Max HP, Max Mana, Movement Speed and Critical Damage are increased [by 1/1/1%/1%, respectively]. (Original text: Forsaken Light: Since all the Forsaken Light members are present, your Max HP, Max Mana, Movement Speed, and Crit Damage are increased.)
+- Pulling an enemy inside Lieh's domain has a slight casting delay. For detailed interactions with specific abilities and edge cases, see the interaction section.
 
 # Trivia
 
-- Yin's previous title was *Kungfu Genius*. This was probably made to disambiguate him and, Kungfu Boy.
+- *Yin's previous title was* _Kungfu Genius_. This was probably made to disambiguate him and, Kungfu Boy.
 - He is the first hero that have an official birthday date.
-- Some fans are jokingly that Yin is based on Yuji Itadori (虎杖悠仁) and Lieh as Ryomen Sukuna (両面宿儺) of the Japanese manga series *Jujutsu Kaisen (呪術廻戦)*. The comparison was made because like Yin, Yuji was possessed by Cursed Spirit Sukuna, of whom he becomes the host.
+- Some fans are jokingly that Yin is based on Yuji Itadori (虎杖悠仁) and Lieh as Ryomen Sukuna (両面宿儺) of the Japanese manga series Jujutsu Kaisen (呪術廻戦). The comparison was made because like Yin, Yuji was possessed by Cursed Spirit Sukuna, of whom he becomes the host.
 - Yin’s design is heavily influenced by traditional martial arts, particularly kung fu and Tai Chi. His robe and stance emphasize his discipline and calmness, reflecting his training and mastery over the Yin-Yang energy.

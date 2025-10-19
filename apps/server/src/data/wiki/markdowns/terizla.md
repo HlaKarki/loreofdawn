@@ -2,20 +2,16 @@
 
 # Profile
 
-Role: Fighter / Tank  
-
-- Physical Defense: 19 (level 1) — 122 (level 15)
-- Magic Defense: 15 (level 1) — 71 (level 15)
+- Magic Defense (Level 1): 15
+- Magic Defense (Level 15): 71
+- Physical Defense (Level 1): 19
+- Physical Defense (Level 15): 122
 
 # Story
 
-> "Once an eccentric master smith, but now an avenger siding with the Abyss."  
+> "Once an eccentric master smith, but now an avenger siding with the Abyss."
 
 The once-revered master craftsman was now known as the notorious Executioner of the Abyss, but Terizla didn't care. From the moment he was framed as a heretic by the Church, he had been wielding his hammer solely for revenge, for the day he could at last soothe the restless souls of his kin.
-
-# Bio
-
-
 
 # Side Story
 
@@ -25,18 +21,21 @@ As one of the most powerful institutions in the Land of Dawn, the inquisition of
 
 Ten years ago, deep in the dungeons of the inquisition, a guard slowly unlocked an iron gate to check on the imprisoned victim, only to find it completely abandoned. The dark and desolate cell lay empty, except for a bloody message that stained its unforgiving walls. Heavy with hatred, the vile words read:
 
-> ''Overthrow faith...  
+> ''Overthrow faith...
+
 > Light will perish...''
 
 Aghast, the guard stood in the deserted dungeons in silence and sheer horror. Soon enough, news of the breakout spread, taking the entire Monastery of Light by storm: the heretic Terizla has escaped!
 
 > "Smiths must uphold freedom, maintain craftsmanship in their work, and never be subject to the Church's rules!"
 
-That was what Terizla openly shouted at a major gathering of the smiths. As head of the Free Smiths' Guild and spiritual leader of the anti-Church alliance in Lumina City, Terizla repeatedly ignored the Church's commandments while openly advocating for fellow smiths sanctioned by the Church. His blatant defiance of the Monastery's teachings earned him both the disfavor of the Church and the label of Lumina City's "known heretic".
+That was what Terizla openly shouted at a major gathering of the smiths.
+
+As head of the Free Smiths' Guild and spiritual leader of the anti-Church alliance in Lumina City, Terizla repeatedly ignored the Church's commandments while openly advocating for fellow smiths sanctioned by the Church. His blatant defiance of the Monastery's teachings earned him both the disfavor of the Church and the label of Lumina City's "known heretic".
 
 Besides his rebellious streak, the principled Terizla was also known for his exceptional craftsmanship. He was a man of great skill, respected by his peers for his unrivaled rigor and precision. His meticulous eye would not allow even for the slightest mistake in the forge. Any apprentice who tried to fool him with flawed works was severely punished. Frustrated apprentices often complained about this among themselves, but not a single one dared to speak of their grievances against Terizla out loud.
 
-Terizla's craftsmanship and standards, as severe and exacting as they were, always yielded the best creations from the forge. Because of their fine quality, works by the Free Smiths' Guild were beloved across the Moniyan Empire and quickly snapped up as soon as they went on the market. And so, seething with jealousy from the Guild's success, competitors bribed Terizla's apprentices into sending a secret message to the Church: the" Heretic" Terizla had always been crafting his creations using Black Magic!
+Terizla's craftsmanship and standards, as severe and exacting as they were, always yielded the best creations from the forge. Because of their fine quality, works by the Free Smiths' Guild were beloved across the Moniyan Empire and quickly snapped up as soon as they went on the market. And so, seething with jealousy from the Guild's success, competitors bribed Terizla's apprentices into sending a secret message to the Church: the "Heretic" Terizla had always been crafting his creations using Black Magic!
 
 Before his son's sixth birthday, Terizla spent days in his workshop just outside the city, preparing a special gift for his son—an intricately detailed statue of their family. Terizla skillfully worked on the statue with such care and attention that it took him until the very day of his son's birthday to finally complete it. Eager to surprise his young boy with his gift, Terizla rushed back home in excitement. What awaited him, however, was the ambush of the Raven assassins sent by the Church.
 
@@ -56,13 +55,15 @@ Iron forged by his own hands now imprisoned their masterful creator. Struck by t
 
 When he was about to give up, Alice, the Demon Queen, sauntered into the cell.
 
-> "How pathetic, getting your entire family wiped out by the Church. The Blood Demon lifted Terizla's chin with her long, sharpened nail. Want revenge? I can help..."
+> "How pathetic, getting your entire family wiped out by the Church."
+
+The Blood Demon lifted Terizla's chin with her long, sharpened nail.
+
+> "Want revenge? I can help..."
 
 Terizla raised his head as Alice leaned closer and whispered.
 
-> "The only thing I ask in return? Join the Abyss."
-
-> "Unleash the horror of your legendary craftsmanship upon all that have wronged you."
+> "The only thing I ask in return? Join the Abyss. Unleash the horror of your legendary craftsmanship upon all that have wronged you."
 
 As soon as he heard her cursed promise of revenge, the flickering glow of the lone dungeon lamp roared in Terizla's emotionless eyes and the master smith was no more. Alice succeeded in earning the Abyss a new craftsman with an insatiable appetite for vengeance.
 
@@ -72,7 +73,9 @@ In his condemned Abyssal forge, Terizla crafted enchanted weapons for the demon 
 
 Over time, his hatred for the Church and its followers grew even deeper. Driven by unfathomable anguish and loathing, Terizla would throw every follower of Light captured by the Abyss into his furnace, using them as raw materials for his dreadful, enchanted creations.
 
-Terrifying, talented, and tormented, the once-revered master smith had transformed into the notorious Executioner of the Abyss. Anyone unfortunate enough to find themselves in Terizla's unholy forge would find the walls stained with the blood of his victims, depicting a grisly mural: a man with arms outstretched, protecting his family.
+Terrifying, talented, and tormented, the once-revered master smith had transformed into the notorious Executioner of the Abyss.
+
+Anyone unfortunate enough to find themselves in Terizla's unholy forge would find the walls stained with the blood of his victims, depicting a grisly mural: a man with arms outstretched, protecting his family.
 
 > "One day, I will destroy the Church and Moniyan with my own hands..."
 
@@ -82,69 +85,69 @@ Terrifying, talented, and tormented, the once-revered master smith had transform
 
 ## Body of Smith
 
-Terizla gains 1% Damage Reduction for every 2.5% HP lost (up to 20% + Hero Level).
-
-- Damage Reduction: 1% for every 2.5% HP lost (cap: 20% + Hero Level)
-- Special: He cannot gain attack speed and will convert every 1% attack speed he's supposed to receive into 1 Physical Attack.
+- Damage Reduction: Terizla gains 1% Damage Reduction for every 2.5% HP lost (up to 20% plus Hero Level).
+- Extra ATK Speed conversion: He cannot gain attack speed and will convert every 1% attack speed he is supposed to receive into 1 Physical Attack.
 
 Notes:
-
-- *Reduction of Terizla's base Attack Speed will result to decrease.*
+- Reduction of Terizla's base Attack Speed will result in a decrease of the converted value.
 
 ## Revenge Strike
 
-Terizla cracks the ground with his hammer and the fissure spreads out in an area of effect, dealing physical damage. After the fissure hits the first target, it will drill into the target and deal additional damage based on lost HP (30%). At the same time, Terizla's attack speed will be increased by 25% for 3 seconds. The fissure on the target will then explode, dealing additional physical damage.
+- Skill Type: Physical Skill
+- Effects: AoE, Speed Up
+- Mana Cost (by level): 75 / 80 / 85 / 90 / 95 / 100
 
-- Skill type: Physical Skill (AoE)
-- Cooldown: 7.0 seconds
-- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100 (per level)
-- Fissure Damage: 300 / 330 / 360 / 390 / 420 / 450 (by level)
-- Movement Speed Bonus: 25% / 28% / 31% / 34% / 37% / 40% (by level)
-- Explosive Damage: 300 / 330 / 360 / 390 / 420 / 450 (by level)
-- Lost HP component: drills into the target and deals additional damage equal to 30% of the referenced lost-HP value.
+Description:
+Terizla cracks the ground with his hammer and a fissure spreads out, dealing fissure damage based on level and his Physical Attack. After the fissure hits the first target, it will drill into the target and deal additional damage based on the target's lost HP by 30%. At the same time, Terizla's extra Physical Attack will be increased by 25% for 3 seconds. The fissure on the target will then explode, dealing explosive damage based on level and his Physical Attack.
+
+Numbers:
+- Fissure Damage: 300 / 330 / 360 / 390 / 420 / 450
+- Movement Speed Bonus: 25% / 28% / 31% / 34% / 37% / 40%
+- Explosive Damage: 300 / 330 / 360 / 390 / 420 / 450
 
 Notes:
-
-- *This skill only deals up to 1000 Physical Damage no matter how critical is the enemy's HP.*
+- This skill only deals up to 1000 Physical Damage no matter how critical the enemy's HP is.
 
 ## Execution Strike
 
-Terizla waves his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks deal physical damage each, while the third deals greater physical damage. Enemies hit will also be slowed by 15% for 1.5 seconds (the slow effect can stack). Deals reduced damage to minions.
+- Skill Type: Physical Skill
+- Effects: Burst, Slowed
+- Mana Cost: 25
 
-- Skill type: Physical Skill (burst)
-- Cooldown: 5.0 seconds
-- Mana Cost per cast: 25
-- 1st / 2nd Wave Damage: 135 / 170 / 205 / 240 / 275 / 310 (by level)
-- 3rd Wave Damage: 225 / 270 / 315 / 360 / 405 / 450 (by level)
-- Damage to Minions: 60% / 68% / 76% / 84% / 92% / 100% (by level)
-- Slow Effect: 15% for 1.5s (stacks)
+Description:
+Terizla waves his hammer in a fan-shaped area ahead. This skill can be cast up to 3 times. The first two attacks each deal scaling physical damage, while the third deals a larger scaling physical damage. Enemies hit will also be slowed by 15% for 1.5 seconds (the slow effect can stack). This skill deals reduced damage to minions.
+
+Numbers:
+- 1st/2nd Wave Damage: 135 / 170 / 205 / 240 / 275 / 310
+- 3rd Wave Damage: 225 / 270 / 315 / 360 / 405 / 450
+- Damage to Minions: 60% / 68% / 76% / 84% / 92% / 100%
+- Slow Effect (stackable): 15%, 30%, 45%
 
 Notes:
-
-- *2nd and 3rd can be cast within 4 seconds; they also cost mana.*
-- *Casting window starts when the skill is first used or when the final phase has been cast.*
-- *This skill can only be interrupted by suppression effects.*
-- *Terizla can move briefly while casting, but will be momentarily unable to move when the skill is executed.*
+- The 2nd and 3rd waves can be cast within 4 seconds; they also cost mana.
+- The cast sequence starts when the duration of the skill ends, or when the final phase has been cast.
+- This skill can only be interrupted by suppression effects.
+- Terizla can move briefly while casting, but will be momentarily unable to move when the skill is executed.
 
 ## Penalty Zone
 
-Terizla leaps to the designated area to smash down, causing smash damage and a brief crowd control effect for approximately 0.7 seconds and slowing enemies by 40%/45%/50% depending on level. Meanwhile, he summons a scaffold that reaches out a hook to enemy heroes and pulls the target up to three times, causing pulling damage each time.
+- Skill Type: Physical Skill
+- Effects: CC, AoE
+- Cooldown (by rank): 40.0 / 35.0 / 30.0
+- Mana Cost (by rank): 100 / 120 / 140
 
-- Skill type: Physical Skill (AoE, CC)
-- Cooldown: 40.0 / 35.0 / 30.0 seconds (by level)
-- Mana Cost: 100 / 120 / 140 (by level)
-- Smash Damage: 300 / 400 / 500 (by level)
-- Slow Effect: 40% / 45% / 50% (by level)
-- Pulling Damage (per pull): 150 / 200 / 250 (by level)
+Description:
+Terizla leaps to the designated area to smash down, causing smash damage and knocking enemy heroes up for approximately 0.7 seconds while slowing their movement speed by 40% to 50% depending on rank. Meanwhile, he summons a scaffold which reaches out a hook to enemy heroes and pulls the target for three times, causing pulling damage each time.
 
-Notes:
-
-- The ultimate knocks up or briefly disables enemies in the smash area and applies a strong slow. The summoned scaffold's hook will reach out and pull enemy heroes multiple times, dealing damage with each pull.
+Numbers:
+- Smash Damage: 300 / 400 / 500
+- Slow Effect: 40% / 45% / 50%
+- Pulling Damage: 150 / 200 / 250
 
 # Trivia
 
-- In the latter patch note, he shared the role (Fighter/Tank) as, as both are equipped with axe as their own weapon.
-- However, skill 2 is different than Hilda because of the delay that he need to spam his skill.
-- Terizla does not gain any attack speed from items.
-- Execution Strike (second skill) can out-damage some Mages' skills if all hits land.
-- Penalty Zone (Ultimate) was tested with different CC effects before the pull mechanic was finalized.
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined

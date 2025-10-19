@@ -1,10 +1,12 @@
-# Fredrinn
+# Fredrinn Vance
 
 # Profile
 
+### Profile
+
 - Full name: Fredrinn Vance
 - Alias: Rogue Appraiser
-- Born: Castle Grandrock, Moniyan Empire
+- Born: Castle Grandlock, Moniyan Empire
 - Origin: Los Pecados, Agelta Drylands
 - Species: Human
 - Gender: Male
@@ -15,14 +17,21 @@
   - (younger brother)
   - Fray (close friend)
   - (other)
-- English VA: Dustin Rubin
-- Japanese VA: Amano Hirosato (天野 宏郷)
+- Voice actors:
+  - English: Dustin Rubin
+  - Japanese: Amano Hirosato (天野 宏郷)
+
+Fredrinn is known as a master treasure appraiser in Los Pecados who accumulates wealth to search for his best friend.
 
 # Story
 
 > "A master treasure appraiser in Los Pecados who accumulates wealth to search for his best friend."
 
-Born the son of Duke Vance, Fredrinn grew up into a gifted adventurer, but also the notorious 'money-grubber' in Los Pecados. The crystal in his chest had long merged with his heart. The terrifying scar would never fade, and Fredrinn never bothered to conceal it. All he had in mind was his search for his lost friend...
+Born the son of Duke Vance, Fredrinn grew up into a gifted adventurer, but also the notorious "money-grubber" in Los Pecados. The crystal in his chest had long merged with his heart. The terrifying scar would never fade, and Fredrinn never bothered to conceal it. All he had in mind was his search for his lost friend...
+
+# Side Story
+
+## The Tale of Fredrinn
 
 > "Be a darlin' an' pour me a shot of your signature drink," the drunken tramp slurred at the bartender.
 
@@ -44,7 +53,7 @@ Everyone in the bar had their eyes on the grimy tramp, save for the man drinking
 
 The tramp took another gulp, looking around at the greasy faces eagerly waiting for the next part.
 
-> "But riches and prestige gave the Duke little pleasure," he continued.
+> "But riches and prestige gave the Duke little pleasure."
 
 > "If any, this newfound wealth only served to stir in 'im an even greater desire: To climb to the very top of the Imperial nobility. The Duke began to discipline his children with stringent rules, punishin' any child who dared disobey his words."
 
@@ -70,13 +79,15 @@ the barkeep chimed in.
 
 > "Aye, the Duke figured as much," the tramp responded.
 
-> "Old Vance was bloody livid, but didn't even bother lookin' for his boy!
+> "Old Vance was bloody livid, but didn't even bother lookin' for his boy!"
 
 The brat, however, proved far more robust than his father thought. He was no adventurer, mind ya; but with his courage, wit, and excellent judgment, the boy slipped through every obstacle that came his way. He had a particular fondness for exploring the most treacherous areas still uncharted by man.
 
 > "And soon, his name spread throughout the Land of Dawn. Yet, no one knew about his past life."
 
-The tramp took a long pause, as if waiting for someone to respond. But all he got were blank faces and some glazed-over eyes.
+The tramp took a long pause, as if waiting for someone to respond.
+
+But all he got were blank faces and some glazed-over eyes.
 
 > "Oh, y'all gotta be kiddin' me…" he grunted with a sigh and a roll of his eyes.
 
@@ -94,7 +105,7 @@ The man exclaimed.
 
 > "No matter how much you prepare in advance, the bloodsucker will always ask for a higher price. Why, a gang boss himself barged into his shop to personally deliver his payment, loaded pistol pointed right between Fredrinn's eyebrows. Bastard didn't even flinch…and instead, asked for more money!"
 
-The young smuggler raised his hand, "But is it true what they say about 'im? 'No-question-an'-no-disclosure policy' 'bout his appraisal of hunted treasures?"
+The young smuggler raised his hand, > "But is it true what they say about 'im? 'No-question-an'-no-disclosure policy' 'bout his appraisal of hunted treasures?"
 
 > "Aye," the burly man replied.
 
@@ -110,7 +121,9 @@ The crowd fell eerily silent, only to erupt into wild cheers moments later. Even
 
 > "The crystal is said to come from the ruins of a lost civilization. It seals an ancient power coveted even by the King of Abyss. Fredrinn went to great lengths to get his hands on this crystal, even killin' his own partner in this process—"
 
-The man sitting in the corner walked over, interrupting the tramp's words. His brawny frame towered over everyone in the tavern. His eyes burned with disdain, as he gazed upon the lesser men surrounding him. Embedded in his scarred chest, right at the place of his heart, a strange crystal pulsated with a ghostly glow.
+The man sitting in the corner walked over, interrupting the tramp's words.
+
+His brawny frame towered over everyone in the tavern. His eyes burned with disdain, as he gazed upon the lesser men surrounding him. Embedded in his scarred chest, right at the place of his heart, a strange crystal pulsated with a ghostly glow.
 
 > "F-F-Fredrinn…" the tramp and the burly man stuttered in awe.
 
@@ -152,63 +165,65 @@ Standing in front of a wall of clues, Fredrinn stared at the magic compass in hi
 
 > "As long as the pointer's still spinning, I will not give up."
 
-# Bio
-
-
-
 # Abilities
 
 ## Crystalline Armor
 
-- Fredrinn gains 1 Combo Point that lasts 5 seconds each time his skill hits a non-minion enemy, up to 4 Combo Points. His Ultimate costs different numbers of Combo Points at different skill levels.
+Fredrinn gains 1 Combo Point that lasts 5 seconds each time his skill hits a non-minion enemy, up to 4 Combo Points. His Ultimate costs different numbers of Combo Points at different skill levels.
 
-- Fredrinn stores 100% of the damage he receives as Crystal Energy, which decays after 5 seconds at a rate of 10% per second.
-
-- Fredrinn can convert the stored Crystal Energy into HP by 20% of his damage dealt (10% for damage dealt to minions). Gaining a Combo Point resets the decaying timer.
+Fredrinn stores 100% of the damage he receives as Crystal Energy, which decays after 5 seconds at a rate of 10% Crystal Energy per second. Fredrinn can convert the stored Crystal Energy into HP by 20% of his damage dealt (10% for damage dealt to minions). Gaining a Combo Point resets the decaying timer.
 
 ## Piercing Strike
 
-- Cooldown: 8.5 / 8.3 / 8.1 / 7.9 / 7.7 / 7.5 seconds (per original data).
+Cooldown: 8.5 / 8.3 / 8.1 / 7.9 / 7.7 / 7.5 seconds.
 
-- Base Damage: 125 / 150 / 175 / 200 / 225 / 250 (per level).
+Fredrinn thrusts his sword in the target direction, dealing damage to enemies hit and slowing them by 30% for 2 seconds. His next Basic Attack gains extra attack range and deals additional damage (scaling with ability and attack stats). (skill duration needed)
 
-- Description: Fredrinn thrusts his sword in the target direction, dealing base damage to enemies hit and slowing them by 30% for 2 seconds. His next Basic Attack gains extra attack range and deals additional physical damage (scaling with skill level and stats).
+This skill deals 150% damage to non-hero enemies.
 
-- Notes: This skill deals 150% damage to non-hero enemies. Enhanced basic attack from this skill and Brave Assault cannot be stacked. The enhanced basic attack effect from this skill will be replaced by Brave Assault's.
+- Base Damage: 125 / 150 / 175 / 200 / 225 / 250
+
+Notes:
+- Enhanced basic attack from this skill cannot be stacked with other enhanced basic attack effects. The enhanced basic attack effect from this skill will be replaced by Brave Assault's if that is used.
 
 ## Brave Assault
 
-- Cooldown: 8.5 / 8.3 / 8.1 / 7.9 / 7.7 / 7.5 seconds (per original data).
+Cooldown: 8.5 / 8.3 / 8.1 / 7.9 / 7.7 / 7.5 seconds.
 
-- Base Damage: 200 / 220 / 240 / 260 / 280 / 300 (per level).
+Fredrinn dashes in the target direction, dealing damage to the first non-minion enemy hit. His next Basic Attack knocks the target airborne for 0.3 seconds. (skill duration needed)
 
-- Description: Fredrinn dashes in the target direction, dealing base damage to the first non-minion enemy hit. His next Basic Attack knocks the target airborne for 0.3 seconds.
+- Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 
-- Notes: Enhanced basic attack from Brave Assault and Piercing Strike cannot be stacked. The enhanced basic attack effect from this skill will be replaced by Piercing Strike's.
-
-- Bugs: Skill Smart Targeting does not work on this skill.
+Notes:
+- Enhanced basic attack from this skill cannot be stacked with other enhanced basic attack effects. The enhanced basic attack effect from this skill will be replaced by Piercing Strike's if that is used.
+- Bug: Skill Smart Targeting does not work on this skill.
 
 ## Energy Eruption
 
-- Cooldown: 7.0 / 6.0 / 5.0 seconds (per original data).
+Cooldown: 7.0 / 6.0 / 5.0 seconds.
 
-- Base Damage: 300 / 400 / 500 (per level).
+Fredrinn deals damage to nearby enemies and taunts them for 1 second. Hitting a non-minion enemy grants Fredrinn 15–35 Physical and Magic Defense for 3 seconds and reduces the cooldowns of Piercing Strike and Brave Assault by 75%. This skill costs 1 Combo Point.
 
-- Defense Boost: 15 / 25 / 35 (per level, when hitting a non-minion enemy).
+- Base Damage: 300 / 400 / 500
+- Defense Boost: 15 / 25 / 35
 
-- Description: Fredrinn deals base damage to nearby enemies and taunts them for 1 second. Hitting a non-minion enemy grants Fredrinn 15–35 Physical and Magic Defense for 3 seconds and reduces the cooldowns of Piercing Strike and Brave Assault by 75%. This skill costs 1 Combo Point.
-
-- Notes: This skill is learned together with another skill. Between Fredrinn's latter two skills, Valentina can only siphon and copy this skill with (per original notes).
+Notes:
+- This skill is learned together with Appraiser's Wrath.
+- Between Fredrinn's latter two skills, Valentina can only siphon and copy this skill with her mechanic.
 
 ## Appraiser's Wrath
 
-- Cooldown: 30.0 / 27.0 / 24.0 seconds (per original data).
+Cooldown: 30.0 / 27.0 / 24.0 seconds.
 
-- Base Damage: 600 / 800 / 1000 (per level).
+Fredrinn slams his sword in the target direction, dealing 600–1000 base damage plus 35% of his Crystal Energy as Physical Damage to enemies in a fan-shaped area after a short delay. (duration needed) Enemies in the center of the area take 175% increased critical damage. This skill costs 3 Combo Points.
 
-- Description: Fredrinn slams his sword in the target direction, dealing base damage plus 35% of his Crystal Energy as Physical Damage to enemies in a fan-shaped area after a short delay. Enemies in the center of the area take 175% [critical] damage. This skill costs 3 Combo Points.
+- Base Damage: 600 / 800 / 1000
 
-- Notes: This skill is learned together with another skill. According to patch notes, this skill is named as an "Ultimate". 175% increased critical damage from this skill does not benefit from Critical Damage attribute. This skill cannot be interrupted; the hit will still be executed even if Fredrinn gets crowd controlled.
+Notes:
+- This skill is learned together with Energy Eruption.
+- According to patch notes, this skill is named as an "Ultimate".
+- The 175% increased critical damage from this skill does not benefit from the Critical Damage attribute.
+- This skill cannot be interrupted. This does not grant Fredrinn CC immunity; it means the hit will still be executed even if Fredrinn is crowd controlled.
 
 # Trivia
 

@@ -2,21 +2,30 @@
 
 # Profile
 
-- **Chinese name:** 卡里德 (Kǎlǐdé)
-- **Alias:** *Desert Scimitar*  
-  *Desert Soldier*  
-  *Prince of Artha Clan*
-- **Born:** Emerald Road, Agelta Drylands
-- **Species:** Human
-- **Gender:** Male
-- **Affiliation:** Artha Clan
-- **Weapons:** Desert Scimitar
-- **Abilities:** Sands Control
-- **Traits:** Intellectually Courageous, Kingly Wintry Wind Model
-- **Relationships:** (former friend, rival) (enemy)
-- **English VA:** Austen Moret
+Alias:
+- Desert Scimitar
+- Desert Soldier
+- Prince of Artha Clan
 
-Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities") or Traits
+Born: Emerald Road, Agelta Drylands
+
+Species: Human
+
+Gender: Male
+
+Affiliation: Artha Clan
+
+Weapons: Desert Scimitar
+
+Abilities: Sands Control
+
+Traits: Intellectually Courageous, Kingly Wintry Wind Model
+
+Relationships: (former friend, rival) (enemy)
+
+English Voice Actor: Austen Moret
+
+Temperament: Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits
 
 # Story
 
@@ -52,87 +61,74 @@ The Orb of Sand was shattered, and the sandstorms that once darkened the blue sk
 
 However, deep in the shadow, a familiar figure lurked behind and spied on Khaleed's every move. His old friend, Moskov, had returned.
 
-# Bio
-
-
-
 # Abilities
 
 ## Sand Walk
 
-Khaleed accumulates Desert Power while moving. After Desert Power is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next deal damage to the target (cannot critically strike), and reducing the target's Movement Speed by 40% for 1.5 seconds.
+Khaleed accumulates Desert Power while moving. After Desert Power is fully charged, he will glide on sand, increasing Movement Speed by 35%, making his next attack deal damage based on level and stats to the target (cannot critically strike), and reducing the target's Movement Speed by 40% for 1.5 seconds.
 
-- Desert Power maxes out at 100 Desert Power at (approximately) an accumulated moving distance of 20 unit.
-- He begins to lose Desert Power after 3 seconds of not maintaining, and depletion since full takes approximately 6.5 seconds or 15 Desert Power per second.
-- He does not gain Desert Power when he blinks or teleports away. Aside from joystick movement or movement from his abilities, he also gains Desert Power when knockbacked a significant distance or affected by Cyclone Eye.
-- Death removes all Desert Power.
-- This effect can trigger item effects such as passive item effects that interact with movement-based abilities.
-- The range of Desert Power can be increased with the passive Malefic Energy.
+- Effects: Speed Up; Damage
+- Term: Movement Speed, Blink
 
 Notes:
-
-- This passive increases Movement Speed and provides a follow-up damage effect; the damage scales with level and Khaleed's stats.
+- This effect can trigger item effects such as passive - "Ambush".
+- Increase attack range to 5.
+- Desert Power maxes out at full 100 Desert Power at approximately an accumulated moving distance of 20 unit.
+  - It is advised to move circularly to increase the accumulation speed.
+  - He begins to lose Desert Power after 3 seconds of not maintaining, and depletion since full takes approximately 6.5 seconds or 15 Desert Power per second.
+- Does not gain Desert Power when he blinks or teleports away. Aside from joystick movement or movement from his abilities, he also gains Desert Power when knockbacked a significant distance or affected by Cyclone Eye.
+- Death removes all Desert Power.
+- The range of Desert Power can be increased with the passive Malefic Energy.
 
 ## Desert Tornado
 
-Khaleed whirls his scimitar, dealing physical damage to enemies in the area and pulling them toward him. This skill can be used up to 3 time(s) in a row. This skill deals 50%-75% damage to Minions and Creeps.
+Khaleed whirls his scimitar, dealing physical damage based on level and stats to enemies in the area and pulling them toward him. This skill can be used up to 3 time(s) in a row. This skill deals reduced damage to Minions and Creeps.
 
-- Cooldown varies by level (approximately 6.5 / 6.0 / 5.5 / 5.0 / 4.5 / 4.0 seconds per rank).
-- Base Damage by level: 200 / 265 / 330 / 395 / 460 / 525.
-- Minion Damage Ratio by level: 50% / 55% / 60% / 65% / 70% / 75%.
+- Skill Effects: AoE, Pull
+- Term: Physical Damage Skill, Blink, Pull
 
-Terms:
-
-- Physical Damage Skill
-- Blink
-- Pull
+Properties:
+- Base Damage per level: 200 / 265 / 330 / 395 / 460 / 525
+- Minion Damage Ratio per level: 50% / 55% / 60% / 65% / 70% / 75%
+- Cooldown per level: 6.5 / 6.0 / 5.5 / 5.0 / 4.5 / 4.0 seconds
 
 Notes:
-
 - Each phase of this ability is only initiated when there is a movement order from joystick.
-- Khaleed can use basic attack while standing in place, or use other abilities without canceling this ability.
-- This skill can trigger item effects that respond to ability usage.
+- Can use basic attack while standing in place, or use other abilities without canceling this ability.
+- Can trigger item effects.
 
 ## Quicksand Guard
 
-Khaleed protects himself with the power of the quicksand, restoring HP and gaining Desert Power while reducing damage taken. He restores 60-135 plus 5%-10% of his lost HP and 10 Desert Power every 0.5 seconds, reducing damage taken by 35%-50% for up to 4 seconds. While channeling, quicksand appears under his feet, slowing nearby enemies by 60%. This skill is a Focused Cast. Any other controls will interrupt this skill.
+Khaleed protects himself with the power of the quicksand, restoring health and gaining Desert Power while reducing damage taken. He restores 60 to 135 plus 5% to 10% of his lost HP every 0.5 seconds, and gains 10 Desert Power every 0.5 seconds, reducing damage taken by 35% to 50% for up to 4 seconds. While channeling, quicksand appears under his feet, slowing enemies by 60%. This skill is a Focused Cast. Any other controls will interrupt this skill.
 
-- Cooldown varies by level (approximately 22.0 / 21.0 / 20.0 / 19.0 / 18.0 / 17.0 seconds).
-- Basic Regen by level: 60 / 75 / 90 / 105 / 120 / 135.
-- HP Regen Ratio by level: 5% / 6% / 7% / 8% / 9% / 10% (of lost HP).
-- Damage Reduction by level: 35% / 38% / 41% / 44% / 47% / 50%.
+- Skill Effects: Reduce DMG; Heal
+- Term: Healing Effect, Damage Reduction, Movement Speed
 
-Terms:
-
-- Healing Effect
-- Damage Reduction
-- Movement Speed
+Properties:
+- Basic Regen per level: 60 / 75 / 90 / 105 / 120 / 135
+- HP Regen Ratio per level: 5% / 6% / 7% / 8% / 9% / 10%
+- Damage Reduction per level: 35% / 38% / 41% / 44% / 47% / 50%
+- Cooldown per level: 22.0 / 21.0 / 20.0 / 19.0 / 18.0 / 17.0 seconds
 
 Notes:
-
 - Battle spells can be used without cancelling the ability.
 - The remaining duration is visible to everyone having sight over him.
-- The effect is hidden if Khaleed is not sighted.
+- The effect is hidden if he is not sighted.
 
 ## Raging Sandstorm
 
-Khaleed rides the sandstorm and charges toward a designated location, dealing physical damage to enemies along the way and knocking them toward his destination. Khaleed is immune to control effects during this process. Upon reaching the destination, Khaleed will smash the ground, dealing area physical damage to enemies and stunning them for 1 second, and fully charge his Desert Power.
+Khaleed rides the sandstorm and charges toward a designated location, dealing physical damage based on level and stats to enemies along the way and knocking them toward his destination. Khaleed is immune to control effects during this process. Upon reaching the destination, Khaleed will smash the ground, dealing additional physical damage based on level and stats to enemies in the area and stunning them for 1 second, and fully charge his Desert Power.
 
-- Cooldown by rank (approximately): 46.0 / 42.0 / 38.0 seconds.
-- Base Damage by level: 100 / 175 / 250.
-- Extra Damage by level: 450 / 600 / 750.
+- Skill Effects: CC, Mobility
+- Term: Control Immunity, Stun, Physical Damage Skill
 
-Terms:
-
-- Control Immunity
-- Stun
-- Physical Damage Skill
-
-Notes:
-
-- Khaleed is immune to control effects while charging.
-- Upon arrival he deals a burst of damage and applies a 1 second stun, and his Desert Power is fully charged.
+Properties:
+- Base Damage: 100 / 175 / 250
+- Extra Damage: 450 / 600 / 750
+- Cooldown per level: 46.0 / 42.0 / 38.0 seconds
 
 # Trivia
 
-- undefined
+- "Khaleed's Vengeance. This is a clash between Khaleed, and . Will they fight side by side, or against each other?"
+- Moskov
+- Khufra

@@ -2,9 +2,8 @@
 
 # Profile
 
-- Caption: Alucard's 2017-2020 incarnation
 - Chinese name: 阿鲁卡 (ālǔkǎ)
-- Alias:
+- Aliases:
   - Demon Hunter
   - Striker of Lightborn Chevaliers
   - Arbiter of Light (formerly)
@@ -16,7 +15,7 @@
   - Moniyan Empire (formerly)
   - The Abyss (hostile)
 - Dislikes: Demons
-- Relationships: *Unnamed father (deceased)
+- Relationships: Unnamed father (deceased); various companions, allies, and enemies (unspecified)
 - Japanese voice actor: Yano Masaaki (矢野 正明)
 - Indonesian voice actor: Ari Wibowo
 
@@ -25,8 +24,6 @@
 > "Demon hunter who detest the darkness"
 
 Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle with the Demons. Therefore, he hated darkness, joined the Monastery of Light, and swore to destory all Demons. But later he learned the hidden secrets of this battle, so he left the Monastery of Light in anger and fought the darkness in his own way.
-
-# Bio
 
 The last great war is a glorious memory for the Moniyans. The powerful Light's Order, together with the Imperial Border Guards, wiped out the demonic strongholds at the Moniyan and the Barren Lands pass, driving the fiends back to the hinterlands of the Forsaken Wastes. But for young Alucard, the war was nothing but a terrible memory of pain and misery. His father's second regiment suffered heavy losses due to a rash lone advance. Alucard's father disappeared in the battle and was later declared dead by the Light's Order.
 
@@ -38,7 +35,7 @@ Tigreal was already famous throughout the Empire at that time, and Alucard respe
 
 At the age of eighteen, Alucard finally completed all of his studies and formal preparations. Encouraged by Tigreal, he became the monastery's Arbiter of Light. He was ordered to go forth and eliminate the demons and heretics hidden throughout the world, and so he picked up his father's old sword, given to him by Tigreal, and set off. In his father's name, and fueled by his deep hatred of demons, Alucard soon became the greatest demon hunter in the world.
 
-An unforeseen incident occurred during a demon hunting operation on the border of the Barren Lands. Alucard was injured by a magic blade, sustaining a wound that could not be healed. Darkness poured into his body from the wound, and his arm began to undergo a strange transformation... In order to prevent the mutation from spreading throughout his whole body, Alucard asked an old smith to help him forge a pair of gauntlets. This was no ordinary smith — he was a survivor of that fated battle, a member of the Light's Order who covered his allies' retreat along with Alucard's father.
+An unforeseen incident occurred during a demon hunting operation on the border of the Barren Lands. Alucard was injured by a magic blade, sustaining a wound that could not be healed. Darkness poured into his body from the wound, and his arm began to undergo a strange transformation. In order to prevent the mutation from spreading throughout his whole body, Alucard asked an old smith to help him forge a pair of gauntlets. This was no ordinary smith — he was a survivor of that fated battle, a member of the Light's Order who covered his allies' retreat along with Alucard's father.
 
 He recognized the huge sword in Alucard's hand. After learning who he was, the old man told Alucard that the reason the second regiment was forced so deep into enemy territory was that the high-level knights at that time were greedy for glory and too impulsive, which led to the second regiment finding itself trapped in a tight encirclement. In a moment of desperation, Alucard's father led some soldiers to cover the retreat of the main force headed by Tigreal, and was then swarmed by a tide of demons and disappeared. He was the only survivor rescued by Alucard's father.
 
@@ -54,41 +51,51 @@ After a string of epic battles, Alucard became known as one of the most legendar
 
 ## Pursuit
 
-- After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal damage based on level and stats.
+After each skill cast, Alucard's next Basic Attack allows him to dash to the target's location and deal damage based on level and stats. The attack is treated as a Physical Basic Attack.
+
 - Enhanced Basic Attack Range: 4
-- Term: Physical Basic Attack
-- Notes: The range of Pursuit can be increased by its passive Malefic Energy.
+- Total physical attack scaling reference: 140 (value from available data)
+
+Notes:
+- The range of Pursuit can be increased by other effects and its passive Malefic Energy.
+- Damage scales with Alucard's level and physical attack.
 
 ## Groundsplitter
 
-- Type: Physical Skill / Blink / AOE
-- Base Damage: 270 / 290 / 310 / 330 / 350 / 370 (scales with skill level)
-- Extra Physical AD Scaling: 110 (scaling damage)
-- Effect: Alucard rolls to the target location and slams his blade on the ground, dealing damage to enemies hit and slowing them by 40% for 2 seconds.
-- Terms: Blink, Physical Damage Skill, Movement Speed
+Alucard rolls to the target location and slams his blade on the ground, dealing damage to enemies hit and slowing them by 40% for 2 seconds. Damage is based on the listed base damage and Alucard's physical attack.
+
+- Base Damage: 270 / 290 / 310 / 330 / 350 / 370
+- Cooldown: 8.5 / 8.1 / 7.7 / 7.3 / 6.9 / 6.5 seconds
+- Type: Physical skill, Blink, AOE
+
+The roll functions as a blink to the target location and applies the ground slam at arrival. The slow is 40% for 2 seconds.
 
 ## Whirling Smash
 
-- Type: Physical Skill / AOE
-- Base Damage: 345 / 390 / 435 / 480 / 525 / 570 (scales with skill level)
-- Extra Physical AD Scaling: 120 (scaling damage)
-- Effect: Alucard launches a whirling slash, dealing damage to nearby enemies.
-- Term: Physical Damage Skill
+Alucard launches a whirling slash, dealing damage to nearby enemies based on the listed base damage and his physical attack.
+
+- Base Damage: 345 / 390 / 435 / 480 / 525 / 570
+- Cooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0 seconds
+- Type: Physical skill, AOE
+
+This skill hits enemies around Alucard in an area of effect and scales with his physical attack.
 
 ## Fission Wave
 
-- Formula: {\rm total\ CD\ reduction} = (skill\ CD\ - CD\ reduction\ attribute%) - 50%
-- Type: Physical Damage Skill / Buff / Burst
-- Base Damage: 400 / 550 / 700 (scales with ultimate level)
-- Extra Physical AD Scaling: 200 (scaling damage)
-- Hybrid Lifesteal (Passive): 10% / 20% / 30% (permanent gain)
-- Active Effects (Duration: 6.0 seconds):
-  - Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and reducing their Hybrid Defense by 10 / 15 / 20.
-  - Alucard gains 10 / 15 / 20 Hybrid Defense for each enemy hero hit.
-  - Reduces the cooldown of his other skills to 50% for 6 seconds.
-- Notes:
-  - Fission Wave goes into cooldown on the first cast.
-  - Despite the Fission Wave's Active description, Alucard can still gain the buff even if there are no enemies in the target direction during the initial cast.
+Passive: Alucard permanently gains extra Hybrid Lifesteal.
+
+Active: Alucard absorbs the energy of enemies in the target area, reducing their Movement Speed by 30% and reducing their Hybrid Defense by 10 to 20 depending on skill level. Alucard gains Hybrid Defense for each enemy hero hit. While the active buff is in effect, the cooldown of his other skills is reduced to 50% for 6 seconds. After the initial cast, Alucard can release a shockwave in the target direction, dealing damage to enemies hit based on the listed base damage and his physical attack.
+
+- Duration of reduced cooldown and buffs: 6.0 seconds
+- Hybrid Lifesteal (Passive): 10% / 20% / 30%
+- Hybrid Defense gained per enemy hero hit: 10 / 15 / 20
+- Hybrid Defense reduction on enemies: 10 / 15 / 20
+- Base Damage (shockwave): 400 / 550 / 700
+- Cooldown: 40.0 / 35.0 / 30.0 seconds
+
+Notes:
+- Fission Wave goes into cooldown on the first cast.
+- Despite the Active description, Alucard can still gain the buff even if there are no enemies in the target direction during the initial cast.
 
 # Trivia
 

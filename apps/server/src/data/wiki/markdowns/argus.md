@@ -2,50 +2,47 @@
 
 # Profile
 
-- Alias: Dark Angel
-- Chinese name: 路西法 (lùxīfǎ "Lucifer")
-- Species: Fallen Demi-Angel
-- Affiliation:
-  - The Abyss
-  - The Light (hostile)
-  - Monastery of Light (formerly)
-  - Celestial Palace
-- Weapons: Meteoric Sword
-- Abilities:
-  - Charging his blade with Malice Energy
-  - Curses enemies
-  - Death immunity
-- Relationships:
-  - Unnamed father and mother (deceased)
-  - (younger twin sister)
-  - Lord of Light (Enemy)
-  - Cyd (Captor)
-  - (enemy - old lore)
-- English VA: Con Eyre (2017–2021); Marc Elmer (2021–)
-- Japanese VA: Hoshi Yuuki (星祐樹)
-- Indonesian VA: Ojay S. Surianata
+**Alias:** Dark Angel
 
-# Story
+**Chinese name:** 路西法 (lùxīfǎ "Lucifer")
 
-> "The angel who fell from light into darkness."
+**Species:** Fallen Demi-Angel
 
-Argus and Rafaela are a pair of twin angels. Yet the angels of legend are all female, making Argus something of an outcast. While the Monastery of Light utilizes his powers to eradicate all heresy, it's never even acknowledged his existence.
+**Affiliation:**
+- The Abyss
+- The Light (hostile)
+- Monastery of Light (formerly)
+- Celestial Palace
 
-While Argus despises humankind, holding it in the utmost disdain, he once came into possession of a demonic blade in the midst of a battle and at that moment realized that he too was a son of man. That he was orphaned when his parents were slain by other humans. Under the demonic blade's curse he was overcome by resentment, falling into a demonic state himself as he became the Dark Angel.
+**Weapons:** Meteoric Sword
+
+**Abilities (summary):**
+- Charging his blade with Malice Energy
+- Curses enemies
+- Death immunity
+
+**Relationships:**
+- Unnamed father and mother (deceased)
+- Rafaela (younger twin sister)
+- Lord of Light (Enemy)
+- Cyd (Captor)
+
+**Voice actors:**
+- EN: Con Eyre (2017–2021), Marc Elmer (2021–)
+- JA: Hoshi Yuuki (星祐樹)
+- ID: Ojay S. Surianata
 
 # Bio
 
 Argus and his sister, Rafaela, were raised by their mother. Both children were blessed with flawless looks and a promising bloodline; yet in these lands, he as treated very differently to his sister.
 
-Exaltation, flowers, glory and respect…
-
-Argus was never accepted, instead rejected from the day of his birth. This was all down to the age-old legend that pervaded the Land of Dawn, dictating that all angels were female–moreover, that those chosen by the Lord of Light to birth angels could only give birth to baby girls. Argus’ identity and origins were matters buried secret by the Monastery of Light, kept even from Argus himself.
+Exaltation, flowers, glory and respect… Argus was never accepted, instead rejected from the day of his birth. This was all down to the age-old legend that pervaded the Land of Dawn, dictating that all angels were female–moreover, that those chosen by the Lord of Light to birth angels could only give birth to baby girls. Argus’ identity and origins were matters buried secret by the Monastery of Light, kept even from Argus himself.
 
 To uphold its orthodoxy, the Sacrists tasked with maintaining the Monastery of Light’s legitimacy acted with incredible unity: taking Rafaela as a representative who would face the masses, while Argus was kept hidden in the shadows, never to be a representative of the Light, barred from the glory so rightfully his.
 
 All those who strove to maintain this twisted orthodoxy were split between a fear that Argus would grow to become an outcast, and yearning for the power he held. Without exception, every single one longed that this young man with the Lord of Light’s bloodline flowing in his veins could be at one with his sister, to resist the power of the Abyss.
 
-In fact, Argus’ faith in the Light held strong for many years, just as resilient as that of his sister Rafaela. He cherished her, and cared little as to who of them bathed in more glory: for Argus, its significance would always pale in comparison to the importance of defending what’s right. Nonetheless, there always a matter of contention between the siblings: their attitudes toward humanity.
+In fact, Argus’ faith in the Light held strong for many years, just as resilient as that old his sister Rafaela. He cherished her, and cared little as to who of them bathed in more glory: for Argus, its significance would always pale in comparison to the importance of defending what’s right. Nonetheless, there always a matter of contention between the sibling: their attitudes toward humanity.
 
 With the end of Golden Era, a monstrous Abyssal fissure had once more been rent within the Land of Dawn, and from its depths dark energies surged forth again. It was the general belief that the abyssal demons were behind it all, a notion shared by Rafaela, and she blamed all demonkind and the Abyss for woes of the world. Argus, on the other hand, begged to differ. In his eyes it was humankind who were to blame for the Endless War’s resurgence, for their chaos and malice presented the demons with an opportunity they then exploited. Argus sneered at the thought of associating with humankind, forever holding them in bitter contempt.
 
@@ -53,7 +50,7 @@ Rafaela was always prone to forgive those humans who strayed from the path of ri
 
 One day upon the battlefield, Argus set after a horde of demons that fled his pursuit. His sister had urged him to fall back instead, yet he valiantly forged onward. It was then that he was snared in the abyssal demons’ trap, and they set upon him in an ambush, but he felt no fear at all. On the contrary, he exploited this ambush to his advantage.
 
-Argus’ keen mind was just as formidable as his physical strength, and with it he turned the tables on his foes by allowing himself to be taken deep into their camp. He wiped out a huge chunk of their number, both demons and the humans that sided with them. Before setting off once more he decided to steal away the legendary demonic sword that was kept in the area, but as he grasped its hilt a barrage of strange memories surged into his mind–
+Argus’ keen mind was just as formidable as his physical strength, and with it he turned the tables on his foes by allowing himself to be taken deep into their camp. He wiped out a huge chunk of their number, both demons and the humans that sided with them. Before setting off once more he decided to steal away the legendary demonic sword that was kept in the area, but as he grasped its hilt a barrage of strange memories surged into his mind.
 
 Soft rays of moonlight and the aroma of flowers caress a man and a woman as they exchange vows. But a second later, she’s swept away by a number of Sacrists who hold her down, forcing her to imbibe holy water.
 
@@ -69,9 +66,7 @@ It was then that the memories came to a sharp halt, and Argus came to. He finall
 
 For he was no holy being, but instead, a member of those he detested the most: a son of man. Furthermore, his fellow humans had known of this and hence slain his parents to exploit his power as their own. They had stolen from him.
 
-Demonic sword in hand, he ignored the pleadings of his sister and left her behind.
-
-Little did he know that the reason his blade possessed such a monumental power, the reason it imparted those lost memories to him, was because it was cursed by the God of Destruction: Cyd. His mind was tainted by this malevolent curse, awakening within him a cruel brutality. Argus was driven by his own rage.
+Demonic sword in hand, he ignored the pleadings of his sister and left her behind. Little did he know that the reason his blade possessed such a monumental power, the reason it imparted those lost memories to him, was because it was cursed by the God of Destruction: Cyd. His mind was tainted by this malevolent curse, awakening within him a cruel brutality. Argus was driven by his own rage.
 
 Argus focused his seething fury upon all of mankind, and when Rafaela came for him once more several months later, she was faced with a fearful sight. His graceful wings in all their shimmering radiance were nowhere to be seen. Instead, there sprouted from his back a pair of dark wings that emanated forth a crashing aura of darkness and despair.
 
@@ -85,75 +80,78 @@ Once, human blood had flown within him, and he was blessed by the Gods themselve
 
 Now, he’s Argus: the only Dark Angel in this world.
 
+# Story
+
+> "The angel who fell from light into darkness."
+
+Argus and Rafaela are a pair of twin angels. Yet the angels of legend are all female, making Argus something of an outcast. While the Monastery of Light utilizes his powers to eradicate all heresy, it's never even acknowledged his existence.
+
+While Argus despises humankind, holding it in the utmost disdain, he once came into possession of a demonic blade in the midst of a battle and at that moment realized that he too was a son of man. That he was orphaned when his parents were slain by other humans. Under the demonic blade's curse he was overcome by resentment, falling into a demonic state himself as he became the Dark Angel.
+
 # Abilities
 
-## Warmonger / Malice Energy
+## Malice Energy (Warmonger)
 
-- Passive resource: Malice Energy (amount not specified).
-- Basic stats scaling noted in original data: Physical Defense scaling base 180, total-pa 80; HP scaling base 150, total-pa 10.
+When Argus' blade reaches 100 an amount that is currently unknown, he will launch a Demonic Slash with his next Basic Attack, dealing scaling damage and recovering health. This attack ignores 40% of the target's Physical Defense.
 
-Warmonger
+Argus' Demonic Blade gains 5 Malice Energy per second, and each of his Basic Attacks grants 10 Malice Energy. Critical strikes grant an additional 10 energy. Damage dealt from equipment Unique Passives and talents cannot charge Malice Energy.
 
-- When Argus' blade reaches 100 Malice Energy, he will launch a Demonic Slash with his next Basic Attack, dealing scaling physical damage and recovering HP based on damage dealt. This attack ignores 40% of the target's Physical Defense.
-- Argus' Demonic Blade gains 5 Malice Energy per second, and each of his Basic Attacks grants 10 Malice Energy. Critical strikes grant an additional 10 Malice Energy.
-- Notes:
-  - Costs 100 Malice Energy (rage).
-  - Damage dealt from equipment Unique Passives and talents cannot charge Malice Energy.
-
-(Values described as "amount unknown" or incomplete in source have been noted as unspecified and represented above as descriptive placeholders.)
+Notes:
+- Costs 100 Malice Energy.
+- Damage and recovery scale with level and Argus' stats.
 
 ## Demonic Grip
 
-- Skill types: Physical Skill, Blink, AoE.
-- Base Damage: 125 / 150 / 175 / 200 / 225 / 250 (scaling physical damage).
-- Extra Damage on Use Again: 175 / 200 / 225 / 250 / 275 / 300 (scaling physical damage).
+Argus stretches out a demonic hand in the target direction, dealing scaling physical damage to the first enemy hero or creep hit, stunning them for 0.7 seconds and pulling him and the target towards each other. If no enemy is hit, Argus pulls himself towards the destination instead.
 
-Description:
+Use Again: Argus dashes and strikes in the target direction, dealing extra physical damage to enemies along the path.
 
-Argus stretches out a demonic hand in the target direction, dealing scaling physical damage to the first enemy hero or creep hit, stunning them for 0.7 seconds and pulling him and the target towards the other. If no enemy is hit, Argus pulls himself towards the destination instead.
+Damage values:
+- Base Damage: 125 / 150 / 175 / 200 / 225 / 250
+- Extra Damage on second use: 175 / 200 / 225 / 250 / 275 / 300
 
-Use Again: Argus dashes and strikes in the target direction, dealing scaling physical damage to enemies along the path.
+Terms:
+- Stunned: target is unable to move or act for the duration.
+- Blink: skill allows Argus to reposition rapidly.
+
+This skill's damage scales with Argus' physical attack and level.
 
 ## Meteoric Sword
 
-- Skill type: Physical Skill.
-- Base Damage: 120 / 144 / 168 / 192 / 216 / 240 (scaling physical damage to heroes).
-- Damage to minions: reduced damage to minions (scaling, lower than hero damage).
+After a short delay, Argus thrusts his Demonic Blade in the target direction, dealing physical damage to enemies hit (reduced damage to minions) and slowing them by 80% for 0.8 seconds. The delay time will decrease as Argus' Attack Speed increases. Enemy heroes hit are cursed for 4 seconds, during which they leave a Cursed Trail behind. Argus gains 20% Movement Speed while on a Cursed Trail.
 
-Description:
+Meteoric Sword counts as Basic Attack damage and can trigger Attack Effects. Hitting heroes restores 100 Malice Energy (excess is preserved).
 
-After a short delay, Argus thrusts his Demonic Blade in the target direction, dealing scaling physical damage to enemies hit (reduced damage to minions) and slowing them by 80% for 0.8 seconds. The delay time will decrease as Argus' Attack Speed increases. Enemy heroes hit are Cursed for 4 seconds, during which they will leave a Cursed Trail behind. Argus gains 20% Movement Speed while on a Cursed Trail.
+Damage values:
+- Base Damage: 120 / 144 / 168 / 192 / 216 / 240 (physical)
 
-- Meteoric Sword counts as Basic Attack damage and can trigger Attack Effects.
-- Hitting heroes restores 100 Malice Energy (excess is preserved).
+Notes:
+- Cursed is a debuff applied to heroes hit that causes them to leave a damaging trail for a duration.
+- The skill deals 200% damage to relevant targets in some cases as noted in certain tooltips. Damage scales with level and physical attack.
 
 ## Eternal Evil
 
-- Skill type: Physical Damage, BUFF; Death Immunity effect.
-- Base Damage: 150 / 225 / 300 (scaling physical damage across ranks).
-- Cooldown by rank in source: 60.0 / 55.0 / 50.0 seconds.
+Argus draws his Meteoric Sword and removes all debuffs on himself (excluding Suppression), dealing scaling physical damage and becoming the Fallen Angel for 4 seconds. Hitting heroes while Fallen Angel enhances Warmonger.
 
-Description:
-
-Argus draws his Meteoric Sword and removes all debuffs (excluding Suppression) on himself, dealing scaling physical damage and becoming the Fallen Angel for 4 seconds (hitting heroes enhances Warmonger).
-
-Fallen Angel:
+Fallen Angel effects:
 - Gain 40% Movement Speed that decays over 1 second.
-- When the transformation ends, he converts all his damage dealt in the Fallen Angel state into HP.
-- If he takes fatal damage during the transformation, the duration of the Movement Speed boost will be reset, and he will gain Death Immunity for 4 seconds.
+- When the transformation ends, Argus converts all damage he dealt while Fallen Angel into HP.
+- If he takes fatal damage while under this effect, the Movement Speed duration will be reset and he will gain Death Immunity for 4 seconds.
 
-Enhanced Warmonger:
-- Grants extra Malice Energy on activation (source lists 50-60 / 50-40; grants additional Malice Energy on critical hits).
+Enhanced Warmonger: grants extra Malice Energy on use and grants additional Malice Energy with critical hits. If Death Immunity isn't triggered during the transformation, the cooldown will be reduced by 50% when the skill ends.
+
+Damage values:
+- Base Damage: 150 / 200 / 300 (physical scaling with level and stats)
 
 Notes:
-- If Death Immunity isn't triggered during his transformation, the cooldown will be reduced by 50% when the skill ends.
 - Health regeneration based on damage dealt is not affected by Argus' Healing Effect and Healing Received.
 - Basic attacks cannot convert HP when dealing damage to shields.
 
+Quote:
 > "Battlefield is my playground and I think nothing of life and death."
 
 # Trivia
 
 - The name Argus is derived from the Greek word "argos," which means "bright" or "shining."
-- Argus and Rafaela are Dyztgotic Twins (Argus was from a Human father while Rafaela was from the Lord of Light).
+- Argus and Rafaela are Dyztgotic Twins (Argus was from a Human father while Rafaela was from the Lord of Light)
 - His normal skin, Light of Dawn, is actually his angelic form before he was corrupted by the demon sword that he currently wields.

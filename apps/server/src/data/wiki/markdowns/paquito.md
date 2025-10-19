@@ -19,9 +19,9 @@ He is the first hero to receive the Tagalog voiceover.
 - Weapons: Boxing gloves
 - Traits: Righteous, Steadfast
 - Relationships: "Domineer" (enemy, formerly master); Jolie
-- English VA: Eric Wibbelsmann
-- Japanese VA: Sato Yuga (佐藤 悠雅)
-- Tagalog VA: Direk Brian Ligsay
+- English voice actor: Eric Wibbelsmann
+- Japanese voice actor: Sato Yuga (佐藤 悠雅)
+- Tagalog voice actor: Direk Brian Ligsay
 
 # Story
 
@@ -51,17 +51,11 @@ Paquito's loyalty and friendship for his old master clashed with the justice and
 
 Paquito forced the Domineer into defeat, and the master stared up at his former student, filled with regret. His forces of evil were subdued, and peace flourished in the land.
 
-It was then that Paquito shouldered his pack and prepared to hit the road once more, telling his master: this world of ours is bigger than we know, with mighty opponents that await our arrival, not to mention the powers of evil...
-
-He'd rely on his two fists. With them, he'd fight for the hopes and dreams of all who needed him.
-
-# Bio
-
-
+It was then that Paquito shouldered his pack and prepared to hit the road once more, telling his master: this world of ours is bigger than we know, with mighty opponents that await our arrival, not to mention the powers of evil... He'd rely on his two fists. With them, he'd fight for the hopes and dreams of all who needed him.
 
 # Side Story
 
-## Letter to Paquito
+## A Letter from Jolie
 
 > Dear Paquito:
 
@@ -169,57 +163,78 @@ He'd rely on his two fists. With them, he'd fight for the hopes and dreams of al
 
 ## Champ Stance
 
-Extra movement SPD formula: Extra movement SPD = (-0.24 × time) + 60%
+extra movement SPD = (-0.24 × time) + 60%
 
+- Champ Stance
 - After every 3 skill casts, Paquito enters Champ Stance, gaining an enhanced skill that ignores his current cooldowns.
 - He gains 60% extra Movement Speed that decays over 2.5 seconds after casting the enhanced skill.
 - The current stack is visible to enemies, resets on death and his fist glows at max stack.
-
-Quote: "I had no one to depend on except myself."
+- Quote: "I had no one to depend on except myself."
 
 ## Heavy Left Punch
 
-Paquito throws a punch in the target direction, dealing scaling physical damage to enemies hit.
+- Skill type: Physical Skill
+- Effects: AoE, Shield
+- Cooldown by level: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
 
-- Base Damage: 210 / 240 / 270 / 300 / 330 / 360 (physical damage)
-- Base Shield: 150 / 220 / 290 / 360 / 430 / 500 (shield granted when hitting an enemy hero)
-- Enhanced Damage (Champ Stance): 350 / 400 / 450 / 500 / 550 / 600 (physical damage)
+Description:
 
-- When Champ Stance is active, the skill deals the enhanced damage values above and the shield value is increased to correspondingly enhanced shield values. The regular and enhanced shields can stack.
-- Cooldown per level: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds.
+- Paquito throws a punch in the target direction, dealing damage based on level and stats to enemies hit.
+- He gains a shield for 2.5 seconds if an enemy hero is hit. When Champ Stance is active, the damage and shield values are increased to enhanced values. The regular and enhanced shields can stack.
+
+Base values by level:
+
+- Base Damage: 210 / 240 / 270 / 300 / 330 / 360
+- Base Shield: 150 / 220 / 290 / 360 / 430 / 500
+- Enhanced Damage: 350 / 400 / 450 / 500 / 550 / 600
 
 Notes:
-- Has slightly more range than what the skill range shows.
+
+- The skill has slightly more range than what the skill range shows.
 
 ## Jab
 
-Paquito dashes in the target direction and throws a jab, dealing scaling physical damage to enemies hit. Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding with an enemy hero or creep.
+- Skill type: Physical Skill, Blink
+- Effects: Burst, Blink
+- Cooldown by level: 8.0 / 7.5 / 7.0 / 6.5 / 6.0 / 5.5 seconds
 
-- Jab Damage: 150 / 210 / 270 / 330 / 390 / 450 (physical damage)
-- Enhanced Jab Damage (Champ Stance): 240 / 336 / 432 / 528 / 624 / 720 (physical damage)
-- Cooldown per level: 8.0 / 7.5 / 7.0 / 6.5 / 6.0 / 5.5 seconds.
+Description:
+
+- Paquito dashes in the target direction and throws a jab, dealing damage based on level and stats to enemies hit.
+- Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding with an enemy hero or creep. The damage is increased when Champ Stance is active.
+
+Values by level:
+
+- Jab Damage: 150 / 210 / 270 / 330 / 390 / 450
+- Enhanced Jab Damage: 240 / 336 / 432 / 528 / 624 / 720
 
 Notes:
-- Upon stopping on a hero/creep or reaching its final dash distance, does damage on a rectangular shape starting from behind Paquito to a small square shape in front of him.
-- It has a sizable hit box relative to Paquito's main body, meaning Paquito will immediately stop on a hero/creep even if they are slightly right behind him or at his sides. Its size is about half of Paquito's range.
+
+- Upon stopping on a hero/creep or reaching its final dash distance, the skill deals damage on a rectangular shape starting from behind Paquito to a small square shape in front of him.
+- It has a sizable hit box relative to Paquito's main body, meaning Paquito will immediately stop on a hero/creep even if they are slightly behind him or at his sides. Its size is about half of Paquito's range.
 
 ## Knockout Strike
 
-Paquito launches an elbow strike in the target direction, dealing scaling physical damage to enemies hit and knocking them back. He then follows with one of two follow-up attacks:
+- Skill type: Physical Skill, Charge
+- Effects: CC, Burst, Pushing
+- Cooldown by level: 18.0 / 16.5 / 15.0 seconds
 
-- Haymaker: Paquito throws a haymaker, dealing physical damage to enemies hit and slowing them by 75% for 1 second as he darts backward.
-- Hook / Uppercut: Instead of a haymaker, Paquito can launch an uppercut after the elbow strike, dealing physical damage to enemies hit and knocking them airborne for 0.5 seconds.
+Description:
 
-Damage values:
-- Elbow Damage: 250 / 300 / 350 (physical damage)
-- Haymaker Damage: 350 / 475 / 600 (physical damage)
-- Hook (Uppercut) Damage: 400 / 575 / 750 (physical damage)
+- Paquito launches an elbow strike in the target direction, dealing damage based on level and stats to enemies hit and knocking them back.
+- He then throws a haymaker, dealing damage based on level and stats to enemies hit and slowing them by 75% for 1 second, as he darts backward.
+- Instead of a haymaker, Paquito can launch an uppercut after the elbow strike, dealing damage based on level and stats to enemies hit and knocking them airborne for 0.5 seconds.
 
-- Cooldown per level: 18.0 / 16.5 / 15.0 seconds.
+Base values by level:
+
+- Elbow Damage: 250 / 300 / 350
+- Haymaker Damage: 350 / 475 / 600
+- Hook / Uppercut Damage: 400 / 575 / 750
 
 Notes:
-- Upon reaching the final dash distance, does damage and apply slowing/airborne effects on a rectangular shape starting from Paquito's back to a small square shape in front of him.
-- While dashing, the skill has a hit box that is the size of Paquito's main body, meaning the actual size is smaller than when aiming the skill shows.
+
+- Upon reaching the final dash distance, the skill deals damage and applies the slow or airborne on a rectangular shape starting from Paquito's back and a small square shape in front of him.
+- While dashing, the skill's hit box is the size of Paquito's main body, meaning the actual effective size is smaller than when aiming the skill shows.
 
 # Trivia
 

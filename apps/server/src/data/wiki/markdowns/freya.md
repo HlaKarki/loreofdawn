@@ -26,22 +26,14 @@
 
 • Relationships:
 - Skuld (elder sister, fate unknown)
-- (companions)
-- (enemies)
+- , (companions)
+-  (enemies)
 
 • English voice actress: Aimee Smith
 
-# Story
-
-> "Valkyrie who guards the Northern Vale."
-
-Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it.
-
-Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.
-
 # Bio
 
-Valkyries were distinguished and revered fighters among the warlike Northern Vale folks. The bravest and strongest female warriors in each tribe would be chosen to join their ranks and take up the responsibility of guiding the spirits of fallen heroes into Valhalla and keeping the peace in Northern Vale. Becoming a Valkyrie would bring great glory to everyone in the tribe. It was considered to be the greatest achievement one could ever dream for. But such a glory came at a price- the Valkyries had to make huge sacrifices for their privilege. They could never marry or bear children and they were bound to dedicate their entire life to the protection of Northern Vale.
+Valkyries were distinguished and revered fighters among the warlike Northern Vale folks. The bravest and strongest female warriors in each tribe would be chosen to join their ranks and take up the responsibility of guiding the spirits, of fallen heroes into Valhalla and keeping the peace in Northern Vale. Becoming a Valkyrie would bring great glory to everyone in the tribe. It was considered to be the greatest achievement one could ever dream for. But such a glory came at a price- the Valkyries had to make huge sacrifices for their privilege. They could never marry or bear children and they were bound to dedicate their entire life to the protection of Northern Vale.
 
 At first, such glory and burden didn't belong to Freya. As far as she could remember, her elder sister Skuld was their tribe's best hope. She was clever, decisive, brave and resilient. She could already defeat all the other warriors in their tribe when she was just sixteen years old. The high priest of the Martyr Shrine foresaw the future in a prophecy.
 
@@ -67,56 +59,60 @@ Time flew by as Freya stood guard in the coldness and snow as a Valkyrie. She ha
 
 There, she would find all the answers she sought, and she would protect her homeland at all cost, as a Valkyrie of Northern Vale.
 
+# Story
+
+> "Valkyrie who guards the Northern Vale."
+
+Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.
+
 # Abilities
 
 ## Power of Einherjar
 
-After casting a skill, Freya gains 200% Attack Speed for her next 2 Basic Attacks (this effect can stack up to 6 times). Freya gains 1 stack of Sacred Orb on each Basic Attack and can spend Sacred Orb stacks to cast skills consecutively.
+After casting a skill, Freya gains 200% Attack Speed for her next 2 Basic Attacks (this effect can stack up to 6 times). Freya gains 1 stack of Sacred Orb on each Basic Attack and can spend Sacred Orb stacks to cast Spirit Combo consecutively.
 
 ## Leap of Faith
 
 Freya jumps to the target location, dealing damage to enemies hit and pulling them towards her.
 
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
-- Extra Physical Attack scaling: 80
+- Scaling: plus 80% Physical Attack
 
-- Terms: Blink, Displacement, Movement Speed
+This can cancel the casting animation of any of the Spirit Combo to extend their range, especially to the 3rd cast.
 
-Notes:
-- This can cancel the casting animation of any of the skills to extend their range, especially the 3rd cast.
+Terms: Blink, Displacement, Movement Speed
+
+Damage values scale with skill level and Freya's physical attack.
 
 ## Spirit Combo
 
-Freya strikes in the target direction, gaining a shield while dealing damage to enemies hit and slowing them by 30% for 0.5 seconds. Freya can cast this skill again within 3.5 seconds at the cost of 2 stacks of Sacred Orb. On the 3rd cast, Freya leaps into the air and smashes the area below, dealing final damage to enemies within range and knocking them airborne for 0.4 seconds.
+Freya strikes in the target direction, gaining a shield while dealing base damage to enemies hit and slowing them by 30% for 0.5 seconds. Freya can cast this skill again within 3.5 seconds at the cost of 2 Sacred Orb stacks. On the 3rd cast, Freya leaps into the air and smashes the area below, dealing final damage to enemies within range and knocking them airborne for 0.4 seconds.
 
 - Shield: 60 / 100 / 140 / 180 / 220 / 260
 - Base Damage: 20 / 62 / 104 / 146 / 188 / 230
 - Final Damage: 26 / 76 / 126 / 176 / 226 / 276
-- Extra Physical Attack scalings: 70; 90; 108 (as applicable)
 
-- Terms: Blink, Airborne
+Terms: Blink, Airborne
 
-Notes:
-- Each of the Spirit Combo skills cannot be interrupted, not even by death.
+Each of the Spirit Combo skills cannot be interrupted, not even by death. Damage values scale with skill level and Freya's physical attack.
 
 ## Valkyrie Descent
 
-Freya gains 6 stacks of Sacred Orb and enters the Valkyrie state, gaining a shield and an Attack Bonus of 30–70. Meanwhile, her Basic Attacks become ranged and deal splash damage. The Valkyrie state lasts for 10 seconds.
+> "My faith is my guardian!"
+
+Freya gains 6 stacks of Sacred Orb and enters the Valkyrie state, gaining a shield and an attack bonus of 30–70. Meanwhile, her Basic Attacks become ranged and deal splash damage. The Valkyrie state lasts for 10 seconds.
 
 - Enhanced Basic Attack Range: 3.5
 - Shield: 600 / 750 / 900
 - Attack Bonus: 30 / 50 / 70
 
-- Terms: Physical Basic Attack, Shield
+Terms: Physical Basic Attack, Shield
 
-Notes:
-- The lifesteal and attack effects cannot be triggered on enemies who received splash damage but only on Freya's main target.
-
-Quote: "My faith is my guardian!"
+Note: The lifesteal and attack effects cannot be triggered on enemies who received splash damage but only on Freya's main target.
 
 # Trivia
 
-- Freya is based on the goddess Freyja, a goddess in Norse mythology. She is associated with love, beauty, fertility, sex, war, death, and magic.
-- Freya's appearance in lore is based on a Valkyrie. Valkyries are female figures who guide souls of the dead to Odin's hall Valhalla.
-- The first-generation Freya is a pay-to-win hero. Additionally, Freya is one of the two heroes (including Odette) that cannot be bought by in-game currency. However, Odette used to be bought by in-game currency back then when she was released in 2017. Freya only stayed purchasable with in-game currency up until now. The reason for this is still unknown.
-- Freya's English voice actress also voiced some of the Battlefield Quick Chats.
+- undefined
+- undefined
+- undefined
+- undefined

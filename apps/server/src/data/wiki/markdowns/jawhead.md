@@ -2,9 +2,9 @@
 
 # Profile
 
-- Chinese name: 大铁罐 (dàtiěguàn, "Great Metal Pot")
 - Full name: SMART-01
-- Aliases: *Steel Sweetheart*; *Prototype One*; *Jawhead (by Ailee)*
+- Chinese name: 大铁罐 (dàtiěguàn, "Great Metal Pot")
+- Aliases: Steel Sweetheart; Prototype One; Jawhead (by Ailee)
 - Origin: Laboratory 1718
 - Species: Robot
 - Gender: Ungendered
@@ -13,20 +13,18 @@
 - Relationships: Prof. and Mrs. Henry (creator)
 - Japanese voice actor: Kontani Yuta (紺谷 勇太)
 
-- Companion — Ailee:
-  - Name: Ailee
-  - Full name: Ailee Henry
-  - Alias: Honey / Honeybear (by Jawhead)
-  - Species: Human
-  - Relationships: Prof. and Mrs. Henry (parents)
+Companion:
+- Name: Ailee
+- Full name: Ailee Henry
+- Alias: Honey / Honeybear (by Jawhead)
+- Species: Human
+- Relationships: Prof. and Mrs. Henry (parents)
 
 # Story
 
-> "Intelligent robot used to protect little [Ailee]"
+> "Intelligent robot used to protect little Ailee"
 
 This intelligent robot developed by Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter little Ailee after their disappearance.
-
-# Bio
 
 Clandestine organizations have existed throughout the many ages of the Land of Dawn's history. No one knows the true purpose of these organizations, but one thing is for sure: whenever a crisis is at hand, mysterious figures emerge from the shadows to restore order to the world.
 
@@ -38,9 +36,9 @@ After ordering their Prototype One to destroy all of the experiment's data, the 
 
 ## Mecha Suppression
 
-- Effect: Jawhead's attacks apply a stack on hit (up to 10 stacks). Each stack lasts 3 seconds and increases the damage of Jawhead's Physical Basic Attack to the enemy.
+Jawhead's attacks apply a stack on hit (up to 10 stacks). Each stack lasts 3 seconds and increases the damage of Jawhead's Physical Basic Attack to the enemy by 8%.
 
-- Damage increase per stack (stack-scaling): 8% / 16% / 24% / 32% / 40% / 48% / 56% / 64% / 72% / 80%.
+- Stack scaling: Basic Attack Damage Increase Per Stack: 8% / 16% / 24% / 32% / 40% / 48% / 56% / 64% / 72% / 80%
 
 - Notes:
   - Only applies to non-minion enemies.
@@ -49,50 +47,40 @@ After ordering their Prototype One to destroy all of the experiment's data, the 
 
 ## Smart Missiles
 
+Jawhead launches up to 12 missiles at random nearby enemies over 5 seconds, each missile dealing physical damage to the enemy hit.
+
+- Skill type: Physical Damage Skill
+- Base Damage by level: 135 / 160 / 185 / 210 / 235 / 260
+- Additional scaling: 30 total physical attack scaling
+- Mana cost: 60 / 65 / 70 / 75 / 80 / 85
 - Cooldown: 5.0 seconds
-- Mana cost: 60 / 65 / 70 / 75 / 80 / 85 (per level)
-- Type: Physical Damage Skill
-
-- Description: Jawhead launches up to 12 missiles at random nearby enemies over 5 seconds, each missile dealing physical damage to the enemy hit. Damage scales with skill level and Jawhead's Physical Attack.
-
-- Level scaling (Base Damage): 135 / 160 / 185 / 210 / 235 / 260
-- Physical Attack scaling: 30% of Jawhead's Physical Attack
-
-- Notes: Each missile deals damage based on the listed base damage for the skill level plus the physical attack scaling.
 
 ## Ejector
 
-- Cooldown: 15.0 / 14.4 / 13.8 / 13.2 / 12.6 / 12.0 (first value shown)
-- Mana cost: 80 / 90 / 100 / 110 / 120 / 130 (per level)
-- Effects: Shield; Crowd Control; Movement Speed
+Jawhead gains 30% Movement Speed and a shield (value scales with skill level) for a short duration. Jawhead flings the nearest unit (prioritizes heroes) to the target location, dealing damage to enemies in the area and stunning them for 0.5 seconds. Can be used on allied heroes and they will not take damage.
 
-- Description: Jawhead gains 30% Movement Speed and a shield (value scales with skill level) for an unknown duration. Jawhead flings the nearest unit (prioritizes heroes) to the target location, dealing physical damage to enemies in the area and stunning them for 0.5 seconds. Can be used on allied heroes and they will not take damage when flung.
-
-- Level scaling:
-  - Base Shield: 250 / 320 / 390 / 460 / 530 / 600
-  - Base Damage: 300 / 340 / 380 / 420 / 460 / 500
-  - Shield and damage also scale with Jawhead's stats (scaling damage based on level and stats).
-
-- Notes:
-  - Prioritizes heroes when selecting the nearest unit to fling.
-  - Allied units flung by this skill do not take damage.
+- Effects: Stun; Movement Speed; Shield
+- Base Shield by level: 250 / 320 / 390 / 460 / 530 / 600
+- Base Damage by level: 300 / 340 / 380 / 420 / 460 / 500
+- Additional scaling: 180 total physical attack scaling for the shield; 80 total physical attack scaling for the damage
+- Mana cost: 80 / 90 / 100 / 110 / 120 / 130
+- Cooldown by level: 15.0 / 14.4 / 13.8 / 13.2 / 12.6 / 12.0 seconds
 
 ## Unstoppable Force
 
-- Cooldown: 35.0 / 30.0 / 25.0 (first value shown)
-- Mana cost: 120 / 150 / 180 (per level)
-- Effects: Mobility; Crowd Control; Displacement
+Jawhead charges into the target enemy hero, dealing physical damage and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
 
-- Description: Jawhead charges into the target enemy hero, dealing physical damage and briefly stunning them (stun duration unspecified). Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
-
-- Level scaling (Base Damage): 350 / 475 / 600
-- Physical Attack scaling: 150% of Jawhead's Physical Attack (damage based on level and stats)
+- Effects: Stun; Blink; Displacement
+- Base Damage by level: 350 / 475 / 600
+- Additional scaling: 150 total physical attack scaling
+- Mana cost: 120 / 150 / 180
+- Cooldown by level: 35.0 / 30.0 / 25.0 seconds
 
 - Notes:
   - This ability has three phases:
-    - Phase 1: Jawhead begins to channel the charge. If interrupted at this step, the ability does not go on cooldown.
-    - Phase 2: Jawhead travels to the target.
-    - Phase 3: Upon hitting the target, Jawhead loses CC immunity and nearby enemies are knocked back.
+    - Jawhead begins to channel the charge. If interrupted at this step, the ability does not go on cooldown.
+    - Jawhead travels to the target.
+    - Upon hitting the target, Jawhead loses CC immunity and nearby enemies are knocked back.
 
 # Trivia
 

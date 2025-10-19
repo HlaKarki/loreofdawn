@@ -2,16 +2,26 @@
 
 # Profile
 
-- **Full Name:** Rafaela
-- **Aliases:** *Wings of Holiness*, *Archangel*
-- **Chinese Name:** 拉菲尔 (lāfēiěr)
-- **Origin:** Lumina City, Moniyan Empire
-- **Species:** Light angel
-- **Gender:** Female
-- **Weapons:** Staff
-- **Abilities:** *Power of Holy Light through healing allies and inflicting damage to enemies.*  *Penalizes target after death*
-- **Relationships:** *Unnamed mother (deceased)*  * (older twin brother)  *Lord of Light (father)  *Unnamed mother's lover  * (companion)
-- **Voice Actors:** Japanese: Matsumoto Sachi (松本 さち); Indonesian: Kuswayanti Woro Dewi
+Full Name: Rafaela
+
+- Alias: *Wings of Holiness*  *Archangel*
+- Chinese Name: 拉菲尔 (lāfēiěr)
+- Origin: Lumina City, Moniyan Empire
+- Species: Light angel
+- Gender: Female
+- Weapons: Staff
+- Abilities: Power of Holy Light through healing allies and inflicting damage to enemies. Penalizes target after death
+
+- Relationships:
+  - Unnamed mother (deceased)
+  - (older twin brother)
+  - Lord of Light (father)
+  - Unnamed mother's lover
+  - (companion)
+
+- Voice Actors:
+  - Japanese: Matsumoto Sachi (松本 さち)
+  - Indonesian: Kuswayanti Woro Dewi
 
 # Story
 
@@ -27,15 +37,11 @@ Argus and Rafaela are twin siblings born in the Moniyan Empire. The Monastery of
 
 The pregnancy of one who bears an angel is an unimaginably long and slow process. Over the three-year period her heart grew heavier, tortured by the loneliness of such a lengthy ordeal. She longed for her lover, yearned to be with him once again. After two years had passed, she could take it no more, and escaped the temple to reunite with him; together, they lived happily once more. Yet it was to be a short-lived happiness.
 
-The Sacrists found her before long. Her lover was slain before her eyes for threatening to defile the Lord of Light's divine bloodline, and she was returned to the Monastery.
-
-Another year passed, at the end of which she died during childbirth. To everyone's surprise, she gave birth to a set of twins: and one was a baby boy.
+The Sacrists found her before long. Her lover was slain before her eyes for threatening to defile the Lord of Light's divine bloodline, and she was returned to the Monastery. Another year passed, at the end of which she died during childbirth. To everyone's surprise, she gave birth to a set of twins: and one was a baby boy.
 
 The infant's eyes bore a striking resemblance to those of his late mother's lover. The Cleric of Light quickly caught on to this, realizing that the boy was born of humankind – yet incredibly, he possessed the power of the angels. The Sacrists tried to slay him but their efforts were thwarted, for each time they tried, a dazzling light would burst from Rafaela, protecting her brother from all harm.
 
-This was considered as a miracle. They hence abandoned all ideas of killing the boy. Instead, in silent unanimity, it was decided that the circumstances of his birth were to be kept a secret from everyone.
-
-The Monastery of Light covered up the truth so masterfully that even the twins themselves knew nothing of it.
+This was considered as a miracle. They hence abandoned all ideas of killing the boy. Instead, in silent unanimity, it was decided that the circumstances of his birth were to be kept a secret from everyone. The Monastery of Light covered up the truth so masterfully that even the twins themselves knew nothing of it.
 
 And so, Argus and Rafaela grew up together, undergoing the same teaching and training. What set them apart, however, was the fact that she was seen as a beautiful ray of light: a holy, immaculate being. In the eyes of the people, Rafaela was their one true angel. Argus was kept in the shadows, on the other hand, and forever barred from the glory so rightfully his.
 
@@ -57,15 +63,11 @@ From then on, Rafaela would tirelessly search for each and every scrap concernin
 
 Several months passed. Finally, it was in the Barren Lands that she was reunited with Argus. What she hadn't accounted for, though, was that the Argus she knew was now long gone. The golden aura in which he was once bathed, his radiant wings, they were nowhere to be seen; and in their place was an oppressive aura of cruelty and pitch-black wings of darkness.
 
-There was no going back now... Rafaela wanted to raise her staff and bring an end to this, as was her duty. Yet memories of the past floated into her mind, one after another, and she couldn't bring herself to do it. Argus gazed at her from afar, and silently turned to leave.
+There was no going back now... Rafaela wanted to raise her staff and bring an end to this, as was her duty. Yet memories of the past floated into her mind, one after another, and she couldn't bring myself to do it. Argus gazed at her from afar, and silently turned to leave.
 
 From then on, he would only fall further into the darkness of the Abyss. Constantly wracked by pain and confusion, constantly sinking ever deeper. As time went on, Rafaela grew into the woman she is today: an angel admired by all, the savior of the apocalypse and embodiment of the Light. Despite this, she could never bear to face the closest to her.
 
 Time passes, never to return. No matter human or angel, none can turn back the hands of time.
-
-# Bio
-
-
 
 # Abilities
 
@@ -77,55 +79,52 @@ This skill's cooldown is determined by both its base cooldown and the remaining 
 
 ## Light of Retribution
 
-Rafaela strikes the three nearest enemies with Light of Retribution, dealing them damage, briefly revealing their positions, and slowing them by 40% for 1.5s. Enemies hit by Light of Retribution again within 5 seconds will take 20% extra damage (this effect stacks up to 3 times).
+Rafaela strikes the three nearest enemies with Light of Retribution, dealing magic damage, briefly revealing their positions, and slowing them by 40% for 1.5 seconds. Enemies hit by Light of Retribution again within 5 seconds will take 20% extra damage. This extra damage effect stacks up to 3 times.
 
-- Cooldown: 4s
-- Mana Cost (level 1): 70
-- Skill Effects: AOE, Slow
+Damage calculation summary:
 
-Formula:
-`total skill DMG = [ 170 + (55 × skill lv.) + 25% total magic power ] + (20% × no. of stacks), where 0 ≤ no. of stacks ≤ 3`
+- Total skill damage = [170 + (55 × skill level) + 25% total magic power] + (20% × number of stacks), where number of stacks is between 0 and 3.
 
 Properties:
-- Base Damage (by level): 225 / 280 / 335 / 390 / 445 / 500
-- Damage Increase Per Stack: 20% / 40% / 60%
+
+- Base Damage by level: 225 / 280 / 335 / 390 / 445 / 500
+- Damage increase per stack: 20% extra damage per stack, stacking up to 3 times (20% / 40% / 60%)
+- Skill type: Magic Damage, AOE, Slow
 
 Notes:
+
 - This skill's attacks prioritize enemy heroes the most.
-- The skill's stack applies a mark that is only visible to enemy heroes but is invisible from Rafaela's enemies' perspective. It counts as a debuff and can be removed by skills such as Purify.
+- The skill's stack applies a mark that is only visible to allied players (counts as a debuff and can be removed by skills such as Purify).
+- Mana cost shown is the first-level value; mana cost increases by level.
 
 ## Holy Healing
 
-Rafaela calls upon Holy Light, restoring health to nearby allied heroes, and additionally healing herself and the most injured allied hero in range. Also increases Movement Speed of nearby allied heroes by 30% and grants Slow Immunity for 1 second. Every 20 point(s) of Magic Power will add 1% to the Movement Speed bonus, up to 80%.
+Rafaela calls upon Holy Light, restoring health to nearby allied heroes, and additionally heals herself and the most injured allied hero in range. Also increases Movement Speed of nearby allied heroes and grants slow immunity for 1 second.
 
-- Cooldown (level 1): 10.5s
-- Mana Cost (level 1): 100
-- Skill Effects: Heal, Speed Up
+Healing and movement speed summary:
 
-Healing Values:
-- Basic Healing (area): 250 / 290 / 330 / 370 / 410 / 450 (by level)
-- Secondary Heal (self/most-injured): 100 / 110 / 120 / 130 / 140 / 150 (by level)
+- Basic healing by level: 250 / 290 / 330 / 370 / 410 / 450
+- Secondary heal by level: 100 / 110 / 120 / 130 / 140 / 150
+- Base Movement Speed increase: 30% plus scaling with magic power. Every 20 points of magic power adds 1% to the Movement Speed bonus, up to a maximum of 80% when magic power reaches the stated cap.
 
-Movement Speed Scaling:
-`extra movement SPD = 30% + (0.05% × magic power), where magic power ≤ 1000`
-- Every 20 Magic Power adds 1% to Movement Speed bonus, up to a maximum of 80% at high Magic Power.
+Cooldown and costs refer to level values; shown cooldown and mana cost are the first-level values.
 
 ## Holy Baptism
 
 Rafaela unleashes the true power of Holy Light in the target direction, dealing magic damage to enemies in a line and stunning them for 1.5 seconds.
 
-- Cooldown (level 1): 42s
-- Mana Cost (level 1): 150
-- Skill Effects: CC (Stun), AOE (line)
-
 Properties:
-- Spell Vamp Ratio: 50%
-- Base Damage (by level): 460 / 560 / 660
+
+- Base Damage by level: 460 / 560 / 660
+- Spell vamp ratio: 50%
+- Effect: Line AOE damage and 1.5 second stun
+
+Cooldown and mana cost shown are the first-level values; both vary by skill level.
 
 # Trivia
 
-- Rafaela is the game's first healer and pure support in the game.
-- Rafaela's skin "Fertility Goddess" could be based on Isis, the goddess of healing and magic, was crucial to ancient Egyptian religious beliefs.
-- Rafaela is one of the few heroes in the game to receive an official tournament skin, "Biomedic MPL Special".
-- She is one of the heroes who doesn't have a basic skin.
-- Argus and Rafaela are dyztgotic twins
+- undefined
+- undefined
+- undefined
+- undefined
+- undefined

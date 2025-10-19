@@ -2,6 +2,7 @@ import { Hono } from "hono";
 import { WikiService } from "@/services/wikis.service";
 import { cacheKvLayer } from "@/middleware/cache";
 import type { Env } from "@/types";
+import { HeroService } from "@/services/heroes.service";
 
 export const wikisRouter = new Hono<Env>();
 
@@ -38,8 +39,19 @@ wikisRouter.delete("/:name", async (c) => {
 		return c.json({ error: "Hero name is required" }, 400);
 	}
 
-	const cacheKey = `wiki:${name}`;
-	await cacheKvLayer.delete(cacheKey, c);
+	if (name === "all") {
+		const heroService = new HeroService(c.env);
+		const heroes = await heroService.getAllHeroes();
+
+		for (const hero of heroes) {
+			console.log(`deleting cache for ${hero.display_name}`);
+			const cacheKey = `wiki:${hero.display_name.toLowerCase()}`;
+			await cacheKvLayer.delete(cacheKey, c);
+		}
+	} else {
+		const cacheKey = `wiki:${name}`;
+		await cacheKvLayer.delete(cacheKey, c);
+	}
 
 	return c.json({ success: true, message: `Cache deleted for ${name}` });
 });

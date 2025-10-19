@@ -2,34 +2,24 @@
 
 # Profile
 
-Alias: Shadow Ranger
-
-Chinese name: 贝拉 (bèilā)
-
-Born: Rantha Mountains
-
-Species: Human
-
-Gender: Female
-
-Occupation: Traveler
-
-Weapons: "Alecto" katana
-
-Abilities (infobox):
-
-- Dashes as she draws out Alecto
-- Summons shadow
-
-Traits: Firmly Unyielding, Rebelliously Grim
-
-Relationships: (companions), (enemy)
-
-English VA: Delilah Kujala (2021; Blood Oath)
+- Alias: Shadow Ranger
+- Chinese name: 贝拉 (bèilā)
+- Born: Rantha Mountains
+- Species: Human
+- Gender: Female
+- Occupation: Traveler
+- Weapons: "Alecto" katana
+- Abilities: 
+  - Dashes as she draws out Alecto
+  - Summons shadow (see Skill 1)
+- Traits: Firmly Unyielding, Rebelliously Grim
+- Relationships: *,, (companions)
+  * (enemy)
+- English VA: Delilah Kujala (2021; Blood Oath)
 
 # Story
 
-> "The bio of Benedetta, the 100th hero who is known as \"Shadow Ranger\" is unveiled for the first time. Under the Rantha Mountains, her \"\"Alecto\"\" symbolizes both honor and vengeance."
+> "The bio of Benedetta, the 100th hero who is known as "Shadow Ranger" is unveiled for the first time. Under the Rantha Mountains, her "Alecto" symbolizes both honor and vengeance."
 
 After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.
 
@@ -65,128 +55,90 @@ Meanwhile, Benedetta had another greater ambition: she would eliminate the monst
 
 This is not just a battle between her and the Abyss, it is also a war between her and the Empire.
 
-# Bio
-
-
-
 # Abilities
 
-## Elapsed Daytime / Swordout state / Sword Intent / Swordout Slash
+## Swordout State / Sword Intent / Swordout Slash
 
-When holding down the Basic Attack button, Benedetta enters the and charges up . If the Basic Attack button released after the Sword Intent is fully charged, Benedetta will use  in the direction she's facing and dash forward, dealing  to enemies on the path (counts as Skill Damage and is reduced to 50% on Minions and Creeps) Benedetta can only use Swordout Slash when her Sword Intent is fully charged and she is in Swordout state by holding down the Basic Attack button. Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
+When holding down the Basic Attack button, Benedetta enters the Swordout State and charges up Sword Intent. If the Basic Attack button is released after the Sword Intent is fully charged, Benedetta will use Swordout Slash in the direction she's facing and dash forward, dealing damage based on level and stats to enemies on the path (counts as Skill Damage and is reduced to 50% on Minions and Creeps). Benedetta can only use Swordout Slash when her Sword Intent is fully charged and she is in Swordout State by holding down the Basic Attack button. Benedetta also gains Sword Intent by dealing damage with her Basic Attacks and skills.
 
-- Term 1: Physical Basic Attack
-- Term 2: Blink
-
-Notes:
-
-- Has the distance of 3.8 unit.
-- Despite the description, 's damage is in fact, basic attack damage, and triggers attack effects but cannot critically strike.
-- All enemies hit along the dash will be affected by attack effects such as or, and the damage can trigger or be blocked by 's .
+- Dash distance is approximately 3.8 unit.
+- Despite the description, the ability's damage is in fact basic attack damage, and triggers attack effects but cannot critically strike.
+- All enemies hit along the dash will be affected by attack effects such as items, and the damage can trigger or be blocked by enemy defenses.
 - Holding down and canceling the Swordout State is considered a skill cast.
-- While Benedetta is in the Swordout State, she approximately gains 66.667 points of  per second, and becomes full at 100 on 1.5 seconds of activation. She can overcharge the skill for another 3 seconds.
-- Each time  deals damage with skills or basic attacks, she receives 30 points of Sword Intent.
-- will gradually lose 10 Sword Intent every second if she is unable to replenish it within 4 seconds.
+- While Benedetta is in the Swordout State, she approximately gains 66.667 points of Sword Intent per second, and becomes full at 100 after 1.5 seconds of activation. She can overcharge the skill for another 3 seconds.
+- Each time she deals damage with skills or basic attacks, she receives 30 points of Sword Intent.
+- Sword Intent will gradually lose 10 points every second if she is unable to replenish it within 4 seconds.
 - The sound and animation of charging and maxing out Sword Intent is audible and visible to everyone.
-
-  - The current amount of Sword Intent, is only visible to , excluding even audience.
-  - The landing point, which is briefly indicated at maxing out Sword Intent is also only revealed to .
-  - The damage area is a little further than the landing point, and can be extended by using  amid.
-
-- Damage effect from emblem and items, such as , does not charge Sword Intent.
-- When being rooted in Minsitthar's , Sword Intent can neither be charged nor release when full.
-
+  - The current amount of Sword Intent is only visible to Benedetta.
+  - The landing point indicated at maxing out Sword Intent is only revealed to Benedetta.
+  - The damage area is slightly further than the landing point and can be extended by using the ability amid movement.
+- Damage from emblems and items does not charge Sword Intent.
+- When being rooted by certain abilities, Sword Intent can neither be charged nor released when full.
   - If Sword Intent is currently overcharged, it is instantly set to 100 and begins depleting.
-
 - Death resets Sword Intent.
-- Due to this passive,  cannot use Manual Targeting Mode.
-- Since holding basic attack button uses a different cast time, you can tap other buttons (excluding her abilities), use emotes or buy items during the delay of other skills while holding the basic attack button.
+- Due to this passive, Benedetta cannot use Manual Targeting Mode.
+- Since holding the basic attack button uses a different cast time, you can tap other buttons (excluding her abilities), use emotes, or buy items during the delay of other skills while holding the basic attack button.
 
 ## Phantom Slash
 
-Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing and slowing the enemies by 60% for 0.5 seconds. Meanwhile, Benedetta dashes forward to slash, dealing . (If the target is hit by her shadow, damage caused by Benedetta herself will increase to .)
+Benedetta withdraws swiftly and leaves a shadow in front. After a short delay, her shadow slashes forward in a fan-shaped area, dealing shadow damage based on level and stats and slowing the enemies by 60% for 0.5 seconds. Meanwhile, Benedetta dashes forward to slash, dealing slash damage based on level and stats. If the target is hit by her shadow, damage caused by Benedetta herself will increase.
 
-- Skill effects: AOE, Mobility
-- Term 1: Physical Damage Skill
-- Term 2: Blink
-
-Level scaling:
-
-- Shadow Damage: 200 / 240 / 280 / 320 / 360 / 400
-- Slash Damage: 75 / 100 / 125 / 150 / 175 / 200
+- Cooldown: 10.0 / 9.3 / 8.6 / 7.9 / 7.2 / 6.5 seconds.
+- Mana cost: 55 / 61 / 67 / 73 / 79 / 85.
+- Level scaling:
+  - Shadow Damage: 200 / 240 / 280 / 320 / 360 / 400 (physical damage scaling)
+  - Slash Damage: 75 / 100 / 125 / 150 / 175 / 200 (physical damage scaling)
+- Terms: Physical Damage Skill, Blink.
 
 Notes:
-
-- Benedetta dashes backward 1.9 unit then forward 3.8 unit with this ability.
-
-  - This means it triggers 's twice.
-
-- The second slash can be interrupted by CC effects, by hitting an obstacle, or miss the target area if Benedetta is displaced, uses  or is moved by Cylone Eye.
-
+- Benedetta dashes backward 1.9 unit then forward 3.8 unit with this ability. This means it can trigger the passive twice.
+- The second slash can be interrupted by CC effects, by hitting an obstacle, or miss the target area if Benedetta is displaced, uses other skills, or is moved by external forces.
   - If the backward dash is obstructed by an obstacle, the front slash will be further.
 
 ## An Eye for An Eye
 
-Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8 seconds. After this, she stabs in the designated direction, dealing . If Benedetta successfully fends off any damage while defending, she will gain full . If she fends off any control effects, her subsequent stab stuns the target for 1.5 seconds.
+Benedetta raises her weapon to defend, gaining Control Immunity and blocking damage from any source for 0.8 seconds. After this, she stabs in the designated direction, dealing base damage based on level. If Benedetta successfully fends off any damage while defending, she will gain full Sword Intent. If she fends off any control effects, her subsequent stab stuns the target for 1.5 seconds.
 
-- Skill effects: Mobility, Buff
-- Term 1: Control Immunity
-- Term 2: Movement Speed
-- Term 3: Blink
-
-Level scaling:
-
-- Base Damage: 300 / 330 / 360 / 390 / 420 / 450
+- Cooldown: 15.0 / 14.4 / 13.8 / 13.2 / 12.6 / 12.0 seconds.
+- Mana cost: 100 / 105 / 110 / 115 / 120 / 125.
+- Level scaling: Base Damage: 300 / 330 / 360 / 390 / 420 / 450 (physical damage scaling).
+- Terms: Control Immunity, Movement Speed, Blink.
 
 Notes:
-
-- The stunning effect applies to all target hit in the area of effect.
-- Slowing, rooted, disarmed, and pulling effects alone does not trigger this skill's stunning effect despite the fact that these aforementioned effects are considered a control effect by definition.
-- This ability does not remove any ongoing control effects, nor evade Suppression, nor continuous CC effect such as Melissa's, but the damage and stun effect is still applied to the dash.
-- The dash is executed after the CC immune, so it cannot be used to escape certain abilities like Silvanna's or Cici's .
-- Sword Intent is full only if the damage taken is higher than 0. Which means some effects might prevent  from gaining Sword Intent.
-
-  - eg. When enemy  deals physical damage while  and  are simultaneously activated, the latter will prevent gaining Sword Intent.
-
-- Sometimes the voice line when Benedetta fends off damage is falsely played even when she fails to block damage.
+- The stunning effect applies to all targets hit in the area of effect.
+- Slowing, rooted, disarmed, and pulling effects alone do not trigger this skill's stunning effect despite being considered control effects by definition.
+- This ability does not remove any ongoing control effects, nor evade Suppression, nor continuous CC effects, but the damage and stun effect is still applied to the dash.
+- The dash is executed after the CC immunity, so it cannot be used to escape certain abilities that interrupt movement.
+- Sword Intent is considered full only if the damage taken while defending is higher than 0; some effects might prevent gaining Sword Intent.
+  - Example: when an enemy deals physical damage while two defensive effects are simultaneously activated, one might prevent gaining Sword Intent.
+- Sometimes the voice line for fending off damage is falsely played even when she fails to block damage.
 
 ## Alecto: Final Blow
 
-Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay,[duration needed] detonating the Sword Intent along the path. For 2.5 seconds, the Sword Intent deals up to a total of to enemies within and slows them by 50%.
+Benedetta clenches Alecto, dashes forward (Benedetta is untargetable during the dash), and performs a slash after a short delay, detonating the Sword Intent along the path. For 2.5 seconds, the Sword Intent deals continuous damage based on level and stats to enemies within the path and slows them by 50%.
 
-- Skill effects: Burst, Mobility
-- Term 1: Untargetable
-- Term 2: Movement Speed
-- Term 3: Blink
-
-Level scaling:
-
-- Base Damage: 1560 / 1820 / 2080
-
-Other scaling:
-
-- [secondary scale listed]: 120 / 140 / 160 (+85 extra PA)
-- Spellvamp ratio: 25%
+- Cooldown: 45.0 / 40.0 / 35.0 seconds.
+- Mana cost: 110 / 135 / 160.
+- Level scaling: Base Damage: 1560 / 1820 / 2080 (physical damage scaling). Additional scaling may apply based on attack stats.
+- Terms: Untargetable, Movement Speed, Blink.
+- Spellvamp ratio: 25%.
 
 Notes:
-
 - The range is approximately 7.5 unit.
-- is untargetable for 0.33 seconds.
-- The skill deals each 0.2 second interval to all enemies along the path, and can deal up to 13 times.
-
+- Benedetta is untargetable for approximately 0.33 seconds during the dash.
+- The skill deals damage at 0.2 second intervals to all enemies along the path, and can deal up to 13 instances of damage.
   - The first damage instance begins after she arrives at the other end.
-
 - Sword Intent is fully charged right after successful casting.
-- Does not go on cooldown if interrupted during the cast delay.
-- and any other ability order is queued after finishing dash.
-- will be applied to all enemies along the dash with proper timing.
-- can freely use equipments and battle spells when being untargetable, however the effect is only applied after arriving at the other end of the path.
+- The ultimate does not go on cooldown if interrupted during the cast delay.
+- Other ability orders are queued after finishing the dash.
+- The continuous damage will be applied to all enemies along the dash with proper timing.
+- Benedetta can use equipment and battle spells while untargetable, however their effects are only applied after arriving at the other end of the path.
 
 # Trivia
 
 - Benedetta is the 100th hero in the game according to the chronological release order on the Original Server. Brody is the 100th hero released on the Advanced Server.
 - The name Benedetta originates from Italian and derives from the Latin word benedictus, which means blessed. It is the feminine form of the name "Benedetto", a cognate of "Benedict".
-- Benedetta’s weapon is called Alecto, which is one of the Furies (vengeful spirits) from Greek mythology.
+- Benedetta’s weapon is called **Alecto**, which is one of the Furies (vengeful spirits) from Greek mythology.
 - Alecto: Final Blow is one of the longest dashes in MLBB, covering a huge distance while dealing continuous damage.
 - Benedetta is the only hero with all blink skills, even her passive is a blink dash. Most heroes stand still while attacking, but Benedetta can move while charging her passive attack, making her combat style very fluid.
 - She was named "Bella" during her early development stage.
