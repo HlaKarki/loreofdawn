@@ -140,7 +140,7 @@ Bane thundered at the petrified crew in a stony voice, as the monsters behind hi
 
 With the return of Bane, the pirate ship once again returned to normal, but those ugly and horrible sea monsters still leave the pirates trembling with fear. But there is no denying that these monsters must be a bunch of great helpers in the fights to come.
 
-## The New Ship
+### The New Ship
 
 The fiendish pirate leader convulses, his fingers loosen, and drops his axe. Bane smiles and tightens his tentacle around the fat harpooner’s throat. The fugitive can’t fight back as all, and his face begins to swell purple. He swears in a vague voice.
 
@@ -178,7 +178,7 @@ A few days later, a huge and colorful ship suddenly appears on the Frozen Sea. H
 
 This is Bane's new ship, and it’s called “Ymir.”
 
-## The Nightwheel
+### The Nightwheel
 
 In front of him are the remains of a huge Toothed Mech-Shark. Franco and his crew discovered this monster a month ago, and have been chasing after it across half of the Frozen Sea, using up all their supplies to capture the monster.
 
@@ -234,7 +234,7 @@ Franco frowned, ignoring these irrational pirates. He turned southwards, looking
 
 Franco muttered.
 
-## The Storm
+### The Storm
 
 On the surface of the Frozen Sea, a storm is already brewing. The turbulent water formed a huge whirlpool, which spread up from the bottom of the sea.
 
@@ -460,7 +460,7 @@ Franco scratched his beard and was full of questions.
 
 Freya turned away, lost in thought.
 
-## Setting Sail
+### Setting Sail
 
 The Valkyries of Northern Vale live in Valhalla all the year round, and they never set foot in the outside world except to solve the disputes between tribes and take the souls of the dead.
 
@@ -576,7 +576,7 @@ Through the hard armor, Atlas met Freya's burning eyes. However, at this moment,
 
 With a low murmur, Atlas rushed forward without hesitation.
 
-## Crisis
+### Crisis
 
 Atlas keeps heading forward, pulling the iron ropes that could go unattached at any second from Bane’s ships. The pirate ships are going at full speed in the opposite direction to stop Atlas from breaking loose.
 
@@ -660,7 +660,7 @@ Freya looked at the crew who are still fighting, turned around and looked out in
 
 Freya took a deep breath, leaped high above from the bow and headed towards Bane and Aurora’s Heart.
 
-## The Final Battle
+### The Final Battle
 
 After a loud bang, Bane's body no longer expands, and Aurora’s Heart stopped energy surge. However, Freya is nowhere to be seen.
 
