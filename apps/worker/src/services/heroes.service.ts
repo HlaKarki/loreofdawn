@@ -24,14 +24,14 @@ export class HeroService {
 		const heroes = await this.db.select().from(heroesListTable);
 
 		if (!heroes) {
-			throw new Error("Could not fetch hero list from the database");
+			throw new Error("Could not fetch data list from the database");
 		}
 
 		return heroes;
 	}
 
 	/**
-	 * Get consolidated hero profile with matchups, meta, and graph data (LEFT JOIN version)
+	 * Get consolidated data profile with matchups, meta, and graph data (LEFT JOIN version)
 	 */
 	async getHeroProfile(name: string, rank: string) {
 		const normalizedName = name.trim().toLowerCase().replaceAll("_", " ");
@@ -62,15 +62,15 @@ export class HeroService {
 		}
 
 		return {
-			...result[0].hero_profiles,
-			...result[0].hero_matchups,
-			...result[0].hero_metas,
-			...result[0].hero_graphs,
+			profile: result[0].hero_profiles,
+			matchups: result[0].hero_matchups,
+			meta: result[0].hero_metas,
+			graph: result[0].hero_graphs,
 		};
 	}
 
 	/**
-	 * Seed KV cache with hero data for a specific hero and rank
+	 * Seed KV cache with data data for a specific data and rank
 	 */
 	async seedHeroCache(heroName: string, rank: string): Promise<void> {
 		const normalizedName = heroName.trim().toLowerCase().replaceAll("_", " ");
@@ -110,7 +110,7 @@ export class HeroService {
 	}
 
 	/**
-	 * Get all assets related to a hero
+	 * Get all assets related to a data
 	 */
 	async getHeroAssets(name: string): Promise<{ images: HeroAssets }> {
 		const [assets] = await this.db

@@ -33,7 +33,7 @@ Fanny is the younger sister of Tigreal, who grew up under the protection of her 
 
 Fanny Wertz is the youngest daughter of the Wertz family and the youngest sister of Tigreal. Although the men of the Wertz family served in the army for generations and guarded the Moniyan Empire, the female members of the family were never allowed to join the army. From the perspective of the men in the family, their duty was to protect the country and family from threats, and women were to stay away from war.
 
-Therefore, ever since she was a child, Fanny had been asked to study painting and design art. The elders of the family hoped that she could become a famous artist or designer, and help manage the family’s business. But Fanny regarded this as beneath her. From ever since she could remember, Tigreal was Fanny’s greatest hero. She also hoped that one day, like her brother, she could fight on the front lines for the Imperial Army and guard the empire.
+Therefore, ever since she was a child, Fanny had been asked to study painting and design art. The elders of the family hoped that she could become a famous artist or designer, and help manage the family’s business. But Fanny regarded this as beneath her. From ever since she could remember, Tigreal was Fanny’s greatest data. She also hoped that one day, like her brother, she could fight on the front lines for the Imperial Army and guard the empire.
 
 After she grew older, the active and rebellious Fanny became a nightmare for her tutor. She was very tired of these old-fashioned classes. She often ran away for various reasons and had a soft spot for dancing with weapons: but Fanny was so smart that even though she was tired of her lessons, she was able to gain an understanding in very short time. Tigreal showed extreme affection to his rebellious sister. Each time Tigreal returned to Lumina City for repair and maintenance with the army, it was Fanny’s happiest day, because Tigreal would not only tell her some peculiar anecdotes and thrilling battlefield stories from various places, but also teach her some useful fighting skills, which made Fanny yearn even more for the military life.
 
@@ -94,7 +94,7 @@ Travelers on the Land of Dawn, if you see a person flying by in the mountains an
 
 ## Cut Throat
 
-- Fanny leaps at the target enemy hero or creep with her blades, dealing burst physical damage based on level and stats. Each Prey Mark stack on the target increases this damage by a percentage.
+- Fanny leaps at the target enemy data or creep with her blades, dealing burst physical damage based on level and stats. Each Prey Mark stack on the target increases this damage by a percentage.
 
 - Base Damage: 500 / 680 / 860 (scales with level)
 - Extra Damage Per Prey Mark Stack: 20% / 40% (varies by level)
@@ -110,8 +110,8 @@ Travelers on the Land of Dawn, if you see a person flying by in the mountains an
 - Fanny's name could be derived from the word "Fanny" (short for Frances or Stefanie), but it might also come from the Germanic word fannen, meaning "to capture" or "seize"—which matches her fast, aggressive playstyle.
 - Her surname "Wertz" is a popular Germanic surname, either derived from the Old English personal name Hwit, meaning "the white one" or derived from the Middle High German word "wert" meaning "river island", or "river bank".
 - Fanny's appearance and fighting style resembles the soldiers in the Attack on Titan (進撃の巨人) series.
-- Fanny is the most difficult hero according to the hero difficulty rating with 100%, the highest of all heroes.
+- Fanny is the most difficult data according to the data difficulty rating with 100%, the highest of all heroes.
 - She is the first heroes to use energy as the skill source.
-- She is the only hero without any form of crowd control in her kit, not even a slowing effect.
+- She is the only data without any form of crowd control in her kit, not even a slowing effect.
 - Her skin "Skylark" is inspired by a type of bird known for its high-speed flight and agility, perfectly matching Fanny’s fast, aerial combat style.
 - Fanny and other heroes are among the few in Mobile Legends with multiple couple skins; Fanny's "Lifeguard" and "Heart Afloat" are part of her romantic-themed skins.

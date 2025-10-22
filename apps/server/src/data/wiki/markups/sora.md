@@ -1,9 +1,9 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Unfinished}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | name            = Sora
 | image           = 
 | full_name       = 
@@ -53,7 +53,7 @@
 |name            = Mystic Surge
 |skill-effect-1  = Buff
 |skill-effect-2  = 
-|description     = Sora gains 1 stack of {{link|Cloudstep}} each time he damages an enemy hero or their summons, lasting 5 seconds. At 5 stacks, he can ascend to {{link|Thunder}} or {{link|Torrent}} by using his Ultimate. After ascending, collecting 5 more stacks unlocks his True Art. <br> {{link|Thunder}}: Converts extra [[HP]] into 10% [[Physical Attack]], adopting an assassin style. <br> {{link|Torrent}}: Converts each point of bonus [[Physical Attack|Attack]] into 10 [[HP|Max HP]], adopting a tank style.
+|description     = Sora gains 1 stack of {{link|Cloudstep}} each time he damages an enemy data or their summons, lasting 5 seconds. At 5 stacks, he can ascend to {{link|Thunder}} or {{link|Torrent}} by using his Ultimate. After ascending, collecting 5 more stacks unlocks his True Art. <br> {{link|Thunder}}: Converts extra [[HP]] into 10% [[Physical Attack]], adopting an assassin style. <br> {{link|Torrent}}: Converts each point of bonus [[Physical Attack|Attack]] into 10 [[HP|Max HP]], adopting a tank style.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -118,7 +118,7 @@
 |skill-effect-1 = Mobility
 |skill-effect-2 = Damage
 |cooldown       = 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
-|description    = Sora leaps forward, dealing {{scale|base=200-300|total-pa=70|pd}}. If he hits an enemy hero or reaches max range, he slams the ground, dealing an additional {{scale|base=200-300|total-hp=10|pd}} and [[slowing]] them by 40% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
+|description    = Sora leaps forward, dealing {{scale|base=200-300|total-pa=70|pd}}. If he hits an enemy data or reaches max range, he slams the ground, dealing an additional {{scale|base=200-300|total-hp=10|pd}} and [[slowing]] them by 40% for 0.5 seconds. Hitting a data reduces the cooldown by 2 seconds.
 |properties     = *'''Base Damage:''' 200 / 220 / 240 / 260 / 280 / 300
 *'''Extra Damage:''' 200 / 220 / 240 / 260 / 280 / 300
 
@@ -130,7 +130,7 @@
 |skill-effect-1 = Mobility
 |skill-effect-2 = Damage
 |cooldown       = 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
-|description    = Sora leaps forward, dealing {{scale|base=200-300|total-pa=70|pd}}, then summons a thunderstorm that hits for {{scale|base=200-300|total-hp=10|pd}} and [[slowing]] them by 50% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
+|description    = Sora leaps forward, dealing {{scale|base=200-300|total-pa=70|pd}}, then summons a thunderstorm that hits for {{scale|base=200-300|total-hp=10|pd}} and [[slowing]] them by 50% for 0.5 seconds. Hitting a data reduces the cooldown by 2 seconds.
 |properties     = *'''Base Damage:''' 200 / 220 / 240 / 260 / 280 / 300
 *'''Extra Damage:''' 200 / 220 / 240 / 260 / 280 / 300
 
@@ -142,7 +142,7 @@
 |skill-effect-1 = Mobility
 |skill-effect-1 = Damage
 |cooldown       = 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
-|description    = Sora leaps forward, dealing {{scale|base=200-300|total-pa=70|pd}} and [[knocked back|knocking enemies back]] to the landing point. He then smashes the ground and deals {{scale|base=200-300|total-hp=10|pd}}, knocking enemies [[airborne]] for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
+|description    = Sora leaps forward, dealing {{scale|base=200-300|total-pa=70|pd}} and [[knocked back|knocking enemies back]] to the landing point. He then smashes the ground and deals {{scale|base=200-300|total-hp=10|pd}}, knocking enemies [[airborne]] for 0.5 seconds. Hitting a data reduces the cooldown by 2 seconds.
 |properties     = *'''Base Damage:''' 200 / 220 / 240 / 260 / 280 / 300
 *'''Extra Damage:''' 200 / 220 / 240 / 260 / 280 / 300
 }}
@@ -194,7 +194,7 @@
 Battle Emote - Sweet Smile.png|'''Sweet Smile'''<br>Obtained via the S33 story "Tales of Zhuxin".
 </gallery>
 
-=== "The Unpredictable Zhuxin" hero series stickers ===
+=== "The Unpredictable Zhuxin" data series stickers ===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="100" hideaddbutton="true">
 </gallery>
 

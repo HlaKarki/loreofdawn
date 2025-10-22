@@ -94,7 +94,7 @@ When Carmilla is nearby, Cecilion can call her into a form possessed by him for 
 - Base Shield and Magic Damage (scales with Carmilla's level): 220 / 240 / 260 / 280 / 300 / 320 / 340 / 360 / 380 / 400 / 420 / 440 / 460 / 480 / 500
 
 Notes:
-- Cecilion will be unable to use this if an allied hero bought a certain item in the Shop.
+- Cecilion will be unable to use this if an allied data bought a certain item in the Shop.
 - Carmilla's non-Ultimate skills' cooldowns will reset after she casts this skill.
 
 # Trivia

@@ -1,6 +1,6 @@
 # Profile
 
-He is based on the character with the same name in *Garudayana* comics by Is Yuniarto, making him the first and currently the only hero in *MLBB* that is based on an intellectual property.
+He is based on the character with the same name in *Garudayana* comics by Is Yuniarto, making him the first and currently the only data in *MLBB* that is based on an intellectual property.
 
 Stats (Level 1 / Level 15):
 - HP: 2629 / 5569
@@ -40,7 +40,7 @@ The son of Bima and Arimbi from the Arcadhem Universe. When he was a child, he b
 Gatotkaca gains Physical Defense equal to 2% of his lost HP (up to 100). For every 300 damage he takes (calculated before damage reduction), he gains 5 Rage (up to 100). Upon reaching over 25 Rage, Gatotkaca's next Basic Attack becomes enhanced, consuming all Rage to deal extra Magic Damage and recover. The extra damage scales with his Rage, level, and Magic Power.
 
 Formulas and notes:
-- Enhanced basic ATK DMG = 100% total physical ATK + 200% total magic power + total rage × (10 + (0.2 × hero level)).
+- Enhanced basic ATK DMG = 100% total physical ATK + 200% total magic power + total rage × (10 + (0.2 × data level)).
 - Healing effect = 8 × rage.
 - Rage range considered: between 25 and 100 for enhanced attack activation.
 
@@ -107,5 +107,5 @@ Notes:
 # Trivia
 
 - Gatotkaca is based on *Bharatayuddha*, a Javanese adaptation of the Sanskrit epic *Mahabharata*. According to the *Garudayana*'s creator, Is Yuniarto, his design is inspired by wayang, a traditional Javanese shadow puppet theater. Wayang is used in retelling epic stories, including Bharatayuddha.
-- His most recent skin, "Tide Preserver," was released on January 8, 2024, making him the hero who received the skin after the longest period of time, 1745 days, since the previous skin "Spark," which was released on March 30, 2019.
+- His most recent skin, "Tide Preserver," was released on January 8, 2024, making him the data who received the skin after the longest period of time, 1745 days, since the previous skin "Spark," which was released on March 30, 2019.
 - His voiceline "Om Telolet Om" references a social media meme that depicts Indonesian youths' excitement when a bus driver honks a modified horn in a rhythmic manner as they pass by.

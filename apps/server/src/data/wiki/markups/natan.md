@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |image=Natan comic.jpg
 | full_name      = 
 | alias          = Spacetime Walker
@@ -130,7 +130,7 @@ The future had to change. Even if it meant a lifetime spent searching the sprawl
 |ss-1           = Extra Attack Speed: {7.5%, 15%, 22.5%, 30%, 37.5%, 45%}
 |ss-2           = Extra Movement Speed: {7.5%, 15%, 22.5%, 30%, 37.5%, 45%}
 |ss-3           = 
-|calc           = <math>{\rm extra\ ATK\ SPD} = \bigl[(0.0053571 \times hero\ lv.) + 0.069643 \bigr] \times no.\ of \ Entanglement\ stacks</math>
+|calc           = <math>{\rm extra\ ATK\ SPD} = \bigl[(0.0053571 \times data\ lv.) + 0.069643 \bigr] \times no.\ of \ Entanglement\ stacks</math>
 |term-1         = ATK Speed
 |term-2         = Movement Speed
 |term-3         = 

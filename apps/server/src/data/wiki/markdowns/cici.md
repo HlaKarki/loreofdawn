@@ -152,7 +152,7 @@ And so the curtain falls.
 
 - Type: Burst
 - Duration: 3.5 seconds
-- Description: Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5 seconds, hitting them up to 10 times. Each hit deals damage based on skill level and Cici's stats, and additionally deals a percentage of the target's Max HP per hit. Cici can move and use other skills during this attack. If there's no enemy hero within range, Yoyo will attack Turrets or the Base instead. The skill deals 20% extra damage to Minions.
+- Description: Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5 seconds, hitting them up to 10 times. Each hit deals damage based on skill level and Cici's stats, and additionally deals a percentage of the target's Max HP per hit. Cici can move and use other skills during this attack. If there's no enemy data within range, Yoyo will attack Turrets or the Base instead. The skill deals 20% extra damage to Minions.
 
 - Level scaling:
   - Base Damage: 60 / 65 / 70 / 75 / 80 / 85
@@ -173,7 +173,7 @@ And so the curtain falls.
 
 - Type: Crowd Control / Slow
 - Cooldown by level: 36.0 / 32.0 / 28.0 seconds
-- Description: Cici throws Yoyo at the target enemy hero and links them with another nearby enemy hero, dealing damage based on level and Cici's stats, slowing them by 30%, and pulling them together. During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the same time. If only one is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced according to the decay ratio.
+- Description: Cici throws Yoyo at the target enemy data and links them with another nearby enemy data, dealing damage based on level and Cici's stats, slowing them by 30%, and pulling them together. During this time, Cici can use Yo-Yo Blitz to attack both linked targets at the same time. If only one is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced according to the decay ratio.
 
 - Level scaling: Decay Ratio: 20% / 25% / 30%
 

@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero
+{{Infobox data
 }}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | image          = Valentina comic.jpg
 | full_name      = Valentina, Duchess Paxley (formerly)
 | alias          = *Prophetess of the Night
@@ -57,7 +57,7 @@ As she grew older, she went to the frontier and helped the house repel wave afte
 
 The news of victories in Lantis Mountains became the only thing that could put the civilians' minds at ease. As a result, House Paxley rose quickly among the nobles, while Valentina became the youngest and only female member of the house council.
 
-In search of allies, Valentina went alone to Moonlit Forest despite the Empire's prolonged hostility toward the Elves. The [[Estes|Elf King, Estes]], refused Valentina's request, saying the Elves had no interest in humans' warfare. An Elf hero named Irlan, however, was moved by Valentina's sincere words. Unlike Estes, he believed with the fall of the human empire, the demise of Moonlit Forest would also be imminent.
+In search of allies, Valentina went alone to Moonlit Forest despite the Empire's prolonged hostility toward the Elves. The [[Estes|Elf King, Estes]], refused Valentina's request, saying the Elves had no interest in humans' warfare. An Elf data named Irlan, however, was moved by Valentina's sincere words. Unlike Estes, he believed with the fall of the human empire, the demise of Moonlit Forest would also be imminent.
 
 A few heated words were exchanged, after which Irlan followed Valentina out of Moonlit Forest with his friends.
 
@@ -117,7 +117,7 @@ Since then, Valentina had been hiding among the shadows, silently waiting for th
 |term-1             =
 |term-2             =
 |term-3             =
-|description        = Valentina gains 8&ndash;50 extra [[EXP]] each time she deals damage to an enemy hero. Cooldown: 2 seconds.<br>If the enemy hero's level isn't higher than Valentina's, 30% of the damage dealt is converted into her [[HP]]. The EXP scales with Valentina's level.
+|description        = Valentina gains 8&ndash;50 extra [[EXP]] each time she deals damage to an enemy data. Cooldown: 2 seconds.<br>If the enemy data's level isn't higher than Valentina's, 30% of the damage dealt is converted into her [[HP]]. The EXP scales with Valentina's level.
 |ls-1               = EXP Increase: 8 / 11 / 14 / 17 / 20 / 23 / 26 / 29 / 32 / 35 / 38 / 41 / 44 / 47 / 50
 |ls-2               = 
 |ls-3               = 
@@ -125,7 +125,7 @@ Since then, Valentina had been hiding among the shadows, silently waiting for th
 |ss-1               = 
 |ss-2               = 
 |ss-3               = 
-|calc               = <math>{\rm EXP\ received} = 12.5 + (2.5 \times hero\ level)</math><br><math>{\rm HP\ regen} = damage\ dealt \times \bigl[30% + (2% \times hero\ level) \bigr]</math>
+|calc               = <math>{\rm EXP\ received} = 12.5 + (2.5 \times data\ level)</math><br><math>{\rm HP\ regen} = damage\ dealt \times \bigl[30% + (2% \times data\ level) \bigr]</math>
 |notes              = *The {{b|Magic Damage}} dealt by Valentina's own skills only benefits 30% of her {{b|Magic Lifesteal}}.
 *Fully gain EXP when the damage is from [[emblem]], [[battle spell]]s, [[basic attack]]s but not on non-minion enemies, such as summons.
 *Damage from battle spells and equipment cannot be converted to HP.
@@ -190,7 +190,7 @@ Since then, Valentina had been hiding among the shadows, silently waiting for th
 |term-1          = Movement Speed
 |term-2          = Physical ATK
 |term-3          = Healing Effect
-|description    = Valentina [[slows]] the target enemy hero by 70% for 0.5 seconds and gains the ability to cast their [[Ultimate]]. Casting the enemy's Ultimate turns Valentina into the enemy hero's form and allows her to inherit their [[Basic Attack]] type for up to 12 seconds. Her regular skills remain unchanged, unless the enemy's Ultimate has a Morph effect.<br>The stolen Ultimate's level will be equal to Valentina's level and the [[cooldown]] will be 120%&ndash;100% of the target's cooldown (but not lower than 10 seconds). Valentina gains {{scale|total-mp=100}} {{B|Physical Attack}} for the duration if the enemy is a Physical Damage hero. This cannot be used on an enemy Valentina.
+|description    = Valentina [[slows]] the target enemy data by 70% for 0.5 seconds and gains the ability to cast their [[Ultimate]]. Casting the enemy's Ultimate turns Valentina into the enemy data's form and allows her to inherit their [[Basic Attack]] type for up to 12 seconds. Her regular skills remain unchanged, unless the enemy's Ultimate has a Morph effect.<br>The stolen Ultimate's level will be equal to Valentina's level and the [[cooldown]] will be 120%&ndash;100% of the target's cooldown (but not lower than 10 seconds). Valentina gains {{scale|total-mp=100}} {{B|Physical Attack}} for the duration if the enemy is a Physical Damage data. This cannot be used on an enemy Valentina.
 |ls-1           = CD Rate: 120% / 110% / 100%
 |ls-2           = Skill Level: 1 / 2 / 3
 |ls-3           = Steal Range<ref>[[Patch Notes 1.7.44]]</ref>: 7
@@ -200,20 +200,20 @@ Since then, Valentina had been hiding among the shadows, silently waiting for th
 |ss-3           = 
 |notes          = *{{b|Cooldown}} starts when the duration of this skill ends, or through manual cancellation.
 *The target enemy will have a back-animation indicating that enemy {{hi|Valentina}} is possessing their ability and has not yet used it. The indicator vanishes if the ability is used or cancelled.
-*If {{hi|Valentina}} turned into the enemy hero's form, neither of her nor the copied hero's voice lines will play.
-*Siphoning an enemy hero can also copy their equipped skin and its skin effects.
-*Regardless of the form of the target hero, {{hi|Valentina}} can only copy the default/1st phase of the ultimates. (e.g., you can only copy {{hi|Roger}}'s {{ai|Wolf Transformation}}―not {{ai|Restore Human Form}}―even if he is in Wolf Form.)
+*If {{hi|Valentina}} turned into the enemy data's form, neither of her nor the copied data's voice lines will play.
+*Siphoning an enemy data can also copy their equipped skin and its skin effects.
+*Regardless of the form of the target data, {{hi|Valentina}} can only copy the default/1st phase of the ultimates. (e.g., you can only copy {{hi|Roger}}'s {{ai|Wolf Transformation}}―not {{ai|Restore Human Form}}―even if he is in Wolf Form.)
 *Ultimates that require activation from their non-Ultimates such as {{hi|Wanwan}}'s {{ai|Crossbow of Tang}} and {{hi|Fredrinn}}'s {{ai|Energy Eruption}} can be use immediately by Valentina.
 **However, siphoning enemy {{hi|Hilda}} also contains their respective stacks, strengthening the stolen Ultimate.
 {{ai|I am You}}
 *For {{hi|Phoveus}}, the ultimate is always greyed out, but when tapping the ultimate button, {{hi|Valentina}} can switch to his form with the entire skill set.
-*{{hi|Valentina}} cannot inherit Attack Speed Ratio from a copied hero.
-*BUFFs, stacks and summoned units that came from the copied hero will disappear as the skill duration ends or when {{hi|Valentina}} manually cancels it. {{hi|Valentina}}'s death cancels the copy immediately, which also cancels in return.
+*{{hi|Valentina}} cannot inherit Attack Speed Ratio from a copied data.
+*BUFFs, stacks and summoned units that came from the copied data will disappear as the skill duration ends or when {{hi|Valentina}} manually cancels it. {{hi|Valentina}}'s death cancels the copy immediately, which also cancels in return.
 *For {{hi|Lukas}}, {{hi|Valentina}} will copy the current availability of {{ai|Unleash the beast}} as well as his current amount of {{ai|Hero's Resolve}} and can normally gain it from her damage.
 **{{ai|I am You}} begins cooldown (from a maximum of 10 seconds) as soon as the ability is cast.
 **Her [[attack range]] is set to 2.6 as {{hi|Lukas}}.
 *{{ai|Basic Attack|Physical Basic Attacks}} does not benefit from extra {{AVC1|Physical Attack}}.
-*When the description of the stolen Ultimate says "basic attack" or "skill," it only refers to the copied hero's basic attacks and skills (including non-Ultimates); thus, {{hi|Valentina}}'s skills are not included in the definition.
+*When the description of the stolen Ultimate says "basic attack" or "skill," it only refers to the copied data's basic attacks and skills (including non-Ultimates); thus, {{hi|Valentina}}'s skills are not included in the definition.
 *For {{hi|Leomord}}, {{hi|Valentina}} gains all of his basic abilities before {{ai|Phantom Steed}} reaches her, which grants her the set of enhanced abilities.
 |bugs=*Any emote used just before the manual cancellation of the ability will be replayed.}}
 
@@ -259,10 +259,10 @@ Fate Deniers- The Pact - Valentina Animated Trailer - Mobile Legends-Bang Bang
 </gallery>
 
 == Trivia ==
-*She is the first hero that is able to copy an enemy's skill.
-*She is the first hero that has an ability related to the experience level.
-*If both the ally and opposing teams pick the same hero, she may participate in duplicated hero forms at the same time, such as double {{hi|Angela}}, {{hi|Faramis}}, {{hi|Johnson}}, and so on. Stacking up ultimate skill effects that are not possible in normal matches.
-*Due to a bug prior to [[Patch Notes 1.6.42|Patch 1.6.42]], she could copy the hero's icons in battle.{{cite}} 
+*She is the first data that is able to copy an enemy's skill.
+*She is the first data that has an ability related to the experience level.
+*If both the ally and opposing teams pick the same data, she may participate in duplicated data forms at the same time, such as double {{hi|Angela}}, {{hi|Faramis}}, {{hi|Johnson}}, and so on. Stacking up ultimate skill effects that are not possible in normal matches.
+*Due to a bug prior to [[Patch Notes 1.6.42|Patch 1.6.42]], she could copy the data's icons in battle.{{cite}} 
 *She is postponed for both platforms, because the [[Patch Notes 1.6.34|Patch 1.6.34]] update is delayed from its original scheduled release from 23 November 2021 to 24 November 2021 for [[wikipedia:Android (operating system)|Android]] and the 1.6.34 update for [[wikipedia:IOS|iOS]] [including Valentina herself for both platforms] are postponed to 25 November 2021 due to [[wikipedia:App Store|App Store]] delaying the response time of the app review process, causing upcoming events to be postponed including Valentina-related events, the 2021 Starlight Fest, Black Friday Leaderboard, and the Black Friday Lucky Star.<ref>Arijit (2021-4-30). [https://gamingonphone.com/author/arijit/ "Mobile Legends Patch 1.6.34 postponed: Valentina release, Black Friday events delayed"] Retrieved 2022-05-01 – via www.gamingonphone.com.</ref>
 ==References==
 {{Reflist}}

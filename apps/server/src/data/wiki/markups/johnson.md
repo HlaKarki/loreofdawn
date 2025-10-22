@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|physical_def1=27|physical_def15=139|magic_def1=15|magic_def15=71}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image=
 |full_name      = 
 |chinese_name   = 强森 (qiángshēn)
@@ -222,7 +222,7 @@ Base Damage: 80 / 100 / 120 / 140 / 160 / 180
 |mana-cost       = 
 |energy-cost     = 
 |quote           = 
-|description     = Johnson transforms into a car and begins accelerating over time. An allied hero can use {{B|Hop In|e}} when near Johnson to board the car (only 1 allied hero can ride with Johnson). The car will explode upon hitting an enemy hero or obstacle, dealing {{scale|base=300-400|total-mp=160|md}}&ndash;{{scale|base=450-600|total-mp=280|md}} to nearby enemies. [[stunning]] them for 0.5&ndash;1 second (scales with the car's speed before impact),<sup>[''speed unknown'']</sup> and creating an electrified zone at the location. The zone continuously deals {{scale|base=60-80|total-mp=20|md}} and [[slows]] enemies within. While in car state, tap {{ai|Brake}} to stop immediately or hold {{ai|Nitrous}} to continuously gain speed for up to 5 seconds. Johnson's location will be
+|description     = Johnson transforms into a car and begins accelerating over time. An allied data can use {{B|Hop In|e}} when near Johnson to board the car (only 1 allied data can ride with Johnson). The car will explode upon hitting an enemy data or obstacle, dealing {{scale|base=300-400|total-mp=160|md}}&ndash;{{scale|base=450-600|total-mp=280|md}} to nearby enemies. [[stunning]] them for 0.5&ndash;1 second (scales with the car's speed before impact),<sup>[''speed unknown'']</sup> and creating an electrified zone at the location. The zone continuously deals {{scale|base=60-80|total-mp=20|md}} and [[slows]] enemies within. While in car state, tap {{ai|Brake}} to stop immediately or hold {{ai|Nitrous}} to continuously gain speed for up to 5 seconds. Johnson's location will be
 revealed to the enemy for 3 seconds when casting this skill.<br>{{B|Passive:|e}} Johnson's [[Physical Defense]] is increased by 10%&ndash;30%.
 |term-1          = Charge
 |term-2          = Stun
@@ -246,9 +246,9 @@ Sustained Damage: 60 / 70 / 80
 <!--
 |bugs           = Johnson's {{ai|Rapid Touchdown}} is among the most bugged skills in the game. Below are the list of known bugs:
 * If {{hi|Carmilla}} tries to ride Johnson while under effect of {{hi|Cecilion}}'s {{ai|Moonlit Waltz}}, causing her to be invisible until she does something. In the other hand, Cecilion cannot ride Johnson as he can only carry one passenger inside of him.
-* If Johnson taps Brake multiple times rapidly before crashing to an enemy hero, a bug may occur where his ultimate's damage triggers multiple times.
+* If Johnson taps Brake multiple times rapidly before crashing to an enemy data, a bug may occur where his ultimate's damage triggers multiple times.
 * Under extreme circumstances, Johnson may accelerate and adopt his car abilities without becoming a car, creating a hilarious scene where the Mustang appears as if he's running incredibly fast.
-* A visual bug may occur where Johnson's car drives backwards if he turns into a car in the middle of approaching an enemy hero to perform basic attack. This bug has since been fixed.-->
+* A visual bug may occur where Johnson's car drives backwards if he turns into a car in the middle of approaching an enemy data to perform basic attack. This bug has since been fixed.-->
 }}
 |-|Car=
 {{Ability

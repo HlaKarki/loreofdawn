@@ -66,9 +66,9 @@ Time passes, never to return. No matter human or angel, none can turn back the h
 
 ## Divine Resurrection
 
-At regular intervals, Rafaela can use a special skill to instantly resurrect a fallen allied hero after a brief channeling. The resurrected allied hero will respawn at the base and is granted increased Movement Speed.
+At regular intervals, Rafaela can use a special skill to instantly resurrect a fallen allied data after a brief channeling. The resurrected allied data will respawn at the base and is granted increased Movement Speed.
 
-This skill's cooldown is determined by both its base cooldown and the remaining respawn time of the revived hero. It is not affected by Cooldown Reduction.
+This skill's cooldown is determined by both its base cooldown and the remaining respawn time of the revived data. It is not affected by Cooldown Reduction.
 
 ## Light of Retribution
 
@@ -94,11 +94,11 @@ Extra movement SPD = 30% + (0.05% × magic power), where magic power ≤ 1000
 - Mana cost (per level): 100 / 110 / 120 / 130 / 140 / 150
 - Cooldown (per level): 10.5 / 10.1 / 9.7 / 9.3 / 8.9 / 8.5
 
-Rafaela calls upon Holy Light, restoring health to nearby allied heroes, and additionally healing herself and the most injured allied hero in range. Also increases Movement Speed of nearby allied heroes by 30% and grants Slow Immunity for 1 second. Every 20 points of magic power will add 1% to the Movement Speed bonus, up to 80%.
+Rafaela calls upon Holy Light, restoring health to nearby allied heroes, and additionally healing herself and the most injured allied data in range. Also increases Movement Speed of nearby allied heroes by 30% and grants Slow Immunity for 1 second. Every 20 points of magic power will add 1% to the Movement Speed bonus, up to 80%.
 
 Properties:
 - Basic Healing values may vary by level.
-- Secondary heal applies to the single most injured allied hero in range.
+- Secondary heal applies to the single most injured allied data in range.
 - Movement Speed increase scales with magic power up to 80% at high magic power values.
 
 ## Holy Baptism

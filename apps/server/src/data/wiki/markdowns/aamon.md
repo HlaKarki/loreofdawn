@@ -1,6 +1,6 @@
 # Profile
 
-He is the first hero listed alphabetically.
+He is the first data listed alphabetically.
 
 **Full Name:** Aamon Paxley
 

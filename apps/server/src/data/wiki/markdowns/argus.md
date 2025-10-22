@@ -93,7 +93,7 @@ Notes:
 
 ## Demonic Grip
 
-Argus stretches out a demonic hand in the target direction, dealing scaling physical damage to the first enemy hero or creep hit, stunning them for 0.7 seconds and pulling him and the target towards each other. If no enemy is hit, Argus pulls himself towards the destination instead.
+Argus stretches out a demonic hand in the target direction, dealing scaling physical damage to the first enemy data or creep hit, stunning them for 0.7 seconds and pulling him and the target towards each other. If no enemy is hit, Argus pulls himself towards the destination instead.
 
 Use Again: Argus dashes and strikes in the target direction, dealing additional scaling physical damage to enemies along the path.
 
@@ -110,7 +110,7 @@ After a short delay, Argus thrusts his Demonic Blade in the target direction, de
 Meteoric Sword counts as Basic Attack damage and can trigger Attack Effects. Hitting heroes restores 100 Malice Energy (excess is preserved).
 
 - Base Damage (per rank): 120 / 144 / 168 / 192 / 216 / 240 (physical damage)
-- Minion damage: scaling physical damage to minions (reduced or separate scaling applies to non-hero targets)
+- Minion damage: scaling physical damage to minions (reduced or separate scaling applies to non-data targets)
 - Slow: 80% for 0.8 seconds
 
 Notes:

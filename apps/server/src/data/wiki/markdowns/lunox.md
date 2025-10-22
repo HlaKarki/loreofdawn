@@ -120,7 +120,7 @@ Lunox is twisted by the powers of Chaos and Order. She can choose between the Po
 # Trivia
 
 - Lunox' name is a portmanteau of two Latin words lumos and nox, respectively "light" and "dark" in English.
-- Her old hero title is named "the Enlightened One", in reference to the name of Buddha.
+- Her old data title is named "the Enlightened One", in reference to the name of Buddha.
 - She is the main protagonist of the Determination event along with Belerick.
 - Lunox's Light and Darkness concept was reused for Luo Yi.
 - Her complementary "Bloody Mary" skin is a reference to Mary I of England; the name also refers to a popular drink.

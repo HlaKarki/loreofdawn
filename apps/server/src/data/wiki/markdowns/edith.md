@@ -2,7 +2,7 @@
 
 She was released as a part of the M3 World Championship-related events.
 
-Players had a chance to redeem the hero for free for a limited time.
+Players had a chance to redeem the data for free for a limited time.
 
 - Alias: *Ancient Guard*, *Forsaken Warden*, *Primal Warden*
 - Chinese name: 伊童 (yītóng) - Edith 菲莱克斯 (Fēiláikèsī) - Phylax
@@ -147,14 +147,14 @@ Divine Retribution
 
 Onward
 
-- Edith controls Phylax to charge in the target direction, dealing physical damage based on level and stats to enemies along the way. If Phylax hits an enemy hero during this process, it will stop immediately and throw them over its shoulder, dealing additional physical damage and applying Airborne.
+- Edith controls Phylax to charge in the target direction, dealing physical damage based on level and stats to enemies along the way. If Phylax hits an enemy data during this process, it will stop immediately and throw them over its shoulder, dealing additional physical damage and applying Airborne.
 - Base Damage (per level): 90 / 100 / 110 / 120 / 130 / 140.
 - Cooldown: 10.0 seconds.
 - Term: Charge. Airborne. Physical Damage Skill.
 
 Lightning Bolt
 
-- Edith fires a Lightning Bolt in a designated direction, dealing magic damage based on level and stats to the first enemy hero hit and immobilizing them for 0.8 seconds.
+- Edith fires a Lightning Bolt in a designated direction, dealing magic damage based on level and stats to the first enemy data hit and immobilizing them for 0.8 seconds.
 - Base Damage (per level): 150 / 180 / 210 / 240 / 270 / 300.
 - Cooldown: 10.0 seconds.
 - Term: Immobilize. Magic Damage Skill.
@@ -191,12 +191,12 @@ Primal Wrath
 # Trivia
 
 - Edith is a feminine given name derived from the Old English word ēad, meaning wealth or prosperity, in combination with the Old English gȳð, meaning strife or war. Her name would technically mean "prosperous in war".
-- Edith is the first hero to have the Tank/Marksman role.
-- Edith was the 9th hero who was given to players for free on release. The other free heroes are, , , , , , and.
-- She is currently the only hero who does not have Attack speed growth.
-- Aside from Brody, Edith is the only hero who doesn't wield any weapon.
+- Edith is the first data to have the Tank/Marksman role.
+- Edith was the 9th data who was given to players for free on release. The other free heroes are, , , , , , and.
+- She is currently the only data who does not have Attack speed growth.
+- Aside from Brody, Edith is the only data who doesn't wield any weapon.
 - In Ancient Greek, *phylax* (φύλαξ) means “watcher, guard, sentinel, guardian, keeper, or protector”.
 - Phylax was first introduced in advanced server. It was later revealed that Edith was alongside it from leaks and early-access servers.
-- According to Phylax' old hero feature ("An ancient machine guard that executes any trespassers on the Sanctuary Island"), it is described as an executioner to any trespassers. Phylax/Edith were also supposed to come from Sanctuary Island, which it was named later as Sanctum Island.
+- According to Phylax' old data feature ("An ancient machine guard that executes any trespassers on the Sanctuary Island"), it is described as an executioner to any trespassers. Phylax/Edith were also supposed to come from Sanctuary Island, which it was named later as Sanctum Island.
 - In addition, Phylax is described as an Ancient Machine rather than an Ancient Guard before indicating that Phylax is primarily focused.
 - Edith was supposed to be released on December 21, 2021 along with Patch Notes 1.6.42, but it was postponed until it was finally released on December 24, 2021.

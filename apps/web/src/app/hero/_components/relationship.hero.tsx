@@ -1,21 +1,21 @@
 import Image from "next/image";
-import type { ConsolidatedHero } from "@repo/database";
+import type { MlHeroProfile } from "@repo/database";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { tidyLabel } from "@/lib/utils";
 import { resolveImageSrc } from "@/app/hero/_components/header.hero";
 
-export const HeroRelationship = ({ hero }: { hero: ConsolidatedHero }) => {
+export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 	return (
 		<div className="mb-6 grid gap-6 lg:grid-cols-3">
 			{/* Strong Against */}
-			{hero.relation?.strong_against?.length > 0 && (
+			{data.relation?.strong_against?.length > 0 && (
 				<Card>
 					<CardHeader>
 						<CardTitle>Strong Against</CardTitle>
 						<CardDescription>Heroes this hero counters</CardDescription>
 					</CardHeader>
 					<CardContent className="space-y-3">
-						{hero.relation.strong_against.map((relation, idx) => (
+						{data.relation.strong_against.map((relation, idx) => (
 							<div key={idx}>
 								<p className="mb-2 text-sm text-muted-foreground">{relation.description}</p>
 								<div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
@@ -46,14 +46,14 @@ export const HeroRelationship = ({ hero }: { hero: ConsolidatedHero }) => {
 			)}
 
 			{/* Weak Against */}
-			{hero.relation?.weak_against?.length > 0 && (
+			{data.relation?.weak_against?.length > 0 && (
 				<Card>
 					<CardHeader>
 						<CardTitle>Weak Against</CardTitle>
 						<CardDescription>Heroes that counter this hero</CardDescription>
 					</CardHeader>
 					<CardContent className="space-y-3">
-						{hero.relation.weak_against.map((relation, idx) => (
+						{data.relation.weak_against.map((relation, idx) => (
 							<div key={idx}>
 								<p className="mb-2 text-sm text-muted-foreground">{relation.description}</p>
 								<div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
@@ -84,14 +84,14 @@ export const HeroRelationship = ({ hero }: { hero: ConsolidatedHero }) => {
 			)}
 
 			{/* Compatible With */}
-			{hero.relation?.compatible_with?.length > 0 && (
+			{data.relation?.compatible_with?.length > 0 && (
 				<Card>
 					<CardHeader>
 						<CardTitle>Compatible With</CardTitle>
 						<CardDescription>Heroes that synergize well</CardDescription>
 					</CardHeader>
 					<CardContent className="space-y-3">
-						{hero.relation.compatible_with.map((relation, idx) => (
+						{data.relation.compatible_with.map((relation, idx) => (
 							<div key={idx}>
 								<p className="mb-2 text-sm text-muted-foreground">{relation.description}</p>
 								<div className="grid grid-cols-4 gap-2 sm:grid-cols-5">

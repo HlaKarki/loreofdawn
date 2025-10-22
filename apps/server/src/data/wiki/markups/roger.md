@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats|hp1=2530}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |full_name      = 
 |chinese_name   = 罗杰 (luójié)
 |alias          = Dire Wolf Hunter
@@ -150,9 +150,9 @@ The evil powers were dark enough to prevent even a man with the purest of heart
 |mana-cost          = 50 / 55 / 60 / 65 / 70 / 75
 |energy-cost        = 
 |quote              = 
-|description        = Roger lets out a howl, increasing his [[Attack Speed]] to 1.15&ndash;1.4 times for 5 seconds. Within this duration, he gains 50% [[Movement Speed]] if an enemy hero below 40% {{B|HP}} is within his [[vision]].
+|description        = Roger lets out a howl, increasing his [[Attack Speed]] to 1.15&ndash;1.4 times for 5 seconds. Within this duration, he gains 50% [[Movement Speed]] if an enemy data below 40% {{B|HP}} is within his [[vision]].
 |properties         = *'''Base Damage:''' 1.15 / 1.2 / 1.25 / 1.30 / 1.35 / 1.40
-|calc               = <math>\mathrm{total ATK\ SPD} = (base\ ATK\ SPD + extra\ ATK\ SPD) \times \bigl[1.10 + (5 \times hero\ lv.) \bigr]</math>
+|calc               = <math>\mathrm{total ATK\ SPD} = (base\ ATK\ SPD + extra\ ATK\ SPD) \times \bigl[1.10 + (5 \times data\ lv.) \bigr]</math>
 |term-1             = Attack Speed
 |term-2             = Movement Speed
 |term-3             = 
@@ -255,7 +255,7 @@ Mobile Legends- Bang bang! New HeroMobile Legends- Bang bang! -Dire Wolf Hunter 
 
 ==Trivia==
 *The name Roger has Germanic origins and means "famous spear" or "renowned warrior." It comes from the Old High German name Hrodger, which is composed of two elements:"hrod" meaning "fame" or "glory" and "ger" meaning "spear".
-*Roger is currently the only [[Fighter]]/[[Marksman]] hybrid hero in MLBB, known for his ability to switch between human and werewolf forms.
+*Roger is currently the only [[Fighter]]/[[Marksman]] hybrid data in MLBB, known for his ability to switch between human and werewolf forms.
 *Roger's character is the amalgamation of both the Huntsman and the Big Bad Wolf from ''[[wikipedia:Little Red Riding Hood|Little Red Riding Hood]]'', similarly to {{hi|Ruby}} whom she is based on the titular character.
 *Roger smokes a cigar on his initial release but was removed to comply with <i>MLBB</i>'s age ratings. His in-match model still has his cigar when observed closely.
 *Roger is mentioned by {{hi|Chang'e}} in one of her quotes. This is a reference to his wolf form, as wolves are known for hunting many kinds of prey, including rabbits, Chang'e's favorite animal.

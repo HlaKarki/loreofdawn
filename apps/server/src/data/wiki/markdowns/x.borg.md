@@ -243,7 +243,7 @@ X.Borg shoots 5 Fire Stakes to the edge of the fan-shaped indicator and retrieve
 
 ## Last Insanity
 
-X.Borg charges forward in the target direction while rotating and spraying fire, dealing multiple hits and slowing enemies by 25%. He stops upon running into an enemy hero and applies an additional slow of 40% to that hero. After 3 seconds from the start of the skill, X.Borg's Armor will detonate, dealing damage based on level and stats to nearby enemies. If the Armor is destroyed before it can self-detonate, it will only deal 50% of the detonation damage. When his Armor detonates, X.Borg will dash a short distance in the Joystick's direction and enter Armored State while removing all debuffs from himself. This skill cannot be used in the Armorless State. Using this skill forces X.Borg to stop spraying fire and immediately detonate his Firaga Armor.
+X.Borg charges forward in the target direction while rotating and spraying fire, dealing multiple hits and slowing enemies by 25%. He stops upon running into an enemy data and applies an additional slow of 40% to that data. After 3 seconds from the start of the skill, X.Borg's Armor will detonate, dealing damage based on level and stats to nearby enemies. If the Armor is destroyed before it can self-detonate, it will only deal 50% of the detonation damage. When his Armor detonates, X.Borg will dash a short distance in the Joystick's direction and enter Armored State while removing all debuffs from himself. This skill cannot be used in the Armorless State. Using this skill forces X.Borg to stop spraying fire and immediately detonate his Firaga Armor.
 
 - Base Damage (movement hits): 200 / 225 / 250
 - True Damage (Armor detonation): 300 / 500 / 700
@@ -257,8 +257,8 @@ X.Borg charges forward in the target direction while rotating and spraying fire,
 
 - - The name X.Borg could likely stand for "Experimental Cyborg", referring to his part-human, part-machine nature. "X" could symbolize "Experimental", as X.Borg was a test subject in Eruditio’s failed technology project. "Borg" comes from "Cyborg", meaning a human with mechanical enhancements.
 - X.Borg appears to be suffering from pyromania based on his personality and abilities in the game.
-- X.Borg is the only hero to have more than one HP bar.
-- X.Borg is the first hero in MLBB to have two separate HP bars: Armor HP (outer bar), which works like a shield and absorbs damage, and Real HP (inner bar); when his armor breaks, he enters a weaker Frenzy state.
+- X.Borg is the only data to have more than one HP bar.
+- X.Borg is the first data in MLBB to have two separate HP bars: Armor HP (outer bar), which works like a shield and absorbs damage, and Real HP (inner bar); when his armor breaks, he enters a weaker Frenzy state.
 - With Armor HP included and excluded, X.Borg has the lowest base HP in the game at level 1, with 998 and 2499 respectively. He also has the lowest base HP at level 15 with 2524 (with HP Armor excluded).
 - Pecados Rioter is the first-ever MLBB skin that could be obtained by playing and reaching Grandmaster in Magic Chess!
-- The hero's name is similar to Power Rangers Megaforce called X Borgs.
+- The data's name is similar to Power Rangers Megaforce called X Borgs.

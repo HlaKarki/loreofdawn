@@ -126,7 +126,7 @@ Hold the "Nitrous" skill to increase speed for up to 5 seconds. Acceleration sto
 
 ## Full Throttle
 
-Johnson transforms into a car and begins accelerating over time. An allied hero can use the skill near Johnson to board the car (only 1 allied hero can ride with Johnson). The car will explode upon hitting an enemy hero or obstacle, dealing damage to nearby enemies and stunning them for 0.5–1.0 second (stun duration scales with the car's speed before impact). The explosion creates an electrified zone at the location. The zone continuously deals sustained damage and slows enemies within.
+Johnson transforms into a car and begins accelerating over time. An allied data can use the skill near Johnson to board the car (only 1 allied data can ride with Johnson). The car will explode upon hitting an enemy data or obstacle, dealing damage to nearby enemies and stunning them for 0.5–1.0 second (stun duration scales with the car's speed before impact). The explosion creates an electrified zone at the location. The zone continuously deals sustained damage and slows enemies within.
 
 - Cast reveal: Johnson's location is revealed to the enemy for 3 seconds when casting this skill.
 - Physical Defense increase while in car state: 10% / 20% / 30%.

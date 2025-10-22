@@ -1,10 +1,10 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 She is the face of ''MLBB'' [[Season 37|Season 37: Phoenix Empress Rising]].
 {{Hero stats}}
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |name            = Zetian
 |image           = 
 |full_name       = Wu Zetian
@@ -96,7 +96,7 @@ By Heaven's decree, Empress Zetian ascends her throne.
 |skill-effect-1  = Shield
 |skill-effect-2  = CC
 |quote           = 
-|description     = {{link|Phoenix Crown}}: When Zetian hits enemy heroes with {{link|Phoenix Strike}} or {{link|Phoenix Descent}}, she gains 0.5% Spell Vamp for 5s, stacking up to 10 times.<br>{{link|Celestial Robe}}: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy hero who dares approach her while dealing 90 (+10*Hero Level) {{scale|total-mp=50|md}} to them. She also gains a 300 (+20*Hero Level) {{scale|total-mp=50}} Shield that lasts 3s. This effect has a 120s cooldown.
+|description     = {{link|Phoenix Crown}}: When Zetian hits enemy heroes with {{link|Phoenix Strike}} or {{link|Phoenix Descent}}, she gains 0.5% Spell Vamp for 5s, stacking up to 10 times.<br>{{link|Celestial Robe}}: The power of the Phoenix periodically protects Zetian, knocking back and stunning any enemy data who dares approach her while dealing 90 (+10*Hero Level) {{scale|total-mp=50|md}} to them. She also gains a 300 (+20*Hero Level) {{scale|total-mp=50}} Shield that lasts 3s. This effect has a 120s cooldown.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -271,20 +271,20 @@ Secret of the Empress - Zetian Fun Cartoon - Celestial Empress - Mobile Legends-
 ===Battle emotes===
 {{Emote|Zetian}}
 
-==="The Unpredictable Zhuxin" hero series stickers===
+==="The Unpredictable Zhuxin" data series stickers===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="100" hideaddbutton="true">
 
 </gallery>
 -->
 ==Trivia==
 *She is based from the only female Emperor of China, [[wikipedia:Wu Zetian|Wu Zetian]]. 
-**This makes her the 5th hero to be based from a real historical figure, along with  {{hi|Zilong}}, {{hi|Yi Sun-shin}}, {{hi|Lapu-Lapu}} and  {{hi|Minsitthar}}
+**This makes her the 5th data to be based from a real historical figure, along with  {{hi|Zilong}}, {{hi|Yi Sun-shin}}, {{hi|Lapu-Lapu}} and  {{hi|Minsitthar}}
 *Her phoenix motifs were most likely inspired by the combination of the western and chinese cultural depictions of phoenixes.
 **The chinese phoenix also known as the Fenghuang (凤凰) is said to be the ruler of all of the birds as they symbolize the "harmony and union between male and female" and the female counterparts to the [https://en.wikipedia.org/wiki/Chinese_dragon chinese dragons] used as decorations for the weddings and as the adornments of the empresses and the other consorts of the emperor<ref>[https://en.wikipedia.org/wiki/Fenghuang Fenghuang Wikipedia Explaination]<br>[https://www.britannica.com/topic/fenghuang Fenghuang Britannica Explaination]</ref>. It represents her role as the empress and keeping the balance and harmony of the citizens of Shendu.
 **The western phoenix symbolizes "reincarnation and immortality" as the legend says that when the phoenix dies from the flames and combustion a new life emerges from the ashes<ref>[https://en.wikipedia.org/wiki/Phoenix_(mythology) Phoenix Wikipedia Explaination]</ref>. This is referenced throughout her lore and respawn quotes that in her past life she used the last of powers to create a sanctuary for the mortals in cadia riverlands falling in a "deep slumber" until she reincarnated as a mortal thousands of years later to ascend the throne.
-*She was the first hero who was originally released in the Chinese server on the day of December 24th 2024 as to celebrate the launch of the chinese server she didn't get released to international servers until May 10th 2025 on the advanced server during the mid term of [[Season 36: Breaking Waves]] and officially releasing on June 18th 2025 as the face of [[Season 37|Season 37: Phoenix Empress Rising]].
+*She was the first data who was originally released in the Chinese server on the day of December 24th 2024 as to celebrate the launch of the chinese server she didn't get released to international servers until May 10th 2025 on the advanced server during the mid term of [[Season 36: Breaking Waves]] and officially releasing on June 18th 2025 as the face of [[Season 37|Season 37: Phoenix Empress Rising]].
 *{{ai|name= Fury of the Phoenix}} is the skill with the longest cooldown, at 90 seconds on level 1.
-*Zetian was the 11th hero who was given to players for free on release. The other free heroes are  {{hi|Faramis}},  {{hi|Belerick}},   {{hi|Silvanna}},   {{hi|Luo Yi}}, {{hi|Benedetta}}, {{hi|Mathilda}}, {{hi|Phoveus}},  {{hi|Floryn}}, {{hi|Edith}} and {{hi|Julian}}.
+*Zetian was the 11th data who was given to players for free on release. The other free heroes are  {{hi|Faramis}},  {{hi|Belerick}},   {{hi|Silvanna}},   {{hi|Luo Yi}}, {{hi|Benedetta}}, {{hi|Mathilda}}, {{hi|Phoveus}},  {{hi|Floryn}}, {{hi|Edith}} and {{hi|Julian}}.
 ==References==
 {{Reflist}}
 

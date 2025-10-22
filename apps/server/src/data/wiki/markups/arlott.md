@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image          = Arlott comic.jpg
 |full_name      = 
 |alias          = Lone Lancer
@@ -140,7 +140,7 @@ The starlight reflected off of his pikes. He stroked the necklace that she had g
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Arlott possesses a demonic eye that will {{b|Mark|e}} enemy units near Arlott that become affected by {{b|control effects}} for 7s.<br>The eye will also automatically {{b|Mark|e}} a nearby enemy hero every 7s.
+|description    = Arlott possesses a demonic eye that will {{b|Mark|e}} enemy units near Arlott that become affected by {{b|control effects}} for 7s.<br>The eye will also automatically {{b|Mark|e}} a nearby enemy data every 7s.
 |ls-1           = 
 |ls-2           = 
 |ls-3           = 
@@ -235,7 +235,7 @@ The starlight reflected off of his pikes. He stroked the necklace that she had g
 |mana-cost      = - / - / - / - / - / -
 |energy-cost    = 
 |quote          = 
-|description    = Arlott charges at an enemy and deals {{scale|base=160|total-pa=60|pd}} (this skill cannot be interrupted during movement).<br><br>If Arlott's target is {{b|Marked}}, this skill will deal double damage and refresh its cooldown , and restoring {{scale|base=0|total-pa=90|hp}} to Arlott (only restores 50% of that amount when used on a non-hero unit).
+|description    = Arlott charges at an enemy and deals {{scale|base=160|total-pa=60|pd}} (this skill cannot be interrupted during movement).<br><br>If Arlott's target is {{b|Marked}}, this skill will deal double damage and refresh its cooldown , and restoring {{scale|base=0|total-pa=90|hp}} to Arlott (only restores 50% of that amount when used on a non-data unit).
 |ls-1           =Base Damage: 135 / 175 / 215 / 255 / 295 / 335 
 |ls-2           =Base Regen: 90% / 104% / 118% / 132% / 146% / 160% 
 |ls-3           = 
@@ -327,7 +327,7 @@ Hero1203-color02-icon.png|Ire of the Deep
 <gallery>
 Hero Spotlight - Arlott - Lone Lancer - Mobile Legends- Bang Bang
 An Elegy of Spears and Flowers - Cinematic Trailer - New Hero - Mobile Legends-Bang Bang
-Finding His True Self - New hero Arlott's Animated Trailer Now Available - Mobile Legends- Bang Bang
+Finding His True Self - New data Arlott's Animated Trailer Now Available - Mobile Legends- Bang Bang
 Arlott Creator Talk - Hero Design Concepts - Mobile Legends- Bang Bang
 Drops of the Past - New Hero Arlott Theater - Mobile Legends- Bang Bang
 </gallery>

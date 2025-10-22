@@ -1,8 +1,8 @@
-import type { ConsolidatedHero } from "@repo/database";
+import type { MlHeroProfile } from "@repo/database";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
-export const HeroTale = ({ hero }: { hero: ConsolidatedHero }) => {
-	if (!hero.tale) return <></>;
+export const HeroTale = ({ data }: { data: MlHeroProfile }) => {
+	if (!data.tale) return <></>;
 
 	return (
 		<Card className="mb-6">
@@ -10,7 +10,7 @@ export const HeroTale = ({ hero }: { hero: ConsolidatedHero }) => {
 				<CardTitle>Tale</CardTitle>
 			</CardHeader>
 			<CardContent>
-				<p className="leading-relaxed text-muted-foreground">{hero.tale}</p>
+				<p className="leading-relaxed text-muted-foreground">{data.tale}</p>
 			</CardContent>
 		</Card>
 	);

@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero|durability=|offense=|skill_effects=|difficulty=}}
+{{Tabs data}}
+{{Infobox data|durability=|offense=|skill_effects=|difficulty=}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | alias          = Son of Flames
@@ -112,7 +112,7 @@ Valir's flame, Vale's wind, and Gord's arcane power aggravated the volcano, whic
 |mana-cost      = 50 / 58 / 66 / 74/ 82 / 90
 |energy-cost    = 
 |quote          = 
-|description    = Valir launches a fireball that explodes upon hitting the first target, dealing {{Scale|base=235-410|total-mp=80|md}} and slowing them by 30% for 1s. The lingering flame on the ground will explode after 1s, dealing {{Scale|base=118-205|total-mp=40|md}} <br> Valir recharges 1 fireball every 9s and can hold up to 2 fireball charges. Hitting an enemy hero or Legend Creep with this skill wil immediately restore a fireball charge, while hitting a Minion will restore 50% of the recharge time.
+|description    = Valir launches a fireball that explodes upon hitting the first target, dealing {{Scale|base=235-410|total-mp=80|md}} and slowing them by 30% for 1s. The lingering flame on the ground will explode after 1s, dealing {{Scale|base=118-205|total-mp=40|md}} <br> Valir recharges 1 fireball every 9s and can hold up to 2 fireball charges. Hitting an enemy data or Legend Creep with this skill wil immediately restore a fireball charge, while hitting a Minion will restore 50% of the recharge time.
 |ls-1           = Base Damage: 235 / 270 / 305 / 340 / 375 / 410
 |ls-2           = Explosion Damage: 118 / 135 / 153 / 170 / 188 / 205
 |ls-3           = 

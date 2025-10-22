@@ -1,11 +1,11 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 He is the partner of [[Carmilla]], Shadow of Twilight.
 {{Hero stats}}
 
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |full_name=
 |alias=*Embrace of Night
 *Greatest Opera Singer of the Southern Empire{{cite}}
@@ -194,7 +194,7 @@ Battle Emote - No-No.png|'''No-No'''<br>Obtain via the MLBB & HUNTER×HUNTER col
 </gallery>
 
 ==Trivia==
-*Cecilion is the only hero whose skills scales with [[magic power]] and [[mana]].
+*Cecilion is the only data whose skills scales with [[magic power]] and [[mana]].
 *Cecilion's Starlight Skin "Stargazer" and Collector Skin "Crimson Wings" are the only skins that has no counterpart to [[Carmilla]]
 
 == References ==

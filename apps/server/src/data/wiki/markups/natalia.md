@@ -1,9 +1,9 @@
 {{Hero navigation|Main}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | alias          = Bright Claw
 | chinese_name   = 娜塔莉 (Nàtǎlì)

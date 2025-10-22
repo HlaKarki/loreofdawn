@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image           = Alucard comic.jpg
 |caption         = Alucard's 2017-2020 incarnation
 | full_name      = 
@@ -53,7 +53,7 @@ Alucard's father was a comrade-in-arms of Tigreal who disappeared in a battle wi
 === Lore ===
 The last great war is a glorious memory for the Moniyans. The powerful Light's Order, together with the Imperial Border Guards, wiped out the demonic strongholds at the [[Moniyan Empire|Moniyan]] and the [[Barren Lands]] pass, driving the fiends back to the hinterlands of the Forsaken Wastes. But for young Alucard, the war was nothing but a terrible memory of pain and misery. His father's second regiment suffered heavy losses due to a rash lone advance. Alucard's father disappeared in the battle and was later declared dead by the Light's Order.
 
-As they had disobeyed orders, the second regiment was not honored and praised for their sacrifice but labeled "disobedient" and criticized for their lack of discipline. This was a huge blow to Alucard, who had always regarded his father as a hero and role model. Facing shame and ridicule everywhere he went, the flames of revenge burned within his chest, and he became determined to bring honor to his father's name and eliminate all the demons in the [[Land of Dawn]]. And so, he left his hometown and journeyed to the ancient and mysterious [[Monastery of Light]]. As the orphaned son of a dead soldier, Alucard was soon accepted into the Monastery of Light.
+As they had disobeyed orders, the second regiment was not honored and praised for their sacrifice but labeled "disobedient" and criticized for their lack of discipline. This was a huge blow to Alucard, who had always regarded his father as a data and role model. Facing shame and ridicule everywhere he went, the flames of revenge burned within his chest, and he became determined to bring honor to his father's name and eliminate all the demons in the [[Land of Dawn]]. And so, he left his hometown and journeyed to the ancient and mysterious [[Monastery of Light]]. As the orphaned son of a dead soldier, Alucard was soon accepted into the Monastery of Light.
 
 In the following years, Alucard studied a range of combat skills in the Monastery of Light. With his natural talent and undying determination, he soon became the most promising student among his peers. During his training, [[Tigreal]], The Commander of the Light's Order, who had once fought in the second regiment with his father, often visited Alucard in the Monastery of Light, teaching him various advanced combat skills and telling him of his father's heroic deeds.
 
@@ -150,7 +150,7 @@ After a string of epic battles, Alucard became known as one of the most legendar
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = {{B|Passive:|e}} Alucard permanently gains 10%-30% extra [[Hybrid Lifesteal]].<br>{{b|Active:}} Alucard absorbs the energy of enemies in the target area, reducing their [[Movement Speed]] by 30% and [[Hybrid Defense]] by 10-20. Alucard gains 10-20 Hybrid Defense for each enemy hero hit and reduces the [[cooldown]] of his other skills to 50% for 6 seconds. <br>{{B|Use Again|e}}: Alucard releases a shockwave in the target direction, dealing {{Scale|base=400-700|extra-pa=200|pd}} to enemies hit.
+|description    = {{B|Passive:|e}} Alucard permanently gains 10%-30% extra [[Hybrid Lifesteal]].<br>{{b|Active:}} Alucard absorbs the energy of enemies in the target area, reducing their [[Movement Speed]] by 30% and [[Hybrid Defense]] by 10-20. Alucard gains 10-20 Hybrid Defense for each enemy data hit and reduces the [[cooldown]] of his other skills to 50% for 6 seconds. <br>{{B|Use Again|e}}: Alucard releases a shockwave in the target direction, dealing {{Scale|base=400-700|extra-pa=200|pd}} to enemies hit.
 |properties= *'''Duration:''' 6.0
 *'''[[Hybrid Lifesteal]] (Passive):''' 10% / 20% / 30%
 *'''Hybrid Defense (Active):''' 10 / 15 / 20

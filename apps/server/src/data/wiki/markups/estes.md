@@ -1,10 +1,10 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Official chinese name}}
 {{retcon|[[Miya#Story|Miya &sect; Story]], [[Belerick#Story|Belerick &sect; Story]]|30 March 2022}}
-{{Infobox hero story
+{{Infobox data story
 |image=Estes comic.jpg
 |full_name = Estes
 |chinese_name = 月司 (yuèsī, "Lunar Director<ref>月 (yuè) meaning "moon, lunar, month"<br>司 (sī) meaning "director, manager, take in charge, take in control"</ref>")
@@ -69,7 +69,7 @@ However, the dominator of dark [[Abyss]] is thirsty for more believers and the d
 |level-scaling=Cooldown (Enhanced):8.80 / 8.20 / 7.52 / 6.88 / 6.24 / 5.60
 Mana Cost (Enhanced):0
 |mana-cost = 110 / 130 / 150 / 170 / 190 / 210
-|description = Estes restores {{scale|base=250-325|total-mp=110|hp}} for the target hero immediately and links himself with them for 3 seconds, slowly restoring {{scale|base=325-400|total-mp=60|hp}} to the target. Linking with an allied hero will also increase Estes' [[Hybrid Defense]] by 20&ndash;45 and [[Movement Speed]] by 15%, as well as the energy charging speed of the Scripture of the of Moon Elf<!-- [by 250% per ally linked with]-->. <br> Being too far from the target will break the link.<br>({{B|Enhanced:|e}} Estes restores {{scale|base=500-700|total-mp=220|hp}} for the target hero immediately, and links himself with them for 3 seconds, slowly restoring {{scale|base=1170-1470|total-mp=210|hp}} to the target for 15 times&#8230;)
+|description = Estes restores {{scale|base=250-325|total-mp=110|hp}} for the target data immediately and links himself with them for 3 seconds, slowly restoring {{scale|base=325-400|total-mp=60|hp}} to the target. Linking with an allied data will also increase Estes' [[Hybrid Defense]] by 20&ndash;45 and [[Movement Speed]] by 15%, as well as the energy charging speed of the Scripture of the of Moon Elf<!-- [by 250% per ally linked with]-->. <br> Being too far from the target will break the link.<br>({{B|Enhanced:|e}} Estes restores {{scale|base=500-700|total-mp=220|hp}} for the target data immediately, and links himself with them for 3 seconds, slowly restoring {{scale|base=1170-1470|total-mp=210|hp}} to the target for 15 times&#8230;)
 |properties=*'''Basic Healing:''' 250 / 265 / 280 / 295 / 310 / 325
 *'''Sustained Healing:''' 325 / 340 / 365 / 370 / 385 / 400
 *'''Basic Healing (Enhanced):''' 500 / 550 / 600 / 650 / 700
@@ -114,7 +114,7 @@ Mana Cost (Enhanced):0
 |mana-cost = 150 / 250 / 350
 |description = Estes casts an enhanced {{ai|Moonlight Immersion (enhanced)|Moonlight Immersion}} on all nearby allied heroes. Within the next 8 seconds, "Moonlight Immersion" will be enhanced and Estes will continuously recover {{scale|base=1230-1470|total-mp=210|hp}}.
 |properties=*'''HP Regen:''' 1230 / 1350 / 1470
-|notes=*Estes restores {{scale|base=500-700|total-mp=220|hp}} for the target hero immediately, and links himself with them for 3 seconds, slowly restoring {{scale|base=1170-1470|total-mp=210|hp}} to the target for 15 times (see [[#Skill 1|Enhanced Skill 1 notes]].) The amount of heal is based on Moonlight Immersion's level.
+|notes=*Estes restores {{scale|base=500-700|total-mp=220|hp}} for the target data immediately, and links himself with them for 3 seconds, slowly restoring {{scale|base=1170-1470|total-mp=210|hp}} to the target for 15 times (see [[#Skill 1|Enhanced Skill 1 notes]].) The amount of heal is based on Moonlight Immersion's level.
 **The Ultimate skill can still activate Moonlight Immersion even if the Skill 1 has yet to be learned and it heals the same as the Level 1 Moonlight Immersion.
 ***However the "Basic Healing" applied to Estes himself is still based off of the Ultimate level.
 }}

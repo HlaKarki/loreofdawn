@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = <gallery>
 Yu Zhong comic.jpg|Present
 Black Dragon.jpg|Black Dragon
@@ -315,7 +315,7 @@ Battle Emote - M5 Prime.png|'''M5 Prime'''<br>Obtained via M5 Pass.
 **The other heroes who can bypass obstacles are {{hi|name=Hanzo}} (as {{AVC1|Hanekage|color=#49326b}}), {{hi|name=Pharsa}} (during {{ai|name=Wings by Wings}}), {{hi|name=Ling}} (with {{ai|name=Tempest of Blades}}), and {{hi|name=Kadita}} (during {{ai|name=Ocean Oddity}}).
 *He is a Fighter with 4 abilities along with {{hi|name=Masha}} and {{hi|name=Sun|Revamped Sun}}. 
 *{{ai|name = Black Dragon Form}} is the skill with the longest cooldown, at 85 seconds on level 1. It was later surpassed by {{hi|name=Zetian}}'s {{ai|name=Fury of the Phoenix}}, at 90 seconds on level 1.
-*Yu Zhong has the most hero quotes in the game.{{cite}}
+*Yu Zhong has the most data quotes in the game.{{cite}}
 *He already had quotes when he was released on the Advanced Server.
 *His quote [[Media:Chong.move10.ogg|"I don't give a damn…"]] is the second canon quote that features profanity.
 

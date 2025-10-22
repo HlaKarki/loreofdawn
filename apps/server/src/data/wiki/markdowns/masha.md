@@ -82,7 +82,7 @@ Masha spends 24% HP to roar at enemies, dealing physical damage (base damage sca
 
 ## Thunderclap
 
-Masha spends 34% HP to lunge at an enemy hero (immune to control effects during the lunge), dealing physical damage, slowing them by 25% for 2 seconds, and knocking back nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.
+Masha spends 34% HP to lunge at an enemy data (immune to control effects during the lunge), dealing physical damage, slowing them by 25% for 2 seconds, and knocking back nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.
 
 - Properties:
   - Base Damage: 200 / 350 / 500
@@ -103,6 +103,6 @@ Masha gains Energy when dealing damage to enemies and extra Energy when dealing 
 - Masha's name and her relationship to bears are likely inspired from the Russian folktale *Masha and the Bear*.
 - Additionally, she was released in time for 10th anniversary of the said show.
 - Her tribe is the only one that is based on a real tribe; according to the lore, she is a member of the Sami or Sarmi tribe, which may be the Land of Dawn equivalent of the Sámi peoples in Northern Europe.
-- She is the only hero to have three health bars.
-- She is the only hero without defense growth as of version 1.8.30.
-- She was first introduced as a Fighter/Tank hero in Patch 1.4.14, but was later changed to a pure fighter in Patch 1.4.94. However, it was restored in Patch 1.6.66.
+- She is the only data to have three health bars.
+- She is the only data without defense growth as of version 1.8.30.
+- She was first introduced as a Fighter/Tank data in Patch 1.4.14, but was later changed to a pure fighter in Patch 1.4.94. However, it was restored in Patch 1.6.66.

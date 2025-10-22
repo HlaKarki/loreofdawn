@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | name            = 
 | image           = <gallery>
 Khufra comic.jpg|Present
@@ -65,7 +65,7 @@ However, hundreds of years later, a cataclysmic event occurred in the Western De
 |skill-effect-1  = Heal
 |skill-effect-2  = Damage
 |quote           = 
-|description     = Khufra activates the Spell Curse left by Esmeralda every 12 seconds, enhancing his next [[Basic Attack]]. The enhanced Basic Attack gains extra attack range <nowiki>[Cast Range: 4.9] </nowiki>and deals <nowiki>[</nowiki>{{scale|total-pa=120|max-hp=target's 6|md}}<nowiki>]</nowiki>. Also [[slows]] the target by 30% for 1.5 seconds and heals Khufra by 8% of his {{B|Max HP}} on hit.<br>Each time Khufra applies a [[control effect]] to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4 seconds.
+|description     = Khufra activates the Spell Curse left by Esmeralda every 12 seconds, enhancing his next [[Basic Attack]]. The enhanced Basic Attack gains extra attack range <nowiki>[Cast Range: 4.9] </nowiki>and deals <nowiki>[</nowiki>{{scale|total-pa=120|max-hp=target's 6|md}}<nowiki>]</nowiki>. Also [[slows]] the target by 30% for 1.5 seconds and heals Khufra by 8% of his {{B|Max HP}} on hit.<br>Each time Khufra applies a [[control effect]] to an enemy data with his skill, the cooldown of Spell Curse is reduced by 4 seconds.
 |term-1          = Magic Basic Attack
 |term-2          = Healing Effect
 |term-3          = Cooldown
@@ -92,7 +92,7 @@ However, hundreds of years later, a cataclysmic event occurred in the Western De
 |skill-effect-1  = Mobility
 |skill-effect-2  = CC
 |quote           = 
-|description     = Khufra pulls the bandage on his arms to [[blink|launch]] himself in the specified direction, dealing  50&ndash;100 plus 7 {{scale|extra-pa=1.5}}% of his {{B|Max HP}} {{b|Physical Damage}} to all enemy units on the path. When blinking to the furthest distance or encountering a first enemy hero, Khufra will immediately stop, dealing 50&ndash;100 plus 7 {{scale|extra-pa=1.5}}% of his {{B|Max HP}}  {{b|Physical Damage}} to enemies nearby and then [[airborne|knocking them in the air]] for up to 1.1 seconds.
+|description     = Khufra pulls the bandage on his arms to [[blink|launch]] himself in the specified direction, dealing  50&ndash;100 plus 7 {{scale|extra-pa=1.5}}% of his {{B|Max HP}} {{b|Physical Damage}} to all enemy units on the path. When blinking to the furthest distance or encountering a first enemy data, Khufra will immediately stop, dealing 50&ndash;100 plus 7 {{scale|extra-pa=1.5}}% of his {{B|Max HP}}  {{b|Physical Damage}} to enemies nearby and then [[airborne|knocking them in the air]] for up to 1.1 seconds.
 |term-1          = Blink
 |term-2          = Extra Physical Attack
 |term-3          = Airborne

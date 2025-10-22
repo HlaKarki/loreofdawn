@@ -149,5 +149,5 @@ Joy increases her defenses and gains Movement Speed, then pulses damage around h
 - The name "Joy" represents her playful and energetic nature. Her voice lines are cheerful and enthusiastic, showing her youthful and fun-loving personality.
 - She is the 4th Leonin to be introduced in the game.
 - She has cat-like ears, a playful personality, and makes cute purring and meowing sounds in some of her voice lines. Even her Ultimate, "Ha, Electrifying Beats!", has her leaping around like a hyperactive kitten.
-- Joy is the first hero to accompany rhythm through her skills, akin to a rhythm game.
+- Joy is the first data to accompany rhythm through her skills, akin to a rhythm game.
 - Joy was officially released on 18 November 2022.

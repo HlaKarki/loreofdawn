@@ -19,7 +19,7 @@
 
 - Buff
 
-Sora gains 1 stack each time he damages an enemy hero or their summons, lasting 5 seconds. At 5 stacks, he can ascend to (Thunder) or (Torrent) by using his Ultimate. After ascending, collecting 5 more stacks unlocks his True Art.
+Sora gains 1 stack each time he damages an enemy data or their summons, lasting 5 seconds. At 5 stacks, he can ascend to (Thunder) or (Torrent) by using his Ultimate. After ascending, collecting 5 more stacks unlocks his True Art.
 
 - (Thunder): Converts extra HP into 10% Physical Attack, adopting an assassin style.
 
@@ -54,7 +54,7 @@ Sora strikes twice, dealing scaling physical damage and slowing enemies for 40%.
 
 ## Windstride (Default)
 
-Sora leaps forward, dealing scaling physical damage. If he hits an enemy hero or reaches max range, he slams the ground, dealing additional scaling physical damage and slowing them by 40% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
+Sora leaps forward, dealing scaling physical damage. If he hits an enemy data or reaches max range, he slams the ground, dealing additional scaling physical damage and slowing them by 40% for 0.5 seconds. Hitting a data reduces the cooldown by 2 seconds.
 
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 - Extra Damage: 200 / 220 / 240 / 260 / 280 / 300
@@ -63,7 +63,7 @@ Sora leaps forward, dealing scaling physical damage. If he hits an enemy hero or
 
 ## Windstride: Thunder Rush
 
-Sora leaps forward, dealing scaling physical damage, then summons a thunderstorm that hits for additional scaling damage and slows enemies by 50% for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
+Sora leaps forward, dealing scaling physical damage, then summons a thunderstorm that hits for additional scaling damage and slows enemies by 50% for 0.5 seconds. Hitting a data reduces the cooldown by 2 seconds.
 
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 - Extra Damage: 200 / 220 / 240 / 260 / 280 / 300
@@ -72,7 +72,7 @@ Sora leaps forward, dealing scaling physical damage, then summons a thunderstorm
 
 ## Windstride: Skyfall
 
-Sora leaps forward, dealing scaling physical damage and knocking enemies back to the landing point. He then smashes the ground and deals additional scaling physical damage, knocking enemies airborne for 0.5 seconds. Hitting a hero reduces the cooldown by 2 seconds.
+Sora leaps forward, dealing scaling physical damage and knocking enemies back to the landing point. He then smashes the ground and deals additional scaling physical damage, knocking enemies airborne for 0.5 seconds. Hitting a data reduces the cooldown by 2 seconds.
 
 - Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 - Extra Damage: 200 / 220 / 240 / 260 / 280 / 300

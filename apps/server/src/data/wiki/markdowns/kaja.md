@@ -64,11 +64,11 @@ Kaja dashes in the target direction while leaving 3 Lightning Bombs along the wa
 
 ## Divine Judgement
 
-Kaja deals magic damage to a designated enemy hero, suppresses and paralyzes them for 1.5 seconds. During the suppression, Kaja can drag the enemy hero along with him.
+Kaja deals magic damage to a designated enemy data, suppresses and paralyzes them for 1.5 seconds. During the suppression, Kaja can drag the enemy data along with him.
 
 - Base Damage by skill rank: 300 / 450 / 600
 - Effect: Suppress (cannot take action), Paralysis
 - Mana cost: 100
 - Cooldown: 60 seconds
-- Notes: While the target is suppressed, Kaja may relocate and drag the suppressed hero with him.
+- Notes: While the target is suppressed, Kaja may relocate and drag the suppressed data with him.
 

@@ -5,7 +5,7 @@
 - Species: Human
 - Gender: Female
 
-She was released as a part of the Blazing Bounties event. Players had a chance to redeem the hero for free for a limited time.
+She was released as a part of the Blazing Bounties event. Players had a chance to redeem the data for free for a limited time.
 
 - Relationships:
   - Thasgard (father)
@@ -83,14 +83,14 @@ For Mathilda, a great adventure had only just begun. In the setting sun, she bid
 - Additional Notes:
   - Fully affects concealed, invisible and unsighted targetable enemies in range.
   - If the number of enemies in range is less than or equal to the number of attracted wisps, each enemy will be hit once and priority is given to unsighted enemy heroes.
-  - If there are multiple enemies nearby, the wisps have a chance to hit the same target multiple times and will try to hit a new enemy hero at least once.
+  - If there are multiple enemies nearby, the wisps have a chance to hit the same target multiple times and will try to hit a new enemy data at least once.
 
 ## Guiding Wind
 
 - Mana Cost by Level: 75 / 80 / 85 / 90 / 95 / 100
 - Cooldown by Level: 12.0 / 11.8 / 11.6 / 11.4 / 11.2 / 11.0 seconds
 - Base Shield by Level: 500 / 600 / 700 / 800 / 900 / 1000
-- Description: Mathilda leaps in the target direction and creates a field around her, gaining a shield equal to the skill's shield value and a 25% extra Movement Speed for 3 seconds. Allied heroes who come into contact with the field receive 60% of the shield value and the same Movement Speed boost. The first allied hero that triggers Guiding Wind will be guided to Mathilda, and both the ally and Mathilda gain the Movement Speed boost. When casting this skill while guiding an ally, Mathilda will not change her position. Guiding Wind expires 2 seconds after the allied hero leaves Mathilda's field.
+- Description: Mathilda leaps in the target direction and creates a field around her, gaining a shield equal to the skill's shield value and a 25% extra Movement Speed for 3 seconds. Allied heroes who come into contact with the field receive 60% of the shield value and the same Movement Speed boost. The first allied data that triggers Guiding Wind will be guided to Mathilda, and both the ally and Mathilda gain the Movement Speed boost. When casting this skill while guiding an ally, Mathilda will not change her position. Guiding Wind expires 2 seconds after the allied data leaves Mathilda's field.
 - Effect Type: Blink, Shield, Movement Speed
 - Notes:
   - Allies' movement speed boost lasts 2 seconds after being guided.
@@ -104,7 +104,7 @@ For Mathilda, a great adventure had only just begun. In the setting sun, she bid
 - Wisp Damage: 40 (per wisp, scaling with level and stats)
 - Knock Damage by Rank: 320 / 360 / 400 (magic)
 - Shield by Rank: 400 / 500 / 600
-- Description: Mathilda applies a Soul Mark to the target enemy hero and circles around them for up to 3.5 seconds, during which her wisps fly toward nearby enemy heroes, each dealing scaling wisp damage. Soul Mark causes wisps to prioritize the marked target. During the duration, Mathilda can select an area to dash to. At the end of the duration, she dashes at the target, dealing knock damage and knocking enemies in her path airborne for 0.6 seconds while transferring the Soul Mark to the first enemy hero she knocks airborne. Mathilda gains control immunity and a shield for the skill duration.
+- Description: Mathilda applies a Soul Mark to the target enemy data and circles around them for up to 3.5 seconds, during which her wisps fly toward nearby enemy heroes, each dealing scaling wisp damage. Soul Mark causes wisps to prioritize the marked target. During the duration, Mathilda can select an area to dash to. At the end of the duration, she dashes at the target, dealing knock damage and knocking enemies in her path airborne for 0.6 seconds while transferring the Soul Mark to the first enemy data she knocks airborne. Mathilda gains control immunity and a shield for the skill duration.
 - Properties: Wisp damage, knock damage values, and shield values listed above.
 - Additional Notes:
   - Soul Mark reveals the target and Mathilda maintains a circling distance of about 3.5 units around the target. This state lasts up to about 4 seconds.
@@ -115,9 +115,9 @@ For Mathilda, a great adventure had only just begun. In the setting sun, she bid
 # Trivia
 
 - The name Mathilda has Germanic origins and is derived from the words "maht" (meaning "might" or "strength") and "hild" (meaning "battle" or "combat"). So, the name Mathilda can be interpreted to mean "mighty in battle" or "strength in battle".
-- Initially, Mathilda was conceptualized as a support hero with a focus on healing and providing utility to her team. She was not originally an assassin-support hybrid. Her abilities were centered around her role as a more traditional support, offering crowd control and healing.
+- Initially, Mathilda was conceptualized as a support data with a focus on healing and providing utility to her team. She was not originally an assassin-support hybrid. Her abilities were centered around her role as a more traditional support, offering crowd control and healing.
 - During Mathilda's release, she was given out for free for a limited-time.
-- Mathilda is the first hero assigned as support and assassin.
+- Mathilda is the first data assigned as support and assassin.
 - Mathilda's appearance and her tribe appear to be based on the indigenous peoples of North America, particularly in the United States.
 - Swift Plume is a type of bird found in tropical moist lowland forest which could be the inspiration of her design. The bird can be seen in her skill 1 icon.
 - The most unique feature is that if Mathilda is near an ally, the bird will carry that ally along with it, effectively allowing her to reposition allies quickly across the map.

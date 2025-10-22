@@ -150,25 +150,25 @@ Cooldown: 40.0 / 35.0 / 30.0 seconds (values per skill level).
 # Trivia
 
 - - The name Beatrix came from the name Viatrix, originated from Late Latin name Viator, meaning "Voyager" or "Traveler".
-- In the New Arrival Shop, Beatrix's hero description is "A gifted crack shot with a variety of strong and lively weapons".
+- In the New Arrival Shop, Beatrix's data description is "A gifted crack shot with a variety of strong and lively weapons".
 - According to one of the tips during her in-game loading screen, carrying different weapons puts Beatrix in different moods; explaining her different voice tones when picking up certain weapons.
 - Beatrix is represented by multiple emotive representations for her ultimates: grinning, winking with tongue-out, expressionless or apathetic, and pouting or angry, corresponding to her different Ultimate names and moods.
 - According to her Lethal Nexus character page, Beatrix is 17 years old and develops weird inventions for a hobby.
 - According to a question in April 2021's Trial of Knowledge, Beatrix dislikes the number four.
-- Beatrix is the first hero with different multiple dying animations (up to four).
+- Beatrix is the first data with different multiple dying animations (up to four).
 - Beatrix's skills do not benefit from certain unspecified stats, but benefit from others instead.
 - Beatrix is one of the heroes in the game whose skills benefit from spell vamp and physical lifesteal.
-- Beatrix is the fifth hero in the game whose passive converts a stat to another stat.
-- Beatrix is the second hero without certain unspecified stats; the first being another unnamed hero.
-- Beatrix is the fourth hero who can attack turrets from outside their range, using certain abilities.
-- Using certain skills, Beatrix is the second hero whose ultimate requires manual aiming, the first being another hero.
-- Beatrix is the second with bullets reloading mechanism, the first being another hero.
+- Beatrix is the fifth data in the game whose passive converts a stat to another stat.
+- Beatrix is the second data without certain unspecified stats; the first being another unnamed data.
+- Beatrix is the fourth data who can attack turrets from outside their range, using certain abilities.
+- Using certain skills, Beatrix is the second data whose ultimate requires manual aiming, the first being another data.
+- Beatrix is the second with bullets reloading mechanism, the first being another data.
 - Including Survival: Nexus and Ravage mode, Beatrix has a total of 10 weapons.
 - Beatrix's weapons are a pair of unnamed items, a heavy machine gun, a boomerang, a laser gun, an energy gun, a flamethrower, and a sword; aside from a few named ones, the rest currently have no known names.
 - Beatrix was originally called Boudicca.
 - In the Advanced Server, one of her skills was previously a circular AoE damage skill before being revamped.
 - Beatrix's previous line of the Ultimate was "Bullets around!" before being replaced by its current line.
-- Beatrix originally gave a salute with her right hand and did not wield any weapon at the end of her hero animation; this was changed so she now salutes with her left hand while wielding a weapon in her right.
+- Beatrix originally gave a salute with her right hand and did not wield any weapon at the end of her data animation; this was changed so she now salutes with her left hand while wielding a weapon in her right.
 - Beatrix was born in Castle Gorge within the Moniyan Empire, but currently resides in Eruditio.
 - The name of Beatrix's 'X Factor' lexically refers to a noteworthy special talent/quality and also a variable in a given situation that could have the most significant impact on the outcome.
 - Her Blitz Attack was originally called Hawkeye Bolt during tests in the Advanced Server.

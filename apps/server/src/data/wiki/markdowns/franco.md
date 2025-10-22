@@ -33,7 +33,7 @@ Whilst Franco was training alone in the mountains, the cruel and power-hungry Ca
 
 Bane's cruelty drew fierce resistance from various forces, the fiercest of all coming from Franco's tribe. As a warning to those who would defy him, Bane sent a massive armada of pirate ships to blockade the surrounding sea, and sent constant raids on Franco's tribe, declaring he would sink all their ships, and raze their harbor to the ground.
 
-After ten years in the mountains, Franco returned to his tribe, full of confidence and strength. Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength. Only after the battle did his oppressed tribesmen make a surprising discovery: that the hero who had come to save them was none other than the once-mocked little Franco. After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen.
+After ten years in the mountains, Franco returned to his tribe, full of confidence and strength. Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength. Only after the battle did his oppressed tribesmen make a surprising discovery: that the data who had come to save them was none other than the once-mocked little Franco. After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen.
 
 Franco then led his tribesmen and their ships in resistance against Bane's cruel rule. They equipped old fishing ships with battering rams and cannons, and attacked Bane's pirate fleets wherever they were found, dealing a heavy blow against Bane's forces. In desperation, Bane gathered an enormous fleet to suppress Franco's resistance, but both sides remained in a deadlock after several battles, with Bane unable to force an advantage. Once, Bane managed to lead Franco into a trap, but only managed to wound him, and Franco managed to escape with his life. Furthermore, more and more people of the Northern Vale, inspired by Franco's courage and strength, united around him to fight Bane.
 
@@ -92,7 +92,7 @@ Franco lashes out, dealing equal to 300–450 plus 4% of his Max HP to nearby en
 
 ## Bloody Hunt
 
-Franco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing 50 / 60 / 70 physical damage based on skill level.
+Franco suppresses the target enemy data for 1.8 seconds and strikes them 6 times over the duration, each time dealing 50 / 60 / 70 physical damage based on skill level.
 
 - Damage Per Hit: 50 / 60 / 70
 - Suppress: target is suppressed for 1.8 seconds
@@ -108,6 +108,6 @@ Notes:
 - Both Franco and have the same quote: "One shot, one kill"
 - had the same quote but was removed due to being revamped for Project NEXT.
 - Most of his quotes are directly taken from the character York from Magic Rush: Heroes, which he also shares the same voice acting with. This explains why some of them seem completely unrelated to him, such as: "I love the smell of gunpowder in the morning".
-- Franco is currently the only hero whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced.
+- Franco is currently the only data whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced.
 - Franco was banned temporarily in the game on 29 December 2021 after an exploit had been discovered on the Serpent lair. The ban was lifted on 19 January 2022 which spans for 21 days and 3 hours, which is the longest recorded ban in MLBB history, before the Helcurt ban in 2023.
 - Franco is one of three heroes that can apply the Suppression crowd control, the other being and.

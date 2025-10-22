@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|hp1=2401}}
 == Story ==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Age (年龄 "niánlíng" meaning "age"), Weapon (武器 "wǔqì" meaning "weapon, arms")}}
-{{Infobox hero story
+{{Infobox data story
 |image           = 
 |caption         = 
 | full_name      = 
@@ -71,7 +71,7 @@ Full of excitement and fervor, Harith also knew that once he is appointed the ti
 |name           = Key Insight
 |skill-effect-1 = Buff
 |skill-effect-2 = 
-|description    = Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.
+|description    = Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy data, stacking up to 35%.
 |calc           = 
 |term-1         = Hybrid Lifesteal
 |term-2         = Spell Vamp 
@@ -203,7 +203,7 @@ The Last Hope of the Leonins New Hero Harith Trailer Mobile Legends Bang Bang!
 == Trivia ==
 * Harith's Passive "Key Insight" used to be able to increase his [[Resilience]].
 * Although Harith is a mage, his main role is often played in the Gold Lane rather than the Mid Lane.
-* Harith is the first hero to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include {{hi|Lancelot}}, {{hi|Estes}}, {{hi|Chou}}, {{hi|Brody}} and {{hi|Joy}}.
+* Harith is the first data to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include {{hi|Lancelot}}, {{hi|Estes}}, {{hi|Chou}}, {{hi|Brody}} and {{hi|Joy}}.
 
 == References ==
 {{Reflist}}

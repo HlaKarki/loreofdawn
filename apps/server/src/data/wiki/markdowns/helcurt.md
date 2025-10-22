@@ -93,11 +93,11 @@ He had always been a traitor.
 
 Description:
 
-Helcurt remains in the state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating HP if he has not dealt any damage. He gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4 seconds upon being spotted and leaves state 0.75 second later. Any hero killed after hit by Helcurt leaves a that explodes and spreads with a cooldown of 10 seconds. Helcurt Conceals himself while within the.
+Helcurt remains in the state until spotted by the enemy team, gaining 15% extra Movement Speed, and continuously regenerating HP if he has not dealt any damage. He gains 50% extra Attack Speed and 50% extra Movement Speed (decreasing over time) for 4 seconds upon being spotted and leaves state 0.75 second later. Any data killed after hit by Helcurt leaves a that explodes and spreads with a cooldown of 10 seconds. Helcurt Conceals himself while within the.
 
 Notes:
 
-- In the description, Helcurt's "Conceal" grants him Invisibility. The only other hero to possess an Conceal skill is .
+- In the description, Helcurt's "Conceal" grants him Invisibility. The only other data to possess an Conceal skill is .
 - The sound effect when losing the state is audible to all nearby units.
 
 ## Hidden Terror
@@ -168,7 +168,7 @@ Notes:
 - Does not affect enemy turrets.
 - Does not affect units inside 's .
 - Enemies' attack and abilities are not restricted by vision.
-- Is not consider as an assist if an enemy hero is killed within the duration without any Helcurt's damage.
+- Is not consider as an assist if an enemy data is killed within the duration without any Helcurt's damage.
 
 # Trivia
 
@@ -178,4 +178,4 @@ Notes:
 - He was banned due to for 41 days and 21 hours from 16 May 2023 01:00:00 to 26 June 2023 22:00:00, which is the longest official ban in the history of MLBB.
 - Helcurt's could previously be heard by enemies. This has since been removed.
 - He is the heroes are only got nerfed in Patch 1.5.32, which are removing from to replaced with  in  to making  only during  in active when using.
-- Helcurt is the last hero to receive "Zodiac" type skins (Scorpio).
+- Helcurt is the last data to receive "Zodiac" type skins (Scorpio).

@@ -90,7 +90,7 @@ Terms: Slow Immunity, Max HP, Movement Speed.
 
 - He is a centaur, which is based on the creature of Greek mythology.
 - He is inspired by Malachi of Moonton's Magic Rush.
-- Hylos is the only hero who can use HP to consume a skill.
+- Hylos is the only data who can use HP to consume a skill.
 - Alongside other heroes, Hylos is one of the few who can reduce his own HP through a skill.
 - Belerick used to consume a portion of his HP, but this was removed when he got revamped for the second time.
 - Hylos' skill is the first among the game's toggle skills.

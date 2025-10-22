@@ -156,12 +156,12 @@ Novaria summons an Astral Sphere at the target location. The sphere continuously
 
 Notes:
 - The damage, excluding the final one, reveals enemies until they leave the area of effect.
-- The final damage reveals hero targets for 2 seconds.
+- The final damage reveals data targets for 2 seconds.
 - Damage and reveal durations scale with ability level and stats.
 
 ## Astral Recall
 
-Novaria summons an Astral Sphere at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall increases the Movement Speed bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy hero, dealing damage. The damage increases based on the Astral Sphere's travel distance (starting from when the sphere is summoned) up to 2.5 times the original.
+Novaria summons an Astral Sphere at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall increases the Movement Speed bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy data, dealing damage. The damage increases based on the Astral Sphere's travel distance (starting from when the sphere is summoned) up to 2.5 times the original.
 
 - Mana Cost by level: 120 / 150 / 180 / 210 / 240 / 270
 - Base Damage by level: 260 / 285 / 310 / 335 / 360 / 385
@@ -174,7 +174,7 @@ Notes:
 - If Astral Recall ends when Novaria is inside an obstacle, she will be displaced to the nearest valid point.
 - Novaria cannot go beyond the battlefield for an unspecified amount of distance while the skill is active.
 - Recalling can be interrupted if she receives the Astral Sphere or if the skill duration ends while she is inside an obstacle.
-- Damage to non-hero units can reach up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000.
+- Damage to non-data units can reach up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000.
 - Novaria gains a 60% movement speed bonus when passing through obstacles and can gain additional stacks when passing through multiple obstacles.
 - Assisted Aiming Mode is disabled by default on this skill.
 - Passing by obstacles increases speed once per cast.

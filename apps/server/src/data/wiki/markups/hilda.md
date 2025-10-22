@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = <gallery>
 </gallery>
 | full_name      = 

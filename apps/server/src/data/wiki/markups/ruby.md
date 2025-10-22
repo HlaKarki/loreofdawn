@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|spell_vamp=10%}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image          = Ruby comic.jpg
 |full_name      = Ruby
 |alias          = Little Red Hood
@@ -67,8 +67,8 @@ Ruby gradually regained consciousness after Pale Tusk left, but unfortunately, s
 |quote              = 
 |description        = Ruby gains 6%-20% [[Spell Vamp]] (based on level) and inherits 125% [[Spell Vamp Ratio]]  ([[Basic Attacks]] cannot trigger [[Lifesteal]]).<br>After each skill cast, Ruby can [[dash]] to another location, gaining {{scale|base=7.5|level=1.5}} [[Physical Defense|Physical]] & [[Magic Defense]] (scales with level) for 4 seconds. (stacks up to 3 times).
 |level-scaling = Extra Hybrid Defense Per Level: 10.8 / 12.6 / 14.4 / 16.2 / 18 / 19.8 / 21.6 / 23.4 / 25.2 / 27 / 28.8 / 30.6 / 32.4 / 34.2 / 36
-|stack-scaling =Extra Hybrid Defense (hero lv. 1): 10.8 / 21.6 / 32.4
-Extra Hybrid Defense (hero lv. 15): 36 / 72 / 108
+|stack-scaling =Extra Hybrid Defense (data lv. 1): 10.8 / 21.6 / 32.4
+Extra Hybrid Defense (data lv. 15): 36 / 72 / 108
 |calc               =
 |term-1             = Blink
 |term-2             = Spell Vamp

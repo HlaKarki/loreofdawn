@@ -80,7 +80,7 @@ export const mlSync = router({
 		const ranks = [9, 101] as const;
 		const counterOptions = [true, false] as const;
 
-		// Update all hero profiles
+		// Update all data profiles
 		const profiles = await mlTransformService.getNormalizedHeroProfiles();
 		for (const profile of profiles) {
 			await mlDbService.upsertHeroProfile(profile);

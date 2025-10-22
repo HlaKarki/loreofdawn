@@ -49,8 +49,8 @@ Bugs:
 
 Diggie flings an owl alarm to the target location. The alarm will then remain stationary for 25 seconds or until it reacts to the first enemy in range, chasing them and exploding upon collision. The explosion deals Base Damage: 500 / 520 / 540 / 560 / 580 / 600 plus 100% magic power to nearby enemies and slows them by 30%.
 
-- Diggie gains 2 stacks of Dangerous Sparks each time an enemy hero is hit by the explosion (up to 60 stacks). Each stack increases the skill's damage by 1% (up to 60%).
-- Diggie loses half the stacks upon death, but can gain 1 stack of Dangerous Sparks each time his skill hits an enemy hero when in the egg form.
+- Diggie gains 2 stacks of Dangerous Sparks each time an enemy data is hit by the explosion (up to 60 stacks). Each stack increases the skill's damage by 1% (up to 60%).
+- Diggie loses half the stacks upon death, but can gain 1 stack of Dangerous Sparks each time his skill hits an enemy data when in the egg form.
 - Up to 5 owl alarms can exist at the same time.
 
 Cooldown and Mana Cost (per original values): 8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0 seconds. Mana cost: 70 / 80 / 90 / 100 / 110 / 120.
@@ -67,7 +67,7 @@ Egg Form:
 
 ## Reverse Time
 
-Diggie marks a target enemy hero for 4 seconds and pulls them back to their previous location after the duration ends, dealing damage and slowing it by 80%. If the enemy moves out of the circle, the pull will be triggered easily.
+Diggie marks a target enemy data for 4 seconds and pulls them back to their previous location after the duration ends, dealing damage and slowing it by 80%. If the enemy moves out of the circle, the pull will be triggered easily.
 
 - Base Damage: 150 / 200 / 250 / 300 / 350 / 400.
 - Cooldown: 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds.
@@ -105,8 +105,8 @@ Egg Form - Victory Prayer:
 
 - He,, , and  are the only anthropomorphous heroes in the game.
 - His design is inspired by owls, symbolizing wisdom and intelligence.
-- Diggie held the record for longest gap between hero release and new skin at almost 18 months (November 2017 - May 2019), but this record was later broken by, who has not had a new skin ever since he was released in January 2019 (Cerulean Wind) and was offcialy announched in January 2021 (Kannagi).
-- Diggie is the only hero where he can still be controlled by the player, even upon death.
+- Diggie held the record for longest gap between data release and new skin at almost 18 months (November 2017 - May 2019), but this record was later broken by, who has not had a new skin ever since he was released in January 2019 (Cerulean Wind) and was offcialy announched in January 2021 (Kannagi).
+- Diggie is the only data where he can still be controlled by the player, even upon death.
 - His in-game file name is "digger".
 - Although Diggie description says it is a male, he is voiced by a female voice actor, Feena Glynn.
 - His voicelines. "I have a clumsy new apprentice called Einstein", is a reference to a famous scientist named Albert Einstein.

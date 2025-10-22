@@ -62,7 +62,7 @@ As the decree concludes, Zetian gazes upon the masses from the summit. Her incar
 ## Celestial Armament
 
 - When Zetian hits enemy heroes, she gains 0.5% Spell Vamp for 5s, stacking up to 10 times.
-- The power of the Phoenix periodically protects Zetian: it knocks back and stuns any enemy hero who approaches her while dealing 90 plus 10 per hero level magic damage to them. She also gains a shield equal to 300 plus 20 per hero level that lasts 3s. This protective effect has a 120s cooldown.
+- The power of the Phoenix periodically protects Zetian: it knocks back and stuns any enemy data who approaches her while dealing 90 plus 10 per data level magic damage to them. She also gains a shield equal to 300 plus 20 per data level that lasts 3s. This protective effect has a 120s cooldown.
 - Shield and stun described above are part of the passive's defensive activation.
 
 ## Phoenix Strike
@@ -73,7 +73,7 @@ Zetian unleashes a wave in the target direction. If it hits an enemy, she automa
 - This skill only has 80% Spell Vamp efficiency against Minions.
 - Cooldown: 7.0 seconds at level 1 (scales down with skill level).
 - Mana cost: 70 at level 1 (increases with level).
-- Damage values scale with level and hero stats.
+- Damage values scale with level and data stats.
 
 ## Phoenix Descent
 
@@ -99,10 +99,10 @@ Zetian calls upon her divine mandate and the hearts of her people.
 # Trivia
 
 - She is based from the only female Emperor of China, Wu Zetian.
-- This makes her the 5th hero to be based from a real historical figure, along with, ,  and
+- This makes her the 5th data to be based from a real historical figure, along with, ,  and
 - Her phoenix motifs were most likely inspired by the combination of the western and chinese cultural depictions of phoenixes.
 - The chinese phoenix also known as the Fenghuang (凤凰) is said to be the ruler of all of the birds as they symbolize the "harmony and union between male and female" and the female counterparts to the chinese dragons used as decorations for the weddings and as the adornments of the empresses and the other consorts of the emperor . It represents her role as the empress and keeping the balance and harmony of the citizens of Shendu.
 - The western phoenix symbolizes "reincarnation and immortality" as the legend says that when the phoenix dies from the flames and combustion a new life emerges from the ashes . This is referenced throughout her lore and respawn quotes that in her past life she used the last of powers to create a sanctuary for the mortals in cadia riverlands falling in a "deep slumber" until she reincarnated as a mortal thousands of years later to ascend the throne.
-- She was the first hero who was originally released in the Chinese server on the day of December 24th 2024 as to celebrate the launch of the chinese server she didn't get released to international servers until May 10th 2025 on the advanced server during the mid term of Season 36: Breaking Waves and officially releasing on June 18th 2025 as the face of Season 37: Phoenix Empress Rising.
+- She was the first data who was originally released in the Chinese server on the day of December 24th 2024 as to celebrate the launch of the chinese server she didn't get released to international servers until May 10th 2025 on the advanced server during the mid term of Season 36: Breaking Waves and officially releasing on June 18th 2025 as the face of Season 37: Phoenix Empress Rising.
 - is the skill with the longest cooldown, at 90 seconds on level 1.
-- Zetian was the 11th hero who was given to players for free on release. The other free heroes are  ,  , ,   , , , ,  ,  and.
+- Zetian was the 11th data who was given to players for free on release. The other free heroes are  ,  , ,   , , , ,  ,  and.

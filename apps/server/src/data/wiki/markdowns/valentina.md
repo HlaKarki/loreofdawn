@@ -46,7 +46,7 @@ As she grew older, she went to the frontier and helped the house repel wave afte
 
 The news of victories in Lantis Mountains became the only thing that could put the civilians' minds at ease. As a result, House Paxley rose quickly among the nobles, while Valentina became the youngest and only female member of the house council.
 
-In search of allies, Valentina went alone to Moonlit Forest despite the Empire's prolonged hostility toward the Elves. The Elf King, Estes, refused Valentina's request, saying the Elves had no interest in humans' warfare. An Elf hero named Irlan, however, was moved by Valentina's sincere words. Unlike Estes, he believed with the fall of the human empire, the demise of Moonlit Forest would also be imminent.
+In search of allies, Valentina went alone to Moonlit Forest despite the Empire's prolonged hostility toward the Elves. The Elf King, Estes, refused Valentina's request, saying the Elves had no interest in humans' warfare. An Elf data named Irlan, however, was moved by Valentina's sincere words. Unlike Estes, he believed with the fall of the human empire, the demise of Moonlit Forest would also be imminent.
 
 A few heated words were exchanged, after which Irlan followed Valentina out of Moonlit Forest with his friends.
 
@@ -90,15 +90,15 @@ Since then, Valentina had been hiding among the shadows, silently waiting for th
 
 ## Primal Force
 
-Valentina gains extra EXP each time she deals damage to an enemy hero and can convert a portion of damage into HP under certain conditions.
+Valentina gains extra EXP each time she deals damage to an enemy data and can convert a portion of damage into HP under certain conditions.
 
 - Type: Magic Damage
 - Secondary: Magic Lifesteal
 
 Description:
 
-- Valentina gains 8–50 extra EXP each time she deals damage to an enemy hero. Cooldown: 2 seconds.
-- If the enemy hero's level isn't higher than Valentina's, 30% of the damage dealt is converted into her HP.
+- Valentina gains 8–50 extra EXP each time she deals damage to an enemy data. Cooldown: 2 seconds.
+- If the enemy data's level isn't higher than Valentina's, 30% of the damage dealt is converted into her HP.
 - The EXP scales with Valentina's level.
 
 Scaling:
@@ -157,17 +157,17 @@ Notes:
 
 ## I Am You
 
-Valentina siphons the target enemy hero's Ultimate, allowing her to cast it and assume aspects of that hero for a duration.
+Valentina siphons the target enemy data's Ultimate, allowing her to cast it and assume aspects of that data for a duration.
 
 - Effects: Morph, Slowed (on target)
 
 Description:
 
-- Valentina slows the target enemy hero by 70% for 0.5 seconds and gains the ability to cast their Ultimate.
-- Casting the enemy's Ultimate turns Valentina into the enemy hero's form and allows her to inherit their Basic Attack type for up to 12 seconds.
+- Valentina slows the target enemy data by 70% for 0.5 seconds and gains the ability to cast their Ultimate.
+- Casting the enemy's Ultimate turns Valentina into the enemy data's form and allows her to inherit their Basic Attack type for up to 12 seconds.
 - Her regular skills remain unchanged, unless the enemy's Ultimate has a Morph effect.
 - The stolen Ultimate's level will be equal to Valentina's level and the cooldown will be 120%–100% of the target's cooldown (but not lower than 10 seconds).
-- Valentina gains physical-attack benefits for the duration if the enemy is a Physical Damage hero.
+- Valentina gains physical-attack benefits for the duration if the enemy is a Physical Damage data.
 - This cannot be used on an enemy Valentina.
 
 Scaling and Values:
@@ -181,14 +181,14 @@ Notes and Special Interactions:
 
 - The duration ends when the skill duration expires or through manual cancellation.
 - The target enemy will have an animation indicating their ability is being siphoned; the indicator vanishes if the ability is used or cancelled.
-- If Valentina turns into the enemy hero's form, neither her nor the copied hero's voice lines will play.
-- Siphoning an enemy hero can also copy their equipped skin and its skin effects.
+- If Valentina turns into the enemy data's form, neither her nor the copied data's voice lines will play.
+- Siphoning an enemy data can also copy their equipped skin and its skin effects.
 - Valentina can only copy the default/first phase of ultimates regardless of the target's current form.
 - Some ultimates that require activation from non-Ultimates can be used immediately by Valentina after siphoning.
-- Buffs, stacks, and summoned units that came from the copied hero will disappear when the skill duration ends or when Valentina manually cancels it.
+- Buffs, stacks, and summoned units that came from the copied data will disappear when the skill duration ends or when Valentina manually cancels it.
 - Valentina's death cancels the copy immediately.
 - The stolen Ultimate begins cooldown (from a maximum of 10 seconds) as soon as the ability is cast.
-- Valentina's attack range and other minor parameters may be adjusted depending on the copied hero's mechanics.
+- Valentina's attack range and other minor parameters may be adjusted depending on the copied data's mechanics.
 
 Bugs:
 
@@ -196,8 +196,8 @@ Bugs:
 
 # Trivia
 
-- She is the first hero that is able to copy an enemy's skill.
-- She is the first hero that has an ability related to the experience level.
-- If both the ally and opposing teams pick the same hero, she may participate in duplicated hero forms at the same time, stacking up ultimate skill effects that are not possible in normal matches.
-- Due to a bug prior to Patch 1.6.42, she could copy the hero's icons in battle.
+- She is the first data that is able to copy an enemy's skill.
+- She is the first data that has an ability related to the experience level.
+- If both the ally and opposing teams pick the same data, she may participate in duplicated data forms at the same time, stacking up ultimate skill effects that are not possible in normal matches.
+- Due to a bug prior to Patch 1.6.42, she could copy the data's icons in battle.
 - Her release was postponed across platforms due to delays in the Patch 1.6.34 update and app review timing, affecting Valentina-related events and releases.

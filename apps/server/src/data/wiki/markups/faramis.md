@@ -1,8 +1,8 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Hero info}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | alias          = Soul Binder
 | born           = [[Lumina City]], [[Moniyan Empire]]<ref name="FaramisNecrokeep"/>
@@ -179,7 +179,7 @@ The range of soul fragment absorption is increased while this skill is active.
 |mana-cost       = 75 / 85 / 95 / 105 / 115 / 125 
 |energy-cost     = 
 |quote           = 
-|description     = Faramis gathers Nether energy in a fan-shaped area ahead, dealing {{Scale|base=330-480|total-mp=144|md}} to enemies within. The energy will then split and bounce to nearby enemies, dealing {{Scale|base=200-300|total-mp=72|md}} (splits up to 2 times on enemy hero hits and 1 time on non-enemy hero hits).
+|description     = Faramis gathers Nether energy in a fan-shaped area ahead, dealing {{Scale|base=330-480|total-mp=144|md}} to enemies within. The energy will then split and bounce to nearby enemies, dealing {{Scale|base=200-300|total-mp=72|md}} (splits up to 2 times on enemy data hits and 1 time on non-enemy data hits).
 |term-1          = Magic Skill
 |term-2          = 
 |term-3          = 
@@ -213,7 +213,7 @@ The range of soul fragment absorption is increased while this skill is active.
 |mana-cost       = 150 / 250 / 350
 |energy-cost     = 
 |quote           = 
-|description     = Faramis turns his surroundings into the {{b|Nether Realm|e}} for 6s, making affected allied hero (including himself) enter the {{b|Specter|e}} state and granting them {{Scale|base=400-800}} plus {{Scale|base=10|total-mp=5}}% {{b|extra HP}} and 50% extra [[Movement Speed]] for 1s. When {{b|Specter|e}} state breaks, the hero will clear all debuffs and enter a brief Resurrection state for 1s. An allied hero's {{b|Specter|e}} state ends when they leave the {{b|Nether Realm|e}}.
+|description     = Faramis turns his surroundings into the {{b|Nether Realm|e}} for 6s, making affected allied data (including himself) enter the {{b|Specter|e}} state and granting them {{Scale|base=400-800}} plus {{Scale|base=10|total-mp=5}}% {{b|extra HP}} and 50% extra [[Movement Speed]] for 1s. When {{b|Specter|e}} state breaks, the data will clear all debuffs and enter a brief Resurrection state for 1s. An allied data's {{b|Specter|e}} state ends when they leave the {{b|Nether Realm|e}}.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -267,9 +267,9 @@ Legends Arise - Cinematic Trailer of Rise of Necrokeep - Project NEXT - Mobile L
 </gallery>
 
 == Trivia ==
-*Faramis was originally released as a pure [[Support]] hero.
-*Faramis finally received a skin ("Royal Magus") on 24 October 2022 making it the longest time for a hero to receive a second skin, in a span of 3 years, 5 months and 6 days or 1255 days.
-*Faramis is the first hero to receive a Mythic skin "Infernal Magister", next being [[Clint]].
+*Faramis was originally released as a pure [[Support]] data.
+*Faramis finally received a skin ("Royal Magus") on 24 October 2022 making it the longest time for a data to receive a second skin, in a span of 3 years, 5 months and 6 days or 1255 days.
+*Faramis is the first data to receive a Mythic skin "Infernal Magister", next being [[Clint]].
 *He is a physician and a necromancer.
 *He is currently the only {{Support|Support}} who isn't officially listed in the [[Roamer]] list but rather is only listed as a [[Mid Laner]].
 *His abilities and aesthetic are similar to necromancers from fantasy lore, such as the '''Lich King (Warcraft)''' and '''Vlad Dracula-inspired characters'''.

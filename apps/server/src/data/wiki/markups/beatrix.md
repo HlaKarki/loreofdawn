@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image           = <gallery>
 Beatrix comic.png|Comic
 Beatrix lethalnexusIntegration.png|Lethal Nexus Website
@@ -104,7 +104,7 @@ Responsible for averting a crisis in Eruditio, Beatrix finally earned herself an
 |skill-type-1       = Physical Basic Attack
 |description        = Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower.<br>{{b|Renner}} Basic Attack - {{AVC1|Longshot|e}}: Fire a powerful shot in the enemy's current direction, dealing {{scale|total-pa=360%-535|pd}} to the first target hit (this shot can be dodged, or blocked by others. Deals {{b|50% damage|pd}} to creeps).<br>Beatrix cannot {{b|crit}}, and converts every 1% {{b|Critical Chance}} gained into 2 {{b|Physical Attack}}
 |ls-1               = Basic Attack Damage: 360% / 372.5% / 385% / 397.5% / 410% / 422.5% / 435% / 447.5% / 460% / 472.5% / 485% / 497.5% / 510% / 522.5% / 535%
-|calc               = <math>{\rm Basic\ attack\ damage} = 347.5% + (12.5% \times hero\ level)</math>
+|calc               = <math>{\rm Basic\ attack\ damage} = 347.5% + (12.5% \times data\ level)</math>
 |term-1             = Physical Basic Attack
 |notes              = *She can only automatically fire an Outer Turret Shield whilst stationary.
 }}
@@ -116,7 +116,7 @@ Responsible for averting a crisis in Eruditio, Beatrix finally earned herself an
 |skill-type-1       = Physical Basic Attack
 |description        = Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower.<br>{{b|Bennett}} Basic Attack - {{AVC1|Area Bombing|e}}: Choose a location to bombard, dealing {{scale|total-pa=180%-320|pd}} to all enemies in that area and {{AVC1|slowing}} them by 30% for 0.5 second (Deals {{b|50% damage|pd}} to creeps).<br>Beatrix cannot {{b|crit}}, and converts every 1% {{b|Critical Chance}} gained into 2 {{b|Physical Attack}}
 |ls-1               = Basic Attack Damage: 180% / 190% / 200% / 210% / 220% / 230% / 240% / 250% / 260% / 270% / 280% / 290% / 300% / 310% / 320%
-|calc               = <math>{\rm Basic\ attack\ damage} = 170% + (10% \times hero\ level)</math>
+|calc               = <math>{\rm Basic\ attack\ damage} = 170% + (10% \times data\ level)</math>
 |term-1             = Physical Basic Attack
 |notes              = *Area Bombing only benefits 50% of {{b|Physical Lifesteal}}.
 }}
@@ -129,7 +129,7 @@ Responsible for averting a crisis in Eruditio, Beatrix finally earned herself an
 |description        = Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower.<br>{{b|Wesker}} Basic Attack - {{AVC1|Proximity Advantage|e}}: Fire 5 shots at the target, each one dealing {{scale|total-pa=125%-195|pd}} ({{AVC1|damage|pd}} dealt to targets hit multiple times decays to {{b|40%|pd}}. Deals {{b|50% damage|pd}} to creeps).<br>Beatrix cannot {{b|crit}}, and converts every 1% {{b|Critical Chance}} gained into 2 {{b|Physical Attack}}
 |ls-1               = Basic Attack Damage: 125% / 130% / 135% / 140% / 145% / 150% / 155% / 160% / 165% / 170% / 175% / 180% / 185% / 190% / 195%
 |ss-1               = Decay Ratio: {100% / 70% / 40% / 40% / 40%}
-|calc               = <math>{\rm Basic\ attack\ damage} = 120% + (5% \times hero\ level)</math>
+|calc               = <math>{\rm Basic\ attack\ damage} = 120% + (5% \times data\ level)</math>
 |term-1             = Physical Basic Attack
 |notes              = *Proximity Advantage only benefits 50% of {{b|Physical Lifesteal}}.
 *The decay ratio for the second shot is reduced to 70% {{b|Physical Damage}}. Decay ratio of the third and subsequent attacks remain unchanged as {{b|40%|pd}}.
@@ -144,7 +144,7 @@ Responsible for averting a crisis in Eruditio, Beatrix finally earned herself an
 |skill-type-1       = Physical Basic Attack
 |description        = Her extraordinary talent in the field of mechanics allowed Beatrix to produce 4 weapon(s) of truly awe-inspiring firepower.<br>{{b|Nibiru}} Basic Attack - {{AVC1|Rapid Fire|e}}: Let loose a volley of 4 shots, each one dealing {{scale|total-pa=50%-67.5|pd}} (Deals {{b|50% damage|pd}} to creeps).<br>Beatrix cannot {{b|crit}}, and converts every 1% {{b|Critical Chance}} gained into 2 {{b|Physical Attack}}.
 |ss-1               = Basic Attack Damage: 50% / 51.25% / 52.5% / 53.75% / 55% / 56.25% / 57.5% / 58.75% / 60% / 61.25% / 62.50% / 63.75% / 65% / 66.25% / 67.5%
-|calc               = <math>{\rm Basic\ attack\ damage} = 48.75% + (1.25% \times hero\ level)</math>
+|calc               = <math>{\rm Basic\ attack\ damage} = 48.75% + (1.25% \times data\ level)</math>
 |term-1             = Physical Basic Attack
 |notes              = *{{ai|Basic Attack Effects|name=Basic Attack}} will be triggered up to 4 times per Rapid Fire.
 **{{AVC1|Physical Damage}} from {{ii|Demon Hunter Sword}}'s Unique Passive Devour is reduced to 2% of the target's {{b|current HP}} per shot.
@@ -271,7 +271,7 @@ Battle Emote - Blooming Fireworks.png|'''Blooming Fireworks'''<br>liga latam 202
 
 == Trivia ==
 * The name Beatrix came from the name Viatrix, originated from Late Latin name Viator, meaning "Voyager" or "Traveler".
-*In the [[New Arrival Shop]], Beatrix's hero description is "A gifted crack shot with a variety of strong and lively weapons".
+*In the [[New Arrival Shop]], Beatrix's data description is "A gifted crack shot with a variety of strong and lively weapons".
 *According to one of the tips during her in-game loading screen, carrying different weapons puts Beatrix in different moods; explaining her different voice tones when picking up certain weapons.
 **{{ai|Mechanical Genius (Nibiru)|Nibiru}} is represented by a grinning emoticon, hence the name of the Ultimate "{{ai|Nibiru's Passion}}".
 **{{ai|Mechanical Genius (Wesker)|Wesker}} is represented by a winking with tongue-out emoticon, hence the name of the Ultimate "{{ai|Wesker's Elation}}".
@@ -280,19 +280,19 @@ Battle Emote - Blooming Fireworks.png|'''Blooming Fireworks'''<br>liga latam 202
 * According to her [https://play.mobilelegends.com/lethalnexusIntegration/ Lethal Nexus character page], Beatrix is 17 years old and develops weird inventions for a hobby.
 *According to a question in April 2021's [[Trial of Knowledge]], Beatrix dislikes the number four.
 **Interestingly it references that "4" is considered to be a "negative" number in the [https://en.wikipedia.org/wiki/Sinosphere#:~:text=The%20Sinosphere%2C%20also%20known%20as,Japan%2C%20Korea%2C%20and%20Vietnam. Sinosphere or East Asian Cultures] because 四 (sì in chinese, shi in japanese on'yomi, sa in korean, tứ in vietnamese) meaning "4" is a homophone to 死 (sǐ in chinese, shi in japanese, sa in korean, tử in vietnamese) meaning "Death", The number "4" was avoided in building floors, phone numbers and addresses in China, Hong Kong and Japan because of the superstition that this number could led to death but it is less extreme in South Korea and Vietnam<ref>[https://en.wikipedia.org/wiki/Tetraphobia Tetraphobia Wikipedia]</ref>, it is considered the eastern equivalent to [https://en.wikipedia.org/wiki/Triskaidekaphobia "13" being a negative number in the western world].  
-*Beatrix is the first hero with different multiple dying animations (up to four).
+*Beatrix is the first data with different multiple dying animations (up to four).
 **Dying when using {{ai|Mechanical Genius (Nibiru)|Nibiru}} causes Beatrix to be knocked down into a crawling position before lying face down.
 **Dying when using {{ai|Mechanical Genius (Wesker)|Wesker}} causes Beatrix to be quickly knocked flat on her back with both legs straight.
 **Dying when using {{ai|Mechanical Genius (Renner)|Renner}} causes Beatrix to slowly fall backwards and lies down on her left side.
 **Dying when using {{ai|Mechanical Genius (Bennett)|Bennett}} causes Beatrix to kneel on both knees before lying face down.
 *Beatrix's skills do not benefit from {{AVC1|Spell Vamp}}, but from {{AVC1|Physical Lifesteal|Physical Lifesteal}} instead.
 **Along with {{Hero Icon|name=Alucard}} and {{hi|Ruby}}, '''Beatrix''' is one of the heroes in the game whose skills benefits from {{AVC1|Physical Lifesteal}}. 
-*Beatrix is the fifth hero in the game whose passive converts a stat ('''{{AVC1|Critical Chance}}''') to another stat ('''{{AVC1|Physical Attack}}''').
+*Beatrix is the fifth data in the game whose passive converts a stat ('''{{AVC1|Critical Chance}}''') to another stat ('''{{AVC1|Physical Attack}}''').
 **The other heroes with stat-converting mechanics are {{hi|Lesley}}, {{hi|Lunox}}, {{hi|Kimmy}}, {{hi|Terizla}} and {{hi|name=Natan}}.
 *Beatrix is the second {{Marksman|[[Marksman]]}} without '''{{AVC1|Mana}}''' or '''{{AVC1|Energy}}''', the first being {{hi|Granger}}.
-*Beatrix is the fourth hero who can attack [[Defensive Turrets|turrets]] from outside their range, using {{ai|Mechanical Genius (Renner)|Renner}} or {{ai|Mechanical Genius (Bennett)|Bennett}}.
+*Beatrix is the fourth data who can attack [[Defensive Turrets|turrets]] from outside their range, using {{ai|Mechanical Genius (Renner)|Renner}} or {{ai|Mechanical Genius (Bennett)|Bennett}}.
 **The other heroes are {{hi|Layla}} upon maxing up the level of her {{ai|Destruction Rush}}, {{hi|Clint}} with his {{ai|Double Shot}} activated, and {{hi|Lesley}} with her {{ai|Lethal Shot}} activated.
-* Using {{ai|Mechanical Genius (Renner)|Renner}} or {{ai|Mechanical Genius (Bennett)|Bennett}}, Beatrix is the second hero whose {{ai|Basic Attack}} requires manual aiming, the first being {{hi|Kimmy}}.
+* Using {{ai|Mechanical Genius (Renner)|Renner}} or {{ai|Mechanical Genius (Bennett)|Bennett}}, Beatrix is the second data whose {{ai|Basic Attack}} requires manual aiming, the first being {{hi|Kimmy}}.
 *Beatrix is the second {{Marksman|[[Marksman]]}} with bullets reloading mechanism, the first being {{hi|Granger}}.
 *Including [[Survival: Nexus]] and Ravage mode, Beatrix has a total of 10 weapons.
 **Beatrix's weapons are a pair of {{ai|Mechanical Genius (Nibiru)|sub-machine guns}}, a {{ai|Mechanical Genius (Wesker)|shotgun}}, a {{ai|Mechanical Genius (Renner)|sniper rifle}}, a {{ai|Mechanical Genius (Bennett)|grenade launcher}}, a heavy machine gun, a boomerang, a laser gun, an energy gun, a flamethrower, and a sword.
@@ -300,7 +300,7 @@ Battle Emote - Blooming Fireworks.png|'''Blooming Fireworks'''<br>liga latam 202
 *Beatrix was originally called Boudicca.
 *In the [[Advanced Server]], {{ai|Wesker's Elation}} was previously a circular AoE Damage skill before being revamped.
 **Beatrix's previous line of the Ultimate was ''Bullets around!''" before being replaced by its current line.
-* Beatrix originally gave a salute with her right hand and did not wield any weapon at the end of her hero animation.
+* Beatrix originally gave a salute with her right hand and did not wield any weapon at the end of her data animation.
 ** This is replaced as Beatrix currently salutes with her left hand as her right hand wields {{ai|Mechanical Genius (Bennett)|Bennett}}.
 *Beatrix was born in Castle Gorge within the [[Moniyan Empire]], but currently resides in [[Eruditio]].
 *The name of Beatrix's {{Skin Tag|type=Basic}} 'X Factor', lexically refers to a noteworthy special talent/quality and also a variable in a given situation that could have the most significant impact on the outcome.

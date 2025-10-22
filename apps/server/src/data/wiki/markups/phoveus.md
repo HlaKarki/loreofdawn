@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
-He was released as part of the [[515 eParty 2021]]. Players had a chance to redeem the hero for free for a limited time.
+{{Tabs data}}
+{{Infobox data}}
+He was released as part of the [[515 eParty 2021]]. Players had a chance to redeem the data for free for a limited time.
 {{Hero stats|basic_attack_range=2.3}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Revamp Phoveus Comic.jpg
 | alias          = *Shadow of Dread (formerly)
 *Chains of Sin
@@ -44,7 +44,7 @@ Phoveus was framed. Having been severely punished, he was then sent to fight wit
 === Lore ===
 Phoveus was once a Moniyan soldier from the borders of the Lantis Mountains. His unit, consisting of fourteen hardened warriors, was well known among the locals for their reckless bravery, fighting against the Abyss using questionable yet effective methods. 
 
-During one disastrous offensive by the Empire, Phoveus was forced to invoke the power of an Evil God to turn the tide. Despite the lives he saved, Phoveus was branded a sinner for conspiring with a demon. On the way to his execution, the Evil God attempted to take over Phoveus's body, but Phoveus took advantage of the situation to bind himself and the Evil God together in a stone monolith. While the Empire still condemns Phoveus as a sinner, those on the border will forever regard him as a hero.
+During one disastrous offensive by the Empire, Phoveus was forced to invoke the power of an Evil God to turn the tide. Despite the lives he saved, Phoveus was branded a sinner for conspiring with a demon. On the way to his execution, the Evil God attempted to take over Phoveus's body, but Phoveus took advantage of the situation to bind himself and the Evil God together in a stone monolith. While the Empire still condemns Phoveus as a sinner, those on the border will forever regard him as a data.
 
 The Nameless Monolith under the crimson twilight of the Moniyan sky, the stench of blood wafting through the cold air hinted at a gruesome battle not long ago.
 
@@ -107,7 +107,7 @@ The monolith now imprisoned two souls, yet Phoveus had never felt more liberated
 |recharging-time = 
 |mana-cost       = 
 |quote           = 
-|description     = Phoveus' next {{ai|Basic Attack}} allows him to charge at the enemy, [[Knocked back|knocking them back]], dealing extra {{scale|md}} equal to 4% of the enemy's Max HP, and gaining a [[Shield]] equal to 8% of his Max Hp. This effect has a 26-14 seconds cooldown (based on {{ai|Infernal Pursuit}} level). <br> {{b|Astaros' Gaze|e}}: Whenever an enemy hero [[Blink and charge|blink, dashes,]] or is [[Knocked back|displaced]] within 8 units of Phoveus, the cooldown of {{ai|Demonic Force}} will be reduced by 20% and the cooldown of his other skills will be reduced by 0.5 second.
+|description     = Phoveus' next {{ai|Basic Attack}} allows him to charge at the enemy, [[Knocked back|knocking them back]], dealing extra {{scale|md}} equal to 4% of the enemy's Max HP, and gaining a [[Shield]] equal to 8% of his Max Hp. This effect has a 26-14 seconds cooldown (based on {{ai|Infernal Pursuit}} level). <br> {{b|Astaros' Gaze|e}}: Whenever an enemy data [[Blink and charge|blink, dashes,]] or is [[Knocked back|displaced]] within 8 units of Phoveus, the cooldown of {{ai|Demonic Force}} will be reduced by 20% and the cooldown of his other skills will be reduced by 0.5 second.
 |term-1          = Displacement
 |term-2          = 
 |term-3          = 
@@ -190,7 +190,7 @@ The monolith now imprisoned two souls, yet Phoveus had never felt more liberated
 |mana-cost       = 
 |energy-cost     = 
 |quote           = 
-|description     = {{b|Sinner|e}}: {{ai|Demonic Force}}, {{ai|Astaros Eye}}, and {{ai|Dark Wave}} can apply {{b|Sinner's Mark|e}} to the enemy hero hit. <br> {{b|Judgement|e}}: Phoveus leaps into the air and smashes down with his monolith at the enemy hero with {{b|Sinner's Mark|e}}, dealing {{scale|base=250-500|total-pa=100}} plus extra {{AVC1|Physical Damage}} equal to 5% of the target's Max HP to enemies in the area while Phoveus recovers 50 plus 6% of his Lost HP. <br> The HP recovered is reduced by 80% when hitting multiple enemies.
+|description     = {{b|Sinner|e}}: {{ai|Demonic Force}}, {{ai|Astaros Eye}}, and {{ai|Dark Wave}} can apply {{b|Sinner's Mark|e}} to the enemy data hit. <br> {{b|Judgement|e}}: Phoveus leaps into the air and smashes down with his monolith at the enemy data with {{b|Sinner's Mark|e}}, dealing {{scale|base=250-500|total-pa=100}} plus extra {{AVC1|Physical Damage}} equal to 5% of the target's Max HP to enemies in the area while Phoveus recovers 50 plus 6% of his Lost HP. <br> The HP recovered is reduced by 80% when hitting multiple enemies.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -245,10 +245,10 @@ Ever seen the real power? Check out the border guardian, Phoveus!
 
 == Trivia ==
 *Phoveus is the 7th and is one of the heroes who was given to players for free on release. The other free heroes are {{hi|Faramis}}, {{hi|Belerick}}, {{hi|Silvanna}}, {{hi|Luo Yi}}, {{hi|Benedetta}}, {{hi|Mathilda}}, {{hi|Floryn}}, {{hi|Edith}} and {{hi|Julian}}.
-**Phoveus is the third hero to be given for free during the 515 event (of 2021). The other are {{hi|name=Faramis}}, {{hi|Luo Yi}} and {{hi|Julian}}
+**Phoveus is the third data to be given for free during the 515 event (of 2021). The other are {{hi|name=Faramis}}, {{hi|Luo Yi}} and {{hi|Julian}}
 *In the old voicelines, Astaros speaks in Latin on certain quotes.
 *He used to be a Magic Damage Hero, but was revamped to Physical Damage while still retaining some Magic Damage.
-* Phoveus has not received a skin since his release on 11 May 2021, therefore breaking the record for the longest time for a hero to receive a skin other than the basic skin, which is {{hi|Faramis}} (1255 days) in a span of {{#invoke:datecalc|main|diff|2025/06/30|2021/05/11}} days at 30 June 2025.
+* Phoveus has not received a skin since his release on 11 May 2021, therefore breaking the record for the longest time for a data to receive a skin other than the basic skin, which is {{hi|Faramis}} (1255 days) in a span of {{#invoke:datecalc|main|diff|2025/06/30|2021/05/11}} days at 30 June 2025.
 
 == References ==
 {{Reflist}}

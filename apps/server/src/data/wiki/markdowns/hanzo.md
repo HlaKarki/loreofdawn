@@ -69,7 +69,7 @@ Damage dealt by Hanzo's basic attacks and skills inflict a stack of Ame No Habak
 
 Ninjutsu: Demon Feast
 
-- This skill can only be used on targets with max stacks of Ame No Habakiri. If the target is a Common Creep, Hanzo will immediately devour them and digest over a period of time to recover 20% HP. Targeting enemy heroes deals true damage to the hero; targeting Lord or Turtle deals significantly increased true damage.
+- This skill can only be used on targets with max stacks of Ame No Habakiri. If the target is a Common Creep, Hanzo will immediately devour them and digest over a period of time to recover 20% HP. Targeting enemy heroes deals true damage to the data; targeting Lord or Turtle deals significantly increased true damage.
 - Properties:
   - Base Damage: 540 / 576 / 612 / 648 / 684 / 720
   - True Damage: 500 / 700 / 900 / 1100 / 1300 / 1500
@@ -78,7 +78,7 @@ Ninjutsu: Demon Feast
 
 Forbidden Ninjutsu: Soul Snatch
 
-- Hanekage dashes to an enemy hero, dealing physical damage to the target and its surrounding units after a brief delay. Each stack of Ame No Habakiri on the target increases the damage by 20% (surrounding units are not affected by this bonus). When the target has max stacks of Ame No Habakiri, it deals additional damage equal to a percentage of the target's Max HP (this damage ignores 30% of the target's Physical Defense) and recovers 30% HP for Hanzo.
+- Hanekage dashes to an enemy data, dealing physical damage to the target and its surrounding units after a brief delay. Each stack of Ame No Habakiri on the target increases the damage by 20% (surrounding units are not affected by this bonus). When the target has max stacks of Ame No Habakiri, it deals additional damage equal to a percentage of the target's Max HP (this damage ignores 30% of the target's Physical Defense) and recovers 30% HP for Hanzo.
 - Properties:
   - Base Damage: 270 / 288 / 306 / 324 / 342 / 360
   - Physical Bonus: 60% / 64% / 68% / 72% / 76% / 80%
@@ -104,7 +104,7 @@ Forbidden Ninjutsu: Black Mist
 
 Kinjutsu: Pinnacle Ninja
 
-- Hanzo transforms, charging into battle as Hanekage and consuming 12.5 Energy per second. He gains 2 Energy when a non-hero unit dies nearby and 20 Energy when it's a hero. After consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position.
+- Hanzo transforms, charging into battle as Hanekage and consuming 12.5 Energy per second. He gains 2 Energy when a non-data unit dies nearby and 20 Energy when it's a data. After consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position.
 - While in Hanekage form, Hanzo's body is invincible, and Hanekage ignores obstacles and gains 35% Movement Speed and 30% Attack Speed. After Hanekage is killed, Hanekage will be immediately drawn to Hanzo's position, during which he recovers 16% HP and cannot be targeted. This effect is also triggered when this skill is cast again. If Hanekage is killed, Hanzo will be slowed by 50% and reveal his location for 6 seconds.
 - Cooldown: 24.0 / 21.0 / 18.0 (according to skill level)
 

@@ -25,7 +25,7 @@ For the following days, Odette hid Lancelot inside the Swan Castle so that he co
 
 Odette's meetings with Lancelot became the greatest fun of her days. As she gradually opened up to this new friend of hers, she would also tell him about her little adventures of rebellious delinquencies and even learned from him a few sword fighting techniques for self-defense.
 
-As they bonded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the hero Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.
+As they bonded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the data Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.
 
 > "Who do you think Lancelot is playing these songs to, Your Grace?"
 
@@ -123,5 +123,5 @@ Notes:
 - Her "Black Swan" skin is also a reference to another character from the same opera.
 - The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite), OP. 20
 - She was purchasable at first. Now, she can only be obtained by new players through quests, be bought in the Fragment Shop using Hero Fragments, or in the Lucky Shop using Lucky Gems.
-- Odette is the only hero that cannot be purchased using certain currencies.
+- Odette is the only data that cannot be purchased using certain currencies.
 - The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite).

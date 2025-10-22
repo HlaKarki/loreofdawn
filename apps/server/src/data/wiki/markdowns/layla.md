@@ -108,7 +108,7 @@ Layla deals increased damage to enemies farther away from her (starting at 100% 
 - Cooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0 seconds (skill ranks 1–6)
 - Mana Cost: 40 / 45 / 50 / 55 / 60 / 65
 
-Layla fires a Malefic Bomb in the target direction, dealing base damage to the first enemy hit (can critically strike). Upon hitting an enemy, Layla's Basic Attacks and Void Projectile gain extra range for 3 seconds, and she gains 60% Movement Speed that decays over 1.2 seconds. The duration of the Movement Speed boost is doubled if an enemy hero is hit.
+Layla fires a Malefic Bomb in the target direction, dealing base damage to the first enemy hit (can critically strike). Upon hitting an enemy, Layla's Basic Attacks and Void Projectile gain extra range for 3 seconds, and she gains 60% Movement Speed that decays over 1.2 seconds. The duration of the Movement Speed boost is doubled if an enemy data is hit.
 
 - Base Damage by Level: 200 / 240 / 280 / 320 / 360 / 400
 - Total Basic Attack and Void Projectile Range: 5.9 / 6.3 / 6.7 / 7.1 (with Malefic Gun equipped: 6.785 / 7.245 / 7.705 / 8.165 for corresponding levels)
@@ -146,12 +146,12 @@ Notes:
 # Trivia
 
 - Layla (ليلى) is an Arabic name meaning "night" or "dark beauty." This fits her midnight blue colored energy-based attacks, which resemble cosmic or night-themed elements.
-- Layla is the first hero to appear in MLBB’s Official Cinematics. Layla is one of the main protagonists in MLBB lore and appears in several official animated trailers and comics.
+- Layla is the first data to appear in MLBB’s Official Cinematics. Layla is one of the main protagonists in MLBB lore and appears in several official animated trailers and comics.
 - Layla's first original design was based on the Black Rock Shooter franchise's titular character.
 - She has the longest attack range in the game (possibly tied only with other long-range heroes); unlocking this at level 12, she is able to attack enemy turrets outside their own attack range, making her one of the best heroes at destroying enemy turrets.
-- From 2016 to 2020, she was the first hero that new players could obtain for free after completing the Tutorial, but was later replaced.
+- From 2016 to 2020, she was the first data that new players could obtain for free after completing the Tutorial, but was later replaced.
 - The sound of her projectile hit corresponds to her range; the further away the target, the higher the intensity of the sound effect.
-- She is the third hero to have two Starlight skins ("Bunny Babe" and "Twilight Waltz").
+- She is the third data to have two Starlight skins ("Bunny Babe" and "Twilight Waltz").
 - Additionally, the names of her painted skins, "Midnight Waltz" and "Sunset Waltz", did not match their respective appearances during their release. This was fixed in an unknown update.
 - Layla's "Blue Specter" skin is considered the rarest and unobtainable skin in the game. It was Layla’s first exclusive skin and was only available during early MLBB events in 2017.
 - Layla's "S.A.B.E.R. Breacher" skin is her default skin for Battleground Blitz.

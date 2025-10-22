@@ -41,7 +41,7 @@ Cyclops conjures Starlit Spheres around himself while gaining 30% Movement Speed
 
 ## Star Power Lockdown
 
-Cyclops creates a Planetary Sphere and sends it after target enemy hero or Creep, dealing damage and immobilizing them for 1-2s (increases with travel distance).
+Cyclops creates a Planetary Sphere and sends it after target enemy data or Creep, dealing damage and immobilizing them for 1-2s (increases with travel distance).
 
 - Cooldown: 43 seconds
 - Mana cost: 160 / 180 / 200

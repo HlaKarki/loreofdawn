@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|magic_def1=15|magic_def15=71|physical_def1=18|physical_def15=107}}
 
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 Gloo comic.jpg|Gloo
 Goo comic.jpg|Goo
@@ -117,7 +117,7 @@ When the fates of all the peoples become interlinked together, where will the ge
 |skill-effect-1  = AOE
 |skill-effect-2  = CC
 |quote           = 
-|description     = Gloo reaches out and slams the ground, dealing {{scale|base=80|total-mp=80|md}} to the enemy. <br> At the final, a {{link|Goo}} is left behind that explodes after 3 seconds to deal {{scale| base=300-450|extra-hp=12|md}} to nearby enemies and [[immobilize]] them for 1 second. If Gloo touches the {{link|Goo}}, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5%-5% of {{AVC1|Max HP}} if the explosion hits an enemy (doubled if hits an enemy hero).
+|description     = Gloo reaches out and slams the ground, dealing {{scale|base=80|total-mp=80|md}} to the enemy. <br> At the final, a {{link|Goo}} is left behind that explodes after 3 seconds to deal {{scale| base=300-450|extra-hp=12|md}} to nearby enemies and [[immobilize]] them for 1 second. If Gloo touches the {{link|Goo}}, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5%-5% of {{AVC1|Max HP}} if the explosion hits an enemy (doubled if hits an enemy data).
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -170,7 +170,7 @@ HP Regen: 2.5% / 3% / 3.5% / 4% / 4.5% / 5%
 |skill-effect-1  = Attach
 |skill-effect-2  = Heal
 |quote           = One is all. (All is one.)
-|description     = Unlocked when any enemy hero has full Sticky stacks. Gloo attaches itself to the target enemy hero for up to 9 seconds, recovering 25%-30% of its {{AVC1|Max HP}}. For the duration, its {{ii|Basic Attacks}} are converted to deal {{scale|base=30-90|total-mp=50|extra-hp=6|md}}, and it transfers 80% of the damage it receives (excluding damage from [[turrets]]) to its host. If the target dies while attached, this skill's cooldown is reduced to 5 seconds.
+|description     = Unlocked when any enemy data has full Sticky stacks. Gloo attaches itself to the target enemy data for up to 9 seconds, recovering 25%-30% of its {{AVC1|Max HP}}. For the duration, its {{ii|Basic Attacks}} are converted to deal {{scale|base=30-90|total-mp=50|extra-hp=6|md}}, and it transfers 80% of the damage it receives (excluding damage from [[turrets]]) to its host. If the target dies while attached, this skill's cooldown is reduced to 5 seconds.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -212,9 +212,9 @@ Hero1043-icon.png|Jellyman
 </gallery>-->
 
 == Trivia ==
-*The name Gloo is a pun of the word "Glue", referencing his {{ai|Grab, Grab|Ultimate}} to stick to an enemy hero.
-* Gloo is the second hero who can attach to another hero and use skills upon attaching, the first being {{hi|Angela}}.
-** Gloo is the first hero who attaches to an enemy hero, while {{hi|Angela}} attaches to an allied hero.
+*The name Gloo is a pun of the word "Glue", referencing his {{ai|Grab, Grab|Ultimate}} to stick to an enemy data.
+* Gloo is the second data who can attach to another data and use skills upon attaching, the first being {{hi|Angela}}.
+** Gloo is the first data who attaches to an enemy data, while {{hi|Angela}} attaches to an allied data.
 
 ==References==
 {{reflist}}

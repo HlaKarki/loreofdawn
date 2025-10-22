@@ -109,7 +109,7 @@ But Luo Yi's own ambitions stretched beyond all of this—to the utopia created 
 
 - Luo Yi's skills create Sigils on the battlefield. Each Sigil lasts up to 6 seconds.
 - Sigils of opposite attributes that come within a certain distance will trigger a Yin-Yang Reaction, dealing damage based on level and magic power to marked enemy heroes, stunning them for 1 second, and pulling them toward each other.
-- Each time Luo Yi applies a new Sigil to a marked enemy hero, she gains a stack (up to 3) and 30% extra Movement Speed that decays over 2 seconds.
+- Each time Luo Yi applies a new Sigil to a marked enemy data, she gains a stack (up to 3) and 30% extra Movement Speed that decays over 2 seconds.
 
 - Base Damage by level: 385 / 405 / 425 / 445 / 465 / 485 / 505 / 525 / 545 / 565 / 585 / 605 / 625 / 645 / 665.
 - Shield values and magic bonus shield scale with level and magic power. Example base shield progression shown: 310 / 320 / 330 / 340 / 350 / 360 / 370 / 380 / 390 / 400 / 410 / 420 / 430 / 440 / 450.
@@ -167,7 +167,7 @@ Notes:
 - Her title Geomancer, someone who practice geomancy which translate to Earth Divination.
 - Her abilities are inspired by Taoist Yin-Yang philosophy, which represents balance in the universe.
 - In the initial release on the advance server, she was called Yi and has four skills instead of three.
-- She is the first hero that can teleport teammates. Luo Yi's Ultimate (Diversion) allows her to teleport her teammates to a different location, making it one of the most game-changing mobility skills in MLBB.
-- Luo Yi was the first hero released in the "Oriental Fighters" revamp that introduced Eastern-themed lore into MLBB.
-- She is the third hero to use the concept of Yin and Yang along with other heroes.
+- She is the first data that can teleport teammates. Luo Yi's Ultimate (Diversion) allows her to teleport her teammates to a different location, making it one of the most game-changing mobility skills in MLBB.
+- Luo Yi was the first data released in the "Oriental Fighters" revamp that introduced Eastern-themed lore into MLBB.
+- She is the third data to use the concept of Yin and Yang along with other heroes.
 - Related / notable interactions: Baxia, Ling, Wanwan, Zilong, Yu Zhong, Kagura, Lunox.

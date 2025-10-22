@@ -60,7 +60,7 @@ Tempted with the promise of revenge, Moskov extracted the core of the vortex, th
 
 > Yet you did not flee, for the blood feud between your two tribes had reached a point of no return.
 
-> Quite the tragic hero you are.
+> Quite the tragic data you are.
 
 > In your final moments, you must have thought that this death was befitting of a desert warrior.
 
@@ -223,7 +223,7 @@ Term: Blink, Attack Speed.
 
 ## Spear of Misery
 
-Moskov launches a powerful strike at the target enemy hero or Creep, dealing base physical damage and additional physical attack scaling damage, knocking them back, and revealing their position for 5 seconds. If the target collides with an enemy hero when knocked back, both will take damage and be stunned for 1.5 seconds. If the enemy is knocked into a wall, they will also be stunned for 1.5 seconds.
+Moskov launches a powerful strike at the target enemy data or Creep, dealing base physical damage and additional physical attack scaling damage, knocking them back, and revealing their position for 5 seconds. If the target collides with an enemy data when knocked back, both will take damage and be stunned for 1.5 seconds. If the enemy is knocked into a wall, they will also be stunned for 1.5 seconds.
 
 - Cast Range: 4.5
 - Base Damage: 300 / 330 / 360 / 390 / 420 / 450
@@ -235,9 +235,9 @@ Term: Physical Damage Skill, Displacement, Stun.
 
 ## Spear of Destruction
 
-After a short delay, Moskov throws the spear in the target direction, dealing damage based on level and additional physical attack scaling to enemies in its path and to the first enemy hero hit. Upon hitting an enemy hero, the spear pierces them dealing piercing damage based on level and stats to enemies behind them. The target and enemies hit by the piercing damage are slowed by 50% for 1 second. The slow duration scales with the spear's travel time, up to 3 seconds.
+After a short delay, Moskov throws the spear in the target direction, dealing damage based on level and additional physical attack scaling to enemies in its path and to the first enemy data hit. Upon hitting an enemy data, the spear pierces them dealing piercing damage based on level and stats to enemies behind them. The target and enemies hit by the piercing damage are slowed by 50% for 1 second. The slow duration scales with the spear's travel time, up to 3 seconds.
 
-When the Spear of Destruction hits the first enemy hero, it creates a shadow behind them and refreshes the cooldown of Abyss Walker. Moskov casts Abyss Walker from the shadow's location, and this second casting shares the same cooldown as the normal skill.
+When the Spear of Destruction hits the first enemy data, it creates a shadow behind them and refreshes the cooldown of Abyss Walker. Moskov casts Abyss Walker from the shadow's location, and this second casting shares the same cooldown as the normal skill.
 
 - Base Damage: 340 / 420 / 500
 - Additional Physical Attack Scaling: 100

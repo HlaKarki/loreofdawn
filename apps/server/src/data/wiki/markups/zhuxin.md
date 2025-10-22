@@ -1,11 +1,11 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 She is the face of ''MLBB'' [[Season 33|Season 33: Butterfly Shadow]].
 {{Hero stats}}
 
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |name            = Zhuxin
 |image           = The Price of a Wish p5.jpg
 |full_name       = 
@@ -179,7 +179,7 @@ Movement Speed Reduction: 20% / 24% / 28% / 32% / 36% / 40%
 |skill-effect-1  = Damage
 |skill-effect-2  = CC
 |quote           = 
-|description     = {{Link|Hold}}: Zhuxin can move the {{Link|Spirit Lantern}} with the skill button, dealing {{Scale|base=33-88|total-mp=28|md}} to all enemies within range every 0.25 seconds (damage to Minions increased by 28%) and applying {{Link|Soul Snare}} to enemy heroes hit, each time consuming 90&ndash;120 Mana. When an enemy hero has 10 stacks of Soul Snare, the {{Link|Crimson Butterflies}} will capture them, pulling them [[airborne]] for 1 second.<br>{{Link|Release}}: Throws all captured enemies to the target location, dealing {{Scale|base=270-645|total-mp=150|md}} to all enemies in the area. (If an enemy takes damage multiple times, subsequent damage taken will be reduced by 80%.)
+|description     = {{Link|Hold}}: Zhuxin can move the {{Link|Spirit Lantern}} with the skill button, dealing {{Scale|base=33-88|total-mp=28|md}} to all enemies within range every 0.25 seconds (damage to Minions increased by 28%) and applying {{Link|Soul Snare}} to enemy heroes hit, each time consuming 90&ndash;120 Mana. When an enemy data has 10 stacks of Soul Snare, the {{Link|Crimson Butterflies}} will capture them, pulling them [[airborne]] for 1 second.<br>{{Link|Release}}: Throws all captured enemies to the target location, dealing {{Scale|base=270-645|total-mp=150|md}} to all enemies in the area. (If an enemy takes damage multiple times, subsequent damage taken will be reduced by 80%.)
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -255,7 +255,7 @@ Hero1253-color02-icon.png|Soulwisp Mystic
 </gallery>
 ===Battle emotes===
 {{Emote|Zhuxin}}
-==="The Unpredictable Zhuxin" hero series stickers===
+==="The Unpredictable Zhuxin" data series stickers===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="100" hideaddbutton="true">
 Zhuxin_angry.gif|"angry"
 Zhuxin_arrogant.gif|"arrogant"
@@ -293,7 +293,7 @@ NEW HERO COMING SOON - ZHUXIN - MLBB NEW HERO
 *''Zhu'' (朱) is a common Chinese surname, and it also means "vermillion" or "red" in Chinese. The color red often symbolizes luck, power, or good fortune in Chinese culture. The surname Zhu is quite prominent and is often associated with nobility, strength, and leadership. The character ''Xin'' (心) means "heart," "mind," or "soul" in Chinese. It symbolizes emotions, intellect, and the center of one’s being. It is often associated with strength of character, compassion, and intelligence.
 *When combined, '''Zhuxin''' could be interpreted as '''"Red Heart"''' or '''"Vermillion Heart"''', which suggests a strong emotional or passionate character, possibly someone with a fiery spirit or a leader with great resolve. It might reflect a person who has '''inner strength''', '''determination''', or '''courage''', symbolized by the combination of the color '''red''' (often associated with power and strength) and '''heart''' (representing emotions, soul, and core strength).
 *Her character draws inspiration from Chinese folklore, incorporating elements such as lanterns and butterflies, which are often associated with '''guidance''', '''transformation''', and the '''afterlife'''.
-*She is a hero with the highest level 1 [[Mana]], the highest [[Mana Regen]] on all levels, and the highest Mana Regen growth.
+*She is a data with the highest level 1 [[Mana]], the highest [[Mana Regen]] on all levels, and the highest Mana Regen growth.
 *Zhuxin likes sweet cakes, especially flower pastries.
 *Zhuxin harbors a dislike for bugs, a quirk that adds a touch of relatability to her ethereal character.
 

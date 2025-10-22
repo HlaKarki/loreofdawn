@@ -114,7 +114,7 @@ Notes:
 
 ## Lantern Flare
 
-Zhuxin can move the lantern with the skill button, dealing periodic damage to all enemies within range every 0.25 seconds and applying Soul Snare to enemy heroes hit. Damage to minions is increased by 28%. Each tick consumes mana when channeling. When an enemy hero accumulates 10 stacks of Soul Snare, the lantern will capture them, pulling them airborne for 1 second. Release: throws all captured enemies to the target location, dealing extra area damage.
+Zhuxin can move the lantern with the skill button, dealing periodic damage to all enemies within range every 0.25 seconds and applying Soul Snare to enemy heroes hit. Damage to minions is increased by 28%. Each tick consumes mana when channeling. When an enemy data accumulates 10 stacks of Soul Snare, the lantern will capture them, pulling them airborne for 1 second. Release: throws all captured enemies to the target location, dealing extra area damage.
 
 - Effect types: Damage, Crowd Control
 - Base damage per tick (by level): 33 / 44 / 55 / 66 / 77 / 88 (every 0.25 seconds)
@@ -149,6 +149,6 @@ Notes:
 - *Zhu* (朱) is a common Chinese surname, and it also means "vermillion" or "red" in Chinese. The color red often symbolizes luck, power, or good fortune in Chinese culture. The surname Zhu is quite prominent and is often associated with nobility, strength, and leadership. The character *Xin* (心) means "heart," "mind," or "soul" in Chinese. It symbolizes emotions, intellect, and the center of one’s being. It is often associated with strength of character, compassion, and intelligence.
 - When combined, **Zhuxin** could be interpreted as **"Red Heart"** or **"Vermillion Heart"**, which suggests a strong emotional or passionate character, possibly someone with a fiery spirit or a leader with great resolve. It might reflect a person who has inner strength, **determination**, **courage**, symbolized by the combination of the color **red** and **heart**.
 - Her character draws inspiration from Chinese folklore, incorporating elements such as lanterns and butterflies, which are often associated with **guidance**, **transformation**, and **afterlife**.
-- She is a hero with the highest level 1 Mana, the highest Mana Regen on all levels, and the highest Mana Regen growth.
+- She is a data with the highest level 1 Mana, the highest Mana Regen on all levels, and the highest Mana Regen growth.
 - Zhuxin likes sweet cakes, especially flower pastries.
 - Zhuxin harbors a dislike for bugs, a quirk that adds a touch of relatability to her ethereal character.

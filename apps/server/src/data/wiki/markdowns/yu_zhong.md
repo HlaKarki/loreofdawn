@@ -184,6 +184,6 @@ Bugs:
 - Yu Zhong can fly above obstacles during Dragon form, and is one of the only heroes who can do so.
 - He is a Fighter with 4 abilities.
 - The skill with the longest cooldown is the ultimate, at 85 seconds on level 1. It was later surpassed by another skill at 90 seconds on level 1.
-- Yu Zhong has the most hero quotes in the game.
+- Yu Zhong has the most data quotes in the game.
 - He already had quotes when he was released on the Advanced Server.
 - His quote "I don't give a damn…" is the second canon quote that features profanity.

@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | name           = 
 | image          = <gallery>
 Lancelot comic.jpg|Present
@@ -277,7 +277,7 @@ Battle Emote - Flawless.png|'''Flawless'''<br>Obtained via the [[Kishin Densetsu
 == Trivia ==
 *Lancelot’s fighting style is heavily inspired by fencing. He wields a [https://en.wikipedia.org/wiki/Rapier rapier], the primary weapon in fencing, known for its speed and precision.
 *Along with his lover {{hi|Odette}}, {{hi|Gatotkaca}}, {{hi|Kadita}},  and {{hi|Leomord}}, they are the only heroes to be based on literature.
-**He is based on the character with the same name in the Arthurian legend; depicted as King Arthur's greatest companion. Another hero based from Arthurian legend is {{hi|Leomord}}.
+**He is based on the character with the same name in the Arthurian legend; depicted as King Arthur's greatest companion. Another data based from Arthurian legend is {{hi|Leomord}}.
 **In the legend, his character's lover is supposed to be {{hi|Guinevere}}, but this is changed in the game as she was revealed as his younger sister instead.
 
 * The letter "L" he draws in his old entry animation is inspired by [https://en.wikipedia.org/wiki/Zorro Zorro]'s signature "Z".

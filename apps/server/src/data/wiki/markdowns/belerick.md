@@ -1,6 +1,6 @@
 # Profile
 
-Players had a chance to redeem the hero for free for a limited time.
+Players had a chance to redeem the data for free for a limited time.
 
 - **Aliases:** Guard of Nature; Nature's Child (previously)
 - **Born:** [The Oasis](The Oasis), Agelta Drylands
@@ -83,7 +83,7 @@ Notes:
 - The name Belerick doesn’t have a direct real-world meaning, but it might be inspired by botanical and mythical themes. It sounds similar to "Beleriand," a lush, ancient land in The Lord of the Rings, fitting his forest guardian theme. His name could be derived from "bark" or "bel" (a common prefix in fantasy names), reinforcing his identity as a living tree warrior.
 - His design and abilities resemble Treants (tree-like beings in fantasy worlds).
 - Old model Belerick is a young version of the current one.
-- His old model can be still seen in the hero intro.
+- His old model can be still seen in the data intro.
 - His skin "Torched Guardian" is the evil version of himself.
 - Belerick is regarded as one of the best heroes for damage reflection. His passive, Deadly Thorns, allows him to return damage to attackers, making him one of the best anti-marksman tanks in MLBB.
 - Many MLBB players compare Belerick to **Groot**, as both are **giant tree creatures** with a protective nature.

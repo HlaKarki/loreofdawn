@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image=Kaja comic.png
 | full_name      = 
 | alias          = Nazar King
@@ -92,7 +92,7 @@ As their leader, Kaja was able to refine the power of lighting into pure energy 
 {{Ability
 |name           = Divine Judgement
 |cooldown       = 60.0
-|description    = Kaja deals {{scale|base=300|total-mp=100|md}} to a designated enemy hero, [[suppresses]] and paralyzes them for 1.5 seconds.<br>During the suppression, Kaja can drag the enemy hero along with him.
+|description    = Kaja deals {{scale|base=300|total-mp=100|md}} to a designated enemy data, [[suppresses]] and paralyzes them for 1.5 seconds.<br>During the suppression, Kaja can drag the enemy data along with him.
 |ls-1           = Base Damage: 300 / 450 / 600
 |term-1         = Suppressed
 |term-2         = Magic Defense

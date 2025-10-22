@@ -50,7 +50,7 @@ The hunters of Mithlora won't allow every destroyer of harmony in the universe t
 
 ## Galactic Power
 
-Yve gains a stack each time she hits an enemy hero with Void Blast or Void Crystal (up to 10 stacks). Each stack of Galactic Power allows Yve to launch an extra attack on the next skill cast and increases the amount of shield gained by 5%.
+Yve gains a stack each time she hits an enemy data with Void Blast or Void Crystal (up to 10 stacks). Each stack of Galactic Power allows Yve to launch an extra attack on the next skill cast and increases the amount of shield gained by 5%.
 
 - Effect type: BUFF, Shield
 - Maximum stacks: 10
@@ -58,7 +58,7 @@ Yve gains a stack each time she hits an enemy hero with Void Blast or Void Cryst
 
 ## Void Blast
 
-Yve detonates at the target location, dealing magic damage to enemies in the area. Successfully hitting an enemy grants Yve 55% extra Movement Speed (halved if a non-hero enemy is hit) that decays over 1 second.
+Yve detonates at the target location, dealing magic damage to enemies in the area. Successfully hitting an enemy grants Yve 55% extra Movement Speed (halved if a non-data enemy is hit) that decays over 1 second.
 
 - Skill type: Magic Skill
 - Cooldown: 5.0 / 4.5 / 4.0 / 3.5 / 3.0 / 2.5 seconds

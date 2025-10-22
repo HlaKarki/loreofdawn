@@ -95,4 +95,4 @@ Notes:
 
 # Trivia
 
-- Despite being developed before several other heroes (Claude, Leomord, Badang), Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other hero. If you sort the heroes in the "Heroes" page by "Sale Time," Vale will appear between Claude and Leomord, instead of being after Badang. The hero order is due to his earlier introduction in Advanced Servers.
+- Despite being developed before several other heroes (Claude, Leomord, Badang), Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other data. If you sort the heroes in the "Heroes" page by "Sale Time," Vale will appear between Claude and Leomord, instead of being after Badang. The data order is due to his earlier introduction in Advanced Servers.

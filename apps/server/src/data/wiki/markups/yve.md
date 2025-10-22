@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Yve comic.png
 | full_name      = 
 | alias          = Astrowarden
@@ -85,7 +85,7 @@ The hunters of Mithlora won't allow every destroyer of harmony in the universe t
 |mana-cost       = 
 |energy-cost     = 
 |quote           = 
-|description     = Yve gains a stack of {{b|Galactic Power|e}} each time she hits an enemy hero with {{ai|Void Blast}} or {{ai|Void Crystal}} (up to 10 stacks). Each stack of Galactic Power allows Yve to launch an extra attack on the next {{ai|Real World Manipulation}} cast and increases the amount of shield gained by 5%.
+|description     = Yve gains a stack of {{b|Galactic Power|e}} each time she hits an enemy data with {{ai|Void Blast}} or {{ai|Void Crystal}} (up to 10 stacks). Each stack of Galactic Power allows Yve to launch an extra attack on the next {{ai|Real World Manipulation}} cast and increases the amount of shield gained by 5%.
 |ls-1            = 
 |ls-2            = 
 |ls-3            = 
@@ -119,7 +119,7 @@ The hunters of Mithlora won't allow every destroyer of harmony in the universe t
 |mana-cost       = 65 / 70 / 75 / 80 / 85 / 90
 |energy-cost     = 
 |quote           = 
-|description     = Yve detonates {{b|Galactic Energy|e}} at the target location, dealing {{Scale|base=350-600|total-mp=150|md}} to enemies in the area <br>Successfully hitting an enemy grants Yve 55% extra [[Movement Speed]] (halved if a non-hero enemy is hit) that decays over 1 second.
+|description     = Yve detonates {{b|Galactic Energy|e}} at the target location, dealing {{Scale|base=350-600|total-mp=150|md}} to enemies in the area <br>Successfully hitting an enemy grants Yve 55% extra [[Movement Speed]] (halved if a non-data enemy is hit) that decays over 1 second.
 |ls-1            = Base Damage: 350 / 400 / 450 / 500 / 550 / 600
 |ls-2            = 
 |ls-3            = 

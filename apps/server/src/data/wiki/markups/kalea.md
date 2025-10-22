@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 She is the face of MLBB [[Season 36|Season 36: Breaking Waves]].
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | name            = Kalea
 | image           = 
 | full_name       = 
@@ -172,7 +172,7 @@ With her serpent tail, this proud descendant of the Great Serpent swims graceful
 |skill-effect-1  = Mobility
 |skill-effect-2  = CC
 |quote           = 
-|description     = Kalea charges forward and body slams the first enemy hero she encounters, knocking them airborne for 0.6s while dealing {{scale|base=150|total-pa=60|pd}}.<br>If she collides with an obstacle or touches the edge of a {{Link|Water Zone}} during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing {{scale|base=150|total-pa=60|pd}} and knocking enemies airborne for 0.6s.
+|description     = Kalea charges forward and body slams the first enemy data she encounters, knocking them airborne for 0.6s while dealing {{scale|base=150|total-pa=60|pd}}.<br>If she collides with an obstacle or touches the edge of a {{Link|Water Zone}} during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing {{scale|base=150|total-pa=60|pd}} and knocking enemies airborne for 0.6s.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -207,7 +207,7 @@ Base Damage: 150 / 175 / 200 / 225 / 250 / 275
 |skill-effect-1  = CC
 |skill-effect-2  = 
 |quote           = 
-|description     = Kalea grabs an enemy hero with her tail and slams them down in the Joystick's direction, dealing {{scale|base=300|total-pa=80|pd}} to the target and nearby enemies.
+|description     = Kalea grabs an enemy data with her tail and slams them down in the Joystick's direction, dealing {{scale|base=300|total-pa=80|pd}} to the target and nearby enemies.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -256,7 +256,7 @@ Hero1283-icon.png|Sakura Haruno
 {{Emote|Kalea}}
 
 <!--
-=== "The Unpredictable Zhuxin" hero series stickers ===
+=== "The Unpredictable Zhuxin" data series stickers ===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="100" hideaddbutton="true">
 </gallery>
 

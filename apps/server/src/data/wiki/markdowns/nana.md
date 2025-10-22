@@ -108,17 +108,17 @@ Damage behavior:
 
 ## Molina Smooch
 
-Nana summons Molina at the target location. After a short delay, Molina will chase the nearest enemy hero in range for 2.5 seconds. Molina will deal morph damage to the first enemy hero it collides with and transform them for 1.5 seconds; it also slows them by 50% and reduces their Magic Defense by 25% for the duration. If there are no enemy heroes in range, Molina will disappear after 12 seconds.
+Nana summons Molina at the target location. After a short delay, Molina will chase the nearest enemy data in range for 2.5 seconds. Molina will deal morph damage to the first enemy data it collides with and transform them for 1.5 seconds; it also slows them by 50% and reduces their Magic Defense by 25% for the duration. If there are no enemy heroes in range, Molina will disappear after 12 seconds.
 
 - Morph damage by level: 250 / 275 / 300 / 325 / 350 / 375.
 - Slow effect by level: 50% / 54% / 58% / 62% / 66% / 70%.
 - Transform duration: 1.5 seconds.
-- If Molina is active and no enemy hero is in range, she disappears after 12 seconds.
+- If Molina is active and no enemy data is in range, she disappears after 12 seconds.
 
 Notes:
 
 - Affected enemies are revealed while under Molina's effects.
-- Molina will chase the enemy hero at an accelerating rate before she disappears.
+- Molina will chase the enemy data at an accelerating rate before she disappears.
 
 ## Molina Blitz
 
@@ -133,7 +133,7 @@ Nana summons Molina to strike the target area 3 times. Each strike deals base ma
 # Trivia
 
 - Her name (なな; na na) means seven in Japanese and it is a common feminine Japanese name.
-- Nana is the only hero in the game capable of transforming enemies.
+- Nana is the only data in the game capable of transforming enemies.
 - Nana has illeism, the act of referring to oneself in the third person instead of first person.
-- Her old voice lines is mostly based from the character Ruby from Magic Rush (not to be confused with in MLBB), another cat-like hero.
+- Her old voice lines is mostly based from the character Ruby from Magic Rush (not to be confused with in MLBB), another cat-like data.
 - Nana's old passive allowed her to give gold to nearby allies every 10 seconds (see Nana/History).

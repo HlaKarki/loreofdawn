@@ -794,7 +794,7 @@ Frigid Breath
 
 - Extra Hybrid Defense by level: 16 / 17 / 18 / 19 / 20 / 21 / 22 / 23 / 24 / 25 / 26 / 27 / 28 / 29 / 30
 
-- Extra hybrid defense formula: Extra hybrid defense = 15 + (1 × hero level)
+- Extra hybrid defense formula: Extra hybrid defense = 15 + (1 × data level)
 
 Notes:
 

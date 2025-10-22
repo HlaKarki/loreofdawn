@@ -1,9 +1,9 @@
 :''"Bane" redirects here. For the Passive skill "Enemy's Bane," see [[Saber#Passive|Saber &sect; Passive]].''
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image      = Bane trailer.png
 | alias          = *Frozen King
 *Lord of Heptaseas (prev.)
@@ -104,7 +104,7 @@ Enemy's Max HP Damage Cap against Creeps: 220 / 240 / 260 / 280 / 300 / 320 / 34
 |description        = Bane fires his Crab Claw Cannon in the target direction, dealing {{scale|base=150-350|total-pa=160|pd}} to the first enemy hit and then 150%&ndash;200% damage to a random enemy behind them (prioritizes enemy heroes). Enemies hit are [[slowed]] by {{scale|base=10|total-mp=10}}% for 1 second.<br>Every 100 {{B|Physical Attack}} that Bane possesses reduces this skill's [[cooldown]] by an additional 8%.
 |level-scaling=Base Damage: 150 / 190 / 230 / 270 / 310 / 350
 *Extra Damage: 150% / 160% / 170% / 180% / 190% / 200%
-|calc               = <math>{\rm Skill\ 1\ CD} = \Bigl\{\bigl[8.4 - (0.4 \times hero\ lv.)\bigr] \times (1 - CD\ reduction)\Bigr\} \times \bigl[ 1 -(physical\ attack \times 0.08%)\bigr]</math>
+|calc               = <math>{\rm Skill\ 1\ CD} = \Bigl\{\bigl[8.4 - (0.4 \times data\ lv.)\bigr] \times (1 - CD\ reduction)\Bigr\} \times \bigl[ 1 -(physical\ attack \times 0.08%)\bigr]</math>
 |term-1             = Physical Damage Skill
 |term-2             = 
 |term-3             = 
@@ -128,7 +128,7 @@ Venom Damage: 250 / 290 / 330 / 370 / 410 / 450
 |ss-1               = 
 |ss-2               = 
 |ss-3               = 
-|calc               = <math>\mathrm{total\ skill\ damage} = skill\ damage \times [1 + (0.2 \times charging\ time)]</math><br><math>{\rm Skill\ 1\ CD} = \Bigl\{\bigl[8.1 - (0.6 \times hero\ lv.)\bigr] \times (1 - CD\ reduction)\Bigr\} \times \bigl[ 1 -(magic\ power \times 0.07%)\bigr]</math>
+|calc               = <math>\mathrm{total\ skill\ damage} = skill\ damage \times [1 + (0.2 \times charging\ time)]</math><br><math>{\rm Skill\ 1\ CD} = \Bigl\{\bigl[8.1 - (0.6 \times data\ lv.)\bigr] \times (1 - CD\ reduction)\Bigr\} \times \bigl[ 1 -(magic\ power \times 0.07%)\bigr]</math>
 |term-1             = Magic Damage Skill
 |term-2             = Healing Effect
 |term-3             = Movement Speed

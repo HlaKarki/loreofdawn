@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image           =<gallery>
 Wanwan comic.jpg|Present
 Wanwan child.jpg|Child
@@ -218,7 +218,7 @@ Swallow Dagger Damage: 60 / 72 / 84 / 96 / 108 / 120
 |cooldown           = 50.0 / 46.0 / 42.0
 |mana-cost          = 130 / 150 / 170
 |quote              = 
-|description        = Wanwan leaps into the air and fires arrows at the target enemy hero for 2.5 seconds in rapid succession, dealing {{scale|base=60|total-pa=35|pd}} per arrow. If the target is killed during this attack, Wanwan will switch to another enemy hero in her attack range, gain 30% [[Attack Speed]], and extend the skill duration by 1 second (this effect can trigger up to 3 times). Wanwan is [[untargetable]] and [[invincible]] for the duration and can trigger {{ai|Tiger Pace}} upon killing an enemy and at the end of the duration.<br>{{b|Crossbow of Tang|e}} can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% [[Movement Speed]] during the duration. This damage is regarded as {{ai|Basic Attack}} damage, and the firing rate scales with Wanwan's Attack Speed.
+|description        = Wanwan leaps into the air and fires arrows at the target enemy data for 2.5 seconds in rapid succession, dealing {{scale|base=60|total-pa=35|pd}} per arrow. If the target is killed during this attack, Wanwan will switch to another enemy data in her attack range, gain 30% [[Attack Speed]], and extend the skill duration by 1 second (this effect can trigger up to 3 times). Wanwan is [[untargetable]] and [[invincible]] for the duration and can trigger {{ai|Tiger Pace}} upon killing an enemy and at the end of the duration.<br>{{b|Crossbow of Tang|e}} can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% [[Movement Speed]] during the duration. This damage is regarded as {{ai|Basic Attack}} damage, and the firing rate scales with Wanwan's Attack Speed.
 |level-scaling      = Base Damage: 60 / 75 / 90
 |calc               = <math>\mathrm{Attack\ rate} = \frac {160 \times total\ attack\ speed} {99} + 2</math>
 |term-1             = Physical Basic Attack

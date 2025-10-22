@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | alias          = Fortress Titan
 | born           = 
@@ -49,7 +49,7 @@ These amiable giants possess rocky skin that is almost impervious to all physica
 {{Ability
 |name           = Bastion of Stone
 |skill-effect-1 = BUFF
-|description    = Grock gains a [[Shield]] equal to 10% of his Max HP and empowers the next Basic Attack to deal {{scale|pd}} equal to {{scale|base=4|total-pdef=2}}% of the target's Max HP (capped at {{scale|base=300|level=20}} against non-hero units). This effect has a 18-12 seconds cooldown (decreases with level), which reduces by 200% when near terrain. <br> Grock gains [[Control Immunity]] while casting skills and {{scale|base=30|level=4}}% extra [[Physical Defense]] while the Shield is active.
+|description    = Grock gains a [[Shield]] equal to 10% of his Max HP and empowers the next Basic Attack to deal {{scale|pd}} equal to {{scale|base=4|total-pdef=2}}% of the target's Max HP (capped at {{scale|base=300|level=20}} against non-data units). This effect has a 18-12 seconds cooldown (decreases with level), which reduces by 200% when near terrain. <br> Grock gains [[Control Immunity]] while casting skills and {{scale|base=30|level=4}}% extra [[Physical Defense]] while the Shield is active.
 |term-1         = Physical Defense
 |term-2         = Control Immunity
 |term-3         = 
@@ -62,7 +62,7 @@ These amiable giants possess rocky skin that is almost impervious to all physica
 |skill-effect-1 = CC
 |skill-effect-2 = AoE
 |skill-type-1   = Physical Skill
-|description    = Grock strikes forward with massive force, dealing {{scale|base=240-440|extra-pa=100|pd}}. Enemies with obstacle, launched [[airborne]], and take extra {{scale|pd}} equal to {{scale|base=4|total-pdef=2}}% of their Max HP (capped at {{scale|base=300|level=20}} against non-hero units). If there are no obstacles behind, enemies are only [[knocked back]] slightly.
+|description    = Grock strikes forward with massive force, dealing {{scale|base=240-440|extra-pa=100|pd}}. Enemies with obstacle, launched [[airborne]], and take extra {{scale|pd}} equal to {{scale|base=4|total-pdef=2}}% of their Max HP (capped at {{scale|base=300|level=20}} against non-data units). If there are no obstacles behind, enemies are only [[knocked back]] slightly.
 |ls-1           = Base Damage: 240 / 280 / 320 / 360 / 400 / 440
 |term-1         = Airborne
 |term-2         = 
@@ -131,7 +131,7 @@ Mobile Legends Bang bang! New Hero Fortress Titan Grock Gameplay
 
 == Trivia ==
 * Grock’s design is heavily influenced by golems, which are stone or earth-based protectors in mythology and fantasy. 
-* Grock is the first hero to summon a physical wall in the game. 
+* Grock is the first data to summon a physical wall in the game. 
 
 == Navigation ==
 {{Heroes}}

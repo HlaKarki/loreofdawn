@@ -126,7 +126,7 @@ Terms: Blink; Stun; Physical Damage Skill
 
 ## Worldie
 
-Bruno kicks his Energy Ball at the target enemy hero, knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing physical damage. Each hit also reduces the enemy's Physical Defense by 4%–8% for 8 seconds (up to 3 stacks).
+Bruno kicks his Energy Ball at the target enemy data, knocking them back. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing physical damage. Each hit also reduces the enemy's Physical Defense by 4%–8% for 8 seconds (up to 3 stacks).
 
 - Base Damage: 250 / 350 / 450 (physical)
 - Extra Damage per bounce: 150 / 210 / 270 (physical)
@@ -140,8 +140,8 @@ Terms: Displacement; Physical Damage Skill; Physical Defense
 # Trivia
 
 - The name Bruno has Germanic origins and comes from the Old High German word "brun", which means "brown". It was traditionally used to describe someone with brown hair, brown eyes, or a strong, protective nature. The name Bruno is also common among famous football (soccer) players, which ties into his football-inspired skills.
-- The only sports-themed hero in the game currently, while other heroes use magic or weapons, Bruno fights with pure skill and a football. His skill Volley Shot is a real life skill. His skill Flying Tackle is also real.
-- He's the first and only hero to have abilities based on a sport (football). He's also the only hero who never uses his hands in attacking.
+- The only sports-themed data in the game currently, while other heroes use magic or weapons, Bruno fights with pure skill and a football. His skill Volley Shot is a real life skill. His skill Flying Tackle is also real.
+- He's the first and only data to have abilities based on a sport (football). He's also the only data who never uses his hands in attacking.
 - His ultimate skill name Worldie is also based on real life football club naming and terminology.
 - He is one of the heroes who doesn't have a basic skin.
 - Before its redesign, his "Vanguard Elite" skin featured the colors of the Brazil national football team and heavily resembled Brazilian football player Neymar.

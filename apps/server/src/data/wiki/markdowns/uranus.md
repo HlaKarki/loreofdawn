@@ -59,7 +59,7 @@ Description: Uranus unleashes the energy stored within his body, removing slow e
 
 # Trivia
 
-- His name, "Uranus," comes from the primordial Greek god of the sky, who was the father of the Titans. Uranus is also the name of the seventh planet in the solar system, which aligns with the hero’s cosmic theme.
+- His name, "Uranus," comes from the primordial Greek god of the sky, who was the father of the Titans. Uranus is also the name of the seventh planet in the solar system, which aligns with the data’s cosmic theme.
 - His name was nearly "Ouranos," the original Greek spelling of the god Uranus. The developers decided on "Uranus" to match the planet's name and make it easier to recognize globally.
 - Uranus is one of the oldest being in lore of the game.
 - He is the guardian of the Celestial Palace which is one of the playable maps in game before it was replaced by Sanctum Island.

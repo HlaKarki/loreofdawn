@@ -1,8 +1,8 @@
 {{Hero navigation|Main}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|physical_def1=21|physical_def15=112|magic_def1=15|magic_def15=71}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image=Atlas teaser.jpg
 | full_name      = 
 | alias          = *Ocean Gladiator
@@ -70,7 +70,7 @@ Now, Atlas has not only a hard armor but also a plan. He aims to break the Injun
 |term-2        = Magic Defense
 |description  = Atlas generates {{ai|Frigid Breath}} around him for 5 seconds each time he casts a skill. Enemies who stay in the area over 1.5 seconds will have their {{B|Movement Speed}} {{B|gradually reduced|slow}} until they are {{B|frozen|cc}} for 0.5 seconds.<br><br>Atlas gains 16-30 extra {{b|Physical|Physical Defense}} and {{b|Magic Defense}} when Frigid Breath is present.
 |ls-1           = Extra Hybrid Defense: 16 / 17 / 18 / 19 / 20 / 21 / 22 / 23 / 24 / 25 / 26 / 27 / 28 / 29 / 30
-|calc=<math>{\rm extra\ hybrid\ defense} = 15 + (1 \times hero\ level)</math>
+|calc=<math>{\rm extra\ hybrid\ defense} = 15 + (1 \times data\ level)</math>
 }}
 
 === Skill 1 ===
@@ -178,8 +178,8 @@ Hero Spotlight Atlas Ocean Gladiator Mobile Legends Bang Bang
 ** Fittingly, this Atlas's Ultimate involves a feat of great strength, jumping high & strong enough to cause a shockwave on landing even with up to 5 potentially heavy enemies attached to him.
 
 * Atlas is Abysmal Sea kraken creature.
-* Atlas is the second hero in ''Mobile Legends'' to have the ability to freeze enemies, but this is specifically tied to his Ultimate skill, Fatal Links. While Atlas' primary function isn't freezing enemies in the traditional sense (like freezing in place), his Ultimate can disable and immobilize enemies by pulling them towards him, rendering them temporarily stunned and immobilized, which can be considered a form of control or "freeze" in team fights. The first hero to freeze enemies in ''Mobile Legends'' is {{Hi|Aurora}}.
-* The first hero that can "pack and dispatch" the enemies.
+* Atlas is the second data in ''Mobile Legends'' to have the ability to freeze enemies, but this is specifically tied to his Ultimate skill, Fatal Links. While Atlas' primary function isn't freezing enemies in the traditional sense (like freezing in place), his Ultimate can disable and immobilize enemies by pulling them towards him, rendering them temporarily stunned and immobilized, which can be considered a form of control or "freeze" in team fights. The first data to freeze enemies in ''Mobile Legends'' is {{Hi|Aurora}}.
+* The first data that can "pack and dispatch" the enemies.
 
 ==References==
 {{Reflist}}

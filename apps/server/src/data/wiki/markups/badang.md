@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | chinese_name   = 巴当 (Bādāng)
@@ -37,7 +37,7 @@
 | es_va         = 
 | zh_va         =
 }}
-{{quote|Island hero who gained supernatural power after defeating the water monster.}}
+{{quote|Island data who gained supernatural power after defeating the water monster.}}
 Born in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.
 === Lore ===
 Long ago there was a small village, surrounded on all sides by water, which was resting in the southern regions of the [[Land of Dawn]]. The villagers were very hardworking, fishing day and night for a living. Among them was a strong man, a mighty warrior, named Badang. It was said that Badang could lift a kart full of firewood, with just one arm. He has a great sense of justice and a heart full of courage.
@@ -126,7 +126,7 @@ After that, he blessed Badang with a stream of powerful energy and not only was 
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Badang [[blink|dashes]] in the target direction, dealing {{scale|base=230-330|extra-pd=50|pd}} to enemies in his path while gaining a {{scale|base=350-600|extra-pd=50|shield}} that lasts 5 seconds. He stops immediately upon hitting an enemy hero, slightly [[knocking them back|knock back]] while creating an obstacle that lasts 4 seconds behind them. Enemies hit by the obstacle are dealt {{scale|base=130-180|extra-pd=30|pd}}. <br> Use Again: Badang removes the obstacle he created.
+|description    = Badang [[blink|dashes]] in the target direction, dealing {{scale|base=230-330|extra-pd=50|pd}} to enemies in his path while gaining a {{scale|base=350-600|extra-pd=50|shield}} that lasts 5 seconds. He stops immediately upon hitting an enemy data, slightly [[knocking them back|knock back]] while creating an obstacle that lasts 4 seconds behind them. Enemies hit by the obstacle are dealt {{scale|base=130-180|extra-pd=30|pd}}. <br> Use Again: Badang removes the obstacle he created.
 |properties     = *'''Base Shield:''' 350 / 400 / 450 / 500 / 550 / 600
 *'''Base Damage:''' 230 / 250 / 270 / 290/ 310 / 330
 *'''Explosion Damage:''' 130 / 140 / 150 / 160 / 170 / 180
@@ -215,7 +215,7 @@ Battle Emote - Very Good!.png|'''Very Good!'''<br>Battle Emote gift for Malaysia
 
 ==Trivia==
 *He is based on Badang, a legendary strongman in Malay legend  (see in [https://ms.wikipedia.org/wiki/Badang Malaysian version] or [[wikipedia:Badang|English version]] due has different languages page).
-*Badang is the second hero in the game that can manipulate the map's layout after {{hi|Grock}}, being able to create walls with his {{ai|name=Fist Break}}.
+*Badang is the second data in the game that can manipulate the map's layout after {{hi|Grock}}, being able to create walls with his {{ai|name=Fist Break}}.
 *His Susanoo skin is based on [[wikipedia:Susanoo-no-Mikoto|Susanoo-no-Mikoto (スサノオ; historical orthography: スサノヲ, <nowiki>'</nowiki>''Susanowo''<nowiki>'</noWiki>)]], a kami who is associated with sea, storms, field, harvest, marriage and love in japanese mythology.
 
 ==References==

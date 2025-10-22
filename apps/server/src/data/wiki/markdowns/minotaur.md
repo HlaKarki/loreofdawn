@@ -53,7 +53,7 @@ In olden times, there was once a state named Minoa in Agelta Drylands. The princ
 
 ## Rage Incarnate
 
-When Minotaur applies a control effect to an enemy hero with a skill, he will reduce their Hybrid Defense for 2 seconds. When Minotaur heals an ally hero with a skill, he will also increase their Hybrid Defense for 2 seconds. These effects are doubled in Enraged state.
+When Minotaur applies a control effect to an enemy data with a skill, he will reduce their Hybrid Defense for 2 seconds. When Minotaur heals an ally data with a skill, he will also increase their Hybrid Defense for 2 seconds. These effects are doubled in Enraged state.
 
 - Hybrid Defense Reduction on Enemies and Extra Hybrid Defense on Allies: 5.5 / 6 / 6.5 / 7 / 7.5 / 8 / 8.5 / 9 / 9.5 / 10 / 10.5 / 11 / 11.5 / 12 / 12.5
 - Hybrid Defense Reduction on Enemies and Extra Hybrid Defense on Allies (Enraged State): 11 / 12 / 13 / 14 / 15 / 16 / 17 / 18 / 19 / 20 / 21 / 22 / 23 / 24 / 25
@@ -104,4 +104,4 @@ Minotaur enters an Enraged State and smashes the ground three times. The first t
 - Minotaur is the only tank to heal allies.
 - His skin Orbiter was originally called **Taurus**, but was later changed because it will be colliding with his Zodiac skin Taurus.
 - Early concept art showed a more primitive stone hammer, but later versions made it look more refined and enchanted, possibly hinting at a magical origin.
-- He is the first hero with a "Rage Bar" mechanic in MLBB. Unlike most heroes who have a mana or energy system, Minotaur's abilities become stronger when his Rage Bar is full, making him a unique tank. But this has been redone, So his skills are enhanced when he uses his previously enhanced Ultimate.
+- He is the first data with a "Rage Bar" mechanic in MLBB. Unlike most heroes who have a mana or energy system, Minotaur's abilities become stronger when his Rage Bar is full, making him a unique tank. But this has been redone, So his skills are enhanced when he uses his previously enhanced Ultimate.

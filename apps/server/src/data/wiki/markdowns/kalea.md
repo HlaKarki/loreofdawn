@@ -132,7 +132,7 @@ Notes:
 
 ## Tidal Strike
 
-Kalea charges forward and body slams the first enemy hero she encounters, knocking them airborne for 0.6s while dealing scaling damage. If she collides with an obstacle or touches the edge of a Water Zone during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing scaling damage and knocking enemies airborne for 0.6s.
+Kalea charges forward and body slams the first enemy data she encounters, knocking them airborne for 0.6s while dealing scaling damage. If she collides with an obstacle or touches the edge of a Water Zone during her charge, Kalea will leap into the air. Cast the skill again to slam down at a target location, dealing scaling damage and knocking enemies airborne for 0.6s.
 
 Cooldown by level: 13.0 / 12.6 / 12.2 / 11.8 / 11.4 / 11.0
 
@@ -150,7 +150,7 @@ Notes:
 
 ## Tsunami Slam
 
-Kalea grabs an enemy hero with her tail and slams them down in the joystick's direction, dealing scaling damage to the target and nearby enemies.
+Kalea grabs an enemy data with her tail and slams them down in the joystick's direction, dealing scaling damage to the target and nearby enemies.
 
 Cooldown by level: 55.0 / 50.0 / 45.0
 

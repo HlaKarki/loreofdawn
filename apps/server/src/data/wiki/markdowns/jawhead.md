@@ -73,7 +73,7 @@ Notes:
 
 ## Unstoppable Force
 
-Jawhead charges into the target enemy hero, dealing physical damage based on level and Jawhead's physical attack and briefly stunning them (stun duration unspecified). Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
+Jawhead charges into the target enemy data, dealing physical damage based on level and Jawhead's physical attack and briefly stunning them (stun duration unspecified). Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.
 
 - Mana Cost: 120 / 150 / 180
 - Base Damage: 350 / 475 / 600
@@ -86,7 +86,7 @@ Notes:
 
 # Trivia
 
-- Jawhead is the only hero who carries a companion (Ailee) that does not help or assist in fight.
+- Jawhead is the only data who carries a companion (Ailee) that does not help or assist in fight.
 - Revisions of the name of Ailee was made from Alice and Ellie.
 - Almost all of Jawhead's skins has two eyes/lens which is different from default's one.
 - Victory Loader is the first skin that use Ailee's face in the avatar icon instead of using Jawhead's face.

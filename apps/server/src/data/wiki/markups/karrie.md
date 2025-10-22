@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero|durability=|offense=|skill_effects=|difficulty=}}
+{{Tabs data}}
+{{Infobox data|durability=|offense=|skill_effects=|difficulty=}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | alias          = Lost Star
@@ -93,7 +93,7 @@ Alaghat is a mysterious technique empire. There lives a strange humanoid race - 
 |mana-cost      = 40 / 45 / 50 / 55 / 60 / 65
 |energy-cost    = 
 |quote          = 
-|description    = Karrie releases a sphere of surging energy in the target direction, dealing {{scale|base=250-375|extra-pa=90|pd}} to enemies in its path. The sphere will stop upon hitting an enemy hero or reaching its max travel distance, continuously dealing {{scale|base=150-200|extra-pa=20|pd}} to nearby enemies and slowing them by 80% for 1s.
+|description    = Karrie releases a sphere of surging energy in the target direction, dealing {{scale|base=250-375|extra-pa=90|pd}} to enemies in its path. The sphere will stop upon hitting an enemy data or reaching its max travel distance, continuously dealing {{scale|base=150-200|extra-pa=20|pd}} to nearby enemies and slowing them by 80% for 1s.
 |ls-1           = Base Damage: 250 / 275 / 300 / 325 / 350 / 375
 |ls-2           = Sustained Damage: 150 / 160 / 170 / 180 / 190 / 200
 |ls-3           = 
@@ -218,7 +218,7 @@ Battle Emote - My Turn.png|'''My Turn'''<br>Obtained via the [[Kishin Densetsu]]
 * Karrie is one of the heroes who can deal more than one type of damage with her skills ({{AVC1|Physical|pd}} and {{AVC1|True|td}}).
 * Her second skill "Phantom Step" is the reuse skill of the first generation {{hi|Clint}}. 
 * Her Wheel of Justice skin is based on [[wikipedia:Bastet|Bastet]].
-* Karrie was officially released in Mobile Legends in 2017. Her arrival marked a shift in the marksman role, as she was designed to be a tank-buster hero capable of melting through the durability of tanky heroes, something that few other marksmen could do at the time.
+* Karrie was officially released in Mobile Legends in 2017. Her arrival marked a shift in the marksman role, as she was designed to be a tank-buster data capable of melting through the durability of tanky heroes, something that few other marksmen could do at the time.
 
 ==References==
 {{reflist}}

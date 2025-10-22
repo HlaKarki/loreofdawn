@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = Brody comic.jpg
 | full_name      = 
 | alias          = * The Lone Star
@@ -254,7 +254,7 @@ Battle Emote - Speechless.png|'''Speechless'''<br>Obtained via the Neobeasts Pha
 </gallery>
 
 == Trivia ==
-*Brody is the 100th hero in the game, based on game files and the chronological release order on [[Advanced Server]]. [[Benedetta]] is the 100th hero released on [[Original Server]].
+*Brody is the 100th data in the game, based on game files and the chronological release order on [[Advanced Server]]. [[Benedetta]] is the 100th data released on [[Original Server]].
 *The name Brody has Jewish and British origin which meaning is still uncertain. Also, a Hungarian surname Bródy, means "from Bród", is associated with the Ukrainian city of [[wikipedia:Brody|Brody]].
 *Brody's name in the game files is <code>chargingshooter</code>.{{cite}}
 * Brody was originally called "Protti".

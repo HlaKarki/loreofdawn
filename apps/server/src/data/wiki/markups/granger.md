@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = Granger comic.jpg
 | full_name      = 
 | chinese_name   = 格兰杰 (gélánjié)
@@ -111,7 +111,7 @@ As the "Ave Maria" reached its finale, the demon hunter's death sonata was about
 |skill-effect-1     = Damage
 |skill-effect-2     = Buff
 |quote              = 
-|description        = Granger's unique Demon Hunting {{link|Gun}} and {{link|Cannon}} are powered by Demonic Energy. Both his weapons have a staring Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Each [[Minion]] / [[Creep]] kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 / 6, and instantly restore their Energy by 5% / 5%, respectively. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy. <br> Every 1% [[CD Reduction]] Granger gains is converted into 2 [[Physical Attack]]. Demonic Energy Cost is not affected by Energy Cost Reductions.
+|description        = Granger's unique Demon Hunting {{link|Gun}} and {{link|Cannon}} are powered by Demonic Energy. Both his weapons have a staring Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Each [[Minion]] / [[Creep]] kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 / 6, and instantly restore their Energy by 5% / 5%, respectively. Every kill or assist on an enemy data will permanently increase their Energy cap by 12 and instantly restore 10% Energy. <br> Every 1% [[CD Reduction]] Granger gains is converted into 2 [[Physical Attack]]. Demonic Energy Cost is not affected by Energy Cost Reductions.
 |level-scaling               = 
 |calc               = 
 |term-1             = 
@@ -166,7 +166,7 @@ Base Damage: 60 / 72 / 84 / 96 / 108 / 120
 |cooldown             = 0.6
 |skill-effect-1     = Burst
 |skill-effect-2     = Slow
-|description          = Granger fires his {{link|Cannon}} in the target direction, dealing {{scale|base=150-300|total-pa=100|pd}} to the first enemy hero hit and other targets in the blast radius. Targets hit will be [[slowed]] and revealed for a brief duration. Granger can [[blink|roll]] in the Joystick's direction after each shot. <br> Death Sonata can be cast while firing {{ai|Rhapsody}}. Death Sonata has a brief [[cooldown]] and consumes 250 of Granger's Cannon Energy per shot. 
+|description          = Granger fires his {{link|Cannon}} in the target direction, dealing {{scale|base=150-300|total-pa=100|pd}} to the first enemy data hit and other targets in the blast radius. Targets hit will be [[slowed]] and revealed for a brief duration. Granger can [[blink|roll]] in the Joystick's direction after each shot. <br> Death Sonata can be cast while firing {{ai|Rhapsody}}. Death Sonata has a brief [[cooldown]] and consumes 250 of Granger's Cannon Energy per shot. 
 |level-scaling                 = Cannon Energy Cost: 250
 Base Damage: 250 / 325 / 400
 |term-1               = 
@@ -230,7 +230,7 @@ Granger Revamp Debut Teaser - Granger - Death Chanter - Mobile Legends- Bang Ban
 </gallery>
 
 ==Trivia==
-*While "'''Granger'''" originally meant "farm steward", it also sounds like "Ranger", which fits his lone-wolf, sharpshooter personality. His name could be inspired by [https://www.goodreads.com/book/show/43615.The_Gunslinger The Gunslinger (Stephen King’s Dark Tower series)], which features a similar gun-wielding anti-hero.
+*While "'''Granger'''" originally meant "farm steward", it also sounds like "Ranger", which fits his lone-wolf, sharpshooter personality. His name could be inspired by [https://www.goodreads.com/book/show/43615.The_Gunslinger The Gunslinger (Stephen King’s Dark Tower series)], which features a similar gun-wielding anti-data.
 *Granger was the first [[marksman]] that does not require [[mana]] nor [[energy]]. 
 **However, his abilities now cost energy after his revamp except for Skill 2.
 

@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero|durability=|offense=|skill_effects=|difficulty=}}
+{{Tabs data}}
+{{Infobox data|durability=|offense=|skill_effects=|difficulty=}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | chinese_name   = 奇乐乐 (qílèlè)
@@ -166,7 +166,7 @@ One day, during one of Cyclops's space travels, he arrived at the Land of Dawn a
 |mana-cost      = 160 / 180 / 200
 |energy-cost    = 
 |quote          = 
-|description    = Cyclops creates a Planetary Sphere and sends it after target enemy hero or Creep, dealing {{Scale|base=500-800|total-mp=220|md}} and [[Immobilized|immobilizing]] them for 1-2s (increases with travel distance).
+|description    = Cyclops creates a Planetary Sphere and sends it after target enemy data or Creep, dealing {{Scale|base=500-800|total-mp=220|md}} and [[Immobilized|immobilizing]] them for 1-2s (increases with travel distance).
 |ls-1           = Base Damage: 500 / 715 / 880
 |ls-2           = 
 |ls-3           = 

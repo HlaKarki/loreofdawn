@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}} 
+{{Tabs data}}
+{{Infobox data}} 
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = <gallery>
 Novaria comic.jpg|Present
 Novaria human.jpg|Teenager
@@ -206,7 +206,7 @@ Novaria shook off the star fragments and walked towards the dawn.
 |mana-cost      = 120 / 150 / 180 / 210 / 240 / 270
 |energy-cost    = 
 |quote          = 
-|description    = Novaria summons an {{B|Astral Sphere|e}} at a distance and draws it towards her. At the same time, Novaria gains 20% [[Movement Speed]] and can pass through terrain. Passing through a wall will increase the Movement bonus to 60%.<br>When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy hero, dealing {{scale|base=260-385|total-mp=50|total-hp=enemy's 4%&ndash;6|md}}. The damage will increase based on the Astral Sphere's travel
+|description    = Novaria summons an {{B|Astral Sphere|e}} at a distance and draws it towards her. At the same time, Novaria gains 20% [[Movement Speed]] and can pass through terrain. Passing through a wall will increase the Movement bonus to 60%.<br>When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy data, dealing {{scale|base=260-385|total-mp=50|total-hp=enemy's 4%&ndash;6|md}}. The damage will increase based on the Astral Sphere's travel
 distance (starting from when the sphere is summoned) up to 2.5 times the original.
 |ls-1           = Base Damage: 260 / 285 / 310 / 335 / 360 / 385
 |ls-2           = Extra Percentage Damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%
@@ -225,7 +225,7 @@ distance (starting from when the sphere is summoned) up to 2.5 times the origina
 *Novaria cannot go beyond the battlefield for an unspecified amount of distance within the skill duration.
 *Novaria can recall during the skill duration, but it will be interrupted when she receives the Astral Sphere, or skill duration ends while she is inside an obstacle. <ref>[https://www.youtube.com/watch?v=YIlnZqNG4Gc DID YOU KNOW YOU CAN DO THIS WITH NOVARIA??? — YouTube]</ref>
 *Its damage increases by 15% for each unknown succeeding distance.<sup>[''duration unknown'']</sup>
-*It deals up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000 to non-hero units.
+*It deals up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000 to non-data units.
 *Novaria speeds up by 60% when passing through obstacles.
 *Novaria can get more stacks when passing through obstacles.
 *[[Controls|Assisted Aiming Mode]] is disabled by default on this skill.

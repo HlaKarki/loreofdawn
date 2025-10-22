@@ -173,7 +173,7 @@ Chips starts eating potato chips when out of combat, regenerating HP equal to 15
 
 ## Crash Course
 
-Chip rams his hovercraft into the ground, dealing physical and magic damage based on skill level and stats, and applying a mark on enemy heroes hit. Chip gains a buff upon hitting an enemy hero, which increases by 20% for each additional energy hero hit. Chip's next basic attack will become ranged and also hit all nearby enemies, detonating the mark to deal extra damage and stun targets for 0.6 seconds.
+Chip rams his hovercraft into the ground, dealing physical and magic damage based on skill level and stats, and applying a mark on enemy heroes hit. Chip gains a buff upon hitting an enemy data, which increases by 20% for each additional energy data hit. Chip's next basic attack will become ranged and also hit all nearby enemies, detonating the mark to deal extra damage and stun targets for 0.6 seconds.
 
 - Base Damage by level: 220 / 250 / 280 / 310 / 340 / 370
 - Base Shield by level: 300 / 400 / 500 / 600 / 700 / 800
@@ -201,7 +201,7 @@ Notes:
 
 ## Shortcut
 
-Chip drops the Main Portal on an enemy hero, dealing damage and slowing them by 30% for 2.5 seconds. Meanwhile, he creates Connecting Portals near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The Main Portal and Connecting Portals last up to 10 seconds.
+Chip drops the Main Portal on an enemy data, dealing damage and slowing them by 30% for 2.5 seconds. Meanwhile, he creates Connecting Portals near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The Main Portal and Connecting Portals last up to 10 seconds.
 
 - Main Portal Base Damage by level: 200 / 250 / 300
 - Extra Damage (delayed AoE) by level: 600 / 750 / 900
@@ -215,9 +215,9 @@ Mechanics:
 - The Main Portal inherits 80% of Chip's HP and is treated as a unit/creep for interactions.
 
 Notes:
-- The first connecting portal that a hero enters will be marked as the connecting portal for them.
+- The first connecting portal that a data enters will be marked as the connecting portal for them.
 - Going through a connecting portal will trigger portal effects but not when returning.
-- A hero can only return to the previous portal once after a 2 second waiting delay.
+- A data can only return to the previous portal once after a 2 second waiting delay.
 - The Main Portal is treated as a creep, and is fully affected by other game mechanics.
 - Does not create Connecting Portals to units inside another portal's area and vice versa if locations overlap.
 - Quote: "Get it done so we can get off work."

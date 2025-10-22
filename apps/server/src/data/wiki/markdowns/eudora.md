@@ -106,7 +106,7 @@ Properties:
 
 # Trivia
 
-- - Eudora is the cheapest hero in the game, only costing, along with and.
+- - Eudora is the cheapest data in the game, only costing, along with and.
 - Her name is a reference from one of the Hyades in Greek mythology. They are a sisterhood of nymphs that bring rain.
 - As the name suggest, her skill, Ball Lightning, is based on the real life and rare phenomenon, ball lightning, described as luminescent, spherical objects that vary from pea-sized to several meters in diameter. Descriptions of ball lightning appear in a variety of accounts over the centuries and have received attention from scientists.
 - She has a Vivo-themed skin called "Vivo Selfie Goddess", and is one of the only two heroes to have a Limited tag along with ("Honor").

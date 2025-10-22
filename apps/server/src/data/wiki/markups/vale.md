@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Age (年龄 "niánlíng" meaning "age"), Weapon (武器 "wǔqì" meaning "weapon, arms")}}
-{{Infobox hero story
+{{Infobox data story
 | image          = <gallery>
 Vale trailer.jpg|Adult
 Vale child.jpg|Child
@@ -183,7 +183,7 @@ The Song of Wind and Fire New Hero Vale Trailer Mobile Legends Bang Bang!
 </gallery>
 
 == Trivia ==
-* Despite being developed before several other heroes ({{Hero Icon|name=Selena}}, {{Hero Icon|name=Aldous}}, {{Hero Icon|name=Claude}}, {{Hero Icon|name=Belerick}}, {{Hero Icon|name=Lunox}}, {{Hero Icon|name=Thamuz}}, {{Hero Icon|name=Leomord}}, {{Hero Icon|name=Kimmy}}, {{Hero Icon|name=Harith}}, {{Hero Icon|name=Minsitthar}}, {{Hero Icon|name=Hanzo}}, {{Hero Icon|name=Kadita}} and {{Hero Icon|name=Badang}}), Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other hero. If you sort the heroes in the "Heroes" page by "Sale Time," Vale will appear between [[Claude]] and [[Leomord]], instead of being after  [[Badang]]. The hero order is due to his earlier introduction in Advanced Servers.
+* Despite being developed before several other heroes ({{Hero Icon|name=Selena}}, {{Hero Icon|name=Aldous}}, {{Hero Icon|name=Claude}}, {{Hero Icon|name=Belerick}}, {{Hero Icon|name=Lunox}}, {{Hero Icon|name=Thamuz}}, {{Hero Icon|name=Leomord}}, {{Hero Icon|name=Kimmy}}, {{Hero Icon|name=Harith}}, {{Hero Icon|name=Minsitthar}}, {{Hero Icon|name=Hanzo}}, {{Hero Icon|name=Kadita}} and {{Hero Icon|name=Badang}}), Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other data. If you sort the heroes in the "Heroes" page by "Sale Time," Vale will appear between [[Claude]] and [[Leomord]], instead of being after  [[Badang]]. The data order is due to his earlier introduction in Advanced Servers.
 
 ==References==
 {{reflist}}

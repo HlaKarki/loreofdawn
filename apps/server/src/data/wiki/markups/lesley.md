@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|crit_dmg=140%}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Lesley comic.jpg
 | full_name      = Lesley of House Vance
 | chinese_name   = 莱斯丽 (láisīlì)
@@ -156,7 +156,7 @@ After hearing about how Harley had travelled to the dangerous [[Land of Dawn]] a
 |mana-cost          =
 |energy-cost        = 0
 |quote              = 
-|description        = Lesley [gains [[vision]] to nearby enemies and can lock] onto the target enemy hero and fires 4 {{B|Lethal Bullets|e}} in succession, each dealing {{Scale|base=250-350|extra-pa=80|lost-hp=enemy's 5|pd}} and restoring 10 {{B|energy}} on hit. The Bullets can be blocked by other enemy heroes.<br>If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%.<br>{{b|Passive:|e}} Lesley's [[Crit Chance]] is increased by 5%&ndash;15%.
+|description        = Lesley [gains [[vision]] to nearby enemies and can lock] onto the target enemy data and fires 4 {{B|Lethal Bullets|e}} in succession, each dealing {{Scale|base=250-350|extra-pa=80|lost-hp=enemy's 5|pd}} and restoring 10 {{B|energy}} on hit. The Bullets can be blocked by other enemy heroes.<br>If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%.<br>{{b|Passive:|e}} Lesley's [[Crit Chance]] is increased by 5%&ndash;15%.
 |ls-1               = Crit Chance: 5% / 10% / 15%
 |ls-2               = Base Damage: 250 / 300 / 350
 |ls-3               = 
@@ -178,12 +178,12 @@ After hearing about how Harley had travelled to the dangerous [[Land of Dawn]] a
 *You can hold the skill to choose the target before firing. You can also choose to cancel the skill without shooting it at all (it will still go on cooldown). 
 *If the skill is canceled without shooting any, {{hi|Lesley}} is not revealed to the enemy.
 *The aim range is 11 unit, and max range is 15 unit.
-**The indicator is shown on {{hi|Lesley}}'s minimap when holding the skill, and the skill does not activate if there are no enemy hero within range.
+**The indicator is shown on {{hi|Lesley}}'s minimap when holding the skill, and the skill does not activate if there are no enemy data within range.
 **All enemies within range are revealed.
 }}
 
 === Buff ===
-{{infobox hero ability
+{{infobox data ability
 |image=Harley-Lesley buff
 |name=Lesley buff
 |description=Increases both {{B|HP}} by 10 when battling with {{Hi|Harley}}[.]
@@ -241,10 +241,10 @@ Mobile Legends Bang Bang! New Hero - Sniper Lesley-
 *The name '''Lesley''' has Scottish origins and means '''"garden of holly"''' or '''"fortress of holly"'''. It comes from the Scottish surname ''Leslie'', which was derived from a place name in Scotland. Her name might symbolize her '''precision, stealth, and resilience''', much like a fortress that stands strong or a sharpshooter hiding in the shadows.
 *Unlike other Marksmen, Lesley doesn’t rely on attack speed, she focuses on high burst damage from critical hits.
 *Lesley is one of the few marksmen in the game who use Energy instead of Mana.
-*Her passive, '''Lethal Shot''', allows her to deal 100% critical damage after gaining extra energy, making her a sniper-type hero rather than a typical ADC (Attack Damage Carry).
+*Her passive, '''Lethal Shot''', allows her to deal 100% critical damage after gaining extra energy, making her a sniper-type data rather than a typical ADC (Attack Damage Carry).
 *Both Lesley and  {{hi|Harley}}'s royal house "Vance" means "Marsh, Mud, and Fen" in Old English which is used as a masculine given name and surname mostly of American usage
 *Lesley's Quote; ''"Enemy in range, and you are too."''  is a reference from Murphy's Law of Combat.
-*Lesley is the first and, so far, the only [[Marksman|Marksman/]][[Assassin]] hero in the game, whereas {{hi|Yi Sun-shin}} is an Assassin/Marksman.
+*Lesley is the first and, so far, the only [[Marksman|Marksman/]][[Assassin]] data in the game, whereas {{hi|Yi Sun-shin}} is an Assassin/Marksman.
 *In her early designs, she had shorter hair and a more military-style outfit. The developers later gave her a long coat and a more assassin-like appearance, making her more stylish and deadly.
 ==References==
 {{reflist}}

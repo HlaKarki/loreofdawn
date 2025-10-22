@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | full name      = 
 | alias          = Abyssal Witch
 | born           = [[Shadow Swamp]], [[Azrya Woodlands]]
@@ -105,7 +105,7 @@ She found that she could skillfully manipulate the abyss to release dark magic, 
 |mana-cost       = 70 / 80 / 90 / 100 / 110 / 120
 |skill-effect-1 = CC
 |skill-effect-2 = Speed Up
-|description    = Selena fires magic arrows in a designated direction, dealing {{Scale|base=250-400|total-mp=20}} to {{Scale|base=500-800|total-40|md}} to the first enemy hero hit and [[stunning]] it for 0.5 seconds to 3 seconds. Stun duration and damage increase with the distance that the arrows travel. The arrow absorbs {{ai|Abyssal Traps|"Abyssal Traps"}} as it travels and hence will apply effects of "Abyssal Traps" to the enemy target upon hit. If an enemy is stunned for 1 second or longer, Selena's [[Movement Speed]] will be increased by 40% for 2 seconds.
+|description    = Selena fires magic arrows in a designated direction, dealing {{Scale|base=250-400|total-mp=20}} to {{Scale|base=500-800|total-40|md}} to the first enemy data hit and [[stunning]] it for 0.5 seconds to 3 seconds. Stun duration and damage increase with the distance that the arrows travel. The arrow absorbs {{ai|Abyssal Traps|"Abyssal Traps"}} as it travels and hence will apply effects of "Abyssal Traps" to the enemy target upon hit. If an enemy is stunned for 1 second or longer, Selena's [[Movement Speed]] will be increased by 40% for 2 seconds.
 |ls-1           = Base Damage: 250 / 280 / 310 / 340 / 370 / 400
 |ls-2           = [Base] Max Damage: 500 / 560 / 620 / 680 / 740 / 800
 |term-1         = Stunned
@@ -211,7 +211,7 @@ New Skin -Selena "Lady Vengeance" - Mobile Legends- Bang Bang
 == Trivia ==
 * Except from her basic skin "Wasp Queen", all of Selena's skins were first released as time-limited.
 * The name '''Selena''' comes from the Greek name "Selene" (Σελήνη) or [[wikipedia:Selina|Selina]], which means "moon" or "goddess of the moon." In Greek mythology, [https://en.wikipedia.org/wiki/Selene Selene] was the Titan goddess of the moon, often depicted riding a chariot across the night sky.
-* Selena was one of the first heroes in MLBB to have two separate skill sets in one hero. Her switching mechanics make her both an [[Assassin]] and a [[Mage]], depending on the form.
+* Selena was one of the first heroes in MLBB to have two separate skill sets in one data. Her switching mechanics make her both an [[Assassin]] and a [[Mage]], depending on the form.
 * Selena was supposed to be released on the date {{hi|Chang'e}} was released, but the developers decided{{cite}} to postpone her release to a month later (following {{hi|Kaja}}) because some of them saw her as over-powered and others saw her under-powered.
 * Her Abyssal Arrow (2nd Skill in Elven Form) can stun enemies for up to 3 seconds, making it one of the longest stuns in the game!
 * Selena's Abyssal skin "Lady Vengeance" pays a wicked tribute to Starcraft’s Kerrigan.

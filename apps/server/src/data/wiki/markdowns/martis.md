@@ -88,7 +88,7 @@ Notes:
 
 Cooldown: 36.0 / 32.0 / 28.0 seconds (varies by level)
 
-Description: Martis lunges at a designated enemy hero, dealing (deals True Damage if the enemy's HP is below 50%). If the enemy is killed by this skill, Martis can cast the skill again within 10 seconds and gains 100% extra Movement Speed that gradually decays over 5 seconds. Each successive cast also increases the skill's damage by 15% (up to 30%).
+Description: Martis lunges at a designated enemy data, dealing (deals True Damage if the enemy's HP is below 50%). If the enemy is killed by this skill, Martis can cast the skill again within 10 seconds and gains 100% extra Movement Speed that gradually decays over 5 seconds. Each successive cast also increases the skill's damage by 15% (up to 30%).
 
 - Base Damage: 800 / 900 / 1000
 - Extra Physical Attack: 100
@@ -110,4 +110,4 @@ Notes:
 - Martis' Quote "3000 worlds and not a single worthy foe" was a bluff, he was actually defeated several times and was even put in despair
 - The term "3000 Worlds" is a hyperbolic reference to the 3000 Trials, where individuals must face and clear each trial (World/Level). Those who successfully complete 300 of these levels are considered to be at the level of a Demi-God in the eyes of the Asura Clan.
 - After completing the 3000 Trials, Martis encountered the Demi-God Gatotkaca, and a fierce battle ensued. Both were equally matched in strength, and their fight alone created an entrance to the Timerift After the 3000 Trials, Martis met a Demi-God Gatotkaca and fought, both were equal in strength and their fight alone opened an entrance to the timerift.
-- Martis is canonically one of the most powerful hero in MLBB. Gatotkaca being his only equal and to stop the Ashura wrath.
+- Martis is canonically one of the most powerful data in MLBB. Gatotkaca being his only equal and to stop the Ashura wrath.

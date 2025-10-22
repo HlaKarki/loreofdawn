@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 Kimmy Outlaw sprite.png|Kimmy's sprite as seen on [[Outlaw (story)|''Outlaw'']] and [[Savior (story)|''Savior'']]
 </gallery>
@@ -95,7 +95,7 @@ expectations. She was bound for even greater heights.{{clr}}
 |cooldown           = 
 |quote              = 
 |atk-effect         = 22%
-|description        = Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals {{scale|total-pa=22%|total-mp=27%|md}}. Hitting enemy heroes/non-hero units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal {{scale|total-pa=27%|total-mp=32%}} damage and pierce through targets.<br>Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
+|description        = Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals {{scale|total-pa=22%|total-mp=27%|md}}. Hitting enemy heroes/non-data units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal {{scale|total-pa=27%|total-mp=32%}} damage and pierce through targets.<br>Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
 |ls-1               = 
 |ls-2               = 
 |ls-3               = 
@@ -149,7 +149,7 @@ expectations. She was bound for even greater heights.{{clr}}
 |cooldown           = 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0
 |energy-cost        = 
 |quote              = 
-|description        = Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals {{scale|base=300|total-pa=50%|total-mp=60%|md}} for 2 seconds.<br>Gain 20 Starlium for each enemy hero hit.
+|description        = Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals {{scale|base=300|total-pa=50%|total-mp=60%|md}} for 2 seconds.<br>Gain 20 Starlium for each enemy data hit.
 |level-scaling      = Base Damage: {{sl|300 to 600 6}}
 Energy Regen: {{sl|20 to 40 6}}
 |ss-1               = 
@@ -173,7 +173,7 @@ Energy Regen: {{sl|20 to 40 6}}
 |cooldown           = 40.0 / 35.0 / 30.0
 |energy-cost        = 
 |quote              = 
-|description        = Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal {{scale|base=200|total-pa=60%|total-mp=72%|md}} to nearby enemies and creates a force field that slows enemies within by 75%.<br>After 1 second, the field contracts, pulling all enemy heroes to its center and dealing 15% of their current HP as Magic Damage. Gain 40 Starlium for each enemy hero hit.
+|description        = Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal {{scale|base=200|total-pa=60%|total-mp=72%|md}} to nearby enemies and creates a force field that slows enemies within by 75%.<br>After 1 second, the field contracts, pulling all enemy heroes to its center and dealing 15% of their current HP as Magic Damage. Gain 40 Starlium for each enemy data hit.
 |level-scaling      = Base Damage: {{sl|200 to 400 3}}
 Current HP Percentage: 15% / 22.5% / 30%
 |calc               = 
@@ -214,16 +214,16 @@ Hero719-icon.png|High Seas Cadet
 </gallery>
 
 == Trivia ==
-*Kimmy is the first hero and currently the only hero to be a [[Marksman]]/[[Mage]] type.
-*She is the third hero in the game who can convert a stat (Attack Speed) to another stat (Magic Power).
+*Kimmy is the first data and currently the only data to be a [[Marksman]]/[[Mage]] type.
+*She is the third data in the game who can convert a stat (Attack Speed) to another stat (Magic Power).
 * When switching Hero Voice to Japanese, instead of saying "Fighting 'Kimmy!", she says "Fighting Jimmy! (ファイティング・ジミー! - Faitingu Jimī!)" in Entrance Quotes.
-* While still in development Kimmy's first given name and hero title was Mary the Ink Queen
+* While still in development Kimmy's first given name and data title was Mary the Ink Queen
 ** The name can be a reference to [https://nintendo.fandom.com/wiki/Marie_(Splatoon) Marie] which is an Inkling/Squid from Splatoon by Nintendo.
 * Kimmy is one of the heroes to have received a rework before she was even released on the original server.
 ** Her basic attack used to spread and pierce through enemies similar to how shotgun pellets works.
 ** She used to have 2 skill sources: one for her first skill and one for her second skill.
 ** Her second skill used to be another basic attack buff skill similar to her first skill, but was later changed into a blink skill that does not consume any energy.
-* Before her reworked on [[Patch Notes 1.6.10]], Kimmy has a '''Mixed Damage''' alongside with {{Hi|Esmeralda}}, then it was later replaced with '''Magic Damage''' specialty will making  [[Esmeralda]] is the only hero who specializes in '''Mixed Damage'''.
+* Before her reworked on [[Patch Notes 1.6.10]], Kimmy has a '''Mixed Damage''' alongside with {{Hi|Esmeralda}}, then it was later replaced with '''Magic Damage''' specialty will making  [[Esmeralda]] is the only data who specializes in '''Mixed Damage'''.
 * The melody she says when picked with Dragon Tamer skin is a parody on Hush Little Baby Don't Say A Word by the King's Singers 1987.
 == References ==
 {{reflist}}

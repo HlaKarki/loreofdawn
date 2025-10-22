@@ -101,7 +101,7 @@ Physical Skill — AoE and buff/debuff effects.
 
 - Mana Cost: 65 / 70 / 75 / 80 / 85 / 90
 - Cooldown: 5 seconds
-- Description: Claude attacks enemies in a fan-shaped area ahead, dealing physical damage based on level and stats and reducing their Movement Speed by 20% and Attack Speed by 10%. For each target hit, Claude gains 3% extra Movement Speed and Attack Speed (doubled if the target is an enemy hero, up to 5 stacks) for 6 seconds.
+- Description: Claude attacks enemies in a fan-shaped area ahead, dealing physical damage based on level and stats and reducing their Movement Speed by 20% and Attack Speed by 10%. For each target hit, Claude gains 3% extra Movement Speed and Attack Speed (doubled if the target is an enemy data, up to 5 stacks) for 6 seconds.
 
 - Base Damage by Level: 160 / 185 / 210 / 235 / 260 / 285
 - Movement Speed Reduction by Level: 20% / 20% / 25% / 25% / 30% / 30%
@@ -142,9 +142,9 @@ Physical Basic Attack type — burst and shield.
 
 - Claude somewhat resembles Aladdin: they are both thieves and have a monkey by their side.
 - Claude's pal, Dexter, was named after the monkey on the movie Night at The Museum (2006) who stole the security keys.
-- His ultimate skill reuses an old hero's skill effects.
+- His ultimate skill reuses an old data's skill effects.
 - Claude is the main character in the story of the Jade Path: Claude's Grand Heist.
-- Claude's was called Open Fire before it was changed to Blazing Duet. It was likely changed because the name is already used for another hero's skill.
+- Claude's was called Open Fire before it was changed to Blazing Duet. It was likely changed because the name is already used for another data's skill.
 - Claude is one of the few heroes to break the fourth wall in two of his old quotes:
 - "Sshh, why don't we go steal the enemy base next?"
 - "*yawn* I'm tired of farming, let's go fight some enemies!"

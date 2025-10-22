@@ -1,9 +1,9 @@
-{{Hero navigation}}{{Infobox hero}}
+{{Hero navigation}}{{Infobox data}}
 
 {{Hero stats}}
 
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | chinese_name   = 古德 (gǔdé)

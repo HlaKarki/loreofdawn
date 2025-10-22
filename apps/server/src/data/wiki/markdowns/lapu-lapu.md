@@ -1,6 +1,6 @@
 # Profile
 
-He is the first hero that is based on a historical figure (see Lapulapu).
+He is the first data that is based on a historical figure (see Lapulapu).
 
 - Full name: Lapu-Lapu
 - Origin: Perlas, Vonetis Islands
@@ -61,7 +61,7 @@ After this battle, the Moniyan invaders, who had lost their leader, were unable 
 
 ## Homeland Defender
 
-Each time Lapu-Lapu deals damage, he gains 10 (halved from non-hero units). When his Bravery Blessing is full, his next Basic Attack or skill will be enhanced, granting Lapu-Lapu a shield that can absorb shield value based on level and stats for 2.5 seconds.
+Each time Lapu-Lapu deals damage, he gains 10 (halved from non-data units). When his Bravery Blessing is full, his next Basic Attack or skill will be enhanced, granting Lapu-Lapu a shield that can absorb shield value based on level and stats for 2.5 seconds.
 
 - The enhanced Basic Attack will cause him to dash toward the target, dealing scaling physical damage based on level and stats. This Basic Attack cannot be a critical hit.
 - The enhanced skill will slow the target by 60% for 1 second.
@@ -94,7 +94,7 @@ Lapu-Lapu dashes in the target direction, dealing scaling physical damage to ene
 
 ## Storm Sword
 
-Lapu-Lapu whirls his heavy sword, dealing scaling physical damage to nearby enemies. For each enemy hero hit, he gains damage reduction for 4 seconds.
+Lapu-Lapu whirls his heavy sword, dealing scaling physical damage to nearby enemies. For each enemy data hit, he gains damage reduction for 4 seconds.
 
 - Base Damage by level: 250 / 280 / 310 / 340 / 370 / 400
 - Damage Reduction by level: 10% / 20% / 30% / 40% / 50%
@@ -123,12 +123,12 @@ Notes:
 
 # Trivia
 
-- He is the dramatized version of the Filipino hero Lapulapu. In the Philippines, he is best known as the first Filipino to repel foreign invasions, and his background is based on historical events but edited to fit in the game's lore. Because of limited historical accounts attributed to him, his appearance and his involvement in the Battle of Mactan (i.e. the battle that killed Ferdinand Magellan) is subjected to debate.
-- He is also the first Filipino-based hero to appear in Mobile Legends: Bang Bang.
+- He is the dramatized version of the Filipino data Lapulapu. In the Philippines, he is best known as the first Filipino to repel foreign invasions, and his background is based on historical events but edited to fit in the game's lore. Because of limited historical accounts attributed to him, his appearance and his involvement in the Battle of Mactan (i.e. the battle that killed Ferdinand Magellan) is subjected to debate.
+- He is also the first Filipino-based data to appear in Mobile Legends: Bang Bang.
 - His dual-wielding style is inspired by Filipino martial arts (Kali/Arnis), where warriors use two blades for fast attacks.
 - His Heavy Sword mode is similar to a traditional kampilan sword, a weapon used by Filipino warriors.
-- He is the 2nd hero to be based from a historical figure, along with and.
+- He is the 2nd data to be based from a historical figure, along with and.
 - The English voice of Lapu-Lapu includes Tagalog line ("Umalis kayo sa aming lupain"), implying that he is a bilingual and that the language of Dorican people being Tagalog is canon.
 - The "Vulcan" skin is named after the god of the same name who is associated with fire from Roman mythology.
 - The "Imperial Champion," is based on Ancient Roman military personal equipment.
-- The "Adlaw's Chosen" skin is likely inspired by the word 'adlaw' in Cebuano and other Visayan languages, which means 'sun.' The sun symbolizes power, heroism, and strength, all of which represent Lapu-Lapu, the first Filipino hero who resisted Spanish colonization. The skin resembles ancient Visayan warrior aesthetics, connecting it to pre-colonial Filipino culture.
+- The "Adlaw's Chosen" skin is likely inspired by the word 'adlaw' in Cebuano and other Visayan languages, which means 'sun.' The sun symbolizes power, heroism, and strength, all of which represent Lapu-Lapu, the first Filipino data who resisted Spanish colonization. The skin resembles ancient Visayan warrior aesthetics, connecting it to pre-colonial Filipino culture.

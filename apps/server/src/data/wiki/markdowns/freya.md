@@ -95,5 +95,5 @@ Notes:
 
 - Freya is based on the goddess Freyja, a goddess in Norse mythology. She is associated with love, beauty, fertility, sex, war, death, and magic.
 - Freya's appearance in lore is based on a Valkyrie. Valkyries are female figures who guide souls of the dead to the god Odin's hall Valhalla.
-- The first-generation Freya is a pay-to-win hero. Additionally, Freya is one of the two heroes (including Odette) that cannot be bought by regular means. Odette used to be purchasable when she was released in 2017. Freya only stayed purchasable with special currency up until now. The reason for this is still unknown.
+- The first-generation Freya is a pay-to-win data. Additionally, Freya is one of the two heroes (including Odette) that cannot be bought by regular means. Odette used to be purchasable when she was released in 2017. Freya only stayed purchasable with special currency up until now. The reason for this is still unknown.
 - Freya's English voice actress also voiced some of the Battlefield Quick Chats.

@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image    = Alpha lethalnexusIntegration.jpg
 |chinese_name = 阿尔法 (ā'ěrfǎ)
 |caption  = Alpha and Beta (right) on their 2017-2021 design

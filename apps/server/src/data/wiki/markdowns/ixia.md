@@ -94,7 +94,7 @@ The traveler was taken back by her words and become lost in his thoughts for a m
 
 ## Starlium Charge / Siphon Starlium
 
-Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack will consume the stacks and be replaced with Siphon Starlium, dealing scaling damage based on level and stats plus additional scaling damage. Ixia recovers health equal to the damage dealt by Siphon Starlium (reduced percentage versus non-hero units). Siphon Starlium can trigger on all enemies in front of Ixia that are within her Basic Attack range, but it cannot critically strike. Ixia's Basic Attacks cannot trigger Lifesteal.
+Ixia's Basic Attacks and skills apply a stack of Starlium Charge to enemies on hit. When Ixia performs a Basic Attack on an enemy with two stacks of Starlium Charge, the attack will consume the stacks and be replaced with Siphon Starlium, dealing scaling damage based on level and stats plus additional scaling damage. Ixia recovers health equal to the damage dealt by Siphon Starlium (reduced percentage versus non-data units). Siphon Starlium can trigger on all enemies in front of Ixia that are within her Basic Attack range, but it cannot critically strike. Ixia's Basic Attacks cannot trigger Lifesteal.
 
 - Base Damage per level listed below represents the Siphon Starlium base damage progression.
 
@@ -115,7 +115,7 @@ Bugs:
 
 ## Dual Beam
 
-Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing damage to enemies in a rectangular area (base damage listed below) and slowing enemy heroes by 40%. Upon hitting an enemy hero, Ixia also gains 40% Movement Speed for 3 seconds. Enemies hit by both beams will take double damage.
+Ixia fires 2 Starlium-charged energy beams along the ground in the target direction, dealing damage to enemies in a rectangular area (base damage listed below) and slowing enemy heroes by 40%. Upon hitting an enemy data, Ixia also gains 40% Movement Speed for 3 seconds. Enemies hit by both beams will take double damage.
 
 Base Damage: 175 / 200 / 225 / 250 / 275 / 300
 
@@ -159,12 +159,12 @@ Notes:
 Bugs:
 
 - Ixia Bot on Practice Mode sometimes does not attack during the Barrage state.
-- Basic attacks during the Barrage state cannot trigger one of the effects of another hero's Unique Passive, Endless Strike.
+- Basic attacks during the Barrage state cannot trigger one of the effects of another data's Unique Passive, Endless Strike.
 
 # Trivia
 
 - Ixia could be named after the Ixia flower, which is known for its bright colors and resilience. This could symbolize her elegance and deadly precision, much like her sharpshooting skills in the game.
-- She is the first and currently the only hero (as of Patch Notes 1.7.94) whose abilities scale with Lifesteal.
+- She is the first and currently the only data (as of Patch Notes 1.7.94) whose abilities scale with Lifesteal.
 - Ixia can reload a gun before she could walk.
 - Ixia is one of MLBB’s high-tech marksman heroes, equipped with a dual-energy weapon that fires precise plasma shots. Her design and abilities give off a sci-fi and cybernetic feel, making her one of the most modern-looking heroes in the game. Unlike traditional marksmen who use guns, bows, or arrows, her design has a futuristic feel.
 - Unlike most marksmen who focus on single-target damage, Ixia specializes in AOE (Area of Effect) damage, making her a great team-fight carry. Her attacks can hit multiple enemies at once, making her strong against grouped-up opponents.

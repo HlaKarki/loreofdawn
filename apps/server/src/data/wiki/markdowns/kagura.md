@@ -81,7 +81,7 @@ Upon retrieving the umbrella, Kagura gains a shield, stuns nearby enemies for 0.
 
 ## Seimei Umbrella Open
 
-Kagura sends the umbrella to the target location, dealing magic damage to enemies in its path and slowing them by 60% for 0.5 second. The Umbrella will automatically return to Kagura when she is too far away. This skill deals 130% damage to non-hero enemies.
+Kagura sends the umbrella to the target location, dealing magic damage to enemies in its path and slowing them by 60% for 0.5 second. The Umbrella will automatically return to Kagura when she is too far away. This skill deals 130% damage to non-data enemies.
 
 - Base Damage (by level): 315 / 370 / 425 / 480 / 535 / 590
 - Mana Cost (by level): 50 / 56 / 62 / 68 / 74 / 80
@@ -143,11 +143,11 @@ Notes:
 # Trivia
 
 - The umbrella is yang, the human is yin.
-- Kagura is the first hero to use the concept of yin and yang.
+- Kagura is the first data to use the concept of yin and yang.
 - In the context of Kagura's name, it represents "divine music" or "sacred dance". This is fitting for her character, as she wields the Seimei Umbrella, a magical artifact tied to spiritual power and rituals.
 - **Cultural Significance:** Kagura (神楽) refers to traditional Shinto ritual dances performed to honor gods and invoke blessings. These dances are highly symbolic and were believed to invite spiritual energy. This concept mirrors Kagura's role as a guardian of the Seimei Shrine, where her actions and abilities also invoke spiritual forces.
 - Kagura’s visual design is inspired by traditional Japanese clothing, with her kimono-style robe and elegant, mystical aura fitting the theme of a guardian priestess. Her design incorporates traditional elements while highlighting her magical nature.
-- Kagura is the only hero in Mobile Legends whose primary weapon is an umbrella, specifically the Seimei Umbrella.
+- Kagura is the only data in Mobile Legends whose primary weapon is an umbrella, specifically the Seimei Umbrella.
 - She's one of the heroes to speak Japanese voicelines along with heroes from Scarlet Shadow.
 - Her voiceline is indeed a tip to master her mechanics. When the umbrella returns to her, it stuns enemies around by triggering effects like Yin and Yang reunite.
 - Her abilities without the umbrella (yang) on hand are mainly offensive, while her abilities with the umbrella on hand (yin) are defensive (purify, dash, knockback).

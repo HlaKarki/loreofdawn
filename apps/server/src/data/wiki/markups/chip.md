@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 He is the face of ''MLBB'' [[Season 32|Season 32: Shapeshifting]].
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image           = ChipComic.png
 | full_name       = 
 | alias           = 
@@ -144,7 +144,7 @@ Although it will only reply that it's off duty.
 |mana-cost      = 40 / 45 / 50 / 55 / 60 / 65
 |energy-cost    =
 |quote          =
-|description    = Chip rams his hovercraft into the ground, dealing {{b|Magic Damage}} equal to {{scale|base=220-370}} plus target's {{b|Max HP}} and applying {{b|Chip's Mark|e}} on enemy heroes hit. Chip gains a {{scale|base=300-800|total-mp=60|shield}} upon hitting an enemy hero, which increases by 20% for each additional energy hero hit. Chip's next {{ai|Basic Attack}} will become ranged and also hit all nearby enemies with {{b|Chip's Mark|e}}, detonating the mark to deal {{scale|base=200-350|total-mp=40|md}} and {{b|stun}} each target for 0.6 seconds.
+|description    = Chip rams his hovercraft into the ground, dealing {{b|Magic Damage}} equal to {{scale|base=220-370}} plus target's {{b|Max HP}} and applying {{b|Chip's Mark|e}} on enemy heroes hit. Chip gains a {{scale|base=300-800|total-mp=60|shield}} upon hitting an enemy data, which increases by 20% for each additional energy data hit. Chip's next {{ai|Basic Attack}} will become ranged and also hit all nearby enemies with {{b|Chip's Mark|e}}, detonating the mark to deal {{scale|base=200-350|total-mp=40|md}} and {{b|stun}} each target for 0.6 seconds.
 |ls-1           = Base Damage: 220 / 250 / 280 / 310 / 340 / 370
 |ls-2           = Base Shield: 300 / 400 / 500 / 600 / 700 / 800
 |ls-3           = Extra Damage: 200 / 230 / 260 / 290 / 320 / 350
@@ -212,7 +212,7 @@ Although it will only reply that it's off duty.
 |mana-cost      = 110
 |energy-cost    =
 |quote          = Get it done so we can get off work.
-|description    = Chip drops the Main Portal on an enemy hero, dealing {{scale|base=200-300|total-mp=60|md}} and [[slow|slowing]] them by 30% for 2.5 seconds. Meanwhile, he creates {{b|Connecting Portals|e}} near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The {{b|Main Portal|e}} and {{b|Connecting Portals|e}} last up to 10 seconds.<br>{{b|Connecting Portal|e}}: Heroes can teleport from {{b|Connecting Portals|e}} to the {{b|Main Portal|e}}, or stand on the {{b|Main Portal|e}} for a period time to return to the Connecting Portal they came from.<br>{{b|Main Portal|e}}: Deals {{scale|base=600-900|total-mp=180|md}} to nearby targets after a delay and [[airborne|knocks them airborne]] for 0.8 seconds. The {{b|Main Portal|e}} inherits 80% of Chip's HP.
+|description    = Chip drops the Main Portal on an enemy data, dealing {{scale|base=200-300|total-mp=60|md}} and [[slow|slowing]] them by 30% for 2.5 seconds. Meanwhile, he creates {{b|Connecting Portals|e}} near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The {{b|Main Portal|e}} and {{b|Connecting Portals|e}} last up to 10 seconds.<br>{{b|Connecting Portal|e}}: Heroes can teleport from {{b|Connecting Portals|e}} to the {{b|Main Portal|e}}, or stand on the {{b|Main Portal|e}} for a period time to return to the Connecting Portal they came from.<br>{{b|Main Portal|e}}: Deals {{scale|base=600-900|total-mp=180|md}} to nearby targets after a delay and [[airborne|knocks them airborne]] for 0.8 seconds. The {{b|Main Portal|e}} inherits 80% of Chip's HP.
 |ls-1           = Base Damage: 200 / 250 / 300
 |ls-2           = Extra Damage: 600 / 750 / 900
 |ls-3           = 
@@ -226,7 +226,7 @@ Although it will only reply that it's off duty.
 |term-3         =
 |notes          =*The first connecting portal that a Hero comes in will be marked as the connecting portal for them.
 *Going through a connecting portal will trigger {{hi|Phoveus}}'s {{ai|Demonic Force}} but not on returning.
-*A hero can only return to the previous portal once after 2 seconds of waiting delay.
+*A data can only return to the previous portal once after 2 seconds of waiting delay.
 *The Main Portal is treated as a creep, and is fully affected by {{ai|Retribution}}.
 *Does not create Connecting Portals to unit inside {{hi|Yin}}'s {{ai|My Turn}} and vice versa if {{hi|Chip}} is inside.
 |bugs           =
@@ -286,7 +286,7 @@ Hero1243-icon.png|Badlands Hiatus
 ===Battle emotes ===
 {{Emote|Chip}}
 
-==="Do I Look Like I Care?" hero series stickers ===
+==="Do I Look Like I Care?" data series stickers ===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="128" hideaddbutton="true">
 File:Chip Bothered.gif|Bothered
 File:Chip Bye.gif|Bye

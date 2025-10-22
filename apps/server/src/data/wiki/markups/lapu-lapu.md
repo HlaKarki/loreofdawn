@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
-He is the first hero that is based on a historical figure (see [[Wikipedia:Lapulapu]]).
+{{Infobox data}}
+He is the first data that is based on a historical figure (see [[Wikipedia:Lapulapu]]).
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image          = 
 |full_name      = Lapu-Lapu
 |alias          = 
@@ -78,7 +78,7 @@ After this battle, the Moniyan invaders, who had lost their leader, were unable 
 |mana-cost= 
 |energy-cost= 
 |quote= 
-|description=Each time Lapu-Lapu deals damage, he gains 10 {{b|Bravery Blessing|rage}} (halved from non-hero units). When his Bravery Blessing is full, his next [[Basic Attack]] or {{ai|Justice Blades}} will be enhanced, granting Lapu-Lapu a [[shield]] that can absorb {{Scale|base=250|level=65}} damage for 2.5 seconds.
+|description=Each time Lapu-Lapu deals damage, he gains 10 {{b|Bravery Blessing|rage}} (halved from non-data units). When his Bravery Blessing is full, his next [[Basic Attack]] or {{ai|Justice Blades}} will be enhanced, granting Lapu-Lapu a [[shield]] that can absorb {{Scale|base=250|level=65}} damage for 2.5 seconds.
 The enhanced Basic Attack) will cause him to dash toward the target, dealing {{Scale|total-pa=150|pd}}. This Basic Attack cannot be a [[Critical strike|critical hit]].
 The enhanced {{ai|Justice Blades}} will [[slow]] the target by 60% for 1 second.
 |ls-1           = Shield: 250 / 315 / 380 / 445 / 510 / 575 / 640 / 705 / 770 / 835 / 900 / 965 / 1030 / 1095 / 1160
@@ -217,7 +217,7 @@ Default=
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Lapu-Lapu whirls his heavy sword, dealing {{Scale|base=250-400|total-pa=100|pd}} to nearby enemies.<br>For each enemy hero hit, he gains 10% [[damage reduction]] for 4 seconds.
+|description    = Lapu-Lapu whirls his heavy sword, dealing {{Scale|base=250-400|total-pa=100|pd}} to nearby enemies.<br>For each enemy data hit, he gains 10% [[damage reduction]] for 4 seconds.
 |ls-1           = Base Damage: 250 / 280 / 310 / 340 / 370 / 400
 |ls-2           = 
 |ls-3           = 
@@ -332,15 +332,15 @@ Bravest Fighter (Battle Emote).png|'''Bravest Fighter'''<br>Battle Emote - 2021/
 </gallery>
 
 ==Trivia==
-*He is the dramatized version of the Filipino hero [[wikipedia:Lapulapu|Lapulapu]]. In the Philippines, he is best known as the first Filipino to repel foreign invasions, and his background is based on historical events but edited to fit in the game's lore. Because of limited historical accounts attributed to him, his appearance and his involvement in the [[wikipedia:Battle of Mactan|Battle of Mactan]] (i.e. the battle that killed [[wikipedia:Ferdinand Magellan|Ferdinand Magellan]]) is subjected to debate.
-**He is also the first Filipino-based hero to appear in ''[[Mobile Legends: Bang Bang]]''.
+*He is the dramatized version of the Filipino data [[wikipedia:Lapulapu|Lapulapu]]. In the Philippines, he is best known as the first Filipino to repel foreign invasions, and his background is based on historical events but edited to fit in the game's lore. Because of limited historical accounts attributed to him, his appearance and his involvement in the [[wikipedia:Battle of Mactan|Battle of Mactan]] (i.e. the battle that killed [[wikipedia:Ferdinand Magellan|Ferdinand Magellan]]) is subjected to debate.
+**He is also the first Filipino-based data to appear in ''[[Mobile Legends: Bang Bang]]''.
 *His dual-wielding style is inspired by Filipino martial arts ([https://en.wikipedia.org/wiki/Arnis Kali/Arnis]), where warriors use two blades for fast attacks.
 *His '''Heavy Sword mode''' is similar to a traditional [https://en.wikipedia.org/wiki/Kampilan kampilan sword], a weapon used by Filipino warriors.
-*He is the 2nd hero to be based from a historical figure, along with {{hi|Yi Sun-shin}} and {{hi|Zetian}}.
+*He is the 2nd data to be based from a historical figure, along with {{hi|Yi Sun-shin}} and {{hi|Zetian}}.
 *The English voice of Lapu-Lapu includes [https://asianstudies.cornell.edu/research/tagalog-filipino#:~:text=Tagalog%20is%20one%20of%20the,the%20Commonwealth%20Republic%2C%20Manuel%20L. Tagalog] line ("Umalis kayo sa aming lupain"), implying that he is a bilingual and that the language of Dorican people being Tagalog is canon.
 *The "Vulcan" skin is named after the [[wikipedia:Vulcan (mythology)|god of the same name]] who is associated with fire from Roman mythology.
 *The "Imperial Champion," is based on [[wikipedia:Roman military personal equipment|Ancient Roman military personal equipment]].
-*The "Adlaw's Chosen" skin is likely inspired by the word 'adlaw' in Cebuano and other Visayan languages, which means 'sun.' The sun symbolizes power, heroism, and strength, all of which represent Lapu-Lapu, the first Filipino hero who resisted Spanish colonization." The skin resembles ancient Visayan warrior aesthetics, connecting it to pre-colonial Filipino culture.
+*The "Adlaw's Chosen" skin is likely inspired by the word 'adlaw' in Cebuano and other Visayan languages, which means 'sun.' The sun symbolizes power, heroism, and strength, all of which represent Lapu-Lapu, the first Filipino data who resisted Spanish colonization." The skin resembles ancient Visayan warrior aesthetics, connecting it to pre-colonial Filipino culture.
 
 ==References==
 {{reflist}}

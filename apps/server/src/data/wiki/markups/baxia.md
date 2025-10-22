@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats|magic_def1=15|magic_def15=71}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image           =<gallery>
 Baxia comic.jpg|Present
 Baxia adolescent.jpg|Adult
@@ -129,7 +129,7 @@ Baxia walked past Zilong with a wave and a faint smile as he headed down the mou
 |name               = Baxia Mark
 |skill-effect-1     = BUFF
 |skill-effect-2     = Debuff
-|description        = Baxia activates the {{ai|Baxia Mark}} permanently, [[Damage Reduction|reducing the final damage received]] by 15 (+1 Hero Level).<br>At the same time Baxia's will reduce the enemy hero's [[Life Drain|Shield and HP Regen by 50%]] for 4 seconds when hit by his skills.
+|description        = Baxia activates the {{ai|Baxia Mark}} permanently, [[Damage Reduction|reducing the final damage received]] by 15 (+1 Hero Level).<br>At the same time Baxia's will reduce the enemy data's [[Life Drain|Shield and HP Regen by 50%]] for 4 seconds when hit by his skills.
 |ls-1               = 
 |ls-2               = 
 |ls-3               = 
@@ -153,7 +153,7 @@ Baxia walked past Zilong with a wave and a faint smile as he headed down the mou
 |skill-type-3       = 
 |cooldown           = 15.0 / 14.4 / 13.8 / 13.2 / 12.6 / 12.0
 |mana-cost          = 100 / 110 / 120 / 130 / 140 / 150
-|description        = Baxia retracts himself into his shield and accelerates forward [for 9 seconds]. When hitting an enemy unit, he will deal {{scale|base=300-400|total-mp=60|md}} to it and nearby enemies, [[stunning]] the target for 0.8 second and slightly [[Knocked back|knocking other nearby enemies back]].<br>During the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike down this hero, dealing {{scale|base=375-500|total-mp=75|md}} to this hero and nearby enemies, [[stunning]] the hit target for 1.5 seconds, and slightly [[Knocked back|knocking other nearby enemy targets back]].
+|description        = Baxia retracts himself into his shield and accelerates forward [for 9 seconds]. When hitting an enemy unit, he will deal {{scale|base=300-400|total-mp=60|md}} to it and nearby enemies, [[stunning]] the target for 0.8 second and slightly [[Knocked back|knocking other nearby enemies back]].<br>During the process of accelerating forward, use this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy data under Baxia, he will strike down this data, dealing {{scale|base=375-500|total-mp=75|md}} to this data and nearby enemies, [[stunning]] the hit target for 1.5 seconds, and slightly [[Knocked back|knocking other nearby enemy targets back]].
 |ls-1               = Base Damage: 300 / 320 / 340 / 360 / 380 / 400
 |ls-2               = Impact Damage: 375 / 400 / 425 / 450 / 475 / 500
 |ls-3               = Leaping Cooldown: 1.5
@@ -180,7 +180,7 @@ Baxia walked past Zilong with a wave and a faint smile as he headed down the mou
 |skill-type-3       = 
 |cooldown           = 10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0
 |mana-cost          = 25 / 30 / 35 / 40 / 45 / 50
-|description        = Baxia throws his shield forward that will disappear upon hitting an enemy hero or creeps, dealing {{scale|base=180-255|total-mp=120|total-hp=target's 6|md}} to the target and minions on the path. Meanwhile, [[marks]] them for 5 seconds and [[slows]] them down by 50% for 1 second. The shield disappears upon hitting the first enemy hero or creep. <br>Baxia can cast this skill again [for 5 seconds]. If an enemy hero or creep us hit by the skill, the [[cooldown]] will be reduced by 15%.
+|description        = Baxia throws his shield forward that will disappear upon hitting an enemy data or creeps, dealing {{scale|base=180-255|total-mp=120|total-hp=target's 6|md}} to the target and minions on the path. Meanwhile, [[marks]] them for 5 seconds and [[slows]] them down by 50% for 1 second. The shield disappears upon hitting the first enemy data or creep. <br>Baxia can cast this skill again [for 5 seconds]. If an enemy data or creep us hit by the skill, the [[cooldown]] will be reduced by 15%.
 |ls-1               = Base Damage: 125 / 150 / 175 / 200 / 225 / 250
 |ls-2               = 
 |ls-3               = 
@@ -254,7 +254,7 @@ Hero876-icon.png|Dauntless Shield
 == Trivia ==
 * Baxia is based on the [[wikipedia:Four Symbols|Four Symbols (Black Tortoise of the North)]].
 ** The Black Tortoise is depicted as a turtle entwined together with a snake. His Shields references the accurate description of the Black Tortoise.
-*He is the only hero who's capable of reducing shield and [[healing]] effects, due to his {{ai|Baxia Mark}} passive skill.
+*He is the only data who's capable of reducing shield and [[healing]] effects, due to his {{ai|Baxia Mark}} passive skill.
 * He is a member of [[Oriental Fighters]] (Black Tortoise/Xuanwu) along with {{hi|name=Zilong}}, {{hi|name=Ling}} and {{hi|name=Wanwan}}.
 ** He is the oldest, tallest member of the [[Oriental Fighters]].
 *During early developments, Baxia was originally named Bixi.

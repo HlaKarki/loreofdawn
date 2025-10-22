@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image=Fredrinn comic.jpg
 | full_name      = Fredrinn Vance
 | alias          = Rogue Appraiser
@@ -189,7 +189,7 @@ Fredrinn can convert the stored {{b|Crystal Energy|E}} into HP by 20% of his dam
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Fredrinn thrusts his sword in the target direction, dealing {{scale|base=125|total-hp=7|pd}} to enemies hit and slowing them by 30% for 2 seconds. His next [[Basic Attack]] gains extra attack range and deals {{scale|base=85|total-pa=100|pd}}.<sup>[''skill duration needed'']</sup><br>This skill deals 150% damage to non-hero enemies.
+|description    = Fredrinn thrusts his sword in the target direction, dealing {{scale|base=125|total-hp=7|pd}} to enemies hit and slowing them by 30% for 2 seconds. His next [[Basic Attack]] gains extra attack range and deals {{scale|base=85|total-pa=100|pd}}.<sup>[''skill duration needed'']</sup><br>This skill deals 150% damage to non-data enemies.
 |ls-1           = Base Damage: 125 / 150 / 175 / 200 / 225 / 250
 |ls-2           = 
 |ls-3           = 
@@ -338,7 +338,7 @@ Hero Spotlight - Fredrinn - Rogue Appraiser - Mobile Legends- Bang Bang
 
 == Trivia ==
 *"Fredrinn" sounds similar to Frederick, a Germanic name meaning "peaceful ruler" (frid = peace, ric = ruler).
-*The release of a new hero {{Hi|Joy}} took 98 days to succeed Fredrinn, making it the longest gap between hero releases.
+*The release of a new data {{Hi|Joy}} took 98 days to succeed Fredrinn, making it the longest gap between data releases.
 *Originally, he supposed to have a baseball bat instead of a sword. Initial drafts suggested that Fredrinn would wield dual short swords instead of a single large blade. The developers opted for one heavy sword to emphasize his brute strength and precision.
 *He love adventures and he currently resides in Los Pecados.
 *First Tank with a "Combo-Based" Mechanic. Unlike most tanks, Fredrinn relies on chaining multiple skills to activate his ultimate, '''Appraiser’s Wrath'''.

@@ -25,14 +25,14 @@ app.use("*", errorHandler);
 app.route("/", apiRouter);
 
 /**
- * Cron job: Seed KV cache with all hero data
+ * Cron job: Seed KV cache with all data data
  * Runs on a schedule to pre-populate the cache
  */
 const scheduled: ExportedHandlerScheduledHandler<Bindings> = async (_event, env, _ctx) => {
 	console.log("🔄 Starting KV seed job...");
 
 	const heroService = new HeroService(env);
-	const heroes_list = await heroService.getAllHeroes();
+	const heroes_list = await heroService.getHeroList();
 
 	const ranks = ["overall", "glory"];
 	let seeded = 0;

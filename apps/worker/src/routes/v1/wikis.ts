@@ -8,7 +8,7 @@ export const wikisRouter = new Hono<Env>();
 
 /**
  * GET /v1/wikis/:name
- * Get wiki content for a hero
+ * Get wiki content for a data
  */
 wikisRouter.get("/:name", async (c) => {
 	const name = c.req.param("name")?.trim().toLowerCase();

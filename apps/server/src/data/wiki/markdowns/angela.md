@@ -46,11 +46,11 @@ As their pursuers were just about to close in on them, Dr. Baker placed Angela i
 
 ## Smart Heart
 
-Angela gains 7.5% extra Movement Speed for 4 seconds each time she casts a skill, stacking up to 30%. When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.
+Angela gains 7.5% extra Movement Speed for 4 seconds each time she casts a skill, stacking up to 30%. When she's attached to an allied data, the Movement Speed boost is transferred to the allied data.
 
 - Extra Movement Speed Per Stack: 7.5% / 15% / 22.5% / 30%
 - Effect duration: 4 seconds
-- Notes: Movement Speed boost is transferred to an allied hero while Angela is attached to them.
+- Notes: Movement Speed boost is transferred to an allied data while Angela is attached to them.
 
 ## Love Waves
 
@@ -90,7 +90,7 @@ Angela launches a puppet string at the target enemy, dealing magic damage and gr
 
 ## Heartguard
 
-Angela begins channeling for 2 seconds, applying a shield that lasts 6 seconds to the target allied hero regardless of distance. After channeling, she attaches herself to the allied hero for 12 seconds, during which she can cast skills at zero Mana cost. Angela can cast this skill again to cancel the channeling or to detach herself from the allied hero. The attaching state ends early if the allied hero is killed.
+Angela begins channeling for 2 seconds, applying a shield that lasts 6 seconds to the target allied data regardless of distance. After channeling, she attaches herself to the allied data for 12 seconds, during which she can cast skills at zero Mana cost. Angela can cast this skill again to cancel the channeling or to detach herself from the allied data. The attaching state ends early if the allied data is killed.
 
 - Skill type: Attach, Shield
 - Cooldown: 70 seconds
@@ -100,16 +100,16 @@ Angela begins channeling for 2 seconds, applying a shield that lasts 6 seconds t
 - Shield bonus multiplier by level: 200% / 250% / 300%
 - Attaching duration after channel: 12 seconds (shield on ally lasts 6 seconds)
 - Special notes:
-  - During the attaching state, Angela can cast this skill again to detach herself by blinking to a designated location away from the attached hero.
+  - During the attaching state, Angela can cast this skill again to detach herself by blinking to a designated location away from the attached data.
   - Cooldown starts after casting the skill.
   - The channeling phase can be interrupted by crowd control that can interrupt skills and by displacement effects.
   - Angela is untargetable during the attaching state and cannot use any equipment or battle spells.
   - The effect persists if the target ally becomes untargetable, such as with certain heroes' abilities.
-  - There are domain and interaction exceptions with certain other hero abilities; the original data contained specific edge-case notes about domain interactions and mobility restrictions.
+  - There are domain and interaction exceptions with certain other data abilities; the original data contained specific edge-case notes about domain interactions and mobility restrictions.
 
 # Trivia
 
-- She is the first hero who can be attached to a hero by using her Ultimate, the second is.
-- She carries a distinct doll for each skin that resembles her appearance on the hero selection screen. She used to toss the puppet as her basic attack when she was still in development, but the animation was eventually altered to simple heart-shaped projectiles. This doll can now only be visible in-game when she is using her Ultimate to possess an ally. The doll will be seen above the ally hero's model.
+- She is the first data who can be attached to a data by using her Ultimate, the second is.
+- She carries a distinct doll for each skin that resembles her appearance on the data selection screen. She used to toss the puppet as her basic attack when she was still in development, but the animation was eventually altered to simple heart-shaped projectiles. This doll can now only be visible in-game when she is using her Ultimate to possess an ally. The doll will be seen above the ally data's model.
 - Because some users found her former eyes unsettling and distressing, Angela's on her splash art was modified.
 - Her Starlight skin was renamed from China Doll to Shanghai Maiden.

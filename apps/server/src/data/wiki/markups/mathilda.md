@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
-She was released as a part of the [[Blazing Bounties]] event. Players had a chance to redeem the hero for free for a limited time.
+{{Infobox data}}
+She was released as a part of the [[Blazing Bounties]] event. Players had a chance to redeem the data for free for a limited time.
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | alias          = Swift Plume
 | born           = 
@@ -103,7 +103,7 @@ For Mathilda, a great adventure had only just begun. In the setting sun, she bid
 *Has a radius of 5.3 unit.
 *Fully affect concealed, invisible and unsighted targetable enemies in range.
 **If the number of enemies in range is less than or equal to the number of attracted wisps, each enemy will be hit once, prioritize unsighted enemy heroes.
-*If there are multiple enemies nearby, the wisps have a 20% chance of hitting the same target multiple times and guarantee to hit a new enemy hero target at least once each.<sub>[''verification needed'']</sub>
+*If there are multiple enemies nearby, the wisps have a 20% chance of hitting the same target multiple times and guarantee to hit a new enemy data target at least once each.<sub>[''verification needed'']</sub>
 |bugs           =
 }}
 
@@ -114,7 +114,7 @@ For Mathilda, a great adventure had only just begun. In the setting sun, she bid
 |skill-effect-2 = Shield
 |cooldown       = 12.0 / 11.8 / 11.6 / 11.4 / 11.2 / 11.0
 |mana-cost      = 75 / 80 / 85 / 90 / 95 / 100
-|description    = Mathilda [[blink|leaps]] in the target direction and creates a field around her, gaining a {{Scale|base=500-1000|total-mp=180|shield}} and a 25% extra [[Movement Speed]] for 3 seconds. Allied heroes who come in contact with the field will receive 60% [[shield]] and {{B|Guiding Wind|e}}. The first allied hero that triggers Guiding Wind will be guided to Mathilda, and both of them will gain the same [[Movement Speed]] boost.<br>When casting this skill during {{ai|Circling Eagle}}, Mathilda will not change her position.<br>Guiding Wind expires 2 seconds after the hero leaves Mathilda's field.
+|description    = Mathilda [[blink|leaps]] in the target direction and creates a field around her, gaining a {{Scale|base=500-1000|total-mp=180|shield}} and a 25% extra [[Movement Speed]] for 3 seconds. Allied heroes who come in contact with the field will receive 60% [[shield]] and {{B|Guiding Wind|e}}. The first allied data that triggers Guiding Wind will be guided to Mathilda, and both of them will gain the same [[Movement Speed]] boost.<br>When casting this skill during {{ai|Circling Eagle}}, Mathilda will not change her position.<br>Guiding Wind expires 2 seconds after the data leaves Mathilda's field.
 |properties     = *Base Shield: 500 / 600 / 700 / 800 / 900 / 1000
 |calc           = 
 |term-1         = Blink
@@ -135,7 +135,7 @@ For Mathilda, a great adventure had only just begun. In the setting sun, she bid
 |skill-type-1   = Magic Skill
 |cooldown       = 40.0
 |mana-cost      = 150 / 180 / 210
-|description    = Mathilda applies a {{b|Soul Mark|mark}} to the target enemy hero and circles around the them for up to 3.5 seconds, during which her wisps will fly toward nearby enemy heroes, each  dealing {{Scale|base=40|total-mp=15|md}}. {{ai|Soul Bloom 2|Soul Bloom}} will prioritize the target with Soul Mark.<br>Within the duration, Mathilda can select an area to [[dash]] to. At the end of the duration, she'll dash at the target with {{B|Soul Mark|mark}}, dealing {{Scale|base=320-400|total-mp=120|md}} while knocking enemies in her path [[airborne]] for 0.6 seconds and transferring the Soul Mark to the first enemy hero that she knocks airborne.<br>Mathilda gains [[control immunity]] and {{Scale|base=400-600|total-mp=160|shield}} for the skill duration.
+|description    = Mathilda applies a {{b|Soul Mark|mark}} to the target enemy data and circles around the them for up to 3.5 seconds, during which her wisps will fly toward nearby enemy heroes, each  dealing {{Scale|base=40|total-mp=15|md}}. {{ai|Soul Bloom 2|Soul Bloom}} will prioritize the target with Soul Mark.<br>Within the duration, Mathilda can select an area to [[dash]] to. At the end of the duration, she'll dash at the target with {{B|Soul Mark|mark}}, dealing {{Scale|base=320-400|total-mp=120|md}} while knocking enemies in her path [[airborne]] for 0.6 seconds and transferring the Soul Mark to the first enemy data that she knocks airborne.<br>Mathilda gains [[control immunity]] and {{Scale|base=400-600|total-mp=160|shield}} for the skill duration.
 |properties     = *Wisp Damage: 40
 *Knock Damage: 320 / 360 / 400
 *[[Shield]]: 400 / 500 / 600
@@ -173,9 +173,9 @@ Hero1026-icon.png|Dreambound Pixie
 
 == Trivia ==
 *The name Mathilda has Germanic origins and is derived from the words "maht" (meaning "might" or "strength") and "hild" (meaning "battle" or "combat"). So, the name Mathilda can be interpreted to mean "mighty in battle" or "strength in battle".
-*Initially, Mathilda was conceptualized as a support hero with a focus on healing and providing utility to her team. She was not originally an assassin-support hybrid. Her abilities were centered around her role as a more traditional support, offering crowd control and healing.
+*Initially, Mathilda was conceptualized as a support data with a focus on healing and providing utility to her team. She was not originally an assassin-support hybrid. Her abilities were centered around her role as a more traditional support, offering crowd control and healing.
 *During Mathilda's release, she was given out for free for a limited-time.
-*Mathilda is the first hero assigned as [[support]] and [[assassin]].
+*Mathilda is the first data assigned as [[support]] and [[assassin]].
 *Mathilda's appearance and her tribe appear to be based on the [[wikipedia:Native Americans in the United States|indigenous peoples]] of North America, particularly in the United States.
 *Swift Plume is a type of bird found in tropical moist lowland forest. which could be the inspiration of her design. The bird can be seen in her skill 1 icon.
 *The most unique feature is that if Mathilda is near an ally, the bird will carry that ally along with it, effectively allowing her to reposition allies quickly across the map.

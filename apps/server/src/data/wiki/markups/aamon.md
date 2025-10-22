@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
-He is the first hero listed alphabetically.
+{{Tabs data}}
+{{Infobox data}}
+He is the first data listed alphabetically.
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=File:Aamon comic.jpg
 |full_name=Aamon Paxley
 |alias=*Duke of Shards

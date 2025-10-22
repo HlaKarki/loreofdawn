@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | full_name      =
 | image          = Home Sweet Home.jpg
 | alias          = *Flash of Miracle
@@ -292,8 +292,8 @@ Joy Theater - Homeward Bound - Mobile Legends- Bang Bang|Joy Theater
 *The name "Joy" represents her playful and energetic nature. Her voice lines are cheerful and enthusiastic, showing her youthful and fun-loving personality.
 *She is the 4th [[Leonin]] to be introduced in the game along with {{hi|Nana}}, {{hi|Harith}} and {{hi|Aulus}}.
 *She has cat-like ears, a playful personality, and makes cute purring and meowing sounds in some of her voice lines. Even her Ultimate, "Ha, Electrifying Beats!", has her leaping around like a hyperactive kitten.
-*Joy is the first hero to accompany [[Wp:Rhythm|rhythm]] through her skills, akin to a [[Wp:Rhythm game|rhythm game]].
-*Joy was officially released on 18 November 2022, since the release of {{hi|Fredrinn}} on 12 August 2022, making it the longest gap between hero releases at 98 days.
+*Joy is the first data to accompany [[Wp:Rhythm|rhythm]] through her skills, akin to a [[Wp:Rhythm game|rhythm game]].
+*Joy was officially released on 18 November 2022, since the release of {{hi|Fredrinn}} on 12 August 2022, making it the longest gap between data releases at 98 days.
 
 == References ==
 {{Reflist}}

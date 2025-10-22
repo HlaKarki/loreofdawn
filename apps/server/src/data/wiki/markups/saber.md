@@ -1,9 +1,9 @@
-{{Tabs hero}}
+{{Tabs data}}
 :''For the skin series, see [[S.A.B.E.R.]]''
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Lore==
-{{Infobox hero story
+{{Infobox data story
 |full_name      = Duan Meng
 |chinese_name   = 剑锋 (jiànfēng)
 |alias          = *Wandering Sword
@@ -114,7 +114,7 @@ Physical Defense Reduction (level 15): 8 / 16 / 24 / 32 / 40
 |skill-effect-2 = Buff
 |image-legend   = Orbiting Swords
 |description    = Saber shoots out 5 swords that orbit around him, dealing {{Scale|base=80-105|extra-pa=30|pd}} to enemies
-on contact. After orbiting around Saber for roughly 5 seconds, the swords will fly back to Saber.<br>Within the duration of this skill, when Saber deals damage with his [[Basic Attacks]] or [[skills]], he will send an orbiting sword towards the target, dealing {{scale|base=210-260|extra-pa=60|pd}} to the main target and 50% of the damage to other targets it passes through and reducing the cooldown of [[#Skill 2|Charge]] by 1 second. It deals only 50% damage to all non-hero enemies such as [[minions]] and [[creeps]].
+on contact. After orbiting around Saber for roughly 5 seconds, the swords will fly back to Saber.<br>Within the duration of this skill, when Saber deals damage with his [[Basic Attacks]] or [[skills]], he will send an orbiting sword towards the target, dealing {{scale|base=210-260|extra-pa=60|pd}} to the main target and 50% of the damage to other targets it passes through and reducing the cooldown of [[#Skill 2|Charge]] by 1 second. It deals only 50% damage to all non-data enemies such as [[minions]] and [[creeps]].
 |level-scaling=Base Damage: 80 / 85 / 90 / 95 / 100 / 105
 Extra Damage: 210 / 220 / 230 / 240 / 250 / 260
 |term-1         = Physical Damage Skill
@@ -151,7 +151,7 @@ Enhanced Damage: 75 / 90 / 105 / 120 / 135 / 150
 |skill-effect-1 = Burst
 |skill-effect-2 = CC
 |image-legend   = Triple Sweep
-|description    = Saber charges at the target enemy hero, knocking them [[airborne]] for 1.2 seconds and striking them 3 times over the duration. The first two strikes deal {{scale|base=120-180|extra-pa=100|pd}} each, while the third strike deals {{scale|base=240-360|extra-pa=200|pd}}.
+|description    = Saber charges at the target enemy data, knocking them [[airborne]] for 1.2 seconds and striking them 3 times over the duration. The first two strikes deal {{scale|base=120-180|extra-pa=100|pd}} each, while the third strike deals {{scale|base=240-360|extra-pa=200|pd}}.
 |properties=Base Damage: 120 / 150 / 180
 Extra Damage: 240 / 300 / 360
 |term-1          = Airborne

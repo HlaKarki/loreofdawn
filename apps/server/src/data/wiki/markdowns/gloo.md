@@ -84,7 +84,7 @@ Notes:
 Slam, Slam
 
 - Description: Gloo reaches out and slams the ground, dealing damage based on level and stats to enemies hit. At the end of the slam, a sticky zone is left behind that explodes after 3 seconds to deal additional damage based on level and stats to nearby enemies and immobilize them for 1 second.
-- If Gloo touches the sticky zone, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5% to 5% of its Max HP if the explosion hits an enemy (healing is doubled if it hits an enemy hero).
+- If Gloo touches the sticky zone, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5% to 5% of its Max HP if the explosion hits an enemy (healing is doubled if it hits an enemy data).
 
 - Cooldown: 10.0 / 9.2 / 8.4 / 7.6 / 6.8 / 6.0 seconds (varies by level).
 - Mana cost: 25 / 30 / 35 / 40 / 45 / 50.
@@ -111,7 +111,7 @@ Grab, Grab
 
 > "One is all. (All is one.)"
 
-- Unlocked when any enemy hero has full Sticky stacks. Gloo attaches itself to the target enemy hero for up to 9 seconds, recovering 25% to 30% of its Max HP while attached.
+- Unlocked when any enemy data has full Sticky stacks. Gloo attaches itself to the target enemy data for up to 9 seconds, recovering 25% to 30% of its Max HP while attached.
 - For the duration, Gloo's basic attacks are converted to deal damage based on Gloo's Max HP. Gloo transfers 80% of the damage it receives to its host (this does not include damage from turrets).
 - If the target dies while Gloo is attached, this skill's cooldown is reduced to 5 seconds.
 
@@ -126,6 +126,6 @@ Notes:
 
 # Trivia
 
-- The name Gloo is a pun of the word "Glue", referencing his to stick to an enemy hero.
-- Gloo is the second hero who can attach to another hero and use skills upon attaching, the first being.
-- Gloo is the first hero who attaches to an enemy hero, while attaches to an allied hero.
+- The name Gloo is a pun of the word "Glue", referencing his to stick to an enemy data.
+- Gloo is the second data who can attach to another data and use skills upon attaching, the first being.
+- Gloo is the first data who attaches to an enemy data, while attaches to an allied data.

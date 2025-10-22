@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
-{{hero stats}}
+{{Tabs data}}
+{{Infobox data}}
+{{data stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | name            = 
 | image           = 
 | full_name       = Princess Pharsa of Crow Clan
@@ -101,7 +101,7 @@ Verri, the love of her life, couldn’t bear to see his betrothed suffer a life 
 |skill-effect-1  = Damage
 |skill-effect-2  = Slow
 |quote           = 
-|description     = Every 8 seconds, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy hero, dealing 8% extra {{B|Magic Damage}} equal to the target's {{B|Max HP}} (+1% for every 200 {{B|Magic Power}} owned) and [[slowing]] them by 60% for 1 second.
+|description     = Every 8 seconds, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy data, dealing 8% extra {{B|Magic Damage}} equal to the target's {{B|Max HP}} (+1% for every 200 {{B|Magic Power}} owned) and [[slowing]] them by 60% for 1 second.
 |term-1          = Magic Damage Skill
 |term-2          = Movement Speed
 |term-3          = 
@@ -214,7 +214,7 @@ Verri, the love of her life, couldn’t bear to see his betrothed suffer a life 
 |notes           =*The ability has an estimate range of 9.5 and hitbox of 1.9.
 *{{hi|Pharsa}} can cast any other abilities, [[battle spells]] and [[equipment]]s, except for {{ai|Wings by Wings}} and {{ai|Recall}} without canceling this ability.
 *The casting of the ability is also the first cast. 
-|bugs            = *On Pharsa's official hero spotlight at www.mobilelgends.com, it erroneously categorized Energy Impact as "3rd Skill."
+|bugs            = *On Pharsa's official data spotlight at www.mobilelgends.com, it erroneously categorized Energy Impact as "3rd Skill."
 |variations-1    = Neobeast 2
 }}
 
@@ -247,7 +247,7 @@ Verri, the love of her life, couldn’t bear to see his betrothed suffer a life 
 |stack-scaling   = 
 |calc            = 
 |notes           = *The camera height raises within the skill channeling.
-|bugs            = *On Pharsa's official hero spotlight at www.mobilelgends.com, it erroneously categorized Wings by Wings as an "Ultimate".
+|bugs            = *On Pharsa's official data spotlight at www.mobilelgends.com, it erroneously categorized Wings by Wings as an "Ultimate".
 |variations-1    = Neobeast 2
 }}
 
@@ -293,7 +293,7 @@ Mobile Legends- Bang Bang! New Hero -Wings of Vengance- Pharsa|{{hi|name=Pharsa}
 
 == Trivia ==
 * The name Pharsa could be a reference to ancient '''Egyptian royalty''', as the word '''"Pharaoh"''' has connotations of '''power''', '''majesty''', and '''divine authority'''. This could reflect Pharsa’s '''dominant presence''' in battle and her '''command over flight and magical energy'''.
-* '''"Pharsa"''' could be inspired by the Arabic word for '''"bird"''' or '''"eagle,"''' which fits Pharsa's '''avian''' and '''flight-based abilities'''. As a '''mage hero''' with a powerful bird companion and the ability to soar through the air, this interpretation aligns well with her design and skillset.
+* '''"Pharsa"''' could be inspired by the Arabic word for '''"bird"''' or '''"eagle,"''' which fits Pharsa's '''avian''' and '''flight-based abilities'''. As a '''mage data''' with a powerful bird companion and the ability to soar through the air, this interpretation aligns well with her design and skillset.
 * Her name could be also based on Persian word, Parsa meaning pious or devout.
 * Pharsa's character might be inspired by the Irish goddess of Vengeance, [[wikipedia:The Morrígan|Morrìgàn]], who also often takes the shape of a Crow and is portrayed wearing a feathered cape.
 * As princess of the Crow Clan of Askati Forest, she was born with mutated blood.

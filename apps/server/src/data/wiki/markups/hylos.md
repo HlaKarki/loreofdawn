@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = Hylos
 | chinese_name   = 洛驰 (luòchí) 
 | alias          = Grand Warden
@@ -184,8 +184,8 @@ Hero496-icon.png|Bloodhoof Marauder
 == Trivia ==
 *He is a [[Wp:Centaur|centaur]], which is based on the creature of Greek mythology. {{hi|Minotaur}} is the other one.
 *He is inspired by [[w:c:magicrush:Malachi|Malachi]] of Moonton's [[w:c:magicrush|Magic Rush]].
-*Hylos is the only hero who can use HP to consume a skill.
-*Alongside {{hi|Masha}} and {{hi|X.Borg}}, Hylos is the only hero who can reduce his own HP through a skill.
+*Hylos is the only data who can use HP to consume a skill.
+*Alongside {{hi|Masha}} and {{hi|X.Borg}}, Hylos is the only data who can reduce his own HP through a skill.
 **Belerick's {{ai|Nature's Strike}} used to consume a portion of his HP, but this was removed when he got revamped for the second time.
 * Hylos' {{ai|Ring of Punishment}} is the first among the only 'toggle' skills in the game.
 

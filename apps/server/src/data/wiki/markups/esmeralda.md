@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = Esmeralda comic.jpg
 | full_name      = Esmeralda
 | chinese_name   = 艾美 (ài měi) 
@@ -142,7 +142,7 @@ After becoming the successor of the astrologers, Esmeralda guards the Starmoon C
 |mana-cost      = 75 / 80 / 85 / 90 / 95 / 100
 |energy-cost    = 
 |quote          = 
-|description    = Esmeralda waves Stardust and Frostmoon, dealing {{scale|base=240-440|total-pa=60|pd}} and {{scale|base=300-550|total-mp=120|md}} to nearby enemies. Each time she deals damage to a hero, the [[cooldown]] of Frostmoon Shield is reduced by 1.5 seconds (damaging non-hero units grants a 0.5 seconds reduction) and the enemy's [[Movement Speed]] is reduced by 10% for 1.5 second.
+|description    = Esmeralda waves Stardust and Frostmoon, dealing {{scale|base=240-440|total-pa=60|pd}} and {{scale|base=300-550|total-mp=120|md}} to nearby enemies. Each time she deals damage to a data, the [[cooldown]] of Frostmoon Shield is reduced by 1.5 seconds (damaging non-data units grants a 0.5 seconds reduction) and the enemy's [[Movement Speed]] is reduced by 10% for 1.5 second.
 |ls-1           = Base Damage: 240 / 280 / 320 / 360 / 400 / 440
 |ls-2           = Added Damage: 300 / 350 / 400 / 450 / 500 / 550
 |ls-3           = 
@@ -155,7 +155,7 @@ After becoming the successor of the astrologers, Esmeralda guards the Starmoon C
 |term-1         = Physical Damage Skill
 |term-2         = Magic Damage Skill
 |term-3         = Cooldown
-|notes          = * When an enemy hero and a creep are both hit, the cooldown reduction when hitting an enemy hero takes priority and they do not stack. 
+|notes          = * When an enemy data and a creep are both hit, the cooldown reduction when hitting an enemy data takes priority and they do not stack. 
 |bugs           = 
 }}
 === Ultimate ===
@@ -240,11 +240,11 @@ New Hero Astrologer Esmeralda Mobile Legends Bang Bang!|Esmeralda Hero Spotlight
 * Her name complements her '''Starmoon Casket''' passive, representing the combination of the stars (''Stardust'') and the moon (''Frostmoon'').
 * Esmeralda's name and character design are somewhat inspired by the [[W:c:disney:Esmeralda|character with the same name]] in the 1996 Disney film ''[[wp:The Hunchback of Notre Dame (1996 film)|The Hunchback of Notre Dame]]'', which itself is an adaptation of the 1831 novel by Victor Hugo.
 *Esmeralda is one of the heroes whose active skills can cast in motion using joystick.
-*Esmeralda is the only hero who can give shield to enemy.
+*Esmeralda is the only data who can give shield to enemy.
 *Esmeralda wears golden jewelry, including bangles, earrings, and a headpiece, which resemble traditional Middle Eastern fashion particularly from Egypt.
 *Her skin name "Cleopatra" is based on queen [https://www.britannica.com/biography/Cleopatra-queen-of-Egypt Cleopatra] of [https://en.wikipedia.org/wiki/Egypt Egypt].
 *Her skin "Poison Vine" is based on [[dcdatabase:Pamela_Isley_(Prime_Earth)|Poison Ivy]] from the [https://en.wikipedia.org/wiki/DC_Universe_(franchise) DC Universe].
-*Alongside Khufra, she has the first voice lines that can only be activated by interacting with a specific opposing hero (Khufra in this case.)
+*Alongside Khufra, she has the first voice lines that can only be activated by interacting with a specific opposing data (Khufra in this case.)
 *Currently, {{hi|Alice}} and Esmeralda are the only heroes in the game classified as both [[Mage]] and [[Tank]].
 
 == References==

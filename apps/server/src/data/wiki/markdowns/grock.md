@@ -27,10 +27,10 @@ The stone man who signed a contract with the Ancient Ones has a kind-hearted nat
 
 ## Bastion of Stone
 
-Grock gains a Shield equal to 10% of his Max HP and empowers the next Basic Attack to deal a percentage of the target's Max HP (scaling with level; capped at a fixed value against non-hero units). This effect has an 18 to 12 seconds cooldown (decreases with level), which reduces by 200% when near terrain. Grock gains Control Immunity while casting skills and gains an extra percentage of Physical Defense while the Shield is active.
+Grock gains a Shield equal to 10% of his Max HP and empowers the next Basic Attack to deal a percentage of the target's Max HP (scaling with level; capped at a fixed value against non-data units). This effect has an 18 to 12 seconds cooldown (decreases with level), which reduces by 200% when near terrain. Grock gains Control Immunity while casting skills and gains an extra percentage of Physical Defense while the Shield is active.
 
 - Shield value: 10% of Max HP
-- Empowered Basic Attack: deals a percentage of the target's Max HP (scaling with level; capped against non-hero units)
+- Empowered Basic Attack: deals a percentage of the target's Max HP (scaling with level; capped against non-data units)
 - Cooldown: 18 to 12 seconds (decreases with level); cooldown is reduced significantly when near terrain
 - Additional effects: Control Immunity while casting skills; extra Physical Defense while the Shield is active
 
@@ -38,7 +38,7 @@ Damage and numerical scaling are based on level and Grock's stats.
 
 ## Mighty Swing
 
-Grock strikes forward with massive force, dealing physical damage to enemies in a cone. Enemies that collide with an obstacle are launched airborne and take additional damage equal to a percentage of their Max HP (scaling with level; capped at a fixed value against non-hero units). If there are no obstacles behind, enemies are only knocked back slightly.
+Grock strikes forward with massive force, dealing physical damage to enemies in a cone. Enemies that collide with an obstacle are launched airborne and take additional damage equal to a percentage of their Max HP (scaling with level; capped at a fixed value against non-data units). If there are no obstacles behind, enemies are only knocked back slightly.
 
 - Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds
 - Base Damage: 240 / 280 / 320 / 360 / 400 / 440
@@ -77,4 +77,4 @@ Damage values scale with skill level and Grock's stats.
 # Trivia
 
 - Grock’s design is heavily influenced by golems, which are stone or earth-based protectors in mythology and fantasy.
-- Grock is the first hero to summon a physical wall in the game.
+- Grock is the first data to summon a physical wall in the game.

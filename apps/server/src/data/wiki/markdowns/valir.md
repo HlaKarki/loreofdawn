@@ -31,7 +31,7 @@ Valir's skills apply a stack of Ablaze to enemies hit, dealing them Magic Damage
 
 ## Burst Fireball
 
-Valir launches a fireball that explodes upon hitting the first target, dealing and slowing them by 30% for 1s. The lingering flame on the ground will explode after 1s, dealing  Valir recharges 1 fireball every 9s and can hold up to 2 fireball charges. Hitting an enemy hero or Legend Creep with this skill wil immediately restore a fireball charge, while hitting a Minion will restore 50% of the recharge time.
+Valir launches a fireball that explodes upon hitting the first target, dealing and slowing them by 30% for 1s. The lingering flame on the ground will explode after 1s, dealing  Valir recharges 1 fireball every 9s and can hold up to 2 fireball charges. Hitting an enemy data or Legend Creep with this skill wil immediately restore a fireball charge, while hitting a Minion will restore 50% of the recharge time.
 
 Mana cost: 50 / 58 / 66 / 74/ 82 / 90
 

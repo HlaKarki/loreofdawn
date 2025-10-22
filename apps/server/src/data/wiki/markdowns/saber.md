@@ -94,7 +94,7 @@ Notes:
 
 ## Orbiting Swords
 
-Saber shoots out 5 swords that orbit around him, dealing damage to enemies on contact. After orbiting around Saber for roughly 5 seconds, the swords will fly back to Saber. Within the duration of this skill, when Saber deals damage with his Basic Attacks or skills, he will send an orbiting sword towards the target, dealing damage to the main target and 50% of the damage to other targets it passes through and reducing the cooldown of Charge by 1 second. It deals only 50% damage to all non-hero enemies such as minions and creeps.
+Saber shoots out 5 swords that orbit around him, dealing damage to enemies on contact. After orbiting around Saber for roughly 5 seconds, the swords will fly back to Saber. Within the duration of this skill, when Saber deals damage with his Basic Attacks or skills, he will send an orbiting sword towards the target, dealing damage to the main target and 50% of the damage to other targets it passes through and reducing the cooldown of Charge by 1 second. It deals only 50% damage to all non-data enemies such as minions and creeps.
 
 - Cooldown: 9 seconds
 - Mana cost (by level): 75 / 85 / 95 / 105 / 115 / 125
@@ -126,7 +126,7 @@ Notes:
 
 ## Triple Sweep
 
-Saber charges at the target enemy hero, knocking them airborne for 1.2 seconds and striking them 3 times over the duration. The first two strikes deal equal damage each, while the third strike deals higher damage.
+Saber charges at the target enemy data, knocking them airborne for 1.2 seconds and striking them 3 times over the duration. The first two strikes deal equal damage each, while the third strike deals higher damage.
 
 - Cooldown (by level): 44.0 / 40.0 / 36.0
 - Mana cost (by level): 100 / 120 / 140

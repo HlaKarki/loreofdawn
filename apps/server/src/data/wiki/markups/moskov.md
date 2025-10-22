@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero|durability=|offense=|skill_effects=|difficulty=}}
+{{Tabs data}}
+{{Infobox data|durability=|offense=|skill_effects=|difficulty=}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | alias          = Spear of Quiescence
@@ -60,7 +60,7 @@ When you were still among the living, your name was Moskov, though it hardly mat
 
 Yes, you're dead. Countless spears pierced your innards as your enemies pinned you to the sand. Your blood flowed freely, seeping into the earth and staining the sands a dark crimson. But there was defiance in your bones. Even in death, you refused to crumble; unwilling to admit failure.
 
-Yes, you failed. That battle was the end of your tribe. Your rival, Khaleed, brought a force three times your own, if not more. Yet you did not flee, for the blood feud between your two tribes had reached a point of no return. Quite the tragic hero you are.
+Yes, you failed. That battle was the end of your tribe. Your rival, Khaleed, brought a force three times your own, if not more. Yet you did not flee, for the blood feud between your two tribes had reached a point of no return. Quite the tragic data you are.
 
 [[File: Moskov lore 2.jpg|512px|center]]
 
@@ -137,7 +137,7 @@ Go! Embrace the darkness and silence this desert for eternity.
 |quote          = 
 |description    = Moskov teleports to the target location, increasing his Attack Speed to 1.15&ndash;1.5 times for 3 seconds. Meanwhile, his [[Basic Attack]] deals 10% more damage to enemies behind the primary target.
 |properties     = *'''Attack Speed Bonus:''' 1.15 / 1.22 / 1.29 / 1.36 / 1.43 / 1.5
-|calc           =<math>\mathrm{total\ ATK\ SPD} = (base\ ATK\ SPD + extra\ ATK\ SPD) \times \bigl[1.11 + (4 \times hero\ lv.) \bigr]</math> 
+|calc           =<math>\mathrm{total\ ATK\ SPD} = (base\ ATK\ SPD + extra\ ATK\ SPD) \times \bigl[1.11 + (4 \times data\ lv.) \bigr]</math> 
 |term-1         = Blink
 |term-2         = Attack Speed
 |term-3         = 
@@ -153,7 +153,7 @@ Go! Embrace the darkness and silence this desert for eternity.
 |mana-cost      = 80 / 90 / 100 / 110 / 120 / 130
 |energy-cost    = 
 |quote          = 
-|description    = Moskov launches a powerful strike at the target enemy hero or Creep, dealing {{scale|base=300-450|total-pa=60|pd}}, [[knock back|knocking them back]], and revealing their position for 5 seconds. <br> If the target collides with an enemy hero when knocked back, they'll both take {{scale|base=200-275|extra-pa=30|pd}} and be [[stunned]] for 1.5 seconds. If the enemy is knocked into a wall, they will also be stunned for the same duration.
+|description    = Moskov launches a powerful strike at the target enemy data or Creep, dealing {{scale|base=300-450|total-pa=60|pd}}, [[knock back|knocking them back]], and revealing their position for 5 seconds. <br> If the target collides with an enemy data when knocked back, they'll both take {{scale|base=200-275|extra-pa=30|pd}} and be [[stunned]] for 1.5 seconds. If the enemy is knocked into a wall, they will also be stunned for the same duration.
 |properties     = *'''Cast Range:''' 4.5
 *'''Base Damage:''' 300 / 330 / 360 / 390/ 420 / 450
 *'''Extra Damage:''' 200 / 215 / 230 / 245 / 260 / 275
@@ -178,7 +178,7 @@ Go! Embrace the darkness and silence this desert for eternity.
 |mana-cost      = 130 / 150 / 170
 |energy-cost    = 
 |quote          = 
-|description    = After a short delay, Moskov throws the {{B|Spear of Destruction|e}} in the target direction, dealing {{scale|base=340-500|extra-pa=100|pd}} to enemies in its path and to the first enemy hero hit. Upon hitting an enemy hero, the spear pierces them dealing {{scale|base=10%|pd}} to enemies behind them. The target and enemies hit by the piercing damage are [[slowed]] by 50% for 1 second (the slow duration scales with the spear's travel time, up to 3 seconds).<br>When the Spear of Destruction hits the first enemy hero, it creates a shadow behind them and refreshes the cooldown of {{ai|Abyss Walker}}<br>{{B|Use Again:|e}} Moskov casts {{ai|Abyss Walker}} from the shadow's location (shares he same cooldown as the normal skill.
+|description    = After a short delay, Moskov throws the {{B|Spear of Destruction|e}} in the target direction, dealing {{scale|base=340-500|extra-pa=100|pd}} to enemies in its path and to the first enemy data hit. Upon hitting an enemy data, the spear pierces them dealing {{scale|base=10%|pd}} to enemies behind them. The target and enemies hit by the piercing damage are [[slowed]] by 50% for 1 second (the slow duration scales with the spear's travel time, up to 3 seconds).<br>When the Spear of Destruction hits the first enemy data, it creates a shadow behind them and refreshes the cooldown of {{ai|Abyss Walker}}<br>{{B|Use Again:|e}} Moskov casts {{ai|Abyss Walker}} from the shadow's location (shares he same cooldown as the normal skill.
 |properties     = *'''Base Damage:''' 340 / 420 / 500
 |calc           = 
 |term-1         = Physical Damage Skill

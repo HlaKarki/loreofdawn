@@ -137,7 +137,7 @@ Notes:
 
 ## Ninjutsu: Quad Shadow
 
-Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing physical damage based on level and stats and slowing them by 40% for 2 seconds. Hayabusa will immediately stop if he hits an enemy hero during the dash. Hayabusa teleports to a phantom's location and reduces the cooldown of this skill by 1 second. If the phantom is attached to an enemy hero, he also deals extra physical damage based on level and stats to the enemy.
+Hayabusa dashes in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy data hit, dealing physical damage based on level and stats and slowing them by 40% for 2 seconds. Hayabusa will immediately stop if he hits an enemy data during the dash. Hayabusa teleports to a phantom's location and reduces the cooldown of this skill by 1 second. If the phantom is attached to an enemy data, he also deals extra physical damage based on level and stats to the enemy.
 
 - Base Damage: 130 / 140 / 150 / 160 / 170 / 180
 - Extra Damage (when teleporting to an attached phantom): 130 / 140 / 150 / 160 / 170 / 180
@@ -161,7 +161,7 @@ Notes:
 # Trivia
 
 - "Hayabusa" (隼) literally means "peregrine falcon", a bird known for its incredible speed and deadly precision.
-- In his first hero model, Hayabusa's headgear is inspired by Kabuto helmets, worn by samurai and elite ninja warriors.
+- In his first data model, Hayabusa's headgear is inspired by Kabuto helmets, worn by samurai and elite ninja warriors.
 - His "Shadow Kill" ultimate resembles the "Shunshin" (Body Flicker) technique, a legendary ninja ability that allows a warrior to move so fast they appear to attack from multiple directions at once.
 - His Ultimate, "Ougi: Shadow Kill," also resembles classic ninja assassination techniques. In Japanese ninja stories, a "final move" (奥義 / Ougi) is a secret assassination technique passed down through generations.
 - Hayabusa is likely inspired by Ryu Hayabusa from the Ninja Gaiden and Dead or Alive series.

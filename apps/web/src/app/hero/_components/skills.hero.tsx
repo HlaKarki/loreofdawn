@@ -1,11 +1,11 @@
 import Image from "next/image";
 import { tidyLabel } from "@/lib/utils";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import type { ConsolidatedHero } from "@repo/database";
+import type { MlHeroProfile } from "@repo/database";
 import { resolveImageSrc } from "@/app/hero/_components/header.hero";
 
-export const HeroSkills = ({ hero }: { hero: ConsolidatedHero }) => {
-	if (hero.skills?.length < 1) {
+export const HeroSkills = ({ data }: { data: MlHeroProfile }) => {
+	if (data.skills?.length < 1) {
 		return <></>;
 	}
 
@@ -16,7 +16,7 @@ export const HeroSkills = ({ hero }: { hero: ConsolidatedHero }) => {
 				<CardDescription>Hero abilities and their effects</CardDescription>
 			</CardHeader>
 			<CardContent className="space-y-3 sm:space-y-4">
-				{hero.skills.map((skill, idx) => (
+				{data.skills.map((skill, idx) => (
 					<div key={idx} className="flex gap-3 rounded-lg border bg-card/50 p-3 sm:gap-4 sm:p-4">
 						<div className="relative h-12 w-12 shrink-0 overflow-hidden rounded-lg border bg-gradient-to-br from-amber-500/20 to-purple-500/20 sm:h-14 sm:w-14">
 							<Image

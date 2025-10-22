@@ -133,7 +133,7 @@ After muttering to himself for a while, Sun settled back on the same rock. This 
 
 - Sun hurls his Golden Staff in the target direction, dealing damage based on level and stats to enemies in its path.
 
-- Upon hitting an enemy hero or Creep, or reaching the maximum range, the Golden Staff morphs into a Doppelganger that lasts 5 seconds and inherits 40% to 55% of Sun's attributes and a portion of his Attack Effects.
+- Upon hitting an enemy data or Creep, or reaching the maximum range, the Golden Staff morphs into a Doppelganger that lasts 5 seconds and inherits 40% to 55% of Sun's attributes and a portion of his Attack Effects.
 
 - Endless Variety and the associated ability are learned and upgraded together and share the same cooldown.
 
@@ -149,7 +149,7 @@ After muttering to himself for a while, Sun settled back on the same rock. This 
 
 - He conjures a Doppelganger at his location that lasts 5 seconds and inherits 40% to 55% of his attributes and a portion of Attack Effects, conceals himself, and moves with the Golden Staff.
 
-- Sun reappears and retrieves the Golden Staff when it hits an enemy hero or reaches the maximum range.
+- Sun reappears and retrieves the Golden Staff when it hits an enemy data or reaches the maximum range.
 
 - Attack Effects scaling (percentage of attack effects inherited): 40%/43%/46%/49%/52%/55%.
 

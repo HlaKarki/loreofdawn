@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 | name            = 
 | chinese_name    = 巴特兹 (bātèzī)
 | image           = Barats_trailer.png
@@ -208,7 +208,7 @@ landing, dealing {{scale|base=100-175|total-pa=75|pd}} to enemies in a rectangul
 |skill-effect-1  = Mobility
 |skill-effect-2  = CC
 |quote           = 
-|description     = After a short delay, Detona charges in the target direction, dealing {{scale|base=120-200|total-pa=70|total-hp=1.2|pd}} to the first enemy hit, devouring and [[suppressing]] them for 1.2 seconds before spitting them out. If the target hits an enemy hero or a wall after being spit out, the target will cause an explosion, they and nearby enemies will take an additional {{scale|base=180-300|total-pa=105|total-hp=1.8|pd}} and be [[stunned]] for 1 second.<br>For the duration, Barats becomes [[Control immunity|immune to control effects]]. If the channeling is canceled, 60% of the skill [[cooldown]] will be refunded.<br>{{B|Passive|e}}: Detona gains 4&ndash;10 stacks of {{B|Big Guy|stack}} upon respawn.
+|description     = After a short delay, Detona charges in the target direction, dealing {{scale|base=120-200|total-pa=70|total-hp=1.2|pd}} to the first enemy hit, devouring and [[suppressing]] them for 1.2 seconds before spitting them out. If the target hits an enemy data or a wall after being spit out, the target will cause an explosion, they and nearby enemies will take an additional {{scale|base=180-300|total-pa=105|total-hp=1.8|pd}} and be [[stunned]] for 1 second.<br>For the duration, Barats becomes [[Control immunity|immune to control effects]]. If the channeling is canceled, 60% of the skill [[cooldown]] will be refunded.<br>{{B|Passive|e}}: Detona gains 4&ndash;10 stacks of {{B|Big Guy|stack}} upon respawn.
 |term-1          = Suppress
 |term-2          = Stun
 |term-3          = Physical Damage Skill
@@ -270,9 +270,9 @@ A Trickster + A Lizard = ??? - New Hero - Barats Trailer - Mobile Legends- Bang 
 </gallery>
 
 == Trivia ==
-*The name "Barats" doesn’t have an official meaning in the game, but it could be a play on the word "barricade," reflecting his role as a tank that stands strong against enemies. Alternatively, it could be inspired by the word "barrage," as Barats is a hero who often takes a lot of hits and delivers consistent damage in return.
+*The name "Barats" doesn’t have an official meaning in the game, but it could be a play on the word "barricade," reflecting his role as a tank that stands strong against enemies. Alternatively, it could be inspired by the word "barrage," as Barats is a data who often takes a lot of hits and delivers consistent damage in return.
 *Barats is also a dwarf.
-*Barats is the third and recent hero to have a [[suppress]] crowd control skill, before {{hi|Franco}} and {{hi|Kaja}}.
+*Barats is the third and recent data to have a [[suppress]] crowd control skill, before {{hi|Franco}} and {{hi|Kaja}}.
 *Barats speaks in a [[Wikipedia:New York accent|New York accent]].
 *His skin Baratstein is a variant of Frankenstein.
 

@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |image          =
 |full_name      = 
 |alias          = 
@@ -147,7 +147,7 @@ After muttering to himself for a while, Sun settled back on the same rock. This 
 |skill-effect-1  = AOE
 |skill-effect-2  = 
 |quote           = 
-|description     = Sun hurls his [[Golden Staff]] in the target direction, dealing {{scale|base=200-400|total-pa=40|pd}} to enemies in its path. Upon hitting an enemy hero or Creep, or reaching the maximum range, the Golden Staff morphs into a Doppelganger that lasts 5 seconds and inherits 40%&ndash;55% of Sun's [[attributes]] (and a portion of his [[Attack Effects]]).<br>Endless Variety and {{Ai|Swift Exchange}} are learned and upgraded together and share the same cooldown.
+|description     = Sun hurls his [[Golden Staff]] in the target direction, dealing {{scale|base=200-400|total-pa=40|pd}} to enemies in its path. Upon hitting an enemy data or Creep, or reaching the maximum range, the Golden Staff morphs into a Doppelganger that lasts 5 seconds and inherits 40%&ndash;55% of Sun's [[attributes]] (and a portion of his [[Attack Effects]]).<br>Endless Variety and {{Ai|Swift Exchange}} are learned and upgraded together and share the same cooldown.
 |term-1          = Physical Damage Skill
 |term-2          = <!--Movement Speed-->
 |term-3          = 
@@ -172,7 +172,7 @@ After muttering to himself for a while, Sun settled back on the same rock. This 
 |skill-effect-1  = Mobility
 |skill-effect-2  = AOE
 |quote           = 
-|description     = Sun hurls his [[Golden Staff]] in the target direction, dealing {{scale|base=200-400|total-pa=40|pd}} to enemies in its path.<br>He conjures a Doppelganger at his location that lasts 5 seconds and inherits 40%&ndash;55% of his [[attributes]] (and a portion of [[Attack Effects]]), [[conceals]] himself, and moves with the Golden Staff.<Br>Sun reappears and retrieves the Golden Staff when it hits an enemy hero or reaches the maximum range.
+|description     = Sun hurls his [[Golden Staff]] in the target direction, dealing {{scale|base=200-400|total-pa=40|pd}} to enemies in its path.<br>He conjures a Doppelganger at his location that lasts 5 seconds and inherits 40%&ndash;55% of his [[attributes]] (and a portion of [[Attack Effects]]), [[conceals]] himself, and moves with the Golden Staff.<Br>Sun reappears and retrieves the Golden Staff when it hits an enemy data or reaches the maximum range.
 |term-1          = Physical Damage Skill
 |term-2          = <!--Movement Speed-->
 |term-3          = 

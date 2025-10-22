@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image           = Claude trailer.png
 | full_name      = 
 | chinese_name   = 克劳德 (kèláodé)
@@ -130,7 +130,7 @@ With this 'gift' from Dr. Rooney, Claude and Dexter made tracks for Los Pecados.
 |mana-cost          = 65 / 70 / 75 / 80 / 85 / 90
 |energy-cost        = 
 |quote              = 
-|description        = Claude attacks enemies in a fan-shaped area ahead, dealing {{Scale|base=160-285|total-pa=40|pd}} and reducing their {{AVC1|Movement Speed}} by 20% and {{AVC1|Attack Speed}} by 10%.<br>For each target hit, Claude gains 3% extra {{AVC1|Movement|Movement Speed}} and {{AVC1|Attack Speed}} (doubled if the target is an enemy hero, up to 5 stacks) for 6 seconds.
+|description        = Claude attacks enemies in a fan-shaped area ahead, dealing {{Scale|base=160-285|total-pa=40|pd}} and reducing their {{AVC1|Movement Speed}} by 20% and {{AVC1|Attack Speed}} by 10%.<br>For each target hit, Claude gains 3% extra {{AVC1|Movement|Movement Speed}} and {{AVC1|Attack Speed}} (doubled if the target is an enemy data, up to 5 stacks) for 6 seconds.
 |ls-1               = Base Damage: 160 / 185 / 210 / 235 / 260 / 285
 |ls-2               = Movement Speed Reduction: 20% / 20% / 25% / 25% / 30% / 30%
 |ls-3               = Attack Speed Reduction: 10% / 12% / 14% / 16% / 18% / 20%

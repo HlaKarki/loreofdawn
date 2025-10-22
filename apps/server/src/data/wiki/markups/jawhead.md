@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | name            = 
 | chinese_name    = 大铁罐 (dàtiěguàn, "Great Metal Pot"<ref>大 (dà) meaning "big, large, huge, great, heavy, main, major, well-known, successful"<br>铁罐 (tiěguàn) meaning "metal pot"</ref>)
 | image           = Guardian p8.jpg
@@ -157,7 +157,7 @@ Base Damage: 300 / 340 / 380 / 420 / 460 / 500
 |cooldown        = 35.0 / 30.0 / 25.0
 |mana-cost       = 120 / 150 / 180
 |quote           = 
-|description     = Jawhead [[blink|charges]] into the target enemy hero, dealing {{scale|base=350-600|total-pa=150|pd}} and briefly [[stunning]] them.<sup>[''duration unknown'']</sup> Enemies around the target are [[knocked back]] and dealt the same amount of the damage. Jawhead is [[Control and slowing immunity|immune to control effects]] during the charge.
+|description     = Jawhead [[blink|charges]] into the target enemy data, dealing {{scale|base=350-600|total-pa=150|pd}} and briefly [[stunning]] them.<sup>[''duration unknown'']</sup> Enemies around the target are [[knocked back]] and dealt the same amount of the damage. Jawhead is [[Control and slowing immunity|immune to control effects]] during the charge.
 |term-1          = Stun
 |term-2          = Blink
 |term-3          = Displacement
@@ -210,7 +210,7 @@ Hero105410-color01-icon.png|Proto Sentinel
 {{Emote|Jawhead}}
 
 == Trivia ==
-*Jawhead is the only hero who carries a companion (Ailee) that does not help or assist in fight.
+*Jawhead is the only data who carries a companion (Ailee) that does not help or assist in fight.
 *Revisions of the name of Ailee was made from Alice and Ellie.
 *Almost all of Jawhead's skins has two eyes/lens which is different from default's one.
 *'''Victory Loader''' is the first skin that use Ailee's face in the avatar icon instead of using Jawhead's face.

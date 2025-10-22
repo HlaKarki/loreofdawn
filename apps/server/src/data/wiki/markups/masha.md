@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image=Masha trailer.png
 | full_name      = 
 | alias          = Wild-oats Fist
@@ -128,7 +128,7 @@ Masha successfully saved the little bears, in hopes that the bears would rise ag
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Masha spends 34% HP to lunge at an enemy hero ([[control immunity|immune to control effects during the lunge]]), dealing {{scale|base=200-500|total-pa=200|pd}}, [[slow|slowing]] them by 25% for 2 seconds, and [[knock back|knocking back]] nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.
+|description    = Masha spends 34% HP to lunge at an enemy data ([[control immunity|immune to control effects during the lunge]]), dealing {{scale|base=200-500|total-pa=200|pd}}, [[slow|slowing]] them by 25% for 2 seconds, and [[knock back|knocking back]] nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.
 |properties=*'''Base Damage:''' 200 / 350 / 500
 |calc           = 
 |term-1         = Displacement
@@ -195,9 +195,9 @@ Masha New Skin Dragon Armor Cinematic Trailer Dragon Tamer Mobile Legends Bang B
 *Masha's name and her relationship to bears are likely inspired from the Russian folktale ''Masha and the Bear''.
 **Additionally, she was released in time for 10th anniversary of the said show.
 *Her tribe is the only one that is based on a real tribe; according to the lore, she is a member of the Sami or Sarmi tribe, which may be the Land of Dawn equivalent of the [[Wp:Sámi_peoples|Sámi peoples]] in Northern Europe.
-*She is the only hero to have three health bars.
-*She is the only hero without defense growth as of [[Patch Notes 1.8.30|version 1.8.30]].
-*She was first introduced as a Fighter/Tank hero in [[Patch Notes 1.4.14|Patch 1.4.14]], but was later changed to a pure fighter in [[Patch Notes 1.4.94|Patch 1.4.94]]. However, it was restored in [[Patch Notes 1.6.66|Patch 1.6.66]].
+*She is the only data to have three health bars.
+*She is the only data without defense growth as of [[Patch Notes 1.8.30|version 1.8.30]].
+*She was first introduced as a Fighter/Tank data in [[Patch Notes 1.4.14|Patch 1.4.14]], but was later changed to a pure fighter in [[Patch Notes 1.4.94|Patch 1.4.94]]. However, it was restored in [[Patch Notes 1.6.66|Patch 1.6.66]].
 
 == References ==
 {{reflist}}

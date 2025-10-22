@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Lore==
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 Lolita comic.jpg|2023–present design
 Lolita comic (2016–2023).jpg|2016–2023 design

@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image = Bruno comic.jpg
 |full_name      = 
 |chinese_name   = 前锋 (qiánfēng "Vanguard"<ref>前锋 (qiánfēng) meaning "Vanguard, Forward"</ref>)
@@ -168,7 +168,7 @@ That is where the story ends.
 |skill-effect-2 = CC
 |cooldown = 38.0 / 33.0 / 28.0
 |mana-cost = 140 / 160 / 180
-|description = Bruno kicks his Energy Ball at the target enemy hero, {{scale|base=250-450|total-pa=83|pd}} and [[knocked back|knocking them back]]. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing {{scale|base=150-270|total-pa=50|pd}}. Each hit also reduces the enemy's [[Physical Defense]] by 4%&ndash;8% for 8 seconds (up to 3 stacks).
+|description = Bruno kicks his Energy Ball at the target enemy data, {{scale|base=250-450|total-pa=83|pd}} and [[knocked back|knocking them back]]. The Energy Ball then bounces between nearby enemies up to 10 times, each time dealing {{scale|base=150-270|total-pa=50|pd}}. Each hit also reduces the enemy's [[Physical Defense]] by 4%&ndash;8% for 8 seconds (up to 3 stacks).
 |properties=*'''Base Damage:''' 250 / 350 / 450
 *'''[[Defense reduction|Physical Defense Reduced]]:''' 4% / 6% / 8%
 *'''Extra Damage:''' 150 / 210 / 270
@@ -217,8 +217,8 @@ Hero Revamp - September Project NEXT Express -1 - Mobile Legends- Bang Bang
 
 ==Trivia==
 *The name '''Bruno''' has Germanic origins and comes from the Old High German word "brun", which means "brown". It was traditionally used to describe someone with brown hair, brown eyes, or a strong, protective nature. The name Bruno is also common among famous football (soccer) players, which ties into his football-inspired skills.
-*The only sports-themed hero in the game currently, while other heroes use magic or weapons, Bruno fights with pure skill and a football. His skill volley shot is a real life skill. His skill flying tackle is also real.
-*He's the first and only hero to have abilities based on a sport (football). He's also the only hero who never uses his hands in attacking.
+*The only sports-themed data in the game currently, while other heroes use magic or weapons, Bruno fights with pure skill and a football. His skill volley shot is a real life skill. His skill flying tackle is also real.
+*He's the first and only data to have abilities based on a sport (football). He's also the only data who never uses his hands in attacking.
 *His ultimate skill name [https://worldiefc.com/ Worldie] is also based on real life football club.
 *He is one of the heroes who doesn't have a [[basic skin]].
 *Before its redesign, his "Vanguard Elite" skin featured the colors of [[wikipedia:Brazil_national_football_team|Brazil national Football team]], it heavily resembled Brazilian football player [[wikipedia:Neymar|Neymar]].

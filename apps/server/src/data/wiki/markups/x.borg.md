@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Age (年龄 "niánlíng" meaning "age"), Official Chinese Name}}
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 X.Borg comic.jpg|Present
 X.Borg human.jpg|Pre-High tower accident
@@ -179,7 +179,7 @@ XBorg Lethal Nexus Map Background Story.png
 |term-2 = True Damage 
 |term-3 = Blink
 |quote = My hometown was once a beautiful place.
-|description = X.Borg [[Blink|charges]] forward in the target direction while rotating and spraying fire, dealing {{scale|base=90-110|extra-pa=130|total-mp=90|pd}} 12 times and [[slowing]] enemies by 25%. He stops upon running into an enemy hero and will [[slow]] them by an additional 40%. After 3 seconds from the start of the skill, X.Borg's {{ai|Firaga Armor}} will detonate, dealing [{{Scale|base=300-700|total-hp=enemy's 15|td}} to nearby enemies]. If the Armor is destroyed before it can self-detonate, it will only deal 50% of the damage. When his Armor detonates, X.Borg will [[dash]] a short distance in the [[Joystick]]'s direction and enter {{B|Armorless State|e}} while removing all [[debuffs]] from himself.<br>This skill cannot be used in the Armorless State.<br>{{AVC1|Use Again:|e}} X.Borg stops spraying fire and immediately detonates his Firaga Armor.
+|description = X.Borg [[Blink|charges]] forward in the target direction while rotating and spraying fire, dealing {{scale|base=90-110|extra-pa=130|total-mp=90|pd}} 12 times and [[slowing]] enemies by 25%. He stops upon running into an enemy data and will [[slow]] them by an additional 40%. After 3 seconds from the start of the skill, X.Borg's {{ai|Firaga Armor}} will detonate, dealing [{{Scale|base=300-700|total-hp=enemy's 15|td}} to nearby enemies]. If the Armor is destroyed before it can self-detonate, it will only deal 50% of the damage. When his Armor detonates, X.Borg will [[dash]] a short distance in the [[Joystick]]'s direction and enter {{B|Armorless State|e}} while removing all [[debuffs]] from himself.<br>This skill cannot be used in the Armorless State.<br>{{AVC1|Use Again:|e}} X.Borg stops spraying fire and immediately detonates his Firaga Armor.
 |ls-1 = Base Damage: 200 / 225 / 250
 |ls-2 = True Damage: 300 / 500 / 700
 |notes = *X.Borg's movement speed during {{ai|Last Insanity}} gradually decays.<sup>[''amount needed'']</sup>
@@ -225,11 +225,11 @@ Hero Revamp - September Project NEXT Express -1 - Mobile Legends- Bang Bang
 ==Trivia==
 * The name X.Borg could be likely stands for "Experimental Cyborg", referring to his part-human, part-machine nature. "X" could symbolize "Experimental", as X.Borg was a test subject in Eruditio’s failed technology project. "Borg" comes from "Cyborg", meaning a human with mechanical enhancements.
 * X.Borg appears to be suffering from [[wikipedia:pyromania|pyromania]] based on his personality and abilities in the game.
-* Alongside {{hi|Masha}}, X.Borg is the only hero to have more than one HP bar.
-* X.Borg is the first hero in MLBB to have two separate HP bars: Armor HP (outer bar), works like a shield and absorbs damage. Real HP (inner bar), when his armor breaks, he enters a weaker "Frenzy" state.
+* Alongside {{hi|Masha}}, X.Borg is the only data to have more than one HP bar.
+* X.Borg is the first data in MLBB to have two separate HP bars: Armor HP (outer bar), works like a shield and absorbs damage. Real HP (inner bar), when his armor breaks, he enters a weaker "Frenzy" state.
 * With Armor HP included and excluded, X.Borg has the lowest base HP in the game at level 1, with 998 and 2499 respectively. He also has the lowest base HP at level 15 with 2524 (with HP Armor excluded.)
 * '''Pecados Rioter''' is the first-ever MLBB skin that could be obtained by playing and reaching Grandmaster in Magic Chess!
-* The hero's name is similar to Power Rangers Megaforce called X Borgs.
+* The data's name is similar to Power Rangers Megaforce called X Borgs.
 
 == References ==
 <references />

@@ -33,7 +33,7 @@ undefined
 
 Vexana inflicts Nether Curse on enemies hit. The Curse lasts 5 seconds and causes the affected enemy to explode upon death, dealing damage based on level and Vexana's magic power to nearby enemies.
 
-- Base Damage by hero level: 108 / 136 / 164 / 192 / 220 / 248 / 276 / 304 / 332 / 360 / 388 / 416 / 444 / 472 / 500
+- Base Damage by data level: 108 / 136 / 164 / 192 / 220 / 248 / 276 / 304 / 332 / 360 / 388 / 416 / 444 / 472 / 500
 
 - The damage from Vexana's basic attack applies and refreshes the debuff on nearby enemies.
 
@@ -43,12 +43,12 @@ Vexana inflicts Nether Curse on enemies hit. The Curse lasts 5 seconds and cause
 
 ## Deathly Grasp
 
-Vexana unleashes a projectile in the target direction, dealing magic damage to enemies in its path. The projectile stops upon hitting an enemy hero, terrifying them and knocking them back. It then explodes, dealing magic damage to nearby enemies and terrifying them for 1 second.
+Vexana unleashes a projectile in the target direction, dealing magic damage to enemies in its path. The projectile stops upon hitting an enemy data, terrifying them and knocking them back. It then explodes, dealing magic damage to nearby enemies and terrifying them for 1 second.
 
 - Base Damage by level: 200 / 220 / 240 / 260 / 280 / 300
 - Explosion Damage by level: 200 / 220 / 240 / 260 / 280 / 300
 - Terrify duration on explosion: 1 second
-- Projectile stops on first enemy hero hit and inflicts knockback and terrify
+- Projectile stops on first enemy data hit and inflicts knockback and terrify
 
 Notes:
 - Caster is immune to crowd control while using the skill but this does not remove lingering terrify effects on enemies.
@@ -88,6 +88,6 @@ Notes:
 - Her scepter belonged to Duke Atticus, her fiancé, who was corrupted on their supposed wedding day.
 - The souls of Atticus and brave fighters are present in the undead knight.
 - In Project NEXT, a major update aimed at reworking and balancing older heroes in Mobile Legends: Bang Bang, Vexana was one of the heroes revamped alongside several others.
-- Vexana is the first hero to receive a Zenith-grade skin in Mobile Legends: Bang Bang. Her "Twisted Fairytale" skin, introduced between March 25 and April 30, 2024, marked the debut of this high-rarity skin category.
+- Vexana is the first data to receive a Zenith-grade skin in Mobile Legends: Bang Bang. Her "Twisted Fairytale" skin, introduced between March 25 and April 30, 2024, marked the debut of this high-rarity skin category.
 - Zenith skins appear to be fairytale-themed. Vexana's Zenith skin, "Twisted Fairytale," is heavily inspired by Snow White.
 - Lord Gaius and Emperor Gaius are different: Lord Gaius is the title and surname of Vexana's father, while Emperor Gaius is the title and name of the first ruler of the Empire of Monian, from whom the surname "Gaius" came.

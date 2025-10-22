@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Karina trailer.jpg
 | full_name      = Karina
 | chinese_name   = 卡琳娜 (kǎlínnà)
@@ -91,7 +91,7 @@ All the while, she held on to that belief: that, one day, she would finally be a
 |variations-1   = KOF
 |name           = Shadow Combo
 |skill-effect-1 = Buff
-|description    = Karina's third consecutive attack on the same enemy deals extra {{b|True Damage}} equal to 50 plus {{Scale|base=5|total-mp=2.5}}% of their lost HP (up to 2000 {{b|True Damage}} against creeps).<br>If the target is an enemy hero, the [[cooldowns]] Karina's non-Ultimate skills are reduced by 1.5 seconds.
+|description    = Karina's third consecutive attack on the same enemy deals extra {{b|True Damage}} equal to 50 plus {{Scale|base=5|total-mp=2.5}}% of their lost HP (up to 2000 {{b|True Damage}} against creeps).<br>If the target is an enemy data, the [[cooldowns]] Karina's non-Ultimate skills are reduced by 1.5 seconds.
 |term-1         = Lost HP
 |term-2         = True Damage Skill
 |term-3         = True Damage
@@ -142,7 +142,7 @@ All the while, she held on to that belief: that, one day, she would finally be a
 |skill-effect-2 = Blink
 |cooldown       = 34.0 / 30.0 / 26.0 
 |mana-cost      = 100 / 120 / 140
-|description    = Karina [[dashes]] to the target enemy hero, dealing {{Scale|base=350-750|total-mp=160|md}}, applying a {{b|Shadow Mark|e}} to them, and leaving a {{b|Shadowform|e}} behind them. The Shadow Mark and Shadowform both last 5 seconds. If the enemy dies within the duration, the [[cooldown]] of this skill is reset.<br>{{b|Use Again:|e}} Karina [[dashes]] back to the {{b|Shadowform|e}}'s location, dealing {{Scale|base=150-250|total-mp=50|md}} to enemies along the way.
+|description    = Karina [[dashes]] to the target enemy data, dealing {{Scale|base=350-750|total-mp=160|md}}, applying a {{b|Shadow Mark|e}} to them, and leaving a {{b|Shadowform|e}} behind them. The Shadow Mark and Shadowform both last 5 seconds. If the enemy dies within the duration, the [[cooldown]] of this skill is reset.<br>{{b|Use Again:|e}} Karina [[dashes]] back to the {{b|Shadowform|e}}'s location, dealing {{Scale|base=150-250|total-mp=50|md}} to enemies along the way.
 |properties= *'''Base Damage:''' 350 / 550 / 750
 *'''Path Damage:''' 150 / 200 / 250
 |term-1         = Blink
@@ -185,7 +185,7 @@ Shhh....png|'''Shhh...'''<br>Obtained via Recharge Tasks
 *The name '''Karina''' has multiple origins and meanings across different cultures. In Scandinavian and Latin origins, it is derived from the name '''Katherine''', meaning '''"pure" or "beloved."''' In Slavic languages, Karina translates to '''"dear" or "affectionate,"''' while in Arabic, it is linked to '''"Karim" (كريم),''' meaning '''"generous" or "kind."'''
 *Her first design was more human-like, but she was later changed to look more Dark Elf-inspired.
 *She often says things like "I must not let my emotions show", showing that she tries to suppress her feelings. Some of her unused lines also referenced her guilt over {{hi|Selena}}’s fate.
-*Her previous voice lines were reused from those of Magic Rush's hero, [https://magicrush.wikia.com/wiki/Seeley Seeley]. Some of the quotes are still used after Karina's revamped, although they are voiced by a new person.
+*Her previous voice lines were reused from those of Magic Rush's data, [https://magicrush.wikia.com/wiki/Seeley Seeley]. Some of the quotes are still used after Karina's revamped, although they are voiced by a new person.
 *During initial release Karina's Leona skin was free.
 == References ==
 {{reflist}}

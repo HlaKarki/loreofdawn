@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = Princess Odette of House Alvin
 | chinese_name   = 奥黛塔 (àodàitǎ)
 | image          = Odette comic.jpg
@@ -81,7 +81,7 @@ For the following days, Odette hid Lancelot inside the Swan Castle so that he co
 
 Odette<nowiki />'s meetings with Lancelot became the greatest fun of her days. As she gradually opened up to this new friend of hers, she would also tell him about her little adventures of rebellious delinquencies and even learned from him a few sword fighting techniques for self[-]defense.
 
-As they bounded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the hero Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.
+As they bounded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the data Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.
 
 The innocent Odette didn't understand the reason behind his change, until the sneaky maid suddenly asked her in a whisper, "Who do you think Lancelot is playing these songs to, Your Grace?"
 
@@ -276,7 +276,7 @@ Hero469-color02-icon.png|Wisdom of Devotion
 **Her "Black Swan" skin is also a reference to another character from the same opera.
 **The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suitte), OP. 20
 * She was purchasable with {{BP Cost|Battle Points}} at first. Now, she can only be obtained by new players through quests, be bought in the [[Fragments Shop|Fragment&nbsp;Shop]] using {{HFragment|120}} '''Hero Fragments''', or in the [[Lucky Spin|Lucky&nbsp;Shop]] using {{Lucky Gem|20}} '''Lucky Gems'''. 
-** Odette is the only hero that cannot be purchased using {{BP Cost|Battle Points}} nor {{Diamond Cost|Diamonds}}.
+** Odette is the only data that cannot be purchased using {{BP Cost|Battle Points}} nor {{Diamond Cost|Diamonds}}.
 ** The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suitte), OP.
 ==References==
 {{reflist}}

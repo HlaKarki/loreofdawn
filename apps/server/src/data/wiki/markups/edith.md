@@ -1,10 +1,10 @@
 {{Hero navigation|Main}}
-{{Infobox hero}}
-She was released as a part of the [[M3 World Championship]]-related events. Players had a chance to redeem the hero for free for a limited time.
+{{Infobox data}}
+She was released as a part of the [[M3 World Championship]]-related events. Players had a chance to redeem the data for free for a limited time.
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | alias          = *Ancient Guard
 *Forsaken Warden 
@@ -196,7 +196,7 @@ In between battles, the girl would detach from "Phylax" and gaze at the far dist
 |skill-effect-2     = CC
 |cooldown           = 10.0
 |quote              = 
-|description        = Edith controls Phylax to [[charge]] in a the target direction, dealing {{scale|base=90–140|total-hp=3|pd}} to enemies along the way.<br>If Phylax hits an enemy hero during this process, it will stop immediately and [[airborne|throw them over its shoulder]], dealing {{scale|base=108|total-hp=5|pd}}.
+|description        = Edith controls Phylax to [[charge]] in a the target direction, dealing {{scale|base=90–140|total-hp=3|pd}} to enemies along the way.<br>If Phylax hits an enemy data during this process, it will stop immediately and [[airborne|throw them over its shoulder]], dealing {{scale|base=108|total-hp=5|pd}}.
 |ls-1               = Base Damage: 90 / 100 / 110 / 120 / 130 / 140
 |ls-2               = 
 |ls-3               = 
@@ -219,7 +219,7 @@ In between battles, the girl would detach from "Phylax" and gaze at the far dist
 |mana-cost          =
 |energy-cost        = 
 |quote              = 
-|description        = Edith fires a Lightning Bolt in a designated direction, dealing {{scale|base=150–300|total-mp=50|md}} to the first enemy hero hit and [[immobilizing]] them for 0.8 seconds.
+|description        = Edith fires a Lightning Bolt in a designated direction, dealing {{scale|base=150–300|total-mp=50|md}} to the first enemy data hit and [[immobilizing]] them for 0.8 seconds.
 |ls-1               = Base Damage: 150 / 180 / 210 / 240 / 270 / 300
 |ls-2               = 
 |ls-3               = 
@@ -299,13 +299,13 @@ Lightning Returns - New Hero Edith Cinematic Trailer - Mobile Legends- Bang Bang
 
 == Trivia ==
 * Edith is a feminine given name derived from the Old English word ēad, meaning wealth or prosperity, in combination with the Old English gȳð, meaning strife or war. Her name would technically mean "prosperous in war".
-* Edith is the first hero to have the [[Tank]]/[[Marksman]] role.
-*Edith was the 9th hero who was given to players for free on release. The other free heroes are {{Hero Icon|name = Faramis}}, {{Hero Icon|name = Belerick}}, {{hi|name=Silvanna}}, {{Hero Icon|name = Luo Yi}}, {{hi|name=Benedetta}}, {{hi|name=Mathilda}}, {{hi|name=Phoveus}} and {{hi|name=Floryn}}.
-*She is currently the only hero who does not have [[Attack speed growth]].
-*Aside from [[Brody]], Edith is the only hero who doesn't wield any weapon.
+* Edith is the first data to have the [[Tank]]/[[Marksman]] role.
+*Edith was the 9th data who was given to players for free on release. The other free heroes are {{Hero Icon|name = Faramis}}, {{Hero Icon|name = Belerick}}, {{hi|name=Silvanna}}, {{Hero Icon|name = Luo Yi}}, {{hi|name=Benedetta}}, {{hi|name=Mathilda}}, {{hi|name=Phoveus}} and {{hi|name=Floryn}}.
+*She is currently the only data who does not have [[Attack speed growth]].
+*Aside from [[Brody]], Edith is the only data who doesn't wield any weapon.
 *In Ancient Greek, [[wiktionary:phylax|''phylax'' (φύλαξ)]] means “watcher, guard, sentinel, guardian, keeper, or protector”.
 *Phylax was first introduced in advanced server. It was later revealed that Edith was alongside it from leaks and early-access servers.
-*According to Phylax' old hero feature ("An ancient machine guard that executes any trespassers on the Sanctuary Island"), it is described as an executioner to any trespassers. Phylax/Edith were also supposed to come from Sanctuary Island, which it was named later as Sanctum Island.
+*According to Phylax' old data feature ("An ancient machine guard that executes any trespassers on the Sanctuary Island"), it is described as an executioner to any trespassers. Phylax/Edith were also supposed to come from Sanctuary Island, which it was named later as Sanctum Island.
 **In addition, Phylax is described as an Ancient Machine rather than an Ancient Guard before indicating that Phylax is primarily focused.
 *Edith was supposed to be released on December 21, 2021 along with [[Patch Notes 1.6.42]], but it was postponed until it was finally released on December 24, 2021.
 

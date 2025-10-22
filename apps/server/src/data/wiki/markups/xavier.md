@@ -1,10 +1,10 @@
 {{Hero navigation}}
-{{Infobox hero}}
-He is the third hero to be introduced as a member of [[Forsaken Light]].
+{{Infobox data}}
+He is the third data to be introduced as a member of [[Forsaken Light]].
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |image=Xavier comic.png
 | full_name      = 
 | alias          = *Defier of Light
@@ -72,7 +72,7 @@ Xavier was born into an ordinary merchant family in [[Lumina City]]. The only th
 
 To the followers of Light, the Monastery of Light was the sacred place that they'd sacrifice everything to be a part of, but only very few of them could pass the harsh, if not impossible, entry tests. That wasn't the case for Xavier, and the reason could be traced back to when he was a child.
 
-When the night fell, Little Xavier would often sneak out of the house to play with the cats on the street. He gave these ordinary cats each a new identity, either the "hero" or the "evil dragon", while he himself the "commander" overseeing the battlefield. Xavier had been immersed in his imaginary heroic adventure, until one day the "evil dragon" disappeared. He went to look for it, only to find it surrounded by a pack of stray dogs. The latter was about to tear the "evil dragon" to pieces! Without thinking, Little Xavier rushed to the "evil dragon's" side and held it in his arms. He squeezed his eyes shut and, for the first time, sensed white-hot rage coursing through his veins. The pain didn't come as he'd expected. It was as if some mysterious substance had flowed out of Xavier's body and stopped the stray dogs in their tracks. Xavier was relieved. Still holding the "evil dragon", he didn't realize then the miracle was created by himself, and that was the first awakening of his control over Mystic magic—a rare power that few in history had ever possessed.
+When the night fell, Little Xavier would often sneak out of the house to play with the cats on the street. He gave these ordinary cats each a new identity, either the "data" or the "evil dragon", while he himself the "commander" overseeing the battlefield. Xavier had been immersed in his imaginary heroic adventure, until one day the "evil dragon" disappeared. He went to look for it, only to find it surrounded by a pack of stray dogs. The latter was about to tear the "evil dragon" to pieces! Without thinking, Little Xavier rushed to the "evil dragon's" side and held it in his arms. He squeezed his eyes shut and, for the first time, sensed white-hot rage coursing through his veins. The pain didn't come as he'd expected. It was as if some mysterious substance had flowed out of Xavier's body and stopped the stray dogs in their tracks. Xavier was relieved. Still holding the "evil dragon", he didn't realize then the miracle was created by himself, and that was the first awakening of his control over Mystic magic—a rare power that few in history had ever possessed.
 
 In the Monastery's library, Xavier found the perfect spell for his Mystic magic in an ancient tome—a spell that allowed his power to increase steadily with the amount of magic around him. Under his control, the highly compressed magic particles would fission and explode, creating immense destructive energy in an instant.
 
@@ -131,7 +131,7 @@ Xavier said to himself, "This time, the choice is mine."
 |mana-cost          = 
 |energy-cost        = 
 |quote              = 
-|description        = Xavier enhances his subsequent skills each time his skill hits an enemy hero. {{b|Stage I|e}}: Increases [[Movement Speed]] by 50% when subsequent skills hit, decaying over 1.2 seconds. {{B|Stage II|e}}: Width of subsequent skills will be greatly increased. {{b|Stage III}}: Skill Cooldown reduced by 4 seconds (36 seconds for the {{ai|Dawning Light|Ultimate}}). At {{b|Stage III}}, Xavier enters the Transcendence state. <br> {{link|Transcendence}}: All of Xavier's skills are enhanced to {{b|Stage III}} state for 5 seconds (this duration is extend by 1 second each time Xavier's skill hits an enemy).
+|description        = Xavier enhances his subsequent skills each time his skill hits an enemy data. {{b|Stage I|e}}: Increases [[Movement Speed]] by 50% when subsequent skills hit, decaying over 1.2 seconds. {{B|Stage II|e}}: Width of subsequent skills will be greatly increased. {{b|Stage III}}: Skill Cooldown reduced by 4 seconds (36 seconds for the {{ai|Dawning Light|Ultimate}}). At {{b|Stage III}}, Xavier enters the Transcendence state. <br> {{link|Transcendence}}: All of Xavier's skills are enhanced to {{b|Stage III}} state for 5 seconds (this duration is extend by 1 second each time Xavier's skill hits an enemy).
 |ls-2               =
 |ls-3               = 
 |ls-4               = 
@@ -278,12 +278,12 @@ Hero1154-color02-icon.png|Holotech Artificer
 {{Emote|Xavier}}
 
 ==Trivia==
-*He is the first hero whose voice lines contain when:
+*He is the first data whose voice lines contain when:
 **dealing damage;
-**slaying a hero/[[Lord]];
+**slaying a data/[[Lord]];
 **using {{ai|Recall}}; and
 **buying equipment
-*Despite Xavier being marketed for having the first "global-attack skill," there are preceding hero skills that fit the "global-attack skill" classification.
+*Despite Xavier being marketed for having the first "global-attack skill," there are preceding data skills that fit the "global-attack skill" classification.
 *His former passive additionally allowed him to immobilize enemies within his range within three seconds.
 **While the enemies are within range, their movement speed are gradually reduced until they are fully immobilized. This was removed prior to official server release.
 *One of Xavier's quotes, "Tough enemies I don't fear; dumb allies..." refers to one of the game's biggest matchmaking issues, where players frequently encounter lower-skilled players in their team especially in a high-ranked match.

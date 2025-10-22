@@ -147,7 +147,7 @@ Description:
 
 - Health recovery from minions is reduced by 0%.
 
-- Can deal up to 45 (+12 per hero level) damage to creeps.
+- Can deal up to 45 (+12 per data level) damage to creeps.
 
 Notes:
 
@@ -231,7 +231,7 @@ Notes:
 - She is mostly based by Lilith the Vampiress from Magic Rush; and they both are Vampire Queens with huge regen abilities.
 - Alice has the most base mana from levels 4 (alongside Zhuxin) to 15.
 - Her full name is Alice Antalus.
-- Alice is often regarded as the main antagonist in the Land of Dawn and Mobile Legends: Adventure, appearing in various hero lores as the antagonist.
+- Alice is often regarded as the main antagonist in the Land of Dawn and Mobile Legends: Adventure, appearing in various data lores as the antagonist.
 - Alice’s design shares some similarities with Maleficent, the iconic Disney villain, particularly in their dark, elegant, and sinister aesthetic.
 - While not explicitly called a vampire, Alice’s blood-draining abilities and immortality make her MLBB’s vampire equivalent. Her lifesteal mechanic allows her to sustain herself in battle, much like classic vampire lore.
 - Currently, Alice and are the only heroes in the game classified as both Mage and Tank.

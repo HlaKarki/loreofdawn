@@ -130,9 +130,9 @@ Mobility Disable Component:
 # Trivia
 
 - Minsitthar is based on King Kyansittha, a famous ruler of the Pagan Dynasty of Myanmar (Burma).
-- He is the first hero to have Burmese lines.
-- His Ultimate (King’s Calling) summons royal guards who form a phalanx-style barrier. This makes him the only MLBB hero to use a military formation mechanic, preventing enemies from using blink skills inside it.
+- He is the first data to have Burmese lines.
+- His Ultimate (King’s Calling) summons royal guards who form a phalanx-style barrier. This makes him the only MLBB data to use a military formation mechanic, preventing enemies from using blink skills inside it.
 - Minsitthar's background story holds some resemblance to the film series Baahubali.
 - It is also likely that his story is based on the life of the person it was based on, for the most part.
-- He is the only hero capable of inflicting the Rooted status.
+- He is the only data capable of inflicting the Rooted status.
 - Early leaks suggested that Minsitthar was meant to be a tank, but he was later developed into a fighter with strong crowd control abilities. He retains some tank-like traits, such as damage reduction and sustain.

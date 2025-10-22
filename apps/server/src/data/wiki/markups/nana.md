@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | alias          = *Sweet Leonin
 | chinese_name   = 娜娜 (nànà)
@@ -150,14 +150,14 @@ Those who have never forgotten will always survive in another way; those who hav
 |skill-effect-1 = CC
 |skill-effect-2 = Debuff
 |image-legend   = 
-|description    =Nana summons Molina at the target location. After a short delay. Molina will chase the nearest enemy hero in range for 2.5 seconds. Molina Will deal {{scale|base=250-375|total-mp=50|md}} to the first enemy hero it collides with and [[transform]] them for 1.5 seconds, and also [[slow]] them by 50% and reduce their [[Magic Defense]] by 25% for the duration.<br>If there are no enemy heroes in range, Molina will disappear after 12 seconds.
+|description    =Nana summons Molina at the target location. After a short delay. Molina will chase the nearest enemy data in range for 2.5 seconds. Molina Will deal {{scale|base=250-375|total-mp=50|md}} to the first enemy data it collides with and [[transform]] them for 1.5 seconds, and also [[slow]] them by 50% and reduce their [[Magic Defense]] by 25% for the duration.<br>If there are no enemy heroes in range, Molina will disappear after 12 seconds.
 |properties=*'''Morph Damage:''' 250 / 275 / 300 / 325 / 350 / 375
 *'''[[Slowing Effect]]:''' 50% / 54% / 58% / 62% / 66% / 70%
 |term-1         = Transform
 |term-2         = Magic Damage Skill
 |term-3         = Magic Defense
 |notes=*Affected enemies are revealed.
-*Molina will chase the enemy hero at an exponential rate<sup>[''how much?'']</sup> before it disappears.
+*Molina will chase the enemy data at an exponential rate<sup>[''how much?'']</sup> before it disappears.
 }}
 
 ===Ultimate===
@@ -214,9 +214,9 @@ Battle Emote - La-la-la.png|'''La-la-la'''<br>Obtained via the Mistbenders galle
 
 == Trivia ==
 * Her name (なな; na na) means seven in Japanese and it is a common feminine Japanese name.
-* Nana is the only hero in the game capable of [[transforming]] enemies.
+* Nana is the only data in the game capable of [[transforming]] enemies.
 * Nana has [[wikipedia:Illeism|illeism]], the act of referring to oneself in the third person instead of first person.
-* Her old voice lines is mostly based from the character [[w:c:magicrush:Ruby|Ruby]] from [[w:c:magicrush|''Magic Rush'']] (not to be confused with {{hi|Ruby}} in ''[[MLBB]]''), another cat-like hero.
+* Her old voice lines is mostly based from the character [[w:c:magicrush:Ruby|Ruby]] from [[w:c:magicrush|''Magic Rush'']] (not to be confused with {{hi|Ruby}} in ''[[MLBB]]''), another cat-like data.
 * Nana's old passive allowed her to give [[gold]] to nearby allies every 10 seconds (see [[Nana/History]])
 == References ==
 {{reflist}}

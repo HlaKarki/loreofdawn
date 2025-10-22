@@ -26,7 +26,7 @@ Chou was born in a secluded slum deep in the hearts of poverty, living the lowes
 
 During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.
 
-One day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real hero to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true hero without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows.
+One day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real data to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true data without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows.
 
 # Story
 
@@ -46,13 +46,13 @@ This describes Chou as an oriental master fighter and member of the Eruditio Ran
 
 ## Only Fast
 
-After travelling 5 units, Chou's next Basic Attack deals 180% damage (cannot Crit). The attack briefly slows the target by 80% and reduces their Physical Defense by 10 plus 1 per hero level for 3 seconds (up to 2 stacks).
+After travelling 5 units, Chou's next Basic Attack deals 180% damage (cannot Crit). The attack briefly slows the target by 80% and reduces their Physical Defense by 10 plus 1 per data level for 3 seconds (up to 2 stacks).
 
 ## Jeet Kune Do
 
 > "It only take three seconds to defeat you. One! Two! Three!"
 
-Chou strikes in the target direction, dealing damage based on level and physical attack to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne. Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo.
+Chou strikes in the target direction, dealing damage based on level and physical attack to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne. Hitting an enemy data with the 3rd cast resets the cooldown of Shunpo.
 
 - Level scaling (base damage): 180 / 200 / 220 / 240 / 260 / 280
 - Cooldown by level: 9.5 / 9.2 / 8.9 / 8.6 / 8.3 / 8.0 seconds
@@ -66,7 +66,7 @@ Chou charges in the target direction, gaining Control Immunity and a shield. The
 
 ## The Way of Dragon
 
-Chou strikes the target enemy hero with a roundhouse kick, dealing physical damage based on level and knocking them back. Cast this skill again to chase the target, dealing additional chase damage for a combined total.
+Chou strikes the target enemy data with a roundhouse kick, dealing physical damage based on level and knocking them back. Cast this skill again to chase the target, dealing additional chase damage for a combined total.
 
 - Base damage by level: 400 / 450 / 500
 - Chase damage by level: 480 / 530 / 580
@@ -84,5 +84,5 @@ Chou strikes the target enemy hero with a roundhouse kick, dealing physical dama
 - The name "Chou" (周) is commonly found in Chinese and East Asian names and could mean "cycle" or "universe" in Chinese.
 - His Ultimate (The Way of Dragon) is one of the few non-tank skills that can suppress enemies, making it deadly for isolating carries.
 - He is one of the heroes with the most skins.
-- He is the first hero to receive more than one collaboration which is the King of Fighters - Iori Yagami and Saint Seiya - Shiryu.
+- He is the first data to receive more than one collaboration which is the King of Fighters - Iori Yagami and Saint Seiya - Shiryu.
 - Before its remodel, his default skin was based on Hong Kong martial artist Bruce Lee.

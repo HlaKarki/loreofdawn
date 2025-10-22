@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image=Alice comic.png
 |full_name = *Queen Alice Antalus
 |origin=[[Sanguine Lair]], [[Abyss]]
@@ -184,7 +184,7 @@ Battle emote (Scarlet Kiss).png|"Scarlet Kiss"<br>Obtain via Emote Bundle.
 * She is mostly based by [https://magicrush.fandom.com/wiki/Lilith Lilith the Vampiress] from [https://magicrush.fandom.com ''Magic Rush'']; and they both are Vampire Queens with huge regen abilities.
 *Alice has the most base [[mana]] from levels 4 (alongside [[Zhuxin]]) to 15.
 *Her full name is Alice Antalus.
-* Alice is often regarded as the main antagonist in the [[Land of Dawn]] and ''[[Mobile Legends: Adventure]]'' alongside {{hi|Balmond}}, appearing in various hero lores as the antagonist.
+* Alice is often regarded as the main antagonist in the [[Land of Dawn]] and ''[[Mobile Legends: Adventure]]'' alongside {{hi|Balmond}}, appearing in various data lores as the antagonist.
 * Alice’s design shares some similarities with '''[https://en.wikipedia.org/wiki/Maleficent_(film) Maleficent]''', the iconic Disney villain, particularly in their '''dark, elegant, and sinister aesthetic'''. 
 * While not explicitly called a vampire, Alice’s blood-draining abilities and immortality make her MLBB’s vampire equivalent. Her lifesteal mechanic allows her to sustain herself in battle, much like classic vampire lore.
 * Currently, Alice and {{hi|Esmeralda}} are the only heroes in the game classified as both [[Mage]] and [[Tank]].

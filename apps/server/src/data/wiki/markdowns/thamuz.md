@@ -61,9 +61,9 @@ Shortly after, Thamuz encounters a corrupted Lava Demon, hesitating, before bein
 
 ## Miscellaneous
 
-Thamuz's original hero showcase video on the official YouTube channel had an abrupt change in thumbnail design. Thamuz had four different walking animations for his Scytheless form throughout his development. In the advanced server prior to his release, Thamuz used to run on all fours without his scythes. On release, he instead walked on his hind legs, slightly leaned in with his arms stretched outward. On his soft rework on Patch 1.6.84 on May 24, 2022, his posture was changed to be straighter and started to jog, more akin to how a human person would run. However, this change would soon be rolled back to the previous version an unknown amount of updates later. On his revamp on September 17, 2025, he was given a new scytheless animation, similar to his removed one on Patch 1.6.84.
+Thamuz's original data showcase video on the official YouTube channel had an abrupt change in thumbnail design. Thamuz had four different walking animations for his Scytheless form throughout his development. In the advanced server prior to his release, Thamuz used to run on all fours without his scythes. On release, he instead walked on his hind legs, slightly leaned in with his arms stretched outward. On his soft rework on Patch 1.6.84 on May 24, 2022, his posture was changed to be straighter and started to jog, more akin to how a human person would run. However, this change would soon be rolled back to the previous version an unknown amount of updates later. On his revamp on September 17, 2025, he was given a new scytheless animation, similar to his removed one on Patch 1.6.84.
 
-Thamuz was the first hero introduced from the Abyss faction, predating heroes like Alice, Dyrroth, and Selena in the lore. His passive Grand Lord Lava was one of the first abilities in the game to consistently deal true damage based on enemies' HP. Some players compare his look to Balrog from Lord of the Rings or Ifrit from Final Fantasy. His weapons, Molten Scythes, return to him on their own, similar to boomerangs. When Thamuz moves, a lava trail forms behind him, showing his burning presence. He is one of the few heroes whose footsteps leave elemental effects on the battlefield. After his revamp, Thamuz now has different glow effects on his model during his ultimate, depending on his skin.
+Thamuz was the first data introduced from the Abyss faction, predating heroes like Alice, Dyrroth, and Selena in the lore. His passive Grand Lord Lava was one of the first abilities in the game to consistently deal true damage based on enemies' HP. Some players compare his look to Balrog from Lord of the Rings or Ifrit from Final Fantasy. His weapons, Molten Scythes, return to him on their own, similar to boomerangs. When Thamuz moves, a lava trail forms behind him, showing his burning presence. He is one of the few heroes whose footsteps leave elemental effects on the battlefield. After his revamp, Thamuz now has different glow effects on his model during his ultimate, depending on his skin.
 
 # Abilities
 
@@ -81,7 +81,7 @@ Notes:
 
 ## Molten Scythes
 
-- Thamuz tosses his scythes in the target direction. After travelling for a certain distance or hitting the first enemy hero, they deal physical damage. The Scythes will then slow nearby enemies by 30% and deal sustained physical damage every 0.5 seconds.
+- Thamuz tosses his scythes in the target direction. After travelling for a certain distance or hitting the first enemy data, they deal physical damage. The Scythes will then slow nearby enemies by 30% and deal sustained physical damage every 0.5 seconds.
 - After leaving Thamuz for approximately 5 seconds or traveling a certain distance, the Scythes will return to Thamuz and drag enemies in their path to him. Thamuz can approach the Scythes or cast the skill again to retrieve them.
 
 Level scaling:
@@ -123,12 +123,12 @@ Notes:
 
 # Trivia
 
-- Thamuz's original hero showcase video on the official YouTube channel had an abrupt change in thumbnail design.
+- Thamuz's original data showcase video on the official YouTube channel had an abrupt change in thumbnail design.
 - Thamuz had four different walking animations for his Scytheless form throughout his development.
 - In the advanced server prior to his release, Thamuz used to run on all fours without his scythes.
 - On release, he instead walked on his hind legs, slightly leaned in with his arms stretched outward.
 - On his soft rework on Patch 1.6.84 on May 24, 2022, his posture was changed to be straighter and started to jog, more akin to how a human person would run.
-- Thamuz was the first hero introduced from the Abyss faction, predating heroes like Alice, Dyrroth, and Selena in the lore.
+- Thamuz was the first data introduced from the Abyss faction, predating heroes like Alice, Dyrroth, and Selena in the lore.
 - His passive Grand Lord Lava was one of the first abilities in the game to consistently deal true damage based on enemies' HP.
 - Some players compare his look to Balrog from Lord of the Rings or Ifrit from Final Fantasy.
 - His weapons, Molten Scythes, return to him on their own, similar to boomerangs.

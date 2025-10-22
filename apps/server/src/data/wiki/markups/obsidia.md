@@ -1,9 +1,9 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Unfinished}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | name            = Obsidia
 | image           = 
 | full_name       = 
@@ -113,7 +113,7 @@ With her hunt temporarily over, Obsidia stepped into the chasm's darkest depths.
 |skill-effect-1  = Buff
 |skill-effect-2  = 
 |quote           = 
-|description     = When Obsidia deals damage to enemies, she gains Bone Energy (Basic Attacks against non-hero units grant 1 Energy, against hero units grant 2 Energy, and skills grant 3 times the Energy. No Energy is gained from hitting creeps). When Bone Energy reaches 30, it forms a Bone Shard, up to 25 shards. When Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing (7% Total Physical Attack) Physical Damage and inheriting 7% Attack Effects.
+|description     = When Obsidia deals damage to enemies, she gains Bone Energy (Basic Attacks against non-data units grant 1 Energy, against data units grant 2 Energy, and skills grant 3 times the Energy. No Energy is gained from hitting creeps). When Bone Energy reaches 30, it forms a Bone Shard, up to 25 shards. When Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing (7% Total Physical Attack) Physical Damage and inheriting 7% Attack Effects.
 
 
 |term-1          = 
@@ -140,7 +140,7 @@ With her hunt temporarily over, Obsidia stepped into the chasm's darkest depths.
 |skill-effect-1  = Damage
 |skill-effect-2  = AOE
 |quote           = 
-|description     = Obsidia launches an {{link|Abyssal Bone Needle}} dealing {{scale|base=325|total-pa=80|pd}} to enemies hit and triggering {{link|Return to Bone}} on the first enemy hero attack.<br><br>
+|description     = Obsidia launches an {{link|Abyssal Bone Needle}} dealing {{scale|base=325|total-pa=80|pd}} to enemies hit and triggering {{link|Return to Bone}} on the first enemy data attack.<br><br>
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -193,7 +193,7 @@ With her hunt temporarily over, Obsidia stepped into the chasm's darkest depths.
 |skill-effect-1  = CC
 |skill-effect-2  = Mobility
 |quote           = 
-|description     = Obsidia shoots {{link|Bones of Wrath}}, in the target direction, dealing {{scale|base=125|total-pa=60|pd}} and briefly stunning the first enemy hero hit, and pulls herself near them. The {{link|Bones of Wrath}} then tether to the enemy, preventing Obsidia from moving more than 4 units away from them. The enemy cannot use displacement skills, and their movement will pull Obsidia along. During this time, Obsidia gains 5 temporary {{link|Bone Shard(s)}}. This effect lasts 3s.
+|description     = Obsidia shoots {{link|Bones of Wrath}}, in the target direction, dealing {{scale|base=125|total-pa=60|pd}} and briefly stunning the first enemy data hit, and pulls herself near them. The {{link|Bones of Wrath}} then tether to the enemy, preventing Obsidia from moving more than 4 units away from them. The enemy cannot use displacement skills, and their movement will pull Obsidia along. During this time, Obsidia gains 5 temporary {{link|Bone Shard(s)}}. This effect lasts 3s.
 <br>During this time, Obsidia can move through obstacles and use Basic Attacks while moving.  {{link|Phantom Shadowmeld}} is enhanced, with its duration increased to 1s and cooldown reduced to 33%.
 |term-1          = 
 |term-2          = 
@@ -232,7 +232,7 @@ Hero1302-icon.png|Undying Remnants
 Battle Emote - Sweet Smile.png|'''Sweet Smile'''<br>Obtained via the S33 story "Tales of Zhuxin".
 </gallery>
 
-=== "The Unpredictable Zhuxin" hero series stickers ===
+=== "The Unpredictable Zhuxin" data series stickers ===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="100" hideaddbutton="true">
 </gallery>
 

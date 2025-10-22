@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | chinese_name   = 周 (zhōu)
@@ -39,7 +39,7 @@ Chou is a gifted martial artist born in the slums. He learned the ancient orient
 === Lore ===
 Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.
 
-One day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real hero to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true hero without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows.
+One day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real data to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true data without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows.
 
 ===Lethal Nexus===
 {{outdated|Eruditio's lore has been revamped on July 2023.|date=11 December 2023}}
@@ -75,7 +75,7 @@ One day, Chou rescued a mystic monk under pursuit by his captors and took him ba
 |skill-effect-2= Mobility
 |quotes= It only take three seconds to defeat you. One! Two! Three!
 |cooldown = 9.5 / 9.2 / 8.9 / 8.6 / 8.3 / 8.0
-|description = Chou strikes in the target direction, dealing {{scale|base=180|total-pa=70|pd}} to enemies hit. This skill can be cast 3 times before it goes on coldown. On the 3rd cast, Chou also knocks enemies hit airborne.<br><br>Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo.
+|description = Chou strikes in the target direction, dealing {{scale|base=180|total-pa=70|pd}} to enemies hit. This skill can be cast 3 times before it goes on coldown. On the 3rd cast, Chou also knocks enemies hit airborne.<br><br>Hitting an enemy data with the 3rd cast resets the cooldown of Shunpo.
 |level-scaling = Base Damage: 180 / 200 / 220 / 240 / 260 / 280
 |otherinfo=
 }}
@@ -106,7 +106,7 @@ One day, Chou rescued a mystic monk under pursuit by his captors and took him ba
 |term-1=Blink
 |term-2=Physical Damage Skill
 |term-3=Displacement
-|description = Chou strikes the target enemy hero with a roundhouse kick at the target enemy hero, dealing them {{scale|base=400|extra-pa=200|pd}} and knocking them back.<br><br>Cast this skill again to chase up the target, dealing a total of {{scale|base=480|extra-pa=220|pd}}.
+|description = Chou strikes the target enemy data with a roundhouse kick at the target enemy data, dealing them {{scale|base=400|extra-pa=200|pd}} and knocking them back.<br><br>Cast this skill again to chase up the target, dealing a total of {{scale|base=480|extra-pa=220|pd}}.
 |skill-effect-1 = CC
 |skill-effect-2 = Burst
 |level-scaling = Base Damage : 400 / 450 / 500
@@ -169,7 +169,7 @@ Battle Emote - It'll work.png|'''It'll work'''<br>Esports Emote. Can be purchase
 * The name '''"Chou" (周)''' is commonly found in '''Chinese and East Asian names''' and could mean '''"cycle" or "universe"''' in Chinese.
 * His Ultimate (The Way of Dragon) is one of the few non-tank skills that can suppress enemies, making it deadly for isolating carries.
 * He is one of the heroes with the most skins.
-* He is the first hero to receive more than one collaborations which is [[MLBB × The King of Fighters|the King of Fighters]] - Iori Yagami and [[MLBB × Saint Seiya|Saint Seiya]] - Shiryu.
+* He is the first data to receive more than one collaborations which is [[MLBB × The King of Fighters|the King of Fighters]] - Iori Yagami and [[MLBB × Saint Seiya|Saint Seiya]] - Shiryu.
 * Before its remodel, his default skin was based on Hong Kong martial artist [[wikipedia:Bruce Lee|Bruce Lee]].
 == References ==
 {{reflist}}

@@ -1,12 +1,12 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 After her first revamp on [[Patch Notes 1.7.44|20 December 2022]], she became the face of [[Season 27|Season 27: Scarlet Shadow]].
 {{Hero stats}}
 ===Hidden attributes===
 *[[Lifesteal Ratio]]: 80%
 == Story ==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Age (年龄 "niánlíng" meaning "age")}}
-{{Infobox hero story
+{{Infobox data story
 | image          = Hanabi trailer.jpg
 | full_name      = 
 | chinese_name   = 花火 (huāhuǒ)
@@ -145,7 +145,7 @@ She raised her head and looked up at the night sky. The moon was beautiful tonig
 |mana-cost      = 35 / 40 / 45 / 50 / 55 / 60
 |energy-cost    = 
 |quote          = 
-|description    = {{B|Passive:|e}} The secret Ninjutsu of the Scarlet Shadow makes Hanabi immune to [[control effects]] when she has a [[shield]] from any source.<br>{{B|Active:|e}} Hanabi gains a {{scale|base=300-600|total-pa=40|shield}} for 5 seconds. When the shield is active, Hanabi gains 20% [[Movement Speed]], 25% [[Attack Speed]], and 20% of damage dealt will also be added to this shield (only 10% of the damage dealt to non-hero units). The shield cannot exceed 50% of Hanabi's max {{B|HP}}.
+|description    = {{B|Passive:|e}} The secret Ninjutsu of the Scarlet Shadow makes Hanabi immune to [[control effects]] when she has a [[shield]] from any source.<br>{{B|Active:|e}} Hanabi gains a {{scale|base=300-600|total-pa=40|shield}} for 5 seconds. When the shield is active, Hanabi gains 20% [[Movement Speed]], 25% [[Attack Speed]], and 20% of damage dealt will also be added to this shield (only 10% of the damage dealt to non-data units). The shield cannot exceed 50% of Hanabi's max {{B|HP}}.
 |properties     = *'''Shield:''' 300 / 360 / 420 / 480 / 540 / 600
 |calc           = 
 |term-1         = Shield
@@ -198,7 +198,7 @@ She raised her head and looked up at the night sky. The moon was beautiful tonig
 |mana-cost      = 120 / 160 / 200
 |energy-cost    = 
 |quote          = A sprout without flowers. A blossom without leaves.
-|description    = Hanabi throws Higanbana in the targeted direction, dealing {{scale|base=300-500|total-pa=50|pd}} to the first enemy hero hit and [[immobilizing]] them for 0.8 seconds. After 1 second, Higanbana will bloom at the location of the first hit, dealing {{scale|base=300-500|total-pa=50|pd}} to nearby enemies. Subsequent hits on the same target decays 20% damage.
+|description    = Hanabi throws Higanbana in the targeted direction, dealing {{scale|base=300-500|total-pa=50|pd}} to the first enemy data hit and [[immobilizing]] them for 0.8 seconds. After 1 second, Higanbana will bloom at the location of the first hit, dealing {{scale|base=300-500|total-pa=50|pd}} to nearby enemies. Subsequent hits on the same target decays 20% damage.
 |properties     = *'''Base Damage:''' 300 / 400 / 500
 *'''Bloom Damage:''' 300 / 400 / 500
 |calc           = 

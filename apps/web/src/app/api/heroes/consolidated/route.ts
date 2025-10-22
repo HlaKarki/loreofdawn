@@ -3,7 +3,7 @@ import { env } from "@/env";
 
 export async function GET(req: NextRequest) {
 	const url = req.nextUrl;
-	const hero = url.searchParams.get("hero");
+	const hero = url.searchParams.get("data");
 	const rank = url.searchParams.get("rank") ?? "overall";
 
 	console.log({

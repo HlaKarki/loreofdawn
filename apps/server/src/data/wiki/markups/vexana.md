@@ -1,10 +1,10 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Hero info}}
 After her first revamp on [[Patch Notes/1.6.94|28 June 2022]], she appeared as one of the faces of [[Project NEXT 2022]] and the first themed season, [[Season 25|Season 25: Rise of Necrokeep]], alongside [[Faramis]] and [[Leomord]].
 {{Hero stats}}
 == Story ==
 {{Translation|Official chinese name}}
-{{Infobox hero story
+{{Infobox data story
 | image          = <gallery>
 Vexana teaser.jpg|Undead
 Vexana human.jpg|Human
@@ -207,7 +207,7 @@ Is but a ghostly dream</poem>
 |energy-cost    = 
 |quote          = 
 |description    = Vexana and the {{Link|Eternal Guard|#Ultimate}} inflict {{Link|Nether Curse|mark}} on enemies hit. The Curse lasts 5 seconds and will cause the affected enemy to explode upon death, dealing [{{Scale|base=108|level=38|total-mp=60|md}}] to nearby enemies.
-|hero-level-scaling = Base Damage: 108/136/164/192/220/248/276/304/332/360/388/416/444/472/500
+|data-level-scaling = Base Damage: 108/136/164/192/220/248/276/304/332/360/388/416/444/472/500
 |ls-2           = 
 |ls-3           = 
 |ls-4           = 
@@ -231,7 +231,7 @@ Is but a ghostly dream</poem>
 |cooldown       = 14.0/13.4/12.88/12.2/11.6/11.0
 |mana-cost      = 80/90/100/110/120/130
 |quote          = 
-|description    = Vexana unleashes a {{Link|Deathly Grasp}} in the target direction, dealing {{Scale|base=200-300|total-mp=60|md}} to enemies in its path. The projectile stops upon hitting an enemy hero, [[terrifying]] them and [[knocking them back]], then it explodes, dealing {{Scale|base=200-300|total-mp=60|md}} to nearby enemies and terrifying them for 1 second.
+|description    = Vexana unleashes a {{Link|Deathly Grasp}} in the target direction, dealing {{Scale|base=200-300|total-mp=60|md}} to enemies in its path. The projectile stops upon hitting an enemy data, [[terrifying]] them and [[knocking them back]], then it explodes, dealing {{Scale|base=200-300|total-mp=60|md}} to nearby enemies and terrifying them for 1 second.
 |spellvamp-ratio=50%|level-scaling = Base Damage: 200 / 220 / 240 / 260 / 280 / 300
 Explosion Damage: 200 / 220 / 240 / 260 / 280 / 300
 |calc           = 
@@ -332,7 +332,7 @@ Legends Arise - Cinematic Trailer of Rise of Necrokeep - Project NEXT - Mobile L
 * Her scepter belongs to Duke Atticus her fiance, Whom {{hi|Alice}} had corrupted on their supposed wedding day
 * The souls of Atticus and brave fighters are present in undead knight
 * In [[Project NEXT 2022|'''Project NEXT''',]] a major update aimed at reworking and balancing older heroes in ''Mobile Legends: Bang Bang'', '''Vexana''' was one of the heroes revamped alongside several others.
-* Vexana is the first hero to receive a [[Zenith Skins|Zenith-grade skin]] in Mobile Legends: Bang Bang. Her "'''Twisted Fairytale'''" skin, introduced between March 25 and April 30, 2024, marked the debut of this high-rarity skin category. Currently, Vexana and {{Hi|name=Selena}} are the only heroes with Zenith skin.
+* Vexana is the first data to receive a [[Zenith Skins|Zenith-grade skin]] in Mobile Legends: Bang Bang. Her "'''Twisted Fairytale'''" skin, introduced between March 25 and April 30, 2024, marked the debut of this high-rarity skin category. Currently, Vexana and {{Hi|name=Selena}} are the only heroes with Zenith skin.
 * Zenith Skins might be fairytale-themed as their effects, trailer, and their names shows their theme. Vexana's Zenith skin, "Twisted Fairytale", is heavily inspired by [https://en.wikipedia.org/wiki/Snow_White Snow White] while Selena's Zenith skin, "Curse of Cinder" is inspired to [https://en.wikipedia.org/wiki/Cinderella Cinderella]. 
 * Vexana is one of the heroes that got drastic change on their rework. The other heroes is {{hi|Bane}} and {{Hi|name=Aurora}}.
 * Vexana and {{hi|Silvanna}} are blood related.

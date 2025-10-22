@@ -1,10 +1,10 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 He is the face of ''MLBB'' [[Season 35|Season 35: Peerless Light]].
 {{Hero stats}}
 
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |name            = Lukas
 |image           = 
 |full_name       = 
@@ -154,7 +154,7 @@ In front of the emblem of the sun and sword was a golden-horned beast with its h
 |skill-effect-1  = Damage
 |skill-effect-2  = CC
 |quote           = 
-|description     = {{Link|Passive:}} Lukas can enhance {{Link|Flash Combo}} with his Basic Attacks up to 2 times, lasting 4s.<br>Lukas consumes all Vigor to unleash Pulverize, dealing {{scale|base=300|total-pa=120|pd}}, plus additional attacks depending on the Vigor consumed (recovers HP equal to 8% of Max HP when hitting a hero):<br>{{Link|1 Stack:}} Lukas briefly stuns the target and spins his tonfa hammers to deal {{scale|base=100|total-pa=50|pd}} 3 times, pulling the enemy toward him.<br>{{Link|2 Stacks:}} Lukas briefly stuns the target and follows up with 2 attacks that deal {{scale|base=50|total-pa=20|pd}} per hit. He will then spin his tonfa hammers to deal {{scale|base=100|total-pa=50|pd}} 3 times (cannot be interrupted).
+|description     = {{Link|Passive:}} Lukas can enhance {{Link|Flash Combo}} with his Basic Attacks up to 2 times, lasting 4s.<br>Lukas consumes all Vigor to unleash Pulverize, dealing {{scale|base=300|total-pa=120|pd}}, plus additional attacks depending on the Vigor consumed (recovers HP equal to 8% of Max HP when hitting a data):<br>{{Link|1 Stack:}} Lukas briefly stuns the target and spins his tonfa hammers to deal {{scale|base=100|total-pa=50|pd}} 3 times, pulling the enemy toward him.<br>{{Link|2 Stacks:}} Lukas briefly stuns the target and follows up with 2 attacks that deal {{scale|base=50|total-pa=20|pd}} per hit. He will then spin his tonfa hammers to deal {{scale|base=100|total-pa=50|pd}} 3 times (cannot be interrupted).
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -186,7 +186,7 @@ Spin Damage: 100 / 120 / 140 / 160 / 180 / 200
 |skill-effect-2  = CC
 |quote           = 
 |description     = {{Link|Passive:}} Lukas can enhance {{Link|Flash Combo}} with his Basic Attacks up to 2 times, lasting 4s.
-Lukas consumes all Vigor to unleash a tail swing, dealing {{scale|base=300|total-pa=120|pd}}, plus additional attacks depending on the Vigor consumed. When hitting a hero, he also recovers 8% of his Max HP.<br>
+Lukas consumes all Vigor to unleash a tail swing, dealing {{scale|base=300|total-pa=120|pd}}, plus additional attacks depending on the Vigor consumed. When hitting a data, he also recovers 8% of his Max HP.<br>
 {{Link|1 Stack:}} Lukas briefly stuns the target and pounces to deal {{scale|base=100|total-pa=50|pd}} 3 times, knocking the enemy back.<br>
 {{Link|2 Stacks:}} Lukas briefly stuns the target and leaps to deal {{scale|base=50|total-pa=20|pd}} 2 times, then summons sacred lightning, dealing {{scale|base=100|total-pa=50|pd}} 3 times (cannot be interrupted)
 |term-1          = 
@@ -275,7 +275,7 @@ Enhanced Damage: 300 / 360 / 420 / 480 / 540 / 600
 |skill-effect-1  = Morph
 |skill-effect-2  = Buff
 |quote           = 
-|description     = Lukas transforms into his {{Link|Sacred Beast}} form. While in this state, his base Movement Speed is increased by 30, all attributes are increased by 15%, and his skills gain new effects.<br>{{Link|Use Again:}} Lukas in Sacred Beast form fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing {{scale|base=450|total-pa=150|pd}}.<br>"All attributes" include HP, Physical Attack, Attack Speed, Physical & Magic Defense and Attack Range.
+|description     = Lukas transforms into his {{Link|Sacred Beast}} form. While in this state, his base Movement Speed is increased by 30, all attributes are increased by 15%, and his skills gain new effects.<br>{{Link|Use Again:}} Lukas in Sacred Beast form fires a Shockwave Blast in the target direction that will explode upon hitting an enemy data or reaching its maximum range, dealing {{scale|base=450|total-pa=150|pd}}.<br>"All attributes" include HP, Physical Attack, Attack Speed, Physical & Magic Defense and Attack Range.
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -305,7 +305,7 @@ Resolve Regen: 0.5 / 1 / 1.5
 |skill-effect-1  = Burst
 |skill-effect-2  = 
 |quote           = 
-|description     = The Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing {{scale|base=450|total-pa=150|pd}} .
+|description     = The Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy data or reaching its maximum range, dealing {{scale|base=450|total-pa=150|pd}} .
 |term-1          = 
 |term-2          = 
 |term-3          = 
@@ -345,7 +345,7 @@ Hero1273-icon.png|Naruto Uzumaki
 ===Battle emotes===
 {{Emote|Lukas}}
 <!--
-==="The Unpredictable Zhuxin" hero series stickers===
+==="The Unpredictable Zhuxin" data series stickers===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="100" hideaddbutton="true">
 </gallery>
 

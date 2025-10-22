@@ -34,7 +34,7 @@ Full of excitement and fervor, Harith also knew that once he is appointed the ti
 
 ## Key Insight
 
-Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.
+Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy data, stacking up to 35%.
 
 - Keywords: Hybrid Lifesteal, Spell Vamp, Lifesteal
 
@@ -73,4 +73,4 @@ Harith uses his Key to summon the multidimensional rift. When the multidimension
 
 - Harith's Passive "Key Insight" used to be able to increase his Resilience.
 - Although Harith is a mage, his main role is often played in the Gold Lane rather than the Mid Lane.
-- Harith is the first hero to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include, , , and.
+- Harith is the first data to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include, , , and.

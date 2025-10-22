@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
-She was released as a part of the [[MLBB 5th Anniversary]]. Players had a chance to redeem the hero for free for a limited time.
+{{Infobox data}}
+She was released as a part of the [[MLBB 5th Anniversary]]. Players had a chance to redeem the data for free for a limited time.
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Floryn teaser.jpg
 | full_name      = 
 | chinese_name   = 洛霖 (luòlín)
@@ -97,7 +97,7 @@ Now, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Dew's [[Lantern of Hope|Lantern]] will permanently increase Floryn's attributes by a small amount.<br>After leaving combat in 5 seconds, Floryn can [[#Other|share]] the [[Flower of Hope]] with an allied hero (30 seconds [[cooldown]]), which will grant them a {{scale|base=150|total-mp=80|shield}} each time they are healed by Floryn.<br>Floryn will never sell the Lantern.
+|description    = Dew's [[Lantern of Hope|Lantern]] will permanently increase Floryn's attributes by a small amount.<br>After leaving combat in 5 seconds, Floryn can [[#Other|share]] the [[Flower of Hope]] with an allied data (30 seconds [[cooldown]]), which will grant them a {{scale|base=150|total-mp=80|shield}} each time they are healed by Floryn.<br>Floryn will never sell the Lantern.
 |calc           = 
 |term-1         = 
 |term-2         = 
@@ -167,7 +167,7 @@ Now, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a
 }}
 === Other ===
 :''Main article: [[Flower of Hope]], [[Lantern of Hope]]''
-{{Infobox hero ability|image=Shimmering Lantern|name=Share|cooldown=30.0|description=Floryn shares the [[Lantern of Hope|Lantern]]'s power with an allied hero, slightly increasing their attributes.|notes=*Share's cooldown is not affected by [[Cooldown Reduction]].
+{{Infobox data ability|image=Shimmering Lantern|name=Share|cooldown=30.0|description=Floryn shares the [[Lantern of Hope|Lantern]]'s power with an allied data, slightly increasing their attributes.|notes=*Share's cooldown is not affected by [[Cooldown Reduction]].
 *Casting this skill does not give skill-based buffs like on [[Azure Blade]] and its successor items.
 *The icon of this skill is based off of the now-removed [[Shimmering Lantern]].}}
 
@@ -207,8 +207,8 @@ Hero Spotlight - Floryn - The Budding Hope - Mobile Legends- Bang Bang
 * It's highly possible that Floryn was based off [https://en.wikipedia.org/wiki/Flora_(mythology) Flora], the Roman Goddess of flowers and spring. 
 ** Floryn's design and skillset reflect a nurturing, supportive role, which further ties her to the themes typically linked to a character inspired by flora or nature-based spirits.
 
-* Floryn is the first hero to heal allies anywhere on the map.
-* She is the only hero to buff another hero by placing another item on them.
+* Floryn is the first data to heal allies anywhere on the map.
+* She is the only data to buff another data by placing another item on them.
 * Like {{hi|Belerick}}, she can also create life, she created Dew.
 * Floryn's "Yatai Waitress" skin is inspired by the Japanese word "[https://en.wikipedia.org/wiki/Yatai_(food_cart) Yatai]" (屋台), which refers to street food stalls in Japan that sell ramen, takoyaki, and other delicious treats. These stalls are often run by friendly vendors wearing traditional Japanese aprons and kimonos just like Floryn in this skin.
 * Floryn has similarities with Filipino "[https://en.wikipedia.org/wiki/Diwata_(disambiguation) Diwata]" (fairies/guardian spirits) and Southeast Asian folklore creatures. Diwatas are mythical nature spirits or deities in Filipino folklore, often compared to fairies, nymphs, or guardian deities in other cultures. They are known for protecting nature, bestowing blessings, and sometimes punishing those who harm the environment.

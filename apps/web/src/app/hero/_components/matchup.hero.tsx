@@ -1,4 +1,4 @@
-import type { ConsolidatedHero } from "@repo/database";
+import type { ConsolidatedHero, MlMatchupSummary } from "@repo/database";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { resolveImageSrc } from "@/app/hero/_components/header.hero";
 import { tidyLabel } from "@/lib/utils";
@@ -29,11 +29,11 @@ function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: s
 	);
 }
 
-export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
+export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 	return (
 		<div className="grid gap-6 lg:grid-cols-2">
 			{/* Best Teammates */}
-			{hero.most_compatible && hero.most_compatible.length > 0 && (
+			{data.most_compatible && data.most_compatible.length > 0 && (
 				<Card>
 					<CardHeader>
 						<CardTitle>Best Teammates</CardTitle>
@@ -41,7 +41,7 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 					</CardHeader>
 					<CardContent>
 						<div className="space-y-2">
-							{hero.most_compatible.slice(0, 5).map((teammate) => (
+							{data.most_compatible.slice(0, 5).map((teammate) => (
 								<div
 									key={teammate.id}
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
@@ -83,7 +83,7 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 			)}
 
 			{/* Worst Matchups */}
-			{hero.worst_counter && hero.worst_counter.length > 0 && (
+			{data.worst_counter && data.worst_counter.length > 0 && (
 				<Card>
 					<CardHeader>
 						<CardTitle>Best Against</CardTitle>
@@ -91,7 +91,7 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 					</CardHeader>
 					<CardContent>
 						<div className="space-y-2">
-							{hero.worst_counter.slice(0, 5).map((counter) => (
+							{data.worst_counter.slice(0, 5).map((counter) => (
 								<div
 									key={counter.id}
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
@@ -133,7 +133,7 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 			)}
 
 			{/* Least Compatible */}
-			{hero.least_compatible && hero.least_compatible.length > 0 && (
+			{data.least_compatible && data.least_compatible.length > 0 && (
 				<Card>
 					<CardHeader>
 						<CardTitle>Worst Teammates</CardTitle>
@@ -141,7 +141,7 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 					</CardHeader>
 					<CardContent>
 						<div className="space-y-2">
-							{hero.least_compatible.slice(0, 5).map((teammate) => (
+							{data.least_compatible.slice(0, 5).map((teammate) => (
 								<div
 									key={teammate.id}
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
@@ -183,7 +183,7 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 			)}
 
 			{/* Best Counters */}
-			{hero.best_counter && hero.best_counter.length > 0 && (
+			{data.best_counter && data.best_counter.length > 0 && (
 				<Card>
 					<CardHeader>
 						<CardTitle>Countered By</CardTitle>
@@ -191,7 +191,7 @@ export const HeroMatchup = ({ hero }: { hero: ConsolidatedHero }) => {
 					</CardHeader>
 					<CardContent>
 						<div className="space-y-2">
-							{hero.best_counter.slice(0, 5).map((counter) => (
+							{data.best_counter.slice(0, 5).map((counter) => (
 								<div
 									key={counter.id}
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"

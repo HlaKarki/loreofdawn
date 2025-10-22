@@ -78,7 +78,7 @@ Roger gains 20%–40% Movement Speed and 20%–40% Attack Speed for 2.5 seconds.
 
 ## Bloodthirsty Howl
 
-Roger lets out a howl, increasing his Attack Speed to 1.15–1.4 times for 5 seconds. Within this duration, he gains 50% Movement Speed if an enemy hero below 40% is within his vision.
+Roger lets out a howl, increasing his Attack Speed to 1.15–1.4 times for 5 seconds. Within this duration, he gains 50% Movement Speed if an enemy data below 40% is within his vision.
 
 - Cooldown (base): 10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0 seconds
 - Mana cost: 50 / 55 / 60 / 65 / 70 / 75

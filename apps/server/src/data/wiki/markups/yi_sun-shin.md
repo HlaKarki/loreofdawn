@@ -1,8 +1,8 @@
 {{Hero navigation|Main}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |full_name      = 
 |alias          = Paenlong Legend
 |born           = 
@@ -43,7 +43,7 @@ Yi Sun-shin is the leader of the [[City of the Dragon]] fleet and he is dedicate
 
 But this bursting city never had one day of peace, ever since its establishment. Pirates from the Frozen Sea and the Sea of Hope had been invading this city, raiding the harbor and plundering the merchant ships. After years of failed resistance, against the pirates, the people of the city built a mighty navy, the Paenlong Fleet, to fight back the pirates and protect their homeland and trading routes.
 
-The general of this naval fleet, was the legendary hero, Yi Sun-shin. Born and raised in The City of the Dragon, Yi Sun-shin, grew up witnessing countless tragedies, happening around him- ships being raided and fishermen being murdered in cold blood, by the pirates. And so, the young Yi Sun-shin made up his mind to become an admiral and protect his homeland.
+The general of this naval fleet, was the legendary data, Yi Sun-shin. Born and raised in The City of the Dragon, Yi Sun-shin, grew up witnessing countless tragedies, happening around him- ships being raided and fishermen being murdered in cold blood, by the pirates. And so, the young Yi Sun-shin made up his mind to become an admiral and protect his homeland.
 
 Yi Sun-shin spent his entire childhood training and preparing himself for the future. He learned the techniques of sailing, archery and fighting. He even ventured into the Dragon's Altar and acquired all the knowledge he could, from the elders there.
 
@@ -183,12 +183,12 @@ My arrows never miss.png|'''My arrows never miss'''<br>Battle Emote - 2021/05 St
 </gallery>
 
 ==Trivia==
-*Yi Sun-shin (이순신) was a [[wikipedia:Yi_Sun-sin|Korean Naval Commander]] in real life who was considered one of the greatest naval commanders and a hero in history, tied only with [[wikipedia:Horatio_Nelson,_1st_Viscount_Nelson Admiral|Horatio Nelson]], having never been defeated at sea nor lost a single ship under his command towards the invasion of the enemy (Japan) making Yi Sun-shin as the only Korean hero in the game. In ''game'', his name is spelled '''Yi Sun-shin''', but the correct Romanization of his historical name is '''Yi Sun-sin''' ('''이순신''').
-**He is the first hero to be based from a historical figure, along with {{hi|Lapu-Lapu}} and {{hi|Zetian}}.
+*Yi Sun-shin (이순신) was a [[wikipedia:Yi_Sun-sin|Korean Naval Commander]] in real life who was considered one of the greatest naval commanders and a data in history, tied only with [[wikipedia:Horatio_Nelson,_1st_Viscount_Nelson Admiral|Horatio Nelson]], having never been defeated at sea nor lost a single ship under his command towards the invasion of the enemy (Japan) making Yi Sun-shin as the only Korean data in the game. In ''game'', his name is spelled '''Yi Sun-shin''', but the correct Romanization of his historical name is '''Yi Sun-sin''' ('''이순신''').
+**He is the first data to be based from a historical figure, along with {{hi|Lapu-Lapu}} and {{hi|Zetian}}.
 *His armor and weapons take inspiration from traditional [[Wikipedia:Joseon|Joseon-era]] Korean warriors.
-*Currently, Yi Sun-shin is the only hero in the game who can change both the appearance & function of the allied base, as well as who has skins that change the allied base accordingly.
+*Currently, Yi Sun-shin is the only data in the game who can change both the appearance & function of the allied base, as well as who has skins that change the allied base accordingly.
 *The Turtle Ship [[wikipedia:Turtle ship|Geobukseon]] (거북선) was an iron-plated warship he used to dominate naval battles. The Turtle Ship (Geobukseon) was a revolutionary warship designed by the real Admiral Yi Sun-sin during the late 16th century, and it plays a key role in his MLBB design.
-*Yi Sun-shin is the first and, so far, the only [[Assassin]]/[[Marksman]] hero in the game, whereas {{hi|Lesley}} is an Marksman/Assassin.
+*Yi Sun-shin is the first and, so far, the only [[Assassin]]/[[Marksman]] data in the game, whereas {{hi|Lesley}} is an Marksman/Assassin.
 
 ==References==
 {{reflist}}

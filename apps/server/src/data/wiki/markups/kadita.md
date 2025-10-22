@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          =<gallery>
 Kadita (Reincarnete as the Ocean Goddess).png|Present
 Kadita human (Reincarnete as the Ocean Goddess).png|Human

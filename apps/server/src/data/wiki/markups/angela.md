@@ -1,10 +1,10 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Official Chinese Name}}
 {{Retcon|{{Slink|Alpha|Story}}}}
-{{Infobox hero story
+{{Infobox data story
 | full_name      = Peace Android Prototype 1
 | alias          = Bunnylove
 | chinese_name   = 安卓儿 (ānzhuóer, "android")
@@ -75,7 +75,7 @@ Angela followed Dr. Baker's tutelage, studying hard to understand the world, and
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Angela gains 7.5% extra [[Movement Speed]] for 4 seconds each time she casts a skill (up to 30%). When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.
+|description    = Angela gains 7.5% extra [[Movement Speed]] for 4 seconds each time she casts a skill (up to 30%). When she's attached to an allied data, the Movement Speed boost is transferred to the allied data.
 |properties=*'''Extra [[Movement Speed]] Per Stack:''' 7.5%/ 15% / 22.5% / 30%
 |calc           = 
 |term-1         = Movement Speed
@@ -161,7 +161,7 @@ Extra Damage: 450 / 495 / 540 / 585 / 630 / 675
 |mana-cost      = 100 / 150 / 200
 |energy-cost    = 
 |quote          = 
-|description    = Angela begins [[channeling]] [for 2 seconds], applying a {{Scale|base=1000-2000|total-mp=200-300|shield}} that lasts 6 seconds to the target allied hero regardless of distance. After the channeling is complete, she attaches herself to the allied hero for 12 seconds, during which she can cast skills at zero [[Mana]] cost. <br> Angela can cast this skill again to cancel the channeling or detach herself from the allied hero. The attaching state will end early if the allied hero is killed.
+|description    = Angela begins [[channeling]] [for 2 seconds], applying a {{Scale|base=1000-2000|total-mp=200-300|shield}} that lasts 6 seconds to the target allied data regardless of distance. After the channeling is complete, she attaches herself to the allied data for 12 seconds, during which she can cast skills at zero [[Mana]] cost. <br> Angela can cast this skill again to cancel the channeling or detach herself from the allied data. The attaching state will end early if the allied data is killed.
 |level-scaling  =
 Cast Range: infinite
 Base [[Shield]]: 1000 / 1300 / 1600
@@ -170,7 +170,7 @@ Shield Bonus: 200% / 250% / 300%
 |term-1         = Shield 
 |term-2         = 
 |term-3         = 
-|notes          = *During the attaching state, Angela can cast this skill again to detach herself from the allied hero by [[Blink|blinking]] to the designated location away from the attached hero.
+|notes          = *During the attaching state, Angela can cast this skill again to detach herself from the allied data by [[Blink|blinking]] to the designated location away from the attached data.
 *[[Cooldown]] starts after casting the skill.
 *The channeling phase can be interrupted by [[crowd control]] (that can interrupt skills) and [[displacement]] effects.
 *Angela is [[untargetable]] during the Attaching State and cannot use any [[equipments]] or [[battle spells]]
@@ -226,8 +226,8 @@ Mobile Legends Bang Bang! New Hero Bunnylove Angela Gameplay
 </gallery>
 
 ==Trivia==
-*She is the first hero who can be attached to a hero by using her Ultimate, the second is {{hi|Gloo}}.
-*She carries a distinct doll for each skin that resembles her appearance on the hero selection screen. She used to toss the puppet as her basic attack when she was still in development, but the animation was eventually altered to simple heart-shaped projectiles. This doll can now only be visible in-game when she is using her {{ai|Heartguard}} to possess an ally. The doll will be seen above the ally hero's model.
+*She is the first data who can be attached to a data by using her Ultimate, the second is {{hi|Gloo}}.
+*She carries a distinct doll for each skin that resembles her appearance on the data selection screen. She used to toss the puppet as her basic attack when she was still in development, but the animation was eventually altered to simple heart-shaped projectiles. This doll can now only be visible in-game when she is using her {{ai|Heartguard}} to possess an ally. The doll will be seen above the ally data's model.
 *Because some users found her former eyes unsettling and distressing, Angela's on her splash art was modified.
 *Her [[StarLight Member|Starlight]] skin, was renamed from China Doll to Shanghai Maiden.
 

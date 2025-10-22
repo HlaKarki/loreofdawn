@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
 {{Translation|Official chinese name}}
-{{Infobox hero story
+{{Infobox data story
 | image=<gallery>
 Eudora comic.png|Eudora in 2019 (see [[BOOM: The Revial of Black Magic]])
 </gallery>
@@ -165,7 +165,7 @@ Project NEXT Hero Revamp Project NEXT Express 1 Mobile Legends Bang Bang
 </gallery>
 
 ==Trivia==
-*Eudora is the cheapest hero in the game, only costing {{BP Cost|2000}}, along with {{hi|Layla}} and {{hi|Zilong}}.
+*Eudora is the cheapest data in the game, only costing {{BP Cost|2000}}, along with {{hi|Layla}} and {{hi|Zilong}}.
 *Her name is a reference from one of the Hyades in Greek mythology. They are a sisterhood of nymphs that bring rain.
 *As the name suggest, her skill, {{ai|Ball Lightning}}, is based on the real life and rare phenomenon, [[wikipedia:ball lightning|ball lightning]], described as luminescent, spherical objects that vary from pea-sized to several meters in diameter. Descriptions of ball lightning appear in a variety of accounts over the centuries and have received attention from scientists.
 *She has a Vivo-themed {{Skin Tag|type=Limited}} called "Vivo Selfie Goddess", and is one of the only two heroes to have a Limited tag along with {{hi|Miya}} ("Honor").

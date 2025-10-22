@@ -26,13 +26,13 @@ Relationships:
 
 Voice actor (ja): Katagai Nao (片貝 直生)
 
-"The almighty panda hero of Stream Valley."
+"The almighty panda data of Stream Valley."
 
 # Story
 
-> "The almighty panda hero of Stream Valley."
+> "The almighty panda data of Stream Valley."
 
-Once there was a panda in Stream Valley named Akai. With the dream of becoming a hero, he was always eager to offer help, but often ended up causing more trouble instead. He worked hard to pursue his dream, and although he'd once wandered off right the path. In the end, he recalled his original intention and become a true hero.
+Once there was a panda in Stream Valley named Akai. With the dream of becoming a data, he was always eager to offer help, but often ended up causing more trouble instead. He worked hard to pursue his dream, and although he'd once wandered off right the path. In the end, he recalled his original intention and become a true data.
 
 There were no heroes in Stream Valley, only chubby pandas.
 
@@ -40,7 +40,7 @@ Among them was Akai, a fish seller with a monotonous routine that revolved aroun
 
 The heroes in legends would wield almighty swords, fight evil dragons, protect people from all harm… Akai clenched his fat fists and devoted himself to all sorts of “heroic deeds.” No matter what troubles his neighbors ran into, be it mending a roof or rescuing a cat, Akai was always the first to offer help. The only problem was… rotund and clumsy as he was, it seemed he’d only caused more trouble instead.
 
-> "Akai, stop trying to be a hero!"
+> "Akai, stop trying to be a data!"
 
 The neighbors didn’t know whether to laugh or cry.
 
@@ -62,7 +62,7 @@ Akai, however, refused to give up easily. And so, one day, when he was out fishi
 
 An angry roar sounded from within the creek, while Akai’s float shook violently as if something enormous had just taken the bite. Akai, over three hundred pounds as he weighed, was almost dragged into the water! Finally, whatever was at the end of his rod gave up, and Akai reeled it in. It was – a frog?!
 
-The frog leaped atop Akai’s head, stroking his goatee and claimed himself the Frog Immortal, a disciple of the Great Dragon who drifted down the creek from the Dragon Altar. He said Akai was a natural for martial arts, and that if Akai underwent his training, he’d definitely become an unparalleled hero – on one condition, of course: Akai gave him all his bait.
+The frog leaped atop Akai’s head, stroking his goatee and claimed himself the Frog Immortal, a disciple of the Great Dragon who drifted down the creek from the Dragon Altar. He said Akai was a natural for martial arts, and that if Akai underwent his training, he’d definitely become an unparalleled data – on one condition, of course: Akai gave him all his bait.
 
 The story about the chubby panda disciple and his little frog master thus began!
 
@@ -72,7 +72,7 @@ Under the guidance of the Frog Immortal, Akai gradually grasped the hang of mart
 
 When he wasn’t chasing thieves and saving villages, however, the panda disciple and his frog master would fish together by the creek. The frog often sat on Akai’s shoulder as they watched the serene view before them.
 
-Everything seemed to be going in the right direction, except… Akai’s weapon was still just an old fishing rod, and his chubby shape still nothing like that of a true hero.
+Everything seemed to be going in the right direction, except… Akai’s weapon was still just an old fishing rod, and his chubby shape still nothing like that of a true data.
 
 > "We martial artists never look down on ourselves!"
 
@@ -84,11 +84,11 @@ Akai interrupted hastily.
 
 Frustrated, the Frog Immortal hopped up and punched Akai’s stomach, "Is that the only reason you practice martial arts? To be evaluated by others? To be praised?"
 
-The poor panda nursed his aching stomach, "but master, isn’t that the cool part of being a hero? To be known by the people and be part of their stories?!"
+The poor panda nursed his aching stomach, "but master, isn’t that the cool part of being a data? To be known by the people and be part of their stories?!"
 
-> "Becoming a hero is far more than simply being a part of someone’s storybooks."
+> "Becoming a data is far more than simply being a part of someone’s storybooks."
 
-> "In order to be a true hero, you must make the ultimate sacrifice–"
+> "In order to be a true data, you must make the ultimate sacrifice–"
 
 Akai didn’t understand it at the time, but his master knew he would, eventually.
 
@@ -106,11 +106,11 @@ In hindsight, Akai realized that he’d already met this frog.
 
 After learning the truth, Akai stopped going to the Frog Immortal to learn martial arts.
 
-Without telling anyone, Akai set off to the Dragon Altar. He wanted to learn true martial arts from the Great Dragon himself, to become a real hero and protect Stream Valley!
+Without telling anyone, Akai set off to the Dragon Altar. He wanted to learn true martial arts from the Great Dragon himself, to become a real data and protect Stream Valley!
 
 A panda, wanting to learn martial arts? The Oriental Fighters were amused by this chubby country boy and so taught him a move or two from time to time. Akai flourished under the training of Zilong, Wanwan, Ling and Baxia. "I’ll introduce you to master." Zilong promised Akai before the Great Dragon was about to end his solitary meditation.
 
-> "I’m about to become a hero!"
+> "I’m about to become a data!"
 
 Akai was carried away by this thought and forgot all about how he hadn’t even said goodbye to the Frog Immortal.
 
@@ -124,9 +124,9 @@ Akai was caught in a dilemma. He wanted to follow the Oriental Fighters to fight
 
 Akai left something was missing on his shoulder. He turned his head and realized it was the spot where the Frog Immortal used to sit…
 
-In that moment, Akai remembered his master’s words and the true reason he wanted to become a hero suddenly rushed back to his mind. He knew what he should do!
+In that moment, Akai remembered his master’s words and the true reason he wanted to become a data suddenly rushed back to his mind. He knew what he should do!
 
-> "A true hero fights for the people, not for glory!"
+> "A true data fights for the people, not for glory!"
 
 The storytellers of Stream Valley got a new story to tell – the Tale of the Almighty Panda!
 
@@ -164,7 +164,7 @@ Notes:
 
 ## Headbutt
 
-Akai charges in the target direction, dealing damage to enemies along the way. If Akai hits an enemy hero during this process, he'll knock them airborne for 0.5 seconds and be able to roll in the joystick's direction once. Akai can cast Headbutt during the roll to quickly adjust his position.
+Akai charges in the target direction, dealing damage to enemies along the way. If Akai hits an enemy data during this process, he'll knock them airborne for 0.5 seconds and be able to roll in the joystick's direction once. Akai can cast Headbutt during the roll to quickly adjust his position.
 
 - Base Damage: 300 / 320 / 340 / 360 / 380 / 400
 - Mana Cost per level: 70 / 80 / 90 / 100 / 110 / 120

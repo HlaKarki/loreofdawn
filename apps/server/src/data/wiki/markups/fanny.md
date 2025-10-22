@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Lore ==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = Fanny Wertz
 | chinese_name   = 梵妮 (fànnī)
 | alias          = *Blade Dancer
@@ -51,7 +51,7 @@ Fanny is the younger sister of [[Tigreal]], who grew up under the protection of 
 === Lore ===
 Fanny Wertz is the youngest daughter of the Wertz family and the youngest sister of [[Tigreal]]. Although the men of the Wertz family served in the army for generations and guarded the [[Moniyan Empire]], the female members of the family were never allowed to join the army. From the perspective of the men in the family, their duty was to protect the country and family from threats, and women were to stay away from war.
 
-Therefore, ever since she was a child, Fanny had been asked to study painting and design art. The elders of the family hoped that she could become a famous artist or designer, and help manage the family’s business. But Fanny regarded this as beneath her. From ever since she could remember, Tigreal was Fanny’s greatest hero. She also hoped that one day, like her brother, she could fight on the front lines for the Imperial Army and guard the empire.
+Therefore, ever since she was a child, Fanny had been asked to study painting and design art. The elders of the family hoped that she could become a famous artist or designer, and help manage the family’s business. But Fanny regarded this as beneath her. From ever since she could remember, Tigreal was Fanny’s greatest data. She also hoped that one day, like her brother, she could fight on the front lines for the Imperial Army and guard the empire.
 
 After she grew older, the active and rebellious Fanny became a nightmare for her tutor. She was very tired of these old-fashioned classes. She often ran away for various reasons and had a soft spot for dancing with weapons: but Fanny was so smart that even though she was tired of her lessons, she was able to gain an understanding in very short time. Tigreal showed extreme affection to his rebellious sister. Each time Tigreal returned to the [[Lumina City]] for repair and maintenance with the army, it was Fanny’s happiest day, because Tigreal would not only tell her some peculiar anecdotes and thrilling battlefield stories from various places, but also teach her some useful fighting skills, which made Fanny yearn even more for the military life.
 
@@ -153,7 +153,7 @@ Travelers on the [[Land of Dawn]], if you see a person flying by in the mountain
 |mana-cost          = 
 |energy-cost        = 30
 |quote              = 
-|description        = Fanny [[blink|leaps]] at the target enemy hero or [[Creep]] with her blades, dealing {{Scale|base=500-860|extra-pa=240|pd}}. Each stack of {{AVC1|Prey Mark|mark}} of the target increases  this damage by 20%.
+|description        = Fanny [[blink|leaps]] at the target enemy data or [[Creep]] with her blades, dealing {{Scale|base=500-860|extra-pa=240|pd}}. Each stack of {{AVC1|Prey Mark|mark}} of the target increases  this damage by 20%.
 |properties         = *'''Base Damage:''' 500 / 680 / 860
 *'''Extra Damage Per Prey Mark Stack:''' 20% / 40%
 |calc               = 
@@ -210,9 +210,9 @@ Punks Wall.jpg|Fanny's Skin: Punk Princess along with {{hi|Ling}}'s Skin: Street
 * Fanny's name could be derived from the word "Fanny" (short for Frances or Stefanie), but it might also come from the Germanic word fannen, meaning "to capture" or "seize"—which matches her fast, aggressive playstyle.
 * Her surname "Wertz" is a popular Germanic surname, either derived the Old English personal name Hwit, meaning "the white one" or derived from the Middle High German word "wert" meaning "river island", or "river bank".
 * Fanny's appearance and fighting style resembles the soldiers in the [[wp:Attack on Titan|Attack on Titan (進撃の巨人)]] series.
-*Fanny is the most difficult hero according to the hero difficulty rating with 100%, the highest of all heroes.
+*Fanny is the most difficult data according to the data difficulty rating with 100%, the highest of all heroes.
 * She is the first heroes to use {{AVC1|Energy}} as the skill source.
-* She is the only hero without any form of [[crowd control]] on her kit, not even a [[slowing]] effect.
+* She is the only data without any form of [[crowd control]] on her kit, not even a [[slowing]] effect.
 * Her skin "Skylark" is inspired to a type of bird [https://en.wikipedia.org/wiki/Eurasian_skylark skylark] known for its high-speed flight and agility, perfectly matching Fanny’s fast, aerial combat style.
 * {{hi|Claude}} and Fanny are among the few heroes in Mobile Legends with multiple couple skins with Fanny's "Lifeguard" and "Heart Afloat" being part of her romantic-themed skins.
 

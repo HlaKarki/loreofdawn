@@ -155,7 +155,7 @@ Notes:
 
 # Trivia
 
-- Brody is the 100th hero in the game, based on game files and the chronological release order on Advanced Server. Benedetta is the 100th hero released on Original Server.
+- Brody is the 100th data in the game, based on game files and the chronological release order on Advanced Server. Benedetta is the 100th data released on Original Server.
 - The name Brody has Jewish and British origin which meaning is still uncertain. Also, a Hungarian surname Bródy, means "from Bród", is associated with the Ukrainian city of Brody.
 - Brody's name in the game files is.
 - Brody was originally called "Protti".

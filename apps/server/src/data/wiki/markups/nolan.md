@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 He was released as part of [[Project NEXT 2023]] and [[MLBB 7th Anniversary|''MLBB'' 7th Anniversary]] and is the face [[Season 30|Season 30: Savior]].
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image          =<gallery>
 Nolan Savior sprite.png|Present
 Nolan Outlaw sprite.png|Undercover
@@ -162,7 +162,7 @@ Standing before the nameless grave, he reached out to the dawn and embraced it.
 |mana-cost       = 
 |energy-cost     = 
 |quote           = The father who swore to protect his shining star.
-|description     = Nolan's skills will leave a {{B|Rift|e}} that lasts 5 seconds and [[slows]] enemies by 30%. When a rift comes into contact with another rift, they will activate and [[pull]] enemies to their center and deal {{scale|base=220|extra-pa=140|pd}} after a short delay.<br>Each time a rift activation hits an enemy hero or [[Creep]], Nolan will gain 15 [[Energy]] and heals {{scale|base=150|extra-pa=120}} for himself. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced to 40%.<br>{{B|Cosmic Leap:|e}} If Nolan does not deal or take damage for 5 seconds, he enhances his next Basic Attack to [[dash]] to the target, dealing {{scale|total-pa=120|pd}} and leaving a rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
+|description     = Nolan's skills will leave a {{B|Rift|e}} that lasts 5 seconds and [[slows]] enemies by 30%. When a rift comes into contact with another rift, they will activate and [[pull]] enemies to their center and deal {{scale|base=220|extra-pa=140|pd}} after a short delay.<br>Each time a rift activation hits an enemy data or [[Creep]], Nolan will gain 15 [[Energy]] and heals {{scale|base=150|extra-pa=120}} for himself. If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced to 40%.<br>{{B|Cosmic Leap:|e}} If Nolan does not deal or take damage for 5 seconds, he enhances his next Basic Attack to [[dash]] to the target, dealing {{scale|total-pa=120|pd}} and leaving a rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
 |term-1          = Pull
 |term-2          = 
 |term-3          = 
@@ -235,7 +235,7 @@ Standing before the nameless grave, he reached out to the dawn and embraced it.
 |skill-effect-2 = 
 |cooldown       = 21.0 / 18.0 / 15.0
 |energy-cost    = 0
-|quote          = The hero that finally returned home.
+|quote          = The data that finally returned home.
 |description    = Nolan slashes the target location 3 times, {{scale|base=120-180|extra-pa=50|pd}} with each slash while leaving 3 {{B|Rifts|e}} and slowing the target hit by 30% for 0.5s. The rifts will be activated automatically while Nolan [[blink|dashes]] backwards.
 |properties     = *'''Base Damage:''' 120 / 150 / 180
 |calc           = 
@@ -274,7 +274,7 @@ Hero1223-color02-icon.png|Fashion Magnate
 
 ===Battle emotes===
 {{Emote|Nolan}}
-==="Super-Dad's Here!" hero series stickers===
+==="Super-Dad's Here!" data series stickers===
 <gallery bordercolor="transparent" captionalign="center" spacing="small" widths="128" hideaddbutton="true">
 Nolan_Come_On.png|Come On
 Nolan_Confusion.png|Confusion
@@ -301,7 +301,7 @@ Journey Home - NOLAN - New Hero Nolan's EP - Mobile Legends- Bang Bang
 *His weapon is modeled from the [https://dictionary.cambridge.org/us/dictionary/english/sextant sextant], which is used for navigation to measure the angular distances between objects.
 *With Nolan. the concept of multiverse was introduced in the lore of Mobile Legends. 
 *"Nolan" is a word of Irish origin, meaning '''"champion" or "noble".'''
-*With the introduction and creation of Nolan, each new hero introduced in the game afterwards will have its own theme background music that will play in the Main Interface.
+*With the introduction and creation of Nolan, each new data introduced in the game afterwards will have its own theme background music that will play in the Main Interface.
 *He was one of the heroes mentioned in the Lore before becoming introduced as a playable character later.
 **He was mentioned for 7 years as the unnamed father of Layla who died and later went missing until he was released for the [[Project NEXT 2023]] and [[MLBB 7th Anniversary|''MLBB'' 7th Anniversary]] events.
 *Nolan has the same name of his voice actor, Nolan North.

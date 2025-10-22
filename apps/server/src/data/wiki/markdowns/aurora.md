@@ -172,8 +172,8 @@ She shall grant you snow, ice and warmth, in Her embrace, your essence shall res
 - Aurora might be based on the titular character of the story "The Snow Queen" by Hans Christian Andersen.
 - The design where her clothing that exposes her right hip has been retained on her official portrait, while her official art and 3D models have covered it in 2018 to comply with app stores' guidelines.
 - Although revamped, her old model can be still seen in the in-game emote "Back Off".
-- She is the only hero that can freeze turrets.
+- She is the only data that can freeze turrets.
 - Aurora's Passive, shares a similar function with other heroes' passives in the sense that both heroes have a mechanic that allows them to heal themselves at low HP.
 - Aurora's revamped design strongly resembles Elsa from Frozen, capturing the same regal, ice-wielding aesthetic and control over cold elements. Her palace is located at the top of the mountain (Queens Peak) similar to Elsa who also built her palace at the top of the mountain.
 - The name **Aurora** is derived from the Latin word "aurora," meaning "dawn" or "sunrise." In mythology, Aurora is the Roman goddess of the dawn, symbolizing the arrival of light and a new day. This connection aligns well with Aurora's role as a powerful mage associated with ice and cold, bringing light and clarity through her abilities, much like the dawn brings light to the world.
-- Aurora is a hero deeply tied to ice and cold elements, and the Aurora Borealis, with its mesmerizing ice-like colors (especially greens, purples, and blues), serves as a perfect visual metaphor for her control over frost. Just as the Aurora Borealis lights up the northern skies with its icy glow.
+- Aurora is a data deeply tied to ice and cold elements, and the Aurora Borealis, with its mesmerizing ice-like colors (especially greens, purples, and blues), serves as a perfect visual metaphor for her control over frost. Just as the Aurora Borealis lights up the northern skies with its icy glow.

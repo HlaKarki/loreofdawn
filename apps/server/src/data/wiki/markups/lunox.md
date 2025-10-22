@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | full_name      =Lunox 
 | alias          = Twilight Goddess
 | born           =Unknown 
@@ -266,7 +266,7 @@ Hero Spotlight - Lunox - Twilight Goddess - Mobile Legends- Bang Bang
 == Trivia ==
 
 * Lunox' name is a [[Wp:Portmanteu|portmanteau]] of two Latin words ''lumos'' and ''nox'', respectively "light" and "dark" in English.
-* Her old hero title is named "the Enlightened One", in reference to the name of [[Wp:Gautama Buddha|Buddha]].
+* Her old data title is named "the Enlightened One", in reference to the name of [[Wp:Gautama Buddha|Buddha]].
 * She is the main protagonist of the '''Determination''' event along with [[Belerick]].
 * Lunox's Light and Darkness concept was reused for [[Luo Yi]].
 * Her complementary "Bloody Mary" skin, is a reference to Mary I of England, so called due to her execution of numerous Protestants during her 6-year reign. It is also the name of a popular drink.

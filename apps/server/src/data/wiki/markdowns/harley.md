@@ -167,7 +167,7 @@ Cooldown and Mana Cost scale by level (Cooldown: 8.5 / 8.1 / 7.7 / 7.3 / 6.9 / 6
 
 > "A single spark can start a praine fire"
 
-Harley casts a magic ring of fire at the target enemy hero (can be blocked by other heroes), dealing them 200-400 magic damage and slowing them by 40% for 1.5 seconds. The magic ring stays around the enemy for 4 seconds, during which Harley can hit the magic ring to damage the enemy with his skills. The magic ring will explode at the end of the duration, dealing 100-200 magic damage plus 50% of the enemy's damage taken within the duration as additional damage.
+Harley casts a magic ring of fire at the target enemy data (can be blocked by other heroes), dealing them 200-400 magic damage and slowing them by 40% for 1.5 seconds. The magic ring stays around the enemy for 4 seconds, during which Harley can hit the magic ring to damage the enemy with his skills. The magic ring will explode at the end of the duration, dealing 100-200 magic damage plus 50% of the enemy's damage taken within the duration as additional damage.
 
 - Base Damage: 200 / 300 / 400 (magic damage)
 - Extra Damage: 100 / 150 / 200 (magic damage)

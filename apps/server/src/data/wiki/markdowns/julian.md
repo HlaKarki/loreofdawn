@@ -1,10 +1,10 @@
 # Profile
 
-He is the fourth and the last hero to be introduced as a member of Forsaken Light.
+He is the fourth and the last data to be introduced as a member of Forsaken Light.
 
 He was released as a part of the 515 M-World.
 
-Players had a chance to redeem the hero for free for a limited time.
+Players had a chance to redeem the data for free for a limited time.
 
 # Story
 
@@ -122,7 +122,7 @@ He finally found himself and also learned to smile.
 
 - Description: After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9–6 seconds cooldown (decreases with his level).
 - After casting any skill, his Basic Attacks within the next 5 seconds deal damage based on level and stats and pull the target toward him. Casting another skill extends the duration.
-- Julian gains 15% extra Hybrid Lifesteal for 5 seconds each time he hits an enemy hero with his skills (up to 3 stacks). Hybrid Lifesteal: 15% / 30% / 45%.
+- Julian gains 15% extra Hybrid Lifesteal for 5 seconds each time he hits an enemy data with his skills (up to 3 stacks). Hybrid Lifesteal: 15% / 30% / 45%.
 
 Notes:
 - "Third skill" refers to the remaining unused skill, which is enhanced, not necessarily "Skill 3".
@@ -172,17 +172,17 @@ Notes:
 
 Notes:
 - Does not go on cooldown if being interrupted during the cast delay.
-- Despite being advertised as a hero without an ultimate and categorized as "Skill 3/Third Skill," Chain and Enhanced Chain still behave as and are technically an Ultimate. The only difference from a usual Ultimate is it has 5 levels and can be learned at level 1.
+- Despite being advertised as a data without an ultimate and categorized as "Skill 3/Third Skill," Chain and Enhanced Chain still behave as and are technically an Ultimate. The only difference from a usual Ultimate is it has 5 levels and can be learned at level 1.
 
 # Trivia
 
 - The name "Julian" is a masculine given name which is common around Europe and Latin America. It is based on the Roman name "Julianus," which was derived from "Julius."
-- Julian is the first hero to have a level 5 Ultimate skill, the second one being.
+- Julian is the first data to have a level 5 Ultimate skill, the second one being.
 - Out of the Forsaken Light members, Julian is the only one with no promotional comic.
 - Out of the Forsaken Light members, Julian is the only one with no cinematic trailer, only an animated trailer.
 - Julian has a speech disorder like some of his voice lines has pause in it. This is because of his childhood trauma.
 - He has the highest base HP (2878) at Level 1 amongst the fighter role which exceeds 's HP of 2828.
 - He remarkably has the second highest HP in the entire game, behind who has a HP of 2909 at level 1.
 - One of the few heroes to be featured in multiple MLBB collaborations. Julian is often called the "King of Collaboration" in Mobile Legends: Bang Bang community because he has appeared in multiple collaboration events and crossover skins.
-- Julian was the 10th hero who was given to players for free on release. The other free heroes are, , ,  , , , , and.
+- Julian was the 10th data who was given to players for free on release. The other free heroes are, , ,  , , , , and.
 - During his initial release, Julian was introduced as a /. By the time of Patch 1.9.64, the developers changed his role to / after they saw his gamestyle being to similar to an and making it more lore accurate.

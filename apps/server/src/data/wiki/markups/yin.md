@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{infobox hero}}
-Having possessed by Evil God '''Lieh''', he is the first hero be introduced as a member of [[Forsaken Light]].
+{{infobox data}}
+Having possessed by Evil God '''Lieh''', he is the first data be introduced as a member of [[Forsaken Light]].
 {{Hero stats|magic_def1=15|magic_def15=50}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = Yin comic.png
 | full_name      = 
 | chinese_name   = 寅 (yín) 
@@ -167,7 +167,7 @@ The young man left Floral Falls, ready to cross the vast and tumultuous sea. Bef
 |cooldown           = 14.0 / 13.2 / 12.4 / 11.6 / 10.8 / 10.0
 |mana-cost          = 
 |quote              = 
-|description        = Yin dashes forward, leaving <nowiki>[</nowiki>{{AVC1|Golden Rings}}<nowiki>]</nowiki> behind while dealing {{scale|base=75-150|extra-pa=35|pd}} to enemies along the way. He gains 30% extra {{b|Damage Reduction}} for 4 seconds if an enemy hero is hit.<br>After 1 second, [Golden Rings] will catch up with Yin, dealing {{scale|base=150-300|extra-pa=70|pd}} to enemies it passes through and {{AVC1|stunning|cc}} them for 1 second.
+|description        = Yin dashes forward, leaving <nowiki>[</nowiki>{{AVC1|Golden Rings}}<nowiki>]</nowiki> behind while dealing {{scale|base=75-150|extra-pa=35|pd}} to enemies along the way. He gains 30% extra {{b|Damage Reduction}} for 4 seconds if an enemy data is hit.<br>After 1 second, [Golden Rings] will catch up with Yin, dealing {{scale|base=150-300|extra-pa=70|pd}} to enemies it passes through and {{AVC1|stunning|cc}} them for 1 second.
 |ls-1               = Base Damage: 75 / 90 / 105 / 120 / 135 / 150
 |ls-2               = [Base] Extra Damage: 150 / 180 / 210 / 240 / 270 / 300
 |ls-3               = 
@@ -197,7 +197,7 @@ The young man left Floral Falls, ready to cross the vast and tumultuous sea. Bef
 |cooldown           = 14.0 / 13.2 / 12.4 / 11.6 / 10.8 / 10.0
 |mana-cost          = 
 |quote              = 
-|description        = Lieh strikes a flying kick forward, leaving a <nowiki>[</nowiki>{{AVC1|Golden Rings}}<nowiki>]</nowiki> behind while dealing {{scale|base=75-150|extra-pa=35|pd}} to enemies along the way. Enemies hit will also be {{b|knocked back|cc}} slightly. He gains 30% extra {{b|Damage Reduction}} for 4 seconds if an enemy hero is hit.<br>After 1 second, Golden Rings will catch up with Lieh, dealing {{scale|base=150-300|extra-pa=70|pd}} to enemies it passes through and {{AVC1|stunning|cc}} them for 1.25 seconds.
+|description        = Lieh strikes a flying kick forward, leaving a <nowiki>[</nowiki>{{AVC1|Golden Rings}}<nowiki>]</nowiki> behind while dealing {{scale|base=75-150|extra-pa=35|pd}} to enemies along the way. Enemies hit will also be {{b|knocked back|cc}} slightly. He gains 30% extra {{b|Damage Reduction}} for 4 seconds if an enemy data is hit.<br>After 1 second, Golden Rings will catch up with Lieh, dealing {{scale|base=150-300|extra-pa=70|pd}} to enemies it passes through and {{AVC1|stunning|cc}} them for 1.25 seconds.
 |ls-1               = Base Damage: 75 / 90 / 105 / 120 / 135 / 150
 |ls-2               = [Base] Extra Damage: 150 / 180 / 210 / 240 / 270 / 300
 |ls-3               = 
@@ -228,7 +228,7 @@ The young man left Floral Falls, ready to cross the vast and tumultuous sea. Bef
 |cooldown           = 60.0 / 55.0 / 50.0
 |mana-cost          = 
 |quote              = 
-|description        = After a short delay Yin {{b|pulls|cc}} an enemy (excluding {{b|pets and clones|summoned unit}}) into his domain for up to 8 seconds and turns into {{AVC1|Lieh|form}}. When in the domain, the two cannot be affected by other heroes' skills.<br><br>Lieh has stronger skills and gains 50-80 {{b|Physical}} & {{B|Magic Defense}} that lasts for 8 seconds.<br><br>The domain will end early if any of the two hero is killed. If Lieh successfully kills the enemy, he'll restore 20% {{b|Max HP}}, leave the domain with the {{b|cooldowns}} of {{ai|Frenzy Strike}} and {{ai|Instant Blast (Lieh)|Instant Blast}} reset, and continue to fight as Lieh for 8 seconds.<br>If Yin fails to pull his target into his domain, the skill will enter a 3 second cooldown.
+|description        = After a short delay Yin {{b|pulls|cc}} an enemy (excluding {{b|pets and clones|summoned unit}}) into his domain for up to 8 seconds and turns into {{AVC1|Lieh|form}}. When in the domain, the two cannot be affected by other heroes' skills.<br><br>Lieh has stronger skills and gains 50-80 {{b|Physical}} & {{B|Magic Defense}} that lasts for 8 seconds.<br><br>The domain will end early if any of the two data is killed. If Lieh successfully kills the enemy, he'll restore 20% {{b|Max HP}}, leave the domain with the {{b|cooldowns}} of {{ai|Frenzy Strike}} and {{ai|Instant Blast (Lieh)|Instant Blast}} reset, and continue to fight as Lieh for 8 seconds.<br>If Yin fails to pull his target into his domain, the skill will enter a 3 second cooldown.
 |ls-1               = Extra Defense: 50 / 65 / 80
 |ls-2               = 
 |ls-3               = 
@@ -439,7 +439,7 @@ The Knight- Belated Clash - Xavier Cinematic Trailer - Forsaken Light - Mobile L
 
 == Trivia ==
 * Yin's previous title was ''Kungfu Genius''. This was probably made to disambiguate him and {{hi|Chou}}, Kungfu Boy.
-* He is the first hero that have an official birthday date.
+* He is the first data that have an official birthday date.
 * Some fans are jokingly that Yin is based on [[w:c:jujutsu-kaisen:Yuji_Itadori|Yuji Itadori (虎杖悠仁)]] and Lieh as [[w:c:jujutsu-kaisen:Sukuna|Ryomen Sukuna (両面宿儺)]] of the Japanese manga series [[wikipedia:Jujutsu Kaisen|''Jujutsu Kaisen (呪術廻戦)'']]. The comparison was made because like Yin, Yuji was possessed by Cursed Spirit Sukuna, of whom he becomes the host.
 * Yin’s design is heavily influenced by traditional martial arts, particularly kung fu and Tai Chi. His robe and stance emphasize his discipline and calmness, reflecting his training and mastery over the Yin-Yang energy.
 

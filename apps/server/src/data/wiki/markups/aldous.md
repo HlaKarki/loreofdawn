@@ -1,9 +1,9 @@
 {{Hero navigation|Main}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Official chinese name}}
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 Aldous comic.jpg|Present
 Aldous old.jpg|Before the divine punishment
@@ -86,7 +86,7 @@ When Aldous awoke from his daze, he found his people's kingdom all gone and the 
 |cooldown           = 4.0 / 4.0 / 4.0 / 4.0 / 4.0 / 4.0
 |mana-cost          = 60 / 65 / 70 / 75 / 80 / 85
 |quote              = 
-|description        = Aldous unleashes his inner energy to enhance his next [[Basic Attack]] to kill enemies and absorb their soul each stack gives to deal {{b|Physical Damage}} equal to {{Scale|base=200-450|total-pa=100|pd}} plus 5 times the number of Soul Steal stacks.<br>If this attack kills an <nowiki>[</nowiki>[[Lord]]/[[Turtle]]/<nowiki>]</nowiki>enemy hero/[enemy turret/][[Siege Minion]]/other-non hero unit, Aldous will gain [12/12/10/10/10/4] stacks of {{b|Soul Steal|e}} (up to 650 stacks).<br>The enhanced Basic Attack deals 300% extra Base Damage to [[Minions]] and [[Creeps]]. Aldous gets extra 5/2 stack) when a nearby enemy Siege Minion/other non-hero unit dies.
+|description        = Aldous unleashes his inner energy to enhance his next [[Basic Attack]] to kill enemies and absorb their soul each stack gives to deal {{b|Physical Damage}} equal to {{Scale|base=200-450|total-pa=100|pd}} plus 5 times the number of Soul Steal stacks.<br>If this attack kills an <nowiki>[</nowiki>[[Lord]]/[[Turtle]]/<nowiki>]</nowiki>enemy data/[enemy turret/][[Siege Minion]]/other-non data unit, Aldous will gain [12/12/10/10/10/4] stacks of {{b|Soul Steal|e}} (up to 650 stacks).<br>The enhanced Basic Attack deals 300% extra Base Damage to [[Minions]] and [[Creeps]]. Aldous gets extra 5/2 stack) when a nearby enemy Siege Minion/other non-data unit dies.
 |ls-1               = Base Damage: 200 / 250 / 300 / 350 / 400 / 450
 |ls-2               = 
 |ls-3               = 
@@ -149,7 +149,7 @@ When Aldous awoke from his daze, he found his people's kingdom all gone and the 
 |cooldown           = 60.0 / 55.0 / 50.0
 |mana-cost          = 150 / 200 / 250
 |quote              = 
-|description        = Aldous gains [[vision]] of all enemy heroes for 5 seconds. During this time, if Aldous uses this skill again, he can [[dash]] toward an enemy hero [of choice]. When Aldous hits that enemy hero, he will deal {{scale|base=400-750|total-hp=target's 8|pd}} and [[knocked back|knock back]] the target for 1 second. (Aldous can interrupt target's {{ai|Recall}} [and {{ai|Arrival}}] during the dash.)<br>[Use this skill once again to cancel the dash, and will [[blink]] to the designated direction instead.]
+|description        = Aldous gains [[vision]] of all enemy heroes for 5 seconds. During this time, if Aldous uses this skill again, he can [[dash]] toward an enemy data [of choice]. When Aldous hits that enemy data, he will deal {{scale|base=400-750|total-hp=target's 8|pd}} and [[knocked back|knock back]] the target for 1 second. (Aldous can interrupt target's {{ai|Recall}} [and {{ai|Arrival}}] during the dash.)<br>[Use this skill once again to cancel the dash, and will [[blink]] to the designated direction instead.]
 |ls-1               = Base Damage: 250 / 325 / 400
 |ls-2               = 
 |ls-3               = 
@@ -212,7 +212,7 @@ Aldous New Skin King of Supremacy Mobile Legends Bang Bang
 == Trivia ==
 *The name Aldous is a boy's name of English origin meaning "old." Aldous has long been associated with British writer Huxley, author of Brave New World.
 *His voice line "Abandon hope, all ye who enter here." is a direct reference to Dante's quote in [https://en.wikipedia.org/wiki/Inferno_%28Dante%29?wprov=sfla1 Inferno].
-*While still in development Aldous' first given name and hero title was Armstrong, Gravekeeper. It was later changed to Aulrad, Contractor. However, in [[Patch Notes 1.2.78|Patch 1.2.78]], his name was changed again to Aldous.
+*While still in development Aldous' first given name and data title was Armstrong, Gravekeeper. It was later changed to Aulrad, Contractor. However, in [[Patch Notes 1.2.78|Patch 1.2.78]], his name was changed again to Aldous.
 *Aldous "Red Mantle" refers to his former appearance without his damaged body.
 *Aldous is the sole survivor of the divine punishment that devastated the Agelta Drylands. He was blessed by the Twilight Orb, which not only saved his life but also granted him immense power, granting him strength nearly equal to that of Gods or Supreme beings.
 *Aldous is one of only two heroes capable of harnessing the power of the Twilight Orb, the other being is {{hi|Lunox}}.

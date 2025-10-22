@@ -2,7 +2,7 @@
 
 A fighter that deals magic damage, she is the leader of the Lightborn Chevaliers, and she was released as a part of the Lightborn-related events.
 
-Players had a chance to redeem the hero for free for a limited time.
+Players had a chance to redeem the data for free for a limited time.
 
 - Name: Silvanna
 - Role: Magic fighter (fighter that deals magic damage)
@@ -105,7 +105,7 @@ Notes:
 
 Description:
 
-Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing magic damage based on skill level to enemies in the area, slowing them by 40% for 1.5 seconds, and restraining the closest enemy hero to the area for 3.5 seconds. This skill cannot be interrupted. While inside the Circle of Light, Silvanna gains 100% extra Attack Speed and 40% extra Lifesteal.
+Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing magic damage based on skill level to enemies in the area, slowing them by 40% for 1.5 seconds, and restraining the closest enemy data to the area for 3.5 seconds. This skill cannot be interrupted. While inside the Circle of Light, Silvanna gains 100% extra Attack Speed and 40% extra Lifesteal.
 
 Base Damage: 350 / 500 / 650
 
@@ -117,8 +117,8 @@ Bugs:
 
 - The name Silvanna is a variation of the feminine Silvana or Sylvana, meaning the "one who lives in the forest" in Latin.
 - Alternatively, Silvana is also an italian female name as a feminine counterpart to Silvano an italian male name.
-- Silvanna is only hero capable of inflicting the Restrain status.
-- Silvanna is the first hero to have a skin based a player's Credit Score.
+- Silvanna is only data capable of inflicting the Restrain status.
+- Silvanna is the first data to have a skin based a player's Credit Score.
 - In her early development, Silvanna was meant to be a tank-fighter mix, but developers decided to focus more on her magic fighter identity instead.
 - Silvanna’s armor and lance weapon resemble European medieval knights, blending holy warrior aesthetics with magic power. Her design is inspired by medieval knight culture.
 - Her in-game quotes "Moniyan warriors, show your teeth" is an idiomatic expression meaning show your strength, or readiness to fight. (like an animal baring its teeth). The phrase is British English usually use in Europe as Moniyan Empire is based in Europe.

@@ -1,8 +1,8 @@
-{{Tabs hero|Main}}
-{{Infobox hero}}
+{{Tabs data|Main}}
+{{Infobox data}}
 {{Hero stats|atk_spd1=1.2|atk_spd15=1.48}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image          =<gallery>
 Zilong comic (2017–2020).jpg|2017–2020 design
 Ling and Zilong child.jpg|Child (pictured right)

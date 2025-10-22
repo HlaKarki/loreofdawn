@@ -139,7 +139,7 @@ Notes:
 
 ## Crossbow of Tang
 
-Wanwan leaps into the air and fires arrows at the target enemy hero for 2.5 seconds in rapid succession, dealing physical damage based on level and stats per arrow. If the target is killed during this attack, Wanwan will switch to another enemy hero in her attack range, gain 30% Attack Speed, and extend the skill duration by 1 second (this effect can trigger up to 3 times). Wanwan is untargetable and invincible for the duration and can trigger Tiger Pace upon killing an enemy and at the end of the duration. Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. The firing rate scales with Wanwan's Attack Speed.
+Wanwan leaps into the air and fires arrows at the target enemy data for 2.5 seconds in rapid succession, dealing physical damage based on level and stats per arrow. If the target is killed during this attack, Wanwan will switch to another enemy data in her attack range, gain 30% Attack Speed, and extend the skill duration by 1 second (this effect can trigger up to 3 times). Wanwan is untargetable and invincible for the duration and can trigger Tiger Pace upon killing an enemy and at the end of the duration. Crossbow of Tang can only be cast on enemy heroes with all their weaknesses hit and Wanwan gains 100% Movement Speed during the duration. The firing rate scales with Wanwan's Attack Speed.
 
 - Base Damage per arrow by ultimate level: 60 / 75 / 90.
 

@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Official chinese name}}
-{{Infobox hero story
+{{Infobox data story
 |image =thamuz comic 2.png
 | full_name      = 
 | chinese_name   = 炎煞 (yánshā, "Flaming Demon"<ref>炎 (yán) meaning "Flaming, Blazing, Burning Red, Scorching"<br>煞 (shā) meaning "Evil Spirit, Demon"</ref>)
@@ -77,7 +77,7 @@ With the gates to the Abyss about to open, legions of demons eagerly await Thamu
 |skill-effect-1 = AOE
 |skill-effect-2 = Slow
 |cooldown       = 3.0
-|description    = Thamuz tosses {{Link|Scythes}} in the target direction. After travelling for a certain distance or hitting the first enemy hero, they deal {{Scale|base=120-270|total-pa=60|pd}}. The Scythes will then [[slow]] nearby enemies by 30% and deal {{Scale|base=45-80|extra-pa=20|pd}} every 0.5 seconds. <br> After leaving Thamuz for [&approx;5 seconds] or a certain distance, the Scythes will return to Thamuz and [[Displacement|drag]] enemies in their path to him. Thamuz can approach the Scythes or cast the skill again to retrieve them.
+|description    = Thamuz tosses {{Link|Scythes}} in the target direction. After travelling for a certain distance or hitting the first enemy data, they deal {{Scale|base=120-270|total-pa=60|pd}}. The Scythes will then [[slow]] nearby enemies by 30% and deal {{Scale|base=45-80|extra-pa=20|pd}} every 0.5 seconds. <br> After leaving Thamuz for [&approx;5 seconds] or a certain distance, the Scythes will return to Thamuz and [[Displacement|drag]] enemies in their path to him. Thamuz can approach the Scythes or cast the skill again to retrieve them.
 |level-scaling           = Base Damage: 120/ 150 / 180 / 210 / 240 / 270
 Sustained Damage: 45 / 52 / 59 / 66 / 73 / 80
 |term-1         = Physical Damage Skill
@@ -202,14 +202,14 @@ Lava_Lord_Rises_-_New_Hero_-_Thamuz_Trailer_-_Mobile_Legends-_Bang_Bang!
 
 === Miscellaneous ===
 
-* Thamuz's original hero showcase video on the official YouTube channel had an abrupt change in thumbnail design.{{cite}}
+* Thamuz's original data showcase video on the official YouTube channel had an abrupt change in thumbnail design.{{cite}}
 * Thamuz had four different walking animations for his Scytheless form throughout his development.
 ** In the advanced server prior to his release, Thamuz used to run on all fours without his scythes.
 ** On release, he instead walked on his hind legs, slightly leaned in with his arms stretched outward.
 ** On his soft rework on [[Patch Notes 1.6.84|Patch 1.6.84]] on May 24, 2022, his posture was changed to be straighter and started to jog, more akin to how a human person would run.{{cite}}
 ** However, this change would soon be rolled back to the previous version an unknown amount of updates later.
 ** On his revamp on September 17, 2025, he was given a new scytheless animation, similar to his removed one on [[Patch Notes 1.6.84|Patch 1.6.84]].
-* Thamuz was the first hero introduced from the Abyss faction, predating heroes like [[Alice]], [[Dyrroth]], and [[Selena]] in the lore.
+* Thamuz was the first data introduced from the Abyss faction, predating heroes like [[Alice]], [[Dyrroth]], and [[Selena]] in the lore.
 *His passive Grand Lord Lava was one of the first abilities in the game to consistently deal true damage based on enemies' HP.
 *Some players compare his look to '''Balrog from Lord of the Rings''' or '''Ifrit from Final Fantasy'''.
 *His weapons, Molten Scythes, return to him on their own, similar to boomerangs.

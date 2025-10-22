@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero|durability=|offense=|skill_effects=ashura|difficulty=}}
+{{Tabs data}}
+{{Infobox data|durability=|offense=|skill_effects=ashura|difficulty=}}
 {{Hero stats}}
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits, Official chinese name}}
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = Martis Shura
 | chinese_name   = 阿修罗 (āxiūluó, "Asura<ref>阿修罗 (āxiūluó) is the chinese translation or name of "Asura"</ref>")
@@ -148,7 +148,7 @@ No one knows how many years passed before Martis reached the final secret world,
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Martis lunges at a designated enemy hero, dealing {{scale|base=800-1000|extra-pa=100|pd}} (deals True Damage if the enemy's HP is below 50%). <br> If the enemy is killed by this skill, Martis can cast the skill again within 10 seconds and gains 100% extra Movement Speed that gradually decays over 5 seconds. Each successive cast also increases the skill's damage by 15% (up to 30%).
+|description    = Martis lunges at a designated enemy data, dealing {{scale|base=800-1000|extra-pa=100|pd}} (deals True Damage if the enemy's HP is below 50%). <br> If the enemy is killed by this skill, Martis can cast the skill again within 10 seconds and gains 100% extra Movement Speed that gradually decays over 5 seconds. Each successive cast also increases the skill's damage by 15% (up to 30%).
 |properties     = *'''Base Damage:''' 800 / 900 / 1000
 |calc           = 
 |term-1         = Current HP
@@ -202,7 +202,7 @@ Battle Emote - Tch.png|'''Tch.'''<br>Obtain via the [[MLBB × Attack on Titan]] 
 * Martis' Quote "3000 worlds and not a single worthy foe" was a bluff, he was actually defeated several times and was even put in despair
 * The term "3000 Worlds" is a hyperbolic reference to the 3000 Trials, where individuals must face and clear each trial (World/Level). Those who successfully complete 300 of these levels are considered to be at the level of a Demi-God in the eyes of the Asura Clan.
 * After completing the 3000 Trials, Martis encountered the Demi-God Gatotkaca, and a fierce battle ensued. Both were equally matched in strength, and their fight alone created an entrance to the Timerift After the 3000 Trials, Martis met a Demi-God Gatotkaca and fought, both were equal in strength and their fight alone opened an entrance to the timerift.
-* Martis is canonically one of the most powerful hero in MLBB. Gatotkaca being his only equal and to stop the Ashura wrath.<br />
+* Martis is canonically one of the most powerful data in MLBB. Gatotkaca being his only equal and to stop the Ashura wrath.<br />
 ==References==
 {{reflist}}
 ==Navigation==

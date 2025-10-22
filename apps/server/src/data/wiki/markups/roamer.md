@@ -38,7 +38,7 @@
 </center>
 
 == Meta Roamers ==
-It is recommended that you practice each roam hero at least once, so that you know enemy skill types, cooldowns, and learn matchups and recommended skill builds for different heroes. A Roamer will determine the initiations and pick offs that can change the tables in a match.
+It is recommended that you practice each roam data at least once, so that you know enemy skill types, cooldowns, and learn matchups and recommended skill builds for different heroes. A Roamer will determine the initiations and pick offs that can change the tables in a match.
 
 These heroes are currently meta and will dominate (most of the time as shown in tournaments) if you mastered them (In no particular order): {{Hero-box-xs|name=Chou}}{{Hero-box-xs|name=Mathilda}}{{Hero-box-xs|name=Gatotkaca}}{{Hero-box-xs|name=Kalea}}{{Hero-box-xs|name=Badang}}{{Hero-box-xs|name=Hylos}}
 

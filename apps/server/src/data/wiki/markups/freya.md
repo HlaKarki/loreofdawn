@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | image          =
 <gallery>
 Freya_(2020-present).png|2020&ndash;present design
@@ -204,7 +204,7 @@ Hero102210-icon.png|Galatic Vanquisher
 *Freya is based on the goddess [[WP:Freyja|Freyja]], a goddess in Norse mythology. She is associated with love, beauty, fertility, sex, war, death, and magic.
 *Freya's appearance in lore is based on a [https://en.wikipedia.org/wiki/Valkyrie Valkyrie]. Valkyries are female figures who guide souls the of the dead to the god [https://en.wikipedia.org/wiki/Odin Odin's] hall [https://en.wikipedia.org/wiki/Valhalla Valhalla].
 
-*The first-generation Freya is a pay-to-win hero. Additionally, Freya is one of the two heroes (Including [[Odette]]) that cannot be bought by {{BP Cost|Battle Points}}. However, Odette used to be bought by {{BP Cost|Battle Points}} back then when she was released in 2017. Freya only stayed purchasable with {{Diamond Cost|Diamonds}} up until now. The reason for this is still unknown.  
+*The first-generation Freya is a pay-to-win data. Additionally, Freya is one of the two heroes (Including [[Odette]]) that cannot be bought by {{BP Cost|Battle Points}}. However, Odette used to be bought by {{BP Cost|Battle Points}} back then when she was released in 2017. Freya only stayed purchasable with {{Diamond Cost|Diamonds}} up until now. The reason for this is still unknown.  
 *Freya English voice actress also voiced some of the Battlefield Quick Chats.{{cite}}
 
 ==References==

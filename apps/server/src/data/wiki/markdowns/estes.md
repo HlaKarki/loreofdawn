@@ -43,7 +43,7 @@ Cooldown: 11.0 / 10.2 / 9.4 / 8.6 / 7.8 / 7.0 seconds (enhanced cooldowns and ef
 
 Mana cost: 110 / 130 / 150 / 170 / 190 / 210
 
-Estes restores healing to the target hero immediately and links himself with them for 3 seconds, slowly restoring healing based on level and stats to the target. Linking with an allied hero will also increase Estes' Hybrid Defense by 20–45 and Movement Speed by 15%, as well as the energy charging speed of the Scripture of the Moon Elf. Being too far from the target will break the link.
+Estes restores healing to the target data immediately and links himself with them for 3 seconds, slowly restoring healing based on level and stats to the target. Linking with an allied data will also increase Estes' Hybrid Defense by 20–45 and Movement Speed by 15%, as well as the energy charging speed of the Scripture of the Moon Elf. Being too far from the target will break the link.
 
 Properties:
 - Basic Healing: 250 / 265 / 280 / 295 / 310 / 325
@@ -80,7 +80,7 @@ Properties:
 - HP Regen: 1230 / 1350 / 1470
 
 Notes:
-- Estes restores healing to the target hero immediately, and links himself with them for 3 seconds, slowly restoring healing to the target for 15 times (see Enhanced Skill 1 notes). The amount of heal is based on Moonlight Immersion's level.
+- Estes restores healing to the target data immediately, and links himself with them for 3 seconds, slowly restoring healing to the target for 15 times (see Enhanced Skill 1 notes). The amount of heal is based on Moonlight Immersion's level.
 - The Ultimate skill can still activate Moonlight Immersion even if Skill 1 has yet to be learned and it heals the same as the Level 1 Moonlight Immersion.
 - The Basic Healing applied to Estes himself is still based off of the Ultimate level.
 

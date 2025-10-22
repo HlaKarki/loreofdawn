@@ -42,7 +42,7 @@ When Aldous awoke from his daze, he found his people's kingdom all gone and the 
 - Base damage: 200 to 450 depending on skill level. Ability also scales with total physical attack.
 - Extra physical damage: 5 times the number of Soul Steal stacks.
 - Effect: Aldous unleashes his inner energy to enhance his next Basic Attack. The enhanced Basic Attack deals base damage plus extra damage equal to 5 times the number of Soul Steal stacks.
-- Stack gain: If the enhanced Basic Attack kills major objectives, enemy heroes, turrets, siege minions, or other non-hero units, Aldous gains stacks (stack values scale with skill level), up to a stated cap of 650 stacks. Enhanced Basic Attack deals 300% extra base damage to minions and creeps. Aldous gains additional stacks when nearby non-hero units die.
+- Stack gain: If the enhanced Basic Attack kills major objectives, enemy heroes, turrets, siege minions, or other non-data units, Aldous gains stacks (stack values scale with skill level), up to a stated cap of 650 stacks. Enhanced Basic Attack deals 300% extra base damage to minions and creeps. Aldous gains additional stacks when nearby non-data units die.
 - Duration and usage: The enhanced Basic Attack lasts for 5 seconds or until consumed. Cooldown starts upon casting the skill, but the skill cannot be used again until the enhanced Basic Attack is consumed or expires. When attacking with the enhanced Basic Attack, Aldous charges toward the target. The enhanced Basic Attack's base damage and extra damage do not critically strike.
 - Notes: Gains stacks from dying enemies when those enemies are eligible to grant stacks.
 
@@ -56,7 +56,7 @@ When Aldous awoke from his daze, he found his people's kingdom all gone and the 
 ## Contract: Chase Fate
 
 - Type: Blink / Physical Damage Skill
-- Effect: Aldous gains vision of all enemy heroes for 5 seconds. During this time, if Aldous uses the skill again, he can dash toward a chosen enemy hero. Upon hitting the target, he deals damage and knocks the target back for 1 second.
+- Effect: Aldous gains vision of all enemy heroes for 5 seconds. During this time, if Aldous uses the skill again, he can dash toward a chosen enemy data. Upon hitting the target, he deals damage and knocks the target back for 1 second.
 - Damage: Base damage values vary by skill level (example base damage values: 250, 325, 400 depending on level).
 - Usage notes: The dash can be canceled by using the skill a second time to blink to a designated direction instead of locking onto a target. The dash can interrupt certain channeling skills, and with perfect timing some interruptions are possible. The dash can only be interrupted by suppression effects. Aldous can use items and battle spells during this skill. Inside certain domains or zones that restrict target selection or movement, the dash may be canceled or unable to lock onto enemies outside the domain.
 
@@ -64,7 +64,7 @@ When Aldous awoke from his daze, he found his people's kingdom all gone and the 
 
 - The name Aldous is a boy's name of English origin meaning "old." Aldous has long been associated with British writer Huxley, author of Brave New World.
 - His voice line "Abandon hope, all ye who enter here." is a direct reference to Dante's quote in Inferno.
-- While still in development Aldous' first given name and hero title was Armstrong, Gravekeeper. It was later changed to Aulrad, Contractor. However, in Patch 1.2.78, his name was changed again to Aldous.
+- While still in development Aldous' first given name and data title was Armstrong, Gravekeeper. It was later changed to Aulrad, Contractor. However, in Patch 1.2.78, his name was changed again to Aldous.
 - Aldous "Red Mantle" refers to his former appearance without his damaged body.
 - Aldous is the sole survivor of the divine punishment that devastated the Agelta Drylands. He was blessed by the Twilight Orb, which not only saved his life but also granted him immense power, granting him strength nearly equal to that of gods or supreme beings.
 - Aldous is one of only two heroes capable of harnessing the power of the Twilight Orb.

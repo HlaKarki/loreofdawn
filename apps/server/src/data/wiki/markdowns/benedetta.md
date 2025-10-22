@@ -17,7 +17,7 @@
 
 # Story
 
-> "The bio of Benedetta, the 100th hero who is known as "Shadow Ranger" is unveiled for the first time. Under the Rantha Mountains, her "Alecto" symbolizes both honor and vengeance."
+> "The bio of Benedetta, the 100th data who is known as "Shadow Ranger" is unveiled for the first time. Under the Rantha Mountains, her "Alecto" symbolizes both honor and vengeance."
 
 After the Abyss returned, our land becomes plagued and the entire southern part of the Land of Dawn turns into a barren place. Though the high Rantha Mountains blocks the corruption of the Abyss, Mother Nature in the southern realm continues to wither away. This once prosperous land is now nothing but a silent place filled with death, and people call it the “Despair Place”. The only passage that connects the Moniyan Empire is broken, separating the trapped refugees and the exiled wanderers from the rest of the world. They now live in fear and despair, haunted by monsters, yet still struggling to survive.
 
@@ -134,11 +134,11 @@ Notes:
 
 # Trivia
 
-- Benedetta is the 100th hero in the game according to the chronological release order on the Original Server. Brody is the 100th hero released on the Advanced Server.
+- Benedetta is the 100th data in the game according to the chronological release order on the Original Server. Brody is the 100th data released on the Advanced Server.
 - The name Benedetta originates from Italian and derives from the Latin word *benedictus*, which means blessed. It is the feminine form of the name "Benedetto", a cognate of "Benedict".
 - Benedetta’s weapon is called **Alecto**, which is one of the Furies (vengeful spirits) from Greek mythology.
 - Alecto: Final Blow is one of the longest dashes in MLBB, covering a huge distance while dealing continuous damage.
-- Benedetta is the only hero with all blink skills, even her passive is a blink dash. Most heroes stand still while attacking, but Benedetta can move while charging her passive attack, making her combat style very fluid.
+- Benedetta is the only data with all blink skills, even her passive is a blink dash. Most heroes stand still while attacking, but Benedetta can move while charging her passive attack, making her combat style very fluid.
 - She was named "Bella" during her early development stage.
 - Benedetta is one of the few heroes in Mobile Legends: Bang Bang with a special attack icon, thanks to her Sword Intent charging mechanic. The symbol within the attack icon resembles a sword’s arc, indicating her wide-area slash when the attack is executed.
 - The default attack icon starts off blue, matching Benedetta’s shadowy, assassin theme. As her Sword Intent reaches full charge, the icon turns red, symbolizing her readiness to strike.

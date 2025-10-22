@@ -1,8 +1,8 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Hero info}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = 
 | full_name      = 
 | alias          = Onmyouji Master
@@ -122,7 +122,7 @@ The mortal realm was rich with splendor, and there was always someone waiting fo
 |mana-cost      = 50 / 56 / 62 / 68 / 74 / 80
 |energy-cost    = 
 |quote          = 
-|description    = Kagura sends the {{Link|Seimei Umbrella}} to the target location, dealing {{scale|base=315-590|total-mp=105|md}} to enemies in its path and [[slowing]] them by 60% for 0.5 second. The Umbrella will automatically return to Kagura when she's too far away. <br> This skill deals 130% damage to non-hero enemies.
+|description    = Kagura sends the {{Link|Seimei Umbrella}} to the target location, dealing {{scale|base=315-590|total-mp=105|md}} to enemies in its path and [[slowing]] them by 60% for 0.5 second. The Umbrella will automatically return to Kagura when she's too far away. <br> This skill deals 130% damage to non-data enemies.
 |ls-1           = Base Damage: 315 / 370 / 425 / 480 / 535 / 590
 |ls-2           = 
 |ls-3           = 
@@ -334,11 +334,11 @@ Battle Emote - It'll all be fine.png|'''It'll all be fine'''<br>Obtained via the
 -->
 == Trivia ==
 
-* Kagura is the first hero to use the concept of yin and yang.
+* Kagura is the first data to use the concept of yin and yang.
 * In the context of Kagura's name, it represents '''"divine music"''' or '''"sacred dance"'''. This is fitting for her character, as she wields the Seimei Umbrella, a magical artifact tied to '''spiritual power''' and '''rituals'''.
 * '''Cultural Significance''': Kagura (神楽) refers to traditional Shinto '''ritual dances''' performed to '''honor gods''' and '''invoke blessings'''. These dances are highly symbolic and were believed to invite spiritual energy. This concept mirrors Kagura's role as a '''guardian of the Seimei Shrine''', where her actions and abilities also invoke spiritual forces.
 * Kagura’s visual design is inspired by '''traditional Japanese clothing''', with her '''kimono-style robe''' and '''elegant, mystical aura''' fitting the theme of a guardian priestess. Her design incorporates traditional elements while highlighting her magical nature.
-* Kagura is the only hero in Mobile Legends whose primary weapon is an umbrella, specifically the Seimei Umbrella.
+* Kagura is the only data in Mobile Legends whose primary weapon is an umbrella, specifically the Seimei Umbrella.
 * She's one of the heroes to speak Japanese voicelines along with heroes from Scarlet Shadow. 
 * Her voiceline: {{aq|kagura.revamp.move14.ogg|"The umbrella is yang, the human is yin."}} is indeed a tip to master {{hi|Kagura}}. When the umbrella returns to her, it stuns enemies around by triggering {{ai|Yin Yang Overturn}} like Yin and Yang reunite.
 ** Her abilities without the umbrella (yang) on hand is mainly offensive, while her abilities with the umbrella on hand (yin) is defensive (purify, dash, knockback).

@@ -108,7 +108,7 @@ As the "Ave Maria" reached its finale, the demon hunter's death sonata was about
 
 ## Capriccio
 
-Granger's unique Demon Hunting and  are powered by Demonic Energy. Both his weapons have a staring Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Each Minion / Creep kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 / 6, and instantly restore their Energy by 5% / 5%, respectively. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy. Every 1% CD Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy Cost is not affected by Energy Cost Reductions.
+Granger's unique Demon Hunting and  are powered by Demonic Energy. Both his weapons have a staring Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second. Each Minion / Creep kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 / 6, and instantly restore their Energy by 5% / 5%, respectively. Every kill or assist on an enemy data will permanently increase their Energy cap by 12 and instantly restore 10% Energy. Every 1% CD Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy Cost is not affected by Energy Cost Reductions.
 
 Notes:
 - Demonic Energy Cost is technically not an energy as it is not affected by Energy Cost Reductions from the purple buff and the energy is omitted on his stats as seen on Granger's Story Page in-game.
@@ -133,7 +133,7 @@ Level scaling:
 
 ## Death Sonata
 
-Granger fires his Cannon in the target direction, dealing damage to the first enemy hero hit and other targets in the blast radius. Targets hit will be slowed and revealed for a brief duration. Granger can roll in the Joystick's direction after each shot. Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot.
+Granger fires his Cannon in the target direction, dealing damage to the first enemy data hit and other targets in the blast radius. Targets hit will be slowed and revealed for a brief duration. Granger can roll in the Joystick's direction after each shot. Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown and consumes 250 of Granger's Cannon Energy per shot.
 
 Level scaling:
 - Cannon Energy Cost: 250
@@ -144,7 +144,7 @@ Notes:
 
 # Trivia
 
-- **Granger** originally meant "farm steward", and it also sounds like "Ranger", which fits his lone-wolf, sharpshooter personality. His name could be inspired by The Gunslinger (Stephen King’s Dark Tower series), which features a similar gun-wielding anti-hero.
+- **Granger** originally meant "farm steward", and it also sounds like "Ranger", which fits his lone-wolf, sharpshooter personality. His name could be inspired by The Gunslinger (Stephen King’s Dark Tower series), which features a similar gun-wielding anti-data.
 - Granger was the first marksman that does not require mana nor energy. However, his abilities now cost energy after his revamp except for Skill 2.
 - Granger is the first marksman without basic attack crits. His internal game file name is Mike. He has the roots of French and Italian. His gun name is Dirge and his cannon name is Requiem. His Ultimate (Death Sonata) is named after a classical music piece, matching his violinist background.
 

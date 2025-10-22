@@ -1,10 +1,10 @@
 {{Hero navigation}}
-{{Infobox hero}}
-She is the second hero to be introduced as a member of [[Forsaken Light]].
+{{Infobox data}}
+She is the second data to be introduced as a member of [[Forsaken Light]].
 {{Hero stats}}
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |image=Melissa comic.png
 | full_name      = 
 | chinese_name   = 梅丽莎 (Méilìshā)
@@ -310,7 +310,7 @@ The Awakening- Truth - Julian Animated Trailer - Forsaken Light - Mobile Legends
 * Melissa's skill descriptions are written on Melissa's first-person view with her character present.
 * Her concept revolves around cursed dolls and dark magic, giving her a unique identity among MLBB heroes. The voodoo theme is reflected in her skill set, where she controls "Muddles," a cursed doll that attacks enemies. Melissa is the first Marksman in the game to use a needle and voodoo doll as part of her attack kit.
 * Melissa from ''Mobile Legends: Bang Bang'' shares '''striking similarities''' with [https://jujutsu-kaisen.fandom.com/wiki/Nobara_Kugisaki Nobara Kugisaki] from ''[https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen Jujutsu Kaisen]'', both in '''design and personality'''. While not officially confirmed, it’s highly likely that Nobara served as a major inspiration for Melissa. This shared '''voodoo-style''' magic suggests that Melissa’s gameplay mechanics were inspired by Nobara’s abilities.
-* Melissa is the first hero in the game to have three companions in-game at the same time! Her three companions are Muddles, Cuddles, and Giggles although Muddles is the only companion that actively fights with her, functioning as a cursed link mechanic.
+* Melissa is the first data in the game to have three companions in-game at the same time! Her three companions are Muddles, Cuddles, and Giggles although Muddles is the only companion that actively fights with her, functioning as a cursed link mechanic.
 * Melissa is one of the few Marksmen with a strong self-peel ability aside from a dash, thanks to her ultimate ''(Go Away!)'', which allows her to counter melee heroes like assassins and fighters.
 
 == References ==

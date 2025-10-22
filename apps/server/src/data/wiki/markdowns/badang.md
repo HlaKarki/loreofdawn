@@ -29,7 +29,7 @@ After that, he blessed Badang with a stream of powerful energy and not only was 
 
 # Story
 
-> "Island hero who gained supernatural power after defeating the water monster."
+> "Island data who gained supernatural power after defeating the water monster."
 
 Born in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.
 
@@ -70,7 +70,7 @@ Badang unleashes a gust in the target direction, dealing physical damage to enem
 
 ## Fist Break
 
-Badang dashes in the target direction, dealing physical damage to enemies in his path while gaining a shield that lasts 5 seconds. He stops immediately upon hitting an enemy hero, slightly knocks them back while creating an obstacle that lasts 4 seconds behind them. Enemies hit by the obstacle are dealt explosion damage. Use Again: Badang removes the obstacle he created.
+Badang dashes in the target direction, dealing physical damage to enemies in his path while gaining a shield that lasts 5 seconds. He stops immediately upon hitting an enemy data, slightly knocks them back while creating an obstacle that lasts 4 seconds behind them. Enemies hit by the obstacle are dealt explosion damage. Use Again: Badang removes the obstacle he created.
 
 - Properties:
   - Base Shield by level: 350 / 400 / 450 / 500 / 550 / 600

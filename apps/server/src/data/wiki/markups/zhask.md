@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image= Zhask comic.jpg
 | full_name      = Zhask
 | alias          = *King of Swarms (Currently)
@@ -242,11 +242,11 @@ Mobile Legends Bang Bang! You have Nowhere to Run!
 </gallery>
 
 ==Trivia==
-*He is the first hero to have more than 3 abilities in a singular form, with 4 abilities.
+*He is the first data to have more than 3 abilities in a singular form, with 4 abilities.
 *He's also one of the heroes that can summon a unit called the "Nightmaric Spawn".
 **His summoning skill is not counted as the correct answer in [[MLBB Quiz]], which the question says: "Which of the following heroes can summon allies to fight with them?".
 *Like other heroes' spawns that have their own name, Zhask's nightmaric spawn is named "Domorey", the insect spirit; which is named by the Kastiyan language.
-**Due to Domorey's power which can be said to be equivalent to the power of a hero, Zhask is known as "the hero with the power of two heroes".
+**Due to Domorey's power which can be said to be equivalent to the power of a data, Zhask is known as "the data with the power of two heroes".
 *Two of Zhask's old quotes: "''Arkarmasan... Burrsossii!...''" and "''Ssh...shalosha....arraghh...''" are spoken on Kastiyan. This is the first language to be originally created by the game.
 *His Epic skin (Bone Flamen) is named after [[wikipedia:Religion in ancient Rome|ancient Roman religion]], where a [[wikipedia:Flamen|flamen]] was a priest assigned to one of fifteen deities with official cults during the Roman Republic; the meaning of the skin's name then is "Priest of the Bone".
 

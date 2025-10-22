@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats|magic_def1=15|magic_def15=71|physical_def1=19|physical_def15=122}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image          = <gallery>
 Terizla comic.jpg|Present
 Terizla comic (past).jpg|Before the genocide

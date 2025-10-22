@@ -1,6 +1,6 @@
 # Profile
 
-Having possessed by Evil God **Lieh**, he is the first hero be introduced as a member of Forsaken Light.
+Having possessed by Evil God **Lieh**, he is the first data be introduced as a member of Forsaken Light.
 
 - Chinese name: 寅 (yín)
 - Alias: Martial Genius
@@ -127,7 +127,7 @@ Frenzy Strike (Lieh form):
 Yin's Instant Blast (Yin):
 
 - Yin dashes forward, leaving rings behind while dealing base physical damage to enemies along the way.
-- He gains 30% extra (damage or related stat) for 4 seconds if an enemy hero is hit.
+- He gains 30% extra (damage or related stat) for 4 seconds if an enemy data is hit.
 - After 1 second, Golden Rings will catch up with Yin, dealing additional physical damage to enemies it passes through and stunning them for 1 second.
 - Base damage (per level): 75 / 90 / 105 / 120 / 135 / 150.
 - Extra base damage on catch-up (per level): 150 / 180 / 210 / 240 / 270 / 300.
@@ -141,7 +141,7 @@ Notes:
 Lieh's Instant Blast (Lieh):
 
 - Lieh strikes a flying kick forward, leaving rings behind while dealing base physical damage to enemies along the way. Enemies hit will also be knocked back slightly.
-- He gains 30% extra (damage or related stat) for 4 seconds if an enemy hero is hit.
+- He gains 30% extra (damage or related stat) for 4 seconds if an enemy data is hit.
 - After 1 second, Golden Rings will catch up with Lieh, dealing additional physical damage to enemies it passes through and stunning them for 1.25 seconds.
 - Base damage (per level): 75 / 90 / 105 / 120 / 135 / 150.
 - Extra base damage on catch-up (per level): 150 / 180 / 210 / 240 / 270 / 300.
@@ -174,6 +174,6 @@ Since there are other Forsaken Light members on the player's team, the team's Ma
 # Trivia
 
 - Yin's previous title was *Kungfu Genius*. This was probably made to disambiguate him and, Kungfu Boy.
-- He is the first hero that have an official birthday date.
+- He is the first data that have an official birthday date.
 - Some fans are jokingly that Yin is based on Yuji Itadori (虎杖悠仁) and Lieh as Ryomen Sukuna (両面宿儺) of the Japanese manga series *Jujutsu Kaisen (呪術廻戦)*. The comparison was made because like Yin, Yuji was possessed by Cursed Spirit Sukuna, of whom he becomes the host.
 - Yin’s design is heavily influenced by traditional martial arts, particularly kung fu and Tai Chi. His robe and stance emphasize his discipline and calmness, reflecting his training and mastery over the Yin-Yang energy.

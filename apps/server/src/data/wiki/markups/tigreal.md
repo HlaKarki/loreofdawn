@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats|physical_def1=20|physical_def15=132|magic_def1=15|magic_def15=71}}
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 | full_name      = Tigreal Wertz 
 | chinese_name   = 泰格 (Tài gé)
 | alias          =
@@ -60,7 +60,7 @@ Although thousands of years have passed since the shocking changes that split th
 
 At the age of sixteen, Tigreal joined the Imperial Army with full devotion, and was incorporated into the Garrison Army ranks. During his four years in the Garrison Army, Tigreal led his troops to almost every part of Moniyan, which further exercised Tigreal's command ability and leadership ability, earning him the favor of the Light's Order.
 
-Subsequently, Tigreal joined the Knights of Light with his outstanding military talent and leadership ability. In the Moniyan Empire, only the most loyal and brave fighters who had undergone intensive training were eligible to be elected to the Knights of Light, and Tigreal became the youngest member of the Knights in history. He was the glory of his family and a genius in the eyes of the Moniyan people. Everyone believed that he would become a hero in the history of Moniyan, just like the martyrs of previous generations in Promenade of Heroes.
+Subsequently, Tigreal joined the Knights of Light with his outstanding military talent and leadership ability. In the Moniyan Empire, only the most loyal and brave fighters who had undergone intensive training were eligible to be elected to the Knights of Light, and Tigreal became the youngest member of the Knights in history. He was the glory of his family and a genius in the eyes of the Moniyan people. Everyone believed that he would become a data in the history of Moniyan, just like the martyrs of previous generations in Promenade of Heroes.
 
 However, few peoples’ lives are such smooth sailing. Just when people thought that a star was about to rise, a blow soon befell Tigreal. In The Barren Lands, in a battle launched to completely drive the Abyss demons, who had been holding the area for a long time, back underground, Tigreal served as the commander of the Second Regiment in an army that was composed of the Light's Order and the Imperial Border Guard. He was deployed on the left flank of the battlefield, and launched an attack on the demon army. However, due to a mistake by the command center, the Second Regiment went in deep alone and was besieged by the demon army.
 

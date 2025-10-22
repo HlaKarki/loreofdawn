@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image =<gallery>
 Ling comic.jpg|Present
 Ling and Zilong child.jpg|Child (pictured left)
@@ -211,7 +211,7 @@ This was the Vermilion Bird's final dance... and the Cyan Finch's first flight.
 |term-1         = Crit Rate
 |term-2         = Half-Stealth
 |term-3         = 
-|notes          = *{{hi|Ling}}'s basic attack range is greatly increased while on a wall, and the next basic attack allows him to dash to an enemy hero on the ground.
+|notes          = *{{hi|Ling}}'s basic attack range is greatly increased while on a wall, and the next basic attack allows him to dash to an enemy data on the ground.
 |bugs           = 
 }}
 ===Skill 2===

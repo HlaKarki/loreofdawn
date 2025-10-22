@@ -91,7 +91,7 @@ Karina is the best killer among the Dark Elves who lived codependently with her 
 Karina's third consecutive attack on the same enemy deals extra true damage.
 
 - Effect: The third consecutive attack on the same enemy deals extra true damage equal to 50 plus a percentage of the target's lost HP (scaling with level and stats). This effect has a cap (up to a high fixed cap against creeps). This passive deals up to 10000 to enemy heroes.
-- Additional effect: If the target is an enemy hero, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5 seconds.
+- Additional effect: If the target is an enemy data, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5 seconds.
 
 Notes:
 - "Attack," according to the skill description, refers to Karina's attacks from basic attacks and skills.
@@ -124,7 +124,7 @@ This skill is an area-of-effect magic damage ability whose damage increases with
 
 ## Shadow Assault
 
-Karina dashes to a target enemy hero, dealing magic damage, applying a Shadow Mark to them, and leaving a Shadowform behind the target. The Shadow Mark and Shadowform both last 5 seconds. If the marked enemy dies within the duration, the cooldown of this skill is reset. Karina then dashes back to the Shadowform's location, dealing damage to enemies along the way.
+Karina dashes to a target enemy data, dealing magic damage, applying a Shadow Mark to them, and leaving a Shadowform behind the target. The Shadow Mark and Shadowform both last 5 seconds. If the marked enemy dies within the duration, the cooldown of this skill is reset. Karina then dashes back to the Shadowform's location, dealing damage to enemies along the way.
 
 - Base damage on initial dash (per level): 350 / 550 / 750
 - Path damage when dashing back (per level): 150 / 200 / 250
@@ -141,5 +141,5 @@ Notes:
 - The name Karina has multiple origins and meanings across different cultures. In Scandinavian and Latin origins, it is derived from the name Katherine, meaning "pure" or "beloved." In Slavic languages, Karina translates to "dear" or "affectionate," while in Arabic, it is linked to "Karim" (كريم), meaning "generous" or "kind."
 - Her first design was more human-like, but she was later changed to look more Dark Elf-inspired.
 - She often says things like "I must not let my emotions show", showing that she tries to suppress her feelings. Some of her unused lines also referenced her guilt over Selena's fate.
-- Her previous voice lines were reused from those of Magic Rush's hero, Seeley. Some of the quotes are still used after Karina's revamp, although they are voiced by a new person.
+- Her previous voice lines were reused from those of Magic Rush's data, Seeley. Some of the quotes are still used after Karina's revamp, although they are voiced by a new person.
 - During initial release Karina's Leona skin was free.

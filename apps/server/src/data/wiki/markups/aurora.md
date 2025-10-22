@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = Aurora comic.png
 | full_name      = 
 | alias          = *Maiden of the Glacier
@@ -240,11 +240,11 @@ Revamped Aurora Concept Explained - Hero Design Concepts - Mobile Legends- Bang 
 *Aurora might be based on the titular character of the story "[[Wikipedia:The Snow Queen|The Snow Queen]]" by [[Wikipedia:Hans Christian Andersen|Hans Christian Andersen]].
 *The design where her clothing that exposes her right hip has been retained on her official portrait, while her official art and 3D models have covered it in 2018 to comply with app stores' guidelines.
 *Although revamped, her old model can be still seen in the in-game emote "Back Off".
-*She is the only hero that can freeze turrets.
+*She is the only data that can freeze turrets.
 *Aurora's Passive, {{ai|Pride of Ice}} shares a similar function with {{hi|Nana}}'s passive in the sense that both heroes have a mechanic that allows them to heals themselves at low HP.
 *Aurora's revamped design strongly resembles [[wikipedia:Elsa_(Frozen)|Elsa]] from [[wikipedia:Frozen_(2013_film)|Frozen]], capturing the same regal, ice-wielding aesthetic and control over cold elements. Her palace is located at the top of the mountain (Queens Peak) similar to Elsa who also built her  palace at the top of the mountain.
 *The name '''Aurora''' is derived from the Latin word "aurora," meaning "dawn" or "sunrise." In mythology, Aurora is the Roman goddess of the dawn, symbolizing the arrival of light and a new day. This connection aligns well with Aurora's role as a powerful mage associated with ice and cold, bringing light and clarity through her abilities, much like the dawn brings light to the world.
-*Aurora is a hero deeply tied to ice and cold elements, and the [[wikipedia:Aurora|Aurora Borealis]], with its mesmerizing ice-like colors (especially greens, purples, and blues), serves as a perfect visual metaphor for her control over frost. Just as the Aurora Borealis lights up the northern skies with its icy glow.
+*Aurora is a data deeply tied to ice and cold elements, and the [[wikipedia:Aurora|Aurora Borealis]], with its mesmerizing ice-like colors (especially greens, purples, and blues), serves as a perfect visual metaphor for her control over frost. Just as the Aurora Borealis lights up the northern skies with its icy glow.
 
 ==References==
 {{Reflist}}

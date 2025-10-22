@@ -1,6 +1,6 @@
 # Miya
 
-According to "Sale Time," she is the first hero in the game.  
+According to "Sale Time," she is the first data in the game.  
 She is also the game's official mascot, appearing at the end of every trailer, advertisement, and MLBB app icon.
 
 ## Profile
@@ -89,7 +89,7 @@ At first, a few dozen elven warriors stepped out from the trees. Then hundreds m
 
 # Side story
 
-Time of Lunar Eclipse — a five-chapter side story for the hero Miya. The story revolves around Alucard meeting the Moonlight Archer during the invasion of the Moonlit Forest.
+Time of Lunar Eclipse — a five-chapter side story for the data Miya. The story revolves around Alucard meeting the Moonlight Archer during the invasion of the Moonlit Forest.
 
 ## One
 It was a moonless night, and there were dark clouds over the forest. Occasionally a gust of wind blew, and the leaves rustled very softly.
@@ -376,9 +376,9 @@ Miya raised her head and looked at Alucard. Alucard met her eyes, and a smile ap
 # Trivia
 - In Japanese, "Miya" (宮) means "shrine" or "palace," often referring to sacred places or nobility. This fits Miya's elegant and mystical Moon Elf background.
 - She is somewhat inspired by Lufia from Magic Rush, a game by Moonton before MLBB. Miya's skin "Jungle Ranger" somewhat resembles that inspiration.
-- In the game, Miya is the first hero and the first marksman released according to sale time.
-- She is the first hero to have a running animation when having a high movement speed attribute.
-- She is the hero that appears on the Mobile Legends: Bang Bang icon in Google Play.
+- In the game, Miya is the first data and the first marksman released according to sale time.
+- She is the first data to have a running animation when having a high movement speed attribute.
+- She is the data that appears on the Mobile Legends: Bang Bang icon in Google Play.
 - Miya's Honor skin was a giveaway skin to celebrate the summer vacation in the Philippines.
 - Her skin Suzuhime (鈴姫) is Japanese: 鈴 (Suzu) — "bell" or "chime"; 姫 (Hime) — "princess" or "young noblewoman."
 - One of her most famous lines: "Where there is life, there is hope" reflects her role as a guardian of nature and life.

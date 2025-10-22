@@ -1,6 +1,6 @@
 # Profile
 
-According to "Sale Time," she is the first hero in the game.
+According to "Sale Time," she is the first data in the game.
 
 She is also the game's official mascot, appearing at the end of every trailer, advertisement, and MLBB app icon.
 
@@ -146,9 +146,9 @@ Note: "Attacks" that end the duration and trigger passive stacks refer to Miya's
 
 - In Japanese, "Miya" (宮) means "shrine" or "palace," often referring to sacred places or nobility. This fits Miya's elegant and mystical Moon Elf background.
 - She is somewhat inspired by Lufia from Magic Rush, a game created by Moonton before MLBB. Miya's skin Jungle Ranger is somewhat resemble to her.
-- In the game, Miya is the first hero and the first marksman released according to sale time.
-- She is the first hero to have a running animation when having a high movement speed attribute.
-- She is the hero that appears on the Mobile Legends: Bang Bang icon in Google Play.
+- In the game, Miya is the first data and the first marksman released according to sale time.
+- She is the first data to have a running animation when having a high movement speed attribute.
+- She is the data that appears on the Mobile Legends: Bang Bang icon in Google Play.
 - Miya's Honor skin is a giveaway skin to celebrate the summer vacation in the Philippines.
 - Her skin, Suzuhime (鈴姫) is Japanese and can be broken down into two parts: 鈴 (Suzu) – Means "bell" or "chime," often associated with gentle, pleasant sounds. 姫 (Hime) – Means "princess" or "young noblewoman."
 - One of her most famous lines: "Where there is life, there is hope" reflects her role as a guardian of nature and life.

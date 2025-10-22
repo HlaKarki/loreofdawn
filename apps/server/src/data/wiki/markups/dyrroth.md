@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|magic_def1=15|magic_def15=50}}
 == Story ==
 {{Retcon|[[Silvanna#Story|Silvanna &sect; Story]]|date=19 March 2022}}
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 Dyrroth teaser.jpg|Present
 Dyrroth child.jpg|12 years ago
@@ -104,7 +104,7 @@ After several years, something strange appeared in the Southern Hills of the Mon
 |energy-cost    = 
 |quote          = 
 |description    = When Dyrroth's {{B|Rage}} reaches 50%, he will enhance {{ai|Burst Strike - Abyss Enhanced|Burst Strike}} and {{ai|Spectre Step - Abyss Enhanced|Spectre Step}}.
-After each 2 {{ai|Basic Attacks}}, Dyrroth will release {{b|Circle Strike|skill}}, dealing {{Scale|total-pa=160|pd}} to enemies in the circle and regenerating [50 + {{B|40% of the damage dealt|pd}} {{b|HP}}] (Circle Strike doesn't have ATK Effect). Each time he hits an enemy hero, the {{B|CD}} of {{ai|Burst Strike}} and {{ai|Spectre Step}} will be decreased by 1 second.
+After each 2 {{ai|Basic Attacks}}, Dyrroth will release {{b|Circle Strike|skill}}, dealing {{Scale|total-pa=160|pd}} to enemies in the circle and regenerating [50 + {{B|40% of the damage dealt|pd}} {{b|HP}}] (Circle Strike doesn't have ATK Effect). Each time he hits an enemy data, the {{B|CD}} of {{ai|Burst Strike}} and {{ai|Spectre Step}} will be decreased by 1 second.
 |ls-1           = 
 |ls-2           = 
 |ls-3           = 
@@ -193,7 +193,7 @@ After each 2 {{ai|Basic Attacks}}, Dyrroth will release {{b|Circle Strike|skill}
 |term-2         = Extra Physical ATK
 |term-3         = Physical Defense
 |notes          = *{{ai|Spectre Step - Abyss Enhanced}} costs 50 {{b|Rage}}.
-*Bumping into an enemy hero with phase 1 of this skill applies mini knockback effect.
+*Bumping into an enemy data with phase 1 of this skill applies mini knockback effect.
 *Phase 2 of this skill deals damage for 3 times, each dealing {{Scale|base=115 / 130 / 145 / 160 / 175 / 190|extra-pa=40|pd}}.
 *The skill goes into [[cooldown]] on the first cast.
 *Fatal Strike cannot target [[minions]] and, oddly, the summoned [[Lord]]. 
@@ -227,12 +227,12 @@ After each 2 {{ai|Basic Attacks}}, Dyrroth will release {{b|Circle Strike|skill}
 |term-1         = Lost HP
 |term-2         = Blink
 |term-3         = Movement Speed
-|notes          = *{{ai|Abysm Strike}} deals up to 1500 / 2000 / 2500 {{B|damage|pd}} to non-hero units.
+|notes          = *{{ai|Abysm Strike}} deals up to 1500 / 2000 / 2500 {{B|damage|pd}} to non-data units.
 |bugs           = 
 }}
 
 === BUFF ===
-{{infobox hero ability
+{{infobox data ability
 |image=Dyrroth-Silvanna BUFF
 |name=Dyrroth BUFF
 |description=If {{hi|Silvanna}} is in the enemy's team, increases self's [[attack speed]] by 1%.
@@ -271,7 +271,7 @@ Battle Emote - Hi!.png|'''Hi!'''<br>Obtain via the MLBB & HUNTER×HUNTER collab 
 
 ==Trivia==
 * Dyrroth's English voice actor, Joe Goffeney, reprises his role as late as February 2023 for providing exclusive voices of Dyrroth's Collector skin, making him the longest recurring voice actor of a single character for almost five years.
-* Dyrroth is one of the only heroes in the game to have a Siblings buff shared with a specific opposing hero.
+* Dyrroth is one of the only heroes in the game to have a Siblings buff shared with a specific opposing data.
 ** According to a Facebook post by MLBB, Dyrroth conquered and defeated  {{hi|Balmond}}'s and the orcs. Balmond surrendered to him, causing Balmond to fall to Dyrroth’s power. Balmond and the orcs have been dominated, tormented and tyrannized by Dyrroth.<ref>[https://www.facebook.com/photo/?fbid=1571301443023239&set=a.773545549465503 Mobile Legends: Bang Bang — Facebook Post]
 <gallery>
 Eye of Dawn Balmonds Betrayal.jpg

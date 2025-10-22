@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Aulus comic.jpg
 | full_name      = 
 | alias          = Warrior of Ferocity
@@ -36,7 +36,7 @@ But unlike his people, Aulus had been wishing that one day he’d become a respe
 
 Even so, Aulus firmly believed in the legend of the battleaxe and carried it with him wherever he went. Every time he patrolled the Leonins’ territory with his battleaxe, he felt the axe looked a bit mightier and he was one step closer to achieving his dream. Therefore, Aulus patrolled like a warrior every day without failing, come what may.
 
-However, the other Leonins laughed at him for his daily patrol, saying that Aulus was as plain ordinary as his axe and yet always daydreaming of being a legendary hero, only it was under the protection of the magic barrier. Seeing that his dream and ancestors’ honor was brought down and crushed, Aulus could bear no more and beat the Leonin who humiliated him, and his own people had since feared and alienated him.
+However, the other Leonins laughed at him for his daily patrol, saying that Aulus was as plain ordinary as his axe and yet always daydreaming of being a legendary data, only it was under the protection of the magic barrier. Seeing that his dream and ancestors’ honor was brought down and crushed, Aulus could bear no more and beat the Leonin who humiliated him, and his own people had since feared and alienated him.
 
 Aulus saw that instead of solving the problem, his rage further aggravated their misunderstandings, so he made the decision to leave the forest and go on an adventure with his battleaxe, to prove himself with great feats.
 

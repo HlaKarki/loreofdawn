@@ -1,10 +1,10 @@
 __NOTOC__
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 | image          = 
 | full_name      = 
 | chinese_name   = 黎希尔 (Líxīěr)
@@ -134,7 +134,7 @@ Irithel was abandoned in the jungle by her parents when she was a little girl. U
 |term-1          = Physical Basic Attack
 |term-2          = Attack Effect
 |term-3          = 
-|notes           = *Triggers basic attack effects on each enemy hero hit by the explosion.
+|notes           = *Triggers basic attack effects on each enemy data hit by the explosion.
 |bugs            = 
 }}
 == Gallery ==
@@ -179,15 +179,15 @@ Battle Emote - Monster SP Rider.png|'''Monster SP Rider'''<br>Obtain via the [[M
 
 == Trivia ==
 * The name Irithel is of Turkish origin and means "Goddess of hunt and pray. Strong bow and arch".
-* When Irithel was first released she was called Mona and hero title "Descendant of the Forest."
+* When Irithel was first released she was called Mona and data title "Descendant of the Forest."
 * Irithel is the first rider heroes.
 * Irithel referred Leo as a "tiger" in one of her quotes, but he is biologically a smilodon.
-* Irithel is the first hero who can do Basic Attacks while moving.
-* Irithel is the only ranged hero with an explosive Basic Attack, where the damage of her Basic Attack during {{ai|Heavy Crossbow}} can hit multiple enemies in a small AoE at once.
-* She is also the first and the only hero that have and has a unique background. 
-* Currently, she is also the hero that has never been remodel since her release and is still using the same model without any changes.
+* Irithel is the first data who can do Basic Attacks while moving.
+* Irithel is the only ranged data with an explosive Basic Attack, where the damage of her Basic Attack during {{ai|Heavy Crossbow}} can hit multiple enemies in a small AoE at once.
+* She is also the first and the only data that have and has a unique background. 
+* Currently, she is also the data that has never been remodel since her release and is still using the same model without any changes.
 *When her "Night Arrow" skin was released, Leo's appearance closely resembled Toothless from [[Wikipedia:How To Train Your Dragon|How To Train Your Dragon]]; it was later changed to have a more feline look, likely to avoid copyright issues.
-*She is the fourth hero to have two [[StarLight Member|StarLight]] skins ("Nightarrow" and "Checkered Knight").
+*She is the fourth data to have two [[StarLight Member|StarLight]] skins ("Nightarrow" and "Checkered Knight").
 ==References==
 {{reflist}}
 == Navigation ==

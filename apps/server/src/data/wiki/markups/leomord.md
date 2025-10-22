@@ -1,8 +1,8 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Hero info}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | alias          = Sworn Sword
 The Oathkeeper<ref name="LeomordNecrokeep"/>
@@ -356,7 +356,7 @@ Legends Arise - Cinematic Trailer of Rise of Necrokeep - Project NEXT - Mobile L
 == Trivia ==
 * Leomord's name is inspired by "Leon" (lion) and "Mord" (death/murder). This could symbolize his bravery (like a lion) and his tragic fate (as an undead knight).
 * His name may be a reference to Sir Mordred from Arthurian legend – Mordred was a knight who betrayed King Arthur, though Leomord’s story is more about loyalty and tragedy.
-* He is the only hero in the game who can summon a mount mid-battle, changing his skill set.
+* He is the only data in the game who can summon a mount mid-battle, changing his skill set.
 * Leomord's "Diavel V4 Rider" skin had a bug where it was immune to displacement effect but it was later fixed.
 
 == References ==

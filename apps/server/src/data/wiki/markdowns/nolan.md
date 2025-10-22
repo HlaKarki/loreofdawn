@@ -118,7 +118,7 @@ He felt the sun shine on his face as his daughter's voice rang in the distance. 
 Nolan's skills will leave a rift that lasts 5 seconds and slows enemies by 30%.
 
 - When a rift comes into contact with another rift, they will activate and pull enemies to their center and deal scaling damage after a short delay.
-- Each time a rift activation hits an enemy hero or Creep, Nolan will gain 15 Energy and heals for an amount based on level and stats.
+- Each time a rift activation hits an enemy data or Creep, Nolan will gain 15 Energy and heals for an amount based on level and stats.
 - If an enemy is hit by multiple rift activations, the damage after the first hit will be reduced to 40%.
 - If Nolan does not deal or take damage for 5 seconds, he enhances his next Basic Attack to dash to the target, dealing scaling damage and leaving a rift. (Damage to and from Minions or Creeps will not prevent Nolan from getting this effect.)
 
@@ -171,7 +171,7 @@ Nolan slashes the target location 3 times, with each slash leaving 3 rifts and s
 - His weapon is modeled from the sextant, which is used for navigation to measure the angular distances between objects.
 - With Nolan. the concept of multiverse was introduced in the lore of Mobile Legends.
 - "Nolan" is a word of Irish origin, meaning **"champion" or "noble"**.
-- With the introduction and creation of Nolan, each new hero introduced in the game afterwards will have its own theme background music that will play in the Main Interface.
+- With the introduction and creation of Nolan, each new data introduced in the game afterwards will have its own theme background music that will play in the Main Interface.
 - He was one of the heroes mentioned in the Lore before becoming introduced as a playable character later.
 - He was mentioned for 7 years as the unnamed father of Layla who died and later went missing until he was released for the Project NEXT 2023 and *MLBB* 7th Anniversary events.
 - Nolan has the same name of his voice actor, Nolan North.

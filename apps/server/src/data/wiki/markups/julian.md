@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
-He is the fourth and the last hero to be introduced as a member of [[Forsaken Light]]. He was released as a part of the [[515 M-World]]. Players had a chance to redeem the hero for free for a limited time.
+{{Tabs data}}
+{{Infobox data}}
+He is the fourth and the last data to be introduced as a member of [[Forsaken Light]]. He was released as a part of the [[515 M-World]]. Players had a chance to redeem the data for free for a limited time.
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image =<gallery>
 Julian teaser.jpg|Present
 Julian child.png|10 years ago
@@ -167,7 +167,7 @@ He finally found himself and also learned to smile.
 |image-2        = Smith's Legacy BUFF
 |image-3        = Craftsman
 |skill-effect-1 = BUFF
-|description    = After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9&ndash;6 seconds [[cooldown]] (decreases with his level.<br>After casting any skill, his [[Basic Attacks]] within the next 5 seconds to deal {{Scale|base=100|total-pa=100|total-mp=100|md}} and [[pull]] the target toward him. Casting another skill extends the duration.<br>Julian gains 15% extra [[Hybrid Lifesteal]] for 5 seconds each time he hits an enemy hero with his skills (up to 3 stacks).
+|description    = After casting two different skills, Julian enhances his third skill. Casting the enhanced skill makes all his skills go on a 9&ndash;6 seconds [[cooldown]] (decreases with his level.<br>After casting any skill, his [[Basic Attacks]] within the next 5 seconds to deal {{Scale|base=100|total-pa=100|total-mp=100|md}} and [[pull]] the target toward him. Casting another skill extends the duration.<br>Julian gains 15% extra [[Hybrid Lifesteal]] for 5 seconds each time he hits an enemy data with his skills (up to 3 stacks).
 |term-1          = Magic Basic Attack
 |ss-1=Hybrid Lifesteal: 15% / 30% / 45%
 |notes= *"Third skill" refers to the remaining unused skill, which is enhanced, not "Skill 3".
@@ -286,7 +286,7 @@ He finally found himself and also learned to smile.
 }}
 </tabber>
 ====Notes====
-*Despite being advertised as a hero without an ultimate and categorized as "Skill 3/Third Skill,"<ref>[https://www.reddit.com/r/MobileLegendsGame/comments/uwjrp3/patch_notes_1684_org_server Patch Notes 1.6.84 - Org Server]</ref> Julian's Chain, and Enhanced Chain, still behaves as and is technically an Ultimate.  The only difference from a usual Ultimate is it having 5 levels and can be learned at the level 1.
+*Despite being advertised as a data without an ultimate and categorized as "Skill 3/Third Skill,"<ref>[https://www.reddit.com/r/MobileLegendsGame/comments/uwjrp3/patch_notes_1684_org_server Patch Notes 1.6.84 - Org Server]</ref> Julian's Chain, and Enhanced Chain, still behaves as and is technically an Ultimate.  The only difference from a usual Ultimate is it having 5 levels and can be learned at the level 1.
 **Interactions of {{ii|Fleeting Time|Unique Passive - Timestream}}, {{ii|Great Dragon Spear|Unique Passive - Supreme Warrior}} and {{ai|I Am You}} are still present on Chain and Enhanced Chain.<ref name="Chain">[https://youtu.be/G6TWPjdqj-c "JULIAN'S QUICK TEST IF HE HAS ULTIMATE"]. ''Hororo chan''. 2022-03-25. Retrieved 2022-03-25 – via www.youtube.com.</ref>
 
 ===BUFF===
@@ -319,14 +319,14 @@ Hero1167-icon.png|Kurapika
 
 ==Trivia==
 *The name "Julian" is a masculine given name which is common around Europe and Latin America. It is based on the Roman name "Julianus," which was derived from "Julius."
-*Julian is the first hero to have a level 5 Ultimate skill, the second one being {{hi|Suyou}}.
+*Julian is the first data to have a level 5 Ultimate skill, the second one being {{hi|Suyou}}.
 *Out of the Forsaken Light members, Julian is the only one with no promotional comic.
 *Out of the Forsaken Light members, Julian is the only one with no cinematic trailer, only an animated trailer.
 *Julian has a speech disorder like some of his voice lines has pause in it. This is because of his childhood trauma.
 *He has the highest base HP (2878) at Level 1 amongst the fighter role which exceeds {{hi|Silvanna}}'s HP of 2828.
 *He remarkably has the second highest HP in the entire game, behind {{hi|Hylos}} who has a HP of 2909 at level 1.
 *One of the few heroes to be featured in multiple MLBB collaborations. Julian is often called the "King of Collaboration" in Mobile Legends: Bang Bang community because he has appeared in multiple collaboration events and crossover skins.
-*Julian was the 10th hero who was given to players for free on release. The other free heroes are {{hi|Faramis}}, {{hi|Belerick}}, {{hi|Silvanna}},  {{hi|Luo Yi}}, {{hi|Benedetta}}, {{hi|Mathilda}}, {{hi|Phoveus}}, {{hi|Floryn}} and {{hi|Edith}}.
+*Julian was the 10th data who was given to players for free on release. The other free heroes are {{hi|Faramis}}, {{hi|Belerick}}, {{hi|Silvanna}},  {{hi|Luo Yi}}, {{hi|Benedetta}}, {{hi|Mathilda}}, {{hi|Phoveus}}, {{hi|Floryn}} and {{hi|Edith}}.
 *During his initial release, Julian was introduced as a {{Fighter|Fighter}}/{{Mage|Mage}}. By the time of [[Patch 1.9.64]], the developers changed his role to {{Assassin|Assassin}}/{{Fighter|Fighter}} after they saw his gamestyle being to similar to an {{Assassin|Assassin}} and making it more lore accurate.
 
 ==References==

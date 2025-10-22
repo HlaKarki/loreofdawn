@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Balmond teaser.jpg
 | full_name      = 
 | chinese_name   = 巴蒙 (bāméng)
@@ -80,7 +80,7 @@ Following that, the union of the Orcs and the revival of their kingdom that they
 |name   = Bloodthirst
 |term-1        = Max HP
 |skill-effect-1        = Heal
-|description  = Balmond recovers 5% {{B|Max HP}} after killing a Minion or Creep, and 20% {{B|Max HP}} after killing a hero.
+|description  = Balmond recovers 5% {{B|Max HP}} after killing a Minion or Creep, and 20% {{B|Max HP}} after killing a data.
 }}
 === Skill 1===
 {{Ability
@@ -91,7 +91,7 @@ Following that, the union of the Orcs and the revival of their kingdom that they
 |term-1        = Blink
 |term-2        = Physical Damage Skill
 |term-3        = Movement Speed
-|description  = Balmond charges to the target direction for a set distance or until he hits an enemy hero, dealing {{scale|base=150-275|total-pa=60|pd}} to enemies along the way. The enemy hero hit will be [[knocked back]] slightly and [[slowed]] by 60% for 2 seconds.
+|description  = Balmond charges to the target direction for a set distance or until he hits an enemy data, dealing {{scale|base=150-275|total-pa=60|pd}} to enemies along the way. The enemy data hit will be [[knocked back]] slightly and [[slowed]] by 60% for 2 seconds.
 |level-scaling=Base Damage: 150 / 175 / 200 / 225 / 250 / 275
 }}
 
@@ -119,7 +119,7 @@ Max Damage: 350 / 560 / 770 / 980 / 1190 / 1400
 |term-1       = True Damage Skill
 |term-2       = Lost HP
 |term-3       = True Damage
-|description  = Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing <nowiki>[</nowiki>{{scale|base=150|total-pa=70|lost-hp=target's 30%-45|td}}.<nowiki>]</nowiki><br>This skill deals up to 1000–2000 damage to non-hero units.
+|description  = Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing <nowiki>[</nowiki>{{scale|base=150|total-pa=70|lost-hp=target's 30%-45|td}}.<nowiki>]</nowiki><br>This skill deals up to 1000–2000 damage to non-data units.
 |level-scaling=Extra Damage: 30% / 37.5% / 45%
 Non-Hero Unit Damage Cap: 1000 / 1500 / 2000
 |

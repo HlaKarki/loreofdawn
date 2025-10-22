@@ -32,7 +32,7 @@ After the conflict between Light and Dark, the Son of Darkness was about to repr
 
 When Dyrroth's HP reaches 50%, he will enhance Burst Strike and Spectre Step.
 
-After each two basic attacks, Dyrroth will release Circle Strike, dealing damage based on level and stats to enemies in the circle and regenerating 50 plus additional HP based on his stats. Circle Strike does not have Attack Effect. Each time he hits an enemy hero with Circle Strike, the cooldown of Burst Strike and Spectre Step is decreased by 1 second.
+After each two basic attacks, Dyrroth will release Circle Strike, dealing damage based on level and stats to enemies in the circle and regenerating 50 plus additional HP based on his stats. Circle Strike does not have Attack Effect. Each time he hits an enemy data with Circle Strike, the cooldown of Burst Strike and Spectre Step is decreased by 1 second.
 
 - Physical Skill: Circle Strike counts as a physical skill.
 - Regen Effect: Circle Strike regenerates HP (halved against minions).
@@ -71,7 +71,7 @@ Abyss Enhanced: Fatal Strike will deal increased damage, slow the target by an e
 Notes:
 
 - Costs 50 mana.
-- Bumping into an enemy hero with phase 1 of this skill applies a mini knockback effect.
+- Bumping into an enemy data with phase 1 of this skill applies a mini knockback effect.
 - Phase 2 of this skill deals damage three times, each instance dealing damage based on level and stats.
 - The skill goes into cooldown on the first cast.
 - Fatal Strike cannot target minions or the summoned Lord.
@@ -85,7 +85,7 @@ After a short delay, Dyrroth launches a destructive strike in the target directi
 
 Notes:
 
-- Deals up to 1500 / 2000 / 2500 to non-hero units.
+- Deals up to 1500 / 2000 / 2500 to non-data units.
 
 ## Dyrroth BUFF (Shared Siblings Buff)
 
@@ -94,10 +94,10 @@ If Silvanna is in the enemy's team, increases Dyrroth's attack speed by 1%.
 # Trivia
 
 - Dyrroth's English voice actor, Joe Goffeney, reprises his role as late as February 2023 for providing exclusive voices of Dyrroth's Collector skin, making him the longest recurring voice actor of a single character for almost five years.
-- Dyrroth is one of the only heroes in the game to have a Siblings buff shared with a specific opposing hero.
+- Dyrroth is one of the only heroes in the game to have a Siblings buff shared with a specific opposing data.
 - According to a Facebook post by MLBB, Dyrroth conquered and defeated the orcs. Balmond surrendered to him, causing Balmond to fall to Dyrroth’s power. Balmond and the orcs have been dominated, tormented and tyrannized by Dyrroth.
 - Dyrroth was named **Dyrus**, then **Darius** when he was first released in the Advanced Server.
 - His entrance voice was changed before it was released in the Original Server.
 - His 2nd skill previously could knock up enemy, but it was changed.
-- His skill was called **Destruction Rush** before being changed to Abysm Strike. Likely because the name was already used for another hero.
+- His skill was called **Destruction Rush** before being changed to Abysm Strike. Likely because the name was already used for another data.
 - Since Dyrroth is Silvanna’s own younger brother, all her relatives are his relatives too.

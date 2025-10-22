@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Official chinese name}}
-{{Infobox hero story
+{{Infobox data story
 |image           = <gallery>
 Argus angel form.jpg|Argus when he was an angel
 </gallery>
@@ -150,7 +150,7 @@ Now, he’s Argus: the only Dark Angel in this world.
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Argus streches out a demonic hand in the target direction, dealing {{scale|base=125-250|total-pa=60|pd}} to the first enemy hero or creep hit, [[stunning]] them for 0.7 seconds and [[pulling]] him and the target towards the other. If no enemy is hit, Argus pulls himself towards the destination instead. <span style="color:#a2a2d0">Use Again:</span> Argus dashes and strikes in the target direction, dealing {{scale|base=175-300|total-pa=100|pd}} to enemies along the path.
+|description    = Argus streches out a demonic hand in the target direction, dealing {{scale|base=125-250|total-pa=60|pd}} to the first enemy data or creep hit, [[stunning]] them for 0.7 seconds and [[pulling]] him and the target towards the other. If no enemy is hit, Argus pulls himself towards the destination instead. <span style="color:#a2a2d0">Use Again:</span> Argus dashes and strikes in the target direction, dealing {{scale|base=175-300|total-pa=100|pd}} to enemies along the path.
 |ls-1           = Base Damage:125 / 150 / 175 / 200 / 225 / 250
 |ls-2           = Extra Damage: 175 / 200 / 225 / 250 / 275 / 300
 |ls-3           = 

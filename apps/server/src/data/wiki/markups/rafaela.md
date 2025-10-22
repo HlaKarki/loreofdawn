@@ -1,8 +1,8 @@
 {{Hero navigation|Main}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Rafaela teaser.jpg
 | full_name      = Rafaela
 | alias          =
@@ -112,9 +112,9 @@ Time passes, never to return. No matter human or angel, none can turn back the h
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = At regular intervals, Rafaela can use a special skill to instantly resurrect a fallen allied hero after a brief channeling. The resurrected allied hero will respawn at the base and is granted increased Movement Speed.
+|description    = At regular intervals, Rafaela can use a special skill to instantly resurrect a fallen allied data after a brief channeling. The resurrected allied data will respawn at the base and is granted increased Movement Speed.
 
-This skill's cooldown is determined by both its base cooldown and the remaining respawn time of the revived hero. It is not affected by Cooldown Reduction.
+This skill's cooldown is determined by both its base cooldown and the remaining respawn time of the revived data. It is not affected by Cooldown Reduction.
 |properties     = 
 |calc           = 
 |term-1         = 
@@ -167,7 +167,7 @@ This skill's cooldown is determined by both its base cooldown and the remaining 
 |mana-cost      = 100 / 110 / 120 / 130 / 140 / 150
 |energy-cost    = 
 |quote          = 
-|description    = Rafaela calls upon {{B|Holy Light|e}}, restoring {{Scale|base=100-125|total-mp=35|hp}} to nearby allied heroes, plus and additional {{Scale|base=150-250|total-mp=45|hp}} to herself and the most injured allied hero in range. Also increases [[Movement Speed]] of nearby allied heroes by 30% and grants [[Slow Immunity]] for 1 seconds.<br>Every 20 point(s) of {{B|Magic Power}} will add 1% to the [[Movement Speed]] bonus, up to 80%.
+|description    = Rafaela calls upon {{B|Holy Light|e}}, restoring {{Scale|base=100-125|total-mp=35|hp}} to nearby allied heroes, plus and additional {{Scale|base=150-250|total-mp=45|hp}} to herself and the most injured allied data in range. Also increases [[Movement Speed]] of nearby allied heroes by 30% and grants [[Slow Immunity]] for 1 seconds.<br>Every 20 point(s) of {{B|Magic Power}} will add 1% to the [[Movement Speed]] bonus, up to 80%.
 |properties     = '''Basic Healing:''' 250 / 290 / 330 / 270 / 410 / 450
 *'''Secondary Heal:''' 100 / 110 / 120 / 130 / 140 / 150
 *'''[[Magic Power]], Total [[Movement Speed]] Increase:''' (1, 30.05%) / (2, 30.1%) / (3, 30.15%) / &#8230; / (1000, 80%)

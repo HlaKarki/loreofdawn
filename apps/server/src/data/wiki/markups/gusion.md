@@ -1,8 +1,8 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Hero info}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 |image=Gusion comic.jpg
 |full_name=Gusion Paxley
 |chinese_name = 古辛 (Gǔxīn)
@@ -292,8 +292,8 @@ Strike to Fate - Animated Trailer of the Revamped Hero Gusion - Mobile Legends- 
 ==Trivia==  
 *In demonology, [[wikipedia:Gusion|Gusion]] is the eleventh of the 72 demons of Goetia. He is a powerful Great Duke of Hell and rules over forty legions of demons.
 **Both Gusion and his brother {{Hi|Aamon}}'s names are derived from the writings of ''[[wikipedia:The Lesser Key of Solomon|The Lesser Key of Solomon]]''.
-*Gusion was the first hero to deal both physical and magic damage on skills. (Physical: passive skill; Magic: all active skills) His revamp made his passive deal magic damage.
-*Gusion is the first hero whose active skills have second phases.
+*Gusion was the first data to deal both physical and magic damage on skills. (Physical: passive skill; Magic: all active skills) His revamp made his passive deal magic damage.
+*Gusion is the first data whose active skills have second phases.
 *In 2018, Gusion used the word "bullshit" in the now-deleted cinematic trailer (only deleted on the official ''MLBB'' YouTube page, but the official Facebook page is still present as of June 6, 2023), marking the first time profanity appeared in official ''Mobile Legends'' media.<ref>[https://www.youtube.com/watch?v=RY1wW5jfDPQ COOL!!! NEW HERO GUSION VIDEO TRAILER MOBILE LEGENDS]</ref><ref>[https://www.facebook.com/mobilelegendsgame/videos/1843902522339179 Holy Blade Gusion Trailer]</ref>
 
 ==References==

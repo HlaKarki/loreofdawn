@@ -104,4 +104,4 @@ Chang'e fires 30 meteors in the target direction over 4 seconds, each dealing da
 - Chang'e's bunny companion is named Jade.
 - Due to a bug, her pre-rework first skill were able to deal damage to turrets.
 - In one of her quotes, Chang'e mentions while addressing to her rabbit companions; this is a reference to his wolf form, since wolves are known for hunting many animals including rabbits.
-- Her giggle that can be heard on hero selection for Crimson Moon was reused from her old hero selection quote.
+- Her giggle that can be heard on data selection for Crimson Moon was reused from her old data selection quote.

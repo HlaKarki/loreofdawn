@@ -35,7 +35,7 @@ Khufra activates the Spell Curse left by Esmeralda every 12 seconds, enhancing h
 
 - The enhanced Basic Attack gains extra attack range (Cast Range: 4.9) and deals scaling damage based on level and stats.
 - Also slows the target by 30% for 1.5 seconds and heals Khufra by 8% of his max HP on hit.
-- Each time Khufra applies a control effect to an enemy hero with his skill, the cooldown of Spell Curse is reduced by 4 seconds.
+- Each time Khufra applies a control effect to an enemy data with his skill, the cooldown of Spell Curse is reduced by 4 seconds.
 
 Terms: Magic Basic Attack, Healing Effect, Cooldown
 
@@ -49,7 +49,7 @@ Notes:
 Khufra pulls the bandage on his arms to launch himself in the specified direction, dealing path damage to all enemy units on the path.
 
 - Path damage: 50–100 plus 7% of his max HP (scales with skill level).
-- When blinking to the furthest distance or encountering a first enemy hero, Khufra will immediately stop, dealing nearby damage of 50–100 plus 7% of his max HP and then knocking them in the air for up to 1.1 seconds.
+- When blinking to the furthest distance or encountering a first enemy data, Khufra will immediately stop, dealing nearby damage of 50–100 plus 7% of his max HP and then knocking them in the air for up to 1.1 seconds.
 
 Terms: Blink, Extra Physical Attack, Airborne
 

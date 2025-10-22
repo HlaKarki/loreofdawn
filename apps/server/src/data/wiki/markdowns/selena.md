@@ -75,7 +75,7 @@ Selena strengthens her claws with the power of the Abyss, causing the next basic
 
 ## Abyssal Arrow
 
-Selena fires magic arrows in a designated direction, dealing magic damage to the first enemy hero hit and stunning it for 0.5 seconds to 3 seconds. Stun duration and damage increase with the distance that the arrows travel. The arrow absorbs power as it travels and will apply effects of "Abyssal Traps" to the enemy target upon hit. If an enemy is stunned for 1 second or longer, Selena's Movement Speed will be increased by 40% for 2 seconds.
+Selena fires magic arrows in a designated direction, dealing magic damage to the first enemy data hit and stunning it for 0.5 seconds to 3 seconds. Stun duration and damage increase with the distance that the arrows travel. The arrow absorbs power as it travels and will apply effects of "Abyssal Traps" to the enemy target upon hit. If an enemy is stunned for 1 second or longer, Selena's Movement Speed will be increased by 40% for 2 seconds.
 
 - Base Damage by level: 250 / 280 / 310 / 340 / 370 / 400
 - Max Damage by level (at full travel): 500 / 560 / 620 / 680 / 740 / 800

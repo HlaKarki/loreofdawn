@@ -1,10 +1,10 @@
-{{Tabs hero}}
-{{Infobox hero|lane=Jungle|role(s)=Fighter/Assassin}}
-He is the first hero to receive the [[Wp:Tagalog language|Tagalog]] voiceover.
+{{Tabs data}}
+{{Infobox data|lane=Jungle|role(s)=Fighter/Assassin}}
+He is the first data to receive the [[Wp:Tagalog language|Tagalog]] voiceover.
 {{Hero stats}}
 == Story ==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits, Ethnicity (種族 "zhǒngzú" meaning "race, ethnicity"}}
-{{Infobox hero story
+{{Infobox data story
 |image           = Paquito comic.jpg
 | full_name      = 
 | chinese_name   = 帕奎特 (pàkuítè) 
@@ -82,7 +82,7 @@ You know, it reminded me of the first time we met. I remember that I'd headed ou
 
 I've never mentioned this to you before but I grew up hearing stories about heroes. Yet while I yearned for those heroes I read of in books, I also found myself hesitating to believe they actually existed. I'd often even think to myself: if there's all these great heroes out there, saving our world, then why is it still such a sorry sight?
 
-When you appeared, I felt like all my hero fantasies had became a reality right at that moment. That's why I pulled at you so fervently, insisting you come to stay in my village. I longed to know what the life of a hero was truly like, what kind of experiences and trials made you so strong. And maybe, just maybe, I could become a hero too... And that's why I had you stay, on the pretense of thanking you for saving me.
+When you appeared, I felt like all my data fantasies had became a reality right at that moment. That's why I pulled at you so fervently, insisting you come to stay in my village. I longed to know what the life of a data was truly like, what kind of experiences and trials made you so strong. And maybe, just maybe, I could become a data too... And that's why I had you stay, on the pretense of thanking you for saving me.
 
 Haha... That was pretty sly of me, huh? But it's a good thing I went through with it, because in the three short months you spent here, you changed my whole life.
 
@@ -92,7 +92,7 @@ I want to become like you, too. I really must thank you for this chance you've g
 
 Perhaps when that day comes, I'll be able to join you on your journey.
 
-How's things on your side? Defeated many evil villains? Do you sometimes think back to us, the people you've saved in the past? I innocently pleaded for you not to leave, to live here with us. But I knew, too, that I couldn't just make a hero like you stay here in our little village. It was just a wild wish of mine, that's all.
+How's things on your side? Defeated many evil villains? Do you sometimes think back to us, the people you've saved in the past? I innocently pleaded for you not to leave, to live here with us. But I knew, too, that I couldn't just make a data like you stay here in our little village. It was just a wild wish of mine, that's all.
 
 I think I finally understand what you said when you left. You said, it's not that you don't long for a peaceful life, it's just that you choose to fight so that you can protect others' hopes for one of their own.
 
@@ -152,7 +152,7 @@ I hope this letter of mine reaches you. And I hope that the dawn of the beautifu
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Paquito throws a punch in the target direction, dealing {{Scale|base=210-360|total-pa=50|pd}} to enemies hit. He gains {{Scale|base=150-500|total-pa=110|shield}} for 2.5 seconds if an enenmy hero is hit.<br>{{b|Champ Stance:|e}} The damage is increased to {{Scale|base=350-600|total-pa=100|pd}}, while the shield value is increased to {{b|120%|shield}}. The regular and enhanced shields can stack.
+|description    = Paquito throws a punch in the target direction, dealing {{Scale|base=210-360|total-pa=50|pd}} to enemies hit. He gains {{Scale|base=150-500|total-pa=110|shield}} for 2.5 seconds if an enenmy data is hit.<br>{{b|Champ Stance:|e}} The damage is increased to {{Scale|base=350-600|total-pa=100|pd}}, while the shield value is increased to {{b|120%|shield}}. The regular and enhanced shields can stack.
 |ls-1           = Base Damage: 210 / 240 / 270 / 300 / 330 / 360
 |ls-2           = Base Shield: 150 / 220 / 290 / 360 / 430 / 500
 |ls-3           = Enhanced Damage: 350 / 400 / 450 / 500 / 550 / 600
@@ -185,7 +185,7 @@ I hope this letter of mine reaches you. And I hope that the dawn of the beautifu
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Paquito [[dashes]] in the target direction and throws a jab, dealing {{Scale|base=150-450|total-pa=150|pd}} to enemies hit. Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding within an enemy hero or creep.<br>{{b|Champ Stance:|e}}The damage is increased to {{Scale|base=240-720|total-pa=240|pd}}.
+|description    = Paquito [[dashes]] in the target direction and throws a jab, dealing {{Scale|base=150-450|total-pa=150|pd}} to enemies hit. Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding within an enemy data or creep.<br>{{b|Champ Stance:|e}}The damage is increased to {{Scale|base=240-720|total-pa=240|pd}}.
 |ls-1           = Jab Damage: 150 / 210 / 270 / 330 / 390 / 450
 |ls-2           = Enhanced Jab Damage: 240 / 336 / 432 / 528 / 624 / 720
 |ls-3           = 
@@ -197,8 +197,8 @@ I hope this letter of mine reaches you. And I hope that the dawn of the beautifu
 |term-1         = Blink
 |term-2         = Physical Skill
 |term-3         = 
-|notes          = * Upon stopping on a hero/creep or reaching its final dash distance, does damage on a rectangular shape starting from behind Paquito to a small square shape in front of him.
-* It has a sizable hit box than Paquito's main body, meaning Paquito will immediately stop on a hero/creep even they are slightly right behind him or at his sides. Its size is about half of Paquito's {{ai|Basic Attack}} range.
+|notes          = * Upon stopping on a data/creep or reaching its final dash distance, does damage on a rectangular shape starting from behind Paquito to a small square shape in front of him.
+* It has a sizable hit box than Paquito's main body, meaning Paquito will immediately stop on a data/creep even they are slightly right behind him or at his sides. Its size is about half of Paquito's {{ai|Basic Attack}} range.
 |bugs           = 
 }}
 ===Ultimate===

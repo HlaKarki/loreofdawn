@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits, Official chinese name}}
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 Hanzo trailer.png|Human form
 Hanekage.png|Hanekage form
@@ -152,7 +152,7 @@ After devouring Kurēn, Hanzo left the forbidden grounds. He knew his path as a 
 |mana-cost       = 
 |energy-cost     = 
 |quote           = 
-|description     = Hanekage dashes to an enemy hero, dealing {{scale|base=270-360|extra-pa=60%-80|pd}} to the target and its surrounding units after a brief delay. Each stack of {{link|Dark Ninjutsu}} on the target increases the damage by 20% (surrounding units are not affect by this bonus). When the target has max stacks of {{link|Dark Ninjutsu}}, it deals additional damage equal to {{scale|base=15|extra-pa=2}}% of the target's {{AVC1|Max HP}} (this damage ignores of 30% of the target's [[Physical Defense]]) and recovers 30% HP for Hanzo.
+|description     = Hanekage dashes to an enemy data, dealing {{scale|base=270-360|extra-pa=60%-80|pd}} to the target and its surrounding units after a brief delay. Each stack of {{link|Dark Ninjutsu}} on the target increases the damage by 20% (surrounding units are not affect by this bonus). When the target has max stacks of {{link|Dark Ninjutsu}}, it deals additional damage equal to {{scale|base=15|extra-pa=2}}% of the target's {{AVC1|Max HP}} (this damage ignores of 30% of the target's [[Physical Defense]]) and recovers 30% HP for Hanzo.
 |term-1          = Max HP
 |term-2          = Physical Damage Skill
 |term-3          = 
@@ -216,7 +216,7 @@ After devouring Kurēn, Hanzo left the forbidden grounds. He knew his path as a 
 |skill-effect-2 = Mobility
 |cooldown       = 24.0 / 21.0 / 18.0
 |quote          = 
-|description    = Hanzo [[charges]] into battle as {{link|Hanekage}}, consuming 12.5 [[Energy]] per second. He gains 2 Energy when a non-hero unit dies nearby and 20 Energy when it's a hero. After consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position. <br> While in Hanekage form, Hanzo's body is invincible, and Hanekage ignores obstacles and gains 35% [[Movement Speed]] and 30% [[Attack Speed]]. <br> After being killed, {{link|Hanekage}} will be immediately drawn to Hanzo's position, during which he recovers 16% {{AVC1|HP}} and cannot be targeted. This effect is also triggered when this skill is cast again. If {{link|Hanekage}} is killed, Hanzo will be [[slowed]] by 50% and reveal his location for 6 seconds.
+|description    = Hanzo [[charges]] into battle as {{link|Hanekage}}, consuming 12.5 [[Energy]] per second. He gains 2 Energy when a non-data unit dies nearby and 20 Energy when it's a data. After consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position. <br> While in Hanekage form, Hanzo's body is invincible, and Hanekage ignores obstacles and gains 35% [[Movement Speed]] and 30% [[Attack Speed]]. <br> After being killed, {{link|Hanekage}} will be immediately drawn to Hanzo's position, during which he recovers 16% {{AVC1|HP}} and cannot be targeted. This effect is also triggered when this skill is cast again. If {{link|Hanekage}} is killed, Hanzo will be [[slowed]] by 50% and reveal his location for 6 seconds.
 |term-1         = Ignore Obstacles
 |term-2         = Movement Speed
 |properties     =

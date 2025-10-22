@@ -83,7 +83,7 @@ At that moment, a dragon's roar bellowed from the Dragon Altar, as if echoing Zi
 
 ## Baxia Mark
 
-Baxia activates this permanently, reducing the final damage received by 15 (+1 Hero Level). At the same time, when enemies are hit by his skills, Baxia reduces the enemy hero's Shield and HP Regen by 50% for 4 seconds.
+Baxia activates this permanently, reducing the final damage received by 15 (+1 Hero Level). At the same time, when enemies are hit by his skills, Baxia reduces the enemy data's Shield and HP Regen by 50% for 4 seconds.
 
 - Damage Reduction: 15 (+1 Hero Level) final damage reduction.
 - Regen Effect: Reduces enemy Shield and HP regeneration by 50% for 4 seconds when hit by Baxia's skills.
@@ -93,7 +93,7 @@ Notes:
 
 ## Baxia-Shield Unity
 
-Baxia retracts himself into his shield and accelerates forward for several seconds. When hitting an enemy unit, he will deal damage based on level and stats to the target and nearby enemies, stunning the target for 0.8 second and slightly knocking other nearby enemies back. During the dash, cast this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy hero under Baxia, he will strike down this hero, dealing damage based on level and stats to this hero and nearby enemies, stunning the hit target for 1.5 seconds, and slightly knocking other nearby enemy targets back.
+Baxia retracts himself into his shield and accelerates forward for several seconds. When hitting an enemy unit, he will deal damage based on level and stats to the target and nearby enemies, stunning the target for 0.8 second and slightly knocking other nearby enemies back. During the dash, cast this skill again to launch Baxia upward so that he can cross obstacles and enemy minions. When leaping up, if there is an enemy data under Baxia, he will strike down this data, dealing damage based on level and stats to this data and nearby enemies, stunning the hit target for 1.5 seconds, and slightly knocking other nearby enemy targets back.
 
 - Base Damage: 300 / 320 / 340 / 360 / 380 / 400
 - Impact Damage (when striking down): 375 / 400 / 425 / 450 / 475 / 500
@@ -103,7 +103,7 @@ Baxia retracts himself into his shield and accelerates forward for several secon
 
 ## Shield of Spirit
 
-Baxia throws his shield forward; the shield disappears upon hitting the first enemy hero or creep, dealing damage to the target and minions on the path. Targets hit are marked for 5 seconds and slowed by 50% for 1 second. Baxia can cast this skill again for a short duration. If an enemy hero or creep is hit by the skill, the cooldown will be reduced by 15%.
+Baxia throws his shield forward; the shield disappears upon hitting the first enemy data or creep, dealing damage to the target and minions on the path. Targets hit are marked for 5 seconds and slowed by 50% for 1 second. Baxia can cast this skill again for a short duration. If an enemy data or creep is hit by the skill, the cooldown will be reduced by 15%.
 
 - Base Damage: 125 / 150 / 175 / 200 / 225 / 250
 - Additional effect: also deals damage based on the target's max HP (scaling with level and stats).
@@ -134,7 +134,7 @@ Note: This is a team-oriented buff that increases movement speed depending on ho
 
 - Baxia is based on the Four Symbols (Black Tortoise of the North).
 - The Black Tortoise is depicted as a turtle entwined together with a snake. His shields reference the accurate description of the Black Tortoise.
-- He is the only hero who's capable of reducing shield and healing effects, due to his passive skill.
+- He is the only data who's capable of reducing shield and healing effects, due to his passive skill.
 - He is a member of Oriental Fighters (Black Tortoise/Xuanwu).
 - He is the oldest, tallest member of the Oriental Fighters.
 - During early developments, Baxia was originally named Bixi.

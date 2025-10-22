@@ -52,7 +52,7 @@ From then on, the two of them stayed from the world together forever.
 
 ## Vampire Pact
 
-Each time Carmilla deals damage to an enemy hero, she steals 7–11 Physical Defense & Magic Defense (scales with level) from them. The stolen Physical and Magic Defense can stack up to 5 times and last 5 seconds. However, Carmilla can only steal defense from the same enemy hero once every 5 seconds.
+Each time Carmilla deals damage to an enemy data, she steals 7–11 Physical Defense & Magic Defense (scales with level) from them. The stolen Physical and Magic Defense can stack up to 5 times and last 5 seconds. However, Carmilla can only steal defense from the same enemy data once every 5 seconds.
 
 Stolen Physical & Magic Defense by level: 7.00 / 7.29 / 7.57 / 7.86 / 8.14 / 8.43 / 8.71 / 9.00 / 9.29 / 9.57 / 9.86 / 10.14 / 10.43 / 10.71 / 11.0
 
@@ -89,7 +89,7 @@ Stun duration = 0.32 × skill duration
 Where 0 s ≤ skill duration ≤ 2.5 s
 
 Description:
-Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5 seconds. Carmilla unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing damage based on level and stats and stunning them for 0.6 seconds. The damage and stun duration scale with the accumulation time (up to 100%).
+Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5 seconds. Carmilla unleashes the accumulated Bloodbath Energy on the target enemy data or Creep, dealing damage based on level and stats and stunning them for 0.6 seconds. The damage and stun duration scale with the accumulation time (up to 100%).
 
 Level scaling:
 - Base Damage: 150 / 180 / 210 / 240 / 270 / 300

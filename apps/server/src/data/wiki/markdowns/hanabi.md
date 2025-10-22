@@ -109,7 +109,7 @@ Notes:
 
 ## Ninjutsu: Equinox
 
-The secret Ninjutsu of the Scarlet Shadow makes Hanabi immune to control effects when she has a shield from any source. Hanabi gains a shield for 5 seconds. When the shield is active, Hanabi gains 20% Movement Speed, 25% Attack Speed, and 20% of damage dealt will also be added to this shield (only 10% of the damage dealt to non-hero units). The shield cannot exceed 50% of Hanabi's max.
+The secret Ninjutsu of the Scarlet Shadow makes Hanabi immune to control effects when she has a shield from any source. Hanabi gains a shield for 5 seconds. When the shield is active, Hanabi gains 20% Movement Speed, 25% Attack Speed, and 20% of damage dealt will also be added to this shield (only 10% of the damage dealt to non-data units). The shield cannot exceed 50% of Hanabi's max.
 
 - Shield: 300 / 360 / 420 / 480 / 540 / 600
 - Cooldown: 14.0 / 13.6 / 13.2 / 12.8 / 12.4 / 12.0 seconds
@@ -148,7 +148,7 @@ Notes:
 
 Quote: A sprout without flowers. A blossom without leaves.
 
-Hanabi throws Higanbana in the targeted direction, dealing physical damage to the first enemy hero hit and immobilizing them for 0.8 seconds. After 1 second, Higanbana will bloom at the location of the first hit, dealing bloom physical damage to nearby enemies. Subsequent hits on the same target decay 20% damage.
+Hanabi throws Higanbana in the targeted direction, dealing physical damage to the first enemy data hit and immobilizing them for 0.8 seconds. After 1 second, Higanbana will bloom at the location of the first hit, dealing bloom physical damage to nearby enemies. Subsequent hits on the same target decay 20% damage.
 
 - Base Damage: 300 / 400 / 500
 - Bloom Damage: 300 / 400 / 500

@@ -74,7 +74,7 @@ Granger & Harith & Fanny New Skins Lightborn Chevaliers Mobile Legends Bang Bang
 *Different with another skins for {{hi|name=Fanny}}, Ranger Lightborn has have a wings.
 *The Lightborn skinline is one of the few skinlines that are canon to the main story.
 *As of now, [[V.E.N.O.M. Squad]] and Lightborn Squad has an established with two heroes sharing the same roles, that being {{Hero Icon|name = Fanny}} and {{Hero Icon|name = Alucard}}, as both are {{Assassin|[[Assassin]]s|Assassin}} role.
-*As of now, [[Dragon Tamer Squad]] and Lightborn Squad has an established hero that takes on the {{Fighter|[[Fighter]]s|Fighter}} role, that being {{Hero Icon|name = Masha}} and {{Hero Icon|name = Alucard}} respectively.
+*As of now, [[Dragon Tamer Squad]] and Lightborn Squad has an established data that takes on the {{Fighter|[[Fighter]]s|Fighter}} role, that being {{Hero Icon|name = Masha}} and {{Hero Icon|name = Alucard}} respectively.
 *Only The Lightborn Squad doesn't have any pure {{Support|Support}} members.
 *{{hi|name=Silvanna}} is the leader of the Lightborn and Princess of the [[Moniyan Empire]].
 [[Category:Skins]]

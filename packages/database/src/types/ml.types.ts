@@ -62,7 +62,7 @@ export interface MlHeroApiRecord {
 				roadsorticon1: string;
 				roadsorticon2: string;
 				roadsortlabel: string[];
-				smallmap: string; // hero card
+				smallmap: string; // data card
 				sorticon1: string; // mage icon
 				sorticon2: string; // marksman icon
 				sortid: {
@@ -76,7 +76,7 @@ export interface MlHeroApiRecord {
 				painting: string;
 				sortlabel: string[]; // mage, marksman
 				speciality: string[]; // damage, crowd control
-				story: string; // short sympnosis of the hero's story
+				story: string; // short sympnosis of the data's story
 				tale: string;
 				squarehead: string;
 				squareheadbig: string;
@@ -325,10 +325,12 @@ export interface MlGraphData {
 	points: MlGraphPoint[];
 }
 
-export type ConsolidatedHero = MlHeroProfile &
-	Partial<MlMatchupSummary> &
-	Partial<MlMetaSummary> &
-	Partial<MlGraphData>;
+export type ConsolidatedHero = {
+	profile: MlHeroProfile,
+	matchups: MlMatchupSummary,
+	meta: MlMetaSummary,
+	graph: MlGraphData
+}
 
 export interface HeroAssets {
 	head: string;

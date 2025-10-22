@@ -101,7 +101,7 @@ Note: Entering and leaving the Shadow state cancels this ability.
 
 ## Ghost Bursters
 
-Faramis gathers Nether energy in a fan-shaped area ahead, dealing magic damage to enemies within. The energy will then split and bounce to nearby enemies, dealing split damage. The energy can split up to 2 times when it hits enemy heroes and 1 time on non-enemy hero hits.
+Faramis gathers Nether energy in a fan-shaped area ahead, dealing magic damage to enemies within. The energy will then split and bounce to nearby enemies, dealing split damage. The energy can split up to 2 times when it hits enemy heroes and 1 time on non-enemy data hits.
 
 - Mana Cost: 75 / 85 / 95 / 105 / 115 / 125
 - Base Damage: 330 / 360 / 390 / 420 / 450 / 480
@@ -112,7 +112,7 @@ The ability deals area damage and then smaller split damage as it bounces to oth
 
 ## Cult Altar
 
-Faramis turns his surroundings into the Nether Realm for 6 seconds, making affected allied heroes (including himself) enter an Immortality state and granting them bonus health and an unspecified percentage increase plus 50% extra Movement Speed for 1 second. When the Immortality state breaks, the hero will clear all debuffs and enter a brief Resurrection state for 1 second. An allied hero's Immortality state ends when they leave the Nether Realm.
+Faramis turns his surroundings into the Nether Realm for 6 seconds, making affected allied heroes (including himself) enter an Immortality state and granting them bonus health and an unspecified percentage increase plus 50% extra Movement Speed for 1 second. When the Immortality state breaks, the data will clear all debuffs and enter a brief Resurrection state for 1 second. An allied data's Immortality state ends when they leave the Nether Realm.
 
 - Cooldown: 80.0 / 75.0 / 70.0
 - Mana Cost: 150 / 250 / 350
@@ -130,9 +130,9 @@ Notes:
 
 # Trivia
 
-- Faramis was originally released as a pure Support hero.
-- Faramis finally received a skin ("Royal Magus") on 24 October 2022 making it the longest time for a hero to receive a second skin, in a span of 3 years, 5 months and 6 days or 1255 days.
-- Faramis is the first hero to receive a Mythic skin "Infernal Magister", next being Clint.
+- Faramis was originally released as a pure Support data.
+- Faramis finally received a skin ("Royal Magus") on 24 October 2022 making it the longest time for a data to receive a second skin, in a span of 3 years, 5 months and 6 days or 1255 days.
+- Faramis is the first data to receive a Mythic skin "Infernal Magister", next being Clint.
 - He is a physician and a necromancer.
 - He is currently the only one who isn't officially listed in the Roamer list but rather is only listed as a Mid Laner.
 - His abilities and aesthetic are similar to necromancers from fantasy lore, such as the Lich King (Warcraft) and Vlad Dracula-inspired characters.

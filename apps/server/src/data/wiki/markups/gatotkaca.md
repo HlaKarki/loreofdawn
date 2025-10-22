@@ -1,10 +1,10 @@
-{{Tabs hero}}
-{{Infobox hero}}
-He is based on the character with the same name in ''Garudayana'' comics by Is Yuniarto, making him the first and currently the only hero in ''MLBB'' that is based on an intellectual property.
-{{hero stats|physical_def1=10|physical_def15=99|magic_def1=15|magic_def15=71|hp1=2629|hp15=5569}}
+{{Tabs data}}
+{{Infobox data}}
+He is based on the character with the same name in ''Garudayana'' comics by Is Yuniarto, making him the first and currently the only data in ''MLBB'' that is based on an intellectual property.
+{{data stats|physical_def1=10|physical_def15=99|magic_def1=15|magic_def15=71|hp1=2629|hp15=5569}}
 
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | name            = 
 | chinese_name    = 金迦 (jīnjiā) 
 | image           = 
@@ -67,7 +67,7 @@ Gatotkaca, the Knight of Pringgadani, is a symbol of bravery and devotion. Based
 |term-2          = Lost HP
 |term-3          = Healing Effect
 |calc            = <math>\begin{align}
-{\mathrm enhanced\ basic\ ATK\ DMG} & = 100%\ total\ physical\ ATK + 200%\ total\ magic\ power\ + \Bigl\{total\ rage \times \bigl[10 + (0.2 \times hero\ lv.) \bigr]\Bigr\} \\
+{\mathrm enhanced\ basic\ ATK\ DMG} & = 100%\ total\ physical\ ATK + 200%\ total\ magic\ power\ + \Bigl\{total\ rage \times \bigl[10 + (0.2 \times data\ lv.) \bigr]\Bigr\} \\
 healing\ effect & = 8 \times rage \\
 {\mathrm where}\ 25 & \geq total\ rage \geq 100\\
 \end{align}</math>
@@ -176,7 +176,7 @@ Mobile Legends- Bang bang! New Hero -Mighty Legend Gatotkaca- Gameplay|Gatotkaca
 
 ==Trivia==
 *Gatotkaca is based on ''[[Wp:Bharatayuddha|Bharatayuddha]]'', a Javanese adaptation of the Sanskrit epic ''[[Wp:Mahabharata|Mahabharata]]''. According to the ''Garudayana''<nowiki>'</nowiki>s creator, Is Yuniarto, his design is inspired by ''[[Wp:wayang|wayang]]'', a traditional Javanese shadow puppet theater. ''Wayang'' is used in retelling epic, including ''Bharatayuddha''.
-*His most recent skin, "Tide Preserver," was  released on January 8, 2024, making him the hero who received the skin for the longest period of time, 1745 days, between it and "Spark," which was released on March 30, 2019.
+*His most recent skin, "Tide Preserver," was  released on January 8, 2024, making him the data who received the skin for the longest period of time, 1745 days, between it and "Spark," which was released on March 30, 2019.
 *His voicelines "Om Telolet Om" is a social media meme that depicts Indonesian youths' excitement when a bus driver honks a modified horn in a rhythmic manner as they pass by. 
 
 == References ==

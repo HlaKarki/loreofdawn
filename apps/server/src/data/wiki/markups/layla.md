@@ -1,9 +1,9 @@
 {{Hero navigation|Main}}
-{{Infobox hero}}
+{{Infobox data}}
 She was revamped for the third time on [[Patch_Notes/1.7.94|26 June 2023]] as part of [[Project NEXT 2023]] and is one of the faces of [[Season 29|Season 29: Outlaw]], alongside [[Ixia]]. She is also the face of the [[Main Interface]] during the [[Rookie Season]] and serves as the guide throughout the in-game [[tutorial]].
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = <gallery>
 Layla comic.jpg|2023–present design
 Layla comic (2020–2023).jpg|2020–2023 design
@@ -143,7 +143,7 @@ With the malefic gun in Layla's hands, no evil stands a chance in front of her. 
 |cooldown           = 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0
 |mana-cost          = 40 / 45 / 50 / 55 / 60 / 65
 |quote              = 
-|description        = Layla fires a Malefic Bomb in the target direction, dealing {{scale|base=200-400|total-pa=80|pd}} to the first enemy hit (can [[critically strike]]).<br>Upon hitting an enemy, Layla's Basic Attacks and {{ai|Void Projectile}} gain extra range for 3 seconds, and she gains 60% [[Movement Speed]] that decays over 1.2 seconds. The duration of the Movement Speed boost is doubled if an enemy hero is hit.
+|description        = Layla fires a Malefic Bomb in the target direction, dealing {{scale|base=200-400|total-pa=80|pd}} to the first enemy hit (can [[critically strike]]).<br>Upon hitting an enemy, Layla's Basic Attacks and {{ai|Void Projectile}} gain extra range for 3 seconds, and she gains 60% [[Movement Speed]] that decays over 1.2 seconds. The duration of the Movement Speed boost is doubled if an enemy data is hit.
 |level-scaling=
 Base Damage: 200 / 240 / 280 / 320 / 360 / 400
 |ult-level-scaling=Total Basic Attack and Void Projectile Range: 5.9 / 6.3 / 6.7 / 7.1
@@ -261,12 +261,12 @@ File:【蕾拉来啦】「麻辣宝贝电台」ED-《Layla dance- bang bang》
 ==Trivia==
 [[File:Layla Hero Spotlight 2016.jpg|thumb|Layla's original design]]
 *Layla (ليلى) is an Arabic name meaning "night" or "dark beauty." This fits her midnight blue colored energy-based attacks, which resemble cosmic or night-themed elements.
-*Layla is the first hero to appear in MLBB’s Official Cinematics. Layla is one of the main protagonists in MLBB lore and appears in several official animated trailers and comics.
+*Layla is the first data to appear in MLBB’s Official Cinematics. Layla is one of the main protagonists in MLBB lore and appears in several official animated trailers and comics.
 *Layla's first original design was based on the [[Wp:Black Rock Shooter|''Black Rock Shooter'' franchise]]'s [https://blackrockshooter.fandom.com/wiki/Black%E2%98%85Rock_Shooter_(original_concept) titular character].
 *She has the longest attack range in the game (possibly tied only with {{hi|Zhask}}, if considering his {{ai|Nightmaric Spawn}}'s attack range), unlocking this at level 12, she is able to attack enemy turrets outside their own attack range, making her one of the best heroes at destroying enemy turrets.
-*From 2016 to 2020, she is the first hero that new players can obtain for free after completing the [[Tutorial]], but was replaced by {{hi|Eudora}}.
+*From 2016 to 2020, she is the first data that new players can obtain for free after completing the [[Tutorial]], but was replaced by {{hi|Eudora}}.
 *The sound of her projectile hit corresponds to her {{ai|Malefic Gun (Layla)|Malefic Gun}}; the further away the target, the higher the intensity of the sound effect.
-*She is the third hero to have two [[Starlight Member|Starlight]] skins ('''"Bunny Babe"''' and '''"Twilight Waltz"'''), following {{hi|Moskov}} ('''"Snake Eye Commander"''' and '''"Violet Spear"'''), {{hi|Saber}} ('''"Force Warrior"''' and '''"Iron Hound"'''), and {{hi|Clint}} ('''"Rock and Roll"''' and '''"Operator CL"''').
+*She is the third data to have two [[Starlight Member|Starlight]] skins ('''"Bunny Babe"''' and '''"Twilight Waltz"'''), following {{hi|Moskov}} ('''"Snake Eye Commander"''' and '''"Violet Spear"'''), {{hi|Saber}} ('''"Force Warrior"''' and '''"Iron Hound"'''), and {{hi|Clint}} ('''"Rock and Roll"''' and '''"Operator CL"''').
 **Additionally, the names of her painted skins, '''"Midnight Waltz"''' and '''"Sunset Waltz"''', did not match their respective appearances during their release. This was fixed in an unknown update.
 
 * Layla's "'''Blue Specter'''" skin is considered the rarest and unobtainable skin in the game. It was Layla’s first exclusive skin and was only available during early MLBB events in 2017.

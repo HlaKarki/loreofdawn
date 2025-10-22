@@ -1,6 +1,6 @@
 # Profile
 
-- She is the second hero to be introduced as a member of Forsaken Light.
+- She is the second data to be introduced as a member of Forsaken Light.
 
 - Chinese name: 梅丽莎 (Méilìshā)
 - Alias: Cursed Needle
@@ -169,5 +169,5 @@ Since there are other Forsaken Light members on the team, Melissa's Max HP, Max 
 - Melissa's skill descriptions are written on Melissa's first-person view with her character present.
 - Her concept revolves around cursed dolls and dark magic, giving her a unique identity among MLBB heroes. The voodoo theme is reflected in her skill set, where she controls "Muddles," a cursed doll that attacks enemies. Melissa is the first Marksman in the game to use a needle and voodoo doll as part of her attack kit.
 - Melissa from Mobile Legends: Bang Bang shares striking similarities with Nobara Kugisaki from Jujutsu Kaisen, both in design and personality. While not officially confirmed, it’s highly likely that Nobara served as a major inspiration for Melissa. This shared voodoo-style magic suggests that Melissa’s gameplay mechanics were inspired by Nobara’s abilities.
-- Melissa is the first hero in the game to have three companions in-game at the same time! Her three companions are Muddles, Cuddles, and Giggles although Muddles is the only companion that actively fights with her, functioning as a cursed link mechanic.
+- Melissa is the first data in the game to have three companions in-game at the same time! Her three companions are Muddles, Cuddles, and Giggles although Muddles is the only companion that actively fights with her, functioning as a cursed link mechanic.
 - Melissa is one of the few Marksmen with a strong self-peel ability aside from a dash, thanks to her ultimate (Go Away!), which allows her to counter melee heroes like assassins and fighters.

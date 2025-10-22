@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          =File:HellcurtImposing.png
 | full_name      = 
 | chinese_name   = 哈卡特 (hākǎtè)
@@ -109,8 +109,8 @@ He had always been a traitor.
 |quote          =He who hides in the shadow. 
 |description    = Helcurt remains in the {{B|Prowler|e}} state until spotted by the enemy team, gaining 15% extra [[Movement Speed]], and continuously regenerating {{scale|total-pa=30|}} HP if he has not dealt any damage. 
 He gains 50% extra [[Attack Speed]] and 50% extra [[Movement Speed]] (decreasing over time) for 4 seconds upon being spotted and leaves {{B|Prowler|e}} state 0.75 second later.
-Any hero killed after hit by Helcurt leaves a {{B|dark fog|e}} that explodes and spreads with a [[cooldown]] of 10 seconds. Helcurt [[Conceal|Conceals]] himself while within the {{B|dark fog|e}}.
-|notes          =*In the description, Helcurt's "Conceal" grants him Invisibility. The only other hero to possess an Conceal skill is {{hi|Miya}}.
+Any data killed after hit by Helcurt leaves a {{B|dark fog|e}} that explodes and spreads with a [[cooldown]] of 10 seconds. Helcurt [[Conceal|Conceals]] himself while within the {{B|dark fog|e}}.
+|notes          =*In the description, Helcurt's "Conceal" grants him Invisibility. The only other data to possess an Conceal skill is {{hi|Miya}}.
 
 *The sound effect when losing the state is audible to all nearby units.
 }}
@@ -179,7 +179,7 @@ Any hero killed after hit by Helcurt leaves a {{B|dark fog|e}} that explodes and
 |notes          =*Does not affect enemy [[turrets]].
 *Does not affect units inside {{hi|Yin}}'s {{ai|My Turn}}.
 *Enemies' attack and abilities are not restricted by vision
-*Is not consider as an assist if an enemy hero is killed within the duration without any Helcurt's damage. 
+*Is not consider as an assist if an enemy data is killed within the duration without any Helcurt's damage. 
 |bugs           = 
 |duration=3 seconds}}
 
@@ -232,7 +232,7 @@ Evolved Prowler in the Dark p6.jpg
 
 Dear player,
 <br>
-We discovered that our hero "Helcurt" might cause issues during gameplay. To ensure a fair competitive environment for every player, we are currently working on this issue and will temporarily ban this hero.
+We discovered that our data "Helcurt" might cause issues during gameplay. To ensure a fair competitive environment for every player, we are currently working on this issue and will temporarily ban this data.
 <br>
 We are deeply sorry for the inconvenience this may have caused you. Thank you for your understanding.
 <br>
@@ -243,16 +243,16 @@ Thank you for your continued support for MLBB!
 <br>
 Dear player,
 <br>
-We have fixed the issue where some players might encounter issues during the gameplay with our hero "Helcurt" This hero is now available once again. We are deeply sorry for the inconvenience this may have caused you. To express our apology, here is a small gift as your compensation. Thank you for your understanding.
+We have fixed the issue where some players might encounter issues during the gameplay with our data "Helcurt" This data is now available once again. We are deeply sorry for the inconvenience this may have caused you. To express our apology, here is a small gift as your compensation. Thank you for your understanding.
 <br>
 For questions and suggestions, please feel free to contact us via Customer Service.
 <br>
 Thank you for your continued support for MLBB!
 <br>
 —MLBB Team</ref>
-*Helcurt's {{ai|name=Dark Night Falls|Ultimate quote|hero=Helcurt/Audio}} could previously be heard by enemies. This has since been removed.
+*Helcurt's {{ai|name=Dark Night Falls|Ultimate quote|data=Helcurt/Audio}} could previously be heard by enemies. This has since been removed.
 * He is the heroes are only got nerfed in [[Patch Notes|Patch]] [[Patch Notes 1.5.32|1.5.32]], which are removing from {{AVC1|Silence 1.5s|CC}} to replaced with {{AVC1|Slow 1.5s|slow}} in {{ai|name=Shadow Transition|1st skill (without <s>{{ai|name=Dark Night Falls|ultimate}}</s>)}} to making {{AVC1|Silence effect|CC}} only during {{ai|name=Dark Night Falls|ultimate}} in active when using {{ai|name=Shadow Transition|1st skill}}.
-*Helcurt is the last hero to receive "Zodiac" type skins (Scorpio).
+*Helcurt is the last data to receive "Zodiac" type skins (Scorpio).
 
 ==References==
 {{reflist}}

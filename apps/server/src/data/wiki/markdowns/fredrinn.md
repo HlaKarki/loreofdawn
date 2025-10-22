@@ -180,7 +180,7 @@ Notes:
 
 ## Piercing Strike
 
-Fredrinn thrusts his sword in the target direction, dealing scaling physical damage to enemies hit and slowing them by 30% for 2 seconds. His next Basic Attack gains extra attack range and deals bonus physical damage scaling with skill level. This skill deals 150% damage to non-hero (non-heroic) enemies.
+Fredrinn thrusts his sword in the target direction, dealing scaling physical damage to enemies hit and slowing them by 30% for 2 seconds. His next Basic Attack gains extra attack range and deals bonus physical damage scaling with skill level. This skill deals 150% damage to non-data (non-heroic) enemies.
 
 - Base Damage by Level: 125 / 150 / 175 / 200 / 225 / 250
 - Scaling: deals additional damage based on Fredrinn's physical attack and level.
@@ -230,7 +230,7 @@ Notes:
 # Trivia
 
 - "Fredrinn" sounds similar to Frederick, a Germanic name meaning "peaceful ruler" (frid = peace, ric = ruler).
-- The release of a new hero took 98 days to succeed Fredrinn, making it the longest gap between hero releases.
+- The release of a new data took 98 days to succeed Fredrinn, making it the longest gap between data releases.
 - Originally, he supposed to have a baseball bat instead of a sword. Initial drafts suggested that Fredrinn would wield dual short swords instead of a single large blade. The developers opted for one heavy sword to emphasize his brute strength and precision.
 - He love adventures and he currently resides in Los Pecados.
 - First Tank with a "Combo-Based" Mechanic. Unlike most tanks, Fredrinn relies on chaining multiple skills to activate his ultimate, Appraiser’s Wrath.

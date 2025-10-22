@@ -83,7 +83,7 @@ Terms:
 
 ## Ultimate Snipe
 
-Lesley gains vision to nearby enemies and can lock onto the target enemy hero and fires 4 Lethal Bullets in succession. Each bullet deals damage based on level and stats and restores 10 energy on hit. The Bullets can be blocked by other enemy heroes. If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%.
+Lesley gains vision to nearby enemies and can lock onto the target enemy data and fires 4 Lethal Bullets in succession. Each bullet deals damage based on level and stats and restores 10 energy on hit. The Bullets can be blocked by other enemy heroes. If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%.
 
 Crit Chance by level: 5% / 10% / 15%
 Base Damage by level: 250 / 300 / 350
@@ -107,8 +107,8 @@ Notes:
 - The name **Lesley** has Scottish origins and means "garden of holly" or "fortress of holly". It comes from the Scottish surname *Leslie*, which was derived from a place name in Scotland. Her name might symbolize her precision, stealth, and resilience, much like a fortress that stands strong or a sharpshooter hiding in the shadows.
 - Unlike other Marksmen, Lesley doesn’t rely on attack speed; she focuses on high burst damage from critical hits.
 - Lesley is one of the few marksmen in the game who use Energy instead of Mana.
-- Her passive, **Lethal Shot**, allows her to deal 100% critical damage after gaining extra energy, making her a sniper-type hero rather than a typical ADC (Attack Damage Carry).
+- Her passive, **Lethal Shot**, allows her to deal 100% critical damage after gaining extra energy, making her a sniper-type data rather than a typical ADC (Attack Damage Carry).
 - Both Lesley and her royal house Vance have names with Old English roots. Vance means "Marsh, Mud, and Fen" and is used as a surname and masculine given name in some usages.
 - Lesley's Quote; *"Enemy in range, and you are too."* is a reference from Murphy's Law of Combat.
-- Lesley is the first and, so far, the only Marksman/Assassin hybrid hero in the game.
+- Lesley is the first and, so far, the only Marksman/Assassin hybrid data in the game.
 - In her early designs, she had shorter hair and a more military-style outfit. The developers later gave her a long coat and a more assassin-like appearance, making her more stylish and deadly.

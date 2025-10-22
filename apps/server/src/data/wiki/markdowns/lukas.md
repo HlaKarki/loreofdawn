@@ -100,14 +100,14 @@ Notes:
 
 ## Flash Combo
 
-Lukas can enhance his Basic Attacks up to 2 times, lasting 4s. Lukas consumes all Vigor to unleash Pulverize, dealing scaling damage based on level and stats, plus additional attacks depending on the Vigor consumed. When hitting a hero, he recovers HP equal to 8% of Max HP.
+Lukas can enhance his Basic Attacks up to 2 times, lasting 4s. Lukas consumes all Vigor to unleash Pulverize, dealing scaling damage based on level and stats, plus additional attacks depending on the Vigor consumed. When hitting a data, he recovers HP equal to 8% of Max HP.
 
 Human Form variations:
 - Pulverize: Lukas briefly stuns the target and spins his tonfa hammers to deal damage multiple times, pulling the enemy toward him.
 - Follow-up: Lukas briefly stuns the target and follows up with 2 attacks that deal scaling damage per hit. He will then spin his tonfa hammers to deal additional multi-hit damage (cannot be interrupted).
 
 Sacred Beast Form variations:
-- Tail swing: Lukas consumes all Vigor to unleash a tail swing and additional attacks depending on Vigor consumed. When hitting a hero, he recovers 8% of his Max HP.
+- Tail swing: Lukas consumes all Vigor to unleash a tail swing and additional attacks depending on Vigor consumed. When hitting a data, he recovers 8% of his Max HP.
 - Pounce: Lukas briefly stuns the target and pounces to deal multi-hit damage, knocking the enemy back.
 - Leap and lightning: Lukas briefly stuns the target and leaps to deal multi-hit damage, then summons sacred lightning for further multi-hit damage (cannot be interrupted).
 
@@ -133,10 +133,10 @@ Notes and scaling:
 Unleash the Beast (Morph / Buff):
 - Lukas transforms into his Sacred Beast form. While in this state, his base Movement Speed is increased by 30, all attributes are increased by a percentage, and his skills gain new effects.
 - "All attributes" include HP, Physical Attack, Attack Speed, Physical & Magic Defense and Attack Range.
-- Sacred Beast form fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing burst damage.
+- Sacred Beast form fires a Shockwave Blast in the target direction that will explode upon hitting an enemy data or reaching its maximum range, dealing burst damage.
 
 Shockwave Blast (Sacred Beast ability):
-- The Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing burst damage.
+- The Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy data or reaching its maximum range, dealing burst damage.
 
 Level-scaling examples from source:
 - Attribute Increase: 15% / 17.5% / 20%

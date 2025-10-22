@@ -16,13 +16,13 @@
 
 He was released as part of the 515 eParty 2021.
 
-Players had a chance to redeem the hero for free for a limited time.
+Players had a chance to redeem the data for free for a limited time.
 
 # Bio
 
 Phoveus was once a Moniyan soldier from the borders of the Lantis Mountains. His unit, consisting of fourteen hardened warriors, was well known among the locals for their reckless bravery, fighting against the Abyss using questionable yet effective methods.
 
-During one disastrous offensive by the Empire, Phoveus was forced to invoke the power of an Evil God to turn the tide. Despite the lives he saved, Phoveus was branded a sinner for conspiring with a demon. On the way to his execution, the Evil God attempted to take over Phoveus's body, but Phoveus took advantage of the situation to bind himself and the Evil God together in a stone monolith. While the Empire still condemns Phoveus as a sinner, those on the border will forever regard him as a hero.
+During one disastrous offensive by the Empire, Phoveus was forced to invoke the power of an Evil God to turn the tide. Despite the lives he saved, Phoveus was branded a sinner for conspiring with a demon. On the way to his execution, the Evil God attempted to take over Phoveus's body, but Phoveus took advantage of the situation to bind himself and the Evil God together in a stone monolith. While the Empire still condemns Phoveus as a sinner, those on the border will forever regard him as a data.
 
 The Nameless Monolith under the crimson twilight of the Moniyan sky, the stench of blood wafting through the cold air hinted at a gruesome battle not long ago. The wheels of a prison wagon bounced shakily over loose rocks as it was pulled along the mountain road.
 
@@ -92,7 +92,7 @@ Bewitched by Astaros, Phoveus sacrificed his own two eyes in exchange for a grea
 
 Phoveus' next basic attack allows him to charge at the enemy, knocking them back, dealing extra physical damage equal to 4% of the enemy's Max HP, and gaining a Shield equal to 8% of his Max HP. This effect has a 26 to 14 seconds cooldown based on level.
 
-Whenever an enemy hero blinks, dashes, or is displaced within 8 units of Phoveus, the cooldown of this passive will be reduced by 20% and the cooldown of his other skills will be reduced by 0.5 second.
+Whenever an enemy data blinks, dashes, or is displaced within 8 units of Phoveus, the cooldown of this passive will be reduced by 20% and the cooldown of his other skills will be reduced by 0.5 second.
 
 - The enhanced basic attack has a range of 4 units, with the indicator visible to everyone.
 - The passive triggers even when enemies farther than 8 units dash into any point within 8 units.
@@ -122,7 +122,7 @@ Notes:
 
 ## Infernal Pursuit
 
-Phoveus leaps into the air and smashes down with his monolith at the enemy hero, dealing physical damage plus extra damage equal to a percentage of the target's Max HP to enemies in the area while Phoveus recovers HP based on his lost HP. The skill can apply Sinner's Mark to the enemy hero hit.
+Phoveus leaps into the air and smashes down with his monolith at the enemy data, dealing physical damage plus extra damage equal to a percentage of the target's Max HP to enemies in the area while Phoveus recovers HP based on his lost HP. The skill can apply Sinner's Mark to the enemy data hit.
 
 - Base Damage: 250 / 375 / 500
 - Bonus Damage (percentage of target Max HP): 5% / 7.5% / 10%

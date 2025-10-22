@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | name           = Popol
 | chinese_name   = 波波鲁 (bōbōlǔ)
 | image          = Popol trailer.png
@@ -131,7 +131,7 @@ Now, with both fighting side by side, Popol and Kupa demonstrated incredible syn
 |term-1             = Max HP
 |term-2             = Physical Basic Attack
 |term-3             = ATK Effect
-|notes              = *Despite being considered as a hero alongside Popol, Kupa is a [[summoned unit]] accompanied by the hero Popol, due to the fact that he summons it to be resurrected.
+|notes              = *Despite being considered as a data alongside Popol, Kupa is a [[summoned unit]] accompanied by the data Popol, due to the fact that he summons it to be resurrected.
 *If Popol dies, Kupa also die with him.
 *Kupa possesses attributes held in common by heroes and creeps. Known properties are shown below:
 <table class="wikitable" style="margin: auto;">
@@ -142,7 +142,7 @@ Now, with both fighting side by side, Popol and Kupa demonstrated incredible syn
 <tr>
 <td>
 <ul>
-<li>Kupa can be targeted by hero skills and [[battle spells]] that specifically targets heroes (except "Attach" skills like {{ai|Heartguard}} and {{ai|Grab, Grab}}, and {{ai|Contract Chase Fate|Contract: Chase Fate}} as these skills can only target Popol).</li>
+<li>Kupa can be targeted by data skills and [[battle spells]] that specifically targets heroes (except "Attach" skills like {{ai|Heartguard}} and {{ai|Grab, Grab}}, and {{ai|Contract Chase Fate|Contract: Chase Fate}} as these skills can only target Popol).</li>
 <li>It cannot be targeted by {{hi|Hanzo}}'s skill {{ai|Ninjutsu Demon Feast|Ninjutsu: Demon Feast}}.</li>
 <li>Kupa can increase his damage with Focusing Mark.</li>
 </ul>
@@ -157,7 +157,7 @@ Now, with both fighting side by side, Popol and Kupa demonstrated incredible syn
 </td>
 </tr>
 </table>
-|bugs=*Kupa will take an additional damage on certain skills that has reduced or increased damage to non-hero units.
+|bugs=*Kupa will take an additional damage on certain skills that has reduced or increased damage to non-data units.
 **{{Hi|Helcurt}}'s {{ai|Deadly Stinger}} will deal 100%, and 70% of its damage (stating that it deals "70% damage against minions and creeps")
 **{{Hi|Johnson}}'s {{ai|Electromag Rays}} will deal 100%, and 50% of its damage (stating that the "damage is increased by 50% against creeps")
 **{{hi|Khaleed}}'s {{Ai|Desert Tornado}} will deal 100%, and 50% of its damage (stating that it "deals 50% damage to minions and creeps")
@@ -345,7 +345,7 @@ Hero Spotlight Popol and Kupa Iceland Companions Mobile Legends Bang Bang|Popol 
 
 ==Trivia==
 *Popol & Kupa are heavily inspired by Nordic and Arctic tribal cultures, particularly their hunting traditions and strong bonds with animals like wolves and dogs. His '''fur-lined outfit''' and '''tribal markings''' resemble [https://en.wikipedia.org/wiki/Inuit Inuit], [https://en.wikipedia.org/wiki/S%C3%A1mi_people Sámi], and [https://en.wikipedia.org/wiki/Vikings Viking-era] hunters who lived in icy regions.
-*Popol and Kupa are the first heroes whose names and titles are shared. Despite being considered as a hero alongside Popol, Kupa is a summoned unit, due to the fact that he summons it to be resurrected.
+*Popol and Kupa are the first heroes whose names and titles are shared. Despite being considered as a data alongside Popol, Kupa is a summoned unit, due to the fact that he summons it to be resurrected.
 *Popol is one of the few heroes that breaks the 4th wall through one of his quotes.
 *Popol & Kupa are the only Marksman in Mobile Legends: Bang Bang with a full four-skill set.
 *Kupa is based on [https://en.wikipedia.org/wiki/Fenrir Fenrir], which is is a monstrous wolf in [https://en.wikipedia.org/wiki/Norse_mythology Norse mythology]. In Old Norse texts, Fenrir plays a key role during the events of Ragnarök.

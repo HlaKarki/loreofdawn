@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 ==Lore==
 {{retcon|[[Saber#Lore|Saber &sect; Lore]], [[Alpha#Lore|Alpha &sect; Lore]], [[Lesley#Lore|Lesley &sect; Lore]]}}
-{{Infobox hero story
+{{Infobox data story
 |image=HarleyCrying.png
 | full_name      = Harley of House Vance
 | alias          = Mage Genius
@@ -176,7 +176,7 @@ He told Lesley to step down, and then he hired some other aides.
 |skill-effect-2 = Slow
 |quote          = A single spark can start a praine fire
 |image-legend   = 
-|description    = Harley casts a magic ring of fire at the target enemy hero (can be blocked by other heroes), dealing them 200-400 {{AVC1|(+60%Total Magic Power)}} {{AVC1|Magic Damage}} and slowing them by 40% for 1.5 seconds. The magic ring stays around the enemy for 4 seconds, during which Harley can hit the magic ring to damage the enemy with his skills. The magic ring will explode at the end of the duration, dealing 100-200 {{AVC1|(+30%Total Magic Power)}} plus 50% of the enemy's damage taken within the duration as {{AVC1|Magic Damage.}}
+|description    = Harley casts a magic ring of fire at the target enemy data (can be blocked by other heroes), dealing them 200-400 {{AVC1|(+60%Total Magic Power)}} {{AVC1|Magic Damage}} and slowing them by 40% for 1.5 seconds. The magic ring stays around the enemy for 4 seconds, during which Harley can hit the magic ring to damage the enemy with his skills. The magic ring will explode at the end of the duration, dealing 100-200 {{AVC1|(+30%Total Magic Power)}} plus 50% of the enemy's damage taken within the duration as {{AVC1|Magic Damage.}}
 |ls-1           = Base Damage: 200 / 300 / 400
 |ls-2           = Extra Damage: 100 / 150 / 200
 |term-1         = Magic Damage Skill
@@ -185,7 +185,7 @@ He told Lesley to step down, and then he hired some other aides.
 |notes          = 
 }}
 === Buff ===
-{{infobox hero ability
+{{infobox data ability
 |image=Harley-Lesley buff
 |name=Harley buff
 |description=Increases both {{B|HP}} by 10 when battling with {{Hi|Lesley}}[.]

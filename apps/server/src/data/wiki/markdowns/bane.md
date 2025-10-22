@@ -73,7 +73,7 @@ Notes:
 
 ## Crab Claw Cannon
 
-Skill 1 cooldown formula: ((8.4 - (0.4 × hero level)) × (1 - CD reduction)) × (1 - (physical attack × 0.08%)).
+Skill 1 cooldown formula: ((8.4 - (0.4 × data level)) × (1 - CD reduction)) × (1 - (physical attack × 0.08%)).
 
 Bane fires his Crab Claw Cannon in the target direction, dealing physical damage to the first enemy hit and then 150%–200% damage to a random enemy behind them (prioritizes enemy heroes). Enemies hit are slowed by a percentage for 1 second. Every 100 points of a relevant offensive stat that Bane possesses reduces this skill's cooldown by an additional 8%.
 
@@ -89,7 +89,7 @@ Notes:
 
 Total skill damage formula: skill damage × (1 + (0.2 × charging time)).
 
-Skill 2 cooldown formula: ((8.1 - (0.6 × hero level)) × (1 - CD reduction)) × (1 - (magic power × 0.07%)).
+Skill 2 cooldown formula: ((8.1 - (0.6 × data level)) × (1 - CD reduction)) × (1 - (magic power × 0.07%)).
 
 Bane chugs his ale, recovering health equal to a percentage of his Max HP and gaining 50% extra Movement Speed that decays over 2.5 seconds. Bane then spits venom in the target direction, dealing magic damage to enemies in a fan-shaped area (venom damage scales up to 150% with charging time). Every 100 points of a relevant offensive stat that Bane possesses additionally reduces this skill's cooldown by 7%.
 

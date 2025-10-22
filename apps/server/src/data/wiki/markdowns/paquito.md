@@ -1,6 +1,6 @@
 # Profile
 
-He is the first hero to receive the Tagalog voiceover.
+He is the first data to receive the Tagalog voiceover.
 
 - Lane: Jungle
 - Role(s): Fighter/Assassin
@@ -95,13 +95,13 @@ He'd rely on his two fists. With them, he'd fight for the hopes and dreams of al
 
 > I'd often even think to myself: if there's all these great heroes out there, saving our world, then why is it still such a sorry sight?
 
-> When you appeared, I felt like all my hero fantasies had became a reality right at that moment.
+> When you appeared, I felt like all my data fantasies had became a reality right at that moment.
 
 > That's why I pulled at you so fervently, insisting you come to stay in my village.
 
-> I longed to know what the life of a hero was truly like, what kind of experiences and trials made you so strong.
+> I longed to know what the life of a data was truly like, what kind of experiences and trials made you so strong.
 
-> And maybe, just maybe, I could become a hero too... And that's why I had you stay, on the pretense of thanking you for saving me.
+> And maybe, just maybe, I could become a data too... And that's why I had you stay, on the pretense of thanking you for saving me.
 
 > Haha... That was pretty sly of me, huh?
 
@@ -139,7 +139,7 @@ He'd rely on his two fists. With them, he'd fight for the hopes and dreams of al
 
 > I innocently pleaded for you not to leave, to live here with us.
 
-> But I knew, too, that I couldn't just make a hero like you stay here in our little village.
+> But I knew, too, that I couldn't just make a data like you stay here in our little village.
 
 > It was just a wild wish of mine, that's all.
 
@@ -181,7 +181,7 @@ He'd rely on his two fists. With them, he'd fight for the hopes and dreams of al
 
 - Cooldown (per level): 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds.
 
-- Description: Paquito throws a punch in the target direction, dealing physical damage to enemies hit. If an enemy hero is hit, Paquito gains a shield for 2.5 seconds. The skill's damage and shield values increase when enhanced by Champ Stance. The regular and enhanced shields can stack.
+- Description: Paquito throws a punch in the target direction, dealing physical damage to enemies hit. If an enemy data is hit, Paquito gains a shield for 2.5 seconds. The skill's damage and shield values increase when enhanced by Champ Stance. The regular and enhanced shields can stack.
 
 - Values:
   - Base Damage: 210 / 240 / 270 / 300 / 330 / 360 (physical damage based on level and stats).
@@ -198,7 +198,7 @@ He'd rely on his two fists. With them, he'd fight for the hopes and dreams of al
 
 - Cooldown (per level): 8.0 / 7.5 / 7.0 / 6.5 / 6.0 / 5.5 seconds.
 
-- Description: Paquito dashes in the target direction and throws a jab, dealing physical damage to enemies hit. Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding with an enemy hero or creep. The damage is increased when enhanced by Champ Stance.
+- Description: Paquito dashes in the target direction and throws a jab, dealing physical damage to enemies hit. Paquito deals no damage to enemies in his path but will stop and throw the jab early upon colliding with an enemy data or creep. The damage is increased when enhanced by Champ Stance.
 
 - Values:
   - Jab Damage: 150 / 210 / 270 / 330 / 390 / 450 (physical damage based on level and stats).
@@ -207,8 +207,8 @@ He'd rely on his two fists. With them, he'd fight for the hopes and dreams of al
 - Terms: Blink, Physical Skill
 
 - Notes:
-  - Upon stopping on a hero/creep or reaching its final dash distance, the skill does damage in a rectangular shape starting from behind Paquito to a small square shape in front of him.
-  - It has a sizable hit box larger than Paquito's main body, meaning Paquito will immediately stop on a hero/creep even if they are slightly right behind him or at his sides. Its size is about half of Paquito's range.
+  - Upon stopping on a data/creep or reaching its final dash distance, the skill does damage in a rectangular shape starting from behind Paquito to a small square shape in front of him.
+  - It has a sizable hit box larger than Paquito's main body, meaning Paquito will immediately stop on a data/creep even if they are slightly right behind him or at his sides. Its size is about half of Paquito's range.
 
 ## Knockout Strike
 

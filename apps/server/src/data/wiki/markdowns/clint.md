@@ -123,11 +123,11 @@ Notes:
 
 # Trivia
 
-- Clint was the very first hero to be reworked. He's also the only one whose rework was aimed to nerf him, as he was intended to be "a marksman who's good at poking and consuming enemies from distance, rather than a hero who charges up and deals crowd damage like an assassin".
+- Clint was the very first data to be reworked. He's also the only one whose rework was aimed to nerf him, as he was intended to be "a marksman who's good at poking and consuming enemies from distance, rather than a data who charges up and deals crowd damage like an assassin".
 - All of his old skills were reused or repurposed for other heroes with some changes.
 - Passive and first skill was repurposed for other heroes respectively.
-- Second skill was reused for another hero.
-- Ultimate was reused for another hero.
+- Second skill was reused for another data.
+- Ultimate was reused for another data.
 - Clint has the most redesign out of all of the heroes in the game and currently has six redesigns.
 - Clint's name is presumably referenced from Clint Eastwood, who is known for starring and directing Western-style films and television series.
 - Despite having a double-barreled shotgun by design, it behaves as a rifle that deals damage in a straight line, instead of a spread shot of a typical shotgun.
@@ -135,4 +135,4 @@ Notes:
 - His ultimate is one of the few skills in the game that can stack up uses.
 - Clint's Valentine skin refers to the American hard rock band Guns N' Roses.
 - Clint is one of the heroes who doesn't have a basic skin.
-- He's the first hero to have two redesigns titled Rock and Roll and Operator CL.
+- He's the first data to have two redesigns titled Rock and Roll and Operator CL.

@@ -67,13 +67,13 @@ Terms and notes:
 
 Additional notes:
 
-- Despite being considered as a hero alongside Popol, Kupa is a summoned unit accompanied by the hero Popol, due to the fact that Popol summons it to be resurrected.
+- Despite being considered as a data alongside Popol, Kupa is a summoned unit accompanied by the data Popol, due to the fact that Popol summons it to be resurrected.
 - If Popol dies, Kupa also dies with him.
 - Kupa possesses attributes held in common by heroes and creeps.
 
 Known bugs and quirks:
 
-- Kupa may take additional damage from certain skills that have reduced or increased damage against non-hero units. Examples include skills that deal a reduced or increased percentage to minions and creeps.
+- Kupa may take additional damage from certain skills that have reduced or increased damage against non-data units. Examples include skills that deal a reduced or increased percentage to minions and creeps.
 
 ## Bite 'em, Kupa!
 
@@ -168,7 +168,7 @@ Notes:
 # Trivia
 
 - Popol & Kupa are heavily inspired by Nordic and Arctic tribal cultures, particularly their hunting traditions and strong bonds with animals like wolves and dogs. His **fur-lined outfit** and **tribal markings** resemble Inuit, Sámi, and Viking-era hunters who lived in icy regions.
-- Popol and Kupa are the first heroes whose names and titles are shared. Despite being considered as a hero alongside Popol, Kupa is a summoned unit, due to the fact that he summons it to be resurrected.
+- Popol and Kupa are the first heroes whose names and titles are shared. Despite being considered as a data alongside Popol, Kupa is a summoned unit, due to the fact that he summons it to be resurrected.
 - Popol is one of the few heroes that breaks the fourth wall through one of his quotes.
 - Popol & Kupa are the only Marksman in Mobile Legends: Bang Bang with a full four-skill set.
 - Kupa is based on Fenrir, a monstrous wolf in Norse mythology. In Old Norse texts, Fenrir plays a key role during the events of Ragnarök.

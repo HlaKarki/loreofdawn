@@ -1,10 +1,10 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 They are the faces of ''MLBB'' [[Season 31|Season 31: Beats]].
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 | image          =Cici comic.jpg
 | full_name      =
 | alias          =
@@ -211,7 +211,7 @@ And so the curtain falls.
 |mana-cost      =
 |energy-cost    =
 |quote          =
-|description    =Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5 seconds, hitting them up to 10 times and dealing {{B|Physical Damage}} equal to {{scale|base=60-85}} plus {{scale|base=3-4.5|extra-pa=1.2}}% of the target's {{B|Max HP}} per hit. Cici can move and use other skills during this attack.<br>If there's no enemy hero within the range, Yoyo will attack [[Turrets]] or the [[Base]] instead.<br>The skill deals 20% extra damage to [[Minions]].
+|description    =Cici uses Yoyo to continuously attack the nearest enemy within range (prioritizing heroes) for 3.5 seconds, hitting them up to 10 times and dealing {{B|Physical Damage}} equal to {{scale|base=60-85}} plus {{scale|base=3-4.5|extra-pa=1.2}}% of the target's {{B|Max HP}} per hit. Cici can move and use other skills during this attack.<br>If there's no enemy data within the range, Yoyo will attack [[Turrets]] or the [[Base]] instead.<br>The skill deals 20% extra damage to [[Minions]].
 |duration=3.5
 |level-scaling=Base Damage: 60 / 65 / 70 / 75 / 80 / 85
 Target's HP Percentage: 3% / 3.3% / 3.6% / 3.9% / 4.2% / 4.5%
@@ -261,7 +261,7 @@ Max Damage to Creeps: 75 / 130 / 185 / 240 / 295 / 350
 |mana-cost      =
 |energy-cost    =
 |quote          =
-|description    =Cici throws Yoyo at the target enemy hero and links them with another nearby enemy hero, dealing {{scale|base=100|total-pa=10|pd}}, [[slowing]] them by 30%, and [[pulling]] them together.<br>During this time, Cici can use {{ai|Yo-Yo Blitz}} to attack both linked targets at the same time. If only one is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced to 20% 
+|description    =Cici throws Yoyo at the target enemy data and links them with another nearby enemy data, dealing {{scale|base=100|total-pa=10|pd}}, [[slowing]] them by 30%, and [[pulling]] them together.<br>During this time, Cici can use {{ai|Yo-Yo Blitz}} to attack both linked targets at the same time. If only one is within the range of Yo-Yo Blitz, Cici will attack the target twice, but the damage of the second attack will be reduced to 20% 
 |level-scaling=Decay Ratio: 20% / 25% / 30%
 |ls-2           =
 |ls-3           =
@@ -300,7 +300,7 @@ Hero1233-icon.png|Circus Reverie
 Hero1233-color01-icon.png|Circus Fantasy
 Hero1233-color02-icon.png|Circus Glamour
 </gallery>
-=== "Non-stop Fun" hero series stickers ===
+=== "Non-stop Fun" data series stickers ===
 <gallery spacing="small" captionalign="center" bordercolor="transparent" widths="100" hideaddbutton="true">
 File:Cici Caught.gif|Caught
 File:Cici Clap.gif|Clap

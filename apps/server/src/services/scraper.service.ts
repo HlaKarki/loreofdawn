@@ -67,7 +67,7 @@ class WikiScraper {
 		properties: {
 			name: {
 				type: "string",
-				description: "Canonical hero name, e.g., 'Miya'.",
+				description: "Canonical data name, e.g., 'Miya'.",
 				examples: ["Miya", "Lapu-Lapu", "Brody"],
 			},
 

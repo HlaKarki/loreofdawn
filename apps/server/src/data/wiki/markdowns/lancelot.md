@@ -142,7 +142,7 @@ After a short period (duration unknown) of charging, Lancelot performs an execut
 
 - Lancelot’s fighting style is heavily inspired by fencing. He wields a rapier, the primary weapon in fencing, known for its speed and precision.
 - Along with his lover, , , and , they are the only heroes to be based on literature.
-- He is based on the character with the same name in the Arthurian legend; depicted as King Arthur's greatest companion. Another hero based from Arthurian legend is.
+- He is based on the character with the same name in the Arthurian legend; depicted as King Arthur's greatest companion. Another data based from Arthurian legend is.
 - In the legend, his character's lover is supposed to be, but this is changed in the game as she was revealed as his younger sister instead.
 - The letter "L" he draws in his old entry animation is inspired by Zorro's signature "Z".
 - He seems to be showing a lot of love for his swords. This is evident from his quotes " my sword", "Become one with the sword!"

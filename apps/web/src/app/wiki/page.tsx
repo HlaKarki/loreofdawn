@@ -15,7 +15,7 @@ export default async function WikiIndexPage() {
 	const sortedHeroes = heroes.sort((a, b) => a.display_name.localeCompare(b.display_name));
 
 	return (
-		<div className=" mx-auto flex w-full max-w-5xl flex-col gap-6 px-4 pb-16 pt-10 sm:px-6 lg:px-8">
+		<div className="mx-auto flex w-full max-w-5xl flex-col gap-6 px-4 pb-16 pt-25 sm:px-6 lg:px-8">
 			<header className="flex flex-col gap-2">
 				<h1 className="text-3xl font-semibold tracking-tight md:text-4xl">Hero Wiki</h1>
 				<p className="text-muted-foreground">
@@ -26,6 +26,7 @@ export default async function WikiIndexPage() {
 				{sortedHeroes.map((hero) => (
 					<li key={hero.url_name}>
 						<Link
+							prefetch={true}
 							href={`/wiki/${encodeURIComponent(hero.url_name)}`}
 							className="block rounded-lg border border-border bg-card px-4 py-3 transition hover:border-amber-500 hover:bg-card/80"
 						>

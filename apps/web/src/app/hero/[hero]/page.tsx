@@ -1,10 +1,11 @@
-import type { ConsolidatedHero, MlHeroList } from "@repo/database";
+import type { ConsolidatedHero } from "@repo/database";
 import { HeroHeader } from "@/app/hero/_components/header.hero";
 import { HeroSkills } from "@/app/hero/_components/skills.hero";
 import { HeroRelationship } from "@/app/hero/_components/relationship.hero";
 import { HeroMatchup } from "@/app/hero/_components/matchup.hero";
 import { HeroTale } from "@/app/hero/_components/tale.hero";
 import { makeUrl } from "@/lib/utils.api";
+import { HeroGraph } from "@/app/hero/_components/graph.hero";
 
 interface HeroPageProps {
 	params: Promise<{
@@ -30,18 +31,19 @@ export default async function HeroPage({ params, searchParams }: HeroPageProps) 
 	}
 
 	if (!response.ok) {
-		throw new Error("Failed to load hero data");
+		throw new Error("Failed to load data data");
 	}
 
-	const consolidated = (await response.json()) as ConsolidatedHero;
+	const { profile, matchups, meta, graph } = (await response.json()) satisfies ConsolidatedHero;
 
 	return (
-		<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-10 sm:px-6 lg:px-8">
-			<HeroHeader hero={consolidated} />
-			<HeroTale hero={consolidated} />
-			<HeroSkills hero={consolidated} />
-			<HeroRelationship hero={consolidated} />
-			<HeroMatchup hero={consolidated} />
+		<div className="mt-15 mx-auto w-full max-w-6xl px-4 pb-16 pt-10 sm:px-6 lg:px-8">
+			<HeroHeader data={profile} metadata={meta} />
+			<HeroTale data={profile} />
+			<HeroSkills data={profile} />
+			<HeroRelationship data={profile} />
+			<HeroMatchup data={matchups} />
+			<HeroGraph data={graph} />
 		</div>
 	);
 }

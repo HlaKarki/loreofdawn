@@ -1,9 +1,9 @@
-{{Tabs hero}}
+{{Tabs data}}
 {{Hero info}}
 {{Hero stats}}
 ==Story==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |full_name      = 
 |chinese_name   = 珞翊 (luò yì)
 |alias          = Yin-yang Geomancer
@@ -153,7 +153,7 @@ But Luo Yi's own ambitions stretched beyond all of this—to the utopia created 
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Luo Yi's skills create {{b|Sigils of Yin/Yang|mark}} on the battlefield. Each Sigil lasts up to 6 seconds.<br>Sigils opposite attributes will trigger {{b|Yin-Yang Reaction|e}} when they are within a certain distance,<sup>[''how much?'']</sup> dealing {{Scale|base=365|level=20|total-mp=190|md}} to the marked [enemy heroes], [[stunning]] them for 1 second, and [[pulled|pulling them toward each other]] .<br>Each time Luo Yi applies a new Sigil to a marked enemy [hero], she gains {{scale|base=300|level=10|total-mp=150|shield}} (up to 3 stacks) and 30% extra [[Movement Speed]] that decays over 2 seconds.
+|description    = Luo Yi's skills create {{b|Sigils of Yin/Yang|mark}} on the battlefield. Each Sigil lasts up to 6 seconds.<br>Sigils opposite attributes will trigger {{b|Yin-Yang Reaction|e}} when they are within a certain distance,<sup>[''how much?'']</sup> dealing {{Scale|base=365|level=20|total-mp=190|md}} to the marked [enemy heroes], [[stunning]] them for 1 second, and [[pulled|pulling them toward each other]] .<br>Each time Luo Yi applies a new Sigil to a marked enemy [data], she gains {{scale|base=300|level=10|total-mp=150|shield}} (up to 3 stacks) and 30% extra [[Movement Speed]] that decays over 2 seconds.
 |ls-1           = Base Damage: 385 / 405 / 425 / 445 / 465 / 485 / 505 / 525 / 545 / 565 / 585 / 605 / 625 / 645 / 665
 |ls-2           = Shield: 310 / 320 / 330 / 340 / 350 / 360 / 370 / 380 / 390 / 400 / 410 / 420 / 430 / 440 / 450
 |ls-3           = 
@@ -291,9 +291,9 @@ Hero968-icon.png|Starborne Matron
 *Her title Geomancer, someone who practice [https://en.wikipedia.org/wiki/Geomancy geomancy] which translate to Earth Divination. 
 *Her abilities are inspired by Taoist Yin-Yang philosophy, which represents balance in the universe.
 *In the initial release on the advance server, she was called Yi and has four skills instead of three.
-*She is the first hero that can teleport teammates. Luo Yi's Ultimate (Diversion) allows her to teleport her teammates to a different location, making it one of the most game-changing mobility skills in MLBB.
-*Luo Yi was the first hero released in the "Oriental Fighters" revamp that introduced Eastern-themed lore into MLBB.
-*She is the third hero to use the concept of Yin and Yang along with {{hi|Kagura}} and {{hi|Lunox}}.
+*She is the first data that can teleport teammates. Luo Yi's Ultimate (Diversion) allows her to teleport her teammates to a different location, making it one of the most game-changing mobility skills in MLBB.
+*Luo Yi was the first data released in the "Oriental Fighters" revamp that introduced Eastern-themed lore into MLBB.
+*She is the third data to use the concept of Yin and Yang along with {{hi|Kagura}} and {{hi|Lunox}}.
 ==References==
 {{reflist}}
 ==Navigation==

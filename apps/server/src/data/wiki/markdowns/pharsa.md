@@ -44,7 +44,7 @@ As princess of the Crow Clan of Askati Forest, she was born with mutated blood. 
 
 ## Spiritual Unity
 
-Every 8 seconds, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy hero, dealing extra damage equal to a percentage of the target's max HP (starts at 8% and increases by 1% for every 200 Magic Power owned) and slowing them by 60% for 1 second.
+Every 8 seconds, Verri enters the Hunting state and assists Pharsa on her next attack against an enemy data, dealing extra damage equal to a percentage of the target's max HP (starts at 8% and increases by 1% for every 200 Magic Power owned) and slowing them by 60% for 1 second.
 
 - Type: Magic Damage / Slow
 - Cooldown: 8.0 seconds
@@ -120,7 +120,7 @@ Notes:
 # Trivia
 
 - The name Pharsa could be a reference to ancient Egyptian royalty, as the word **"Pharaoh"** has connotations of **power**, **majesty**, and **divine authority**. This could reflect Pharsa’s dominant presence in battle and her **command over flight and magical energy**.
-- **"Pharsa"** could be inspired by the Arabic word for **"bird"** or **"eagle,"** which fits Pharsa's avian and flight-based abilities. As a mage hero with a powerful bird companion and the ability to soar through the air, this interpretation aligns well with her design and skillset.
+- **"Pharsa"** could be inspired by the Arabic word for **"bird"** or **"eagle,"** which fits Pharsa's avian and flight-based abilities. As a mage data with a powerful bird companion and the ability to soar through the air, this interpretation aligns well with her design and skillset.
 - Her name could be also based on Persian word, Parsa meaning pious or devout.
 - Pharsa's character might be inspired by the Irish goddess of Vengeance, Morrìgàn, who also often takes the shape of a Crow and is portrayed wearing a feathered cape.
 - As princess of the Crow Clan of Askati Forest, she was born with mutated blood.

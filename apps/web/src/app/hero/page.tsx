@@ -15,7 +15,7 @@ export default async function HeroesPage() {
 	const sortedHeroes = heroes.sort((a, b) => a.display_name.localeCompare(b.display_name));
 
 	return (
-		<div className="mx-auto flex w-full max-w-5xl flex-col gap-6 px-4 pb-16 pt-10 sm:px-6 lg:px-8">
+		<div className="mx-auto flex w-full max-w-5xl flex-col gap-6 px-4 pb-16 pt-25 sm:px-6 lg:px-8">
 			<header className="flex flex-col gap-2">
 				<h1 className="text-3xl font-semibold tracking-tight md:text-4xl">Heroes</h1>
 				<p className="text-muted-foreground">Browse latest hero stats, counters and more</p>

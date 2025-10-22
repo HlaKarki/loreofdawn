@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero
+{{Infobox data
 |1=Chang'e}}
 {{Hero stats|Chang'e}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 |image=Chang'e comic.jpg
 | name           = Chang'e
 | chinese_name   = 嫦娥 (Cháng'é)
@@ -172,7 +172,7 @@ Mobile Legends Bang Bang! New Hero Moon Palace Immortal Chang'e-0
 *Chang'e's bunny companion is named Jade.
 *Due to a bug, her pre-rework first skill were able to deal damage to turrets.
 *In one of her quotes, Chang'e mentions {{hi|name=Roger}} while addressing to her rabbit companions; this is a reference to his wolf form, since wolves are known for hunting many animals including rabbits.
-*Her giggle that can be heard on hero selection for Crimson Moon was reused from her old hero selection quote.
+*Her giggle that can be heard on data selection for Crimson Moon was reused from her old data selection quote.
 ==References==
 {{Reflist}}
 {{Heroes}}

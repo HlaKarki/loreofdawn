@@ -1,9 +1,9 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Birthday (生日 "shēngrì" meaning "birthday"), Age (年龄 "niánlíng" meaning "age"), Official Chinese Name}}
-{{Infobox hero story
+{{Infobox data story
 | image          =
 | full_name      = 
 | chinese_name   = 隼 (sǔn<ref>隼 (sǔn) orthographic borrowing of 隼 (hayabusa)</ref>)
@@ -178,7 +178,7 @@ Even without the moon's guidance, a shadow must forge its own path.
 |cooldown        = 20.0 / 19.2 / 18.4 / 17.6 / 16.8 / 16.0
 |energy-cost     = 25
 |quote           = 
-|description     = Hayabusa [[dashes]] in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy hero hit, dealing {{scale|base=130-180|extra-pa=30|pd}} and [[slowing]] them by 40% for 2 seconds. Hayabusa will immediately stop if he hits an enemy hero during the dash.<br>{{B|Use Again:|e}} Hayabusa [[blink|teleports]] to a phantom's location and reduces the cooldown of {{ai|Ninjutsu Phantom Shuriken|Ninjutsu: Phantom Shuriken}} by 1 second. If the phantom is attached to an enemy hero, he also deals {{scale|base=130-180|extra-pa=30|pd}} to the enemy.
+|description     = Hayabusa [[dashes]] in the target direction and releases four phantoms that travel in separate directions. The phantoms will remain at the end of their paths or attach themselves to the first enemy data hit, dealing {{scale|base=130-180|extra-pa=30|pd}} and [[slowing]] them by 40% for 2 seconds. Hayabusa will immediately stop if he hits an enemy data during the dash.<br>{{B|Use Again:|e}} Hayabusa [[blink|teleports]] to a phantom's location and reduces the cooldown of {{ai|Ninjutsu Phantom Shuriken|Ninjutsu: Phantom Shuriken}} by 1 second. If the phantom is attached to an enemy data, he also deals {{scale|base=130-180|extra-pa=30|pd}} to the enemy.
 |term-1          = Blink
 |term-2          = Physical Damage Skill
 |term-3          = 
@@ -251,7 +251,7 @@ Hero102111-icon.png|Kakashi Hatake
 
 == Trivia ==
 *"Hayabusa" (隼) literally means "[https://en.wikipedia.org/wiki/Peregrine_falcon peregrine falcon]", a bird known for its incredible speed and deadly precision.
-*In his first hero model, Hayabusa's headgear is inspired by Kabuto helmets, worn by samurai and elite ninja warriors.
+*In his first data model, Hayabusa's headgear is inspired by Kabuto helmets, worn by samurai and elite ninja warriors.
 *His "Shadow Kill" ultimate resembles the "Shunshin" (Body Flicker) technique, a legendary ninja ability that allows a warrior to move so fast they appear to attack from multiple directions at once. 
 *His Ultimate, "Ougi: Shadow Kill," also resembles to classic ninja assassination techniques. In Japanese ninja stories, a "final move" (奥義 / Ougi) is a secret assassination technique passed down through generations.
 *Hayabusa is likely inspired by [https://ninjagaiden.fandom.com/wiki/Ryu_Hayabusa Ryu Hayabusa] from the [https://ninjagaiden.fandom.com/wiki/Ninja_Gaiden_(series) Ninja Gaiden] and Dead or Alive series.

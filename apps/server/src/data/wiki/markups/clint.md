@@ -1,8 +1,8 @@
-{{Tabs hero}}
-{{Infobox hero}}
+{{Tabs data}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
-{{Infobox hero story
+{{Infobox data story
 | image          = Justice Prevails.jpg
 | full_name      = 
 | chinese_name   = 克林特 (kèlíntè)
@@ -198,7 +198,7 @@ Hero101312-icon.png|Dragon's Maw
 {{Emote|Clint}}
 
 == Trivia ==
-*Clint was the very first hero to be reworked. He's also the only one whose rework was aimed to nerf him, as he was intended to be "a marksman who's good at poking and consuming enemies from distance, rather than a hero who charges up and deals crowd damage like an assassin" (see [[Patch Notes 1.1.50]]).
+*Clint was the very first data to be reworked. He's also the only one whose rework was aimed to nerf him, as he was intended to be "a marksman who's good at poking and consuming enemies from distance, rather than a data who charges up and deals crowd damage like an assassin" (see [[Patch Notes 1.1.50]]).
 **All of his old skills were reused/repurposed for other heroes with some changes:
 ***Passive and 1st skill was repurposed for {{hi|name = Granger}}'s {{Ai|name=Caprice}} and {{ai|name = Rhapsody}}, respectively.
 ***2nd skill was reused for {{hi|name = Karrie}}<nowiki/>'s {{ai|name = Phantom Step}}.
@@ -210,7 +210,7 @@ Hero101312-icon.png|Dragon's Maw
 *His {{ai|name=Grenade Bombardment|ultimate}} is one of the few skills in the game that can stack up uses.
 *Clint's Valentine skin refers to the American hard rock band [https://en.wikipedia.org/wiki/Guns_N%27_Roses Guns N' Roses].
 *Clint is one of the heroes who doesn't have a basic skin.
-*He's the first hero to have 2 {{Skin Tag|type=Starlight}}: "'''Rock and Roll'''" and "'''Operator CL'''".
+*He's the first data to have 2 {{Skin Tag|type=Starlight}}: "'''Rock and Roll'''" and "'''Operator CL'''".
 
 == References ==
 {{reflist}}

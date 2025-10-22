@@ -1,8 +1,8 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats|physical_def1=25|physical_def15=135|magic_def1=15|magic_def15=71}}
 ==Story==
-{{Infobox hero story
+{{Infobox data story
 | full_name      = 
 | chinese_name   = 佛朗哥 (fúlǎnggē) 
 | alias          = Frozen Warrior
@@ -56,7 +56,7 @@ Whilst Franco was training alone in the mountains, the cruel and power-hungry Ca
 
 Bane's cruelty drew fierce resistance from various forces, the fiercest of all coming from Franco's tribe. As a warning to those who would defy him, Bane sent a massive armada of pirate ships to blockade the surrounding sea, and sent constant raids on Franco's tribe, declaring he would sink all their ships, and raze their harbor to the ground.
 
-After ten years in the mountains, Franco returned to his tribe, full of confidence and strength. Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength. Only after the battle did his oppressed tribesmen make a surprising discovery: that the hero who had come to save them was none other than the once-mocked little Franco. After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen.
+After ten years in the mountains, Franco returned to his tribe, full of confidence and strength. Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength. Only after the battle did his oppressed tribesmen make a surprising discovery: that the data who had come to save them was none other than the once-mocked little Franco. After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen.
 
 Franco then led his tribesmen and their ships in resistance against Bane's cruel rule. They equipped old fishing ships with battering rams and cannons, and attacked Bane's pirate fleets wherever they were found, dealing a heavy blow against Bane's forces. In desperation, Bane gathered an enormous fleet to suppress Franco's resistance, but both sides remained in a deadlock after several battles, with Bane unable to force an advantage. Once, Bane managed to lead Franco into a trap, but only managed to wound him, and Franco managed to escape with his life. Furthermore, more and more people of the Northern Vale, inspired by Franco's courage and strength, united around him to fight Bane.
 
@@ -123,7 +123,7 @@ Out of respect for Franco's glorious achievements, the people of the Northern Va
 |mana-cost      = 110 / 125 / 140
 |skill-effect-1 = Burst
 |skill-effect-2 = CC
-|description    = Franco [[suppresses]] the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing {{scale|base=50|total-pa=70|pd}}.
+|description    = Franco [[suppresses]] the target enemy data for 1.8 seconds and strikes them 6 times over the duration, each time dealing {{scale|base=50|total-pa=70|pd}}.
 |properties           = *'''Damage Per Hit:''' 50 / 60 / 70
 |term-1         = Suppress
 |term-2         = Physical Damage Skill
@@ -165,8 +165,8 @@ Ha! Got one!.png|'''Ha! Got one!'''<br>Obtained via Emote Bundle.
 *Both Franco and {{hi|Lesley}} have the same quote: ''"One shot, one kill"''
 **{{hi|Miya}} had the same quote but was removed due to being revamped for [[Project NEXT]].
 *Most of his quotes are directly taken from the character [https://magicrush.fandom.com/wiki/York '''York'''] from '''''[https://magicrush.fandom.com/ Magic Rush: Heroes]''''', which he also shares the same voice acting with. This explains why some of them seem completely unrelated to him, such as: "''I love the smell of gunpowder in the morning''".
-**Franco is currently the only hero whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced.
-* Franco was banned temporarily in the game on 29 December 2021 after an exploit had been discovered on the Serpent lair.<ref>28 December 2021 21:00 ([[server time]]).<br>Dear player,<br>We discovered that our hero “Franco” might cause issues during gameplay. To ensure a fair competitive environment for every player, we are currently working on this issue and will temporarily ban this hero. We expect to fix this issue and make the hero available once again after the next patch update. We will also make appropriate compensation to our players after the issue has been fixed.<br>We are deeply sorry for the inconvenience this may have caused you. Thank you for your understanding.<br>For questions and suggestions, please feel free to contact us via Customer Service. Thank you for your continued support for MLBB!<br>—MLBB Team</ref> The ban was lifted on 19 January 2022<ref>''Notice on the Ban Lift of the Hero “Franco”.'' Released 19 January 2022 00:00 ([[server time]])<br>Dear player,<br>We have fixed the issue where some players might encounter issues during the gameplay with our hero “Franco.”<br>Franco is now available once again.<br>We are deeply sorry for the inconvenience this may have caused you. To express our apology, here is a small gift as your compensation. Thank you for your understanding.<br>—MLBB Team</ref> which spans for 21 days and 3 hours, which is the longest recorded ban in MLBB history, before the Helcurt ban in 2023.
+**Franco is currently the only data whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced.
+* Franco was banned temporarily in the game on 29 December 2021 after an exploit had been discovered on the Serpent lair.<ref>28 December 2021 21:00 ([[server time]]).<br>Dear player,<br>We discovered that our data “Franco” might cause issues during gameplay. To ensure a fair competitive environment for every player, we are currently working on this issue and will temporarily ban this data. We expect to fix this issue and make the data available once again after the next patch update. We will also make appropriate compensation to our players after the issue has been fixed.<br>We are deeply sorry for the inconvenience this may have caused you. Thank you for your understanding.<br>For questions and suggestions, please feel free to contact us via Customer Service. Thank you for your continued support for MLBB!<br>—MLBB Team</ref> The ban was lifted on 19 January 2022<ref>''Notice on the Ban Lift of the Hero “Franco”.'' Released 19 January 2022 00:00 ([[server time]])<br>Dear player,<br>We have fixed the issue where some players might encounter issues during the gameplay with our data “Franco.”<br>Franco is now available once again.<br>We are deeply sorry for the inconvenience this may have caused you. To express our apology, here is a small gift as your compensation. Thank you for your understanding.<br>—MLBB Team</ref> which spans for 21 days and 3 hours, which is the longest recorded ban in MLBB history, before the Helcurt ban in 2023.
 * Franco is one of three heroes that can apply the [[Suppression]] crowd control, the other being {{Hi|name=Kaja}} and {{Hi|name=Barats}}.
 
 == References ==

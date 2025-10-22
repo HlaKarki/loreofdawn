@@ -90,7 +90,7 @@ Level scaling:
 
 ## Detona's Welcome
 
-After a short delay, Detona charges in the target direction, dealing scaling physical damage to the first enemy hit, devouring and suppressing them for 1.2 seconds before spitting them out. If the target hits an enemy hero or a wall after being spit out, the target will cause an explosion, and the target and nearby enemies will take additional scaling physical damage and be stunned for 1 second. For the duration of the channel, Barats becomes immune to control effects. If the channeling is canceled, 60% of the skill cooldown will be refunded. Detona gains 4–10 stacks of Big Guy upon respawn.
+After a short delay, Detona charges in the target direction, dealing scaling physical damage to the first enemy hit, devouring and suppressing them for 1.2 seconds before spitting them out. If the target hits an enemy data or a wall after being spit out, the target will cause an explosion, and the target and nearby enemies will take additional scaling physical damage and be stunned for 1 second. For the duration of the channel, Barats becomes immune to control effects. If the channeling is canceled, 60% of the skill cooldown will be refunded. Detona gains 4–10 stacks of Big Guy upon respawn.
 
 Terms: Suppress, Stun, Physical Damage Skill
 
@@ -107,8 +107,8 @@ Notes:
 
 # Trivia
 
-- The name "Barats" doesn’t have an official meaning in the game, but it could be a play on the word "barricade," reflecting his role as a tank that stands strong against enemies. Alternatively, it could be inspired by the word "barrage," as Barats is a hero who often takes a lot of hits and delivers consistent damage in return.
+- The name "Barats" doesn’t have an official meaning in the game, but it could be a play on the word "barricade," reflecting his role as a tank that stands strong against enemies. Alternatively, it could be inspired by the word "barrage," as Barats is a data who often takes a lot of hits and delivers consistent damage in return.
 - Barats is also a dwarf.
-- Barats is the third and recent hero to have a suppress crowd control skill.
+- Barats is the third and recent data to have a suppress crowd control skill.
 - Barats speaks in a New York accent.
 - His skin Baratstein is a variant of Frankenstein.

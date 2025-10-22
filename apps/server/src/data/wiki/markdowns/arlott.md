@@ -95,7 +95,7 @@ The starlight reflected off of his pikes. He stroked the necklace that she had g
 
 ## Demon Gaze
 
-Arlott possesses a demonic eye that marks enemy units near Arlott, applying the mark for 7s. The eye will also automatically apply a mark to a nearby enemy hero every 7s.
+Arlott possesses a demonic eye that marks enemy units near Arlott, applying the mark for 7s. The eye will also automatically apply a mark to a nearby enemy data every 7s.
 
 - Mark is applied to enemies within 5.5 unit, even if the enemy is unsighted to them.
 - The eye will only auto apply to enemies in the following priority: enemies without the mark, targetable enemies, visible enemies, nearest enemies.
@@ -114,7 +114,7 @@ Arlott swings his lance forward, dealing physical damage based on level and his 
 
 ## Vengeance
 
-Arlott charges at an enemy and deals physical damage (this skill cannot be interrupted during movement). If Arlott's target is marked, this skill will deal double damage, refresh its cooldown, and restore health to Arlott. When used on a non-hero unit, the health restored is 50% of that amount.
+Arlott charges at an enemy and deals physical damage (this skill cannot be interrupted during movement). If Arlott's target is marked, this skill will deal double damage, refresh its cooldown, and restore health to Arlott. When used on a non-data unit, the health restored is 50% of that amount.
 
 - Cooldown by level: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds.
 - Mana cost: no mana cost.

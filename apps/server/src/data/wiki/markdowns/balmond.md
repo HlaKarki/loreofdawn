@@ -64,14 +64,14 @@ Balmond, and his Orc army have since fought for the Demons.
 
 ## Bloodthirst
 
-Balmond recovers 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a hero.
+Balmond recovers 5% Max HP after killing a Minion or Creep, and 20% Max HP after killing a data.
 
 ## Soul Lock
 
 - Type: Blink / Physical Damage Skill
 - Effects: Mobility, Slow
 
-Balmond charges to the target direction for a set distance or until he hits an enemy hero, dealing physical damage to enemies along the way. The enemy hero hit will be knocked back slightly and slowed by 60% for 2 seconds.
+Balmond charges to the target direction for a set distance or until he hits an enemy data, dealing physical damage to enemies along the way. The enemy data hit will be knocked back slightly and slowed by 60% for 2 seconds.
 
 Level scaling:
 - Base Damage: 150 / 175 / 200 / 225 / 250 / 275
@@ -100,11 +100,11 @@ Notes:
 - Type: True Damage Skill
 - Effects: Burst, Slow
 
-Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing true damage based on base power and additional true damage that scales with the target's lost HP and Balmond's stats. This skill deals heavy true damage to heroes and can burst squishier targets. Against non-hero units, damage is capped.
+Balmond unleashes a huge strike in the target direction (cannot be interrupted), dealing true damage based on base power and additional true damage that scales with the target's lost HP and Balmond's stats. This skill deals heavy true damage to heroes and can burst squishier targets. Against non-data units, damage is capped.
 
 Level scaling and caps:
 - Extra damage portion based on target's lost HP: 30% / 37.5% / 45% (scales by level)
-- Non-hero unit damage cap: 1000 / 1500 / 2000 depending on skill level
+- Non-data unit damage cap: 1000 / 1500 / 2000 depending on skill level
 
 Notes:
 - Some skins may not show an area of effect pre-animation for this skill.

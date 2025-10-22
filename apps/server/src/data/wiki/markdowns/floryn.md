@@ -1,6 +1,6 @@
 # Profile
 
-She was released as a part of the MLBB 5th Anniversary. Players had a chance to redeem the hero for free for a limited time.
+She was released as a part of the MLBB 5th Anniversary. Players had a chance to redeem the data for free for a limited time.
 
 - Chinese name: 洛霖 (luòlín)
 - Alias: The Budding Hope
@@ -68,7 +68,7 @@ Now, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a
 
 ## Dew
 
-Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat in 5 seconds, Floryn can share the Flower of Hope with an allied hero (30 seconds cooldown), which will grant them a each time they are healed by Floryn. Floryn will never sell the Lantern.
+Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat in 5 seconds, Floryn can share the Flower of Hope with an allied data (30 seconds cooldown), which will grant them a each time they are healed by Floryn. Floryn will never sell the Lantern.
 
 - Notes:
 - Does not affect target ally's networth.
@@ -125,7 +125,7 @@ Description: Floryn resonates with Dew's power, restoring to all allied heroes t
 
 Cooldown: 30.0 seconds
 
-Description: Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes.
+Description: Floryn shares the Lantern's power with an allied data, slightly increasing their attributes.
 
 - Notes:
 - Share's cooldown is not affected by Cooldown Reduction.
@@ -137,8 +137,8 @@ Description: Floryn shares the Lantern's power with an allied hero, slightly inc
 - Floryn was the 8th and is one of the heroes who was given to players for free on release. The other heroes who were given for free are:, , , , , , , and.
 - It's highly possible that Floryn was based off Flora, the Roman Goddess of flowers and spring.
 - Floryn's design and skillset reflect a nurturing, supportive role, which further ties her to the themes typically linked to a character inspired by flora or nature-based spirits.
-- Floryn is the first hero to heal allies anywhere on the map.
-- She is the only hero to buff another hero by placing another item on them.
+- Floryn is the first data to heal allies anywhere on the map.
+- She is the only data to buff another data by placing another item on them.
 - Like, she can also create life, she created Dew.
 - Floryn's "Yatai Waitress" skin is inspired by the Japanese word "Yatai" (屋台), which refers to street food stalls in Japan that sell ramen, takoyaki, and other delicious treats. These stalls are often run by friendly vendors wearing traditional Japanese aprons and kimonos just like Floryn in this skin.
 - Floryn has similarities with Filipino "Diwata" (fairies/guardian spirits) and Southeast Asian folklore creatures. Diwatas are mythical nature spirits or deities in Filipino folklore, often compared to fairies, nymphs, or guardian deities in other cultures. They are known for protecting nature, bestowing blessings, and sometimes punishing those who harm the environment.

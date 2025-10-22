@@ -46,7 +46,7 @@ New missions awaited on the horizon. Kimmy looked to the sky, knowing that her w
 
 ## Aerial Dominance
 
-Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals damage based on level and stats. Hitting enemy heroes/non-hero units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal damage based on level and stats and pierce through targets. Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
+Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals damage based on level and stats. Hitting enemy heroes/non-data units restores 6/3 Starlium. At max Starlium, Kimmy's Basic Attacks are enhanced to deal damage based on level and stats and pierce through targets. Kimmy doesn't stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.
 
 - If no Starlium is gained within 7 seconds, the Starlium begins to deplete.
 - Due to this passive Kimmy cannot use Manual Targeting.
@@ -64,7 +64,7 @@ Notes:
 
 ## Starlium Beam
 
-Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals damage based on level and stats over 2 seconds. Gain 20 Starlium for each enemy hero hit.
+Kimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals damage based on level and stats over 2 seconds. Gain 20 Starlium for each enemy data hit.
 
 - Cooldown by level: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds.
 - Base damage and energy regen scale with level and stats.
@@ -79,7 +79,7 @@ Notes:
 
 ## Traction Pulse
 
-Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal damage based on level and stats to nearby enemies and creates a force field that slows enemies within by 75%. After 1 second, the field contracts, pulling all enemy heroes to its center and dealing current HP based damage as Magic Damage. Gain 40 Starlium for each enemy hero hit.
+Kimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal damage based on level and stats to nearby enemies and creates a force field that slows enemies within by 75%. After 1 second, the field contracts, pulling all enemy heroes to its center and dealing current HP based damage as Magic Damage. Gain 40 Starlium for each enemy data hit.
 
 - Cooldown by level: 40.0 / 35.0 / 30.0 seconds.
 - Base damage scales with level and stats.
@@ -93,14 +93,14 @@ Notes:
 
 # Trivia
 
-- Kimmy is the first hero and currently the only hero to be a Marksman/Mage type.
-- She is the third hero in the game who can convert a stat (Attack Speed) to another stat (Magic Power).
+- Kimmy is the first data and currently the only data to be a Marksman/Mage type.
+- She is the third data in the game who can convert a stat (Attack Speed) to another stat (Magic Power).
 - When switching Hero Voice to Japanese, instead of saying "Fighting 'Kimmy!", she says "Fighting Jimmy! (ファイティング・ジミー! - Faitingu Jimī!)" in Entrance Quotes.
-- While still in development Kimmy's first given name and hero title was Mary the Ink Queen
+- While still in development Kimmy's first given name and data title was Mary the Ink Queen
 - The name can be a reference to Marie which is an Inkling/Squid from Splatoon by Nintendo.
 - Kimmy is one of the heroes to have received a rework before she was even released on the original server.
 - Her basic attack used to spread and pierce through enemies similar to how shotgun pellets works.
 - She used to have 2 skill sources: one for her first skill and one for her second skill.
 - Her second skill used to be another basic attack buff skill similar to her first skill, but was later changed into a blink skill that does not consume any energy.
-- Before her rework on Patch Notes 1.6.10, Kimmy had Mixed Damage alongside other types, then it was later replaced with Magic Damage specialty making Esmeralda the only hero who specializes in Mixed Damage.
+- Before her rework on Patch Notes 1.6.10, Kimmy had Mixed Damage alongside other types, then it was later replaced with Magic Damage specialty making Esmeralda the only data who specializes in Mixed Damage.
 - The melody she says when picked with Dragon Tamer skin is a parody on Hush Little Baby Don't Say A Word by the King's Singers 1987.

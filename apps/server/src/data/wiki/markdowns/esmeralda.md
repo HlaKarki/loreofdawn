@@ -57,7 +57,7 @@ Note: Amount unknown indicates a value that varies by level or other factors and
 
 ## Stardust Dance
 
-Esmeralda waves Stardust and Frostmoon, dealing physical and magic damage to nearby enemies. Each time she deals damage to a hero, the cooldown of Frostmoon Shield is reduced by 1.5 seconds. Damaging non-hero units grants a 0.5 second reduction. The enemy's Movement Speed is reduced by 10% for 1.5 second.
+Esmeralda waves Stardust and Frostmoon, dealing physical and magic damage to nearby enemies. Each time she deals damage to a data, the cooldown of Frostmoon Shield is reduced by 1.5 seconds. Damaging non-data units grants a 0.5 second reduction. The enemy's Movement Speed is reduced by 10% for 1.5 second.
 
 - Physical Base Damage: 240 / 280 / 320 / 360 / 400 / 440
 - Magic Added Damage: 300 / 350 / 400 / 450 / 500 / 550
@@ -66,7 +66,7 @@ Esmeralda waves Stardust and Frostmoon, dealing physical and magic damage to nea
 
 - Terms: Physical Damage Skill, Magic Damage Skill, Cooldown
 
-Note: When an enemy hero and a creep are both hit, the cooldown reduction when hitting an enemy hero takes priority and they do not stack.
+Note: When an enemy data and a creep are both hit, the cooldown reduction when hitting an enemy data takes priority and they do not stack.
 
 ## Falling Starmoon
 
@@ -89,9 +89,9 @@ Notes:
 - Her name complements her Starmoon Casket passive, representing the combination of the stars (Stardust) and the moon (Frostmoon).
 - Esmeralda's name and character design are somewhat inspired by the character with the same name in the 1996 Disney film The Hunchback of Notre Dame, which itself is an adaptation of the 1831 novel by Victor Hugo.
 - Esmeralda is one of the heroes whose active skills can cast in motion using joystick.
-- Esmeralda is the only hero who can give shield to enemy.
+- Esmeralda is the only data who can give shield to enemy.
 - Esmeralda wears golden jewelry, including bangles, earrings, and a headpiece, which resemble traditional Middle Eastern fashion particularly from Egypt.
 - Her skin name "Cleopatra" is based on queen Cleopatra of Egypt.
 - Her skin "Poison Vine" is based on Poison Ivy from the DC Universe.
-- Alongside Khufra, she has the first voice lines that can only be activated by interacting with a specific opposing hero (Khufra in this case).
+- Alongside Khufra, she has the first voice lines that can only be activated by interacting with a specific opposing data (Khufra in this case).
 - Currently, and Esmeralda are the only heroes in the game classified as both Mage and Tank.

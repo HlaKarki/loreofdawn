@@ -156,7 +156,7 @@ Ling’s Critical Chance is permanently increased by a scaling amount. Ling cast
 
 Notes:
 
-- Basic attack range is greatly increased while on a wall, and the next basic attack allows him to dash to an enemy hero on the ground.
+- Basic attack range is greatly increased while on a wall, and the next basic attack allows him to dash to an enemy data on the ground.
 - If controlled while on the wall, he will fall and be slowed for 2 seconds.
 
 ## Defiant Sword

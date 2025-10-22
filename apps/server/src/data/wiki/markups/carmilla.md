@@ -1,9 +1,9 @@
 {{Hero navigation}}
-{{Infobox hero}}
+{{Infobox data}}
 {{Hero stats}}
 == Story ==
 {{Translation|Temperament (气质 "qìzhì" meaning "temperament, disposition, manners, aura qualities) or Traits}}
-{{Infobox hero story
+{{Infobox data story
 |image=<gallery>
 Carmilla trailer.jpg|Blood Demon
 Carmilla human.jpg|Human
@@ -86,8 +86,8 @@ After that day, the people of Castle Aberleen never saw Cecilion or Carmilla aga
 |mana-cost      = 
 |energy-cost    = 
 |quote          = 
-|description    = Each time Carmilla deals damage to an enemy hero, she steals 7&ndash;11 [[Physical Defense]] & [[Magic Defense]] (scales with level) from them. The stolen Physical and Magic Defense can stack up to 5 times and last 5 seconds. However, Carmilla can only steal defense from the same enemy hero once every 5 seconds.
-|hero-level-scaling = Stolen Physical & Magic Defense: 7.00/7.29/7.57/7.86/8.14/8.43/8.71/9.00/9.29/9.57/9.86/10.14/10.43/10.71/11.0
+|description    = Each time Carmilla deals damage to an enemy data, she steals 7&ndash;11 [[Physical Defense]] & [[Magic Defense]] (scales with level) from them. The stolen Physical and Magic Defense can stack up to 5 times and last 5 seconds. However, Carmilla can only steal defense from the same enemy data once every 5 seconds.
+|data-level-scaling = Stolen Physical & Magic Defense: 7.00/7.29/7.57/7.86/8.14/8.43/8.71/9.00/9.29/9.57/9.86/10.14/10.43/10.71/11.0
 |stack-scaling=Stolen Physical & Magic Defense (level 1):7/14/21/28/35
 Stolen Physical & Magic Defense (level 8):9/18/27/36/45
 Stolen Physical & Magic Defense (level 15):11/22/33/44/55
@@ -134,7 +134,7 @@ HP Regen: 75 / 90 / 105 / 120 / 135 / 150
 |mana-cost      = 85 / 100 / 115 / 130 / 145 / 160
 |energy-cost    = 
 |quote          = 
-|description    = Carmilla accumulates Bloodbath Energy, gaining 70% [[Movement Speed]] that decays over 4.5 seconds.<br>{{Link|Use Again:}} Carmilla unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing {{Scale|base=150-300|total-mp=120|md}} and [[stunning]] them for 0.6 seconds. The damage and stun duration scale with the accumulation time (up to 100%).
+|description    = Carmilla accumulates Bloodbath Energy, gaining 70% [[Movement Speed]] that decays over 4.5 seconds.<br>{{Link|Use Again:}} Carmilla unleashes the accumulated Bloodbath Energy on the target enemy data or Creep, dealing {{Scale|base=150-300|total-mp=120|md}} and [[stunning]] them for 0.6 seconds. The damage and stun duration scale with the accumulation time (up to 100%).
 |level-scaling           = Base Damage: 150 / 180 / 210 / 240 / 270 / 300
 |calc           = <math>{\mathrm base\ damage} = \bigl[120 + (30 \times skill\ level) \bigr] + \bigl[100\% + (40\% \times skill\ duration) \bigr]</math><br><math>{\mathrm magic\ bonus} = 120\% + (48\% \times skill\ duration)</math><br><math>{\mathrm stun\ duration} = 0.32 \times skill\ duration</math><br><math>{\mathrm where}\ 0 s \leq skill\ duration \leq 2.5 s</math>
 |term-1         = Movement Speed
@@ -170,7 +170,7 @@ HP Regen: 75 / 90 / 105 / 120 / 135 / 150
 |term-1          = Shield
 |term-2          = Magic Damage Skill
 |term-3          = Movement Speed
-|hero-level-scaling           = Base Shield:520/540/560/580/600/620/640/660/680/700/720/740/760/780/800
+|data-level-scaling           = Base Shield:520/540/560/580/600/620/640/660/680/700/720/740/760/780/800
 Magic Damage:520/540/560/580/600/620/640/660/680/700/720/740/760/780/800
 |calc           =
 |notes=*This skill can only be used within 5 seconds, and then Carmilla will be immediately detached to Cecilion's body if it expired.
