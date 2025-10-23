@@ -8,7 +8,7 @@ import { useEffect, useRef } from "react";
 type TocItem = { slug: string; label: string };
 
 // Constants
-const SCROLL_OFFSET = 300;
+const SCROLL_OFFSET = 400;
 const SCROLL_TIMEOUT_MS = 300;
 const BOTTOM_THRESHOLD = 5;
 
