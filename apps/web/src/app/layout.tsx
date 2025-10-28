@@ -4,6 +4,7 @@ import "../index.css";
 import Providers from "@/components/providers";
 import Header from "@/components/header";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
+import Script from "next/script";
 const geistSans = Geist({
 	variable: "--font-geist-sans",
 	subsets: ["latin"],
@@ -26,6 +27,7 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en" suppressHydrationWarning>
+			<Script defer src={"https://assets.onedollarstats.com/stonks.js"} />
 			<body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
 				<NuqsAdapter>
 					<Providers>
