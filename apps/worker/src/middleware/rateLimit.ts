@@ -1,123 +1,69 @@
 import { createMiddleware } from "hono/factory";
 import type { Env } from "@/types";
-
-interface RateLimitConfig {
-	/**
-	 * Maximum requests allowed per minute
-	 */
-	requestsPerMinute: number;
-
-	/**
-	 * Maximum requests allowed per day
-	 */
-	requestsPerDay: number;
-
-	/**
-	 * Key prefix for KV storage
-	 */
-	keyPrefix: string;
-}
-
-interface RateLimitData {
-	minuteCount: number;
-	dayCount: number;
-	minuteReset: number; // timestamp
-	dayReset: number; // timestamp
-}
+import { Context } from "hono";
 
 /**
- * Rate limiting middleware using Cloudflare KV
- * Tracks requests per IP address with minute and daily limits
+ * Token bucket rate limiter using Cloudflare Durable Objects
+ *
+ * Creates Hono middleware that enforces rate limits per IP address and endpoint.
+ * Each unique actor (IP + endpoint combination) gets its own persistent Durable Object
+ * instance that maintains a token bucket for smooth rate limiting.
+ *
+ * @param config - Rate limit configuration
+ * @param config.capacity - Maximum tokens in bucket (default: 5)
+ * @param config.windowSecond - Time window in seconds to refill bucket (default: 60)
+ * @param config.actorKey - Custom function to generate actor key (default: `ip:${ip}:endpoint:${endpoint}`)
+ *
+ * @returns Hono middleware that returns 429 when rate limit is exceeded
+ *
+ * @example
+ * ```ts
+ * const limiter = rateLimiter({ capacity: 10, windowSecond: 60 });
+ * app.post('/api/endpoint', limiter, handler);
+ * ```
  */
-export function rateLimiter(config: RateLimitConfig) {
-	return createMiddleware<Env>(async (c, next) => {
-		const ip = c.req.header("CF-Connecting-IP") || c.req.header("X-Forwarded-For") || "unknown";
+export function rateLimiter(config?: {
+	capacity?: number;
+	windowSecond?: number;
+	actorKey?: (c: Context) => string;
+}) {
+	const capacity = config?.capacity ?? 5;
+	const windowSecond = config?.windowSecond ?? 60;
 
-		// Skip rate limiting for unknown IPs in development
-		if (ip === "unknown") {
-			console.warn("⚠️ Rate limit: Unknown IP, skipping");
+	return createMiddleware<Env>(async (c, next) => {
+		const endpoint = new URL(c.req.url).pathname;
+		const ip = c.req.header("CF-Connecting-IP") || c.req.header("X-Forwarded-For") || "anonymous";
+		const actorKey = config?.actorKey?.(c) ?? `ip:${ip}:endpoint:${endpoint}`;
+
+		if (ip === "anonymous") {
+			console.warn("Rate limit: Unknown IP, skipping");
 			await next();
 			return;
 		}
 
-		const kv = c.env.KV;
-		const key = `${config.keyPrefix}:${ip}`;
-		const now = Date.now();
+		// create one durable object instance with the actor key
+		const id = c.env.RateLimiter.idFromName(actorKey);
+		const stub = c.env.RateLimiter.get(id);
 
-		// Get current rate limit data
-		const stored = await kv.get<RateLimitData>(key, "json");
+		// call the durable object instance
+		const doUrl = `https://do?capacity=${capacity}&windowSecond=${windowSecond}`;
+		const result = await stub.fetch(doUrl, { method: "POST" });
 
-		const minuteWindow = 60 * 1000; // 1 minute
-		const dayWindow = 24 * 60 * 60 * 1000; // 24 hours
-
-		let data: RateLimitData;
-
-		if (!stored) {
-			// First request from this IP
-			data = {
-				minuteCount: 1,
-				dayCount: 1,
-				minuteReset: now + minuteWindow,
-				dayReset: now + dayWindow,
-			};
-		} else {
-			// Check if windows have expired
-			const minuteExpired = now >= stored.minuteReset;
-			const dayExpired = now >= stored.dayReset;
-
-			data = {
-				minuteCount: minuteExpired ? 1 : stored.minuteCount + 1,
-				dayCount: dayExpired ? 1 : stored.dayCount + 1,
-				minuteReset: minuteExpired ? now + minuteWindow : stored.minuteReset,
-				dayReset: dayExpired ? now + dayWindow : stored.dayReset,
-			};
+		// relay helpful headers set by DO
+		for (const h of [
+			"X-RateLimit-Policy",
+			"X-RateLimit-Limit",
+			"X-RateLimit-Remaining",
+			"X-RateLimit-Reset",
+			"Retry-After",
+		]) {
+			const v = result.headers.get(h);
+			if (v) c.header(h, v);
 		}
 
-		// Check limits
-		const minuteLimitExceeded = data.minuteCount > config.requestsPerMinute;
-		const dayLimitExceeded = data.dayCount > config.requestsPerDay;
-
-		if (minuteLimitExceeded || dayLimitExceeded) {
-			const retryAfter = minuteLimitExceeded
-				? Math.ceil((data.minuteReset - now) / 1000)
-				: Math.ceil((data.dayReset - now) / 1000);
-
-			const limitType = minuteLimitExceeded ? "minute" : "day";
-
-			return c.json(
-				{
-					error: "Rate limit exceeded",
-					details: `Too many requests. Please try again in ${retryAfter} seconds.`,
-					limit: limitType === "minute" ? config.requestsPerMinute : config.requestsPerDay,
-					window: limitType,
-					retryAfter,
-				},
-				429,
-				{
-					"Retry-After": retryAfter.toString(),
-					"X-RateLimit-Limit": config.requestsPerMinute.toString(),
-					"X-RateLimit-Remaining": "0",
-					"X-RateLimit-Reset": data.minuteReset.toString(),
-				},
-			);
+		if (result.status === 429) {
+			return c.text("Too Many Requests", 429);
 		}
-
-		// Store updated counts
-		const ttl = Math.max(
-			Math.ceil((data.dayReset - now) / 1000),
-			Math.ceil((data.minuteReset - now) / 1000),
-		);
-		await kv.put(key, JSON.stringify(data), { expirationTtl: ttl });
-
-		// Add rate limit headers to response
-		c.header("X-RateLimit-Limit", config.requestsPerMinute.toString());
-		c.header("X-RateLimit-Remaining", (config.requestsPerMinute - data.minuteCount).toString());
-		c.header("X-RateLimit-Reset", data.minuteReset.toString());
-
-		// Log request for monitoring
-		console.log(
-			`[Rate Limit] IP: ${ip}, Minute: ${data.minuteCount}/${config.requestsPerMinute}, Day: ${data.dayCount}/${config.requestsPerDay}`,
-		);
 
 		await next();
 	});

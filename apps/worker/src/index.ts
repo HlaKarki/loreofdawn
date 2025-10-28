@@ -5,6 +5,7 @@ import { apiRouter } from "@/routes";
 import { errorHandler } from "@/middleware/error";
 import { HeroService } from "@/services/heroes.service";
 import type { Env, Bindings } from "@/types";
+export { RateLimitBucket } from "@/durable-objects/rateLimitBucket";
 
 export const app = new Hono<Env>();
 

@@ -8,6 +8,8 @@ import { z } from "zod";
 import { HeroService } from "@/services/heroes.service";
 import { rateLimiter } from "@/middleware/rateLimit";
 
+//  log('info', 'hero_lookup_start', { hero, rank });
+
 const input_schema = z.object({
 	question: z.string().min(1).max(500),
 	model: z.enum(models_enum).default("deepseek"),
@@ -16,13 +18,48 @@ const input_schema = z.object({
 	stream: z.boolean().default(true),
 });
 
+const buildResponsePrompt = (queryResults: unknown) => `
+You are answering questions about Mobile Legends: Bang Bang heroes using SQL query results.
+You respond in markdown syntax.
+
+Keep responses brief wherever possible. Do not be lengthier than 1000 words.
+
+### Response Style Rules:
+1. **Be conversational and natural** - Answer like you're talking to a friend, not reading from a database
+2. **Never mention the context** - Don't say "Based on the context...", "According to the data...", or "The information shows..."
+3. **Be specific and accurate** - Use exact numbers, names, and details from the query results
+4. **Pick interesting details** - For lore/story questions, choose surprising or noteworthy facts, not generic info
+5. **Keep it concise** - If asked for "one fact", give one fact. Don't over-explain.
+
+### Examples:
+
+❌ BAD: "Of course! Based on the context provided, Bruno has the highest win rate with 52.3%."
+✅ GOOD: "Bruno has the highest win rate at 52.3%."
+
+❌ BAD: "According to the query results, Miya is a hero in the game with various attributes..."
+✅ GOOD: "Miya is the game's very first hero and appears on every MLBB app icon as the official mascot."
+
+❌ BAD: "The database shows that Fanny's win rate is..."
+✅ GOOD: "Fanny has a 48.5% win rate in Glory rank."
+
+### CONTEXT
+${JSON.stringify(queryResults)}
+`;
+
 export const aiRouter = new Hono<Env>();
 
-// Apply rate limiting to AI endpoint (20/min, 200/day)
 const aiRateLimiter = rateLimiter({
-	requestsPerMinute: 5,
-	requestsPerDay: 100,
-	keyPrefix: "ratelimit:ai",
+	capacity: 5,
+	windowSecond: 60,
+});
+
+aiRouter.post("/test/ratelimit", aiRateLimiter, async (c) => {
+	const ip = c.req.header("CF-Connecting-IP") || "unknown";
+
+	return c.json({
+		ip: ip,
+		pathname: new URL(c.req.url).pathname,
+	});
 });
 
 /**
@@ -96,91 +133,34 @@ aiRouter.post("/ask", aiRateLimiter, async (c) => {
 				const result = await db.execute(sql.raw(query_response.sql));
 
 				if (ai) {
+					const systemPrompt = buildResponsePrompt(result);
+
 					if (stream) {
 						const worded_answer = streamText({
 							model: aiService.get_model(),
-							system: `
-						You are answering questions about Mobile Legends: Bang Bang heroes using SQL query results.
-						You respond in markdown syntax.
-
-						Keep responses brief wherever possible. Do not be lengthier than 1000 words.
-
-						### Response Style Rules:
-						1. **Be conversational and natural** - Answer like you're talking to a friend, not reading from a database
-						2. **Never mention the context** - Don't say "Based on the context...", "According to the data...", or "The information shows..."
-						3. **Be specific and accurate** - Use exact numbers, names, and details from the query results
-						4. **Pick interesting details** - For lore/story questions, choose surprising or noteworthy facts, not generic info
-						5. **Keep it concise** - If asked for "one fact", give one fact. Don't over-explain.
-
-						### Examples:
-
-						❌ BAD: "Of course! Based on the context provided, Bruno has the highest win rate with 52.3%."
-						✅ GOOD: "Bruno has the highest win rate at 52.3%."
-
-						❌ BAD: "According to the query results, Miya is a hero in the game with various attributes..."
-						✅ GOOD: "Miya is the game's very first hero and appears on every MLBB app icon as the official mascot."
-
-						❌ BAD: "The database shows that Fanny's win rate is..."
-						✅ GOOD: "Fanny has a 48.5% win rate in Glory rank."
-
-						### CONTEXT
-						${JSON.stringify(result)}
-						`,
+							system: systemPrompt,
 							prompt: question,
 							maxOutputTokens: 1000,
 						});
 
-						const duration = Date.now() - startTime;
 						console.log(
-							`[AI Success] IP: ${ip}, Duration: ${duration}ms, Model: ${model}, Rows: ${result.length}, AI Mode: streaming`,
+							`[AI Success] IP: ${ip}, Duration: ${Date.now() - startTime}ms, Model: ${model}, Rows: ${result.length}, AI Mode: streaming`,
 						);
 
 						return worded_answer.toTextStreamResponse({
-							headers: {
-								model: aiService.modelToString(),
-								sql: debug ? query_response.sql : "",
-								query_usage: JSON.stringify(ai_query_response.usage),
-								response_usage: JSON.stringify(worded_answer.usage),
-							},
+							headers: { model: aiService.modelToString() },
 						});
 					}
 
 					const worded_answer = await generateText({
 						model: aiService.get_model(),
-						system: `
-						You are answering questions about Mobile Legends: Bang Bang heroes using SQL query results.
-						You respond in markdown syntax.
-
-						Keep responses brief wherever possible. Do not be lengthier than 1000 words.
-
-						### Response Style Rules:
-						1. **Be conversational and natural** - Answer like you're talking to a friend, not reading from a database
-						2. **Never mention the context** - Don't say "Based on the context...", "According to the data...", or "The information shows..."
-						3. **Be specific and accurate** - Use exact numbers, names, and details from the query results
-						4. **Pick interesting details** - For lore/story questions, choose surprising or noteworthy facts, not generic info
-						5. **Keep it concise** - If asked for "one fact", give one fact. Don't over-explain.
-
-						### Examples:
-
-						❌ BAD: "Of course! Based on the context provided, Bruno has the highest win rate with 52.3%."
-						✅ GOOD: "Bruno has the highest win rate at 52.3%."
-
-						❌ BAD: "According to the query results, Miya is a hero in the game with various attributes..."
-						✅ GOOD: "Miya is the game's very first hero and appears on every MLBB app icon as the official mascot."
-
-						❌ BAD: "The database shows that Fanny's win rate is..."
-						✅ GOOD: "Fanny has a 48.5% win rate in Glory rank."
-
-						### CONTEXT
-						${JSON.stringify(result)}
-						`,
+						system: systemPrompt,
 						prompt: question,
 						maxOutputTokens: 1000,
 					});
 
-					const duration = Date.now() - startTime;
 					console.log(
-						`[AI Success] IP: ${ip}, Duration: ${duration}ms, Model: ${model}, Rows: ${result.length}, AI Mode: streaming`,
+						`[AI Success] IP: ${ip}, Duration: ${Date.now() - startTime}ms, Model: ${model}, Rows: ${result.length}, AI Mode: non-streaming`,
 					);
 
 					return c.json({
