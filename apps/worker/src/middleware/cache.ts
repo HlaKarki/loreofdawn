@@ -1,6 +1,5 @@
-import { createMiddleware } from "hono/factory";
-import type { Env } from "@/types";
 import { Context } from "hono";
+import { Logger } from "@repo/utils";
 
 class CacheKvLayer {
 	private readonly namespace: string;
@@ -53,13 +52,14 @@ class CacheKvLayer {
 		compute: () => Promise<T | Response | null>,
 		{ ttlSeconds }: { ttlSeconds?: number } = {},
 	): Promise<Response | undefined> {
+		const pathname = new URL(c.req.url).pathname;
 		const cacheHit = await this.readCache(cacheKey);
 		if (cacheHit) return cacheHit;
-		console.log("Cache missed!");
+		Logger.info(pathname, { message: "Cache missed!" });
 
 		const kvHit = await this.readKv(cacheKey, c);
 		if (kvHit) return kvHit;
-		console.log("KV missed!");
+		Logger.info(pathname, { message: "KV missed!" });
 
 		const fresh = await compute();
 		if (fresh instanceof Response) {
@@ -81,6 +81,32 @@ class CacheKvLayer {
 		await this.writeCache(cacheKey, fresh);
 
 		return c.json(fresh);
+	}
+
+	async tryFetch<T>(
+		c: Context,
+		cacheKey: string,
+		compute: () => Promise<T | null>,
+		{ ttlSeconds }: { ttlSeconds?: number } = {},
+	) {
+		const pathname = new URL(c.req.url).pathname;
+		const cacheHit = await this.readCache(cacheKey);
+		if (cacheHit) return (await cacheHit.json()) as T;
+		Logger.info(pathname, { message: "Cache missed!" });
+
+		const kvHit = await this.readKv(cacheKey, c);
+		if (kvHit) return (await kvHit.json()) as T;
+		Logger.info(pathname, { message: "KV missed!" });
+
+		const fresh = await compute();
+		if (!fresh) return null;
+
+		await c.env.KV.put(cacheKey, JSON.stringify(fresh), {
+			expirationTtl: ttlSeconds ?? this.ttlSeconds,
+		});
+		await this.writeCache(cacheKey, fresh);
+
+		return fresh;
 	}
 
 	async delete(cacheKey: string, c: Context) {

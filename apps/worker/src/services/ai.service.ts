@@ -1,8 +1,16 @@
-import { jsonSchema, LanguageModel } from "ai";
+import {
+	generateObject,
+	generateText,
+	jsonSchema,
+	LanguageModel,
+	LanguageModelUsage,
+	streamText,
+} from "ai";
 import { google } from "@ai-sdk/google";
 import { openai } from "@ai-sdk/openai";
 import { z } from "zod";
 import { deepseek } from "@ai-sdk/deepseek";
+import { Logger } from "@repo/utils";
 
 export const models_enum = ["flash", "flash-lite", "deepseek", "gpt-5-mini", "gpt-5-nano"] as const;
 type ModelTypes = (typeof models_enum)[number];
@@ -324,9 +332,10 @@ export class AiService {
 				name,
 				jsonb_array_elements(best_counter)->>'name' AS counters
 			FROM hero_matchups
-			WHERE name = 'Fanny' AND rank = 'overall';
+			WHERE name ILIKE 'Fanny' AND rank = 'overall';
 			
 			### Important Notes
+			- Must use ILIKE for name conditional queries
 			- Use LIMIT to prevent massive result sets
 			- If the user doesn't specify how many results they want, default to LIMIT 10 to prevent large result sets
 			- Always specify rank when querying hero_matchups, hero_metas, or hero_graphs (composite primary keys)
@@ -344,5 +353,53 @@ export class AiService {
 
 	modelToString() {
 		return this.model_name;
+	}
+
+	async generateSqlQuery(
+		pathname: string,
+		question: string,
+		heroList: string,
+	): Promise<{ sql: string; explanation: string; usage: LanguageModelUsage } | { error: string }> {
+		try {
+			const ai_query_response = await generateObject({
+				model: this.get_model(),
+				schema: this.sql_z_schema(),
+				system: this.sql_system_prompt(heroList),
+				prompt: question,
+				temperature: 0,
+			});
+			return { ...ai_query_response.object, usage: ai_query_response.usage };
+		} catch (error) {
+			Logger.error(pathname, { question, error });
+			return { error: JSON.stringify(error, null, 2) };
+		}
+	}
+
+	async generateResponse(
+		pathname: string,
+		stream: boolean,
+		systemPrompt: string,
+		context: string,
+		model: LanguageModel,
+		maxToken: number = 1000,
+	) {
+		const config = {
+			model: model,
+			system: systemPrompt,
+			prompt: context,
+			maxOutputTokens: maxToken,
+		} as const;
+
+		try {
+			if (stream) {
+				Logger.info(pathname, { message: "streaming ai response" });
+				return streamText(config);
+			}
+			Logger.info(pathname, { message: "generating ai response" });
+			return generateText(config);
+		} catch (error) {
+			Logger.error(pathname, { error, message: "error generating ai response/stream" });
+			return { error: JSON.stringify(error, null, 2) };
+		}
 	}
 }
