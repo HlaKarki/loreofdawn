@@ -30,44 +30,56 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 	}
 
 	const ip = c.req.header("CF-Connecting-IP") || "unknown";
-	const { question, model, debug, ai, stream } = validation.data;
+	const input = validation.data;
+	const shaQuestion = await cacheKvLayer.shaCacheKey(input.question, 16, { model: input.model });
 
 	Logger.info(pathname, { ip, ...validation.data });
 	const heroNames = await cacheKvLayer.tryFetch(
 		c,
-		"hero-names:v1",
+		"heroNames:askQuestionsHandler",
 		async () => {
 			const list = await new HeroService(c.env).getHeroList();
 			return list.map((hero) => hero.url_name);
 		},
 		{ ttlSeconds: 60 * 60 * 24 }, // 24 hours
 	);
-	const aiService = new AiService(model);
+	const aiService = new AiService(input.model);
 
-	const sqlResult = await aiService.generateSqlQuery(pathname, question, JSON.stringify(heroNames));
+	const sqlResult = await cacheKvLayer.tryFetch(c, `sqlResult:${shaQuestion}`, async () => {
+		return await aiService.generateSqlQuery(pathname, input.question, JSON.stringify(heroNames));
+	});
 
 	if ("error" in sqlResult) {
 		Logger.error(pathname, { ip, sqlResult });
 		return c.json({ error: "Invalid query", details: sqlResult.error }, 400);
 	}
 
-	const queryResult = await DbService.executeSqlQuery(
-		sqlResult.sql,
-		c.env.HYPERDRIVE_READONLY.connectionString,
+	const shaSqlResult = await cacheKvLayer.shaCacheKey(sqlResult.sql, 16);
+	const queryResult = await cacheKvLayer.tryFetch(
+		c,
+		`queryResult:${shaSqlResult}`,
+		async () => {
+			return await DbService.executeSqlQuery(
+				sqlResult.sql,
+				c.env.HYPERDRIVE_READONLY.connectionString,
+			);
+		},
+		{ ttlSeconds: 60 * 60 }, // 1 hour,
 	);
+
 	if ("error" in queryResult) {
 		Logger.error(pathname, { ip, queryResult });
 		return c.json({ error: "Query failed", details: queryResult.error }, 500);
 	}
 
-	if (ai) {
+	if (input.ai) {
 		const prompt = buildResponsePrompt(queryResult);
 
 		const response = await aiService.generateResponse(
 			pathname,
-			stream,
+			input.stream,
 			prompt,
-			question,
+			input.question,
 			aiService.get_model(),
 		);
 		if ("error" in response) {
@@ -75,7 +87,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 			return c.json({ error: response.error }, 500);
 		}
 
-		if (stream && "toTextStreamResponse" in response) {
+		if (input.stream && "toTextStreamResponse" in response) {
 			return response.toTextStreamResponse({
 				headers: { model: aiService.modelToString() },
 			});
@@ -85,10 +97,10 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 
 		return c.json({
 			response: response.text,
-			model: debug ? aiService.modelToString() : undefined,
-			sql: debug ? sqlResult.sql : undefined,
-			query_usage: debug ? sqlResult.usage : undefined,
-			response_usage: debug ? response.usage : undefined,
+			model: input.debug ? aiService.modelToString() : undefined,
+			sql: input.debug ? sqlResult.sql : undefined,
+			query_usage: input.debug ? sqlResult.usage : undefined,
+			response_usage: input.debug ? response.usage : undefined,
 		});
 	}
 

@@ -19,7 +19,7 @@ class CacheKvLayer {
 		const cached = await cache.match(this.cacheUrlFor(cacheKey));
 		if (!cached) return null;
 
-		console.log("✓️ Cache hit");
+		console.log("✓️ Cache hit: ", cacheKey);
 		return cached;
 	}
 
@@ -39,7 +39,7 @@ class CacheKvLayer {
 		const kvData = await c.env.KV.get(cacheKey, "json");
 		if (!kvData) return null;
 
-		console.log("✓ KV hit");
+		console.log("✓ KV hit: ", cacheKey);
 
 		const response = c.json(kvData);
 		await this.writeCache(cacheKey, kvData, response.headers);
@@ -86,20 +86,19 @@ class CacheKvLayer {
 	async tryFetch<T>(
 		c: Context,
 		cacheKey: string,
-		compute: () => Promise<T | null>,
+		compute: () => Promise<T>,
 		{ ttlSeconds }: { ttlSeconds?: number } = {},
 	) {
 		const pathname = new URL(c.req.url).pathname;
 		const cacheHit = await this.readCache(cacheKey);
 		if (cacheHit) return (await cacheHit.json()) as T;
-		Logger.info(pathname, { message: "Cache missed!" });
+		Logger.info(pathname, { message: `Cache missed: ${cacheKey}` });
 
 		const kvHit = await this.readKv(cacheKey, c);
 		if (kvHit) return (await kvHit.json()) as T;
-		Logger.info(pathname, { message: "KV missed!" });
+		Logger.info(pathname, { message: `KV missed: ${cacheKey}` });
 
 		const fresh = await compute();
-		if (!fresh) return null;
 
 		await c.env.KV.put(cacheKey, JSON.stringify(fresh), {
 			expirationTtl: ttlSeconds ?? this.ttlSeconds,
@@ -113,6 +112,28 @@ class CacheKvLayer {
 		const cache = await caches.open(this.namespace);
 		await cache.delete(this.cacheUrlFor(cacheKey));
 		await c.env.KV.delete(cacheKey);
+	}
+
+	async shaCacheKey(context: string, slice: number = 0, opts?: object): Promise<string> {
+		const normalized = context.normalize("NFC").trim().replace(/\s+/g, " ");
+
+		const payload = JSON.stringify({ q: normalized, ...opts });
+
+		// hash with SHA-256
+		const encoder = new TextEncoder();
+		const data = encoder.encode(payload);
+		const hashBuffer = await crypto.subtle.digest("SHA-256", data);
+
+		// convert to base64url for compact readability
+		const hashArray = Array.from(new Uint8Array(hashBuffer));
+		const base64url = btoa(String.fromCharCode(...hashArray))
+			.replace(/\+/g, "-")
+			.replace(/\//g, "_")
+			.replace(/=+$/, "");
+
+		const key = slice > 0 ? base64url.slice(0, slice) : base64url;
+
+		return `cache:${key}`;
 	}
 }
 
