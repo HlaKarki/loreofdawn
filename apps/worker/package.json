@@ -12,6 +12,7 @@
 		"@ai-sdk/deepseek": "^1.0.23",
 		"@ai-sdk/google": "^2.0.23",
 		"@ai-sdk/openai": "^2.0.53",
+		"@clerk/backend": "^2.19.1",
 		"@repo/database": "workspace:*",
 		"ai": "^5.0.76",
 		"drizzle-orm": "^0.44.2",

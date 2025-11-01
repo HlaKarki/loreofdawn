@@ -6,6 +6,7 @@ import { DbService } from "@/services/db.service";
 import { z } from "zod";
 import type { Env } from "@/types";
 import { cacheKvLayer } from "@/middleware/cache";
+import { creditService } from "@/services/credits.service";
 
 const input_schema = z.object({
 	question: z.string().min(1).max(500),
@@ -22,6 +23,7 @@ const input_schema = z.object({
  * @param {Context} c - Hono Context
  */
 export const askQuestionsHandler = async (c: Context<Env>) => {
+	// authenticating middleware which gives me userId
 	const pathname = new URL(c.req.url).pathname;
 
 	const validation = input_schema.safeParse(await c.req.json());
@@ -31,9 +33,19 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 
 	const ip = c.req.header("CF-Connecting-IP") || "unknown";
 	const input = validation.data;
-	const shaQuestion = await cacheKvLayer.shaCacheKey(input.question, 16, { model: input.model });
-
 	Logger.info(pathname, { ip, ...validation.data });
+
+	// check if user has enough credit to proceed
+	// const userHasEnoughCredit = await creditService.checkUserCredit(
+	// 	userId,
+	// 	c.env.HYPERDRIVE.connectionString,
+	// );
+
+	// if (!userHasEnoughCredit) {
+	// 	return c.json({ error: "Invalid request", details: "You don't have enough credit!" });
+	// }
+
+	const shaQuestion = await cacheKvLayer.shaCacheKey(input.question, 16, { model: input.model });
 	const heroNames = await cacheKvLayer.tryFetch(
 		c,
 		"heroNames:askQuestionsHandler",
@@ -86,6 +98,8 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 			Logger.error(pathname, { ip, response });
 			return c.json({ error: response.error }, 500);
 		}
+
+		// use up credit
 
 		if (input.stream && "toTextStreamResponse" in response) {
 			return response.toTextStreamResponse({

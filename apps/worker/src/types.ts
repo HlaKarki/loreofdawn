@@ -3,10 +3,16 @@ export type Bindings = {
 	HYPERDRIVE_READONLY: Hyperdrive;
 	KV: KVNamespace;
 	RateLimiter: DurableObjectNamespace;
+	OPENAI_API_KEY: string;
+	GOOGLE_GENERATIVE_AI_API_KEY: string;
+	DEEPSEEK_API_KEY: string;
+	CLERK_SECRET_KEY: string;
 };
 
 export type Variables = {
 	cacheKey?: string;
+	userId?: string;
+	isAuthenticated?: boolean;
 };
 
 export type Env = {
