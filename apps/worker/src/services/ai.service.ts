@@ -268,8 +268,28 @@ export class AiService {
 			The "sql" field must always contain a syntactically valid SQL query.
 			You may not include any DELETE, UPDATE, INSERT, DROP, or ALTER statements.
 			
-			### Official and Queryable Heroes
+			### Official and Queryable Heroes with Metadata
+			Format: "HeroName (role1/role2, lane1/lane2, speciality1/speciality2)"
+
 			${list_of_heroes}
+
+			**CRITICAL: Using Hero Metadata for Role/Lane Queries:**
+			- When user asks about a ROLE (mage, mm, marksman, tank, fighter, assassin, support):
+			  * ✅ CORRECT: Use JOIN with hero_profiles and case-insensitive JSONB filter with EXISTS
+			  * Example: SELECT m.name, m.win_rate FROM hero_metas m JOIN hero_profiles p ON m.name = p.name WHERE EXISTS (SELECT 1 FROM jsonb_array_elements(p.roles) AS role WHERE role->>'title' ILIKE 'marksman') AND m.rank = 'glory'
+			  * ❌ WRONG: Do NOT use @> operator as it is case-sensitive
+			  * ❌ WRONG: Do NOT manually list hero names with ILIKE
+
+			- Role mappings (case-insensitive with ILIKE):
+			  * mages/mage → EXISTS (SELECT 1 FROM jsonb_array_elements(p.roles) AS role WHERE role->>'title' ILIKE 'mage')
+			  * mm/marksman → EXISTS (SELECT 1 FROM jsonb_array_elements(p.roles) AS role WHERE role->>'title' ILIKE 'marksman')
+			  * tank → EXISTS (SELECT 1 FROM jsonb_array_elements(p.roles) AS role WHERE role->>'title' ILIKE 'tank')
+			  * fighter → EXISTS (SELECT 1 FROM jsonb_array_elements(p.roles) AS role WHERE role->>'title' ILIKE 'fighter')
+			  * assassin → EXISTS (SELECT 1 FROM jsonb_array_elements(p.roles) AS role WHERE role->>'title' ILIKE 'assassin')
+			  * support → EXISTS (SELECT 1 FROM jsonb_array_elements(p.roles) AS role WHERE role->>'title' ILIKE 'support')
+
+			- CRITICAL: Always use ILIKE for case-insensitive matching on JSONB text fields
+			- Use ILIKE for both hero names and role filtering to ensure case-insensitive queries
 			
 			### Database Schema
 			 
@@ -307,7 +327,7 @@ export class AiService {
 			WITH expanded AS (
 				SELECT name, jsonb_array_elements(points) AS point
 				FROM hero_graphs
-				WHERE rank = 'overall'
+				WHERE rank = 'glory'
 			)
 			SELECT
 				name,
@@ -318,7 +338,7 @@ export class AiService {
 			**3. Find heroes with highest win rate in a specific rank:**
 			SELECT name, win_rate
 			FROM hero_metas
-			WHERE rank = 'overall'
+			WHERE rank = 'glory'
 			ORDER BY win_rate DESC
 			LIMIT 10;
 			
@@ -332,10 +352,13 @@ export class AiService {
 				name,
 				jsonb_array_elements(best_counter)->>'name' AS counters
 			FROM hero_matchups
-			WHERE name ILIKE 'Fanny' AND rank = 'overall';
+			WHERE name ILIKE 'Fanny' AND rank = 'glory';
 			
 			### Important Notes
-			- Must use ILIKE for name conditional queries
+			- **CRITICAL**: ALWAYS use ILIKE for ANY name matching (hero names are stored with proper capitalization)
+			- **NEVER use = or IN with hero names** - use ILIKE or a series of OR conditions with ILIKE
+			- For multiple heroes, use: WHERE (name ILIKE 'layla' OR name ILIKE 'miya' OR name ILIKE 'clint')
+			- For single hero: WHERE name ILIKE 'fanny' (NOT WHERE name = 'fanny')
 			- Use LIMIT to prevent massive result sets
 			- If the user doesn't specify how many results they want, default to LIMIT 10 to prevent large result sets
 			- Always specify rank when querying hero_matchups, hero_metas, or hero_graphs (composite primary keys)

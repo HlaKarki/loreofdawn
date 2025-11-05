@@ -31,6 +31,39 @@ export class HeroService {
 	}
 
 	/**
+	 * Get comprehensive list of heroes with their roles, lanes, and specialities
+	 * Returns a formatted string that helps AI understand hero classifications
+	 * e.g. "Miya (marksman, gold lane, damage/push), Fanny (assassin, jungle, burst/mobility)"
+	 */
+	async getHeroListForAi(): Promise<string> {
+		const heroes = await this.db
+			.select({
+				name: heroProfileTable.name,
+				roles: heroProfileTable.roles,
+				lanes: heroProfileTable.lanes,
+				speciality: heroProfileTable.speciality,
+			})
+			.from(heroProfileTable);
+
+		// Format: "HeroName (role1/role2, lane1/lane2, speciality1/speciality2)"
+		const formatted = heroes.map((hero) => {
+			const roles = (hero.roles as any[])?.map((r) => r.title?.toLowerCase()).filter(Boolean) || [];
+			const lanes = (hero.lanes as any[])?.map((l) => l.title?.toLowerCase()).filter(Boolean) || [];
+			const specs = (hero.speciality as string[])?.filter(Boolean) || [];
+
+			const parts = [
+				roles.length > 0 ? roles.join("/") : null,
+				lanes.length > 0 ? lanes.join("/") : null,
+				specs.length > 0 ? specs.join("/") : null,
+			].filter(Boolean);
+
+			return `${hero.name} (${parts.join(", ")})`;
+		});
+
+		return formatted.join(", ");
+	}
+
+	/**
 	 * Get consolidated data profile with matchups, meta, and graph data (LEFT JOIN version)
 	 */
 	async getHeroProfile(name: string, rank: string) {

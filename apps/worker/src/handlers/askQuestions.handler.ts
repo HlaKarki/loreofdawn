@@ -8,6 +8,8 @@ import type { Env } from "@/types";
 import { cacheKvLayer } from "@/middleware/cache";
 import { creditService } from "@/services/credits.service";
 
+const cV = "v1.0.2";
+
 const input_schema = z.object({
 	question: z.string().min(1).max(500),
 	model: z.enum(models_enum).default("deepseek"),
@@ -46,19 +48,18 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 	// }
 
 	const shaQuestion = await cacheKvLayer.shaCacheKey(input.question, 16, { model: input.model });
-	const heroNames = await cacheKvLayer.tryFetch(
+	const heroMetadata = await cacheKvLayer.tryFetch(
 		c,
-		"heroNames:askQuestionsHandler",
+		`heroMetadata:askQuestionsHandler:${cV}`,
 		async () => {
-			const list = await new HeroService(c.env).getHeroList();
-			return list.map((hero) => hero.url_name);
+			return await new HeroService(c.env).getHeroListForAi();
 		},
 		{ ttlSeconds: 60 * 60 * 24 }, // 24 hours
 	);
 	const aiService = new AiService(input.model);
 
-	const sqlResult = await cacheKvLayer.tryFetch(c, `sqlResult:${shaQuestion}`, async () => {
-		return await aiService.generateSqlQuery(pathname, input.question, JSON.stringify(heroNames));
+	const sqlResult = await cacheKvLayer.tryFetch(c, `sqlResult:${cV}:${shaQuestion}`, async () => {
+		return await aiService.generateSqlQuery(pathname, input.question, heroMetadata);
 	});
 
 	if ("error" in sqlResult) {
@@ -71,10 +72,8 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		c,
 		`queryResult:${shaSqlResult}`,
 		async () => {
-			return await DbService.executeSqlQuery(
-				sqlResult.sql,
-				c.env.HYPERDRIVE_READONLY.connectionString,
-			);
+			// TODO: Using regular HYPERDRIVE instead of READONLY due to connection issues
+			return await DbService.executeSqlQuery(sqlResult.sql, c.env.HYPERDRIVE.connectionString);
 		},
 		{ ttlSeconds: 60 * 60 }, // 1 hour,
 	);
@@ -99,6 +98,8 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 			return c.json({ error: response.error }, 500);
 		}
 
+		Logger.info(pathname, { sqlQuery: sqlResult.sql, queryResult: queryResult });
+
 		// use up credit
 
 		if (input.stream && "toTextStreamResponse" in response) {
@@ -113,6 +114,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 			response: response.text,
 			model: input.debug ? aiService.modelToString() : undefined,
 			sql: input.debug ? sqlResult.sql : undefined,
+			queryResult: input.debug ? queryResult : undefined,
 			query_usage: input.debug ? sqlResult.usage : undefined,
 			response_usage: input.debug ? response.usage : undefined,
 		});

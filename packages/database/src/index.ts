@@ -1,5 +1,4 @@
 // Schemas (for drizzle queries)
-export * from "./schemas/auth.schema";
 export * from "./schemas/wiki.schema";
 export * from "./schemas/ml.schema";
 export * from "./schemas/users.schema";

@@ -4,7 +4,8 @@
 	"private": true,
 	"scripts": {
 		"deploy": "wrangler deploy",
-		"dev": "wrangler dev",
+		"dev": "wrangler dev --remote",
+		"dev:local": "wrangler dev",
 		"start": "wrangler dev",
 		"cf-typegen": "wrangler types"
 	},
@@ -18,6 +19,7 @@
 		"drizzle-orm": "^0.44.2",
 		"hono": "^4.6.14",
 		"postgres": "^3.4.5",
+		"react-markdown": "^10.1.0",
 		"zod": "^3.24.1"
 	},
 	"devDependencies": {

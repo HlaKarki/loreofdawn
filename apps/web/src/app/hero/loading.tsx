@@ -35,7 +35,7 @@ export default function Loading() {
 	}, []);
 
 	return (
-		<div className="mt-15 mx-auto w-full max-w-6xl px-4 pb-16 pt-12 sm:px-6 lg:px-8">
+		<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-12 sm:px-6 lg:px-8">
 			<SectionCard className="px-5 py-6 sm:px-6 sm:py-8">
 				<div className="flex flex-col gap-6 md:flex-row md:items-center">
 					<Placeholder className="h-28 w-28 rounded-xl border border-border bg-muted/60 sm:h-36 sm:w-36" />

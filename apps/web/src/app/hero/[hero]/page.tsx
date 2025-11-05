@@ -37,7 +37,7 @@ export default async function HeroPage({ params, searchParams }: HeroPageProps) 
 	const { profile, matchups, meta, graph } = (await response.json()) satisfies ConsolidatedHero;
 
 	return (
-		<div className="mt-15 mx-auto w-full max-w-6xl px-4 pb-16 pt-10 sm:px-6 lg:px-8">
+		<div className="mx-auto w-full max-w-6xl px-4 pb-16 sm:px-6 lg:px-8">
 			<HeroHeader data={profile} metadata={meta} />
 			<HeroTale data={profile} />
 			<HeroSkills data={profile} />

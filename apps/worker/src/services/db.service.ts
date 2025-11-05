@@ -7,6 +7,7 @@ export const DbService = {
 		try {
 			return await db.execute(sql.raw(sqlQuery));
 		} catch (error) {
+			console.error("DB Execute error:", error);
 			return { error };
 		}
 	},

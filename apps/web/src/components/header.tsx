@@ -8,6 +8,7 @@ export default function Header() {
 		{ to: "/", label: "Home" },
 		{ to: "/wiki", label: "Wikis" },
 		{ to: "/hero", label: "Heroes" },
+		{ to: "/login", label: "Login" },
 	] as const;
 
 	return (

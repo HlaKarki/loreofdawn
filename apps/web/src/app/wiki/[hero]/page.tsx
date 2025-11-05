@@ -55,7 +55,7 @@ export default async function WikiPage({ params }: WikiPageProps) {
 	});
 
 	return (
-		<div className="mt-25 relative">
+		<div className="relative">
 			<div className="mx-auto flex justify-between max-w-5xl gap-10 px-4 pb-16 sm:px-6 lg:px-8">
 				<article id="mdx-content" className={prose_styling}>
 					{content}
