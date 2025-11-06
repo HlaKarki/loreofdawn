@@ -1,5 +1,5 @@
 import { bigint, index, integer, jsonb, pgTable, text } from "drizzle-orm/pg-core";
-import { creditTransactionsMetadata, creditTransactionsReason } from "../types/credit.schema";
+import { creditTransactionsMetadata, creditTransactionsReason } from "../types/credit.types";
 import { usersTable } from "./users.schema";
 
 export const creditTransactionsTable = pgTable(

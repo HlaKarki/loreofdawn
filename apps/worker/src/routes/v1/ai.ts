@@ -20,16 +20,7 @@ aiRouter.post("/test/ratelimit", ipRateLimiter, async (c) => {
 	});
 });
 
-aiRouter.post("/test/auth", requireAuth, async (c) => {
-	const ip = c.req.header("CF-Connecting-IP") || "unknown";
-	const userId = c.get("userId");
-	return c.json({
-		ip,
-		userId: userId,
-	});
-});
-
 /**
  * POST /ask - AI-powered natural language to SQL query endpoint
  */
-aiRouter.post("/ask", ipRateLimiter, askQuestionsHandler);
+aiRouter.post("/ask", ipRateLimiter, requireAuth, askQuestionsHandler);

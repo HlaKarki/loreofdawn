@@ -6,7 +6,8 @@ import { DbService } from "@/services/db.service";
 import { z } from "zod";
 import type { Env } from "@/types";
 import { cacheKvLayer } from "@/middleware/cache";
-import { creditService } from "@/services/credits.service";
+import { CreditService } from "@/services/credits.service";
+import { UserService } from "@/services/users.service";
 
 const cV = "v1.0.2";
 
@@ -28,24 +29,35 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 	// authenticating middleware which gives me userId
 	const pathname = new URL(c.req.url).pathname;
 
+	const clerkUserId = c.get("clerkUserId");
+
+	if (!clerkUserId) {
+		Logger.info(pathname, { message: "No clerkUserId found!" });
+		return c.json(
+			{ error: "Invalid request", details: "No authenticated credentials provided" },
+			400,
+		);
+	}
+
 	const validation = input_schema.safeParse(await c.req.json());
 	if (!validation.success) {
 		return c.json({ error: "Invalid request", details: validation.error.errors }, 400);
 	}
+
+	// Define services in one place?
+	const userService = new UserService(c.env.HYPERDRIVE.connectionString);
+	const creditService = new CreditService(c.env.HYPERDRIVE.connectionString);
 
 	const ip = c.req.header("CF-Connecting-IP") || "unknown";
 	const input = validation.data;
 	Logger.info(pathname, { ip, ...validation.data });
 
 	// check if user has enough credit to proceed
-	// const userHasEnoughCredit = await creditService.checkUserCredit(
-	// 	userId,
-	// 	c.env.HYPERDRIVE.connectionString,
-	// );
+	const userData = await userService.getUserByClerkId(clerkUserId);
 
-	// if (!userHasEnoughCredit) {
-	// 	return c.json({ error: "Invalid request", details: "You don't have enough credit!" });
-	// }
+	if (userData.credits_remaining < 1) {
+		return c.json({ error: "Invalid request", details: "You don't have enough credit!" });
+	}
 
 	const shaQuestion = await cacheKvLayer.shaCacheKey(input.question, 16, { model: input.model });
 	const heroMetadata = await cacheKvLayer.tryFetch(
@@ -101,10 +113,11 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		Logger.info(pathname, { sqlQuery: sqlResult.sql, queryResult: queryResult });
 
 		// use up credit
+		const balance = await creditService.useCredit(clerkUserId);
 
 		if (input.stream && "toTextStreamResponse" in response) {
 			return response.toTextStreamResponse({
-				headers: { model: aiService.modelToString() },
+				headers: { model: aiService.modelToString(), balance: String(balance.credits_remaining) },
 			});
 		}
 

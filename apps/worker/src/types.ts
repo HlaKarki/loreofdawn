@@ -12,7 +12,7 @@ export type Bindings = {
 
 export type Variables = {
 	cacheKey?: string;
-	userId?: string;
+	clerkUserId?: string;
 	isAuthenticated?: boolean;
 };
 

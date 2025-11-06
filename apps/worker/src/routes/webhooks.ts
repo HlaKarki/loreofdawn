@@ -50,7 +50,7 @@ webhooksRouter.post("/clerk", async (c) => {
 
 	const eventType = evt.type;
 
-	const userService = new UserService(c.env);
+	const userService = new UserService(c.env.HYPERDRIVE.connectionString);
 
 	switch (eventType) {
 		case "user.created": {

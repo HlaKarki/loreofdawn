@@ -1,14 +1,13 @@
 import { createDb } from "@/db";
 import { userSchemaType, usersTable } from "@repo/database";
 import { eq } from "drizzle-orm";
-import type { Bindings } from "@/types";
 import { Logger } from "@repo/utils";
 
 export class UserService {
 	private readonly connectionString: string;
 
-	constructor(env: Bindings) {
-		this.connectionString = env.HYPERDRIVE.connectionString;
+	constructor(connectionString: string) {
+		this.connectionString = connectionString;
 	}
 
 	/**
@@ -31,7 +30,6 @@ export class UserService {
 			Logger.info("", { message: `${user.id} User created: ${user.clerk_user_id}` });
 			return user;
 		} catch (error) {
-			console.error("Failed to create user:", error);
 			Logger.error("", { message: `Failed to create user: ${error}` });
 			throw error;
 		}
@@ -60,10 +58,10 @@ export class UserService {
 				.where(eq(usersTable.clerk_user_id, clerkUserId))
 				.returning();
 
-			console.log("User updated in DB:", user);
+			Logger.info("", { message: `User updated in DB: ${user}` });
 			return user;
 		} catch (error) {
-			console.error("Failed to update user:", error);
+			Logger.error("", { message: `Failed to update user: ${error}` });
 			throw error;
 		}
 	}
@@ -80,10 +78,10 @@ export class UserService {
 				.where(eq(usersTable.clerk_user_id, clerkUserId))
 				.returning();
 
-			console.log("User deleted from DB:", user);
+			Logger.info("", { message: `User deleted from DB: ${user}` });
 			return user;
 		} catch (error) {
-			console.error("Failed to delete user:", error);
+			Logger.error("", { message: `Failed to delete user: ${error}` });
 			throw error;
 		}
 	}
@@ -103,7 +101,7 @@ export class UserService {
 
 			return user;
 		} catch (error) {
-			console.error("Failed to get user:", error);
+			Logger.error("", { message: `Failed to get user: ${error}` });
 			throw error;
 		}
 	}
