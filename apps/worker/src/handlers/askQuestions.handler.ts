@@ -7,6 +7,7 @@ import { z } from "zod";
 import type { Env } from "@/types";
 import { cacheKvLayer } from "@/middleware/cache";
 import { CreditService } from "@/services/credits.service";
+import { createDb } from "@/db";
 
 const cV = "v1.0.2";
 
@@ -43,8 +44,11 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		return c.json({ error: "Invalid request", details: validation.error.errors }, 400);
 	}
 
-	// Define services
-	const creditService = new CreditService(c.env.HYPERDRIVE.connectionString);
+	// Create single DB instance
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+
+	const creditService = new CreditService(db);
+	const heroService = new HeroService(db, c.env.KV);
 
 	const ip = c.req.header("CF-Connecting-IP") || "unknown";
 	const input = validation.data;
@@ -68,7 +72,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		c,
 		`heroMetadata:askQuestionsHandler:${cV}`,
 		async () => {
-			return await new HeroService(c.env).getHeroListForAi();
+			return await heroService.getHeroListForAi();
 		},
 		{ ttlSeconds: 60 * 60 * 24 }, // 24 hours
 	);
@@ -88,8 +92,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		c,
 		`queryResult:${shaSqlResult}`,
 		async () => {
-			// TODO: Using regular HYPERDRIVE instead of READONLY due to connection issues
-			return await DbService.executeSqlQuery(sqlResult.sql, c.env.HYPERDRIVE.connectionString);
+			return await DbService.executeSqlQuery(sqlResult.sql, db);
 		},
 		{ ttlSeconds: 60 * 60 }, // 1 hour,
 	);

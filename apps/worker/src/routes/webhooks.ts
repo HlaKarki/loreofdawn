@@ -4,6 +4,7 @@ import { Webhook } from "svix";
 import { WebhookEvent } from "@clerk/backend";
 import { UserService } from "@/services/users.service";
 import { Logger } from "@repo/utils";
+import { createDb } from "@/db";
 
 export const webhooksRouter = new Hono<Env>();
 
@@ -50,7 +51,9 @@ webhooksRouter.post("/clerk", async (c) => {
 
 	const eventType = evt.type;
 
-	const userService = new UserService(c.env.HYPERDRIVE.connectionString);
+	// Create single DB instance for this request (Hyperdrive best practice)
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+	const userService = new UserService(db);
 
 	switch (eventType) {
 		case "user.created": {

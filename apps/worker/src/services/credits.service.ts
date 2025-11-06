@@ -1,12 +1,12 @@
-import { createDb } from "@/db";
 import { usersTable } from "@repo/database";
 import { eq, sql } from "drizzle-orm";
+import type { PostgresJsDatabase } from "drizzle-orm/postgres-js";
 
 export class CreditService {
-	private readonly connectionString: string;
+	private readonly db: PostgresJsDatabase;
 
-	constructor(connectionString: string) {
-		this.connectionString = connectionString;
+	constructor(db: PostgresJsDatabase) {
+		this.db = db;
 	}
 
 	/**
@@ -15,10 +15,8 @@ export class CreditService {
 	 * @returns Updated credits_remaining
 	 */
 	async useCredit(clerkUserId: string): Promise<{ credits_remaining: number }> {
-		const db = createDb(this.connectionString);
-
 		// Atomic check-and-deduct using UPDATE with WHERE clause
-		const [result] = await db
+		const [result] = await this.db
 			.update(usersTable)
 			.set({
 				credits_remaining: sql`${usersTable.credits_remaining} - 1`,
@@ -41,9 +39,7 @@ export class CreditService {
 	 * Check if user has sufficient credits without deducting
 	 */
 	async hasCredits(clerkUserId: string): Promise<boolean> {
-		const db = createDb(this.connectionString);
-
-		const [user] = await db
+		const [user] = await this.db
 			.select({ credits_remaining: usersTable.credits_remaining })
 			.from(usersTable)
 			.where(eq(usersTable.clerk_user_id, clerkUserId))

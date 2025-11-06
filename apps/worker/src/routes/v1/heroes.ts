@@ -2,6 +2,7 @@ import { Hono } from "hono";
 import { HeroService } from "@/services/heroes.service";
 import { cacheKvLayer } from "@/middleware/cache";
 import type { Env } from "@/types";
+import { createDb } from "@/db";
 
 export const heroesRouter = new Hono<Env>();
 
@@ -11,9 +12,9 @@ export const heroesRouter = new Hono<Env>();
  */
 heroesRouter.get("/list", async (c) => {
 	const cacheKey = `wiki:list:all`;
-
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
 	return cacheKvLayer.respond(c, cacheKey, async () => {
-		const heroService = new HeroService(c.env);
+		const heroService = new HeroService(db, c.env.KV);
 		return heroService.getHeroList();
 	});
 });
@@ -25,9 +26,10 @@ heroesRouter.get("/list", async (c) => {
 heroesRouter.get("/assets/:name", async (c) => {
 	const name = c.req.param("name");
 	const cacheKey = `hero:assets:${name}`;
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
 
 	return cacheKvLayer.respond(c, cacheKey, async () => {
-		const heroService = new HeroService(c.env);
+		const heroService = new HeroService(db, c.env.KV);
 		return heroService.getHeroAssets(name);
 	});
 });
@@ -41,8 +43,10 @@ heroesRouter.get("/:name/:rank", async (c) => {
 	const rank = c.req.param("rank");
 	const cacheKey = `hero:${name}:${rank}`;
 
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+
 	return cacheKvLayer.respond(c, cacheKey, async () => {
-		const heroService = new HeroService(c.env);
+		const heroService = new HeroService(db, c.env.KV);
 		return await heroService.getHeroProfile(name, rank);
 	});
 });
@@ -60,8 +64,10 @@ heroesRouter.delete("/:name", async (c) => {
 
 	const ranks = ["overall", "mythic"];
 
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+
 	if (name === "all") {
-		const heroService = new HeroService(c.env);
+		const heroService = new HeroService(db, c.env.KV);
 		const heroes = await heroService.getHeroList();
 
 		for (const hero of heroes) {
