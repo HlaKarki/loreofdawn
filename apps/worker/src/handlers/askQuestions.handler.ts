@@ -14,7 +14,7 @@ const input_schema = z.object({
 	question: z.string().min(1).max(500),
 	model: z.enum(models_enum).default("deepseek"),
 	debug: z.boolean().default(false),
-	ai: z.boolean().default(false),
+	ai: z.boolean().default(true),
 	stream: z.boolean().default(true),
 });
 
@@ -151,7 +151,6 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		if (input.stream && "toTextStreamResponse" in aiResponse) {
 			return aiResponse.toTextStreamResponse({
 				headers: {
-					model: aiService.modelToString(),
 					"X-Credits-Remaining": String(creditsRemaining),
 				},
 			});
