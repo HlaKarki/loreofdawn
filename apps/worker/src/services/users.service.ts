@@ -1,24 +1,23 @@
-import { createDb } from "@/db";
 import { userSchemaType, usersTable } from "@repo/database";
 import { eq } from "drizzle-orm";
 import { Logger } from "@repo/utils";
+import type { PostgresJsDatabase } from "drizzle-orm/postgres-js";
 
 export class UserService {
-	private readonly connectionString: string;
+	private readonly db: PostgresJsDatabase;
 
-	constructor(connectionString: string) {
-		this.connectionString = connectionString;
+	constructor(db: PostgresJsDatabase) {
+		this.db = db;
 	}
 
 	/**
 	 * Create a new user in the database
 	 */
 	async createUser(data: userSchemaType) {
-		const db = createDb(this.connectionString);
 		const now = Date.now();
 
 		try {
-			const [user] = await db
+			const [user] = await this.db
 				.insert(usersTable)
 				.values({
 					...data,
@@ -46,10 +45,8 @@ export class UserService {
 			imageUrl?: string;
 		},
 	) {
-		const db = createDb(this.connectionString);
-
 		try {
-			const [user] = await db
+			const [user] = await this.db
 				.update(usersTable)
 				.set({
 					...data,
@@ -70,10 +67,8 @@ export class UserService {
 	 * Delete a user by clerk_user_id
 	 */
 	async deleteUser(clerkUserId: string) {
-		const db = createDb(this.connectionString);
-
 		try {
-			const [user] = await db
+			const [user] = await this.db
 				.delete(usersTable)
 				.where(eq(usersTable.clerk_user_id, clerkUserId))
 				.returning();
@@ -90,10 +85,8 @@ export class UserService {
 	 * Get a user by clerk_user_id
 	 */
 	async getUserByClerkId(clerkUserId: string) {
-		const db = createDb(this.connectionString);
-
 		try {
-			const [user] = await db
+			const [user] = await this.db
 				.select()
 				.from(usersTable)
 				.where(eq(usersTable.clerk_user_id, clerkUserId))

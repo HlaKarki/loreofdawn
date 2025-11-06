@@ -1,4 +1,3 @@
-import { createDb } from "@/db";
 import {
 	heroProfileTable,
 	heroMatchupTable,
@@ -8,13 +7,16 @@ import {
 	HeroAssets,
 } from "@repo/database";
 import { and, eq, ilike } from "drizzle-orm";
-import type { Bindings } from "@/types";
+import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
+import { Bindings } from "@/types";
 
 export class HeroService {
-	private db: ReturnType<typeof createDb>;
+	private db: PostgresJsDatabase;
+	private KV: Bindings["KV"];
 
-	constructor(private env: Bindings) {
-		this.db = createDb(this.env.HYPERDRIVE.connectionString);
+	constructor(db: PostgresJsDatabase, KV: Bindings["KV"]) {
+		this.db = db;
+		this.KV = KV;
 	}
 
 	/**
@@ -138,7 +140,7 @@ export class HeroService {
 			};
 
 			const cacheKey = `hero:${heroName}:${rank}`;
-			await this.env.KV.put(cacheKey, JSON.stringify(data), { expirationTtl: 3600 });
+			await this.KV.put(cacheKey, JSON.stringify(data), { expirationTtl: 3600 });
 		}
 	}
 

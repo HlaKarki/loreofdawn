@@ -1,9 +1,8 @@
-import { createDb } from "@/db";
 import { sql } from "drizzle-orm";
+import type { PostgresJsDatabase } from "drizzle-orm/postgres-js";
 
 export const DbService = {
-	executeSqlQuery: async (sqlQuery: string, connectionString: string) => {
-		const db = createDb(connectionString);
+	executeSqlQuery: async (sqlQuery: string, db: PostgresJsDatabase) => {
 		try {
 			return await db.execute(sql.raw(sqlQuery));
 		} catch (error) {

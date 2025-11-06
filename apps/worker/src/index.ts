@@ -5,6 +5,7 @@ import { apiRouter } from "@/routes";
 import { errorHandler } from "@/middleware/error";
 import { HeroService } from "@/services/heroes.service";
 import type { Env, Bindings } from "@/types";
+import { createDb } from "@/db";
 export { RateLimitBucket } from "@/durable-objects/rateLimitBucket";
 
 export const app = new Hono<Env>();
@@ -31,8 +32,8 @@ app.route("/", apiRouter);
  */
 const scheduled: ExportedHandlerScheduledHandler<Bindings> = async (_event, env, _ctx) => {
 	console.log("🔄 Starting KV seed job...");
-
-	const heroService = new HeroService(env);
+	const db = createDb(env.HYPERDRIVE.connectionString);
+	const heroService = new HeroService(db, env.KV);
 	const heroes_list = await heroService.getHeroList();
 
 	const ranks = ["overall", "glory"];

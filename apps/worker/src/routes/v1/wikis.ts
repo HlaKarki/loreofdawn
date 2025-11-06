@@ -3,6 +3,7 @@ import { WikiService } from "@/services/wikis.service";
 import { cacheKvLayer } from "@/middleware/cache";
 import type { Env } from "@/types";
 import { HeroService } from "@/services/heroes.service";
+import { createDb } from "@/db";
 
 export const wikisRouter = new Hono<Env>();
 
@@ -39,8 +40,10 @@ wikisRouter.delete("/:name", async (c) => {
 		return c.json({ error: "Hero name is required" }, 400);
 	}
 
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+
 	if (name === "all") {
-		const heroService = new HeroService(c.env);
+		const heroService = new HeroService(db, c.env.KV);
 		const heroes = await heroService.getHeroList();
 
 		for (const hero of heroes) {
