@@ -17,6 +17,7 @@ export function AiTestSDK() {
 		streamProtocol: "text",
 		onError: (error) => {
 			console.error("Stream error:", error);
+			console.error("Error details:", JSON.stringify(error, null, 2));
 
 			// Extract error details from the response
 			const message = error.message || "An error occurred";
@@ -49,10 +50,6 @@ export function AiTestSDK() {
 			},
 			body: {
 				question: input,
-				model: "deepseek",
-				ai: true,
-				stream: true,
-				debug: true,
 			},
 		});
 	};
