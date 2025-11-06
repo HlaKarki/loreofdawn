@@ -7,7 +7,6 @@ import { z } from "zod";
 import type { Env } from "@/types";
 import { cacheKvLayer } from "@/middleware/cache";
 import { CreditService } from "@/services/credits.service";
-import { UserService } from "@/services/users.service";
 
 const cV = "v1.0.2";
 
@@ -44,19 +43,24 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		return c.json({ error: "Invalid request", details: validation.error.errors }, 400);
 	}
 
-	// Define services in one place?
-	const userService = new UserService(c.env.HYPERDRIVE.connectionString);
+	// Define services
 	const creditService = new CreditService(c.env.HYPERDRIVE.connectionString);
 
 	const ip = c.req.header("CF-Connecting-IP") || "unknown";
 	const input = validation.data;
 	Logger.info(pathname, { ip, ...validation.data });
 
-	// check if user has enough credit to proceed
-	const userData = await userService.getUserByClerkId(clerkUserId);
-
-	if (userData.credits_remaining < 1) {
-		return c.json({ error: "Invalid request", details: "You don't have enough credit!" });
+	// Check if user has credits (non-deducting check)
+	const hasCredits = await creditService.hasCredits(clerkUserId);
+	if (!hasCredits) {
+		Logger.warn(pathname, { ip, clerkUserId, message: "Insufficient credits" });
+		return c.json(
+			{
+				error: "Insufficient credits",
+				details: "You don't have enough credits to make this request. Please upgrade your plan.",
+			},
+			402,
+		);
 	}
 
 	const shaQuestion = await cacheKvLayer.shaCacheKey(input.question, 16, { model: input.model });
@@ -95,47 +99,81 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		return c.json({ error: "Query failed", details: queryResult.error }, 500);
 	}
 
+	// Generate AI response
+	let aiResponse;
 	if (input.ai) {
 		const prompt = buildResponsePrompt(queryResult);
 
-		const response = await aiService.generateResponse(
+		aiResponse = await aiService.generateResponse(
 			pathname,
 			input.stream,
 			prompt,
 			input.question,
 			aiService.get_model(),
 		);
-		if ("error" in response) {
-			Logger.error(pathname, { ip, response });
-			return c.json({ error: response.error }, 500);
+		if ("error" in aiResponse) {
+			Logger.error(pathname, { ip, response: aiResponse });
+			return c.json({ error: aiResponse.error }, 500);
 		}
+	}
 
+	// charge the credit - all operations succeeded
+	let creditsRemaining: number;
+	try {
+		const result = await creditService.useCredit(clerkUserId);
+		creditsRemaining = result.credits_remaining;
+		Logger.info(pathname, {
+			clerkUserId,
+			creditsRemaining,
+			message: "Credit deducted successfully",
+		});
+	} catch (error) {
+		// Race condition: User had credits initially but now doesn't
+		// This is rare but can happen with concurrent requests
+		Logger.error(pathname, {
+			ip,
+			clerkUserId,
+			message: "Failed to deduct credit (likely concurrent requests)",
+			error,
+		});
+		return c.json(
+			{
+				error: "Credit deduction failed",
+				details: "Please try again. Your request was not charged.",
+			},
+			409,
+		);
+	}
+
+	if (input.ai && aiResponse) {
 		Logger.info(pathname, { sqlQuery: sqlResult.sql, queryResult: queryResult });
 
-		// use up credit
-		const balance = await creditService.useCredit(clerkUserId);
-
-		if (input.stream && "toTextStreamResponse" in response) {
-			return response.toTextStreamResponse({
-				headers: { model: aiService.modelToString(), balance: String(balance.credits_remaining) },
+		if (input.stream && "toTextStreamResponse" in aiResponse) {
+			return aiResponse.toTextStreamResponse({
+				headers: {
+					model: aiService.modelToString(),
+					"X-Credits-Remaining": String(creditsRemaining),
+				},
 			});
 		}
 
-		Logger.info(pathname, { ip, model: aiService.modelToString(), usage: response.usage });
+		Logger.info(pathname, { ip, model: aiService.modelToString(), usage: aiResponse.usage });
 
 		return c.json({
-			response: response.text,
+			response: aiResponse.text,
+			credits_remaining: creditsRemaining,
 			model: input.debug ? aiService.modelToString() : undefined,
 			sql: input.debug ? sqlResult.sql : undefined,
 			queryResult: input.debug ? queryResult : undefined,
 			query_usage: input.debug ? sqlResult.usage : undefined,
-			response_usage: input.debug ? response.usage : undefined,
+			response_usage: input.debug ? aiResponse.usage : undefined,
 		});
 	}
 
 	return c.json({
 		sqlResult: sqlResult,
 		queryResult: queryResult,
+		credits_remaining: creditsRemaining,
 	});
 };
 
