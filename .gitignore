@@ -9,6 +9,7 @@ node_modules
 .wrangler
 .dev.vars
 wrangler.toml.backup
+wrangler.local.jsonc
 worker-configuration.d.ts
 
 apps/server/scripts/funcs.ts

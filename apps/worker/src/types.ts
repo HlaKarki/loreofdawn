@@ -7,6 +7,7 @@ export type Bindings = {
 	GOOGLE_GENERATIVE_AI_API_KEY: string;
 	DEEPSEEK_API_KEY: string;
 	CLERK_SECRET_KEY: string;
+	CLERK_WEBHOOK_SECRET: string;
 };
 
 export type Variables = {

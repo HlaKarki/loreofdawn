@@ -1,10 +1,11 @@
-import { bigint, index, integer, pgTable, text } from "drizzle-orm/pg-core";
+import { bigint, index, pgTable, integer, serial, text } from "drizzle-orm/pg-core";
 import { userTableTier } from "../types/users.types";
 
 export const usersTable = pgTable(
 	"users",
 	{
-		id: integer("id").notNull().primaryKey(),
+		id: serial("id").primaryKey(),
+		clerk_user_id: text("clerk_user_id").unique(),
 		name: text("name").notNull(),
 		imageUrl: text("imageUrl").notNull(),
 		email: text("email").notNull(),
@@ -15,5 +16,5 @@ export const usersTable = pgTable(
 		createdAt: bigint("createdAt", { mode: "number" }).notNull(),
 		updatedAt: bigint("updatedAt", { mode: "number" }).notNull(),
 	},
-	(t) => [index("usersTable:id").on(t.id)],
+	(t) => [index("usersTable:clerkUserId").on(t.clerk_user_id)],
 ).enableRLS();
