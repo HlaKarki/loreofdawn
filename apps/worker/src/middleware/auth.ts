@@ -25,7 +25,7 @@ export const requireAuth = createMiddleware<Env>(async (c, next) => {
 			return c.json({ error: "invalid token" }, 401);
 		}
 
-		c.set("userId", userId);
+		c.set("clerkUserId", userId);
 		await next();
 	} catch (error) {
 		return c.json(

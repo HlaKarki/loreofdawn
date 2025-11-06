@@ -8,4 +8,4 @@ export * from "./schemas/credit.schema";
 export * from "./types/ml.types";
 export * from "./types/wiki.types";
 export * from "./types/users.types";
-export * from "./types/credit.schema";
+export * from "./types/credit.types";
