@@ -17,3 +17,6 @@ apps/web/scripts/funcs.ts
 
 dist
 .claude
+
+.DS_Store
+apps/*.DS_Store
