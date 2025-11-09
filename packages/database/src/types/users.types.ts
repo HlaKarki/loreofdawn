@@ -1,4 +1,4 @@
-export type userTableTier = "free" | "pro" | "enterprise";
+export type userTableTier = "free" | "master" | "mythical";
 
 export type userSchemaType = {
 	id?: number; // automatically allocated

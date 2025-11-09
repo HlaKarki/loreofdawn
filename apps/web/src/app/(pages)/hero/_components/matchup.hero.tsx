@@ -1,9 +1,9 @@
 import type { ConsolidatedHero, MlMatchupSummary } from "@repo/database";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { resolveImageSrc } from "@/app/hero/_components/header.hero";
 import { tidyLabel } from "@/lib/utils";
 import Image from "next/image";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
+import { resolveImageSrc } from "./header.hero";
 
 function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: string }) {
 	return (
