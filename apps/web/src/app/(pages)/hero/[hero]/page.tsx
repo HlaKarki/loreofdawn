@@ -1,11 +1,11 @@
 import type { ConsolidatedHero } from "@repo/database";
-import { HeroHeader } from "@/app/hero/_components/header.hero";
-import { HeroSkills } from "@/app/hero/_components/skills.hero";
-import { HeroRelationship } from "@/app/hero/_components/relationship.hero";
-import { HeroMatchup } from "@/app/hero/_components/matchup.hero";
-import { HeroTale } from "@/app/hero/_components/tale.hero";
 import { makeUrl } from "@/lib/utils.api";
-import { HeroGraph } from "@/app/hero/_components/graph.hero";
+import { HeroGraph } from "../_components/graph.hero";
+import { HeroHeader } from "../_components/header.hero";
+import { HeroMatchup } from "../_components/matchup.hero";
+import { HeroRelationship } from "../_components/relationship.hero";
+import { HeroSkills } from "../_components/skills.hero";
+import { HeroTale } from "../_components/tale.hero";
 
 interface HeroPageProps {
 	params: Promise<{

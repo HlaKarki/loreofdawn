@@ -2,7 +2,7 @@ import Image from "next/image";
 import type { MlHeroProfile } from "@repo/database";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { tidyLabel } from "@/lib/utils";
-import { resolveImageSrc } from "@/app/hero/_components/header.hero";
+import { resolveImageSrc } from "./header.hero";
 
 export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 	return (

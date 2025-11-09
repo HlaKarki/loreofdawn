@@ -1,10 +1,11 @@
+import "../index.css";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Quicksand } from "next/font/google";
-import "../index.css";
 import Providers from "@/components/providers";
 import Header from "@/components/header";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
 import Script from "next/script";
+import { AiChat } from "@/components/AiChat";
 const geistSans = Geist({
 	variable: "--font-geist-sans",
 	subsets: ["latin"],
@@ -34,6 +35,7 @@ export default function RootLayout({
 						<div className="grid grid-rows-[auto_1fr] h-svh">
 							<Header />
 							<main className={"pt-25 "}>{children}</main>
+							<AiChat />
 						</div>
 					</Providers>
 				</NuqsAdapter>

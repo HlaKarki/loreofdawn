@@ -2,7 +2,7 @@ import Image from "next/image";
 import { tidyLabel } from "@/lib/utils";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import type { MlHeroProfile } from "@repo/database";
-import { resolveImageSrc } from "@/app/hero/_components/header.hero";
+import { resolveImageSrc } from "./header.hero";
 
 export const HeroSkills = ({ data }: { data: MlHeroProfile }) => {
 	if (data.skills?.length < 1) {
