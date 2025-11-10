@@ -8,6 +8,16 @@ import type { Env, Bindings } from "@/types";
 import { createDb } from "@/db";
 export { RateLimitBucket } from "@/durable-objects/rateLimitBucket";
 
+const allowedOrigins = new Set([
+	"https://loreofdawn.com",
+	"https://www.loreofdawn.com",
+	"https://cf-api.loreofdawn.com",
+	"https://clerk.auth.loreofdawn.com",
+	"https://api.clerk.com",
+	"https://clerk.auth.loreofdawn.com/.well-known/jwks.json",
+	"http://localhost:1201",
+]);
+
 export const app = new Hono<Env>();
 
 // Global middleware
@@ -15,10 +25,10 @@ app.use("*", logger());
 app.use(
 	"*",
 	cors({
-		origin: ["https://loreofdawn.com", "http://localhost:1201", "https://www.loreofdawn.com"],
+		origin: (origin) => (origin && allowedOrigins.has(origin) ? origin : "https://loreofdawn.com"),
 		credentials: true,
 		allowMethods: ["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-		allowHeaders: ["Content-Type", "Authorization"],
+		allowHeaders: ["Content-Type", "Authorization", "User-Agent", "user-agent"],
 	}),
 );
 app.use("*", errorHandler);
