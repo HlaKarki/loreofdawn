@@ -1,7 +1,11 @@
 import { clerkMiddleware } from "@clerk/nextjs/server";
 
 export default clerkMiddleware({
-	authorizedParties: ["https://loreofdawn.com", "https://auth.loreofdawn.com"],
+	authorizedParties: [
+		"https://cf-api.loreofdawn.com",
+		"https://loreofdawn.com",
+		"https://auth.loreofdawn.com",
+	],
 });
 
 export const config = {
