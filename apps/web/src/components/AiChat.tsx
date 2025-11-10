@@ -13,7 +13,7 @@ import {
 import React from "react";
 import { Textarea } from "./ui/textarea";
 import { ArrowUp, X } from "lucide-react";
-import { DialogClose, DialogDescription, DialogTitle } from "@radix-ui/react-dialog";
+import { DialogClose, DialogTitle } from "@radix-ui/react-dialog";
 import Markdown from "react-markdown";
 import { useAuth } from "@clerk/nextjs";
 import { useCompletion } from "@ai-sdk/react";
@@ -61,9 +61,7 @@ export const AiChat = () => {
 							</DialogClose>
 						</div>
 					</DrawerHeader>
-					<DialogDescription asChild>
-						<AiMessages aiResponse={completion} />
-					</DialogDescription>
+					<AiMessages aiResponse={completion} />
 					<DrawerFooter>
 						<div className="flex gap-3 items-center justify-center">
 							<Textarea
