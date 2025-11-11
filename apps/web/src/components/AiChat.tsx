@@ -49,7 +49,7 @@ export const AiChat = () => {
 		<div className={"fixed bottom-3 right-3"}>
 			<Drawer open={isOpen} onOpenChange={setIsOpen} modal={false} shouldScaleBackground={false}>
 				<DrawerTrigger className="rounded-full bg-accent p-2 w-16 h-16">Ask</DrawerTrigger>
-				<DrawerContent className="max-w-3xl mx-auto max-h-[40vh]">
+				<DrawerContent className="max-w-3xl mx-auto">
 					<DrawerHeader>
 						<div className="relative flex items-center mb-1">
 							<UserCredits />
@@ -101,7 +101,7 @@ const AiMessages = ({ aiResponse }: { aiResponse: string }) => {
 	}, [aiResponse]);
 
 	return (
-		<div ref={scrollRef} className="text-left px-4 pb-2">
+		<div ref={scrollRef} className="max-h-72 overflow-y-auto text-left px-4 pb-2">
 			<div
 				className={cn(
 					"pr-4",
