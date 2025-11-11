@@ -6,7 +6,6 @@ import {
 	Drawer,
 	DrawerClose,
 	DrawerContent,
-	DrawerDescription,
 	DrawerFooter,
 	DrawerHeader,
 	DrawerTrigger,
@@ -63,9 +62,9 @@ export const AiChat = () => {
 							</DialogClose>
 						</div>
 					</DrawerHeader>
-					<DrawerDescription key={completion.length} asChild>
+					<div key={completion.length}>
 						<AiMessages aiResponse={completion} />
-					</DrawerDescription>
+					</div>
 					<DrawerFooter>
 						<div className="flex gap-3 items-center justify-center">
 							<Textarea
@@ -101,7 +100,7 @@ const AiMessages = ({ aiResponse }: { aiResponse: string }) => {
 	}, [aiResponse]);
 
 	return (
-		<div ref={scrollRef} className="max-h-72 overflow-y-auto text-left px-4 pb-2">
+		<div ref={scrollRef} className="text-left px-4 pb-2 overflow-y-auto max-h-[calc(80vh-12rem)]">
 			<div
 				className={cn(
 					"pr-4",
