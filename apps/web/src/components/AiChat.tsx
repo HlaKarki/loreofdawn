@@ -6,6 +6,7 @@ import {
 	Drawer,
 	DrawerClose,
 	DrawerContent,
+	DrawerDescription,
 	DrawerFooter,
 	DrawerHeader,
 	DrawerTrigger,
@@ -23,6 +24,7 @@ import { QUERY_KEY_useUserDb } from "@/hooks/userUser.db";
 import { UserCredits } from "./user-credits";
 
 export const AiChat = () => {
+	const [isOpen, setIsOpen] = React.useState(false);
 	const { getToken } = useAuth();
 	const queryClient = useQueryClient();
 	const { completion, input, handleInputChange, complete, isLoading } = useCompletion({
@@ -45,9 +47,9 @@ export const AiChat = () => {
 
 	return (
 		<div className={"fixed bottom-3 right-3"}>
-			<Drawer>
+			<Drawer open={isOpen} onOpenChange={setIsOpen} modal={false} shouldScaleBackground={false}>
 				<DrawerTrigger className="rounded-full bg-accent p-2 w-16 h-16">Ask</DrawerTrigger>
-				<DrawerContent>
+				<DrawerContent className="max-w-3xl mx-auto">
 					<DrawerHeader>
 						<div className="relative flex items-center mb-1">
 							<UserCredits />
@@ -61,7 +63,9 @@ export const AiChat = () => {
 							</DialogClose>
 						</div>
 					</DrawerHeader>
-					<AiMessages aiResponse={completion} />
+					<DrawerDescription key={completion.length} asChild>
+						<AiMessages aiResponse={completion} />
+					</DrawerDescription>
 					<DrawerFooter>
 						<div className="flex gap-3 items-center justify-center">
 							<Textarea
@@ -97,7 +101,7 @@ const AiMessages = ({ aiResponse }: { aiResponse: string }) => {
 	}, [aiResponse]);
 
 	return (
-		<div ref={scrollRef} className="max-h-72 overflow-auto text-left">
+		<div ref={scrollRef} className="max-h-72 overflow-auto text-left px-4 pb-2">
 			<div
 				className={cn(
 					"pr-4",
