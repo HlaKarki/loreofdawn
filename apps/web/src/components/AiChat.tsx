@@ -47,7 +47,7 @@ export const AiChat = () => {
 		<div className={"fixed bottom-3 right-3"}>
 			<Drawer>
 				<DrawerTrigger className="rounded-full bg-accent p-2 w-16 h-16">Ask</DrawerTrigger>
-				<DrawerContent className="max-w-3xl mx-auto max-h-[80vh] overflow-hidden">
+				<DrawerContent className="max-w-3xl mx-auto flex flex-col">
 					<DrawerHeader>
 						<div className="relative flex items-center mb-1">
 							<UserCredits />
@@ -93,11 +93,16 @@ const AiMessages = ({ aiResponse }: { aiResponse: string }) => {
 	const scrollRef = React.useRef<HTMLDivElement>(null);
 
 	React.useEffect(() => {
-		scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight, behavior: "smooth" });
+		if (scrollRef.current) {
+			scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
+		}
 	}, [aiResponse]);
 
 	return (
-		<div ref={scrollRef} className="text-left px-4 pb-2 h-full overflow-y-auto">
+		<div
+			ref={scrollRef}
+			className="text-left px-4 pb-2 h-[40vh] overflow-y-auto [overflow-scrolling:touch]"
+		>
 			<div
 				className={cn(
 					"pr-4",
