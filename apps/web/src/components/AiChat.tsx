@@ -23,7 +23,6 @@ import { QUERY_KEY_useUserDb } from "@/hooks/userUser.db";
 import { UserCredits } from "./user-credits";
 
 export const AiChat = () => {
-	const [isOpen, setIsOpen] = React.useState(false);
 	const { getToken } = useAuth();
 	const queryClient = useQueryClient();
 	const { completion, input, handleInputChange, complete, isLoading } = useCompletion({
@@ -46,7 +45,7 @@ export const AiChat = () => {
 
 	return (
 		<div className={"fixed bottom-3 right-3"}>
-			<Drawer open={isOpen} onOpenChange={setIsOpen} modal={false} shouldScaleBackground={false}>
+			<Drawer>
 				<DrawerTrigger className="rounded-full bg-accent p-2 w-16 h-16">Ask</DrawerTrigger>
 				<DrawerContent className="max-w-3xl mx-auto max-h-[80vh] overflow-hidden">
 					<DrawerHeader>
@@ -62,9 +61,7 @@ export const AiChat = () => {
 							</DialogClose>
 						</div>
 					</DrawerHeader>
-					<div key={completion.length} className="flex-1 min-h-0 overflow-hidden">
-						<AiMessages aiResponse={completion} />
-					</div>
+					<AiMessages key={completion.length} aiResponse={completion} />
 					<DrawerFooter>
 						<div className="flex gap-3 items-center justify-center">
 							<Textarea
