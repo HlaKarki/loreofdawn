@@ -14,10 +14,12 @@
 		{
 			"binding": "HYPERDRIVE",
 			"id": "be8e312c9c714138a820adc977a4d18c",
+			"localConnectionString": "postgresql://postgres.xpwyuhqekyrgeaajaozv:Kshap653karki!@aws-1-us-east-1.pooler.supabase.com:6543/postgres?pgbouncer=true",
 		},
 		{
 			"binding": "HYPERDRIVE_READONLY",
 			"id": "4bffbb5be0344cd6af960f6838bc06a2",
+			"localConnectionString": "postgresql://postgres.xpwyuhqekyrgeaajaozv:Kshap653karki!@aws-1-us-east-1.pooler.supabase.com:6543/postgres?pgbouncer=true",
 		},
 	],
 	"kv_namespaces": [

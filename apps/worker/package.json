@@ -4,10 +4,11 @@
 	"private": true,
 	"scripts": {
 		"deploy": "wrangler deploy",
-		"dev": "wrangler dev --remote",
-		"dev:local": "wrangler dev",
+		"dev": "concurrently -n \"wrangler,proxy\" -c \"cyan,green\" \"wrangler dev --remote\" \"bun proxy.js\"",
+		"dev:local": "wrangler dev --host 0.0.0.0",
 		"start": "wrangler dev",
-		"cf-typegen": "wrangler types"
+		"cf-typegen": "wrangler types",
+		"proxy": "bun proxy.js"
 	},
 	"dependencies": {
 		"@ai-sdk/deepseek": "^1.0.23",
@@ -24,7 +25,8 @@
 		"zod": "^3.24.1"
 	},
 	"devDependencies": {
+		"concurrently": "^9.2.1",
 		"typescript": "^5.5.2",
-		"wrangler": "^4.45.0"
+		"wrangler": "^4.47.0"
 	}
 }

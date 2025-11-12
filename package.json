@@ -1,36 +1,36 @@
 {
-  "name": "loreofdawn",
-  "private": true,
-  "type": "module",
-  "workspaces": [
-    "apps/*",
-    "packages/*"
-  ],
-  "scripts": {
-    "check": "oxlint",
-    "dev": "turbo dev",
-    "build": "turbo build",
-    "check-types": "turbo check-types",
-    "dev:native": "turbo -F native dev",
-    "dev:web": "turbo -F web dev",
-    "dev:server": "turbo -F server dev",
-    "dev:worker": "turbo -F worker dev",
-    "app": "turbo dev -F web -F server -F worker",
-    "db:push": "turbo -F server db:push",
-    "db:studio": "turbo -F server db:studio",
-    "db:generate": "turbo -F server db:generate",
-    "db:migrate": "turbo -F server db:migrate",
-    "format": "prettier . --write",
-    "format:check": "prettier . --check",
-    "start": "bun run --filter web start"
-  },
-  "dependencies": {
-    "@radix-ui/react-tooltip": "^1.2.8"
-  },
-  "devDependencies": {
-    "oxlint": "^1.12.0",
-    "prettier": "^3.6.2",
-    "turbo": "^2.5.4"
-  },
-  "packageManager": "bun@1.2.10"
+	"name": "loreofdawn",
+	"private": true,
+	"type": "module",
+	"workspaces": [
+		"apps/*",
+		"packages/*"
+	],
+	"scripts": {
+		"check": "oxlint",
+		"dev": "turbo dev",
+		"build": "turbo build",
+		"check-types": "turbo check-types",
+		"dev:native": "turbo -F native dev",
+		"dev:web": "turbo -F web dev",
+		"dev:server": "turbo -F server dev",
+		"dev:worker": "turbo -F worker dev",
+		"app": "turbo dev -F web -F server -F worker",
+		"db:push": "turbo -F server db:push",
+		"db:studio": "turbo -F server db:studio",
+		"db:generate": "turbo -F server db:generate",
+		"db:migrate": "turbo -F server db:migrate",
+		"format": "prettier . --write",
+		"format:check": "prettier . --check",
+		"start": "bun run --filter web start"
+	},
+	"dependencies": {
+		"@radix-ui/react-tooltip": "^1.2.8"
+	},
+	"devDependencies": {
+		"oxlint": "^1.12.0",
+		"prettier": "^3.6.2",
+		"turbo": "^2.5.4"
+	},
+	"packageManager": "bun@1.2.10"
 }

@@ -16,6 +16,7 @@ const allowedOrigins = new Set([
 	"https://api.clerk.com",
 	"https://clerk.auth.loreofdawn.com/.well-known/jwks.json",
 	"http://localhost:1201",
+	"http://10.0.0.148:1201",
 ]);
 
 export const app = new Hono<Env>();
