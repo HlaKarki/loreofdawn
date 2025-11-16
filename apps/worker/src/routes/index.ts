@@ -1,7 +1,7 @@
 import { Hono } from "hono";
 import { v1Router } from "./v1";
-import { webhooksRouter } from "./webhooks";
 import type { Env } from "@/types";
+import { webhooksRouter } from "./webhooks/webhooks";
 
 export const apiRouter = new Hono<Env>();
 

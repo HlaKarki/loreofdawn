@@ -1,18 +1,16 @@
-import { Hono } from "hono";
-import type { Env } from "@/types";
-import { Webhook } from "svix";
-import { WebhookEvent } from "@clerk/backend";
-import { UserService } from "@/services/users.service";
-import { Logger } from "@repo/utils";
 import { createDb } from "@/db";
-
-export const webhooksRouter = new Hono<Env>();
+import { UserService } from "@/services/users.service";
+import { WebhookEvent } from "@clerk/backend";
+import { Webhook } from "svix";
+import { Logger } from "@repo/utils";
+import type { Context } from "hono";
+import type { Env } from "@/types";
 
 /**
  * Clerk webhook handler
  * Receives events from Clerk and syncs user data to database
  */
-webhooksRouter.post("/clerk", async (c) => {
+export const clerkWebhookHandler = async (c: Context<Env>) => {
 	const pathname = new URL(c.req.url).pathname;
 	const WEBHOOK_SECRET = c.env.CLERK_WEBHOOK_SECRET;
 
@@ -118,4 +116,4 @@ webhooksRouter.post("/clerk", async (c) => {
 	}
 
 	return c.json({ success: true });
-});
+};

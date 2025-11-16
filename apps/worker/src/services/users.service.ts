@@ -1,4 +1,4 @@
-import { userSchemaType, usersTable } from "@repo/database";
+import { subscriptionStatus, userSchemaType, usersTable, userTableTier } from "@repo/database";
 import { eq } from "drizzle-orm";
 import { Logger } from "@repo/utils";
 import type { PostgresJsDatabase } from "drizzle-orm/postgres-js";
@@ -95,6 +95,36 @@ export class UserService {
 			return user;
 		} catch (error) {
 			Logger.error("", { message: `Failed to get user: ${error}` });
+			throw error;
+		}
+	}
+
+	/**
+	 * Update user's subscription details
+	 */
+	async updateSubscription(
+		clerkUserId: string,
+		data: {
+			stripe_customer_id?: string;
+			stripe_subscription_id?: string;
+			stripe_subscription_status?: subscriptionStatus;
+			tier?: userTableTier;
+		},
+	) {
+		try {
+			const [user] = await this.db
+				.update(usersTable)
+				.set({
+					...data,
+					updatedAt: Date.now(),
+				})
+				.where(eq(usersTable.clerk_user_id, clerkUserId))
+				.returning();
+
+			Logger.info("", { message: `Subscription updated for user: ${user.id}` });
+			return user;
+		} catch (error) {
+			Logger.error("", { message: `Failed to update subscription: ${error}` });
 			throw error;
 		}
 	}

@@ -1,6 +1,6 @@
 import { Hono } from "hono";
 import type { Env } from "@/types";
-import { rateLimiter } from "@/middleware/rateLimit";
+import { rateLimiter, tierBasedRateLimiter } from "@/middleware/rateLimit";
 import { askQuestionsHandler } from "@/handlers/askQuestions.handler";
 import { requireAuth } from "@/middleware/auth";
 
@@ -22,5 +22,6 @@ aiRouter.post("/test/ratelimit", ipRateLimiter, async (c) => {
 
 /**
  * POST /ask - AI-powered natural language to SQL query endpoint
+ * Uses tier-based rate limiting that adjusts limits based on user's subscription
  */
-aiRouter.post("/ask", ipRateLimiter, requireAuth, askQuestionsHandler);
+aiRouter.post("/ask", requireAuth, tierBasedRateLimiter(), askQuestionsHandler);
