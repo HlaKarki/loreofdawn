@@ -2,10 +2,11 @@
 
 import { makeUrl } from "@/lib/utils.api";
 import { useAuth } from "@clerk/nextjs";
-import { useState } from "react";
+import { useState, Suspense } from "react";
 import { useQuery, useMutation } from "@tanstack/react-query";
+import { useSearchParams } from "next/navigation";
 
-export default function TestStripePage() {
+function TestStripeContent() {
 	const { getToken } = useAuth();
 	const [error, setError] = useState<string | null>(null);
 
@@ -106,9 +107,9 @@ export default function TestStripePage() {
 	};
 
 	// Check for success/cancel query params
-	const params = new URLSearchParams(window.location.search);
-	const success = params.get("success");
-	const canceled = params.get("canceled");
+	const searchParams = useSearchParams();
+	const success = searchParams.get("success");
+	const canceled = searchParams.get("canceled");
 
 	const isLoading = checkoutMutation.isPending || portalMutation.isPending;
 
@@ -166,5 +167,13 @@ export default function TestStripePage() {
 				</div>
 			</div>
 		</div>
+	);
+}
+
+export default function TestStripePage() {
+	return (
+		<Suspense fallback={<div className="container mx-auto max-w-3xl px-4 py-8">Loading...</div>}>
+			<TestStripeContent />
+		</Suspense>
 	);
 }
