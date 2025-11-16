@@ -8,6 +8,10 @@ export type Bindings = {
 	DEEPSEEK_API_KEY: string;
 	CLERK_SECRET_KEY: string;
 	CLERK_WEBHOOK_SECRET: string;
+	STRIPE_SECRET_KEY: string;
+	STRIPE_WEBHOOK_SECRET: string;
+	STRIPE_PRICE_ID_MASTER: string;
+	STRIPE_PRICE_ID_MYTHICAL: string;
 };
 
 export type Variables = {

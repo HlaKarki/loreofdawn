@@ -6,4 +6,4 @@ export interface creditTransactionsMetadata {
 	createdAt: number;
 }
 
-export type creditTransactionsReason = "ai_query" | "monthly_reset" | "subscription";
+export type creditTransactionsReason = "ai_query" | "monthly_reset" | "subscription" | "subscription_renewal";
