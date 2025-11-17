@@ -3,8 +3,35 @@ import { HeroService } from "@/services/heroes.service";
 import { cacheKvLayer } from "@/middleware/cache";
 import type { Env } from "@/types";
 import { createDb } from "@/db";
+import { heroRolesEnum } from "@repo/database";
 
 export const heroesRouter = new Hono<Env>();
+
+heroesRouter.get("/", async (c) => {
+	// /v1/heroes?name=miya
+	// /v1/heroes?limit=3&filter.roles=fighter,mage&sort=-win_rate,pick_rate
+	// /v1/heroes?include=meta,matchups,graph,full&rank=mythic
+	const { name, limit, sort, ["filter.roles"]: rolesParam, rank, include } = c.req.query();
+
+	const roles = rolesParam ? (rolesParam.split(",") as heroRolesEnum[]) : undefined;
+	const limitNum = limit ? parseInt(limit, 10) : 10;
+	const includeFields = include ? include.split(",") : [];
+
+	const shaKey = await cacheKvLayer.shaCacheKey("heroes:query", undefined, c.req.query);
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+
+	return cacheKvLayer.respond(c, shaKey, async () => {
+		const heroService = new HeroService(db, c.env.KV);
+		return heroService.queryHeroes({
+			name,
+			roles,
+			limit: limitNum,
+			sort,
+			rank,
+			include: includeFields,
+		});
+	});
+});
 
 /**
  * GET /v1/heroes/list/:name

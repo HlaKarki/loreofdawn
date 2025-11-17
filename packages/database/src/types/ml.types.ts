@@ -326,11 +326,11 @@ export interface MlGraphData {
 }
 
 export type ConsolidatedHero = {
-	profile: MlHeroProfile,
-	matchups: MlMatchupSummary,
-	meta: MlMetaSummary,
-	graph: MlGraphData
-}
+	profile: MlHeroProfile;
+	matchups: MlMatchupSummary;
+	meta: MlMetaSummary;
+	graph: MlGraphData;
+};
 
 export interface HeroAssets {
 	head: string;
@@ -340,3 +340,6 @@ export interface HeroAssets {
 	squarehead: string;
 	squarehead_big: string;
 }
+
+export type heroRolesEnum = "mage" | "fighter" | "assassin" | "marksman" | "tank";
+export const heroRolesArray = ["mage", "fighter", "assassin", "marksman", "tank"] as const;

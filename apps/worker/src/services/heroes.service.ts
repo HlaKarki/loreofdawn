@@ -5,8 +5,9 @@ import {
 	heroGraphDataTable,
 	heroesListTable,
 	HeroAssets,
+	heroRolesEnum,
 } from "@repo/database";
-import { and, eq, ilike } from "drizzle-orm";
+import { and, eq, ilike, sql, desc, asc } from "drizzle-orm";
 import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
 import { Bindings } from "@/types";
 
@@ -30,6 +31,120 @@ export class HeroService {
 		}
 
 		return heroes;
+	}
+
+	/**
+	 * Query heroes with filters, sorting, and pagination
+	 */
+	async queryHeroes(params: {
+		name?: string;
+		roles?: heroRolesEnum[];
+		limit?: number;
+		sort?: string;
+		rank?: string;
+		include?: string[]; // ["meta", "matchups", "graph", "full"]
+	}) {
+		const { name, roles, limit = 10, sort, rank = "overall", include = [] } = params;
+
+		// Auto-include meta if sorting by meta fields
+		const needsMetaForSort =
+			sort &&
+			(sort.includes("win_rate") || sort.includes("pick_rate") || sort.includes("ban_rate"));
+		const includeMeta = include.includes("meta") || needsMetaForSort;
+		const includeMatchups = include.includes("matchups");
+		const includeGraph = include.includes("graph");
+		const includeFull = include.includes("full");
+
+		// Build the query
+		let query = this.db
+			.select()
+			.from(heroProfileTable)
+			.leftJoin(
+				heroMetaDataTable,
+				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
+			)
+			.leftJoin(
+				heroMatchupTable,
+				and(ilike(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
+			)
+			.leftJoin(
+				heroGraphDataTable,
+				and(
+					ilike(heroProfileTable.name, heroGraphDataTable.name),
+					eq(heroGraphDataTable.rank, rank),
+				),
+			)
+			.$dynamic();
+
+		// Apply filters
+		const conditions = [];
+
+		if (name) {
+			conditions.push(ilike(heroProfileTable.name, `%${name}%`));
+		}
+
+		if (roles && roles.length > 0) {
+			const roleConditions = roles.map(
+				(role) =>
+					sql`EXISTS (
+						SELECT 1 FROM jsonb_array_elements(${heroProfileTable.roles}) AS r
+						WHERE LOWER(r->>'title') = ${role.toLowerCase()}
+					)`,
+			);
+			conditions.push(sql`(${sql.join(roleConditions, sql` OR `)})`);
+		}
+
+		if (conditions.length > 0) {
+			query = query.where(and(...conditions));
+		}
+
+		// Apply sorting
+		if (sort) {
+			const orderClauses = sort.split(",").map((field) => {
+				const isDesc = field.startsWith("-");
+				const fieldName = isDesc ? field.slice(1) : field;
+
+				const sortMap: Record<string, any> = {
+					win_rate: heroMetaDataTable.win_rate,
+					pick_rate: heroMetaDataTable.pick_rate,
+					ban_rate: heroMetaDataTable.ban_rate,
+					name: heroProfileTable.name,
+				};
+
+				const column = sortMap[fieldName] ?? heroProfileTable.name;
+				return isDesc ? desc(column) : asc(column);
+			});
+
+			query = query.orderBy(...orderClauses);
+		} else {
+			query = query.orderBy(asc(heroProfileTable.name));
+		}
+
+		// Execute query
+		const results = await query.limit(Math.min(limit, 100));
+
+		// Transform results based on what was requested
+		return results.map((row) => {
+			const profile = row.hero_profiles;
+
+			return {
+				// Include full profile or just basic fields
+				...(includeFull
+					? { profile }
+					: {
+							id: profile.id,
+							name: profile.name,
+							roles: profile.roles,
+							lanes: profile.lanes,
+							speciality: profile.speciality,
+							images: profile.images,
+						}),
+				// Conditionally include meta, matchups, graph
+				...(includeMeta && row.hero_metas && { meta: row.hero_metas }),
+				...(includeMatchups && row.hero_matchups && { matchups: row.hero_matchups }),
+				...(includeGraph && row.hero_graphs && { graph: row.hero_graphs }),
+			};
+		});
 	}
 
 	/**
