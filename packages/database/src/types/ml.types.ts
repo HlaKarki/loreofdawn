@@ -341,24 +341,21 @@ export interface HeroAssets {
 	squarehead_big: string;
 }
 
-export type HeroQueryResponse<TIncludeFull extends boolean = false> = TIncludeFull extends true
-	? {
-			profile: MlHeroProfile;
-			meta?: MlMetaSummary;
-			matchups?: MlMatchupSummary;
-			graph?: MlGraphData;
-	  }
-	: {
-			id: number;
-			name: string;
-			roles: MlHeroProfile["roles"];
-			lanes: MlHeroProfile["lanes"];
-			speciality: MlHeroProfile["speciality"];
-			images: MlHeroProfile["images"];
-			meta?: MlMetaSummary;
-			matchups?: MlMatchupSummary;
-			graph?: MlGraphData;
-	  };
+export type ConsolidatedHeroOptional = {
+	profile: MlHeroProfile;
+	meta: MlMetaSummary;
+	matchups?: MlMatchupSummary;
+	graph?: MlGraphData;
+};
 
 export type heroRolesEnum = "mage" | "fighter" | "assassin" | "marksman" | "tank";
 export const heroRolesArray = ["mage", "fighter", "assassin", "marksman", "tank"] as const;
+
+export type StatsByRolesType = {
+	role: string;
+	rank: string;
+	averageWinRate: number;
+	averageBanRate: number;
+	averagePickRate: number;
+	heroCount: number;
+};

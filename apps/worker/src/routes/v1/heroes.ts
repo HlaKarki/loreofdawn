@@ -12,7 +12,20 @@ heroesRouter.get("/", async (c) => {
 	// /v1/heroes?limit=3&filter.roles=fighter,mage&sort=-pick_rate,win_rate&include=meta
 	// /v1/heroes?sort=-win_rate&rank=mythic&include=full
 	const queryParams = c.req.query();
-	const { name, limit, sort, ["filter.roles"]: rolesParam, rank, include } = queryParams;
+	const {
+		name,
+		limit,
+		sort,
+		["filter.roles"]: rolesParam,
+		["filter.min_ban_rate"]: minBanRate,
+		["filter.min_win_rate"]: minWinRate,
+		["filter.min_pick_rate"]: minPickRate,
+		["filter.max_ban_rate"]: maxBanRate,
+		["filter.max_win_rate"]: maxWinRate,
+		["filter.max_pick_rate"]: maxPickRate,
+		rank,
+		include,
+	} = queryParams;
 
 	const roles = rolesParam ? (rolesParam.split(",") as heroRolesEnum[]) : undefined;
 	const limitNum = limit ? parseInt(limit, 10) : 10;
@@ -30,6 +43,12 @@ heroesRouter.get("/", async (c) => {
 			sort,
 			rank,
 			include: includeFields,
+			minBanRate: minBanRate ? parseFloat(minBanRate) : undefined,
+			minWinRate: minWinRate ? parseFloat(minWinRate) : undefined,
+			minPickRate: minPickRate ? parseFloat(minPickRate) : undefined,
+			maxBanRate: maxBanRate ? parseFloat(maxBanRate) : undefined,
+			maxWinRate: maxWinRate ? parseFloat(maxWinRate) : undefined,
+			maxPickRate: maxPickRate ? parseFloat(maxPickRate) : undefined,
 		});
 	});
 });
@@ -77,6 +96,20 @@ heroesRouter.get("/:name/:rank", async (c) => {
 		const heroService = new HeroService(db, c.env.KV);
 		return await heroService.getHeroProfile(name, rank);
 	});
+});
+
+heroesRouter.get("/stats_by_role", async (c) => {
+	const { rank } = c.req.query();
+	const resolvedRank = rank ?? "overall";
+	const cacheKey = `heroes:stats_by_role:${resolvedRank}`;
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+
+	const payload = await cacheKvLayer.tryFetch(c, cacheKey, async () => {
+		const heroService = new HeroService(db, c.env.KV);
+		return await heroService.getStatsByRoles(resolvedRank);
+	});
+
+	return c.json(payload);
 });
 
 /**

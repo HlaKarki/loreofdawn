@@ -6,6 +6,8 @@ import {
 	heroesListTable,
 	HeroAssets,
 	heroRolesEnum,
+	StatsByRolesResponse,
+	StatsByRolesType,
 } from "@repo/database";
 import { and, eq, ilike, sql, desc, asc } from "drizzle-orm";
 import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
@@ -43,8 +45,27 @@ export class HeroService {
 		sort?: string;
 		rank?: string;
 		include?: string[]; // ["meta", "matchups", "graph", "full"]
+		minBanRate?: number;
+		minWinRate?: number;
+		minPickRate?: number;
+		maxBanRate?: number;
+		maxWinRate?: number;
+		maxPickRate?: number;
 	}) {
-		const { name, roles, limit = 10, sort, rank = "overall", include = [] } = params;
+		const {
+			name,
+			roles,
+			limit = 10,
+			sort,
+			rank = "overall",
+			include = [],
+			minBanRate,
+			minWinRate,
+			minPickRate,
+			maxBanRate,
+			maxWinRate,
+			maxPickRate,
+		} = params;
 
 		// Auto-include meta if sorting by meta fields
 		const needsMetaForSort =
@@ -53,7 +74,6 @@ export class HeroService {
 		const includeMeta = include.includes("meta") || needsMetaForSort;
 		const includeMatchups = include.includes("matchups");
 		const includeGraph = include.includes("graph");
-		const includeFull = include.includes("full");
 
 		// Build the query
 		let query = this.db
@@ -94,6 +114,30 @@ export class HeroService {
 			conditions.push(sql`(${sql.join(roleConditions, sql` OR `)})`);
 		}
 
+		if (minBanRate !== undefined) {
+			conditions.push(sql`${heroMetaDataTable.ban_rate} >= ${minBanRate}`);
+		}
+
+		if (minWinRate !== undefined) {
+			conditions.push(sql`${heroMetaDataTable.win_rate} >= ${minWinRate}`);
+		}
+
+		if (minPickRate !== undefined) {
+			conditions.push(sql`${heroMetaDataTable.pick_rate} >= ${minPickRate}`);
+		}
+
+		if (maxBanRate !== undefined) {
+			conditions.push(sql`${heroMetaDataTable.ban_rate} <= ${maxBanRate}`);
+		}
+
+		if (maxWinRate !== undefined) {
+			conditions.push(sql`${heroMetaDataTable.win_rate} <= ${maxWinRate}`);
+		}
+
+		if (maxPickRate !== undefined) {
+			conditions.push(sql`${heroMetaDataTable.pick_rate} <= ${maxPickRate}`);
+		}
+
 		if (conditions.length > 0) {
 			query = query.where(and(...conditions));
 		}
@@ -128,17 +172,7 @@ export class HeroService {
 			const profile = row.hero_profiles;
 
 			return {
-				// Include full profile or just basic fields
-				...(includeFull
-					? { profile }
-					: {
-							id: profile.id,
-							name: profile.name,
-							roles: profile.roles,
-							lanes: profile.lanes,
-							speciality: profile.speciality,
-							images: profile.images,
-						}),
+				profile,
 				// Conditionally include meta, matchups, graph
 				...(includeMeta && row.hero_metas && { meta: row.hero_metas }),
 				...(includeMatchups && row.hero_matchups && { matchups: row.hero_matchups }),
@@ -216,6 +250,42 @@ export class HeroService {
 			matchups: result[0].hero_matchups,
 			meta: result[0].hero_metas,
 			graph: result[0].hero_graphs,
+		};
+	}
+
+	async getStatsByRoles(rank: string = "overall"): Promise<StatsByRolesResponse> {
+		const resolvedRank = rank ?? "overall";
+
+		const stats: StatsByRolesType[] = await this.db
+			.select({
+				rank: sql<string>`${resolvedRank}`,
+				role: sql<string>`jsonb_array_elements(roles)->>'title'`,
+				averageWinRate: sql<number>`AVG(win_rate)`,
+				averageBanRate: sql<number>`AVG(ban_rate)`,
+				averagePickRate: sql<number>`AVG(pick_rate)`,
+				heroCount: sql<number>`COUNT(*)`,
+			})
+			.from(heroProfileTable)
+			.leftJoin(
+				heroMetaDataTable,
+				and(
+					ilike(heroProfileTable.name, heroMetaDataTable.name),
+					eq(heroMetaDataTable.rank, resolvedRank),
+				),
+			)
+			.groupBy(sql`jsonb_array_elements(roles)->>'title'`);
+
+		const [{ lastUpdated } = { lastUpdated: null }] = await this.db
+			.select({
+				lastUpdated: sql<number | null>`MAX(${heroMetaDataTable.updatedAt})`,
+			})
+			.from(heroMetaDataTable)
+			.where(eq(heroMetaDataTable.rank, resolvedRank));
+
+		return {
+			rank: resolvedRank,
+			data: stats,
+			lastUpdated: lastUpdated ?? null,
 		};
 	}
 
