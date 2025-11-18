@@ -91,6 +91,11 @@ class MlTransformService {
 		const ids_set = new Map<string, number>();
 
 		raw.forEach((hero) => {
+			// Skip invalid records
+			if (!hero?.data?.hero?.data) {
+				console.warn("Skipping invalid hero record");
+				return;
+			}
 			const name = hero.data.hero.data.name;
 			const id = hero.data.hero.data.heroid;
 			ids_set.set(name, id);
@@ -119,29 +124,34 @@ class MlTransformService {
 
 				const skills = (heroData.heroskilllist ?? [])
 					.flatMap((group) => group?.skilllist ?? [])
-				.map((skill) => {
-					const { cd, mana } = this.parseCooldownAndMana(skill["skillcd&cost"] ?? "");
-					const description = this.parseSkillDescription(skill.skilldesc);
+					.map((skill) => {
+						const { cd, mana } = this.parseCooldownAndMana(skill["skillcd&cost"] ?? "");
+						const description = this.parseSkillDescription(skill.skilldesc);
 
-					return {
-						cd: cd ?? 0,
-						mana: mana ?? 0,
-						description: description,
-						icon: skill.skillicon ?? "",
-						name: skill.skillname ?? "",
-						tags: (skill.skilltag ?? []).map((tag) => tag.tagname),
-					};
-				});
+						return {
+							cd: cd ?? 0,
+							mana: mana ?? 0,
+							description: description,
+							icon: skill.skillicon ?? "",
+							name: skill.skillname ?? "",
+							tags: (skill.skilltag ?? []).map((tag) => tag.tagname),
+						};
+					})
+					.filter((l) => l.name.trim() !== "");
 
-			const lanes = (heroData.roadsort ?? []).map((entry) => ({
-				icon: entry?.data?.road_sort_icon ?? "",
-				title: entry?.data?.road_sort_title ?? "",
-			}));
+				const lanes = (heroData.roadsort ?? [])
+					.map((entry) => ({
+						icon: entry?.data?.road_sort_icon ?? "",
+						title: entry?.data?.road_sort_title ?? "",
+					}))
+					.filter((l) => l.title.trim() !== "");
 
-			const roles = (heroData.sortid ?? []).map((entry) => ({
-				icon: entry?.data?.sort_icon ?? "",
-				title: entry?.data?.sort_title ?? "",
-			}));
+				const roles = (heroData.sortid ?? [])
+					.map((entry) => ({
+						icon: entry?.data?.sort_icon ?? "",
+						title: entry?.data?.sort_title ?? "",
+					}))
+					.filter((l) => l.title.trim() !== "");
 
 				const assist = await this.normalizeRelationSection(relation?.assist);
 				const strong = await this.normalizeRelationSection(relation?.strong);
@@ -229,8 +239,8 @@ class MlTransformService {
 				return {
 					name: data.main_hero?.data?.name ?? "",
 					id: data.main_heroid,
-				rank: rank,
-				updatedAt: matchup._updatedAt,
+					rank: rank,
+					updatedAt: matchup._updatedAt,
 					most_compatible: isCounter ? [] : primary,
 					least_compatible: isCounter ? [] : secondary,
 					best_counter: isCounter ? secondary : [],

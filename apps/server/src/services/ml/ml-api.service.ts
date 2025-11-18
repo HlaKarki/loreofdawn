@@ -163,7 +163,7 @@ class MlApiService {
 		const response = await fetch(this.buildEndpointUrl("hero"), {
 			method: "POST",
 			body: this.buildRequestPayload(this.MAX_HERO_ASSUMPTION, {
-				fields: ["data.data.data.name", "data.data.data.heroid"],
+				fields: ["data.hero.data.name", "data.hero.data.heroid"],
 			}),
 		});
 
