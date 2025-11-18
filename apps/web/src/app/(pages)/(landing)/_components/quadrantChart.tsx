@@ -156,7 +156,7 @@ export const QuadrantChart = ({ data, rank }: { data: QuadrantDataType[]; rank: 
 						<div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
 							<div className="space-y-1 sm:space-y-1.5">
 								<CardTitle className="text-xl font-bold leading-tight tracking-tight sm:text-2xl md:text-3xl">
-									Hero Performance Matrix
+									Performance Matrix
 								</CardTitle>
 								<CardDescription className="text-sm leading-relaxed sm:text-base">
 									Discover hidden gems and meta dominators. Bubble size represents ban pressure.

@@ -9,6 +9,16 @@ const nextConfig: NextConfig = {
 				protocol: "https",
 				pathname: "/**",
 			},
+			{
+				hostname: "*.redd.it",
+				protocol: "https",
+				pathname: "/**",
+			},
+			{
+				hostname: "*.reddit.com",
+				protocol: "https",
+				pathname: "/**",
+			},
 		],
 	},
 };
