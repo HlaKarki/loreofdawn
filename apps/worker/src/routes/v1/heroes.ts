@@ -9,15 +9,16 @@ export const heroesRouter = new Hono<Env>();
 
 heroesRouter.get("/", async (c) => {
 	// /v1/heroes?name=miya
-	// /v1/heroes?limit=3&filter.roles=fighter,mage&sort=-win_rate,pick_rate
-	// /v1/heroes?include=meta,matchups,graph,full&rank=mythic
-	const { name, limit, sort, ["filter.roles"]: rolesParam, rank, include } = c.req.query();
+	// /v1/heroes?limit=3&filter.roles=fighter,mage&sort=-pick_rate,win_rate&include=meta
+	// /v1/heroes?sort=-win_rate&rank=mythic&include=full
+	const queryParams = c.req.query();
+	const { name, limit, sort, ["filter.roles"]: rolesParam, rank, include } = queryParams;
 
 	const roles = rolesParam ? (rolesParam.split(",") as heroRolesEnum[]) : undefined;
 	const limitNum = limit ? parseInt(limit, 10) : 10;
 	const includeFields = include ? include.split(",") : [];
 
-	const shaKey = await cacheKvLayer.shaCacheKey("heroes:query", undefined, c.req.query);
+	const shaKey = await cacheKvLayer.shaCacheKey("heroes:query", undefined, queryParams);
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
 
 	return cacheKvLayer.respond(c, shaKey, async () => {
