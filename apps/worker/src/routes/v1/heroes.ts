@@ -112,6 +112,16 @@ heroesRouter.get("/stats_by_role", async (c) => {
 	return c.json(payload);
 });
 
+heroesRouter.get("/quadrant_data", async (c) => {
+	const { rank } = c.req.query();
+
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+	const heroService = new HeroService(db, c.env.KV);
+	const payload = await heroService.getQuadrantData(rank);
+
+	return c.json(payload);
+});
+
 /**
  * DELETE /v1/heroes/:name
  * Delete cache for a hero (all ranks) or all heroes

@@ -359,3 +359,19 @@ export type StatsByRolesType = {
 	averagePickRate: number;
 	heroCount: number;
 };
+
+export type QuadrantDataType = {
+	name: string;
+	roles: { icon: string; title: string }[];
+	images: {
+		head: string;
+		head_big: string;
+		painting: string;
+		smallmap: string;
+		squarehead: string;
+		squarehead_big: string;
+	};
+	winRate: number;
+	pickRate: number;
+	banRate: number;
+};

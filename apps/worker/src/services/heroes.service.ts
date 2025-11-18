@@ -6,7 +6,6 @@ import {
 	heroesListTable,
 	HeroAssets,
 	heroRolesEnum,
-	StatsByRolesResponse,
 	StatsByRolesType,
 } from "@repo/database";
 import { and, eq, ilike, sql, desc, asc } from "drizzle-orm";
@@ -253,7 +252,7 @@ export class HeroService {
 		};
 	}
 
-	async getStatsByRoles(rank: string = "overall"): Promise<StatsByRolesResponse> {
+	async getStatsByRoles(rank: string = "overall"): Promise<{ data: StatsByRolesType[] }> {
 		const resolvedRank = rank ?? "overall";
 
 		const stats: StatsByRolesType[] = await this.db
@@ -275,17 +274,8 @@ export class HeroService {
 			)
 			.groupBy(sql`jsonb_array_elements(roles)->>'title'`);
 
-		const [{ lastUpdated } = { lastUpdated: null }] = await this.db
-			.select({
-				lastUpdated: sql<number | null>`MAX(${heroMetaDataTable.updatedAt})`,
-			})
-			.from(heroMetaDataTable)
-			.where(eq(heroMetaDataTable.rank, resolvedRank));
-
 		return {
-			rank: resolvedRank,
 			data: stats,
-			lastUpdated: lastUpdated ?? null,
 		};
 	}
 
@@ -341,5 +331,25 @@ export class HeroService {
 			.where(ilike(heroProfileTable.name, name))
 			.limit(1);
 		return assets;
+	}
+
+	/**
+	 * Get data points for Quadrant Graph
+	 */
+	async getQuadrantData(rank: string = "overall") {
+		return await this.db
+			.select({
+				name: heroProfileTable.name,
+				roles: heroProfileTable.roles,
+				images: heroProfileTable.images,
+				winRate: heroMetaDataTable.win_rate,
+				pickRate: heroMetaDataTable.pick_rate,
+				banRate: heroMetaDataTable.ban_rate,
+			})
+			.from(heroProfileTable)
+			.leftJoin(
+				heroMetaDataTable,
+				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
+			);
 	}
 }
