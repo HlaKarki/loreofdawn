@@ -149,27 +149,24 @@ export const QuadrantChart = ({ data, rank }: { data: QuadrantDataType[]; rank: 
 	}, [data]);
 
 	return (
-		<div className="space-y-4 sm:space-y-6">
+		<div className="mb-12">
+			<div className="flex flex-col gap-2 mb-6 sm:flex-row sm:items-center sm:justify-between">
+				<div>
+					<h2 className="text-2xl font-bold">Performance Matrix</h2>
+					<p className="text-sm text-muted-foreground mt-1">
+						Discover hidden gems and meta dominators. Bubble size represents ban pressure.
+					</p>
+				</div>
+				<Badge
+					variant="outline"
+					className="w-fit gap-1.5 border-primary/40 bg-primary/5 px-2.5 py-1 text-xs font-semibold capitalize sm:px-3 sm:py-1.5"
+				>
+					Rank: {rank}
+				</Badge>
+			</div>
+
 			<Card className="border-border/60 bg-gradient-to-br from-card via-card to-card/50">
 				<CardHeader className="space-y-3 pb-3 sm:space-y-4 sm:pb-4">
-					<div className="space-y-2 sm:space-y-3">
-						<div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
-							<div className="space-y-1 sm:space-y-1.5">
-								<CardTitle className="text-xl font-bold leading-tight tracking-tight sm:text-2xl md:text-3xl">
-									Performance Matrix
-								</CardTitle>
-								<CardDescription className="text-sm leading-relaxed sm:text-base">
-									Discover hidden gems and meta dominators. Bubble size represents ban pressure.
-								</CardDescription>
-							</div>
-							<Badge
-								variant="outline"
-								className="w-fit gap-1.5 border-primary/40 bg-primary/5 px-2.5 py-1 text-xs font-semibold capitalize sm:px-3 sm:py-1.5"
-							>
-								Rank: {rank}
-							</Badge>
-						</div>
-					</div>
 
 					<div className="flex flex-wrap gap-1.5 sm:gap-2">
 						<Badge

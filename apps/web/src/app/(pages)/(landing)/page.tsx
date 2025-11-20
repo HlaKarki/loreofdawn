@@ -26,28 +26,32 @@ export const dynamic = "force-dynamic"; // TODO
 export default async function Home() {
 	const rank = "glory"; // TODO: need to get this from the store
 
-	const topThreeResponse = await fetch(makeUrl(topThreeQuery(rank)));
-	const topThreeData: ConsolidatedHeroOptional[] = await topThreeResponse.json();
-
-	const statsByRoleResponse = await fetch(makeUrl(statsByRoleQuery(rank)));
-	const statsByRoleData: StatsByRolesResponse = await statsByRoleResponse.json();
-
-	const hiddenGemResponse = await fetch(makeUrl(hiddenGemQuery(rank)));
-	const hiddenGemData: ConsolidatedHeroOptional[] = await hiddenGemResponse.json();
-
-	const quadrantResponse = await fetch(makeUrl(quadrantQuery(rank)));
-	const quadrantData: QuadrantDataType[] = await quadrantResponse.json();
-
-	const communityPostsResponse = await fetch(makeUrl(communityPostsQuery));
-	const communityPostsData: { posts: RedditPostType[] } = await communityPostsResponse.json();
+	const [topThreeData, statsByRoleData, hiddenGemData, quadrantData, communityPostsData] =
+		await Promise.all([
+			fetch(makeUrl(topThreeQuery(rank))).then(
+				(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
+			),
+			fetch(makeUrl(statsByRoleQuery(rank))).then((r) => r.json() as Promise<StatsByRolesResponse>),
+			fetch(makeUrl(hiddenGemQuery(rank))).then(
+				(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
+			),
+			fetch(makeUrl(quadrantQuery(rank))).then((r) => r.json() as Promise<QuadrantDataType[]>),
+			fetch(makeUrl(communityPostsQuery)).then(
+				(r) => r.json() as Promise<{ posts: RedditPostType[] }>,
+			),
+		]);
 
 	return (
-		<div className="container mx-auto max-w-3xl px-4 py-2">
+		<div className="container mx-auto max-w-3xl px-4 py-6 sm:py-8">
 			{/* Search input */}
 			<HeroSearch />
 
 			{/* Three Top Heroes */}
-			<TopThree data={topThreeData} />
+			<TopThree
+				data={topThreeData}
+				title="Meta Picks"
+				description="Heroes popping off in the current meta."
+			/>
 
 			{/* Stats by Role */}
 			<StatsByRoles
@@ -56,17 +60,14 @@ export default async function Home() {
 				rank={rank}
 			/>
 
-			<TopThree data={hiddenGemData} />
+			<TopThree
+				data={hiddenGemData}
+				title="Hidden Gems"
+				description="Underplayed heroes with standout win rates worth trying."
+			/>
 
 			{/* Quadrant Chart */}
 			<QuadrantChart data={quadrantData} rank={rank} />
-
-			{/* Maybe preview stats table here as well */}
-
-			{/* Action buttons */}
-			<div>Find your main</div>
-			<div>Counter picks</div>
-			<div>Did you know?</div>
 
 			{/* Latest */}
 			<CommunityPosts data={communityPostsData.posts} />

@@ -13,7 +13,7 @@ import { cn } from "@/lib/utils";
 import type { StatsByRolesResponse } from "../page";
 import { UpdatedAtLabel } from "../_utils";
 
-export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesResponse) => {
+export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 	const sortedByWinRate = [...data].sort((a, b) => b.averageWinRate - a.averageWinRate);
 	const sortedByBanRate = [...data].sort((a, b) => b.averageBanRate - a.averageBanRate);
 
@@ -59,30 +59,20 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesResponse) 
 		},
 	];
 
-	const displayRank = rank ? `${rank.charAt(0).toUpperCase()}${rank.slice(1)} Rank` : "Live Meta";
-
 	return (
-		<div className="space-y-8">
-			<div className="space-y-4">
-				<Badge
-					variant="secondary"
-					className="gap-2 border border-accent-foreground/10 bg-accent/40 px-3 py-1 text-xs font-semibold text-accent-foreground"
-				>
-					<span className="h-2 w-2 rounded-full bg-chart-1/90 shadow-[0_0_8px] shadow-chart-1/40 animate-pulse" />
-					{displayRank} • Live Meta
-				</Badge>
-
-				<div>
-					<h1 className="text-balance text-4xl font-bold leading-tight md:text-5xl">
-						Role Performance Analytics
-					</h1>
-					<p className="text-pretty text-lg text-muted-foreground">
-						Real-time competitive statistics across {data.length} hero roles. Discover which classes
-						dominate the meta and optimize your champion pool accordingly.
-					</p>
+		<div className="mb-12">
+			<div className="mb-6">
+				<div className="flex flex-col gap-2 mb-2 sm:flex-row sm:items-start sm:justify-between">
+					<h2 className="text-2xl font-bold">Role Performance Analytics</h2>
 					{lastUpdated && <UpdatedAtLabel date={lastUpdated} />}
 				</div>
+				<p className="text-sm text-muted-foreground sm:text-base">
+					Real-time competitive statistics across {data.length} hero roles. Discover which classes
+					dominate the meta and optimize your champion pool accordingly.
+				</p>
+			</div>
 
+			<div className="space-y-6">
 				<div className="grid gap-4 lg:grid-cols-[2fr,1fr]">
 					<Card className="border-border/80 bg-card/70">
 						<CardHeader className="space-y-4">

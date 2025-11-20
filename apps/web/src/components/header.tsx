@@ -1,14 +1,13 @@
 "use client";
 import Link from "next/link";
-import { ModeToggle } from "./mode-toggle";
 import { cn } from "@/lib/utils";
+import { UserButton } from "@clerk/nextjs";
 
 export default function Header() {
 	const links = [
 		{ to: "/", label: "Home" },
 		{ to: "/wiki", label: "Wikis" },
 		{ to: "/hero", label: "Heroes" },
-		{ to: "/login", label: "Login" },
 	] as const;
 
 	return (
@@ -29,7 +28,7 @@ export default function Header() {
 				})}
 			</div>
 			<div className="flex items-center gap-2">
-				<ModeToggle />
+				<UserButton />
 			</div>
 		</header>
 	);

@@ -6,6 +6,7 @@ import Header from "@/components/header";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
 import Script from "next/script";
 import { AiChat } from "@/components/AiChat";
+import Footer from "@/components/footer";
 const geistSans = Geist({
 	variable: "--font-geist-sans",
 	subsets: ["latin"],
@@ -32,10 +33,11 @@ export default function RootLayout({
 			<body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
 				<NuqsAdapter>
 					<Providers>
-						<div className="grid grid-rows-[auto_1fr] h-svh">
+						<div className="grid grid-rows-[auto_1fr_auto] h-svh">
 							<Header />
-							<main className={"pt-25 "}>{children}</main>
+							<main className={"pt-25"}>{children}</main>
 							<AiChat />
+							<Footer />
 						</div>
 					</Providers>
 				</NuqsAdapter>

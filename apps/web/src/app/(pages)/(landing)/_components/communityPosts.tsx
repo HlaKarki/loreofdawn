@@ -48,9 +48,9 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 	}
 
 	return (
-		<div className="mb-8">
-			<div className="flex items-center justify-between mb-4">
-				<h2 className="text-3xl font-bold">Latest from the Community</h2>
+		<div className="mb-12">
+			<div className="flex flex-col gap-2 mb-6 sm:flex-row sm:items-center sm:justify-between">
+				<h2 className="text-2xl font-bold">Latest from the Community</h2>
 				<a
 					href="https://www.reddit.com/r/MobileLegendsGame/"
 					target="_blank"
@@ -69,12 +69,12 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 						className="overflow-hidden hover:shadow-md transition-shadow cursor-pointer group"
 					>
 						<a href={post.permalink} target="_blank" rel="noopener noreferrer">
-							<CardContent className="p-4">
-								<div className="flex gap-4">
+							<CardContent className="p-3 sm:p-4">
+								<div className="flex gap-3 sm:gap-4">
 									{/* Vote count */}
-									<div className="flex flex-col items-center justify-start gap-1 min-w-[48px]">
-										<ArrowUpIcon className="w-5 h-5 text-muted-foreground" />
-										<span className="text-sm font-semibold">{formatScore(post.score)}</span>
+									<div className="flex flex-col items-center justify-start gap-1 min-w-[40px] sm:min-w-[48px]">
+										<ArrowUpIcon className="w-4 h-4 sm:w-5 sm:h-5 text-muted-foreground" />
+										<span className="text-xs sm:text-sm font-semibold">{formatScore(post.score)}</span>
 									</div>
 
 									{/* Post content */}
@@ -87,7 +87,7 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 										)}
 
 										{/* Title */}
-										<h3 className="text-lg font-semibold mb-2 group-hover:text-primary transition-colors line-clamp-2">
+										<h3 className="text-base sm:text-lg font-semibold mb-2 group-hover:text-primary transition-colors line-clamp-2">
 											{post.title}
 										</h3>
 

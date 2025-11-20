@@ -11,7 +11,6 @@ import Fuse from "fuse.js";
 import { makeUrl } from "@/lib/utils.api";
 
 const MAX_RESULTS = 6;
-const DEBOUNCE_MS = 300;
 
 export function HeroSearch() {
 	const [heroes, setHeroes] = useState<MlMetaSummary[]>([]);
@@ -108,7 +107,7 @@ export function HeroSearch() {
 	};
 
 	return (
-		<div className="mb-8">
+		<div className="mb-12">
 			<Popover open={isOpen} onOpenChange={setIsOpen}>
 				<PopoverTrigger asChild>
 					<div className="relative">

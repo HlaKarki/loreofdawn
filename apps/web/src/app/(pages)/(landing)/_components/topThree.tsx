@@ -4,17 +4,28 @@ import { Badge } from "@/components/ui/badge";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { UpdatedAtLabel } from "../_utils";
 
-export const TopThree = ({ data }: { data: ConsolidatedHeroOptional[] }) => {
+type TopThreeProps = {
+	data: ConsolidatedHeroOptional[];
+	title?: string;
+	description?: string;
+};
+
+export const TopThree = ({ data, title = "Top Heroes", description }: TopThreeProps) => {
 	const updatedAt = (data.length && data[0].meta.updatedAt) ?? undefined;
 
 	return (
-		<div className="mb-8">
-			<div className="flex items-center justify-between mb-4">
-				<h1 className="text-3xl font-bold">Heroes popping off this week</h1>
+		<div className="mb-12">
+			<div className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+				<div className="flex-1">
+					<h2 className="text-2xl font-bold">{title}</h2>
+					{description && (
+						<p className="mt-1 text-sm text-muted-foreground sm:text-base">{description}</p>
+					)}
+				</div>
 				{updatedAt && <UpdatedAtLabel date={updatedAt} />}
 			</div>
 
-			<div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+			<div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3 md:gap-6">
 				{data.map((hero) => {
 					const image = resolveImageSrc(
 						hero.profile.images.painting,
@@ -26,7 +37,11 @@ export const TopThree = ({ data }: { data: ConsolidatedHeroOptional[] }) => {
 						<Card key={hero.profile.id} className="overflow-hidden pt-0">
 							{/* Hero Image */}
 							<div className="relative h-48">
-								<img src={image} alt={hero.profile.name} className="w-full h-full object-cover" />
+								<img
+									src={image}
+									alt={hero.profile.name}
+									className="w-full h-full object-cover object-top"
+								/>
 								<div className="absolute inset-0 bg-gradient-to-t from-background/95 to-transparent" />
 								<h2 className="absolute bottom-4 left-4 text-2xl font-bold">{hero.profile.name}</h2>
 							</div>
