@@ -221,6 +221,7 @@ export interface MlHeroList {
 export interface MlHeroProfile {
 	id: number;
 	name: string;
+	url_name: string;
 	createdAt: number;
 	updatedAt: number;
 	images: {
@@ -288,8 +289,9 @@ export interface MlMatchupSubHeroSummary {
 }
 
 export interface MlMatchupSummary {
-	name: string;
 	id: number;
+	name: string;
+	url_name: string;
 	rank: string;
 	updatedAt: number;
 	most_compatible: MlMatchupSubHeroSummary[];
@@ -301,6 +303,7 @@ export interface MlMatchupSummary {
 export interface MlMetaSummary {
 	id: number;
 	name: string;
+	url_name: string;
 	rank: string;
 	updatedAt: number;
 	pick_rate: number;
@@ -318,6 +321,7 @@ export interface MlGraphPoint {
 export interface MlGraphData {
 	id: number;
 	name: string;
+	url_name: string;
 	rank: string;
 	updatedAt: number;
 	trend_start: string | null;

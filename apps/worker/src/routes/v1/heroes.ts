@@ -5,6 +5,8 @@ import type { Env } from "@/types";
 import { createDb } from "@/db";
 import { heroRolesEnum } from "@repo/database";
 
+const cv = "v1.0.0";
+
 export const heroesRouter = new Hono<Env>();
 
 heroesRouter.get("/", async (c) => {
@@ -64,6 +66,29 @@ heroesRouter.get("/list", async (c) => {
 		const heroService = new HeroService(db, c.env.KV);
 		return heroService.getHeroList();
 	});
+});
+
+/**
+ * GET /v1/heroes/meta?name
+ */
+heroesRouter.get("/meta", async (c) => {
+	const { name: n, rank: r } = c.req.query();
+	const [name, rank] = [n.toLowerCase(), r.toLowerCase()]; // TODO: validate rank type
+
+	const cacheKey = `${cv}:heroes:meta:${name}`;
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+
+	const data = await cacheKvLayer.tryFetch(
+		c,
+		cacheKey,
+		async () => {
+			const heroService = new HeroService(db, c.env.KV);
+			return await heroService.getMetaProfile(name, rank);
+		},
+		{ ttlSeconds: 60 * 15 },
+	);
+
+	return c.json(data);
 });
 
 /**

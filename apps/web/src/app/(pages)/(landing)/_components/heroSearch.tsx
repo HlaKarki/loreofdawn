@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useMemo } from "react";
 import { useRouter } from "next/navigation";
-import type { MlHeroList } from "@repo/database";
+import type { MlMetaSummary } from "@repo/database";
 import { Input } from "@/components/ui/input";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { ScrollArea } from "@/components/ui/scroll-area";
@@ -14,7 +14,7 @@ const MAX_RESULTS = 7;
 const DEBOUNCE_MS = 300;
 
 export function HeroSearch() {
-	const [heroes, setHeroes] = useState<MlHeroList[]>([]);
+	const [heroes, setHeroes] = useState<MlMetaSummary[]>([]);
 	const [searchQuery, setSearchQuery] = useState("");
 	const [isOpen, setIsOpen] = useState(false);
 	const [isLoading, setIsLoading] = useState(false);
@@ -27,10 +27,10 @@ export function HeroSearch() {
 		async function fetchHeroes() {
 			setIsLoading(true);
 			try {
-				const response = await fetch(makeUrl("/v1/heroes/list"));
+				const response = await fetch(makeUrl("/v1/heroes/meta?name=all"));
 				if (response.ok) {
-					const data: MlHeroList[] = await response.json();
-					setHeroes(data.sort((a, b) => a.display_name.localeCompare(b.display_name)));
+					const data: MlMetaSummary[] = await response.json();
+					setHeroes(data.sort((a, b) => a.name.localeCompare(b.name)));
 				}
 			} catch (error) {
 				console.error("Failed to fetch heroes:", error);
@@ -73,8 +73,8 @@ export function HeroSearch() {
 	}, [searchQuery]);
 
 	// Navigate to hero
-	const navigateToHero = (hero: MlHeroList) => {
-		router.push(`/hero/${encodeURIComponent(hero.url_name)}?rank=overall`);
+	const navigateToHero = (hero: MlMetaSummary) => {
+		router.push(`/hero/${encodeURIComponent(hero.name)}?rank=overall`);
 		setSearchQuery("");
 		setIsOpen(false);
 		inputRef.current?.blur();
@@ -149,8 +149,8 @@ export function HeroSearch() {
 										}`}
 										onMouseEnter={() => setSelectedIndex(index)}
 									>
-										<div className="font-medium">{hero.display_name}</div>
-										<div className="text-xs text-muted-foreground mt-0.5">{hero.url_name}</div>
+										<div className="font-medium">{hero.name}</div>
+										<div className="text-xs text-muted-foreground mt-0.5">{hero.name}</div>
 									</button>
 								))}
 							</div>

@@ -7,6 +7,7 @@ import {
 	HeroAssets,
 	heroRolesEnum,
 	StatsByRolesType,
+	MlMetaSummary,
 } from "@repo/database";
 import { and, eq, ilike, sql, desc, asc } from "drizzle-orm";
 import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
@@ -351,5 +352,20 @@ export class HeroService {
 				heroMetaDataTable,
 				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
 			);
+	}
+
+	/**
+	 * Get full meta profile for a specific hero or all
+	 */
+	async getMetaProfile(name: string, rank: string): Promise<MlMetaSummary[]> {
+		switch (name) {
+			case "all":
+				return await this.db.select().from(heroMetaDataTable);
+			default:
+				return await this.db
+					.select()
+					.from(heroMetaDataTable)
+					.where(and(ilike(heroMetaDataTable.name, name), eq(heroMetaDataTable.rank, rank)));
+		}
 	}
 }

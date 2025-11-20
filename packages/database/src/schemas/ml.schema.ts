@@ -15,6 +15,7 @@ export const heroProfileTable = pgTable(
 	{
 		id: integer("id").notNull().primaryKey(),
 		name: text("name").notNull(),
+		url_name: text("url_name").notNull(),
 		createdAt: bigint("createdAt", { mode: "number" }).notNull(),
 		updatedAt: bigint("updatedAt", { mode: "number" }).notNull(),
 		images: jsonb("images").$type<MlHeroProfile["images"]>().notNull(),
@@ -36,6 +37,7 @@ export const heroMatchupTable = pgTable(
 	{
 		id: integer("id").notNull(),
 		name: text("name").notNull(),
+		url_name: text("url_name").notNull(),
 		rank: text("rank").notNull(),
 		most_compatible: jsonb("most_compatible").$type<MlMatchupSubHeroSummary[]>(),
 		least_compatible: jsonb("least_compatible").$type<MlMatchupSubHeroSummary[]>(),
@@ -55,6 +57,7 @@ export const heroMetaDataTable = pgTable(
 	{
 		id: integer("id").notNull(),
 		name: text("name").notNull(),
+		url_name: text("url_name").notNull(),
 		rank: text("rank").notNull(),
 		pick_rate: real("pick_rate").notNull(),
 		ban_rate: real("ban_rate").notNull(),
@@ -73,6 +76,7 @@ export const heroGraphDataTable = pgTable(
 	{
 		id: integer("id").notNull(),
 		name: text("name").notNull(),
+		url_name: text("url_name").notNull(),
 		rank: text("rank").notNull(),
 		trend_start: text("trend_start"),
 		trend_end: text("trend_end"),

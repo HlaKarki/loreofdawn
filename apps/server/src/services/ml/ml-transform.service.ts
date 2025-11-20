@@ -121,6 +121,7 @@ class MlTransformService {
 			raw.map(async (hero) => {
 				const heroData = hero.data.hero.data;
 				const relation = hero.data.relation;
+				const url_name = heroData.name.trim().toLowerCase().replaceAll(" ", "_");
 
 				const skills = (heroData.heroskilllist ?? [])
 					.flatMap((group) => group?.skilllist ?? [])
@@ -160,6 +161,7 @@ class MlTransformService {
 				return {
 					id: hero.data.hero_id,
 					name: heroData.name,
+					url_name: url_name,
 					createdAt: hero.createdAt,
 					updatedAt: hero.updatedAt,
 					images: {
@@ -231,14 +233,16 @@ class MlTransformService {
 
 		return Promise.all(
 			raw.map(async (matchup) => {
+				const url_name = matchup.data.main_hero.data.name.trim().toLowerCase().replaceAll(" ", "_");
 				const data = matchup.data;
 				const primary = await this.normalizeSubHeroSummaries(data.sub_hero);
 				const secondary = await this.normalizeSubHeroSummaries(data.sub_hero_last);
 				const rank = this.parseRankNumber(matchup.data.bigrank);
 
 				return {
-					name: data.main_hero?.data?.name ?? "",
 					id: data.main_heroid,
+					name: data.main_hero?.data?.name ?? "",
+					url_name: url_name,
 					rank: rank,
 					updatedAt: matchup._updatedAt,
 					most_compatible: isCounter ? [] : primary,
@@ -259,12 +263,14 @@ class MlTransformService {
 			raw.map(async (meta) => {
 				const data = meta.data;
 				const heroId = data.main_heroid;
+				const url_name = data.main_hero.data.name.trim().toLowerCase().replaceAll(" ", "_");
 				const heroRecord = await mlDbService.getHeroById(heroId);
 				const rank = this.parseRankNumber(meta.data.bigrank);
 
 				return {
 					id: heroId,
 					name: heroRecord?.display_name ?? "",
+					url_name: url_name,
 					rank: rank,
 					updatedAt: meta._updatedAt,
 					pick_rate: data.main_hero_appearance_rate,
@@ -301,6 +307,7 @@ class MlTransformService {
 				return {
 					id: heroId,
 					name: heroRecord?.display_name ?? "",
+					url_name: heroRecord?.url_name,
 					rank: rank,
 					updatedAt: record._updatedAt,
 					trend_start: sortedPoints[0]?.date ?? null,
