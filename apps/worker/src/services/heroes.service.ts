@@ -360,7 +360,10 @@ export class HeroService {
 	async getMetaProfile(name: string, rank: string): Promise<MlMetaSummary[]> {
 		switch (name) {
 			case "all":
-				return await this.db.select().from(heroMetaDataTable);
+				return await this.db
+					.select()
+					.from(heroMetaDataTable)
+					.where(ilike(heroMetaDataTable.rank, rank));
 			default:
 				return await this.db
 					.select()

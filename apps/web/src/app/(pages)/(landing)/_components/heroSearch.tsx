@@ -10,7 +10,7 @@ import { SearchIcon, LoaderIcon } from "lucide-react";
 import Fuse from "fuse.js";
 import { makeUrl } from "@/lib/utils.api";
 
-const MAX_RESULTS = 7;
+const MAX_RESULTS = 6;
 const DEBOUNCE_MS = 300;
 
 export function HeroSearch() {
@@ -27,7 +27,7 @@ export function HeroSearch() {
 		async function fetchHeroes() {
 			setIsLoading(true);
 			try {
-				const response = await fetch(makeUrl("/v1/heroes/meta?name=all"));
+				const response = await fetch(makeUrl("/v1/heroes/meta?name=all&rank=glory"));
 				if (response.ok) {
 					const data: MlMetaSummary[] = await response.json();
 					setHeroes(data.sort((a, b) => a.name.localeCompare(b.name)));
@@ -74,7 +74,7 @@ export function HeroSearch() {
 
 	// Navigate to hero
 	const navigateToHero = (hero: MlMetaSummary) => {
-		router.push(`/hero/${encodeURIComponent(hero.name)}?rank=overall`);
+		router.push(`/hero/${encodeURIComponent(hero.url_name)}?rank=overall`);
 		setSearchQuery("");
 		setIsOpen(false);
 		inputRef.current?.blur();
@@ -140,7 +140,7 @@ export function HeroSearch() {
 							<div className="py-2">
 								{results.map((hero, index) => (
 									<button
-										key={hero.id}
+										key={index}
 										onClick={() => navigateToHero(hero)}
 										className={`w-full px-4 py-3 text-left transition-colors ${
 											index === selectedIndex
@@ -150,7 +150,11 @@ export function HeroSearch() {
 										onMouseEnter={() => setSelectedIndex(index)}
 									>
 										<div className="font-medium">{hero.name}</div>
-										<div className="text-xs text-muted-foreground mt-0.5">{hero.name}</div>
+										<div className="flex gap-3 text-xs text-muted-foreground mt-0.5">
+											<span>WR: {(hero.win_rate * 100).toFixed(1)}%</span>
+											<span>PR: {(hero.pick_rate * 100).toFixed(1)}%</span>
+											<span>BR: {(hero.ban_rate * 100).toFixed(1)}%</span>
+										</div>
 									</button>
 								))}
 							</div>
