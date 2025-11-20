@@ -21,6 +21,8 @@ const quadrantQuery = (rank: string) => `/v1/heroes/quadrant_data?rank=${rank}`;
 const statsByRoleQuery = (rank: string) => `/v1/heroes/stats_by_role?rank=${rank}`;
 const communityPostsQuery = `/v1/community/posts?type=hot`;
 
+export const dynamic = "force-dynamic";
+
 export default async function Home() {
 	const rank = "glory"; // TODO: need to get this from the store
 
