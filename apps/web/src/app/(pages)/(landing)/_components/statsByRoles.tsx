@@ -9,11 +9,35 @@ import {
 	CardTitle,
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { cn } from "@/lib/utils";
-import type { StatsByRolesResponse } from "../page";
+import type { StatsByRolesType } from "@repo/database";
 import { UpdatedAtLabel } from "../_utils";
 
-export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
+const rolePalette = {
+	win: "var(--color-chart-1)",
+	pick: "var(--color-chart-3)",
+	ban: "var(--color-chart-5)",
+	meta: "var(--color-chart-1)",
+	weak: "var(--color-chart-5)",
+	balanced: "var(--color-chart-3)",
+	overlayStrength: 22, // percentage used in the gradient blend
+	barBlend: 70, // percentage used in bar gradients
+} as const;
+
+const makeOverlay = (color: string) =>
+	`linear-gradient(135deg, color-mix(in oklch, ${color} ${rolePalette.overlayStrength}%, transparent) 0%, transparent 70%)`;
+
+const makeBar = (color: string) =>
+	`linear-gradient(90deg, ${color} 0%, color-mix(in oklch, ${color} ${rolePalette.barBlend}%, transparent) 100%)`;
+
+type StatsByRolesProps = {
+	data: StatsByRolesType[];
+	lastUpdated?: number;
+	rank?: string;
+};
+
+export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => {
+	if (!data?.length) return null;
+
 	const sortedByWinRate = [...data].sort((a, b) => b.averageWinRate - a.averageWinRate);
 	const sortedByBanRate = [...data].sort((a, b) => b.averageBanRate - a.averageBanRate);
 
@@ -39,36 +63,43 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 		{
 			label: "Avg Win Rate",
 			value: `${(avgWinRate * 100).toFixed(1)}%`,
-			helper: `Across ${data.length} tracked roles`,
-			accent: "text-chart-1",
+			helper: `${totalHeroes} heroes across ${data.length} roles`,
+			accent: rolePalette.win,
 			icon: Target,
 		},
 		{
 			label: "Avg Pick Rate",
 			value: `${(avgPickRate * 100).toFixed(2)}%`,
-			helper: "Normalized share of drafts per role",
-			accent: "text-chart-3",
+			helper: "Share of overall drafts",
+			accent: rolePalette.pick,
 			icon: Crosshair,
 		},
 		{
 			label: "Avg Ban Rate",
 			value: `${(avgBanRate * 100).toFixed(1)}%`,
 			helper: `${mostBannedRole.role}s draw the most bans`,
-			accent: "text-chart-5",
+			accent: rolePalette.ban,
 			icon: Ban,
 		},
 	];
 
 	return (
-		<div className="mb-12">
+		<div className="mb-12 flex flex-col space-y-6">
 			<div className="mb-6">
 				<div className="flex flex-col gap-2 mb-2 sm:flex-row sm:items-start sm:justify-between">
-					<h2 className="text-2xl font-bold">Role Performance Analytics</h2>
+					<div className="flex items-center gap-3">
+						<h2 className="text-2xl font-bold">Role Performance</h2>
+						{rank && (
+							<Badge variant="outline" className="text-xs">
+								{rank}
+							</Badge>
+						)}
+					</div>
 					{lastUpdated && <UpdatedAtLabel date={lastUpdated} />}
 				</div>
 				<p className="text-sm text-muted-foreground sm:text-base">
-					Real-time competitive statistics across {data.length} hero roles. Discover which classes
-					dominate the meta and optimize your champion pool accordingly.
+					Track win, pick, and ban rates by role to pair with Meta Picks and Hidden Gems. Updated in
+					real-time for your current rank filter.
 				</p>
 			</div>
 
@@ -128,7 +159,7 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 												<CardDescription className="text-[11px] uppercase tracking-wide">
 													{label}
 												</CardDescription>
-												<CardTitle className={cn("text-xl font-semibold", accent)}>
+												<CardTitle className="text-xl font-semibold" style={{ color: accent }}>
 													{value}
 												</CardTitle>
 											</div>
@@ -148,7 +179,7 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 								<CardDescription className="text-[11px] uppercase tracking-wide text-muted-foreground">
 									Meta Leader
 								</CardDescription>
-								<div className="flex items-center gap-1 text-chart-1">
+								<div className="flex items-center gap-1" style={{ color: rolePalette.meta }}>
 									<TrendingUp className="h-4 w-4" />
 									<span>{formattedWinDelta} vs avg</span>
 								</div>
@@ -167,17 +198,17 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 									{
 										label: "Win",
 										value: `${(topRole.averageWinRate * 100).toFixed(1)}%`,
-										accent: "text-chart-1",
+										accent: rolePalette.win,
 									},
 									{
 										label: "Pick",
 										value: `${(topRole.averagePickRate * 100).toFixed(2)}%`,
-										accent: "text-chart-3",
+										accent: rolePalette.pick,
 									},
 									{
 										label: "Ban",
 										value: `${(topRole.averageBanRate * 100).toFixed(1)}%`,
-										accent: "text-chart-5",
+										accent: rolePalette.ban,
 									},
 								].map(({ label, value, accent }) => (
 									<Card key={label} className="border-border/70 bg-background/70 py-3">
@@ -185,7 +216,9 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 											<CardDescription className="text-[11px] uppercase tracking-wide">
 												{label}
 											</CardDescription>
-											<CardTitle className={cn("text-lg font-semibold", accent)}>{value}</CardTitle>
+											<CardTitle className="text-lg font-semibold" style={{ color: accent }}>
+												{value}
+											</CardTitle>
 										</CardHeader>
 									</Card>
 								))}
@@ -212,24 +245,17 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 					const status = isDominating ? "Meta" : isStruggling ? "Weak" : "Balanced";
 					const StatusIcon = isDominating ? TrendingUp : isStruggling ? TrendingDown : Minus;
 					const statusColor = isDominating
-						? "text-chart-1"
+						? rolePalette.meta
 						: isStruggling
-							? "text-chart-5"
-							: "text-chart-3";
-
-					const gradient = isDominating
-						? "from-chart-1/20 to-transparent"
-						: isStruggling
-							? "from-chart-5/20 to-transparent"
-							: "from-chart-3/20 to-transparent";
+							? rolePalette.weak
+							: rolePalette.balanced;
+					const overlayGradient = makeOverlay(statusColor);
 
 					return (
 						<Card key={stat.role} className="relative overflow-hidden border-border/80 bg-card/80">
 							<div
-								className={cn(
-									"pointer-events-none absolute inset-0 bg-gradient-to-br opacity-50",
-									gradient,
-								)}
+								className="pointer-events-none absolute inset-0 opacity-50"
+								style={{ backgroundImage: overlayGradient }}
 								aria-hidden
 							/>
 							<CardHeader className="relative z-10 space-y-2">
@@ -238,7 +264,14 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 										<div className="flex items-center gap-3">
 											<CardTitle className="text-2xl font-bold capitalize">{stat.role}s</CardTitle>
 											{index === 0 && (
-												<Badge variant="outline" className="border-chart-1/40 text-chart-1">
+												<Badge
+													variant="outline"
+													className="text-xs"
+													style={{
+														color: rolePalette.meta,
+														borderColor: `color-mix(in oklch, ${rolePalette.meta} 40%, transparent)`,
+													}}
+												>
 													#1
 												</Badge>
 											)}
@@ -248,7 +281,14 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 											<span>{stat.heroCount} heroes in pool</span>
 										</CardDescription>
 									</div>
-									<Badge variant="outline" className={cn("bg-background/80 text-xs", statusColor)}>
+									<Badge
+										variant="outline"
+										className="bg-background/80 text-xs"
+										style={{
+											color: statusColor,
+											borderColor: `color-mix(in oklch, ${statusColor} 40%, transparent)`,
+										}}
+									>
 										<StatusIcon className="mr-1 h-3.5 w-3.5" />
 										{status}
 									</Badge>
@@ -258,14 +298,17 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 								<div className="space-y-2">
 									<div className="flex items-baseline justify-between">
 										<span className="text-sm font-medium text-foreground/80">Win Rate</span>
-										<span className={cn("font-mono text-lg font-bold", statusColor)}>
+										<span className="font-mono text-lg font-bold" style={{ color: statusColor }}>
 											{winRate.toFixed(1)}%
 										</span>
 									</div>
 									<div className="relative h-3 rounded-full bg-muted">
 										<div
-											className="absolute inset-y-0 left-0 rounded-full bg-gradient-to-r from-chart-1 to-chart-1/80 transition-all"
-											style={{ width: `${winRate}%` }}
+											className="absolute inset-y-0 left-0 rounded-full transition-all"
+											style={{
+												width: `${winRate}%`,
+												background: makeBar(rolePalette.win),
+											}}
 										/>
 										<div className="absolute inset-y-0 left-1/2 w-px bg-foreground/20" />
 									</div>
@@ -274,14 +317,20 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 								<div className="space-y-2">
 									<div className="flex items-baseline justify-between">
 										<span className="text-sm font-medium text-foreground/80">Pick Rate</span>
-										<span className="font-mono text-base font-semibold text-chart-3">
+										<span
+											className="font-mono text-base font-semibold"
+											style={{ color: rolePalette.pick }}
+										>
 											{pickRate.toFixed(2)}%
 										</span>
 									</div>
 									<div className="h-2.5 rounded-full bg-muted">
 										<div
-											className="h-full rounded-full bg-gradient-to-r from-chart-3 to-chart-3/80"
-											style={{ width: `${Math.min(pickRate * 10, 100)}%` }}
+											className="h-full rounded-full"
+											style={{
+												width: `${Math.min(pickRate * 10, 100)}%`,
+												background: makeBar(rolePalette.pick),
+											}}
 										/>
 									</div>
 								</div>
@@ -289,14 +338,17 @@ export const StatsByRoles = ({ data, lastUpdated }: StatsByRolesResponse) => {
 								<div className="space-y-2">
 									<div className="flex items-baseline justify-between">
 										<span className="text-sm font-medium text-foreground/80">Ban Rate</span>
-										<span className="font-mono text-base font-semibold text-chart-5">
+										<span
+											className="font-mono text-base font-semibold"
+											style={{ color: rolePalette.ban }}
+										>
 											{banRate.toFixed(1)}%
 										</span>
 									</div>
 									<div className="h-2.5 rounded-full bg-muted">
 										<div
-											className="h-full rounded-full bg-gradient-to-r from-chart-5 to-chart-5/80"
-											style={{ width: `${banRate}%` }}
+											className="h-full rounded-full"
+											style={{ width: `${banRate}%`, background: makeBar(rolePalette.ban) }}
 										/>
 									</div>
 								</div>
