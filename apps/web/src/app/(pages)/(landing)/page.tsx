@@ -5,6 +5,7 @@ import { TopThree } from "./_components/topThree";
 import { StatsByRoles } from "./_components/statsByRoles";
 import { QuadrantChart } from "./_components/quadrantChart";
 import { CommunityPosts } from "./_components/communityPosts";
+import { HeroSearch } from "./_components/heroSearch";
 
 export type StatsByRolesResponse = {
 	rank: string;
@@ -41,7 +42,7 @@ export default async function Home() {
 	return (
 		<div className="container mx-auto max-w-3xl px-4 py-2">
 			{/* Search input */}
-			<div>Search</div>
+			<HeroSearch />
 
 			{/* Three Top Heroes */}
 			<TopThree data={topThreeData} />
