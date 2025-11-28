@@ -20,7 +20,7 @@ import {
 	DialogTitle,
 } from "@/components/ui/dialog";
 import { Input } from "@/components/ui/input";
-import { Bookmark, Trash2 } from "lucide-react";
+import { Star, Trash2 } from "lucide-react";
 import type { RateFilter } from "./rates-filter";
 
 export interface FilterPreset {
@@ -106,7 +106,7 @@ export function FilterPresets({ currentFilters, onLoadPreset }: FilterPresetsPro
 			<DropdownMenu>
 				<DropdownMenuTrigger asChild>
 					<Button variant="outline" size="sm" className="h-10">
-						<Bookmark className="h-4 w-4 sm:mr-2" />
+						<Star className="h-4 w-4 sm:mr-2" />
 						<span className="hidden sm:inline">Presets</span>
 					</Button>
 				</DropdownMenuTrigger>

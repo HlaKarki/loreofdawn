@@ -38,7 +38,7 @@ import {
 	DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import type { ConsolidatedHeroOptional } from "@repo/database";
-import { Search, Settings2 } from "lucide-react";
+import { Search, Eye } from "lucide-react";
 import { cn, tidyLabel } from "@/lib/utils";
 import { RatesFilter, type RateFilter } from "./rates-filter";
 import { DensityToggle, type TableDensity, getDensityConfig } from "./density-toggle";
@@ -181,7 +181,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 	return (
 		<div className="w-full max-w-full space-y-4 overflow-x-hidden">
 			{/* Filters and Column Visibility */}
-			<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+			<div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
 				{/* Search */}
 				<div className="relative w-full sm:max-w-sm">
 					<Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
@@ -194,7 +194,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 				</div>
 
 				{/* Filters and Column Visibility */}
-				<div className="flex flex-wrap gap-2">
+				<div className="flex flex-wrap gap-2 items-center">
 					{/* Role Filter */}
 					<Select
 						value={selectedRole || "all"}
@@ -208,7 +208,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 							}
 						}}
 					>
-						<SelectTrigger className="w-[140px]">
+						<SelectTrigger className="w-[140px] py-4.5">
 							<SelectValue placeholder="All Roles" />
 						</SelectTrigger>
 						<SelectContent>
@@ -234,7 +234,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 							}
 						}}
 					>
-						<SelectTrigger className="w-[140px]">
+						<SelectTrigger className="w-[140px] py-4.5">
 							<SelectValue placeholder="All Lanes" />
 						</SelectTrigger>
 						<SelectContent>
@@ -246,9 +246,6 @@ export function DataTable({ data, rank }: DataTableProps) {
 							))}
 						</SelectContent>
 					</Select>
-
-					{/* Rates Filter */}
-					<RatesFilter onFilterChange={setRateFilters} />
 
 					{/* Density Toggle */}
 					<DensityToggle density={density} onDensityChange={setDensity} />
@@ -274,7 +271,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 					<DropdownMenu>
 						<DropdownMenuTrigger asChild>
 							<Button variant="outline" size="sm" className="h-10">
-								<Settings2 className="h-4 w-4 sm:mr-2" />
+								<Eye className="h-4 w-4 sm:mr-2" />
 								<span className="hidden sm:inline">Columns</span>
 							</Button>
 						</DropdownMenuTrigger>
@@ -319,6 +316,15 @@ export function DataTable({ data, rank }: DataTableProps) {
 								})}
 						</DropdownMenuContent>
 					</DropdownMenu>
+
+					{/* Rates Filter - moved to last position */}
+					<RatesFilter
+						onFilterChange={setRateFilters}
+						onSortChange={(columnId) => {
+							// Auto-sort by the filtered column in descending order
+							setSorting([{ id: columnId, desc: true }]);
+						}}
+					/>
 				</div>
 			</div>
 

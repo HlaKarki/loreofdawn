@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
+import { Input } from "@/components/ui/input";
 import {
 	DropdownMenu,
 	DropdownMenuContent,
@@ -9,7 +10,7 @@ import {
 	DropdownMenuSeparator,
 	DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { Filter } from "lucide-react";
+import { Sliders, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export type RateFilterType = "win_rate" | "pick_rate" | "ban_rate";
@@ -19,193 +20,294 @@ export interface RateFilter {
 	label: string;
 	min?: number;
 	max?: number;
+	sortBy?: boolean; // Indicates this filter should trigger sorting
 }
 
 interface RatesFilterProps {
 	onFilterChange: (filters: RateFilter[]) => void;
+	onSortChange?: (columnId: string) => void;
 }
 
-// Predefined filter options
-const FILTER_PRESETS = {
-	win_rate: [
-		{ label: "All", min: undefined, max: undefined },
-		{ label: "High (>52%)", min: 0.52, max: undefined },
-		{ label: "Balanced (48-52%)", min: 0.48, max: 0.52 },
-		{ label: "Low (<48%)", min: undefined, max: 0.48 },
-		// Future: { label: "Custom...", custom: true }
-	],
-	ban_rate: [
-		{ label: "All", min: undefined, max: undefined },
-		{ label: "Banned Often (>10%)", min: 0.1, max: undefined },
-		{ label: "Sometimes Banned (5-10%)", min: 0.05, max: 0.1 },
-		{ label: "Rarely Banned (<5%)", min: undefined, max: 0.05 },
-	],
-	pick_rate: [
-		{ label: "All", min: undefined, max: undefined },
-		{ label: "Popular (>5%)", min: 0.05, max: undefined },
-		{ label: "Average (2-5%)", min: 0.02, max: 0.05 },
-		{ label: "Unpopular (<2%)", min: undefined, max: 0.02 },
-	],
-} as const;
-
-export function RatesFilter({ onFilterChange }: RatesFilterProps) {
-	const [activeFilters, setActiveFilters] = useState<{
-		win_rate: number;
-		ban_rate: number;
-		pick_rate: number;
+export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) {
+	// Input values (what user is typing)
+	const [inputValues, setInputValues] = useState<{
+		win_rate: string;
+		ban_rate: string;
+		pick_rate: string;
 	}>({
-		win_rate: 0, // index 0 = "All"
-		ban_rate: 0,
-		pick_rate: 0,
+		win_rate: "",
+		ban_rate: "",
+		pick_rate: "",
 	});
 
-	const handleFilterSelect = (type: RateFilterType, index: number) => {
-		const newFilters = { ...activeFilters, [type]: index };
-		setActiveFilters(newFilters);
+	// Active filter values (what's currently applied)
+	const [activeValues, setActiveValues] = useState<{
+		win_rate: string;
+		ban_rate: string;
+		pick_rate: string;
+	}>({
+		win_rate: "",
+		ban_rate: "",
+		pick_rate: "",
+	});
+
+	const handleInputChange = (type: RateFilterType, value: string) => {
+		// Only allow numbers and decimal point
+		if (value !== "" && !/^\d*\.?\d*$/.test(value)) {
+			return;
+		}
+
+		// Update input value
+		setInputValues({ ...inputValues, [type]: value });
+	};
+
+	const handleSetFilter = (type: RateFilterType) => {
+		const value = inputValues[type];
+
+		// Update active values
+		const newActiveValues = { ...activeValues, [type]: value };
+		setActiveValues(newActiveValues);
 
 		// Build filter array
 		const filters: RateFilter[] = [];
 
-		if (newFilters.win_rate > 0) {
-			const preset = FILTER_PRESETS.win_rate[newFilters.win_rate];
-			filters.push({
-				type: "win_rate",
-				label: preset.label,
-				min: preset.min,
-				max: preset.max,
-			});
-		}
+		// Process each rate type
+		Object.entries(newActiveValues).forEach(([rateType, val]) => {
+			if (val !== "" && !isNaN(Number(val))) {
+				const numValue = Number(val);
+				// Convert percentage to decimal (e.g., 52 -> 0.52)
+				const decimalValue = numValue > 1 ? numValue / 100 : numValue;
 
-		if (newFilters.ban_rate > 0) {
-			const preset = FILTER_PRESETS.ban_rate[newFilters.ban_rate];
-			filters.push({
-				type: "ban_rate",
-				label: preset.label,
-				min: preset.min,
-				max: preset.max,
-			});
-		}
+				filters.push({
+					type: rateType as RateFilterType,
+					label: `≤${numValue}%`,
+					max: decimalValue, // Filter to show values <= this
+					sortBy: true, // Enable sorting for this column
+				});
+			}
+		});
 
-		if (newFilters.pick_rate > 0) {
-			const preset = FILTER_PRESETS.pick_rate[newFilters.pick_rate];
-			filters.push({
-				type: "pick_rate",
-				label: preset.label,
-				min: preset.min,
-				max: preset.max,
-			});
+		// Trigger filter change
+		onFilterChange(filters);
+
+		// If there's an active filter, trigger sorting by that column
+		if (filters.length > 0 && onSortChange) {
+			// Sort by the first active filter
+			const sortColumn = `meta.${filters[0].type}`;
+			onSortChange(sortColumn);
 		}
+	};
+
+	const handleClearFilter = (type: RateFilterType) => {
+		setInputValues({ ...inputValues, [type]: "" });
+		setActiveValues({ ...activeValues, [type]: "" });
+
+		// Rebuild filters without this type
+		const newActiveValues = { ...activeValues, [type]: "" };
+		const filters: RateFilter[] = [];
+
+		Object.entries(newActiveValues).forEach(([rateType, val]) => {
+			if (val !== "" && !isNaN(Number(val))) {
+				const numValue = Number(val);
+				const decimalValue = numValue > 1 ? numValue / 100 : numValue;
+
+				filters.push({
+					type: rateType as RateFilterType,
+					label: `≤${numValue}%`,
+					max: decimalValue,
+					sortBy: true,
+				});
+			}
+		});
 
 		onFilterChange(filters);
 	};
 
 	const hasActiveFilters =
-		activeFilters.win_rate > 0 || activeFilters.ban_rate > 0 || activeFilters.pick_rate > 0;
+		activeValues.win_rate !== "" || activeValues.ban_rate !== "" || activeValues.pick_rate !== "";
 
-	const activeFilterCount = [
-		activeFilters.win_rate,
-		activeFilters.ban_rate,
-		activeFilters.pick_rate,
-	].filter((v) => v > 0).length;
+	const activeFilterCount = Object.values(activeValues).filter((v) => v !== "").length;
 
 	return (
-		<DropdownMenu>
-			<DropdownMenuTrigger asChild>
-				<Button
-					variant="outline"
-					size="sm"
-					className={cn("h-10 relative", hasActiveFilters && "border-primary")}
-				>
-					<Filter className="h-4 w-4 sm:mr-2" />
-					<span className="hidden sm:inline">Rates</span>
-					{hasActiveFilters && (
-						<span className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-primary text-[10px] font-bold text-primary-foreground">
+		<div className="flex items-center gap-2 flex-wrap">
+			{/* Dropdown to add filters */}
+			<DropdownMenu>
+				<DropdownMenuTrigger asChild>
+					<Button
+						variant="outline"
+						size="sm"
+						className={cn("h-10", hasActiveFilters && "border-primary")}
+					>
+						<Sliders className="h-4 w-4 sm:mr-2" />
+						<span className="hidden sm:inline">Rates</span>
+						<span
+							className={cn(
+								"ml-1.5 flex h-4 w-4 items-center justify-center rounded-full",
+								"bg-primary text-[10px] font-bold text-primary-foreground",
+								activeFilterCount === 0 && "bg-transparent text-transparent",
+							)}
+						>
 							{activeFilterCount}
 						</span>
-					)}
-				</Button>
-			</DropdownMenuTrigger>
-			<DropdownMenuContent align="end" className="w-[240px]">
-				<DropdownMenuLabel>Filter by Rates</DropdownMenuLabel>
-				<DropdownMenuSeparator />
+					</Button>
+				</DropdownMenuTrigger>
+				<DropdownMenuContent align="end" className="w-[280px]">
+					<DropdownMenuLabel className="text-sm">Filter by Max Rates</DropdownMenuLabel>
+					<DropdownMenuSeparator />
 
-				{/* Win Rate Filters */}
-				<div className="space-y-2 p-2">
-					<div className="text-xs font-medium text-muted-foreground">Win Rate</div>
-					<div className="flex flex-wrap gap-1">
-						{FILTER_PRESETS.win_rate.map((preset, index) => (
-							<Button
-								key={preset.label}
-								variant={activeFilters.win_rate === index ? "default" : "outline"}
-								size="sm"
-								className="h-7 text-xs"
-								onClick={() => handleFilterSelect("win_rate", index)}
-							>
-								{preset.label}
-							</Button>
-						))}
-					</div>
-				</div>
-
-				<DropdownMenuSeparator />
-
-				{/* Ban Rate Filters */}
-				<div className="space-y-2 p-2">
-					<div className="text-xs font-medium text-muted-foreground">Ban Rate</div>
-					<div className="flex flex-wrap gap-1">
-						{FILTER_PRESETS.ban_rate.map((preset, index) => (
-							<Button
-								key={preset.label}
-								variant={activeFilters.ban_rate === index ? "default" : "outline"}
-								size="sm"
-								className="h-7 text-xs"
-								onClick={() => handleFilterSelect("ban_rate", index)}
-							>
-								{preset.label}
-							</Button>
-						))}
-					</div>
-				</div>
-
-				<DropdownMenuSeparator />
-
-				{/* Pick Rate Filters */}
-				<div className="space-y-2 p-2">
-					<div className="text-xs font-medium text-muted-foreground">Pick Rate</div>
-					<div className="flex flex-wrap gap-1">
-						{FILTER_PRESETS.pick_rate.map((preset, index) => (
-							<Button
-								key={preset.label}
-								variant={activeFilters.pick_rate === index ? "default" : "outline"}
-								size="sm"
-								className="h-7 text-xs"
-								onClick={() => handleFilterSelect("pick_rate", index)}
-							>
-								{preset.label}
-							</Button>
-						))}
-					</div>
-				</div>
-
-				{hasActiveFilters && (
-					<>
-						<DropdownMenuSeparator />
-						<div className="p-2">
-							<Button
-								variant="ghost"
-								size="sm"
-								className="h-7 w-full text-xs"
-								onClick={() => {
-									setActiveFilters({ win_rate: 0, ban_rate: 0, pick_rate: 0 });
-									onFilterChange([]);
-								}}
-							>
-								Clear All Filters
-							</Button>
+					<div className="p-4 space-y-4">
+						{/* Win Rate Input */}
+						<div className="space-y-2">
+							<label htmlFor="win-rate-input" className="text-xs font-semibold text-foreground">
+								Win Rate (%)
+							</label>
+							<div className="flex gap-2">
+								<Input
+									id="win-rate-input"
+									type="number"
+									inputMode="decimal"
+									placeholder="e.g., 52 or 0.52"
+									value={inputValues.win_rate}
+									onChange={(e) => handleInputChange("win_rate", e.target.value)}
+									onKeyDown={(e) => {
+										if (e.key === "Enter") {
+											handleSetFilter("win_rate");
+										}
+									}}
+									className="h-9"
+									step="0.01"
+									min="0"
+									max="100"
+								/>
+								<Button
+									size="sm"
+									onClick={() => handleSetFilter("win_rate")}
+									disabled={
+										inputValues.win_rate === "" || inputValues.win_rate === activeValues.win_rate
+									}
+									className="h-9 px-4"
+								>
+									Set
+								</Button>
+							</div>
+							<p className="text-xs text-muted-foreground">Show heroes with ≤ this win rate</p>
 						</div>
-					</>
-				)}
-			</DropdownMenuContent>
-		</DropdownMenu>
+
+						<DropdownMenuSeparator />
+
+						{/* Ban Rate Input */}
+						<div className="space-y-2">
+							<label htmlFor="ban-rate-input" className="text-xs font-semibold text-foreground">
+								Ban Rate (%)
+							</label>
+							<div className="flex gap-2">
+								<Input
+									id="ban-rate-input"
+									type="number"
+									inputMode="decimal"
+									placeholder="e.g., 10 or 0.10"
+									value={inputValues.ban_rate}
+									onChange={(e) => handleInputChange("ban_rate", e.target.value)}
+									onKeyDown={(e) => {
+										if (e.key === "Enter") {
+											handleSetFilter("ban_rate");
+										}
+									}}
+									className="h-9"
+									step="0.01"
+									min="0"
+									max="100"
+								/>
+								<Button
+									size="sm"
+									onClick={() => handleSetFilter("ban_rate")}
+									disabled={
+										inputValues.ban_rate === "" || inputValues.ban_rate === activeValues.ban_rate
+									}
+									className="h-9 px-4"
+								>
+									Set
+								</Button>
+							</div>
+							<p className="text-xs text-muted-foreground">Show heroes with ≤ this ban rate</p>
+						</div>
+
+						<DropdownMenuSeparator />
+
+						{/* Pick Rate Input */}
+						<div className="space-y-2">
+							<label htmlFor="pick-rate-input" className="text-xs font-semibold text-foreground">
+								Pick Rate (%)
+							</label>
+							<div className="flex gap-2">
+								<Input
+									id="pick-rate-input"
+									type="number"
+									inputMode="decimal"
+									placeholder="e.g., 5 or 0.05"
+									value={inputValues.pick_rate}
+									onChange={(e) => handleInputChange("pick_rate", e.target.value)}
+									onKeyDown={(e) => {
+										if (e.key === "Enter") {
+											handleSetFilter("pick_rate");
+										}
+									}}
+									className="h-9"
+									step="0.01"
+									min="0"
+									max="100"
+								/>
+								<Button
+									size="sm"
+									onClick={() => handleSetFilter("pick_rate")}
+									disabled={
+										inputValues.pick_rate === "" || inputValues.pick_rate === activeValues.pick_rate
+									}
+									className="h-9 px-4"
+								>
+									Set
+								</Button>
+							</div>
+							<p className="text-xs text-muted-foreground">Show heroes with ≤ this pick rate</p>
+						</div>
+					</div>
+				</DropdownMenuContent>
+			</DropdownMenu>
+
+			{/* Active Filter Pills */}
+			{activeValues.win_rate !== "" && (
+				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
+					<span>Win Rate ≤ {activeValues.win_rate}%</span>
+					<button
+						onClick={() => handleClearFilter("win_rate")}
+						className="ml-1 rounded-full hover:bg-primary/20 p-0.5"
+					>
+						<X className="h-3 w-3" />
+					</button>
+				</div>
+			)}
+			{activeValues.ban_rate !== "" && (
+				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
+					<span>Ban Rate ≤ {activeValues.ban_rate}%</span>
+					<button
+						onClick={() => handleClearFilter("ban_rate")}
+						className="ml-1 rounded-full hover:bg-primary/20 p-0.5"
+					>
+						<X className="h-3 w-3" />
+					</button>
+				</div>
+			)}
+			{activeValues.pick_rate !== "" && (
+				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
+					<span>Pick Rate ≤ {activeValues.pick_rate}%</span>
+					<button
+						onClick={() => handleClearFilter("pick_rate")}
+						className="ml-1 rounded-full hover:bg-primary/20 p-0.5"
+					>
+						<X className="h-3 w-3" />
+					</button>
+				</div>
+			)}
+		</div>
 	);
 }
