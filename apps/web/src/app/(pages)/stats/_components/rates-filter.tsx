@@ -15,6 +15,8 @@ import { cn } from "@/lib/utils";
 
 export type RateFilterType = "win_rate" | "pick_rate" | "ban_rate";
 
+export type RateOperator = "lte" | "gte"; // less than or equal, greater than or equal
+
 export interface RateFilter {
 	type: RateFilterType;
 	label: string;
@@ -51,6 +53,28 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 		pick_rate: "",
 	});
 
+	// Operator states (lte = ≤, gte = ≥)
+	const [operators, setOperators] = useState<{
+		win_rate: RateOperator;
+		ban_rate: RateOperator;
+		pick_rate: RateOperator;
+	}>({
+		win_rate: "lte",
+		ban_rate: "lte",
+		pick_rate: "lte",
+	});
+
+	// Active operators (what's currently applied)
+	const [activeOperators, setActiveOperators] = useState<{
+		win_rate: RateOperator;
+		ban_rate: RateOperator;
+		pick_rate: RateOperator;
+	}>({
+		win_rate: "lte",
+		ban_rate: "lte",
+		pick_rate: "lte",
+	});
+
 	const handleInputChange = (type: RateFilterType, value: string) => {
 		// Only allow numbers and decimal point
 		if (value !== "" && !/^\d*\.?\d*$/.test(value)) {
@@ -61,12 +85,21 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 		setInputValues({ ...inputValues, [type]: value });
 	};
 
+	const toggleOperator = (type: RateFilterType) => {
+		setOperators({
+			...operators,
+			[type]: operators[type] === "lte" ? "gte" : "lte",
+		});
+	};
+
 	const handleSetFilter = (type: RateFilterType) => {
 		const value = inputValues[type];
 
-		// Update active values
+		// Update active values and operators
 		const newActiveValues = { ...activeValues, [type]: value };
+		const newActiveOperators = { ...activeOperators, [type]: operators[type] };
 		setActiveValues(newActiveValues);
+		setActiveOperators(newActiveOperators);
 
 		// Build filter array
 		const filters: RateFilter[] = [];
@@ -77,11 +110,14 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 				const numValue = Number(val);
 				// Convert percentage to decimal (e.g., 52 -> 0.52)
 				const decimalValue = numValue > 1 ? numValue / 100 : numValue;
+				const operator = newActiveOperators[rateType as RateFilterType];
+				const operatorSymbol = operator === "lte" ? "≤" : "≥";
 
 				filters.push({
 					type: rateType as RateFilterType,
-					label: `≤${numValue}%`,
-					max: decimalValue, // Filter to show values <= this
+					label: `${operatorSymbol}${numValue}%`,
+					// Use min for gte (>=), max for lte (<=)
+					...(operator === "lte" ? { max: decimalValue } : { min: decimalValue }),
 					sortBy: true, // Enable sorting for this column
 				});
 			}
@@ -101,6 +137,8 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 	const handleClearFilter = (type: RateFilterType) => {
 		setInputValues({ ...inputValues, [type]: "" });
 		setActiveValues({ ...activeValues, [type]: "" });
+		setOperators({ ...operators, [type]: "lte" }); // Reset to default
+		setActiveOperators({ ...activeOperators, [type]: "lte" });
 
 		// Rebuild filters without this type
 		const newActiveValues = { ...activeValues, [type]: "" };
@@ -110,11 +148,13 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 			if (val !== "" && !isNaN(Number(val))) {
 				const numValue = Number(val);
 				const decimalValue = numValue > 1 ? numValue / 100 : numValue;
+				const operator = activeOperators[rateType as RateFilterType];
+				const operatorSymbol = operator === "lte" ? "≤" : "≥";
 
 				filters.push({
 					type: rateType as RateFilterType,
-					label: `≤${numValue}%`,
-					max: decimalValue,
+					label: `${operatorSymbol}${numValue}%`,
+					...(operator === "lte" ? { max: decimalValue } : { min: decimalValue }),
 					sortBy: true,
 				});
 			}
@@ -151,8 +191,8 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 						</span>
 					</Button>
 				</DropdownMenuTrigger>
-				<DropdownMenuContent align="end" className="w-[280px]">
-					<DropdownMenuLabel className="text-sm">Filter by Max Rates</DropdownMenuLabel>
+				<DropdownMenuContent align="end" className="w-[320px]">
+					<DropdownMenuLabel className="text-sm">Filter by Rates</DropdownMenuLabel>
 					<DropdownMenuSeparator />
 
 					<div className="p-4 space-y-4">
@@ -174,23 +214,36 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 											handleSetFilter("win_rate");
 										}
 									}}
-									className="h-9"
+									className="h-9 flex-1"
 									step="0.01"
 									min="0"
 									max="100"
 								/>
 								<Button
+									variant="outline"
+									size="sm"
+									onClick={() => toggleOperator("win_rate")}
+									className="h-9 w-12 px-0 font-mono text-base"
+									title={operators.win_rate === "lte" ? "Less than or equal" : "Greater than or equal"}
+								>
+									{operators.win_rate === "lte" ? "≤" : "≥"}
+								</Button>
+								<Button
 									size="sm"
 									onClick={() => handleSetFilter("win_rate")}
 									disabled={
-										inputValues.win_rate === "" || inputValues.win_rate === activeValues.win_rate
+										inputValues.win_rate === "" ||
+										(inputValues.win_rate === activeValues.win_rate &&
+											operators.win_rate === activeOperators.win_rate)
 									}
 									className="h-9 px-4"
 								>
 									Set
 								</Button>
 							</div>
-							<p className="text-xs text-muted-foreground">Show heroes with ≤ this win rate</p>
+							<p className="text-xs text-muted-foreground">
+								Show heroes with {operators.win_rate === "lte" ? "≤" : "≥"} this win rate
+							</p>
 						</div>
 
 						<DropdownMenuSeparator />
@@ -213,23 +266,36 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 											handleSetFilter("ban_rate");
 										}
 									}}
-									className="h-9"
+									className="h-9 flex-1"
 									step="0.01"
 									min="0"
 									max="100"
 								/>
 								<Button
+									variant="outline"
+									size="sm"
+									onClick={() => toggleOperator("ban_rate")}
+									className="h-9 w-12 px-0 font-mono text-base"
+									title={operators.ban_rate === "lte" ? "Less than or equal" : "Greater than or equal"}
+								>
+									{operators.ban_rate === "lte" ? "≤" : "≥"}
+								</Button>
+								<Button
 									size="sm"
 									onClick={() => handleSetFilter("ban_rate")}
 									disabled={
-										inputValues.ban_rate === "" || inputValues.ban_rate === activeValues.ban_rate
+										inputValues.ban_rate === "" ||
+										(inputValues.ban_rate === activeValues.ban_rate &&
+											operators.ban_rate === activeOperators.ban_rate)
 									}
 									className="h-9 px-4"
 								>
 									Set
 								</Button>
 							</div>
-							<p className="text-xs text-muted-foreground">Show heroes with ≤ this ban rate</p>
+							<p className="text-xs text-muted-foreground">
+								Show heroes with {operators.ban_rate === "lte" ? "≤" : "≥"} this ban rate
+							</p>
 						</div>
 
 						<DropdownMenuSeparator />
@@ -252,23 +318,36 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 											handleSetFilter("pick_rate");
 										}
 									}}
-									className="h-9"
+									className="h-9 flex-1"
 									step="0.01"
 									min="0"
 									max="100"
 								/>
 								<Button
+									variant="outline"
+									size="sm"
+									onClick={() => toggleOperator("pick_rate")}
+									className="h-9 w-12 px-0 font-mono text-base"
+									title={operators.pick_rate === "lte" ? "Less than or equal" : "Greater than or equal"}
+								>
+									{operators.pick_rate === "lte" ? "≤" : "≥"}
+								</Button>
+								<Button
 									size="sm"
 									onClick={() => handleSetFilter("pick_rate")}
 									disabled={
-										inputValues.pick_rate === "" || inputValues.pick_rate === activeValues.pick_rate
+										inputValues.pick_rate === "" ||
+										(inputValues.pick_rate === activeValues.pick_rate &&
+											operators.pick_rate === activeOperators.pick_rate)
 									}
 									className="h-9 px-4"
 								>
 									Set
 								</Button>
 							</div>
-							<p className="text-xs text-muted-foreground">Show heroes with ≤ this pick rate</p>
+							<p className="text-xs text-muted-foreground">
+								Show heroes with {operators.pick_rate === "lte" ? "≤" : "≥"} this pick rate
+							</p>
 						</div>
 					</div>
 				</DropdownMenuContent>
@@ -277,7 +356,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 			{/* Active Filter Pills */}
 			{activeValues.win_rate !== "" && (
 				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
-					<span>Win Rate ≤ {activeValues.win_rate}%</span>
+					<span>
+						Win Rate {activeOperators.win_rate === "lte" ? "≤" : "≥"} {activeValues.win_rate}%
+					</span>
 					<button
 						onClick={() => handleClearFilter("win_rate")}
 						className="ml-1 rounded-full hover:bg-primary/20 p-0.5"
@@ -288,7 +369,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 			)}
 			{activeValues.ban_rate !== "" && (
 				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
-					<span>Ban Rate ≤ {activeValues.ban_rate}%</span>
+					<span>
+						Ban Rate {activeOperators.ban_rate === "lte" ? "≤" : "≥"} {activeValues.ban_rate}%
+					</span>
 					<button
 						onClick={() => handleClearFilter("ban_rate")}
 						className="ml-1 rounded-full hover:bg-primary/20 p-0.5"
@@ -299,7 +382,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 			)}
 			{activeValues.pick_rate !== "" && (
 				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
-					<span>Pick Rate ≤ {activeValues.pick_rate}%</span>
+					<span>
+						Pick Rate {activeOperators.pick_rate === "lte" ? "≤" : "≥"} {activeValues.pick_rate}%
+					</span>
 					<button
 						onClick={() => handleClearFilter("pick_rate")}
 						className="ml-1 rounded-full hover:bg-primary/20 p-0.5"
