@@ -8,6 +8,8 @@ import { makeUrl } from "@/lib/utils.api";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { UpdatedAtLabel } from "../(landing)/_utils";
 
+export const dynamic = "force-dynamic";
+
 async function StatsContent() {
 	const rank = "glory"; // TODO
 	// fetch real data
