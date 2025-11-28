@@ -285,11 +285,22 @@ export function DataTable({ columns, data }: DataTableProps) {
 			{/* Pagination */}
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
 				<div className="text-sm text-muted-foreground">
-					Showing{" "}
-					<span className="font-medium text-foreground">
-						{table.getFilteredRowModel().rows.length}
-					</span>{" "}
-					of <span className="font-medium text-foreground">{data.length}</span> heroes
+					{(() => {
+						const { pageIndex, pageSize } = table.getState().pagination;
+						const totalRows = table.getFilteredRowModel().rows.length;
+						const startRow = totalRows === 0 ? 0 : pageIndex * pageSize + 1;
+						const endRow = Math.min((pageIndex + 1) * pageSize, totalRows);
+
+						return (
+							<>
+								Showing{" "}
+								<span className="font-medium text-foreground">
+									{startRow}-{endRow}
+								</span>{" "}
+								of <span className="font-medium text-foreground">{totalRows}</span> heroes
+							</>
+						);
+					})()}
 				</div>
 				<div className="flex items-center gap-2">
 					<Button

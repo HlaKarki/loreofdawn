@@ -1,5 +1,4 @@
 import { Suspense } from "react";
-import { mockHeroStats } from "@/lib/mock-hero-stats";
 import { DataTable } from "./_components/data-table";
 import { columns } from "./_components/columns";
 import { TABLE_CONFIG } from "./_config/table-styles";

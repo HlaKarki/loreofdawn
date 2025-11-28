@@ -196,10 +196,18 @@ heroesRouter.delete("/:name", async (c) => {
 
 heroesRouter.get("/table", async (c) => {
 	const { rank } = c.req.query();
+	const cacheKey = `${cv}:heroes:table:${rank.toLowerCase()}`;
 
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
-	const heroService = new HeroService(db, c.env.KV);
+	const payload = await cacheKvLayer.tryFetch(
+		c,
+		cacheKey,
+		async () => {
+			const heroService = new HeroService(db, c.env.KV);
+			return await heroService.getTableData(rank);
+		},
+		{ ttlSeconds: 60 * 30 },
+	);
 
-	const data = await heroService.getTableData(rank);
-	return c.json(data);
+	return c.json(payload);
 });
