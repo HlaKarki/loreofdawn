@@ -54,7 +54,7 @@ const RATES_SIZE = 98;
 export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 	{
 		id: "index",
-		header: () => <div className="text-center text-xs font-semibold sm:text-sm">#</div>,
+		header: () => <div className="text-center select-none text-xs font-semibold sm:text-sm">#</div>,
 		cell: ({ row, table }) => {
 			// Get index within current page's visible rows (1-based)
 			const rows = table.getRowModel().rows;
@@ -73,7 +73,9 @@ export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 		id: "profile.name",
 		accessorKey: "profile.name",
 		// header: ({ column }) => <SortableHeader column={column}>Hero</SortableHeader>,
-		header: () => <div className="text-center text-xs font-semibold sm:text-sm">Hero</div>,
+		header: () => (
+			<div className="text-center select-none text-xs font-semibold sm:text-sm">Hero</div>
+		),
 		cell: ({ row }) => {
 			const name = row.original.profile.name;
 			const avatarUrl = resolveImageSrc(

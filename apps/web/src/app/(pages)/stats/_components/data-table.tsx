@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useMemo, useCallback } from "react";
 import {
 	type ColumnDef,
 	type ColumnFiltersState,
@@ -41,13 +41,18 @@ import {
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { Search, Settings2 } from "lucide-react";
 import { cn, tidyLabel } from "@/lib/utils";
+import { RatesFilter, type RateFilter } from "./rates-filter";
+import { DensityToggle, type TableDensity, getDensityClasses } from "./density-toggle";
+import { ExportCsv } from "./export-csv";
+import { FilterPresets, type FilterPreset } from "./filter-presets";
 
 interface DataTableProps {
 	columns: ColumnDef<ConsolidatedHeroOptional>[];
 	data: ConsolidatedHeroOptional[];
+	rank: string;
 }
 
-export function DataTable({ columns, data }: DataTableProps) {
+export function DataTable({ columns, data, rank }: DataTableProps) {
 	const [sorting, setSorting] = useState<SortingState>([
 		{
 			id: "meta.ban_rate",
@@ -60,9 +65,42 @@ export function DataTable({ columns, data }: DataTableProps) {
 		// Hide difficulty by default
 		difficulty: false,
 	});
+	const [rateFilters, setRateFilters] = useState<RateFilter[]>([]);
+	const [density, setDensity] = useState<TableDensity>("normal");
+	const [selectedRole, setSelectedRole] = useState<string | undefined>(undefined);
+	const [selectedLane, setSelectedLane] = useState<string | undefined>(undefined);
+
+	// Get density-based classes
+	const densityClasses = getDensityClasses(density);
+
+	// Apply rate filters to data - MEMOIZED to prevent infinite loops
+	const filteredData = useMemo(() => {
+		// If no rate filters, return original data
+		if (rateFilters.length === 0) return data;
+
+		// Filter data based on rate filters
+		return data.filter((hero) => {
+			// Check all active filters - hero must pass all of them
+			return rateFilters.every((filter) => {
+				const value = hero.meta[filter.type];
+
+				// Check min condition
+				if (filter.min !== undefined && value < filter.min) {
+					return false;
+				}
+
+				// Check max condition
+				if (filter.max !== undefined && value > filter.max) {
+					return false;
+				}
+
+				return true;
+			});
+		});
+	}, [data, rateFilters]);
 
 	const table = useReactTable({
-		data,
+		data: filteredData,
 		columns,
 		getCoreRowModel: getCoreRowModel(),
 		getPaginationRowModel: getPaginationRowModel(),
@@ -80,14 +118,50 @@ export function DataTable({ columns, data }: DataTableProps) {
 		},
 		initialState: {
 			pagination: {
-				pageSize: 20,
+				pageSize: 10,
 			},
 		},
 	});
 
-	// Extract unique roles and lanes for filters
-	const roles = Array.from(new Set(data.map((h) => h.profile.roles[0]?.title).filter(Boolean)));
-	const lanes = Array.from(new Set(data.map((h) => h.profile.lanes[0]?.title).filter(Boolean)));
+	// Extract unique roles and lanes for filters - MEMOIZED
+	const roles = useMemo(
+		() => Array.from(new Set(data.map((h) => h.profile.roles[0]?.title).filter(Boolean))),
+		[data],
+	);
+	const lanes = useMemo(
+		() => Array.from(new Set(data.map((h) => h.profile.lanes[0]?.title).filter(Boolean))),
+		[data],
+	);
+
+	// Handle loading a preset - AFTER table is created
+	const handleLoadPreset = useCallback(
+		(preset: FilterPreset) => {
+			// Apply role filter
+			if (preset.filters.role) {
+				setSelectedRole(preset.filters.role);
+				table.getColumn("role")?.setFilterValue([preset.filters.role]);
+			} else {
+				setSelectedRole(undefined);
+				table.getColumn("role")?.setFilterValue(undefined);
+			}
+
+			// Apply lane filter
+			if (preset.filters.lane) {
+				setSelectedLane(preset.filters.lane);
+				table.getColumn("lane")?.setFilterValue([preset.filters.lane]);
+			} else {
+				setSelectedLane(undefined);
+				table.getColumn("lane")?.setFilterValue(undefined);
+			}
+
+			// Apply rate filters
+			setRateFilters(preset.filters.rateFilters);
+
+			// Apply global filter (search)
+			setGlobalFilter(preset.filters.globalFilter);
+		},
+		[table],
+	);
 
 	return (
 		<div className="w-full max-w-full space-y-4 overflow-x-hidden">
@@ -108,10 +182,13 @@ export function DataTable({ columns, data }: DataTableProps) {
 				<div className="flex flex-wrap gap-2">
 					{/* Role Filter */}
 					<Select
+						value={selectedRole || "all"}
 						onValueChange={(value) => {
 							if (value === "all") {
+								setSelectedRole(undefined);
 								table.getColumn("role")?.setFilterValue(undefined);
 							} else {
+								setSelectedRole(value);
 								table.getColumn("role")?.setFilterValue([value]);
 							}
 						}}
@@ -131,10 +208,13 @@ export function DataTable({ columns, data }: DataTableProps) {
 
 					{/* Lane Filter */}
 					<Select
+						value={selectedLane || "all"}
 						onValueChange={(value) => {
 							if (value === "all") {
+								setSelectedLane(undefined);
 								table.getColumn("lane")?.setFilterValue(undefined);
 							} else {
+								setSelectedLane(value);
 								table.getColumn("lane")?.setFilterValue([value]);
 							}
 						}}
@@ -151,6 +231,29 @@ export function DataTable({ columns, data }: DataTableProps) {
 							))}
 						</SelectContent>
 					</Select>
+
+					{/* Rates Filter */}
+					<RatesFilter onFilterChange={setRateFilters} />
+
+					{/* Density Toggle */}
+					<DensityToggle density={density} onDensityChange={setDensity} />
+
+					{/* Export CSV - exports currently visible filtered data */}
+					<ExportCsv
+						data={table.getFilteredRowModel().rows.map((row) => row.original)}
+						rank={rank}
+					/>
+
+					{/* Filter Presets */}
+					<FilterPresets
+						currentFilters={{
+							role: selectedRole,
+							lane: selectedLane,
+							rateFilters,
+							globalFilter,
+						}}
+						onLoadPreset={handleLoadPreset}
+					/>
 
 					{/* Column Visibility Toggle */}
 					<DropdownMenu>
@@ -216,7 +319,8 @@ export function DataTable({ columns, data }: DataTableProps) {
 											key={header.id}
 											className={cn(
 												"bg-muted font-semibold whitespace-nowrap",
-												"px-1 py-0 sm:px-3 h-fit",
+												densityClasses.header,
+												"h-fit",
 												// Sticky first 2 columns - same bg but solid to hide content
 												headerIndex === 0 && "sticky left-0 z-20",
 												headerIndex === 1 && "sticky left-[39.5px] z-20",
@@ -249,7 +353,8 @@ export function DataTable({ columns, data }: DataTableProps) {
 											<TableCell
 												key={cell.id}
 												className={cn(
-													"px-1 py-1 sm:px-3 bg-inherit",
+													densityClasses.cell,
+													"bg-inherit",
 													// Sticky first 2 columns
 													cellIndex === 0 && "sticky left-0 z-10",
 													cellIndex === 1 && "sticky left-[40px] z-10",
@@ -285,23 +390,46 @@ export function DataTable({ columns, data }: DataTableProps) {
 
 			{/* Pagination */}
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-				<div className="text-sm text-muted-foreground">
-					{(() => {
-						const { pageIndex, pageSize } = table.getState().pagination;
-						const totalRows = table.getFilteredRowModel().rows.length;
-						const startRow = totalRows === 0 ? 0 : pageIndex * pageSize + 1;
-						const endRow = Math.min((pageIndex + 1) * pageSize, totalRows);
+				<div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:gap-4">
+					<div className="text-sm text-muted-foreground">
+						{(() => {
+							const { pageIndex, pageSize } = table.getState().pagination;
+							const totalRows = table.getFilteredRowModel().rows.length;
+							const startRow = totalRows === 0 ? 0 : pageIndex * pageSize + 1;
+							const endRow = Math.min((pageIndex + 1) * pageSize, totalRows);
 
-						return (
-							<>
-								Showing{" "}
-								<span className="font-medium text-foreground">
-									{startRow}-{endRow}
-								</span>{" "}
-								of <span className="font-medium text-foreground">{totalRows}</span> heroes
-							</>
-						);
-					})()}
+							return (
+								<>
+									Showing{" "}
+									<span className="font-medium text-foreground">
+										{startRow}-{endRow}
+									</span>{" "}
+									of <span className="font-medium text-foreground">{totalRows}</span> heroes
+								</>
+							);
+						})()}
+					</div>
+					{/* Page Size Selector */}
+					<div className="flex items-center gap-2">
+						<span className="text-sm text-muted-foreground">Show</span>
+						<Select
+							value={String(table.getState().pagination.pageSize)}
+							onValueChange={(value) => {
+								table.setPageSize(Number(value));
+							}}
+						>
+							<SelectTrigger className="h-9 w-[70px]">
+								<SelectValue />
+							</SelectTrigger>
+							<SelectContent>
+								<SelectItem value="10">10</SelectItem>
+								<SelectItem value="25">25</SelectItem>
+								<SelectItem value="50">50</SelectItem>
+								<SelectItem value="100">100</SelectItem>
+								<SelectItem value={String(data.length)}>All</SelectItem>
+							</SelectContent>
+						</Select>
+					</div>
 				</div>
 				<div className="flex items-center gap-2">
 					<Button

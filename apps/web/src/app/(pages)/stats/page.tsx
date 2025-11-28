@@ -6,11 +6,11 @@ import { TableSkeleton } from "./_components/table-skeleton";
 import { makeUrl } from "@/lib/utils.api";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { UpdatedAtLabel } from "../(landing)/_utils";
+import { RankSelector } from "./_components/rank-selector";
 
 export const dynamic = "force-dynamic";
 
-async function StatsContent() {
-	const rank = "glory"; // TODO
+async function StatsContent({ rank }: { rank: string }) {
 	// fetch real data
 	const tableDataResponse = await fetch(makeUrl(`/v1/heroes/table?rank=${rank}`));
 	const tableData = (await tableDataResponse.json()) as ConsolidatedHeroOptional[];
@@ -33,9 +33,12 @@ async function StatsContent() {
 		<>
 			{/* Header */}
 			<header className="flex flex-col gap-2">
-				<h1 className="text-2xl font-semibold tracking-tight sm:text-3xl md:text-4xl">
-					Hero Statistics Dashboard
-				</h1>
+				<div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+					<h1 className="text-2xl font-semibold tracking-tight sm:text-3xl md:text-4xl">
+						Hero Statistics Dashboard
+					</h1>
+					<RankSelector />
+				</div>
 				<UpdatedAtLabel date={tableData[0].meta.updatedAt} />
 			</header>
 
@@ -91,17 +94,24 @@ async function StatsContent() {
 						Click "View" to see detailed stats and matchups
 					</p>
 				</div>
-				<DataTable columns={columns} data={tableData} />
+				<DataTable columns={columns} data={tableData} rank={rank} />
 			</div>
 		</>
 	);
 }
 
-export default function StatsPage() {
+export default async function StatsPage({
+	searchParams,
+}: {
+	searchParams: Promise<{ rank?: string }>;
+}) {
+	const params = await searchParams;
+	const rank = params.rank || "glory";
+
 	return (
 		<div className="mx-auto flex w-screen max-w-full flex-col gap-6 overflow-x-hidden px-3 pb-12 pt-4 sm:gap-8 sm:px-4 sm:pb-16 sm:pt-6 lg:max-w-7xl lg:px-8">
 			<Suspense fallback={<TableSkeleton />}>
-				<StatsContent />
+				<StatsContent rank={rank} />
 			</Suspense>
 		</div>
 	);
