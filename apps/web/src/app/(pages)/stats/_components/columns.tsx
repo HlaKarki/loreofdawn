@@ -24,8 +24,8 @@ const SortableHeader = ({ column, children }: { column: any; children: React.Rea
 		<div
 			className={cn(
 				"relative flex items-center gap-2 cursor-pointer select-none hover:text-foreground",
-				"justify-center border-l-4 border-transparent",
-				isSorted && "border-l-4 rounded-l-xs border-primary text-primary",
+				"justify-center border-l-4 border-transparent py-2",
+				isSorted && "border-l-4  border-primary text-primary",
 				TABLE_CONFIG.typography.header,
 			)}
 			onClick={() => column.toggleSorting(column.getIsSorted() === "asc")}
@@ -47,9 +47,9 @@ const SortableHeader = ({ column, children }: { column: any; children: React.Rea
 	);
 };
 
-const INDEX_SIZE = 10;
-const HERO_SIZE = 40;
-const RATES_SIZE = 38;
+const INDEX_SIZE = 40;
+const HERO_SIZE = 60;
+const RATES_SIZE = 98;
 
 export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 	{
@@ -72,7 +72,8 @@ export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 	{
 		id: "profile.name",
 		accessorKey: "profile.name",
-		header: ({ column }) => <SortableHeader column={column}>Hero</SortableHeader>,
+		// header: ({ column }) => <SortableHeader column={column}>Hero</SortableHeader>,
+		header: () => <div className="text-center text-xs font-semibold sm:text-sm">Hero</div>,
 		cell: ({ row }) => {
 			const name = row.original.profile.name;
 			const avatarUrl = resolveImageSrc(
@@ -236,5 +237,6 @@ export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 				</div>
 			);
 		},
+		size: RATES_SIZE,
 	},
 ];
