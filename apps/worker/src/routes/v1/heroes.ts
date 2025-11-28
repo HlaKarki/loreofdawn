@@ -193,3 +193,13 @@ heroesRouter.delete("/:name", async (c) => {
 
 	return c.json({ success: true, message: `Cache deleted for ${name}` });
 });
+
+heroesRouter.get("/table", async (c) => {
+	const { rank } = c.req.query();
+
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+	const heroService = new HeroService(db, c.env.KV);
+
+	const data = await heroService.getTableData(rank);
+	return c.json(data);
+});

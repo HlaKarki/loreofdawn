@@ -8,6 +8,7 @@ import {
 	heroRolesEnum,
 	StatsByRolesType,
 	MlMetaSummary,
+	ConsolidatedHeroOptional,
 } from "@repo/database";
 import { and, eq, ilike, sql, desc, asc } from "drizzle-orm";
 import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
@@ -323,10 +324,16 @@ export class HeroService {
 	/**
 	 * Get all assets related to a data
 	 */
-	async getHeroAssets(name: string): Promise<{ images: HeroAssets }> {
+	async getHeroAssets(name: string): Promise<{
+		images: HeroAssets;
+		lanes: { icon: string; title: string }[];
+		roles: { icon: string; title: string }[];
+	}> {
 		const [assets] = await this.db
 			.select({
 				images: heroProfileTable.images,
+				lanes: heroProfileTable.lanes,
+				roles: heroProfileTable.roles,
 			})
 			.from(heroProfileTable)
 			.where(ilike(heroProfileTable.name, name))
@@ -370,5 +377,25 @@ export class HeroService {
 					.from(heroMetaDataTable)
 					.where(and(ilike(heroMetaDataTable.name, name), eq(heroMetaDataTable.rank, rank)));
 		}
+	}
+
+	/**
+	 * Get full table data
+	 * Includes hero_profiles and hero_metas
+	 */
+	async getTableData(rank: string = "overall") {
+		return await this.db
+			.select({
+				profile: heroProfileTable,
+				meta: heroMetaDataTable,
+			})
+			.from(heroProfileTable)
+			.leftJoin(
+				heroMetaDataTable,
+				and(
+					ilike(heroProfileTable.name, heroMetaDataTable.name),
+					ilike(heroMetaDataTable.rank, rank),
+				),
+			);
 	}
 }
