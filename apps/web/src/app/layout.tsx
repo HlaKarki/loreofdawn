@@ -28,14 +28,14 @@ export default function RootLayout({
 	children: React.ReactNode;
 }>) {
 	return (
-		<html lang="en" suppressHydrationWarning>
+		<html lang="en" suppressHydrationWarning className="overflow-x-hidden">
 			<Script defer src={"https://assets.onedollarstats.com/stonks.js"} />
-			<body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+			<body className={`${geistSans.variable} ${geistMono.variable} antialiased overflow-x-hidden`}>
 				<NuqsAdapter>
 					<Providers>
-						<div className="grid grid-rows-[auto_1fr_auto] h-svh">
+						<div className="grid grid-rows-[auto_1fr_auto] h-svh overflow-x-hidden">
 							<Header />
-							<main className={"pt-25"}>{children}</main>
+							<main className="overflow-x-hidden pt-25">{children}</main>
 							<AiChat />
 							<Footer />
 						</div>

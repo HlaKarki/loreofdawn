@@ -97,7 +97,7 @@ async function StatsContent() {
 
 export default function StatsPage() {
 	return (
-		<div className="mx-auto flex w-full max-w-7xl flex-col gap-6 px-3 pb-12 pt-4 sm:gap-8 sm:px-4 sm:pb-16 sm:pt-6 lg:px-8">
+		<div className="mx-auto flex w-screen max-w-full flex-col gap-6 overflow-x-hidden px-3 pb-12 pt-4 sm:gap-8 sm:px-4 sm:pb-16 sm:pt-6 lg:max-w-7xl lg:px-8">
 			<Suspense fallback={<TableSkeleton />}>
 				<StatsContent />
 			</Suspense>

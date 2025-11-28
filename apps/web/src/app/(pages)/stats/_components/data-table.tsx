@@ -90,7 +90,7 @@ export function DataTable({ columns, data }: DataTableProps) {
 	const lanes = Array.from(new Set(data.map((h) => h.profile.lanes[0]?.title).filter(Boolean)));
 
 	return (
-		<div className="space-y-4">
+		<div className="w-full max-w-full space-y-4 overflow-x-hidden">
 			{/* Filters and Column Visibility */}
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
 				{/* Search */}
@@ -205,18 +205,21 @@ export function DataTable({ columns, data }: DataTableProps) {
 			</div>
 
 			{/* Table */}
-			<div className="overflow-hidden rounded-lg border bg-card shadow-sm">
-				<div className="overflow-x-auto">
-					<Table>
+			<div className="w-full overflow-hidden rounded-lg border bg-card shadow-sm">
+				<div className="w-full overflow-x-auto">
+					<Table className="min-w-[800px]">
 						<TableHeader>
 							{table.getHeaderGroups().map((headerGroup) => (
 								<TableRow key={headerGroup.id} className="hover:bg-transparent">
-									{headerGroup.headers.map((header) => (
+									{headerGroup.headers.map((header, headerIndex) => (
 										<TableHead
 											key={header.id}
 											className={cn(
 												"bg-muted/50 font-semibold whitespace-nowrap",
 												"px-2 py-2 sm:px-3",
+												// Sticky first 2 columns - same bg but solid to hide content
+												headerIndex === 0 && "sticky left-0 z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+												headerIndex === 1 && "sticky left-[40px] z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
 											)}
 											style={{
 												...(header.column.columnDef.size && {
@@ -236,12 +239,17 @@ export function DataTable({ columns, data }: DataTableProps) {
 						</TableHeader>
 						<TableBody>
 							{table.getRowModel().rows?.length ? (
-								table.getRowModel().rows.map((row, index) => (
-									<TableRow key={row.id} className={cn("transition-colors", "hover:bg-muted/30")}>
-										{row.getVisibleCells().map((cell) => (
+								table.getRowModel().rows.map((row, rowIndex) => (
+									<TableRow key={row.id} className="transition-colors hover:bg-muted/30">
+										{row.getVisibleCells().map((cell, cellIndex) => (
 											<TableCell
 												key={cell.id}
-												className="px-2 py-1 sm:px-3"
+												className={cn(
+													"px-2 py-1 sm:px-3",
+													// Sticky first 2 columns - solid background to hide scrolling content
+													cellIndex === 0 && "sticky left-0 z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+													cellIndex === 1 && "sticky left-[40px] z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+												)}
 												style={{
 													...(cell.column.columnDef.size && {
 														width: `${cell.column.getSize()}px`,
