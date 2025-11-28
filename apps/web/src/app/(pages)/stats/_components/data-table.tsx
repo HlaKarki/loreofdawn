@@ -206,7 +206,7 @@ export function DataTable({ columns, data }: DataTableProps) {
 
 			{/* Table */}
 			<div className="w-full overflow-hidden rounded-lg border bg-card shadow-sm">
-				<div className="w-full overflow-x-auto">
+				<div className="w-full overflow-x-auto overscroll-x-none">
 					<Table className="min-w-[800px]">
 						<TableHeader>
 							{table.getHeaderGroups().map((headerGroup) => (
@@ -216,15 +216,18 @@ export function DataTable({ columns, data }: DataTableProps) {
 											key={header.id}
 											className={cn(
 												"bg-muted/50 font-semibold whitespace-nowrap",
-												"px-2 py-2 sm:px-3",
+												"px-1 py-2 sm:px-3",
 												// Sticky first 2 columns - same bg but solid to hide content
-												headerIndex === 0 && "sticky left-0 z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
-												headerIndex === 1 && "sticky left-[40px] z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+												headerIndex === 0 &&
+													"sticky left-0 z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+												headerIndex === 1 &&
+													"sticky left-[40px] z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
 											)}
 											style={{
 												...(header.column.columnDef.size && {
+													// Desktop: enforce exact width
 													width: `${header.getSize()}px`,
-													minWidth: `${header.getSize()}px`,
+													// Mobile: only maxWidth, let it shrink
 													maxWidth: `${header.getSize()}px`,
 												}),
 											}}
@@ -245,15 +248,18 @@ export function DataTable({ columns, data }: DataTableProps) {
 											<TableCell
 												key={cell.id}
 												className={cn(
-													"px-2 py-1 sm:px-3",
+													"px-1 py-1 sm:px-3",
 													// Sticky first 2 columns - solid background to hide scrolling content
-													cellIndex === 0 && "sticky left-0 z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
-													cellIndex === 1 && "sticky left-[40px] z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+													cellIndex === 0 &&
+														"sticky left-0 z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+													cellIndex === 1 &&
+														"sticky left-[40px] z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
 												)}
 												style={{
 													...(cell.column.columnDef.size && {
+														// Desktop: enforce exact width
 														width: `${cell.column.getSize()}px`,
-														minWidth: `${cell.column.getSize()}px`,
+														// Mobile: only maxWidth, let it shrink
 														maxWidth: `${cell.column.getSize()}px`,
 													}),
 												}}

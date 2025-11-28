@@ -9,8 +9,9 @@ import type { ConsolidatedHeroOptional } from "@repo/database";
 import { UpdatedAtLabel } from "../(landing)/_utils";
 
 async function StatsContent() {
+	const rank = "glory"; // TODO
 	// fetch real data
-	const tableDataResponse = await fetch(makeUrl("/v1/heroes/table"));
+	const tableDataResponse = await fetch(makeUrl(`/v1/heroes/table?rank=${rank}`));
 	const tableData = (await tableDataResponse.json()) as ConsolidatedHeroOptional[];
 
 	// Calculate overview stats using centralized config

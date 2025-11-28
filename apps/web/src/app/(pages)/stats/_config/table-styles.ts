@@ -37,12 +37,12 @@ export const TABLE_CONFIG = {
 		},
 	},
 
-	// Typography
+	// Typography (responsive)
 	typography: {
-		header: "text-sm font-semibold",
-		cellDefault: "text-sm",
-		cellEmphasis: "text-sm font-semibold",
-		cellMuted: "text-sm text-muted-foreground",
+		header: "text-xs sm:text-sm font-semibold",
+		cellDefault: "text-xs sm:text-sm",
+		cellEmphasis: "text-xs sm:text-sm font-semibold",
+		cellMuted: "text-xs sm:text-sm text-muted-foreground",
 	},
 
 	// Spacing & Layout
