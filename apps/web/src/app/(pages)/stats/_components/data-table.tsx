@@ -241,17 +241,18 @@ export function DataTable({ columns, data }: DataTableProps) {
 						<TableBody>
 							{table.getRowModel().rows?.length ? (
 								table.getRowModel().rows.map((row, rowIndex) => (
-									<TableRow key={row.id} className="transition-colors hover:bg-muted/30">
+									<TableRow
+										key={row.id}
+										className="bg-primary-foreground transition-colors hover:bg-muted/30"
+									>
 										{row.getVisibleCells().map((cell, cellIndex) => (
 											<TableCell
 												key={cell.id}
 												className={cn(
-													"px-1 py-1 sm:px-3",
-													// Sticky first 2 columns - solid background to hide scrolling content
-													cellIndex === 0 &&
-														"sticky left-0 z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
-													cellIndex === 1 &&
-														"sticky left-[40px] z-10 !bg-card shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+													"px-1 py-1 sm:px-3 bg-inherit",
+													// Sticky first 2 columns
+													cellIndex === 0 && "sticky left-0 z-10",
+													cellIndex === 1 && "sticky left-[40px] z-10",
 												)}
 												style={{
 													...(cell.column.columnDef.size && {
