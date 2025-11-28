@@ -228,7 +228,19 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 								>
 									{operators.win_rate === "lte" ? "≤" : "≥"}
 								</Button>
-								{activeValues.win_rate !== "" ? (
+								<Button
+									size="sm"
+									onClick={() => handleSetFilter("win_rate")}
+									disabled={
+										inputValues.win_rate === "" ||
+										(inputValues.win_rate === activeValues.win_rate &&
+											operators.win_rate === activeOperators.win_rate)
+									}
+									className="h-9 px-3"
+								>
+									Set
+								</Button>
+								{activeValues.win_rate !== "" && (
 									<Button
 										variant="outline"
 										size="sm"
@@ -236,19 +248,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 										className="h-9 px-3"
 									>
 										Clear
-									</Button>
-								) : (
-									<Button
-										size="sm"
-										onClick={() => handleSetFilter("win_rate")}
-										disabled={
-											inputValues.win_rate === "" ||
-											(inputValues.win_rate === activeValues.win_rate &&
-												operators.win_rate === activeOperators.win_rate)
-										}
-										className="h-9 px-4"
-									>
-										Set
 									</Button>
 								)}
 							</div>
@@ -291,7 +290,19 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 								>
 									{operators.ban_rate === "lte" ? "≤" : "≥"}
 								</Button>
-								{activeValues.ban_rate !== "" ? (
+								<Button
+									size="sm"
+									onClick={() => handleSetFilter("ban_rate")}
+									disabled={
+										inputValues.ban_rate === "" ||
+										(inputValues.ban_rate === activeValues.ban_rate &&
+											operators.ban_rate === activeOperators.ban_rate)
+									}
+									className="h-9 px-3"
+								>
+									Set
+								</Button>
+								{activeValues.ban_rate !== "" && (
 									<Button
 										variant="outline"
 										size="sm"
@@ -299,19 +310,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 										className="h-9 px-3"
 									>
 										Clear
-									</Button>
-								) : (
-									<Button
-										size="sm"
-										onClick={() => handleSetFilter("ban_rate")}
-										disabled={
-											inputValues.ban_rate === "" ||
-											(inputValues.ban_rate === activeValues.ban_rate &&
-												operators.ban_rate === activeOperators.ban_rate)
-										}
-										className="h-9 px-4"
-									>
-										Set
 									</Button>
 								)}
 							</div>
@@ -354,7 +352,19 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 								>
 									{operators.pick_rate === "lte" ? "≤" : "≥"}
 								</Button>
-								{activeValues.pick_rate !== "" ? (
+								<Button
+									size="sm"
+									onClick={() => handleSetFilter("pick_rate")}
+									disabled={
+										inputValues.pick_rate === "" ||
+										(inputValues.pick_rate === activeValues.pick_rate &&
+											operators.pick_rate === activeOperators.pick_rate)
+									}
+									className="h-9 px-3"
+								>
+									Set
+								</Button>
+								{activeValues.pick_rate !== "" && (
 									<Button
 										variant="outline"
 										size="sm"
@@ -362,19 +372,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 										className="h-9 px-3"
 									>
 										Clear
-									</Button>
-								) : (
-									<Button
-										size="sm"
-										onClick={() => handleSetFilter("pick_rate")}
-										disabled={
-											inputValues.pick_rate === "" ||
-											(inputValues.pick_rate === activeValues.pick_rate &&
-												operators.pick_rate === activeOperators.pick_rate)
-										}
-										className="h-9 px-4"
-									>
-										Set
 									</Button>
 								)}
 							</div>
