@@ -55,7 +55,7 @@ async function StatsContent() {
 					</div>
 					<div className="mt-0.5 text-[10px] text-muted-foreground sm:mt-1 sm:text-xs">
 						{TABLE_CONFIG.overview.balancedHeroes.min * 100}-
-						{TABLE_CONFIG.overview.balancedHeroes.max * 100}% WR
+						{TABLE_CONFIG.overview.balancedHeroes.max * 100}% Win Rate
 					</div>
 				</div>
 				<div className="rounded-lg border bg-card p-3 transition-colors hover:bg-accent/5 sm:p-4">
@@ -66,7 +66,7 @@ async function StatsContent() {
 						{metaKings}
 					</div>
 					<div className="mt-0.5 text-[10px] text-muted-foreground sm:mt-1 sm:text-xs">
-						&gt;{TABLE_CONFIG.overview.metaKings.min * 100}% BR
+						&gt;{TABLE_CONFIG.overview.metaKings.min * 100}% Ban Rate
 					</div>
 				</div>
 				<div className="rounded-lg border bg-card p-3 transition-colors hover:bg-accent/5 sm:p-4">
@@ -77,7 +77,7 @@ async function StatsContent() {
 						{forgottenHeroes}
 					</div>
 					<div className="mt-0.5 text-[10px] text-muted-foreground sm:mt-1 sm:text-xs">
-						&lt;{TABLE_CONFIG.overview.forgottenHeroes.max * 100}% Pick
+						&lt;{TABLE_CONFIG.overview.forgottenHeroes.max * 100}% Pick Rate
 					</div>
 				</div>
 			</div>

@@ -215,13 +215,11 @@ export function DataTable({ columns, data }: DataTableProps) {
 										<TableHead
 											key={header.id}
 											className={cn(
-												"bg-muted/50 font-semibold whitespace-nowrap",
+												"bg-muted font-semibold whitespace-nowrap",
 												"px-1 py-0 sm:px-3 h-fit",
 												// Sticky first 2 columns - same bg but solid to hide content
-												headerIndex === 0 &&
-													"sticky left-0 z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
-												headerIndex === 1 &&
-													"sticky left-[40px] z-20 !bg-muted shadow-[2px_0_4px_rgba(0,0,0,0.1)]",
+												headerIndex === 0 && "sticky left-0 z-20",
+												headerIndex === 1 && "sticky left-[39.5px] z-20",
 											)}
 											style={{
 												...(header.column.columnDef.size && {
