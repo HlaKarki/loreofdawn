@@ -1,6 +1,5 @@
 import { Suspense } from "react";
 import { DataTable } from "./_components/data-table";
-import { columns } from "./_components/columns";
 import { TABLE_CONFIG } from "./_config/table-styles";
 import { TableSkeleton } from "./_components/table-skeleton";
 import { makeUrl } from "@/lib/utils.api";
@@ -88,13 +87,7 @@ async function StatsContent({ rank }: { rank: string }) {
 
 			{/* Full Hero Table */}
 			<div className="space-y-3 sm:space-y-4">
-				<div className="flex flex-col gap-1 sm:gap-2">
-					<h2 className="text-xl font-semibold sm:text-2xl">All Heroes</h2>
-					<p className="text-xs text-muted-foreground sm:text-sm">
-						Click "View" to see detailed stats and matchups
-					</p>
-				</div>
-				<DataTable columns={columns} data={tableData} rank={rank} />
+				<DataTable data={tableData} rank={rank} />
 			</div>
 		</>
 	);

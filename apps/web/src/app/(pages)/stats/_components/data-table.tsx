@@ -1,8 +1,7 @@
 "use client";
 
-import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo, useCallback, useEffect } from "react";
 import {
-	type ColumnDef,
 	type ColumnFiltersState,
 	type SortingState,
 	type VisibilityState,
@@ -42,17 +41,17 @@ import type { ConsolidatedHeroOptional } from "@repo/database";
 import { Search, Settings2 } from "lucide-react";
 import { cn, tidyLabel } from "@/lib/utils";
 import { RatesFilter, type RateFilter } from "./rates-filter";
-import { DensityToggle, type TableDensity, getDensityClasses } from "./density-toggle";
+import { DensityToggle, type TableDensity, getDensityConfig } from "./density-toggle";
 import { ExportCsv } from "./export-csv";
 import { FilterPresets, type FilterPreset } from "./filter-presets";
+import { createColumns } from "./columns";
 
 interface DataTableProps {
-	columns: ColumnDef<ConsolidatedHeroOptional>[];
 	data: ConsolidatedHeroOptional[];
 	rank: string;
 }
 
-export function DataTable({ columns, data, rank }: DataTableProps) {
+export function DataTable({ data, rank }: DataTableProps) {
 	const [sorting, setSorting] = useState<SortingState>([
 		{
 			id: "meta.ban_rate",
@@ -61,17 +60,33 @@ export function DataTable({ columns, data, rank }: DataTableProps) {
 	]);
 	const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([]);
 	const [globalFilter, setGlobalFilter] = useState("");
-	const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({
-		// Hide difficulty by default
-		difficulty: false,
-	});
-	const [rateFilters, setRateFilters] = useState<RateFilter[]>([]);
 	const [density, setDensity] = useState<TableDensity>("normal");
+	const [rateFilters, setRateFilters] = useState<RateFilter[]>([]);
 	const [selectedRole, setSelectedRole] = useState<string | undefined>(undefined);
 	const [selectedLane, setSelectedLane] = useState<string | undefined>(undefined);
 
-	// Get density-based classes
-	const densityClasses = getDensityClasses(density);
+	// Get density-based configuration
+	const densityConfig = getDensityConfig(density);
+
+	// Create columns based on density - MEMOIZED
+	const columns = useMemo(() => createColumns(densityConfig), [densityConfig]);
+
+	// Column visibility based on density
+	const [columnVisibility, setColumnVisibility] = useState<VisibilityState>({
+		// Hide difficulty by default (except in comfortable mode)
+		difficulty: density === "comfortable",
+	});
+
+	// Update column visibility when density changes
+	useEffect(() => {
+		if (density === "comfortable") {
+			// Show all columns in comfortable mode
+			setColumnVisibility({});
+		} else {
+			// Hide difficulty in compact/normal modes
+			setColumnVisibility({ difficulty: false });
+		}
+	}, [density]);
 
 	// Apply rate filters to data - MEMOIZED to prevent infinite loops
 	const filteredData = useMemo(() => {
@@ -319,8 +334,7 @@ export function DataTable({ columns, data, rank }: DataTableProps) {
 											key={header.id}
 											className={cn(
 												"bg-muted font-semibold whitespace-nowrap",
-												densityClasses.header,
-												"h-fit",
+												"h-fit p-0", // Remove padding from TableHead for full-height borders
 												// Sticky first 2 columns - same bg but solid to hide content
 												headerIndex === 0 && "sticky left-0 z-20",
 												headerIndex === 1 && "sticky left-[39.5px] z-20",
@@ -353,7 +367,7 @@ export function DataTable({ columns, data, rank }: DataTableProps) {
 											<TableCell
 												key={cell.id}
 												className={cn(
-													densityClasses.cell,
+													densityConfig.cell,
 													"bg-inherit",
 													// Sticky first 2 columns
 													cellIndex === 0 && "sticky left-0 z-10",

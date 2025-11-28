@@ -31,7 +31,10 @@ export function DensityToggle({ density, onDensityChange }: DensityToggleProps) 
 			<DropdownMenuContent align="end" className="w-[180px]">
 				<DropdownMenuLabel>Table Density</DropdownMenuLabel>
 				<DropdownMenuSeparator />
-				<DropdownMenuRadioGroup value={density} onValueChange={onDensityChange as (value: string) => void}>
+				<DropdownMenuRadioGroup
+					value={density}
+					onValueChange={onDensityChange as (value: string) => void}
+				>
 					<DropdownMenuRadioItem value="compact">
 						<div className="flex flex-col">
 							<span>Compact</span>
@@ -56,23 +59,53 @@ export function DensityToggle({ density, onDensityChange }: DensityToggleProps) 
 	);
 }
 
-// Helper to get padding classes based on density
-export function getDensityClasses(density: TableDensity) {
+// Helper to get density-based styling configuration
+export function getDensityConfig(density: TableDensity) {
 	switch (density) {
 		case "compact":
 			return {
 				cell: "px-1 py-0.5 sm:px-2",
 				header: "px-1 py-1 sm:px-2",
+				showHeroImage: false,
+				heroImageSize: 0, // no image
+				fontSize: {
+					header: "text-[10px] sm:text-xs",
+					cellDefault: "text-[10px] sm:text-xs",
+					cellEmphasis: "text-[10px] sm:text-xs font-semibold",
+					cellMuted: "text-[10px] sm:text-xs text-muted-foreground",
+					heroName: "text-[10px] sm:text-xs",
+				},
+				iconSize: "h-4 w-4", // smaller role/lane icons
 			};
 		case "comfortable":
 			return {
 				cell: "px-2 py-2 sm:px-4",
 				header: "px-2 py-3 sm:px-4",
+				showHeroImage: true,
+				heroImageSize: 56, // larger image (14 * 4 = 56px)
+				fontSize: {
+					header: "text-sm sm:text-base",
+					cellDefault: "text-sm sm:text-base",
+					cellEmphasis: "text-sm sm:text-base font-semibold",
+					cellMuted: "text-sm sm:text-base text-muted-foreground",
+					heroName: "text-sm sm:text-base",
+				},
+				iconSize: "h-7 w-7", // larger role/lane icons
 			};
 		default: // normal
 			return {
 				cell: "px-1 py-1 sm:px-3",
 				header: "px-1 py-2 sm:px-3",
+				showHeroImage: true,
+				heroImageSize: 48, // default image (12 * 4 = 48px)
+				fontSize: {
+					header: "text-xs sm:text-sm",
+					cellDefault: "text-xs sm:text-sm",
+					cellEmphasis: "text-xs sm:text-sm font-semibold",
+					cellMuted: "text-xs sm:text-sm text-muted-foreground",
+					heroName: "text-xs sm:text-sm",
+				},
+				iconSize: "h-6 w-6", // normal role/lane icons
 			};
 	}
 }
