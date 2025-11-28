@@ -6,6 +6,7 @@ import { TABLE_CONFIG } from "./_config/table-styles";
 import { TableSkeleton } from "./_components/table-skeleton";
 import { makeUrl } from "@/lib/utils.api";
 import type { ConsolidatedHeroOptional } from "@repo/database";
+import { UpdatedAtLabel } from "../(landing)/_utils";
 
 async function StatsContent() {
 	// fetch real data
@@ -33,9 +34,7 @@ async function StatsContent() {
 				<h1 className="text-2xl font-semibold tracking-tight sm:text-3xl md:text-4xl">
 					Hero Statistics Dashboard
 				</h1>
-				<p className="text-xs text-muted-foreground sm:text-sm">
-					Last updated: 2 hours ago | Rank: Glory
-				</p>
+				<UpdatedAtLabel date={tableData[0].meta.updatedAt} />
 			</header>
 
 			{/* Overview Cards */}

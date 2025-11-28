@@ -49,6 +49,19 @@ const SortableHeader = ({ column, children }: { column: any; children: React.Rea
 
 export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 	{
+		id: "index",
+		header: () => <div className="text-center font-semibold">#</div>,
+		cell: ({ row, table }) => {
+			// Get index within current page's visible rows (1-based)
+			const rows = table.getRowModel().rows;
+			const index = rows.findIndex((r) => r.id === row.id) + 1;
+			return <div className="text-center font-medium text-muted-foreground">{index}</div>;
+		},
+		enableSorting: false,
+		enableHiding: false,
+		size: 40,
+	},
+	{
 		id: "profile.name",
 		accessorKey: "profile.name",
 		header: ({ column }) => <SortableHeader column={column}>Hero</SortableHeader>,
@@ -82,52 +95,7 @@ export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 				</a>
 			);
 		},
-	},
-	{
-		id: "role",
-		accessorFn: (row) => row.profile.roles[0]?.title || "Unknown",
-		header: ({ column }) => <SortableHeader column={column}>Role</SortableHeader>,
-		size: 100,
-		cell: ({ row }) => {
-			const role = row.original.profile.roles[0]?.title || "Unknown";
-			const roleIcon = getRoleIcon(role);
-			return (
-				<div className="flex flex-col items-center gap-1 py-1">
-					<div className="relative h-6 w-6 flex-shrink-0">
-						<Image src={roleIcon} alt={role} fill className="object-contain" sizes="24px" />
-					</div>
-					<span className={cn(TABLE_CONFIG.typography.cellMuted, "text-center text-xs")}>
-						{tidyLabel(role)}
-					</span>
-				</div>
-			);
-		},
-		filterFn: (row, id, value) => {
-			return value.includes(row.getValue(id));
-		},
-	},
-	{
-		id: "lane",
-		accessorFn: (row) => row.profile.lanes[0]?.title || "Unknown",
-		header: ({ column }) => <SortableHeader column={column}>Lane</SortableHeader>,
-		size: 100,
-		cell: ({ row }) => {
-			const lane = row.original.profile.lanes[0]?.title || "Unknown";
-			const laneIcon = getLaneIcon(lane);
-			return (
-				<div className="flex flex-col items-center gap-1 py-1">
-					<div className="relative h-6 w-6 flex-shrink-0">
-						<Image src={laneIcon} alt={lane} fill className="object-contain" sizes="24px" />
-					</div>
-					<span className={cn(TABLE_CONFIG.typography.cellMuted, "text-center text-xs")}>
-						{tidyLabel(lane)}
-					</span>
-				</div>
-			);
-		},
-		filterFn: (row, id, value) => {
-			return value.includes(row.getValue(id));
-		},
+		size: 80,
 	},
 	{
 		id: "meta.win_rate",
@@ -188,6 +156,50 @@ export const columns: ColumnDef<ConsolidatedHeroOptional>[] = [
 					{formatPercentage(banRate)}
 				</div>
 			);
+		},
+	},
+	{
+		id: "role",
+		accessorFn: (row) => row.profile.roles[0]?.title || "Unknown",
+		header: ({ column }) => <SortableHeader column={column}>Role</SortableHeader>,
+		cell: ({ row }) => {
+			const role = row.original.profile.roles[0]?.title || "Unknown";
+			const roleIcon = getRoleIcon(role);
+			return (
+				<div className="flex flex-col items-center gap-1 py-1">
+					<div className="relative h-6 w-6 flex-shrink-0">
+						<Image src={roleIcon} alt={role} fill className="object-contain" sizes="24px" />
+					</div>
+					<span className={cn(TABLE_CONFIG.typography.cellMuted, "text-center text-xs")}>
+						{tidyLabel(role)}
+					</span>
+				</div>
+			);
+		},
+		filterFn: (row, id, value) => {
+			return value.includes(row.getValue(id));
+		},
+	},
+	{
+		id: "lane",
+		accessorFn: (row) => row.profile.lanes[0]?.title || "Unknown",
+		header: ({ column }) => <SortableHeader column={column}>Lane</SortableHeader>,
+		cell: ({ row }) => {
+			const lane = row.original.profile.lanes[0]?.title || "Unknown";
+			const laneIcon = getLaneIcon(lane);
+			return (
+				<div className="flex flex-col items-center gap-1 py-1">
+					<div className="relative h-6 w-6 flex-shrink-0">
+						<Image src={laneIcon} alt={lane} fill className="object-contain" sizes="24px" />
+					</div>
+					<span className={cn(TABLE_CONFIG.typography.cellMuted, "text-center text-xs")}>
+						{tidyLabel(lane)}
+					</span>
+				</div>
+			);
+		},
+		filterFn: (row, id, value) => {
+			return value.includes(row.getValue(id));
 		},
 	},
 	{

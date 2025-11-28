@@ -31,11 +31,13 @@ export function getTimeAgo(data: ConsolidatedHeroOptional[]): string | undefined
 }
 
 export function UpdatedAtLabel({ date }: { date: number }) {
+	const d = new Date(date);
+
 	return (
 		<p className="text-xs text-muted-foreground">
 			Updated{" "}
-			<time dateTime={new Date(date).toISOString()}>
-				{new Date(date).toLocaleString(undefined, {
+			<time dateTime={d.toISOString()}>
+				{d.toLocaleString(undefined, {
 					month: "short",
 					day: "numeric",
 					hour: "numeric",
