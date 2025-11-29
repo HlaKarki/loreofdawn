@@ -11,6 +11,7 @@ import {
 import { Badge } from "@/components/ui/badge";
 import type { StatsByRolesType } from "@repo/database";
 import { UpdatedAtLabel } from "../_utils";
+import { tidyLabel } from "@/lib/utils";
 
 const rolePalette = {
 	win: "var(--color-chart-1)",
@@ -91,7 +92,7 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => 
 						<h2 className="text-2xl font-bold">Role Performance</h2>
 						{rank && (
 							<Badge variant="outline" className="text-xs">
-								{rank}
+								{tidyLabel(rank)}
 							</Badge>
 						)}
 					</div>
@@ -116,19 +117,19 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => 
 										<CardDescription className="space-y-1 text-sm leading-relaxed text-muted-foreground">
 											<p>
 												<span className="font-semibold capitalize text-foreground">
-													{topRole.role}s
+													{tidyLabel(topRole.role)}s
 												</span>{" "}
 												are holding the ladder at {(topRole.averageWinRate * 100).toFixed(1)}% win
 												rate, while{" "}
 												<span className="font-semibold capitalize text-foreground">
-													{bottomRole.role}s
+													{tidyLabel(bottomRole.role)}s
 												</span>{" "}
 												lag behind at {(bottomRole.averageWinRate * 100).toFixed(1)}%.
 											</p>
 											<p>
 												Ban pressure still targets{" "}
 												<span className="font-semibold capitalize text-foreground">
-													{mostBannedRole.role}s
+													{tidyLabel(mostBannedRole.role)}s
 												</span>
 												, signalling the role most feared in competitive matches.
 											</p>

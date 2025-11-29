@@ -3,6 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { UpdatedAtLabel } from "../_utils";
+import { tidyLabel } from "@/lib/utils";
 
 type TopThreeProps = {
 	data: ConsolidatedHeroOptional[];
@@ -51,7 +52,7 @@ export const TopThree = ({ data, title = "Top Heroes", description }: TopThreePr
 								<div className="flex gap-2 mb-3 flex-wrap">
 									{hero.profile.roles.map((role) => (
 										<Badge key={role.title} variant="secondary">
-											{role.title}
+											{tidyLabel(role.title)}
 										</Badge>
 									))}
 								</div>

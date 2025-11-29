@@ -224,7 +224,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 									size="sm"
 									onClick={() => toggleOperator("win_rate")}
 									className="h-9 w-12 px-0 font-mono text-base"
-									title={operators.win_rate === "lte" ? "Less than or equal" : "Greater than or equal"}
+									title={
+										operators.win_rate === "lte" ? "Less than or equal" : "Greater than or equal"
+									}
 								>
 									{operators.win_rate === "lte" ? "≤" : "≥"}
 								</Button>
@@ -286,7 +288,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 									size="sm"
 									onClick={() => toggleOperator("ban_rate")}
 									className="h-9 w-12 px-0 font-mono text-base"
-									title={operators.ban_rate === "lte" ? "Less than or equal" : "Greater than or equal"}
+									title={
+										operators.ban_rate === "lte" ? "Less than or equal" : "Greater than or equal"
+									}
 								>
 									{operators.ban_rate === "lte" ? "≤" : "≥"}
 								</Button>
@@ -348,7 +352,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 									size="sm"
 									onClick={() => toggleOperator("pick_rate")}
 									className="h-9 w-12 px-0 font-mono text-base"
-									title={operators.pick_rate === "lte" ? "Less than or equal" : "Greater than or equal"}
+									title={
+										operators.pick_rate === "lte" ? "Less than or equal" : "Greater than or equal"
+									}
 								>
 									{operators.pick_rate === "lte" ? "≤" : "≥"}
 								</Button>
