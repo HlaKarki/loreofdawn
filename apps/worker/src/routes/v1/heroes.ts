@@ -33,7 +33,7 @@ heroesRouter.get("/", async (c) => {
 	const limitNum = limit ? parseInt(limit, 10) : 10;
 	const includeFields = include ? include.split(",") : [];
 
-	const shaKey = await cacheKvLayer.shaCacheKey("heroes:query", undefined, queryParams);
+	const shaKey = await cacheKvLayer.shaCacheKey("heroes:query:v0", undefined, queryParams);
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
 
 	return cacheKvLayer.respond(c, shaKey, async () => {
@@ -192,22 +192,4 @@ heroesRouter.delete("/:name", async (c) => {
 	}
 
 	return c.json({ success: true, message: `Cache deleted for ${name}` });
-});
-
-heroesRouter.get("/table", async (c) => {
-	const { rank } = c.req.query();
-	const cacheKey = `${cv}:heroes:table:${rank.toLowerCase()}`;
-
-	const db = createDb(c.env.HYPERDRIVE.connectionString);
-	const payload = await cacheKvLayer.tryFetch(
-		c,
-		cacheKey,
-		async () => {
-			const heroService = new HeroService(db, c.env.KV);
-			return await heroService.getTableData(rank);
-		},
-		{ ttlSeconds: 60 * 30 },
-	);
-
-	return c.json(payload);
 });

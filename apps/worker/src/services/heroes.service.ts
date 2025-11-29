@@ -166,7 +166,7 @@ export class HeroService {
 		}
 
 		// Execute query
-		const results = await query.limit(Math.min(limit, 100));
+		const results = await query.limit(Math.min(limit, 500));
 
 		// Transform results based on what was requested
 		return results.map((row) => {
