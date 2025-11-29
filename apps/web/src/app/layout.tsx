@@ -2,7 +2,7 @@ import "../index.css";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono, Quicksand } from "next/font/google";
 import Providers from "@/components/providers";
-import Header from "@/components/header";
+import Header from "@/components/header/header";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
 import Script from "next/script";
 import { AiChat } from "@/components/AiChat";

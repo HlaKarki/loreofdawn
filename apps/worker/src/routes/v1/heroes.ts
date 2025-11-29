@@ -5,7 +5,7 @@ import type { Env } from "@/types";
 import { createDb } from "@/db";
 import { heroRolesEnum } from "@repo/database";
 
-const cv = "v1.0.0";
+const cv = "v1.0.2";
 
 export const heroesRouter = new Hono<Env>();
 
@@ -192,4 +192,22 @@ heroesRouter.delete("/:name", async (c) => {
 	}
 
 	return c.json({ success: true, message: `Cache deleted for ${name}` });
+});
+
+heroesRouter.get("/table", async (c) => {
+	const { rank } = c.req.query();
+	const cacheKey = `${cv}:heroes:table:${rank.toLowerCase()}`;
+
+	const db = createDb(c.env.HYPERDRIVE.connectionString);
+	const payload = await cacheKvLayer.tryFetch(
+		c,
+		cacheKey,
+		async () => {
+			const heroService = new HeroService(db, c.env.KV);
+			return await heroService.getTableData(rank);
+		},
+		{ ttlSeconds: 60 * 30 },
+	);
+
+	return c.json(payload);
 });
