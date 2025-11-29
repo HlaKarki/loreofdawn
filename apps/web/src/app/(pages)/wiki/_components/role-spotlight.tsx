@@ -10,7 +10,7 @@ type RoleSpotlightProps = {
 	role: string;
 	heroes: ConsolidatedHeroOptional[];
 	isDiscovered: (urlName: string) => boolean;
-	onDiscover: (urlName: string) => void;
+	onDiscover: (urlName: string, discoveredVia: string | null) => void;
 };
 
 function resolveImageSrc(images: ConsolidatedHeroOptional["profile"]["images"]): string {
@@ -68,7 +68,7 @@ export function RoleSpotlight({ role, heroes, isDiscovered, onDiscover }: RoleSp
 								}`}
 								onClick={() => {
 									if (!discovered) {
-										onDiscover(hero.profile.url_name);
+										onDiscover(hero.profile.url_name, null);
 									}
 								}}
 							>

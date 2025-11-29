@@ -13,7 +13,7 @@ type HeroCardProps = {
 	hero: ConsolidatedHeroOptional;
 	isDiscovered: boolean;
 	discoveredVia?: string | null;
-	onDiscover: (urlName: string) => void;
+	onDiscover: (urlName: string, discoveredVia: string | null) => void;
 	onViewConnections: (hero: ConsolidatedHeroOptional) => void;
 	isHighlighted?: boolean;
 };
@@ -39,7 +39,7 @@ export function HeroCard({
 
 	const handleClick = () => {
 		if (!isDiscovered) {
-			onDiscover(hero.profile.url_name);
+			onDiscover(hero.profile.url_name, null);
 		}
 	};
 

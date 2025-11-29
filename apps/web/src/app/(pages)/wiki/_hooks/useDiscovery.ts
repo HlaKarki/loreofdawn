@@ -3,6 +3,7 @@
 import { useState, useEffect, useCallback } from "react";
 import {
 	loadDiscoveryState,
+	createEmptyState,
 	discoverHero as discoverHeroUtil,
 	discoverMultipleHeroes as discoverMultipleHeroesUtil,
 	isHeroDiscovered as isHeroDiscoveredUtil,
@@ -13,9 +14,10 @@ import {
 } from "../_lib/discovery";
 
 export function useDiscovery(totalHeroes: number) {
-	const [state, setState] = useState<DiscoveryState>(() => loadDiscoveryState());
+	// Start with empty state to match server-side render
+	const [state, setState] = useState<DiscoveryState>(createEmptyState);
 
-	// Load state on mount
+	// Load actual state from localStorage after hydration
 	useEffect(() => {
 		setState(loadDiscoveryState());
 	}, []);

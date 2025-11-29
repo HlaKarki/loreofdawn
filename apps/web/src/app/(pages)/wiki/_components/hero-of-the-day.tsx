@@ -1,5 +1,6 @@
 "use client";
 
+import { useEffect } from "react";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -10,6 +11,8 @@ import type { ConsolidatedHeroOptional } from "@repo/database";
 
 type HeroOfTheDayProps = {
 	hero: ConsolidatedHeroOptional;
+	isDiscovered: (urlName: string) => boolean;
+	onDiscover: (urlName: string, discoveredVia: string | null) => void;
 	onViewConnections: (hero: ConsolidatedHeroOptional) => void;
 };
 
@@ -17,7 +20,12 @@ function resolveImageSrc(painting: string, squarehead: string, head: string): st
 	return painting || squarehead || head;
 }
 
-export function HeroOfTheDay({ hero, onViewConnections }: HeroOfTheDayProps) {
+export function HeroOfTheDay({
+	hero,
+	isDiscovered,
+	onDiscover,
+	onViewConnections,
+}: HeroOfTheDayProps) {
 	const imageSrc = resolveImageSrc(
 		hero.profile.images.painting,
 		hero.profile.images.squarehead_big,
@@ -25,6 +33,13 @@ export function HeroOfTheDay({ hero, onViewConnections }: HeroOfTheDayProps) {
 	);
 
 	const lorePreview = hero.profile.tale ? hero.profile.tale.slice(0, 150) + "..." : "";
+
+	// Auto-discover Hero of the Day on mount
+	useEffect(() => {
+		if (!isDiscovered(hero.profile.url_name)) {
+			onDiscover(hero.profile.url_name, null);
+		}
+	}, [hero.profile.url_name, isDiscovered, onDiscover]);
 
 	return (
 		<div className="mb-12">
