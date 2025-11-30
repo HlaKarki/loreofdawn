@@ -11,7 +11,14 @@ import type {
 	WikiSection,
 } from "@/types/scraper.types";
 import { mlDbService } from "@/services/ml/ml-db.service";
-import type { AiMarkdownResponse } from "@repo/database";
+import {
+	STORY_ARCS_Z,
+	STORY_MOODS_Z,
+	STORY_THEMES_Z,
+	STORY_TYPES_Z,
+	type AiMarkdownResponse,
+} from "@repo/database";
+import z from "zod/v3";
 
 class WikiScraper {
 	private readonly jsonDefaultQuery = {
@@ -23,6 +30,19 @@ class WikiScraper {
 		format: "json",
 		formatversion: "2",
 		origin: "*",
+		redirects: 10,
+	};
+
+	private readonly jsonPageIdQuery = {
+		action: "query",
+		pageids: "",
+		prop: "revisions",
+		rvprop: "content",
+		rvslots: "*",
+		format: "json",
+		formatversion: "2",
+		origin: "*",
+		redirects: 10,
 	};
 
 	private readonly excludedSectionTitles = new Set([
@@ -37,9 +57,9 @@ class WikiScraper {
 
 	private readonly markdownSystemPrompt = `
 		Turn the JSON input into markdown document. Do not embed image links. Format dialogs for characters as quote blocks
-		
+
 		YOU ARE NOT ALLOWED TO USE THE FOLLOWING SYMBOLS: '{', '}', "="
-		
+
 		Split up the content into the following sections
 		* Profile
 		* Story
@@ -49,9 +69,9 @@ class WikiScraper {
 		* Abilities
 			* Abilities's subsections
 		* Trivia (MUST HAVE)
-			
+
 		RULES:
-		
+
 		* To start a section, the title should start with "# {title is here}"
 		* To start a subsection, the subtitle should start with "## {subtitle is here}"
 		* To start a section under the subsection, the trend will continue with "### {text here}"
@@ -149,6 +169,83 @@ class WikiScraper {
 			},
 		},
 	});
+
+	private schemaZ = z
+		.object({
+			name: z.string().describe("Canonical data name, e.g., 'Miya'."),
+			markdown: z
+				.object({
+					profile: z.object({ markdown: z.string() }).strict(),
+					story: z.object({ markdown: z.string() }).strict(),
+					bio: z.object({ markdown: z.string() }).strict(),
+					side_story: z
+						.object({
+							chapters: z
+								.array(
+									z
+										.object({
+											title: z.string().describe("Meaningful chapter title."),
+											content: z.object({ markdown: z.string() }).strict(),
+										})
+										.strict(),
+								)
+								.optional()
+								.default([]),
+						})
+						.strict()
+						.optional(),
+					abilities: z
+						.array(
+							z
+								.object({
+									slot: z.enum(["Passive", "Skill 1", "Skill 2", "Skill 3", "Morph", "Ultimate"]),
+									name: z.string(),
+									cooldown: z.number().min(0).optional().describe("Seconds; 0/omit for passives."),
+									cost: z.number().min(0).optional().describe("Mana/energy cost; omit if N/A."),
+									role: z
+										.enum(["Damage", "Control", "Mobility", "Defense", "Utility"])
+										.optional()
+										.describe("Primary function."),
+									details: z
+										.object({
+											markdown: z.string(),
+										})
+										.strict(),
+								})
+								.strict(),
+						)
+						.min(3)
+						.max(6),
+					trivia: z
+						.array(z.object({ markdown: z.string() }).strict())
+						.optional()
+						.default([]),
+				})
+				.strict(),
+			metadata: z.object({
+				storyType: STORY_TYPES_Z,
+				storyArc: STORY_ARCS_Z.nullable(),
+				mood: STORY_MOODS_Z,
+				themes: STORY_THEMES_Z,
+				hook: z.string().nullable(),
+				teaser: z.string(),
+				openeingLine: z.string(),
+				dominatingColor: z.string(),
+
+				hasBackstory: z.boolean(),
+				hasSideStory: z.boolean(),
+				hasAbilityLore: z.boolean(),
+				hasTrivia: z.boolean(),
+				hasChapters: z.boolean(),
+				chapterCount: z.number(),
+				chapterTitles: z.array(z.string()),
+
+				plotKeywords: z.array(z.string()),
+				characterTraits: z.array(z.string()),
+				locations: z.array(z.string()),
+			}),
+		})
+		.strict();
 
 	private SYSTEM_PROMPT = `
 	You are formatting source content into structured Markdown sections — not rewriting it.
@@ -255,6 +352,10 @@ class WikiScraper {
 		return { ...this.jsonDefaultQuery, titles };
 	}
 
+	buildQueryByPageId(pageids: string) {
+		return { ...this.jsonPageIdQuery, pageids };
+	}
+
 	private normalizeTitle(rawTitle: string) {
 		return rawTitle.trim().replace(/\s+/g, "_");
 	}
@@ -317,7 +418,7 @@ class WikiScraper {
 		}
 	}
 
-	private async prepareSections(wikiJson: WikiJSON) {
+	async prepareSections(wikiJson: WikiJSON) {
 		const sections = (wikiJson.sections ?? [])
 			.filter((section): section is WikiSection => Boolean(section))
 			.filter((section) => this.shouldKeepSection(section))
@@ -337,7 +438,8 @@ class WikiScraper {
 
 	async fetchWikiMarkup(queryOptions: {
 		action: string;
-		titles: string;
+		titles?: string;
+		pageids?: string;
 		prop: string;
 		rvprop: string;
 		rvslots: string;
@@ -505,48 +607,62 @@ class WikiScraper {
 		return markdown;
 	}
 
-	private async getAiMarkdown(markup_content: string) {
-		const object_response = await generateObject({
-			model: openai("gpt-5-mini"),
-			schema: this.schema,
-			messages: [
-				{ role: "system", content: this.SYSTEM_PROMPT },
-				{ role: "user", content: markup_content },
-			],
-		});
+	async getAiMarkdown(markup_content: string) {
+		try {
+			const object_response = await generateObject({
+				model: openai("gpt-5-mini"),
+				// schema: this.schema,
+				schema: this.schemaZ,
+				messages: [
+					{ role: "system", content: this.SYSTEM_PROMPT },
+					{ role: "user", content: markup_content },
+				],
+			});
 
-		const ai_response = object_response.object as AiMarkdownResponse;
+			const ai_response = object_response.object.markdown as AiMarkdownResponse;
+			const { name, metadata } = object_response.object;
 
-		let markdown: string = "";
-		if (ai_response.profile.markdown) {
-			markdown += this.appendSection("#", "Profile", ai_response.profile.markdown);
-		}
-		if (ai_response.bio.markdown) {
-			markdown += this.appendSection("#", "Bio", ai_response.bio.markdown);
-		}
-		if (ai_response.story.markdown) {
-			markdown += this.appendSection("#", "Story", ai_response.story.markdown);
-		}
-		if (ai_response.side_story?.chapters?.length > 0) {
-			markdown += this.appendFront("#", "Side Story");
-			for (const chapter of ai_response.side_story.chapters) {
-				markdown += this.appendSection("##", chapter.title, chapter.content.markdown);
+			let markdown: string = "";
+			if (ai_response.profile.markdown) {
+				markdown += this.appendSection("#", "Profile", ai_response.profile.markdown);
 			}
-		}
-		if (ai_response.abilities && ai_response.abilities.length > 0) {
-			markdown += this.appendFront("#", "Abilities");
-			for (const ability of ai_response.abilities) {
-				markdown += this.appendSection("##", ability.name, ability.details.markdown);
+			if (ai_response.bio.markdown) {
+				markdown += this.appendSection("#", "Bio", ai_response.bio.markdown);
 			}
-		}
-		if (ai_response.trivia && ai_response.trivia.length > 0) {
-			markdown += this.appendFront("#", "Trivia");
-			for (const trivia of ai_response.trivia) {
-				markdown += `- ${trivia.markdown}\n`;
+			if (ai_response.story.markdown) {
+				markdown += this.appendSection("#", "Story", ai_response.story.markdown);
 			}
-		}
+			if (ai_response.side_story?.chapters?.length > 0) {
+				markdown += this.appendFront("#", "Side Story");
+				for (const chapter of ai_response.side_story.chapters) {
+					markdown += this.appendSection("##", chapter.title, chapter.content.markdown);
+				}
+			}
+			if (ai_response.abilities && ai_response.abilities.length > 0) {
+				markdown += this.appendFront("#", "Abilities");
+				for (const ability of ai_response.abilities) {
+					markdown += this.appendSection("##", ability.name, ability.details.markdown);
+				}
+			}
+			if (ai_response.trivia && ai_response.trivia.length > 0) {
+				markdown += this.appendFront("#", "Trivia");
+				for (const trivia of ai_response.trivia) {
+					markdown += `- ${trivia.markdown}\n`;
+				}
+			}
 
-		return markdown;
+			return { name, markdown, metadata };
+		} catch (err: any) {
+			console.error("generateObject error:", err);
+
+			// Vercel AI SDK usually attaches Zod error in the cause / data.
+			console.error("cause:", err.cause);
+			console.error("validation error:", err.cause?.error);
+			// Sometimes there’s raw output:
+			console.error("rawOutput:", err.cause?.rawResponse);
+
+			throw err; // or return fallback
+		}
 	}
 
 	private appendFront(append: string, text: string): string {

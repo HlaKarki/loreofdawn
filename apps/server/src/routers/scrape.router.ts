@@ -7,6 +7,10 @@ import { mlApiService } from "@/services/ml/ml-api.service";
 import { mlTransformService } from "@/services/ml/ml-transform.service";
 import { mlDbService } from "@/services/ml/ml-db.service";
 import { dbService } from "@/services/db/db.service";
+import wtf from "wtf_wikipedia";
+import type { WikiJSON } from "@/types/scraper.types";
+import { generateObject } from "ai";
+import { openai } from "@ai-sdk/openai";
 
 export const scrape = router({
 	getWikiValidPages: publicProcedure.query(async () => {
@@ -67,6 +71,62 @@ export const scrape = router({
 
 	batchAiMarkdownWrites: publicProcedure.query(async () => {
 		return await wikiScraper.batchAiMarkdownWrites();
+	}),
+
+	makeAiMarkdown: publicProcedure.query(async () => {
+		// const valid_pages_response = await fetch("http://localhost:1202/trpc/scrape.getWikiValidPages");
+		// const valid_pages = (await valid_pages_response.json()) as {
+		// 	result: { data: { id: number; name: string }[] };
+		// };
+		// const pageids = valid_pages.result.data;
+		// const normalizedName = pageids[10].name.replaceAll(" ", "_").toLowerCase();
+		// const randomPageid = String(pageids[10].id);
+		//
+		const pageid = "7897";
+		const normalizedName = "badang";
+		const query = wikiScraper.buildQueryByPageId(pageid);
+		const markup = await wikiScraper.fetchWikiMarkup(query);
+		const json = wtf(markup).json() as WikiJSON;
+		const sections = await wikiScraper.prepareSections(json);
+		const final_json = JSON.stringify(sections, null, 2);
+
+		const aiResponse = await wikiScraper.getAiMarkdown(final_json);
+
+		const [jsonDir, markdownDir] = [
+			path.join(process.cwd(), "src", "data", "wiki", "jsons"),
+			path.join(process.cwd(), "src", "data", "wiki", "markdowns"),
+		];
+
+		await Promise.all([
+			fs.promises.writeFile(
+				path.join(jsonDir, `${normalizedName}.json`),
+				JSON.stringify(sections, null, 2),
+				"utf-8",
+			),
+			fs.promises.writeFile(
+				path.join(markdownDir, `${normalizedName}.md`),
+				aiResponse.markdown,
+				"utf-8",
+			),
+		]);
+
+		return aiResponse;
+	}),
+
+	testZodSchemaOpenAi: publicProcedure.query(async () => {
+		const object_response = await generateObject({
+			model: openai("gpt-5-mini"),
+			schema: z.object({
+				mood: z.string().min(1).describe("tell your random moood at this moment"),
+				true: z.boolean().describe("This is a required field answer with true or false"),
+			}),
+			messages: [
+				{ role: "system", content: "Respond by adhereing to the schema" },
+				{ role: "user", content: "hi" },
+			],
+		});
+
+		return object_response.object;
 	}),
 
 	updateHeroMarkdown: publicProcedure
