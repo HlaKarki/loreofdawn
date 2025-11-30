@@ -7,10 +7,10 @@ import { useEffect, useRef, useState } from "react";
 
 const links = [
 	{ to: "/", label: "Home" },
-	{ to: "/wiki", label: "Wikis" },
+	// { to: "/wiki", label: "Wikis" },
+	{ to: "/lores", label: "Lores" },
 	{ to: "/hero", label: "Heroes" },
 	{ to: "/stats", label: "Stats" },
-	{ to: "/lores", label: "Lores" },
 ];
 
 export default function Header() {
