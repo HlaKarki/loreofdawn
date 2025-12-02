@@ -22,9 +22,20 @@ export class WikiService {
 		}
 
 		return {
-			markdown: response.markdown,
-			hero: response.hero,
-			updatedAt: response.updatedAt,
+			...response,
 		};
+	}
+
+	async getAllWikis() {
+		const wikis = await this.db
+			.select({
+				hero: wikisTable.hero,
+				urlName: wikisTable.urlName,
+				metadata: wikisTable.metadata,
+				lastUpdated: wikisTable.lastUpdated,
+			})
+			.from(wikisTable);
+
+		return wikis;
 	}
 }

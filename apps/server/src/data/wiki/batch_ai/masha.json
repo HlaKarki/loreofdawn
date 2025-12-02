@@ -1,0 +1,205 @@
+{
+  "hero": "masha",
+  "urlName": "masha",
+  "sections": {
+    "profile": {
+      "markdown": "Leader of the Sami/Sarmi tribe who lives in the Northern Vale.\n\n- Alias: Wild-oats Fist\n- Origin: Northern Vale\n- Species: Human\n- Gender: Female\n- Title: Leader of the Sami/Sarmi tribe\n- Occupation: Tribal hunter\n- Affiliation:\n  - Sami/Sarmi Tribe\n  - Direbears\n  - Frozen Sea pirates (enemies)\n- Weapons: Clawed gauntlets\n- Abilities blessed by the Bear King:\n  - Having 3 lives\n  - Wild Power\n  - Unleashes energy shockwave\n  - Releases thunderclap from her fists and disarming foes\n- Ethnicity: Sami/Sarmi\n- Japanese voice actor: Deguchi Mika (出口 美佳)"
+    },
+    "story": {
+      "markdown": "> \"Guardian of the Direbears\"\n\nLeader of the Sami people who lives in the Northern Vale. After the wandering pirates of the Frozen Ocean began to invade the Northern Vale, Masha fought constantly with the pirates, and insisted on finding the Direbears, who had been scattered by the pirate invasion, to protect the land."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Bonds of the Sarmi and the Bears",
+          "content": {
+            "markdown": "There was a land in the far north called Northern Vale, which was covered by winter snow all year round. It was also known as the land closest to the Frozen Sea. In their long history, the Sarmi Tribe and the Bears shared their land. Having a common ancestor, they never attacked each other and lived in harmony. As time passed, they developed a spiritual bond. Such peace was maintained for a long time."
+          }
+        },
+        {
+          "title": "Invasion from the Frozen Sea",
+          "content": {
+            "markdown": "Nobody would have thought that the perilous natural environment of the Northern Vale would still invite invaders to this land. Large numbers of pirates from the Frozen Sea came to the Northern Vale. They brought not only endless plunder but also bitter wars. Formidable as they were, the pirates pillaged and occupied this land. As if that was not enough, the invaders started to hunt the Bears.\n\nEvery tribe of Northern Vale was threatened by those invaders - some of them were conquered, some of them were expelled from their homes, having to struggle homeless in the cold. As the leader of Sarmi Tribe, Masha protected her tribal from waves of attacks. As a tribal hunter, she had a great talent in battle, and this was the reason why she could defend the dignity of the Northern Vale."
+          }
+        },
+        {
+          "title": "Hunt for the Bear King",
+          "content": {
+            "markdown": "She never forgot the vow of Sarmi - to \"Protect the Bears!\" She endeavored to find the Bears. But when she found the habitat of the Bears, she found only death and signs of violence everywhere.\n\nSuddenly, Marsha heard a loud roar. It was a familiar roar. As expected, there was a group of invaders trying to hunt down the Bear King, who was constantly saying \"Beast Power\". They launched attacks with their advanced weapons and unique hunting skills. The Bear King tried to protect the injured little bears by shielding them with his body, though he had been badly hurt by those iron spears.\n\nMasha dashed into the battlefield to assist the Bear King, but was in vain. The Bear King perceiving Masha's intentions, decided to divert the attention of those hunters by moving away. Masha understood the purpose of the Bear King and rescued the little bears and ran into the mountains."
+          }
+        },
+        {
+          "title": "Last Stand of the Bear King",
+          "content": {
+            "markdown": "She used her own cloth to bind the wounds sustained by the bears and placed them safely in a secret cave. She went back to assist the Bear King who was gravely injured. Those hunters beat him down and tried to capture him.\n\nThis irritated Masha who descended upon them and tore them up while attempting to save the Bear King. The Bear King then mustered all his remaining strength and unleashed his final \"Beast Power\". Masha and the Bear King fought together and let the hunters pay in blood for their invasion. It was the first time the Sarmi and the Bears fought together, and the victory belonged to all of Northern Vale.\n\nWhat Masha didn't expect was that the Bear King was down to his final moments. Masha could feel the grateful trust from the Bear King's eyes. It seemed that the King was showing his deepest respect for what she had done. Finally, the King closed his eyes and endowed Masha with powerful energy. Masha felt this energy coursing through her body and she realized that this was the \"Beast Power\". Her body became extremely powerful. It seemed that she could withstand any kind of attack with this body and could beat any opponent with her superb attack speed."
+          }
+        },
+        {
+          "title": "Vow of the Guardian",
+          "content": {
+            "markdown": "Masha successfully saved the little bears, in hopes that the bears would rise again in future. From that day onwards, Marsha vowed to guard the Northern Vale with her \"Beast Power\" and no invaders would escape the wrath of her wild fists."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Ancient Strength",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "Blessed by the Bear King, Masha has 3 HP bars and won't die until all of them are depleted. She can ignore an instance of damage each time she loses an HP bar. When Masha only has two HP bars left, skills will only require 50% of their original HP Cost to cast. When Masha only has one HP bar left, she doesn't need to spend HP to cast skills.\n\nNotes:\n- Abilities on equipment and battle spells that scale with HP only calculate the total HP, current HP or lost HP of Masha's current HP bar."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Wild Power",
+        "cooldown": 6,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Masha gains Power of the Wild which causes her to deal extra Physical Damage equal to a percentage of the target's maximum HP (scaling damage, up to 60 against Creeps and doesn't take effect on Turrets or Base). Masha spends 24% HP to increase her Movement Speed by 60% for 1.5 seconds. She also increases the extra Physical Damage from Power of the Wild by an additional percentage of the target's maximum HP and gains 50% extra Attack Speed for her next two Basic Attacks.\n\nProperties:\n- Bonus Damage: 2 / 2.4 / 2.8 / 3.2 / 3.6 / 4% of target's max HP\n- Max Damage to Creeps: 60 / 72 / 84 / 96 / 108 / 120\n\nNotes:\n- The extra damage does not critically strike."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Howl Shock",
+        "cooldown": 15,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Masha spends 24% HP to roar at enemies, dealing Physical Damage (scaling with level and Physical Attack) and reducing their Attack Speed by 50% for 2 seconds.\n\nProperties:\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300 Physical Damage\n\nNotes:\n- HP can only be consumed down to 1 on her final HP bar."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Thunderclap",
+        "cooldown": 40,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Masha spends 34% HP to lunge at an enemy hero, becoming immune to control effects during the lunge, dealing burst Physical Damage (scaling with level and Physical Attack), slowing them by 25% for 2 seconds, and knocking back nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.\n\nProperties:\n- Base Damage: 200 / 350 / 500 Physical Damage\n\nNotes:\n- HP can only be consumed down to 1 on her final HP bar."
+        }
+      },
+      {
+        "slot": "Skill 3",
+        "name": "Life Recovery",
+        "cooldown": 0,
+        "cost": 50,
+        "role": "Defense",
+        "details": {
+          "markdown": "Masha gains Energy when dealing damage to enemies and extra Energy when dealing damage with her skills. After leaving combat for 3 seconds, Masha can activate this skill to spend half a full bar of Energy to recover a full HP bar. Masha is invincible while casting this skill.\n\nNotes:\n- Life Recovery is disabled unless Masha has half a full bar of energy."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Masha is a Russian language variation of the feminine name Mary."
+      },
+      {
+        "markdown": "Masha's name and her relationship to bears are likely inspired from the Russian folktale *Masha and the Bear*."
+      },
+      {
+        "markdown": "Additionally, she was released in time for 10th anniversary of the said show."
+      },
+      {
+        "markdown": "Her tribe is the only one that is based on a real tribe; according to the lore, she is a member of the Sami or Sarmi tribe, which may be the Land of Dawn equivalent of the Sámi peoples in Northern Europe."
+      },
+      {
+        "markdown": "She is the only hero to have three health bars."
+      },
+      {
+        "markdown": "She is the only hero without defense growth as of version 1.8.30."
+      },
+      {
+        "markdown": "She was first introduced as a Fighter/Tank hero in Patch 1.4.14, but was later changed to a pure fighter in Patch 1.4.94. However, it was restored in Patch 1.6.66."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nLeader of the Sami/Sarmi tribe who lives in the Northern Vale.\n\n- Alias: Wild-oats Fist\n- Origin: Northern Vale\n- Species: Human\n- Gender: Female\n- Title: Leader of the Sami/Sarmi tribe\n- Occupation: Tribal hunter\n- Affiliation:\n  - Sami/Sarmi Tribe\n  - Direbears\n  - Frozen Sea pirates (enemies)\n- Weapons: Clawed gauntlets\n- Abilities blessed by the Bear King:\n  - Having 3 lives\n  - Wild Power\n  - Unleashes energy shockwave\n  - Releases thunderclap from her fists and disarming foes\n- Ethnicity: Sami/Sarmi\n- Japanese voice actor: Deguchi Mika (出口 美佳)\n\n# Story\n\n> \"Guardian of the Direbears\"\n\nLeader of the Sami people who lives in the Northern Vale. After the wandering pirates of the Frozen Ocean began to invade the Northern Vale, Masha fought constantly with the pirates, and insisted on finding the Direbears, who had been scattered by the pirate invasion, to protect the land.\n\n# Side Story\n\n## Bonds of the Sarmi and the Bears\n\nThere was a land in the far north called Northern Vale, which was covered by winter snow all year round. It was also known as the land closest to the Frozen Sea. In their long history, the Sarmi Tribe and the Bears shared their land. Having a common ancestor, they never attacked each other and lived in harmony. As time passed, they developed a spiritual bond. Such peace was maintained for a long time.\n\n## Invasion from the Frozen Sea\n\nNobody would have thought that the perilous natural environment of the Northern Vale would still invite invaders to this land. Large numbers of pirates from the Frozen Sea came to the Northern Vale. They brought not only endless plunder but also bitter wars. Formidable as they were, the pirates pillaged and occupied this land. As if that was not enough, the invaders started to hunt the Bears.\n\nEvery tribe of Northern Vale was threatened by those invaders - some of them were conquered, some of them were expelled from their homes, having to struggle homeless in the cold. As the leader of Sarmi Tribe, Masha protected her tribal from waves of attacks. As a tribal hunter, she had a great talent in battle, and this was the reason why she could defend the dignity of the Northern Vale.\n\n## Hunt for the Bear King\n\nShe never forgot the vow of Sarmi - to \"Protect the Bears!\" She endeavored to find the Bears. But when she found the habitat of the Bears, she found only death and signs of violence everywhere.\n\nSuddenly, Marsha heard a loud roar. It was a familiar roar. As expected, there was a group of invaders trying to hunt down the Bear King, who was constantly saying \"Beast Power\". They launched attacks with their advanced weapons and unique hunting skills. The Bear King tried to protect the injured little bears by shielding them with his body, though he had been badly hurt by those iron spears.\n\nMasha dashed into the battlefield to assist the Bear King, but was in vain. The Bear King perceiving Masha's intentions, decided to divert the attention of those hunters by moving away. Masha understood the purpose of the Bear King and rescued the little bears and ran into the mountains.\n\n## Last Stand of the Bear King\n\nShe used her own cloth to bind the wounds sustained by the bears and placed them safely in a secret cave. She went back to assist the Bear King who was gravely injured. Those hunters beat him down and tried to capture him.\n\nThis irritated Masha who descended upon them and tore them up while attempting to save the Bear King. The Bear King then mustered all his remaining strength and unleashed his final \"Beast Power\". Masha and the Bear King fought together and let the hunters pay in blood for their invasion. It was the first time the Sarmi and the Bears fought together, and the victory belonged to all of Northern Vale.\n\nWhat Masha didn't expect was that the Bear King was down to his final moments. Masha could feel the grateful trust from the Bear King's eyes. It seemed that the King was showing his deepest respect for what she had done. Finally, the King closed his eyes and endowed Masha with powerful energy. Masha felt this energy coursing through her body and she realized that this was the \"Beast Power\". Her body became extremely powerful. It seemed that she could withstand any kind of attack with this body and could beat any opponent with her superb attack speed.\n\n## Vow of the Guardian\n\nMasha successfully saved the little bears, in hopes that the bears would rise again in future. From that day onwards, Marsha vowed to guard the Northern Vale with her \"Beast Power\" and no invaders would escape the wrath of her wild fists.\n\n# Abilities\n\n## Ancient Strength\n\nBlessed by the Bear King, Masha has 3 HP bars and won't die until all of them are depleted. She can ignore an instance of damage each time she loses an HP bar. When Masha only has two HP bars left, skills will only require 50% of their original HP Cost to cast. When Masha only has one HP bar left, she doesn't need to spend HP to cast skills.\n\nNotes:\n- Abilities on equipment and battle spells that scale with HP only calculate the total HP, current HP or lost HP of Masha's current HP bar.\n\n## Wild Power\n\nMasha gains Power of the Wild which causes her to deal extra Physical Damage equal to a percentage of the target's maximum HP (scaling damage, up to 60 against Creeps and doesn't take effect on Turrets or Base). Masha spends 24% HP to increase her Movement Speed by 60% for 1.5 seconds. She also increases the extra Physical Damage from Power of the Wild by an additional percentage of the target's maximum HP and gains 50% extra Attack Speed for her next two Basic Attacks.\n\nProperties:\n- Bonus Damage: 2 / 2.4 / 2.8 / 3.2 / 3.6 / 4% of target's max HP\n- Max Damage to Creeps: 60 / 72 / 84 / 96 / 108 / 120\n\nNotes:\n- The extra damage does not critically strike.\n\n## Howl Shock\n\nMasha spends 24% HP to roar at enemies, dealing Physical Damage (scaling with level and Physical Attack) and reducing their Attack Speed by 50% for 2 seconds.\n\nProperties:\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300 Physical Damage\n\nNotes:\n- HP can only be consumed down to 1 on her final HP bar.\n\n## Thunderclap\n\nMasha spends 34% HP to lunge at an enemy hero, becoming immune to control effects during the lunge, dealing burst Physical Damage (scaling with level and Physical Attack), slowing them by 25% for 2 seconds, and knocking back nearby enemies. The cooldown of this skill will be reset each time Masha loses an HP bar.\n\nProperties:\n- Base Damage: 200 / 350 / 500 Physical Damage\n\nNotes:\n- HP can only be consumed down to 1 on her final HP bar.\n\n## Life Recovery\n\nMasha gains Energy when dealing damage to enemies and extra Energy when dealing damage with her skills. After leaving combat for 3 seconds, Masha can activate this skill to spend half a full bar of Energy to recover a full HP bar. Masha is invincible while casting this skill.\n\nNotes:\n- Life Recovery is disabled unless Masha has half a full bar of energy.\n\n# Trivia\n\n- The name Masha is a Russian language variation of the feminine name Mary.\n- Masha's name and her relationship to bears are likely inspired from the Russian folktale *Masha and the Bear*.\n- Additionally, she was released in time for 10th anniversary of the said show.\n- Her tribe is the only one that is based on a real tribe; according to the lore, she is a member of the Sami or Sarmi tribe, which may be the Land of Dawn equivalent of the Sámi peoples in Northern Europe.\n- She is the only hero to have three health bars.\n- She is the only hero without defense growth as of version 1.8.30.\n- She was first introduced as a Fighter/Tank hero in Patch 1.4.14, but was later changed to a pure fighter in Patch 1.4.94. However, it was restored in Patch 1.6.66.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": "Northern Vale",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Leader",
+      "locationTies": [
+        {
+          "location": "Northern Vale",
+          "relationship": "home"
+        },
+        {
+          "location": "Frozen Sea",
+          "relationship": "enemy_approach"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "sacrifice",
+      "destiny",
+      "loyalty"
+    ],
+    "hook": "From the moment the Bear King fell and his Beast Power surged into her veins, Masha swore no invader would ever again escape the wrath of her wild fists.",
+    "teaser": "When pirates hunt the sacred Direbears to extinction, a tribal hunter inherits the Bear King's power and becomes Northern Vale's fiercest guardian.",
+    "openingLine": "There was a land in the far north called Northern Vale, which was covered by winter snow all year round.",
+    "dominantColor": "#2E6F8E",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 5,
+    "chapterTitles": [
+      "Bonds of the Sarmi and the Bears",
+      "Invasion from the Frozen Sea",
+      "Hunt for the Bear King",
+      "Last Stand of the Bear King",
+      "Vow of the Guardian"
+    ],
+    "plotKeywords": [
+      "pirate invasion",
+      "bear hunts",
+      "tribal vow",
+      "death of the Bear King",
+      "inheritance of Beast Power",
+      "protection of Northern Vale"
+    ],
+    "characterTraits": [
+      "protective",
+      "brave",
+      "loyal",
+      "fierce",
+      "self-sacrificing"
+    ],
+    "locations": [
+      "Northern Vale",
+      "Frozen Sea"
+    ],
+    "wordCount": 1331,
+    "readingTimeMinutes": 9,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646913465,
+    "updatedAt": 1764646913465
+  },
+  "lastUpdated": null
+}

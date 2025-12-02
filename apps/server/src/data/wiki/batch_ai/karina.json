@@ -1,0 +1,185 @@
+{
+  "hero": "karina",
+  "urlName": "karina",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Karina\n\n**Chinese Name:** 卡琳娜 (kǎlínnà)\n\n**Alias:** Shadow Blade\n\n**Birthplace:** Shadow Swamp, Azrya Woodlands\n\n**Species:** Dark elf\n\n**Gender:** Female\n\n**Occupation:** Assassin\n\n**Affiliation:** Unnamed clan\n\n**Weapons:** Blades of Night (Shadow Twinblades)\n\n**Abilities:** Assassination\n\n**Height:** 173 cm\n\n**Weight:** 50 kg\n\n**Likes:** Desserts made by Selena\n\n**Dislikes:** Abyss\n\n**Relationships:**\n\n- (younger sister)\n- (met once)\n\n**Japanese Voice Actor:** Nokubi Naoko (南帆子)\n\n**Indonesian Voice Actor:** Esti Rohmiati"
+    },
+    "story": {
+      "markdown": "> \"Killer from the Dark Elf tribe who is fighting to rescue her sister Selena\"\n\nKarina is the best killer among the Dark Elves who lived codependently with her younger sister Selena. But as the older sister, Karina failed to prevent Selena from dedicating herself to the Abyss. In order to stop her sister's evil deeds, and to find a way to bring her back, Karina embarked on a new journey."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Sisters Torn Apart",
+          "content": {
+            "markdown": "Karina could barely stop herself from shaking as she stared at Selena before her, a woman now almost unrecognizable. Rage, regret, desperation… A thousand different emotions flooded within her. Yet she knew that what mattered is that, right now, her little sister was standing against her like this. She’d never even imagined this could happen.\n\nKarina had once staunchly believed herself capable of protecting her sister, Selena. They had always been inseparable, depending on each other for as long as she could remember: elegant and mild young Elves that bounded throughout the lush forests. Yet with the spread of the Abyss’ corruption, the Shadow Swamp they called home was tainted and fell to its evil; all Elves who remained were similarly corrupted as they became Dark Elves in servitude of the Abyss.\n\nDark Elves are of special significance to the demons, owning to the fact that they retain their ancient Elven powers despite having been forced into submission by the Abyss. The Lord of the Abyss seeks them out with great avarice, determined to use the Dark Elves as the stepping stones that pave his way to devour this world whole. From this, nobody can escape.\n\nKarina Was trained to become a cold-hearted assassin from a very young age. As such she has no qualms in using all means necessary to achieve her goals, unfazed even if her target is a woman or a child.\n\nBut Karina, this coldblooded killer, always treated her Selena with the greatest warmth and love.\n\nIn order to keep Selena safe, Karina requested of their clan’s leader that she be kept in the dark about her profession so as to never get involved in the slaughter and killing. While Selena knew nothing of her older sister’s affairs, Karina considered her the only comfort in her life otherwise full of murder and violence. Selena was a symbol to her that she could always return home, to be with her sister.\n\nKarina knew very well that, were they to descend into the battles of light versus darkness in the Endless War, chaos could be right around the corner. Their lives would be hanging by a thread. She was left by no choice, but at least she could still protect her little sister.\n\nUnder Karina’s protection, Selena was distanced from all the killing and conspiracy. What Karina could never have expected, however, was for the barriers she’d erected around her sister to steadily erode as she grew older. And the reason that her defenses were failing came not from the outside world, but from Karina herself.\n\nAs Selena grew older, she became attuned to the fact that something was not quite right about her sister. Sometimes Karina would leave home suddenly, not to return for a long time – and when she did, more often than not she’d be injured form head to toe. Selena, never knew how her sister would gain such wounds, and it plagued her with a deep uneasiness.\n\nThis time, Karina had returned home battered and beaten once more. Even in the face of her anxious sister, she wouldn’t speak a word on it. Not long after her wounds had healed, Karina was already making preparations to leave again, but now Selena stood in her way. She didn’t know what it was her sister was heading out to do, but Selena knew that if she let her go again, she could lose her beloved sister forever.\n\nKarina disregarded her left anyway, however. She knew that this was a burden she must bear alone. Watching as her sister disappeared into the distance, Selena swore to herself: no more would she just wait at home like a naive child.\n\nSelena cautiously tailed Karina, who soon caught on that she was being followed sought to shake her off her trail. Yet as they left the Shadow Swamp, Selena was suddenly attacked by a dark figure; Karina had to make a move and save her sister from her predicament.\n\nIt was the first time Selena had ever seen her older sister in battle. Watching as Karina crushed the enemy, Selena felt relieved but also came to a realization: she and her sister lived in two very different worlds. Worlds that were far, far apart.\n\nSelena sought to become powerful, and so went to looking for their clan’s leader. This was to be the start of Karina’s nightmare. The leader had long ago fallen into the clutches of the Abyss’ corruption, and instead of giving Selena guidance, he led her to be a sacrifice to the Abyss, setting the young girl hungry for power on a tragic path.\n\nBy the Karina had rushed over, Selena had changed beyond all recognition. The young girl was suspended loft, a thick malice pervading the air all around.\n\nSelena's naivety had led her to sacrifice herself to the Abyss. The Lord of the Abyss stole away all her sense of self, warped her wishes to protect Karina, and transformed her into a tool of world destruction.\n\nSelena could no longer hear the desperate cries of her sister, Karina had no choice but to cross swords with her, to return her sister snatched by the Abyss. Never had Karina imagined that the combat skills she’d slaved to perfect would have to be used against her younger sister, nor that Selena would unleash such an explosive power against her sister.\n\nKarina failed. Facing defeat at the hands of the sister so familiar, yet now so strange to her, she was left with no choice but to leave as her heart panged with regret.\n\nWith that, Karina left the Shadow Swamp to roam the Land of Despair. She was reborn from darkness, laying full fury of her vengeance upon the Abyss and demons that had taken her dear sister. She swore that she would make them pay.\n\nAll the while, she held on to that belief: that, one day, she would finally be able to take Selena home again."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Shadow Combo",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Karina's third consecutive attack on the same enemy deals extra True Damage equal to 50 plus a percentage of the target's lost HP, dealing scaling damage based on the enemy's missing health (up to 2000 damage against creeps and up to 10000 damage to enemy heroes). If the target is an enemy hero, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5 seconds.\n\n\"Attack\" in this context only refers to Karina's attacks from basic attacks and skills. Marks applied by basic attacks cannot be stacked by Endless Battle's Unique Passive–Endless Strike, and Shadow Combo marks are invisible on minions."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Dance of Blades",
+        "cooldown": 7,
+        "cost": 70,
+        "role": "Defense",
+        "details": {
+          "markdown": "Karina enters the Dodge state for 3.5 seconds, during which she gains 45% extra Movement Speed, blocks all incoming Basic Attacks, and reflects damage back to the attacker. The damage reflection effect has an internal cooldown of 0.4 seconds.\n\nWithin the duration, Karina's Basic Attack becomes a Magic Basic Attack that deals enhanced damage, slows the target by 45% for 1 second, and is guaranteed to critically strike. Casting the enhanced Basic Attack or ending the Dodge state will end Dance of Blades early.\n\n- Cooldown: 7.0 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Enhanced Basic Attack Range: 2.9\n- Reflect Damage: 100 / 120 / 140 / 160 / 180 / 200\n- Enhanced Damage: 120 / 165 / 180 / 195 / 210 / 225\n\nAdditional notes:\n\n- The enhanced basic attack does not have splash damage.\n- Dance of Blades' cooldown will not start while it is still active.\n- Karina launches a spinning slash when attacked in melee; this is purely visual.\n- The damage reflection effect's cooldown is affected by Cooldown Reduction."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Dance of Death",
+        "cooldown": 6,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Karina launces a spinning slash, dealing area-of-effect Magic Damage to nearby enemies. This skill focuses on burst damage around Karina.\n\n- Cooldown: 6.0 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5 seconds\n- Mana Cost: 60 / 68 / 76 / 84 / 92 / 100\n- Base Damage: 375 / 420 / 465 / 510 / 555 / 600 (Magic Damage)"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Shadow Assault",
+        "cooldown": 34,
+        "cost": 100,
+        "role": "Damage",
+        "details": {
+          "markdown": "Karina dashes to the target enemy hero, dealing burst Magic Damage, applying a Shadow Mark to them, and leaving a Shadowform behind them. Both the Shadow Mark and Shadowform last for 5 seconds. If the marked enemy dies within the duration, the cooldown of this skill is reset.\n\nUse Again: Karina dashes back to the Shadowform's location, dealing Magic Damage to enemies along the way.\n\n- Cooldown: 34.0 / 30.0 / 26.0 seconds\n- Mana Cost: 100 / 120 / 140\n- Base Damage (initial dash): 350 / 550 / 750 (Magic Damage)\n- Path Damage (return dash): 150 / 200 / 250 (Magic Damage)"
+        }
+      },
+      {
+        "slot": "Skill 3",
+        "name": "True Damage Scaling",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Karina's abilities and passives can scale with True Damage based on level and stats, as indicated by the True Damage tags in her kit. This emphasizes her role as a burst assassin capable of finishing low-health enemies with scaling True Damage effects."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Karina has multiple origins and meanings across different cultures. In Scandinavian and Latin origins, it is derived from the name Katherine, meaning \"pure\" or \"beloved.\" In Slavic languages, Karina translates to \"dear\" or \"affectionate,\" while in Arabic, it is linked to \"Karim\" (كريم), meaning \"generous\" or \"kind.\""
+      },
+      {
+        "markdown": "Her first design was more human-like, but she was later changed to look more Dark Elf-inspired."
+      },
+      {
+        "markdown": "She often says things like \"I must not let my emotions show\", showing that she tries to suppress her feelings. Some of her unused lines also referenced her guilt over ’s fate."
+      },
+      {
+        "markdown": "Her previous voice lines were reused from those of Magic Rush's hero, Seeley. Some of the quotes are still used after Karina's revamped, although they are voiced by a new person."
+      },
+      {
+        "markdown": "During initial release Karina's Leona skin was free."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Karina\n\n**Chinese Name:** 卡琳娜 (kǎlínnà)\n\n**Alias:** Shadow Blade\n\n**Birthplace:** Shadow Swamp, Azrya Woodlands\n\n**Species:** Dark elf\n\n**Gender:** Female\n\n**Occupation:** Assassin\n\n**Affiliation:** Unnamed clan\n\n**Weapons:** Blades of Night (Shadow Twinblades)\n\n**Abilities:** Assassination\n\n**Height:** 173 cm\n\n**Weight:** 50 kg\n\n**Likes:** Desserts made by Selena\n\n**Dislikes:** Abyss\n\n**Relationships:**\n\n- (younger sister)\n- (met once)\n\n**Japanese Voice Actor:** Nokubi Naoko (南帆子)\n\n**Indonesian Voice Actor:** Esti Rohmiati\n\n# Story\n\n> \"Killer from the Dark Elf tribe who is fighting to rescue her sister Selena\"\n\nKarina is the best killer among the Dark Elves who lived codependently with her younger sister Selena. But as the older sister, Karina failed to prevent Selena from dedicating herself to the Abyss. In order to stop her sister's evil deeds, and to find a way to bring her back, Karina embarked on a new journey.\n\n# Side Story\n\n## Sisters Torn Apart\n\nKarina could barely stop herself from shaking as she stared at Selena before her, a woman now almost unrecognizable. Rage, regret, desperation… A thousand different emotions flooded within her. Yet she knew that what mattered is that, right now, her little sister was standing against her like this. She’d never even imagined this could happen.\n\nKarina had once staunchly believed herself capable of protecting her sister, Selena. They had always been inseparable, depending on each other for as long as she could remember: elegant and mild young Elves that bounded throughout the lush forests. Yet with the spread of the Abyss’ corruption, the Shadow Swamp they called home was tainted and fell to its evil; all Elves who remained were similarly corrupted as they became Dark Elves in servitude of the Abyss.\n\nDark Elves are of special significance to the demons, owning to the fact that they retain their ancient Elven powers despite having been forced into submission by the Abyss. The Lord of the Abyss seeks them out with great avarice, determined to use the Dark Elves as the stepping stones that pave his way to devour this world whole. From this, nobody can escape.\n\nKarina Was trained to become a cold-hearted assassin from a very young age. As such she has no qualms in using all means necessary to achieve her goals, unfazed even if her target is a woman or a child.\n\nBut Karina, this coldblooded killer, always treated her Selena with the greatest warmth and love.\n\nIn order to keep Selena safe, Karina requested of their clan’s leader that she be kept in the dark about her profession so as to never get involved in the slaughter and killing. While Selena knew nothing of her older sister’s affairs, Karina considered her the only comfort in her life otherwise full of murder and violence. Selena was a symbol to her that she could always return home, to be with her sister.\n\nKarina knew very well that, were they to descend into the battles of light versus darkness in the Endless War, chaos could be right around the corner. Their lives would be hanging by a thread. She was left by no choice, but at least she could still protect her little sister.\n\nUnder Karina’s protection, Selena was distanced from all the killing and conspiracy. What Karina could never have expected, however, was for the barriers she’d erected around her sister to steadily erode as she grew older. And the reason that her defenses were failing came not from the outside world, but from Karina herself.\n\nAs Selena grew older, she became attuned to the fact that something was not quite right about her sister. Sometimes Karina would leave home suddenly, not to return for a long time – and when she did, more often than not she’d be injured form head to toe. Selena, never knew how her sister would gain such wounds, and it plagued her with a deep uneasiness.\n\nThis time, Karina had returned home battered and beaten once more. Even in the face of her anxious sister, she wouldn’t speak a word on it. Not long after her wounds had healed, Karina was already making preparations to leave again, but now Selena stood in her way. She didn’t know what it was her sister was heading out to do, but Selena knew that if she let her go again, she could lose her beloved sister forever.\n\nKarina disregarded her left anyway, however. She knew that this was a burden she must bear alone. Watching as her sister disappeared into the distance, Selena swore to herself: no more would she just wait at home like a naive child.\n\nSelena cautiously tailed Karina, who soon caught on that she was being followed sought to shake her off her trail. Yet as they left the Shadow Swamp, Selena was suddenly attacked by a dark figure; Karina had to make a move and save her sister from her predicament.\n\nIt was the first time Selena had ever seen her older sister in battle. Watching as Karina crushed the enemy, Selena felt relieved but also came to a realization: she and her sister lived in two very different worlds. Worlds that were far, far apart.\n\nSelena sought to become powerful, and so went to looking for their clan’s leader. This was to be the start of Karina’s nightmare. The leader had long ago fallen into the clutches of the Abyss’ corruption, and instead of giving Selena guidance, he led her to be a sacrifice to the Abyss, setting the young girl hungry for power on a tragic path.\n\nBy the Karina had rushed over, Selena had changed beyond all recognition. The young girl was suspended loft, a thick malice pervading the air all around.\n\nSelena's naivety had led her to sacrifice herself to the Abyss. The Lord of the Abyss stole away all her sense of self, warped her wishes to protect Karina, and transformed her into a tool of world destruction.\n\nSelena could no longer hear the desperate cries of her sister, Karina had no choice but to cross swords with her, to return her sister snatched by the Abyss. Never had Karina imagined that the combat skills she’d slaved to perfect would have to be used against her younger sister, nor that Selena would unleash such an explosive power against her sister.\n\nKarina failed. Facing defeat at the hands of the sister so familiar, yet now so strange to her, she was left with no choice but to leave as her heart panged with regret.\n\nWith that, Karina left the Shadow Swamp to roam the Land of Despair. She was reborn from darkness, laying full fury of her vengeance upon the Abyss and demons that had taken her dear sister. She swore that she would make them pay.\n\nAll the while, she held on to that belief: that, one day, she would finally be able to take Selena home again.\n\n# Abilities\n\n## Shadow Combo\n\nKarina's third consecutive attack on the same enemy deals extra True Damage equal to 50 plus a percentage of the target's lost HP, dealing scaling damage based on the enemy's missing health (up to 2000 damage against creeps and up to 10000 damage to enemy heroes). If the target is an enemy hero, the cooldowns of Karina's non-Ultimate skills are reduced by 1.5 seconds.\n\n\"Attack\" in this context only refers to Karina's attacks from basic attacks and skills. Marks applied by basic attacks cannot be stacked by Endless Battle's Unique Passive–Endless Strike, and Shadow Combo marks are invisible on minions.\n\n## Dance of Blades\n\nKarina enters the Dodge state for 3.5 seconds, during which she gains 45% extra Movement Speed, blocks all incoming Basic Attacks, and reflects damage back to the attacker. The damage reflection effect has an internal cooldown of 0.4 seconds.\n\nWithin the duration, Karina's Basic Attack becomes a Magic Basic Attack that deals enhanced damage, slows the target by 45% for 1 second, and is guaranteed to critically strike. Casting the enhanced Basic Attack or ending the Dodge state will end Dance of Blades early.\n\n- Cooldown: 7.0 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Enhanced Basic Attack Range: 2.9\n- Reflect Damage: 100 / 120 / 140 / 160 / 180 / 200\n- Enhanced Damage: 120 / 165 / 180 / 195 / 210 / 225\n\nAdditional notes:\n\n- The enhanced basic attack does not have splash damage.\n- Dance of Blades' cooldown will not start while it is still active.\n- Karina launches a spinning slash when attacked in melee; this is purely visual.\n- The damage reflection effect's cooldown is affected by Cooldown Reduction.\n\n## Dance of Death\n\nKarina launces a spinning slash, dealing area-of-effect Magic Damage to nearby enemies. This skill focuses on burst damage around Karina.\n\n- Cooldown: 6.0 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5 seconds\n- Mana Cost: 60 / 68 / 76 / 84 / 92 / 100\n- Base Damage: 375 / 420 / 465 / 510 / 555 / 600 (Magic Damage)\n\n## Shadow Assault\n\nKarina dashes to the target enemy hero, dealing burst Magic Damage, applying a Shadow Mark to them, and leaving a Shadowform behind them. Both the Shadow Mark and Shadowform last for 5 seconds. If the marked enemy dies within the duration, the cooldown of this skill is reset.\n\nUse Again: Karina dashes back to the Shadowform's location, dealing Magic Damage to enemies along the way.\n\n- Cooldown: 34.0 / 30.0 / 26.0 seconds\n- Mana Cost: 100 / 120 / 140\n- Base Damage (initial dash): 350 / 550 / 750 (Magic Damage)\n- Path Damage (return dash): 150 / 200 / 250 (Magic Damage)\n\n## True Damage Scaling\n\nKarina's abilities and passives can scale with True Damage based on level and stats, as indicated by the True Damage tags in her kit. This emphasizes her role as a burst assassin capable of finishing low-health enemies with scaling True Damage effects.\n\n# Trivia\n\n- The name Karina has multiple origins and meanings across different cultures. In Scandinavian and Latin origins, it is derived from the name Katherine, meaning \"pure\" or \"beloved.\" In Slavic languages, Karina translates to \"dear\" or \"affectionate,\" while in Arabic, it is linked to \"Karim\" (كريم), meaning \"generous\" or \"kind.\"\n- Her first design was more human-like, but she was later changed to look more Dark Elf-inspired.\n- She often says things like \"I must not let my emotions show\", showing that she tries to suppress her feelings. Some of her unused lines also referenced her guilt over ’s fate.\n- Her previous voice lines were reused from those of Magic Rush's hero, Seeley. Some of the quotes are still used after Karina's revamped, although they are voiced by a new person.\n- During initial release Karina's Leona skin was free.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "selena",
+        "gloo"
+      ],
+      "faction": "Dark Elves",
+      "allies": [
+        "selena"
+      ],
+      "rivals": [],
+      "family": [
+        "selena"
+      ],
+      "mentors": [],
+      "factionRole": "Assassin",
+      "locationTies": [
+        {
+          "location": "Shadow Swamp",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Land of Despair",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "tragic",
+      "vengeful"
+    ],
+    "themes": [
+      "family",
+      "sacrifice",
+      "corruption"
+    ],
+    "hook": "Facing her own corrupted sister on the battlefield, Karina learns that the skills she honed to kill strangers are now the only hope of saving the one she loves most.",
+    "teaser": "Once a cold-blooded Dark Elf assassin, Karina now hunts the Abyss itself, determined to reclaim her sister Selena from the darkness that stole her away.",
+    "openingLine": "Karina could barely stop herself from shaking as she stared at Selena before her, a woman now almost unrecognizable.",
+    "dominantColor": "#4B0082",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Sisters Torn Apart"
+    ],
+    "plotKeywords": [
+      "abyssal corruption",
+      "sisterly bond",
+      "sacrifice",
+      "dark elves",
+      "assassin training",
+      "failed rescue",
+      "vengeance quest"
+    ],
+    "characterTraits": [
+      "protective",
+      "cold-blooded",
+      "regretful",
+      "determined",
+      "vengeful",
+      "loyal"
+    ],
+    "locations": [
+      "Shadow Swamp",
+      "Azrya Woodlands",
+      "Land of Despair"
+    ],
+    "wordCount": 1761,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 2,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646953901,
+    "updatedAt": 1764646953901
+  },
+  "lastUpdated": null
+}

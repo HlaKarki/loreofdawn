@@ -1,0 +1,160 @@
+{
+  "hero": "kadita",
+  "urlName": "kadita",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Kadita, Queen of the Southern Seas\n\n**Alias:** Ocean Goddess\n\n**Origin:** Blue Flame, Vonetis Islands\n\n**Species:**\n- Mermaid Goddess (currently)\n- Human (formerly)\n\n**Gender:** Female\n\n**Weapons:**\n- Sea trident\n- Seven legendary spears\n\n**Abilities:**\n- Ocean control\n- Summons tsunami\n\n**Description:**\n\nBeautiful and powerful mermaid queen"
+    },
+    "story": {
+      "markdown": "\"Beautiful and powerful mermaid queen\"\n\nA princess of a certain island country in the Vonetis Islands. She was victimized by poltical enemies and lost her beauty and power. When she threw herself into the sea in despair, an Elf in the sea rescued her. After that, she regained her beauty and turned into the form of a mermaid. With the help of the Elves, she became the Queen of the Southern Seas who all sailors fear.\n\nThe Queen of the Southern Seas, Kadita, was once the princess of a small island nation. Admired by everyone, Kadita was considered by all to be genuine, intelligent, and kind-hearted. However, fate oftentimes finds its way to hit people with strife. Kadita was no different. As the heir apparent to the king, a member within the royal family grew jealous of Kadita and conspired to ruin her — An unknown mage wielding the power of black magic viciously attacked the princess. Kadita came under a powerful spell that robbed her of all her beauty, giving her a strange skin disease in the process.\n\nThe people of the kingdom tried everything they could think of to help their beloved princess, but no one could break the spell. Overtime, people's love for Kadita faded, causing her to lose power and confidence. Out of tremendous despair, Kadita threw herself into the stormy Southern Seas. However, Kadita was rescued by the ocean demons. Using the trident of the seas, the ocean demons were able to break Kadita's powerful spell, but due to her skin disease her skin was never able to return to its original complexion. On that day, Kadita become the legendary Queen of the Southern Seas.\n\nAssuming all new powers, Kadita became adept at controlling the ocean waters and the weather. Sailors from all corners of the world came to fear the Southern Seas as they were bound to suffer the wrath of Kadita — No one dared to conquer the Southern Seas any longer. Survivors recant their experiences facing Kadita. Some way she had the appearance of a strange mermaid, while others said she was more beautiful than the princess they knew before. As stories of Kadita began to spread, legends say that she possessed seven legendary spears, each with its own unique abilities, used to punish any invaders who intended to violate the Southern Seas."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Thalassophobia",
+        "cooldown": 30,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "Kadita gains the Blessing of the Ocean every 30 seconds. The Blessing is triggered when she takes damage from enemy heroes and lasts 4 seconds, allowing her to recover 65% of the HP lost within the duration afterward."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Ocean Ode",
+        "cooldown": 6.5,
+        "cost": 130,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Kadita summons an ocean wave to carry herself in the target direction and back, dealing magic damage based on level and stats to enemies hit and slowing them by 30%. While inside the wave, she gains Control Immunity and 50% Damage Reduction. This skill can pass through obstacles and terrain.\n\nUse Again: Kadita exits the wave without interrupting the wave's movement.\n\nLevel scaling:\n- Base Damage: 250 / 290 / 330 / 370 / 410 / 450\n\nAdditional notes:\n- If Kadita is suppressed or uses certain skills, the remaining effect persists, but she cannot stop at will.\n- Formerly named \"Ocean Oddity.\""
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Breath of the Ocean",
+        "cooldown": 8,
+        "cost": 140,
+        "role": "Control",
+        "details": {
+          "markdown": "After a short delay, Kadita summons an ocean wave to erupt at the target location, dealing magic damage based on level and stats to enemies hit and knocking them airborne for 1.5 seconds. Kadita can cast this skill during Ocean Ode to summon an ocean wave beneath her with a shorter eruption delay.\n\nLevel scaling:\n- Base Damage: 350 / 380 / 410 / 440 / 470 / 550"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Rough Waves",
+        "cooldown": 32,
+        "cost": 280,
+        "role": "Damage",
+        "details": {
+          "markdown": "Kadita dives into the ground and sends ocean waves in all directions, each dealing magic damage based on level and stats to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a short period, the waves return to Kadita, each dealing additional magic damage to enemies hit.\n\nWhen underground, Kadita becomes untargetable and gains 60% Movement Speed.\n\nLevel scaling:\n- Base Damage: 270 / 300 / 330\n- Return Damage: 180 / 200 / 220\n\nAdditional notes:\n- When Kadita successfully dives underground, this skill removes all existing debuffs, crowd controls, and damage over time on Kadita.\n- She can freely use equipments and battle spells. Using certain actions will make her unable to move."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Kadita is inspired by Indonesian folklore, particularly the legend of Nyi Roro Kidul, the Queen of the Southern Sea. In the myth, Nyi Roro Kidul is said to rule the Indian Ocean and has the power to control the waters and command sea creatures."
+      },
+      {
+        "markdown": "Kadita is one of the few heroes in Mobile Legends whose powers are purely water-based, and this is reflected both in her abilities and appearance."
+      },
+      {
+        "markdown": "Kadita’s headgear and accessories have sea goddess-inspired designs, resembling coral crowns and sea creature motifs, highlighting her divine and otherworldly status. She has sea shell patterns on her attire, connecting her more to the ocean’s beauty and mystery."
+      },
+      {
+        "markdown": "In Patch 1.4.94, Kadita underwent role adjustments, transitioning from Mage to Mage/Assassin."
+      },
+      {
+        "markdown": "Her Passive \"Thalassophobia\" is based on a real phobia meaning intense fear of deep bodies of water."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Kadita, Queen of the Southern Seas\n\n**Alias:** Ocean Goddess\n\n**Origin:** Blue Flame, Vonetis Islands\n\n**Species:**\n- Mermaid Goddess (currently)\n- Human (formerly)\n\n**Gender:** Female\n\n**Weapons:**\n- Sea trident\n- Seven legendary spears\n\n**Abilities:**\n- Ocean control\n- Summons tsunami\n\n**Description:**\n\nBeautiful and powerful mermaid queen\n\n# Story\n\n\"Beautiful and powerful mermaid queen\"\n\nA princess of a certain island country in the Vonetis Islands. She was victimized by poltical enemies and lost her beauty and power. When she threw herself into the sea in despair, an Elf in the sea rescued her. After that, she regained her beauty and turned into the form of a mermaid. With the help of the Elves, she became the Queen of the Southern Seas who all sailors fear.\n\nThe Queen of the Southern Seas, Kadita, was once the princess of a small island nation. Admired by everyone, Kadita was considered by all to be genuine, intelligent, and kind-hearted. However, fate oftentimes finds its way to hit people with strife. Kadita was no different. As the heir apparent to the king, a member within the royal family grew jealous of Kadita and conspired to ruin her — An unknown mage wielding the power of black magic viciously attacked the princess. Kadita came under a powerful spell that robbed her of all her beauty, giving her a strange skin disease in the process.\n\nThe people of the kingdom tried everything they could think of to help their beloved princess, but no one could break the spell. Overtime, people's love for Kadita faded, causing her to lose power and confidence. Out of tremendous despair, Kadita threw herself into the stormy Southern Seas. However, Kadita was rescued by the ocean demons. Using the trident of the seas, the ocean demons were able to break Kadita's powerful spell, but due to her skin disease her skin was never able to return to its original complexion. On that day, Kadita become the legendary Queen of the Southern Seas.\n\nAssuming all new powers, Kadita became adept at controlling the ocean waters and the weather. Sailors from all corners of the world came to fear the Southern Seas as they were bound to suffer the wrath of Kadita — No one dared to conquer the Southern Seas any longer. Survivors recant their experiences facing Kadita. Some way she had the appearance of a strange mermaid, while others said she was more beautiful than the princess they knew before. As stories of Kadita began to spread, legends say that she possessed seven legendary spears, each with its own unique abilities, used to punish any invaders who intended to violate the Southern Seas.\n\n# Abilities\n\n## Thalassophobia\n\nKadita gains the Blessing of the Ocean every 30 seconds. The Blessing is triggered when she takes damage from enemy heroes and lasts 4 seconds, allowing her to recover 65% of the HP lost within the duration afterward.\n\n## Ocean Ode\n\nKadita summons an ocean wave to carry herself in the target direction and back, dealing magic damage based on level and stats to enemies hit and slowing them by 30%. While inside the wave, she gains Control Immunity and 50% Damage Reduction. This skill can pass through obstacles and terrain.\n\nUse Again: Kadita exits the wave without interrupting the wave's movement.\n\nLevel scaling:\n- Base Damage: 250 / 290 / 330 / 370 / 410 / 450\n\nAdditional notes:\n- If Kadita is suppressed or uses certain skills, the remaining effect persists, but she cannot stop at will.\n- Formerly named \"Ocean Oddity.\"\n\n## Breath of the Ocean\n\nAfter a short delay, Kadita summons an ocean wave to erupt at the target location, dealing magic damage based on level and stats to enemies hit and knocking them airborne for 1.5 seconds. Kadita can cast this skill during Ocean Ode to summon an ocean wave beneath her with a shorter eruption delay.\n\nLevel scaling:\n- Base Damage: 350 / 380 / 410 / 440 / 470 / 550\n\n## Rough Waves\n\nKadita dives into the ground and sends ocean waves in all directions, each dealing magic damage based on level and stats to enemies hit and slowing them by 30%. Enemies hit by multiple waves take increased damage. After a short period, the waves return to Kadita, each dealing additional magic damage to enemies hit.\n\nWhen underground, Kadita becomes untargetable and gains 60% Movement Speed.\n\nLevel scaling:\n- Base Damage: 270 / 300 / 330\n- Return Damage: 180 / 200 / 220\n\nAdditional notes:\n- When Kadita successfully dives underground, this skill removes all existing debuffs, crowd controls, and damage over time on Kadita.\n- She can freely use equipments and battle spells. Using certain actions will make her unable to move.\n\n# Trivia\n\n- Kadita is inspired by Indonesian folklore, particularly the legend of Nyi Roro Kidul, the Queen of the Southern Sea. In the myth, Nyi Roro Kidul is said to rule the Indian Ocean and has the power to control the waters and command sea creatures.\n- Kadita is one of the few heroes in Mobile Legends whose powers are purely water-based, and this is reflected both in her abilities and appearance.\n- Kadita’s headgear and accessories have sea goddess-inspired designs, resembling coral crowns and sea creature motifs, highlighting her divine and otherworldly status. She has sea shell patterns on her attire, connecting her more to the ocean’s beauty and mystery.\n- In Patch 1.4.94, Kadita underwent role adjustments, transitioning from Mage to Mage/Assassin.\n- Her Passive \"Thalassophobia\" is based on a real phobia meaning intense fear of deep bodies of water.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": null,
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Blue Flame",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Vonetis Islands",
+          "relationship": "home"
+        },
+        {
+          "location": "Southern Seas",
+          "relationship": "protects"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "power",
+      "loss",
+      "destiny"
+    ],
+    "hook": "Assuming all new powers, Kadita became adept at controlling the ocean waters and the weather, and no one dared to conquer the Southern Seas any longer.",
+    "teaser": "Once a beloved princess cursed and cast into the stormy seas, Kadita rises from despair as the feared Queen of the Southern Seas, ruling waves and wrath alike.",
+    "openingLine": "\"Beautiful and powerful mermaid queen\"",
+    "dominantColor": "#1A6C8F",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "cursed princess",
+      "black magic",
+      "suicide attempt",
+      "rebirth in the sea",
+      "ocean demons",
+      "mermaid transformation",
+      "vengeful sea queen",
+      "legendary spears"
+    ],
+    "characterTraits": [
+      "kind-hearted",
+      "genuine",
+      "intelligent",
+      "despairing",
+      "vengeful",
+      "powerful"
+    ],
+    "locations": [
+      "Blue Flame",
+      "Vonetis Islands",
+      "Southern Seas"
+    ],
+    "wordCount": 906,
+    "readingTimeMinutes": 7,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646948956,
+    "updatedAt": 1764646948956
+  },
+  "lastUpdated": null
+}

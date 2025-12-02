@@ -1,0 +1,179 @@
+{
+  "hero": "lylia",
+  "urlName": "lylia",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Lylia Solinst\n\n**Alias:**\n- Little Witch\n- Dark Wizard\n- Star of the Magic Academy\n\n**Title:** \"A funny and witted little witch\"\n\n**Born:** Magic Academy, Northern Vale\n\n**Species:** Human\n\n**Gender:** Female\n\n**Weapons:**\n- Summoner's Staff\n- Gloom\n\n**Occupation/Affiliation:**\n- Top student of the Magic Academy\n- Descendant of the great magician of the Magic Academy\n\nA descendant of the great magician of the Magic Academy and known as the \"Little Witch\". Though at a young age, she has mastered the techniques to control little creature \"Gloom\"."
+    },
+    "story": {
+      "markdown": "Hundreds of years ago, when Magic reigned high, in the Land of Dawn, Dark Mages were important precursors of the creation of the Magic Academy. However, there had always been a big gap between them and White Magic. They had completely different opinions on magic ideas.\n\nThe core of all this disputes was that Dark Magic possessed a mysterious power known as Alien Space Summoning. This magic could create a portal to the unknown worlds, bringing alien monsters to the Land of Dawn. It was destructive and unpredictable, and also a great threat to the human world. The White Mages had always opposed Summoning experiments. Yet, the Dark Mages turned a deaf ear to it. Finally, this dangerous magic went wrong during a summoning, causing a disturbance at the Magic Academy. The incident, ended with the death of a high rank, White Magician.\n\nThis triggered strong resentfulness of the White magicians and after, the Senate ruling, the Dark Magicians assumed full responsibility. They were permanently banished to the west of the Land. This decision, also led to the end of Dark Magic. The esoteric Alien Space Summoning was also permanently banned and the Magic Academy was under control of White Magic.\n\nEven after the end of this incident, which people called the Rift War, there still remained a crisis, hidden deep within the Land of Dawn. The remaining Void Monsters were appearing everywhere and they kept looking for food to live on, especially Magical Powers and this time, they got close to the Magic Academy.\n\nAt that time there was a young girl named, Lylia, who was one of the most gifted and top students of the Magic Academy, also happened to be the naughtiest girl. She also believed in Dark Magic and was the sole successor of Alien Space Summoning. She always used her powerful, but dark magic to prove that she was right. She bought horrors, rather than surprises to everyone, most of the time.\n\nNaturally, she was misunderstood by others, mainly because of her unusual characteristics and also, since she was a Black Wizard and the favourite Magic genius of the Magic Academy, the idol of apprentices. This also explains, why Lylia was hated and isolated by all her friends, why she was exiled along with other Dark Magician and also, why everyone called Lylia the \"Little Witch\". Overnight, she lost everything and turned to being a loner.\n\nRecently, however, there had been signs of Void Monsters in the Magic Academy. The magicians and Professors there, did their best to catch or at least, stop these strange creatures. Lylia had managed to capture one of the most special ones among these creatures. She not only felt his power, but also found out how cute he was. The Void Monsters were fond of Black Magic. After all, it was with the summoning of powerful black magic, that they were created.\n\nLylia gave her new found pet, a name - Gloom. She considered him to be her friend, most likely, the only friend Lylia ever had, and wanted to introduce him to everyone in the Magic Academy. But, no one believed that Lylia could have tamed such a threatening creature all by herself. They began to question and even taunt Lylia. Gloom felt that his master was being provoked, and started attacking the magicians of the Academy. Some magicians were shocked to see Gloom's power, which was in fact, far greater than that of most void monsters. They thought this was one of Lylia's schemes, to destroy the Magic Academy. They decided to capture Lylia by force and also, eliminate Gloom.\n\nNo matter what Lylia did, she couldn't stop those magicians from attacking Gloom. More magicians gathered together, to fight Lylia, as she tried to protect Gloom, and this made Gloom very angry. With the help of Lylia's dark magic, he summoned a portal to the outer world and called out many other Void Monsters to fight alongside him. Everything went out of control, as the void monsters started wrecking up the Magic Academy. A fierce battle followed, and many of those magicians were badly hurt. As a mentor and professor, Eudora summoned her lightning powers and tried her best to resist these Void Monsters, but nothing much happened. She and the other magic professors of the academy were surprised as to how these monsters had gone so vicious.\n\nLylia, however, enjoyed the vibe, as she felt, she was having a thrilling and fun time, commanding around the void monsters and running everything like she was in charge. That's when Eudora realised that this was the powerful, ancient Alien Space Summoning magic and that, there was much more crisis to face. She warned the other professors of this invasion and along with the remaining magicians, tried fending off the monsters. However, the monsters regrouped, as a huge wave of new ones appeared from the rift, and launched an attack on Eudora.\n\nEven though, Lylia wanted everyone to suffer for distrusting her and treating her poorly, she realised what she was doing was absolutely wrong. As the monsters charged onward to devour Eudora and the rest of the Magic Academy, in a hurry, Lylia dived, in front of Eudora and used her Black Power to seal those monsters into Gloom. Lylia managed to save Eudora's life. Since then, Eudora found out, that despite how indifferent Lylia was, she was much more brave and powerful with magic. She also knew that Lylia's understanding of Dark Magic was superior to others, and realized that good and evil was determined by those who wield the magic, and not the nature of the magic itself."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Angry Gloom",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Lylia gets power whenever she is within the area of Gloom. Additionally, every time Gloom is upgraded, her movement speed is increased, stacking up to 4 times. Each stack increases her movement speed by 5%, for a maximum of 20%. At full stacks, this can reach a total of 35% movement speed increase depending on upgrades."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Magic Shockwave",
+        "cooldown": 4,
+        "cost": 50,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lylia sends out Shadow Energy in a line, dealing magic damage based on level and Magic Power (base damage from 250 to 500 plus 100% Magic Power) to enemies along the path and slowing them by 40% for 1.5 seconds.\n\nIf the projectile touches Gloom, he will devour and detonate it, triggering its effects in an area around him."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Shadow Energy",
+        "cooldown": 1,
+        "cost": 40,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lylia condenses Shadow Energy at a location, dealing magic damage based on level and Magic Power (base damage from 100 to 160 plus 50% Total Magic Power) to enemies hit and slowing them by 80% for 0.5 seconds.\n\nIf Shadow Energy is detonated by Magic Shockwave or Gloom, it will explode to deal additional magic damage (base damage from 250 to 400 plus 100% Magic Power) and turn the Shadow Energy into enhanced Shadow Energy for 8 seconds. During this time, Gloom can then detonate additional Shadow Energies within his range, resetting his timer and moving to the Shadow Energy's location in each instance.\n\nAdditionally, whenever Gloom detonates a Shadow Energy within 8 seconds, the detonation damage is increased by 30%, stacking up to 4 times (maximum 120% increased damage). If Gloom detonates 5 Shadow Energies consecutively, this skill can deal a maximum of enhanced total damage (base damage from 250 multiplied by 2.2 to 375 multiplied by 2.2 plus 220% Magic Power).\n\nShadow Energy stores a charge every 9 seconds, up to 5 charges. Recharge time is affected by cooldown reduction.\n\nNotes:\n- This skill is available from Level 1 and can still be upgraded 6 times, but its stacks will start from 0 instead of full stacks and requires more time to reach full stacks.\n- Shadow Energy provides vision to its surroundings as well as bushes when placed inside one.\n- Lylia can summon up to a limited number of Shadow Energies at a time. If she summons another one beyond the limit, the first Shadow Energy that she summoned will disappear.\n- Lylia can summon as many Shadow Energies as she likes provided that they aren't within another Shadow Energy's range."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Black Shoes",
+        "cooldown": 45,
+        "cost": 120,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Lylia returns to the Black Shoes' location 4 seconds ago and restores 100% of her HP and Mana to their previous state, and gets an extra movement speed bonus. She also gains 20% extra Movement Speed for 2 / 3 / 4 seconds depending on skill level. Lylia will be untargetable and invulnerable while teleporting.\n\nMana cost decreases with level: 120 / 60 / 0. Cooldown decreases with level: 45 / 40 / 35 seconds.\n\nNotes:\n- Because her ultimate is based on 4 seconds ago, this means she can also lose her HP with her ultimate if her HP bar is damaged while being recorded and immediately healed and then use Black Shoes. This also applies the same to her Mana."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Lylia is a variation of Lilia or Lilia, which is derived from the Latin word lilium, meaning \"lily\", a flower symbolizing purity, beauty, and renewal. In Arabic, it is linked to Layla, meaning \"night\" or \"dark beauty.\" In Hebrew, it can be associated with Lilah, meaning \"night\" or \"gentle beauty.\""
+      },
+      {
+        "markdown": "Her pet Gloom is of the Snores species, a type of void monster who enjoys devouring magic."
+      },
+      {
+        "markdown": "Gloom resembles Tharz from Magic Chess."
+      },
+      {
+        "markdown": "In her lore, Lylia is still part of the Magic Academy, and is a top student there; but in her mastery code, she was expelled from the Academy along with her family."
+      },
+      {
+        "markdown": "She is probably inspired by an American pop singer, Melanie Martinez."
+      },
+      {
+        "markdown": "She had a split hair color, which is one of Melanie Martinez's signature hairstyles."
+      },
+      {
+        "markdown": "One of her voicelines mentioned \"Cry Baby\", which is an album and character from Melanie Martinez's storyline."
+      },
+      {
+        "markdown": "Her default skin looks like Melanie's dollhouse outfit."
+      },
+      {
+        "markdown": "Her Black Shoes (Ultimate) is one of the most unique skills in MLBB, allowing her to \"rewind time.\""
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Lylia Solinst\n\n**Alias:**\n- Little Witch\n- Dark Wizard\n- Star of the Magic Academy\n\n**Title:** \"A funny and witted little witch\"\n\n**Born:** Magic Academy, Northern Vale\n\n**Species:** Human\n\n**Gender:** Female\n\n**Weapons:**\n- Summoner's Staff\n- Gloom\n\n**Occupation/Affiliation:**\n- Top student of the Magic Academy\n- Descendant of the great magician of the Magic Academy\n\nA descendant of the great magician of the Magic Academy and known as the \"Little Witch\". Though at a young age, she has mastered the techniques to control little creature \"Gloom\".\n\n# Story\n\nHundreds of years ago, when Magic reigned high, in the Land of Dawn, Dark Mages were important precursors of the creation of the Magic Academy. However, there had always been a big gap between them and White Magic. They had completely different opinions on magic ideas.\n\nThe core of all this disputes was that Dark Magic possessed a mysterious power known as Alien Space Summoning. This magic could create a portal to the unknown worlds, bringing alien monsters to the Land of Dawn. It was destructive and unpredictable, and also a great threat to the human world. The White Mages had always opposed Summoning experiments. Yet, the Dark Mages turned a deaf ear to it. Finally, this dangerous magic went wrong during a summoning, causing a disturbance at the Magic Academy. The incident, ended with the death of a high rank, White Magician.\n\nThis triggered strong resentfulness of the White magicians and after, the Senate ruling, the Dark Magicians assumed full responsibility. They were permanently banished to the west of the Land. This decision, also led to the end of Dark Magic. The esoteric Alien Space Summoning was also permanently banned and the Magic Academy was under control of White Magic.\n\nEven after the end of this incident, which people called the Rift War, there still remained a crisis, hidden deep within the Land of Dawn. The remaining Void Monsters were appearing everywhere and they kept looking for food to live on, especially Magical Powers and this time, they got close to the Magic Academy.\n\nAt that time there was a young girl named, Lylia, who was one of the most gifted and top students of the Magic Academy, also happened to be the naughtiest girl. She also believed in Dark Magic and was the sole successor of Alien Space Summoning. She always used her powerful, but dark magic to prove that she was right. She bought horrors, rather than surprises to everyone, most of the time.\n\nNaturally, she was misunderstood by others, mainly because of her unusual characteristics and also, since she was a Black Wizard and the favourite Magic genius of the Magic Academy, the idol of apprentices. This also explains, why Lylia was hated and isolated by all her friends, why she was exiled along with other Dark Magician and also, why everyone called Lylia the \"Little Witch\". Overnight, she lost everything and turned to being a loner.\n\nRecently, however, there had been signs of Void Monsters in the Magic Academy. The magicians and Professors there, did their best to catch or at least, stop these strange creatures. Lylia had managed to capture one of the most special ones among these creatures. She not only felt his power, but also found out how cute he was. The Void Monsters were fond of Black Magic. After all, it was with the summoning of powerful black magic, that they were created.\n\nLylia gave her new found pet, a name - Gloom. She considered him to be her friend, most likely, the only friend Lylia ever had, and wanted to introduce him to everyone in the Magic Academy. But, no one believed that Lylia could have tamed such a threatening creature all by herself. They began to question and even taunt Lylia. Gloom felt that his master was being provoked, and started attacking the magicians of the Academy. Some magicians were shocked to see Gloom's power, which was in fact, far greater than that of most void monsters. They thought this was one of Lylia's schemes, to destroy the Magic Academy. They decided to capture Lylia by force and also, eliminate Gloom.\n\nNo matter what Lylia did, she couldn't stop those magicians from attacking Gloom. More magicians gathered together, to fight Lylia, as she tried to protect Gloom, and this made Gloom very angry. With the help of Lylia's dark magic, he summoned a portal to the outer world and called out many other Void Monsters to fight alongside him. Everything went out of control, as the void monsters started wrecking up the Magic Academy. A fierce battle followed, and many of those magicians were badly hurt. As a mentor and professor, Eudora summoned her lightning powers and tried her best to resist these Void Monsters, but nothing much happened. She and the other magic professors of the academy were surprised as to how these monsters had gone so vicious.\n\nLylia, however, enjoyed the vibe, as she felt, she was having a thrilling and fun time, commanding around the void monsters and running everything like she was in charge. That's when Eudora realised that this was the powerful, ancient Alien Space Summoning magic and that, there was much more crisis to face. She warned the other professors of this invasion and along with the remaining magicians, tried fending off the monsters. However, the monsters regrouped, as a huge wave of new ones appeared from the rift, and launched an attack on Eudora.\n\nEven though, Lylia wanted everyone to suffer for distrusting her and treating her poorly, she realised what she was doing was absolutely wrong. As the monsters charged onward to devour Eudora and the rest of the Magic Academy, in a hurry, Lylia dived, in front of Eudora and used her Black Power to seal those monsters into Gloom. Lylia managed to save Eudora's life. Since then, Eudora found out, that despite how indifferent Lylia was, she was much more brave and powerful with magic. She also knew that Lylia's understanding of Dark Magic was superior to others, and realized that good and evil was determined by those who wield the magic, and not the nature of the magic itself.\n\n# Abilities\n\n## Angry Gloom\n\nLylia gets power whenever she is within the area of Gloom. Additionally, every time Gloom is upgraded, her movement speed is increased, stacking up to 4 times. Each stack increases her movement speed by 5%, for a maximum of 20%. At full stacks, this can reach a total of 35% movement speed increase depending on upgrades.\n\n## Magic Shockwave\n\nLylia sends out Shadow Energy in a line, dealing magic damage based on level and Magic Power (base damage from 250 to 500 plus 100% Magic Power) to enemies along the path and slowing them by 40% for 1.5 seconds.\n\nIf the projectile touches Gloom, he will devour and detonate it, triggering its effects in an area around him.\n\n## Shadow Energy\n\nLylia condenses Shadow Energy at a location, dealing magic damage based on level and Magic Power (base damage from 100 to 160 plus 50% Total Magic Power) to enemies hit and slowing them by 80% for 0.5 seconds.\n\nIf Shadow Energy is detonated by Magic Shockwave or Gloom, it will explode to deal additional magic damage (base damage from 250 to 400 plus 100% Magic Power) and turn the Shadow Energy into enhanced Shadow Energy for 8 seconds. During this time, Gloom can then detonate additional Shadow Energies within his range, resetting his timer and moving to the Shadow Energy's location in each instance.\n\nAdditionally, whenever Gloom detonates a Shadow Energy within 8 seconds, the detonation damage is increased by 30%, stacking up to 4 times (maximum 120% increased damage). If Gloom detonates 5 Shadow Energies consecutively, this skill can deal a maximum of enhanced total damage (base damage from 250 multiplied by 2.2 to 375 multiplied by 2.2 plus 220% Magic Power).\n\nShadow Energy stores a charge every 9 seconds, up to 5 charges. Recharge time is affected by cooldown reduction.\n\nNotes:\n- This skill is available from Level 1 and can still be upgraded 6 times, but its stacks will start from 0 instead of full stacks and requires more time to reach full stacks.\n- Shadow Energy provides vision to its surroundings as well as bushes when placed inside one.\n- Lylia can summon up to a limited number of Shadow Energies at a time. If she summons another one beyond the limit, the first Shadow Energy that she summoned will disappear.\n- Lylia can summon as many Shadow Energies as she likes provided that they aren't within another Shadow Energy's range.\n\n## Black Shoes\n\nLylia returns to the Black Shoes' location 4 seconds ago and restores 100% of her HP and Mana to their previous state, and gets an extra movement speed bonus. She also gains 20% extra Movement Speed for 2 / 3 / 4 seconds depending on skill level. Lylia will be untargetable and invulnerable while teleporting.\n\nMana cost decreases with level: 120 / 60 / 0. Cooldown decreases with level: 45 / 40 / 35 seconds.\n\nNotes:\n- Because her ultimate is based on 4 seconds ago, this means she can also lose her HP with her ultimate if her HP bar is damaged while being recorded and immediately healed and then use Black Shoes. This also applies the same to her Mana.\n\n# Trivia\n\n- The name Lylia is a variation of Lilia or Lilia, which is derived from the Latin word lilium, meaning \"lily\", a flower symbolizing purity, beauty, and renewal. In Arabic, it is linked to Layla, meaning \"night\" or \"dark beauty.\" In Hebrew, it can be associated with Lilah, meaning \"night\" or \"gentle beauty.\"\n- Her pet Gloom is of the Snores species, a type of void monster who enjoys devouring magic.\n- Gloom resembles Tharz from Magic Chess.\n- In her lore, Lylia is still part of the Magic Academy, and is a top student there; but in her mastery code, she was expelled from the Academy along with her family.\n- She is probably inspired by an American pop singer, Melanie Martinez.\n- She had a split hair color, which is one of Melanie Martinez's signature hairstyles.\n- One of her voicelines mentioned \"Cry Baby\", which is an album and character from Melanie Martinez's storyline.\n- Her default skin looks like Melanie's dollhouse outfit.\n- Her Black Shoes (Ultimate) is one of the most unique skills in MLBB, allowing her to \"rewind time.\"\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "gord",
+        "eudora",
+        "harley"
+      ],
+      "faction": "Magic Academy",
+      "allies": [
+        "eudora"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [
+        "eudora"
+      ],
+      "factionRole": "Top Student",
+      "locationTies": [
+        {
+          "location": "Magic Academy",
+          "relationship": "home"
+        },
+        {
+          "location": "Northern Vale",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "world"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "mysterious"
+    ],
+    "themes": [
+      "power",
+      "misunderstanding",
+      "redemption"
+    ],
+    "hook": "Even as void monsters tore through the Magic Academy, the “Little Witch” laughed—until the moment she threw herself before her mentor to seal them all into Gloom.",
+    "teaser": "Banished for forbidden magic, Lylia returns with a void-born companion and a power feared by all—only to risk everything to save the very academy that cast her out.",
+    "openingLine": "Hundreds of years ago, when Magic reigned high, in the Land of Dawn, Dark Mages were important precursors of the creation of the Magic Academy.",
+    "dominantColor": "#5A2B81",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "Rift War",
+      "banishment of Dark Magicians",
+      "Alien Space Summoning",
+      "Void Monsters attack",
+      "Gloom as pet",
+      "Magic Academy battle",
+      "sacrifice to save mentor"
+    ],
+    "characterTraits": [
+      "mischievous",
+      "gifted",
+      "misunderstood",
+      "rebellious",
+      "brave",
+      "powerful"
+    ],
+    "locations": [
+      "Land of Dawn",
+      "Magic Academy",
+      "Northern Vale"
+    ],
+    "wordCount": 1726,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646926536,
+    "updatedAt": 1764646926536
+  },
+  "lastUpdated": null
+}

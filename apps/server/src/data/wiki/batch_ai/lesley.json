@@ -1,0 +1,197 @@
+{
+  "hero": "lesley",
+  "urlName": "lesley",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Lesley of House Vance\n\n**Alias:**\n- Deadly Sniper\n- Mysterious Black Sniper\n\n**Origin:** Castle Grandrock, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Female\n\n**Affiliation:** House Vance\n\n**Weapons:**\n- Black Vulture\n- Tactical grenade\n\n**Abilities:**\n- Camouflage\n- Sniper rifle proficiency\n\n**Relationships:**\n- Unnamed biological father (deceased)\n- Duke Vance (foster father)\n- Foster brothers\n- Crush\n\nAdopted daughter of House Vance, a clandestine sniper."
+    },
+    "story": {
+      "markdown": "> \"Adopted daughter of House Vance, a clandestine sniper.\"\n\nAfter the death of her father, she was adopted by House Vance and became Harley's sister. Lesley regarded her younger brother as everything to her, and kept protecting Harley secretly."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Defense of House Vance",
+          "content": {
+            "markdown": "Lesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men."
+          }
+        },
+        {
+          "title": "Guardian of Harley",
+          "content": {
+            "markdown": "Lesley was adopted by the Vance family, with the patriarch of the noble house even putting their sole heir, Harley under her tutelage. Harley, was a natural troublemaker, who used his talents in magic to unintentionally cause trouble for the Vance household. Only Lesley could keep Harley under control. Harley's troublemaking streak was the last part of warmth within Lesley's conscience."
+          }
+        },
+        {
+          "title": "Shadow in the Land of Dawn",
+          "content": {
+            "markdown": "After hearing about how Harley had travelled to the dangerous Land of Dawn after defeating the Boss of Dark Magic, Lesley followed him, along with her trusty heirloom rifle. After she found Harley through a long arduous journey, she discovered that the once immature young boy has changed through the numerous life experiences he had gone through. She decided it would be best to have her adopted little brother train, alone, while she would silently protect him from within the shadows. From that day on, all the monsters that were inflicted with Harley's magic would also be struck with a black bullet, that would impeccably pierce through their heart. The stories of the magical youngster who was followed by a mysterious black sniper, soon spread across the Land of Dawn, like wild fire."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Lethal Shot",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "If Lesley doesn't take damage for 5 seconds, her next Basic Attack gains extra range and 50% Critical Chance and deals extra damage, with 20% extra damage against minions. Each point of fixed Physical Penetration Lesley acquires is converted into 0.5% Critical Damage, but her base Critical Damage is reduced to 140%. \n\nLesley's Basic Attack restores 5 points of energy and her enhanced Basic Attack doubles the amount of energy restored. The cooldown of her enhanced Basic Attack resets each time Lesley casts a skill.\n\nNotes:\n- Instead, inflicts physical damage on turrets.\n- Instead of reducing Lesley's base critical damage to 140%, Lesley's total critical damage is reduced by 60%.\n- The additional critical chance applies only to the enhanced basic attack."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Master of Camouflage",
+        "cooldown": 5,
+        "cost": 30,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Lesley enters the Camouflage state, gaining double Energy Regen, 40% extra Movement Speed, and 85–135 extra Physical Attack. The state lasts 3 seconds or until Lesley takes or deals damage. Enemies can detect Lesley's position through distortions of their surroundings.\n\nAttack Bonus by level:\n- 85 / 95 / 105 / 115 / 125 / 135\n\nNotes:\n- Lethal Shot's enhanced Basic Attack starts after Master of Camouflage ends."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Tactical Grenade",
+        "cooldown": 10,
+        "cost": 40,
+        "role": "Control",
+        "details": {
+          "markdown": "Lesley throws a tactical grenade in the target direction while slightly jumping back, dealing physical damage in a cone to enemies in front of her and knocking them back. Lesley can cast this skill during Ultimate Snipe to cancel the state and immediately fire a Fatal Bullet at the target. The attack is only triggered when there are unfired Fatal Bullets left.\n\nBase Damage by level:\n- 150 / 180 / 210 / 240 / 270 / 300"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Ultimate Snipe",
+        "cooldown": 40,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lesley gains vision to nearby enemies and can lock onto the target enemy hero and fires 4 Lethal Bullets in succession, each dealing base physical damage plus extra damage based on her Physical Attack and a portion of the enemy's lost HP, and restoring 10 energy on hit. The Bullets can be blocked by other enemy heroes. If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%. Lesley's Crit Chance is increased by 5%–15%.\n\nStats by level:\n- Crit Chance: 5% / 10% / 15%\n- Base Damage: 250 / 300 / 350\n\nNotes:\n- Lesley can aim for up to 8 seconds.\n- Firing Lethal Bullets lasts up to 3.6 seconds (or earlier if canceled).\n- Each Lethal Bullet is fired approximately every 0.9 seconds.\n- Cooldown starts right upon cast.\n- Lesley will recoil after firing a Lethal Bullet; the recoil is not a blink.\n- Camera height will be raised throughout the skill duration.\n- Lesley will stop firing Lethal Bullets if the locked enemy goes too far.\n- You can hold the skill to choose the target before firing. You can also choose to cancel the skill without shooting it at all (it will still go on cooldown).\n- If the skill is canceled without shooting any, Lesley is not revealed to the enemy.\n- The aim range is 11 unit, and max range is 15 unit.\n- The indicator is shown on Lesley's minimap when holding the skill, and the skill does not activate if there are no enemy hero within range.\n- All enemies within range are revealed."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Lesley has Scottish origins and means \"garden of holly\" or \"fortress of holly\". It comes from the Scottish surname Leslie, which was derived from a place name in Scotland. Her name might symbolize her precision, stealth, and resilience, much like a fortress that stands strong or a sharpshooter hiding in the shadows."
+      },
+      {
+        "markdown": "Unlike other Marksmen, Lesley doesn’t rely on attack speed, she focuses on high burst damage from critical hits."
+      },
+      {
+        "markdown": "Lesley is one of the few marksmen in the game who use Energy instead of Mana."
+      },
+      {
+        "markdown": "Her passive, Lethal Shot, allows her to deal 100% critical damage after gaining extra energy, making her a sniper-type hero rather than a typical ADC (Attack Damage Carry)."
+      },
+      {
+        "markdown": "Both Lesley and her royal house Vance means \"Marsh, Mud, and Fen\" in Old English which is used as a masculine given name and surname mostly of American usage."
+      },
+      {
+        "markdown": "Lesley's quote; \"Enemy in range, and you are too.\" is a reference from Murphy's Law of Combat."
+      },
+      {
+        "markdown": "Lesley is the first and, so far, the only Marksman/Assassin hero in the game, whereas another hero is an Assassin/Marksman."
+      },
+      {
+        "markdown": "In her early designs, she had shorter hair and a more military-style outfit. The developers later gave her a long coat and a more assassin-like appearance, making her more stylish and deadly."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Lesley of House Vance\n\n**Alias:**\n- Deadly Sniper\n- Mysterious Black Sniper\n\n**Origin:** Castle Grandrock, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Female\n\n**Affiliation:** House Vance\n\n**Weapons:**\n- Black Vulture\n- Tactical grenade\n\n**Abilities:**\n- Camouflage\n- Sniper rifle proficiency\n\n**Relationships:**\n- Unnamed biological father (deceased)\n- Duke Vance (foster father)\n- Foster brothers\n- Crush\n\nAdopted daughter of House Vance, a clandestine sniper.\n\n# Story\n\n> \"Adopted daughter of House Vance, a clandestine sniper.\"\n\nAfter the death of her father, she was adopted by House Vance and became Harley's sister. Lesley regarded her younger brother as everything to her, and kept protecting Harley secretly.\n\n# Side Story\n\n## Defense of House Vance\n\nLesley grew up in the Vance household, where her father presided over the noble family's security. During an unexpected attack by a rival family, Lesley's father was killed. As the assailants approached the Vance household, Lesley took up her father's black long rifle and fulfilled her late father's mission. Tears rolled down Lesley's cheeks as she fired shot after shot, surprisingly, each one taking down an assassin. The final tear came as the final shot took down the last of the rival family's men.\n\n## Guardian of Harley\n\nLesley was adopted by the Vance family, with the patriarch of the noble house even putting their sole heir, Harley under her tutelage. Harley, was a natural troublemaker, who used his talents in magic to unintentionally cause trouble for the Vance household. Only Lesley could keep Harley under control. Harley's troublemaking streak was the last part of warmth within Lesley's conscience.\n\n## Shadow in the Land of Dawn\n\nAfter hearing about how Harley had travelled to the dangerous Land of Dawn after defeating the Boss of Dark Magic, Lesley followed him, along with her trusty heirloom rifle. After she found Harley through a long arduous journey, she discovered that the once immature young boy has changed through the numerous life experiences he had gone through. She decided it would be best to have her adopted little brother train, alone, while she would silently protect him from within the shadows. From that day on, all the monsters that were inflicted with Harley's magic would also be struck with a black bullet, that would impeccably pierce through their heart. The stories of the magical youngster who was followed by a mysterious black sniper, soon spread across the Land of Dawn, like wild fire.\n\n# Abilities\n\n## Lethal Shot\n\nIf Lesley doesn't take damage for 5 seconds, her next Basic Attack gains extra range and 50% Critical Chance and deals extra damage, with 20% extra damage against minions. Each point of fixed Physical Penetration Lesley acquires is converted into 0.5% Critical Damage, but her base Critical Damage is reduced to 140%. \n\nLesley's Basic Attack restores 5 points of energy and her enhanced Basic Attack doubles the amount of energy restored. The cooldown of her enhanced Basic Attack resets each time Lesley casts a skill.\n\nNotes:\n- Instead, inflicts physical damage on turrets.\n- Instead of reducing Lesley's base critical damage to 140%, Lesley's total critical damage is reduced by 60%.\n- The additional critical chance applies only to the enhanced basic attack.\n\n## Master of Camouflage\n\nLesley enters the Camouflage state, gaining double Energy Regen, 40% extra Movement Speed, and 85–135 extra Physical Attack. The state lasts 3 seconds or until Lesley takes or deals damage. Enemies can detect Lesley's position through distortions of their surroundings.\n\nAttack Bonus by level:\n- 85 / 95 / 105 / 115 / 125 / 135\n\nNotes:\n- Lethal Shot's enhanced Basic Attack starts after Master of Camouflage ends.\n\n## Tactical Grenade\n\nLesley throws a tactical grenade in the target direction while slightly jumping back, dealing physical damage in a cone to enemies in front of her and knocking them back. Lesley can cast this skill during Ultimate Snipe to cancel the state and immediately fire a Fatal Bullet at the target. The attack is only triggered when there are unfired Fatal Bullets left.\n\nBase Damage by level:\n- 150 / 180 / 210 / 240 / 270 / 300\n\n## Ultimate Snipe\n\nLesley gains vision to nearby enemies and can lock onto the target enemy hero and fires 4 Lethal Bullets in succession, each dealing base physical damage plus extra damage based on her Physical Attack and a portion of the enemy's lost HP, and restoring 10 energy on hit. The Bullets can be blocked by other enemy heroes. If this skill is interrupted, each remaining Bullet reduces the skill cooldown by 10%. Lesley's Crit Chance is increased by 5%–15%.\n\nStats by level:\n- Crit Chance: 5% / 10% / 15%\n- Base Damage: 250 / 300 / 350\n\nNotes:\n- Lesley can aim for up to 8 seconds.\n- Firing Lethal Bullets lasts up to 3.6 seconds (or earlier if canceled).\n- Each Lethal Bullet is fired approximately every 0.9 seconds.\n- Cooldown starts right upon cast.\n- Lesley will recoil after firing a Lethal Bullet; the recoil is not a blink.\n- Camera height will be raised throughout the skill duration.\n- Lesley will stop firing Lethal Bullets if the locked enemy goes too far.\n- You can hold the skill to choose the target before firing. You can also choose to cancel the skill without shooting it at all (it will still go on cooldown).\n- If the skill is canceled without shooting any, Lesley is not revealed to the enemy.\n- The aim range is 11 unit, and max range is 15 unit.\n- The indicator is shown on Lesley's minimap when holding the skill, and the skill does not activate if there are no enemy hero within range.\n- All enemies within range are revealed.\n\n# Trivia\n\n- The name Lesley has Scottish origins and means \"garden of holly\" or \"fortress of holly\". It comes from the Scottish surname Leslie, which was derived from a place name in Scotland. Her name might symbolize her precision, stealth, and resilience, much like a fortress that stands strong or a sharpshooter hiding in the shadows.\n- Unlike other Marksmen, Lesley doesn’t rely on attack speed, she focuses on high burst damage from critical hits.\n- Lesley is one of the few marksmen in the game who use Energy instead of Mana.\n- Her passive, Lethal Shot, allows her to deal 100% critical damage after gaining extra energy, making her a sniper-type hero rather than a typical ADC (Attack Damage Carry).\n- Both Lesley and her royal house Vance means \"Marsh, Mud, and Fen\" in Old English which is used as a masculine given name and surname mostly of American usage.\n- Lesley's quote; \"Enemy in range, and you are too.\" is a reference from Murphy's Law of Combat.\n- Lesley is the first and, so far, the only Marksman/Assassin hero in the game, whereas another hero is an Assassin/Marksman.\n- In her early designs, she had shorter hair and a more military-style outfit. The developers later gave her a long coat and a more assassin-like appearance, making her more stylish and deadly.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "ongoing",
+    "relationships": {
+      "relatedHeroes": [
+        "harley",
+        "fredrinn",
+        "gusion",
+        "yi_sun_shin"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "harley"
+      ],
+      "rivals": [],
+      "family": [
+        "harley"
+      ],
+      "mentors": [],
+      "factionRole": "Member",
+      "locationTies": [
+        {
+          "location": "Castle Grandrock",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "home"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "family",
+      "loyalty",
+      "destiny"
+    ],
+    "hook": "From the shadows of House Vance to the vast Land of Dawn, every monster Harley marks falls to a single black bullet from the mysterious sniper at his back.",
+    "teaser": "Adopted by nobles after tragedy, Lesley becomes a silent guardian to her troublemaking brother Harley, her every shot reshaping rumors across the Land of Dawn.",
+    "openingLine": "Lesley grew up in the Vance household, where her father presided over the noble family's security.",
+    "dominantColor": "#2A3147",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 3,
+    "chapterTitles": [
+      "Defense of House Vance",
+      "Guardian of Harley",
+      "Shadow in the Land of Dawn"
+    ],
+    "plotKeywords": [
+      "assassination of father",
+      "adoption by House Vance",
+      "protecting Harley",
+      "Land of Dawn journey",
+      "mysterious sniper rumors"
+    ],
+    "characterTraits": [
+      "protective",
+      "stoic",
+      "loyal",
+      "precise",
+      "resilient"
+    ],
+    "locations": [
+      "Castle Grandrock",
+      "Moniyan Empire",
+      "Land of Dawn"
+    ],
+    "wordCount": 1133,
+    "readingTimeMinutes": 8,
+    "connectionsCount": 4,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646926543,
+    "updatedAt": 1764646926543
+  },
+  "lastUpdated": null
+}

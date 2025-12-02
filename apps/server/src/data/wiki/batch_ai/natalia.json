@@ -1,0 +1,177 @@
+{
+  "hero": "natalia",
+  "urlName": "natalia",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Bright Claw\n\n**Chinese Name:** 娜塔莉 (Nàtǎlì)\n\n**Origin:** Monastery of Light, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Female\n\n**Occupation:** Chief assassin of Monastery of Light\n\n**Affiliation:** Monastery of Light\n\n**Weapons:**\n- Claw blade\n- Smoke bomb\n\n**Abilities:**\n- Invisibility\n\n**Traits:** Cruel, Solitary\n\n**Relationships:** (companion)\n\n**Quote:**\n\n> \"Assassin exiled by the Moniyan Empire.\""
+    },
+    "story": {
+      "markdown": "The chief assassin of the Church of Light. She once made a mistake during an assassination mission, making companion encounter unprecedented disaster. Although she was able to escape with the assistance of Tigreal, she was later exiled to the border to the Empire to perform more dangerous tasks."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Orphan of War",
+          "content": {
+            "markdown": "Natalia was orphaned from the war and she was raised as a little girl by the Monastery of Light. Natalia was trained into becoming one of the Light assassins. This young phenom had risen to become the top assassin for the Monastery, via her outstanding talents.\n\nHowever, on one assassination mission, she failed in her execution, causing her companions to meet with unprecedented disaster and death. Although she managed to escape danger, with Tigreal's help, this was undoubtedly a severe blow to Natalia's pride.\n\nTo prove herself again, she exiled herself to the outskirts of the land, far from the Moniyan Empire and the Monastery of Light, to carry out more dangerous missions. It is never known who her target is or where she might strike next. All that people know is that Natalia intends to win back all that she once possessed."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Assassin Instinct",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "If Natalia stays in a bush without taking damage for 1 second, she will enter Camouflage state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal scaling physical damage while silencing the target for 0.25 seconds.\n\nDealing damage, taking damage or using skills will immediately end the Camouflage state, but her next Basic Attack will remain enhanced for another 1 second.\n\nNatalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%.\n\n- Her basic attack range is also increased to 3.8 units during Camouflage state."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Claw Dash",
+        "cooldown": 10,
+        "cost": 50,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0\n\nMana Cost: 50 / 55 / 60 / 65 / 70 / 75\n\nNatalia dashes in the target direction, dealing physical damage to enemies in her path. After hitting an enemy, she can cast this skill again within 5 seconds.\n\n- Base Damage: 250 / 270 / 290 / 310 / 330 / 350\n- Damage scales with physical attack."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Smoke Bomb",
+        "cooldown": 12,
+        "cost": 80,
+        "role": "Defense",
+        "details": {
+          "markdown": "Cooldown: 12.0\n\nMana Cost: 80 / 85 / 90 / 95 / 100 / 105\n\n> \"No one beats me in my own game.\"\n\nNatalia releases a Smoke Bomb at her location, slowing enemies within by 25%–75% while Natalia becomes immune to enemy Basic Attacks for 4 seconds.\n\n- Slow Effect: 25% / 35% / 45% / 55% / 65% / 75%"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "The Hunt",
+        "cooldown": 3,
+        "cost": 90,
+        "role": "Damage",
+        "details": {
+          "markdown": "Cooldown: 3.0\n\nMana Cost: 90 / 110 / 130\n\nRecharging Time: 30.0 / 27.0 / 24.0\n\nPassive: Natalia gains 15%–45% extra Crit Chance.\n\nActive: Natalia immediately enters Assassin Instinct state. Natalia can store up to 2 charges of her Ultimate and each charge has a recharge time of 30 seconds. Creep kills will reduce the current remaining recharge time by 50% of the full recharge time.\n\n- Crit Chance: 15% / 30% / 45%\n- The cooldown of this skill is not affected by Cooldown Reduction."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Natalia's name has Latin origins and means \"Christmas Day;\" the name was usually given to girls born in Christmas period. Coincidentally, she was released on the month of December 2016."
+      },
+      {
+        "markdown": "Natalia is likely inspired by the Assassins of the Assassin's Creed video game series as evident on her design and quotes."
+      },
+      {
+        "markdown": "Natalia is one of the heroes who has an ability that interacts with the environment (the bush)."
+      },
+      {
+        "markdown": "Her ultimate quote ultimate quote, \"Nothing is true!\", is a phrase attributed to Hassan-i Sabbah, the founder of Order of the Hashshashin from which the term \"assassin\" originates."
+      },
+      {
+        "markdown": "Cyber Spectre is the skin of Best Design in MLBB 1st Skin Design Competition by MGL."
+      },
+      {
+        "markdown": "Natalia's Collector Skin \"Warrioress Paragon\" was given away for a limited-time, making it the first free collector skin ever."
+      },
+      {
+        "markdown": "Natalia free collector skin and Miya collector skin are related. Miya's arrows can open portals to the future. Natalia came through this portal."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Bright Claw\n\n**Chinese Name:** 娜塔莉 (Nàtǎlì)\n\n**Origin:** Monastery of Light, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Female\n\n**Occupation:** Chief assassin of Monastery of Light\n\n**Affiliation:** Monastery of Light\n\n**Weapons:**\n- Claw blade\n- Smoke bomb\n\n**Abilities:**\n- Invisibility\n\n**Traits:** Cruel, Solitary\n\n**Relationships:** (companion)\n\n**Quote:**\n\n> \"Assassin exiled by the Moniyan Empire.\"\n\n# Story\n\nThe chief assassin of the Church of Light. She once made a mistake during an assassination mission, making companion encounter unprecedented disaster. Although she was able to escape with the assistance of Tigreal, she was later exiled to the border to the Empire to perform more dangerous tasks.\n\n# Side Story\n\n## Orphan of War\n\nNatalia was orphaned from the war and she was raised as a little girl by the Monastery of Light. Natalia was trained into becoming one of the Light assassins. This young phenom had risen to become the top assassin for the Monastery, via her outstanding talents.\n\nHowever, on one assassination mission, she failed in her execution, causing her companions to meet with unprecedented disaster and death. Although she managed to escape danger, with Tigreal's help, this was undoubtedly a severe blow to Natalia's pride.\n\nTo prove herself again, she exiled herself to the outskirts of the land, far from the Moniyan Empire and the Monastery of Light, to carry out more dangerous missions. It is never known who her target is or where she might strike next. All that people know is that Natalia intends to win back all that she once possessed.\n\n# Abilities\n\n## Assassin Instinct\n\nIf Natalia stays in a bush without taking damage for 1 second, she will enter Camouflage state and gain 15% Movement Speed. In this state, Natalia's next Basic Attack will teleport her behind her target and deal scaling physical damage while silencing the target for 0.25 seconds.\n\nDealing damage, taking damage or using skills will immediately end the Camouflage state, but her next Basic Attack will remain enhanced for another 1 second.\n\nNatalia's base Crit Damage is reduced to 150%, but her damage to Creeps is increased to 150%.\n\n- Her basic attack range is also increased to 3.8 units during Camouflage state.\n\n## Claw Dash\n\nCooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0\n\nMana Cost: 50 / 55 / 60 / 65 / 70 / 75\n\nNatalia dashes in the target direction, dealing physical damage to enemies in her path. After hitting an enemy, she can cast this skill again within 5 seconds.\n\n- Base Damage: 250 / 270 / 290 / 310 / 330 / 350\n- Damage scales with physical attack.\n\n## Smoke Bomb\n\nCooldown: 12.0\n\nMana Cost: 80 / 85 / 90 / 95 / 100 / 105\n\n> \"No one beats me in my own game.\"\n\nNatalia releases a Smoke Bomb at her location, slowing enemies within by 25%–75% while Natalia becomes immune to enemy Basic Attacks for 4 seconds.\n\n- Slow Effect: 25% / 35% / 45% / 55% / 65% / 75%\n\n## The Hunt\n\nCooldown: 3.0\n\nMana Cost: 90 / 110 / 130\n\nRecharging Time: 30.0 / 27.0 / 24.0\n\nPassive: Natalia gains 15%–45% extra Crit Chance.\n\nActive: Natalia immediately enters Assassin Instinct state. Natalia can store up to 2 charges of her Ultimate and each charge has a recharge time of 30 seconds. Creep kills will reduce the current remaining recharge time by 50% of the full recharge time.\n\n- Crit Chance: 15% / 30% / 45%\n- The cooldown of this skill is not affected by Cooldown Reduction.\n\n# Trivia\n\n- Natalia's name has Latin origins and means \"Christmas Day;\" the name was usually given to girls born in Christmas period. Coincidentally, she was released on the month of December 2016.\n- Natalia is likely inspired by the Assassins of the Assassin's Creed video game series as evident on her design and quotes.\n- Natalia is one of the heroes who has an ability that interacts with the environment (the bush).\n- Her ultimate quote ultimate quote, \"Nothing is true!\", is a phrase attributed to Hassan-i Sabbah, the founder of Order of the Hashshashin from which the term \"assassin\" originates.\n- Cyber Spectre is the skin of Best Design in MLBB 1st Skin Design Competition by MGL.\n- Natalia's Collector Skin \"Warrioress Paragon\" was given away for a limited-time, making it the first free collector skin ever.\n- Natalia free collector skin and Miya collector skin are related. Miya's arrows can open portals to the future. Natalia came through this portal.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "tigreal",
+        "miya"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "tigreal"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Chief assassin",
+      "locationTies": [
+        {
+          "location": "Monastery of Light",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "home"
+        },
+        {
+          "location": "outskirts of the land",
+          "relationship": "exile"
+        }
+      ]
+    },
+    "moods": [
+      "dark",
+      "heroic"
+    ],
+    "themes": [
+      "redemption",
+      "power"
+    ],
+    "hook": "It is never known who her target is or where she might strike next; all that people know is that Natalia intends to win back all that she once possessed.",
+    "teaser": "Once a war orphan turned top assassin of the Monastery of Light, Natalia now stalks the empire’s borders in exile, hunting in silence to reclaim her lost pride.",
+    "openingLine": "Natalia was orphaned from the war and she was raised as a little girl by the Monastery of Light.",
+    "dominantColor": "#2B4F81",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Orphan of War"
+    ],
+    "plotKeywords": [
+      "war orphan",
+      "monastery training",
+      "failed assassination",
+      "companions' deaths",
+      "self-imposed exile",
+      "dangerous missions",
+      "assassin pride"
+    ],
+    "characterTraits": [
+      "cruel",
+      "solitary",
+      "proud",
+      "determined",
+      "disciplined"
+    ],
+    "locations": [
+      "Monastery of Light",
+      "Moniyan Empire",
+      "outskirts of the land"
+    ],
+    "wordCount": 719,
+    "readingTimeMinutes": 5,
+    "connectionsCount": 2,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646898241,
+    "updatedAt": 1764646898241
+  },
+  "lastUpdated": null
+}

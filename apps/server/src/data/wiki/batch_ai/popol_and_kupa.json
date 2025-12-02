@@ -1,0 +1,190 @@
+{
+  "hero": "popol_and_kupa",
+  "urlName": "popol_and_kupa",
+  "sections": {
+    "profile": {
+      "markdown": "Popol is a naughty boy who has ambitions and lofty ideals but is not understood. Later, Popol and Kupa became the closest partners in the Ice Field.\n\n- Name: Popol\n- Chinese Name: 波波鲁 (bōbōlǔ)\n- Alias: Icefield Companions\n- Origin: Northern Vale\n- Species: Human\n- Gender: Male\n- Occupation: Hunter\n- Weapons:\n  - Spear\n  - Frosted beartraps\n  - Dagger\n- Relationships: Kupa (sidekick)\n- English Voice Actor: Alicia Gerrard\n- Japanese Voice Actor: Fushida Riho (伏田里穂)\n\n- Name: Kupa\n- Chinese Name: 库巴 (kùbā)\n- Alias: Icefield Companions\n- Origin: Northern Vale\n- Species: Dire wolf\n- Abilities: Transforms into an Alpha wolf\n- Relationships: Popol (companion)\n\n> \"Boy and an Icefield Wolf, partners who understand each other well\""
+    },
+    "story": {
+      "markdown": "The Feldans are an ordinary nomad tribe found in the middle of Northern Vale. Like most of the local people, they reside near the forest and live a peaceful and slow-paced life, as experienced hunters.\n\nBut there was one exception. Popol, a naughty boy who had been known as the expert prankster and the little adventurer of the tribe, always seemed to be at the center of attention. Unlike the other quiet and composed Northern Valers, he was full of vigor and imagination. Thanks to the warrior tradition of Northern Vale, Popol mastered the art of spear-throwing since his childhood. He often joined the adults in their hunting and return with a cart full of prey.\n\nListening to the adults singing songs about legendary heroes after drinking, was his favorite pastime. He dreamt of becoming one of them and have his name sung by others like Popol, the Fearless.\n\nHowever, his tribesmen didn't take his ambition seriously and laughed about it as if it were some childish daydream. Popol apparently couldn't stand that. In order to impress the others, he pulled all kinds of well-schemed pranks on them, resulting only in the villagers, especially kids, seeing him as a freak and staying away from him.\n\nThe more alienated he was, the more eager he became to draw their attention by pulling even more pranks. However, that kept achieving the opposite effects. In the end, he had no friends left. Alone and desperate, he decided to do something extraordinary to reverse his image once and for all.\n\nOn a dark night, Popol left the village and ventured into the mountains. He planned to kill a ferocious frost wolf all by himself to impress the others. He stumbled into the thick forest and investigated his surroundings curiously. As expected, he lost orientation in the dark and fell into a trap.\n\nAs Popol stumbled into the deep pit, he hit his head on a rock, gazing his vision. After he regained consciousness, he looked around, wondering where he was, and the first thing he saw at the bottom of the hole was a pair of glowing blue eyes, which scared him off his feet. But when the moonlight shone into the trap, he saw the owner of the eyes - a trapped frost wolf, whom he later gave the name Kupa. One of it's front feet was clamped and hurt by a beast trap and due to starvation, it could barely move.\n\nPopol could have killed Kupa then and there, but when he raised his spear, he saw the same loneliness in Kupa's eyes. If he killed Kupa, he would be completely alone in the darkness of the trap. Hesitantly, he put down the spear and tried to help Kupa.\n\nAt first, they were defensive and hostile towards the other. But in time. the two lonely souls finally lowered their guard and regarded the other as the same kind. Despite being trapped in the pit, they got a warm feeling in the presence of the other. The beast trap became the bridge of their friendship. And perhaps due to their loneliness, Popol treated Kupa as a listener and playmate. He even playfully threw snowballs on Kupa's snout.\n\nBut at this point, Kupa was almost starving to death. Popol hesitated for a while, before sharing the food he carried, with the dying Kupa.\n\nHowever, Popol decided to feed Kupa and Kupa was eventually saved from starvation. In Kupa's mind, all humans were cold and ruthless like the hunters. It was usually always a life-and-death situation between them and the frost wolves. But Popol was different. Having been hunted alone in the forest since it was born, Kupa felt kindness and warmth for the first time from Popol. As time went by, Popol and Kupa started surviving on rats and other small creatures, that Popol would catch with his spear and then share with Kupa.\n\nA few days passed, and the two formed a subtle friendship. Unfortunately, there wasn't much food or rats left for them to survive. And to make it even worse, their first visitors were not people coming to rescue them, but a group of vultures. They flocked to the trap and began to attack. Popol threw his spear at the vultures, but he couldn't fend them off, while Kupa could only fight aimlessly with one free paw.\n\nUnder the continuous harassment of the vultures, they were becoming the birds' meal. Ot was at this time of danger that Popol made a remarkable decision - he threw down the spear and with all his strength, tore open the beast trap, in order to help Kupa escape. With his back exposed, he was caught by a vulture and lifted off the trap in mid-air. Just as Popol lost all hope, a thundering roar broke out. Kupa leaped out of the pit and pounced on the vulture, freeing Popol from it's grasp.\n\nNow, with both fighting side by side, Popol and Kupa demonstrated incredible synergy and repelled all the vultures for good. Henceforth, they became the best partners in adventure. They traveled the frozen lands and together, began a new chapter in the tale of their adventure.\n\n> \"Boy and an Icefield Wolf, partners who understand each other well\""
+    },
+    "bio": {
+      "markdown": "Popol is a naughty boy who has ambitions and lofty ideals but is not understood. In order to prove himself, he went alone to hunt down the Icefield Dire Wolves, but accidentally fell into a trap. There was also an Dire Wolf called Kupa inside the trap. After a long time together, they developed a friendship and fought against a group of vultures together. Later, Popol and Kupa became the closest partners in the Ice Field."
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Target locked! Launch Attack!",
+          "content": {
+            "markdown": ""
+          }
+        },
+        {
+          "title": "Fighters on the Stormy Sea",
+          "content": {
+            "markdown": ""
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "We Are Friends",
+        "cooldown": 30,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Popol's good care allows Kupa to recover 10% Max HP per second after not taking damage for 5 seconds. When Kupa is down, Popol can pray for 3 seconds to bring it back to the battlefield. Cooldown: 30 seconds.\n\nAfter launching 3 consecutive attacks on the enemy, Kupa will enhance Popol's next Physical Basic Attack, allowing him to deal scaling damage on hit. Kupa has Max HP scaling based on Popol's Max HP and inherits 100% of Popol's other attributes and equipment effects (excluding those of active, jungling, and roaming equipment).\n\nNotes:\n- Despite being considered as a hero alongside Popol, Kupa is a summoned unit accompanied by the hero Popol, due to the fact that he summons it to be resurrected.\n- If Popol dies, Kupa also die with him.\n- Kupa possesses attributes held in common by heroes and creeps.\n\nBugs:\n- Kupa will take an additional damage on certain skills that has reduced or increased damage to non-hero units."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Bite 'em, Kupa!",
+        "cooldown": 6.5,
+        "cost": 50,
+        "role": "Damage",
+        "details": {
+          "markdown": "Popol throws a spear at the target for Signal Arrow damage and orders Kupa to bite them, dealing Physical Skill damage and following up with attacks for 3 seconds.\n\nSignal Arrow Damage: 80 / 110 / 140 / 170 (scaling Physical Damage)\nBase Damage: 100 / 130 / 160 / 190 (scaling Physical Damage)\nMana Cost: 50 / 60 / 70 / 80\n\nAlpha Wolf Form:\nKupa strikes ferociously, stunning the target for 1 second with 3 rapid bites."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Kupa, Help!",
+        "cooldown": 6.5,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Popol summons Kupa to protect him, gaining a shield while dealing Physical Skill damage to nearby enemies and slowing them by 35% for a short duration. Kupa will assist Popol in battle for 3 seconds.\n\nBasic Shield: 240 / 270 / 300 / 330 (scaling Shield)\nBase Damage: 240 / 270 / 300 / 330 (scaling Physical Damage)\nMana Cost: 80 / 90 / 100 / 110\n\nAlpha Wolf Form:\nKupa darts back to protect its master and knocks nearby enemies airborne for a brief duration. The shield and damage are increased to 125%."
+        }
+      },
+      {
+        "slot": "Skill 3",
+        "name": "Popol's Surprise",
+        "cooldown": 1.5,
+        "cost": 60,
+        "role": "Control",
+        "details": {
+          "markdown": "Popol sets a trap which will detonate after a short delay to the enemy that steps on it, dealing Magic Damage, immobilizing it for 1 second, and creating a frost zone for 4 seconds, reducing Movement Speed of enemies within the zone by 20%.\n\nBase Damage: 70 / 80 / 90 / 100 (scaling Magic Damage)\nMana Cost: 60 / 50 / 40 / 30\nRecharge Time: 22 / 20 / 18 / 16 seconds\n\nPopol can store up to 3 traps at a time and gains 1 charge per recharge interval. Up to 3 traps can be set, each lasting 60 seconds."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "We Are Angry!",
+        "cooldown": 38,
+        "cost": 100,
+        "role": "Damage",
+        "details": {
+          "markdown": "Popol and Kupa enter the enraged state for 12 seconds.\n\nPopol and Kupa both gain 15% extra Movement Speed and increase their Attack Speed to 1.3 / 1.5 / 1.7 times. Kupa turns into the Alpha Wolf Form, gains extra Max HP, and enhances its other skills. Also fully restores its HP.\n\nAttack Speed Boost: 1.3 / 1.5 / 1.7\nHP Boost: 1500 / 2500 / 3500\nMana Cost: 100 / 120 / 140\n\nNotes:\n- The attack speed increase is multiplied to the total attack speed, instead of adding it as extra attack speed."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Popol & Kupa are heavily inspired by Nordic and Arctic tribal cultures, particularly their hunting traditions and strong bonds with animals like wolves and dogs. His fur-lined outfit and tribal markings resemble Inuit, Sámi, and Viking-era hunters who lived in icy regions."
+      },
+      {
+        "markdown": "Popol and Kupa are the first heroes whose names and titles are shared. Despite being considered as a hero alongside Popol, Kupa is a summoned unit, due to the fact that he summons it to be resurrected."
+      },
+      {
+        "markdown": "Popol is one of the few heroes that breaks the 4th wall through one of his quotes."
+      },
+      {
+        "markdown": "Popol & Kupa are the only Marksman in Mobile Legends: Bang Bang with a full four-skill set."
+      },
+      {
+        "markdown": "Kupa is based on Fenrir, which is is a monstrous wolf in Norse mythology. In Old Norse texts, Fenrir plays a key role during the events of Ragnarök."
+      },
+      {
+        "markdown": "Nunu & Willump from League of Legends, Rexxar from Warcraft III: Reign of Chaos, and Beastmaster from Dota 2 are some of the Summoner/Beastmaster-type heroes in other games like Popol and Kupa."
+      },
+      {
+        "markdown": "The duo's playstyle is similar to traditional beast tamers or shamans from various cultures."
+      },
+      {
+        "markdown": "Popol and Kupa, and another hero have same voice actress, Alicia Gerrard."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nPopol is a naughty boy who has ambitions and lofty ideals but is not understood. Later, Popol and Kupa became the closest partners in the Ice Field.\n\n- Name: Popol\n- Chinese Name: 波波鲁 (bōbōlǔ)\n- Alias: Icefield Companions\n- Origin: Northern Vale\n- Species: Human\n- Gender: Male\n- Occupation: Hunter\n- Weapons:\n  - Spear\n  - Frosted beartraps\n  - Dagger\n- Relationships: Kupa (sidekick)\n- English Voice Actor: Alicia Gerrard\n- Japanese Voice Actor: Fushida Riho (伏田里穂)\n\n- Name: Kupa\n- Chinese Name: 库巴 (kùbā)\n- Alias: Icefield Companions\n- Origin: Northern Vale\n- Species: Dire wolf\n- Abilities: Transforms into an Alpha wolf\n- Relationships: Popol (companion)\n\n> \"Boy and an Icefield Wolf, partners who understand each other well\"\n\n# Bio\n\nPopol is a naughty boy who has ambitions and lofty ideals but is not understood. In order to prove himself, he went alone to hunt down the Icefield Dire Wolves, but accidentally fell into a trap. There was also an Dire Wolf called Kupa inside the trap. After a long time together, they developed a friendship and fought against a group of vultures together. Later, Popol and Kupa became the closest partners in the Ice Field.\n\n# Story\n\nThe Feldans are an ordinary nomad tribe found in the middle of Northern Vale. Like most of the local people, they reside near the forest and live a peaceful and slow-paced life, as experienced hunters.\n\nBut there was one exception. Popol, a naughty boy who had been known as the expert prankster and the little adventurer of the tribe, always seemed to be at the center of attention. Unlike the other quiet and composed Northern Valers, he was full of vigor and imagination. Thanks to the warrior tradition of Northern Vale, Popol mastered the art of spear-throwing since his childhood. He often joined the adults in their hunting and return with a cart full of prey.\n\nListening to the adults singing songs about legendary heroes after drinking, was his favorite pastime. He dreamt of becoming one of them and have his name sung by others like Popol, the Fearless.\n\nHowever, his tribesmen didn't take his ambition seriously and laughed about it as if it were some childish daydream. Popol apparently couldn't stand that. In order to impress the others, he pulled all kinds of well-schemed pranks on them, resulting only in the villagers, especially kids, seeing him as a freak and staying away from him.\n\nThe more alienated he was, the more eager he became to draw their attention by pulling even more pranks. However, that kept achieving the opposite effects. In the end, he had no friends left. Alone and desperate, he decided to do something extraordinary to reverse his image once and for all.\n\nOn a dark night, Popol left the village and ventured into the mountains. He planned to kill a ferocious frost wolf all by himself to impress the others. He stumbled into the thick forest and investigated his surroundings curiously. As expected, he lost orientation in the dark and fell into a trap.\n\nAs Popol stumbled into the deep pit, he hit his head on a rock, gazing his vision. After he regained consciousness, he looked around, wondering where he was, and the first thing he saw at the bottom of the hole was a pair of glowing blue eyes, which scared him off his feet. But when the moonlight shone into the trap, he saw the owner of the eyes - a trapped frost wolf, whom he later gave the name Kupa. One of it's front feet was clamped and hurt by a beast trap and due to starvation, it could barely move.\n\nPopol could have killed Kupa then and there, but when he raised his spear, he saw the same loneliness in Kupa's eyes. If he killed Kupa, he would be completely alone in the darkness of the trap. Hesitantly, he put down the spear and tried to help Kupa.\n\nAt first, they were defensive and hostile towards the other. But in time. the two lonely souls finally lowered their guard and regarded the other as the same kind. Despite being trapped in the pit, they got a warm feeling in the presence of the other. The beast trap became the bridge of their friendship. And perhaps due to their loneliness, Popol treated Kupa as a listener and playmate. He even playfully threw snowballs on Kupa's snout.\n\nBut at this point, Kupa was almost starving to death. Popol hesitated for a while, before sharing the food he carried, with the dying Kupa.\n\nHowever, Popol decided to feed Kupa and Kupa was eventually saved from starvation. In Kupa's mind, all humans were cold and ruthless like the hunters. It was usually always a life-and-death situation between them and the frost wolves. But Popol was different. Having been hunted alone in the forest since it was born, Kupa felt kindness and warmth for the first time from Popol. As time went by, Popol and Kupa started surviving on rats and other small creatures, that Popol would catch with his spear and then share with Kupa.\n\nA few days passed, and the two formed a subtle friendship. Unfortunately, there wasn't much food or rats left for them to survive. And to make it even worse, their first visitors were not people coming to rescue them, but a group of vultures. They flocked to the trap and began to attack. Popol threw his spear at the vultures, but he couldn't fend them off, while Kupa could only fight aimlessly with one free paw.\n\nUnder the continuous harassment of the vultures, they were becoming the birds' meal. Ot was at this time of danger that Popol made a remarkable decision - he threw down the spear and with all his strength, tore open the beast trap, in order to help Kupa escape. With his back exposed, he was caught by a vulture and lifted off the trap in mid-air. Just as Popol lost all hope, a thundering roar broke out. Kupa leaped out of the pit and pounced on the vulture, freeing Popol from it's grasp.\n\nNow, with both fighting side by side, Popol and Kupa demonstrated incredible synergy and repelled all the vultures for good. Henceforth, they became the best partners in adventure. They traveled the frozen lands and together, began a new chapter in the tale of their adventure.\n\n> \"Boy and an Icefield Wolf, partners who understand each other well\"\n\n# Side Story\n\n## Target locked! Launch Attack!\n\n\n\n## Fighters on the Stormy Sea\n\n\n\n# Abilities\n\n## We Are Friends\n\nPopol's good care allows Kupa to recover 10% Max HP per second after not taking damage for 5 seconds. When Kupa is down, Popol can pray for 3 seconds to bring it back to the battlefield. Cooldown: 30 seconds.\n\nAfter launching 3 consecutive attacks on the enemy, Kupa will enhance Popol's next Physical Basic Attack, allowing him to deal scaling damage on hit. Kupa has Max HP scaling based on Popol's Max HP and inherits 100% of Popol's other attributes and equipment effects (excluding those of active, jungling, and roaming equipment).\n\nNotes:\n- Despite being considered as a hero alongside Popol, Kupa is a summoned unit accompanied by the hero Popol, due to the fact that he summons it to be resurrected.\n- If Popol dies, Kupa also die with him.\n- Kupa possesses attributes held in common by heroes and creeps.\n\nBugs:\n- Kupa will take an additional damage on certain skills that has reduced or increased damage to non-hero units.\n\n## Bite 'em, Kupa!\n\nPopol throws a spear at the target for Signal Arrow damage and orders Kupa to bite them, dealing Physical Skill damage and following up with attacks for 3 seconds.\n\nSignal Arrow Damage: 80 / 110 / 140 / 170 (scaling Physical Damage)\nBase Damage: 100 / 130 / 160 / 190 (scaling Physical Damage)\nMana Cost: 50 / 60 / 70 / 80\n\nAlpha Wolf Form:\nKupa strikes ferociously, stunning the target for 1 second with 3 rapid bites.\n\n## Kupa, Help!\n\nPopol summons Kupa to protect him, gaining a shield while dealing Physical Skill damage to nearby enemies and slowing them by 35% for a short duration. Kupa will assist Popol in battle for 3 seconds.\n\nBasic Shield: 240 / 270 / 300 / 330 (scaling Shield)\nBase Damage: 240 / 270 / 300 / 330 (scaling Physical Damage)\nMana Cost: 80 / 90 / 100 / 110\n\nAlpha Wolf Form:\nKupa darts back to protect its master and knocks nearby enemies airborne for a brief duration. The shield and damage are increased to 125%.\n\n## Popol's Surprise\n\nPopol sets a trap which will detonate after a short delay to the enemy that steps on it, dealing Magic Damage, immobilizing it for 1 second, and creating a frost zone for 4 seconds, reducing Movement Speed of enemies within the zone by 20%.\n\nBase Damage: 70 / 80 / 90 / 100 (scaling Magic Damage)\nMana Cost: 60 / 50 / 40 / 30\nRecharge Time: 22 / 20 / 18 / 16 seconds\n\nPopol can store up to 3 traps at a time and gains 1 charge per recharge interval. Up to 3 traps can be set, each lasting 60 seconds.\n\n## We Are Angry!\n\nPopol and Kupa enter the enraged state for 12 seconds.\n\nPopol and Kupa both gain 15% extra Movement Speed and increase their Attack Speed to 1.3 / 1.5 / 1.7 times. Kupa turns into the Alpha Wolf Form, gains extra Max HP, and enhances its other skills. Also fully restores its HP.\n\nAttack Speed Boost: 1.3 / 1.5 / 1.7\nHP Boost: 1500 / 2500 / 3500\nMana Cost: 100 / 120 / 140\n\nNotes:\n- The attack speed increase is multiplied to the total attack speed, instead of adding it as extra attack speed.\n\n# Trivia\n\n- Popol & Kupa are heavily inspired by Nordic and Arctic tribal cultures, particularly their hunting traditions and strong bonds with animals like wolves and dogs. His fur-lined outfit and tribal markings resemble Inuit, Sámi, and Viking-era hunters who lived in icy regions.\n- Popol and Kupa are the first heroes whose names and titles are shared. Despite being considered as a hero alongside Popol, Kupa is a summoned unit, due to the fact that he summons it to be resurrected.\n- Popol is one of the few heroes that breaks the 4th wall through one of his quotes.\n- Popol & Kupa are the only Marksman in Mobile Legends: Bang Bang with a full four-skill set.\n- Kupa is based on Fenrir, which is is a monstrous wolf in Norse mythology. In Old Norse texts, Fenrir plays a key role during the events of Ragnarök.\n- Nunu & Willump from League of Legends, Rexxar from Warcraft III: Reign of Chaos, and Beastmaster from Dota 2 are some of the Summoner/Beastmaster-type heroes in other games like Popol and Kupa.\n- The duo's playstyle is similar to traditional beast tamers or shamans from various cultures.\n- Popol and Kupa, and another hero have same voice actress, Alicia Gerrard.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "helcurt",
+        "johnson",
+        "khaleed",
+        "kadita",
+        "lunox"
+      ],
+      "faction": "Northern Vale",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Hunter",
+      "locationTies": [
+        {
+          "location": "Northern Vale",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "friendship",
+      "loneliness"
+    ],
+    "hook": "Alone in a hunter’s trap with only a starving frost wolf for company, Popol must choose between fear and trust—and finds a partner who changes his fate.",
+    "teaser": "Trapped in the frozen wilds with a starving frost wolf, a prankster boy gambles his life on kindness. Their unlikely bond forges the Icefield’s deadliest duo.",
+    "openingLine": "The Feldans are an ordinary nomad tribe found in the middle of Northern Vale.",
+    "dominantColor": "#1B4F72",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 2,
+    "chapterTitles": [
+      "Target locked! Launch Attack!",
+      "Fighters on the Stormy Sea"
+    ],
+    "plotKeywords": [
+      "nomad tribe",
+      "prankster outcast",
+      "failed solo hunt",
+      "wolf in a trap",
+      "shared starvation",
+      "vulture attack",
+      "rescue sacrifice",
+      "forged partnership"
+    ],
+    "characterTraits": [
+      "playful",
+      "ambitious",
+      "lonely",
+      "courageous",
+      "loyal",
+      "impulsive"
+    ],
+    "locations": [
+      "Northern Vale"
+    ],
+    "wordCount": 1804,
+    "readingTimeMinutes": 13,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646890385,
+    "updatedAt": 1764646890385
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,210 @@
+{
+  "hero": "chou",
+  "urlName": "chou",
+  "sections": {
+    "profile": {
+      "markdown": "- Chinese name: 周 (zhōu)\n- Alias: Kung Fu Boy\n- Origin: Los Pecados, Agelta Drylands\n- Age: 29\n- Species: Human\n- Gender: Male\n- Weapons: Nunchaku\n- Abilities: Martial arts\n- Relationships: Unnamed mysterious monk (master)\n\n\"A talented fighter with a heart of chivalry\""
+    },
+    "story": {
+      "markdown": "Chou is a gifted martial artist born in the slums. He learned the ancient oriental martial arts under the tutelage of a mysterious monk. He is agile and skilled in the use of the nunchaku.\n\nChou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.\n\nOne day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real hero to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true hero without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Lethal Nexus Incident",
+          "content": {
+            "markdown": "> \"An oriental master fighter and the member of Eruditio Rangers. Together with Johnson, he was responsible for the order in Plaza Circular during the \"Survival: Nexus\" finals. When the Iron Guardians lost control and attacked the plaza, Johnson and Chou together safely evacuated the civilians. Then they fought the Iron Guards while retreating to the Leviathan Workshop.\""
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Only Fast",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "After travelling 5 units, Chou deals 180% damage on his next Basic Attack (cannot Crit), briefly slows the target by 80% and reduces their Physical Defense by 10 plus 1 per Hero Level for 3 seconds, stacking up to 2 times."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Jeet Kune Do",
+        "cooldown": 9.5,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Chou strikes in the target direction, dealing damage to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne. Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo.\n\n- Base Damage by level: 180 / 200 / 220 / 240 / 260 / 280\n- Cooldown by level (seconds): 9.5 / 9.2 / 8.9 / 8.6 / 8.3 / 8.0\n\n> \"It only take three seconds to defeat you. One! Two! Three!\""
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Shunpo",
+        "cooldown": 5,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Chou charges in the target direction gaining Control Immunity and a shield.\n\n- Base Shield by level: 200 / 230 / 260 / 290 / 320 / 350"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "The Way of Dragon",
+        "cooldown": 34,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Chou strikes the target enemy hero with a roundhouse kick at the target enemy hero, dealing damage to them and knocking them back. Cast this skill again to chase up the target, dealing a total of combined initial and chase damage.\n\n- Base Damage by level: 400 / 450 / 500\n- Chase Damage by level: 480 / 530 / 580"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Chou's design is heavily based on Bruce Lee."
+      },
+      {
+        "markdown": "His ultimate ability is the direct reference to the 1972 movie starring Bruce Lee."
+      },
+      {
+        "markdown": "His quotes \"The man who can beat me has not been born yet\", \"Empty your cup in order to fill it again\", \"Knowing is not enough, we must apply\" are Bruce Lee's famous quotes. The last quote is also said by Goethe."
+      },
+      {
+        "markdown": "Jeet Kune Do is a famous martial arts that was developed by Bruce Lee."
+      },
+      {
+        "markdown": "Shunpo (瞬歩) is a word meaning quick steps."
+      },
+      {
+        "markdown": "His quote \"In the world of Kungfu, speed defines the winner.\" is a direct quote from The Beast in 2004 movie Kung Fu Hustle."
+      },
+      {
+        "markdown": "The name \"Chou\" (周) is commonly found in Chinese and East Asian names and could mean \"cycle\" or \"universe\" in Chinese."
+      },
+      {
+        "markdown": "His Ultimate (The Way of Dragon) is one of the few non-tank skills that can suppress enemies, making it deadly for isolating carries."
+      },
+      {
+        "markdown": "He is one of the heroes with the most skins."
+      },
+      {
+        "markdown": "He is the first hero to receive more than one collaborations which is the King of Fighters - Iori Yagami and Saint Seiya - Shiryu."
+      },
+      {
+        "markdown": "Before its remodel, his default skin was based on Hong Kong martial artist Bruce Lee."
+      },
+      {
+        "markdown": "Chou is the fourth hero to receive an exclusive M-Series Champion Skin when ECHO Philippines won the M4 World Championship. Other heroes with M-Series skin include, , , and."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Chinese name: 周 (zhōu)\n- Alias: Kung Fu Boy\n- Origin: Los Pecados, Agelta Drylands\n- Age: 29\n- Species: Human\n- Gender: Male\n- Weapons: Nunchaku\n- Abilities: Martial arts\n- Relationships: Unnamed mysterious monk (master)\n\n\"A talented fighter with a heart of chivalry\"\n\n# Story\n\nChou is a gifted martial artist born in the slums. He learned the ancient oriental martial arts under the tutelage of a mysterious monk. He is agile and skilled in the use of the nunchaku.\n\nChou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life. Despite the dreadful conditions, Chou kept his heart of kindness, as day in and day out he continued to look after the old and the young there with passion. During this time, there was great turmoil and unrest in the Land of the Dawn; mayhem spread throughout the land and eventually started to affect this small remote area.\n\nOne day, Chou rescued a mystic monk under pursuit by his captors and took him back to his slum to care for him. In return, the monk imparted the ancient Asian Kung-Fu skill to Chou and told him that the world needed a real hero to stand up and end the chaos. Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true hero without looking back. As Chou was leaving, the monk nodded and disappeared into the shadows.\n\n# Side Story\n\n## Lethal Nexus Incident\n\n> \"An oriental master fighter and the member of Eruditio Rangers. Together with Johnson, he was responsible for the order in Plaza Circular during the \"Survival: Nexus\" finals. When the Iron Guardians lost control and attacked the plaza, Johnson and Chou together safely evacuated the civilians. Then they fought the Iron Guards while retreating to the Leviathan Workshop.\"\n\n# Abilities\n\n## Only Fast\n\nAfter travelling 5 units, Chou deals 180% damage on his next Basic Attack (cannot Crit), briefly slows the target by 80% and reduces their Physical Defense by 10 plus 1 per Hero Level for 3 seconds, stacking up to 2 times.\n\n## Jeet Kune Do\n\nChou strikes in the target direction, dealing damage to enemies hit. This skill can be cast 3 times before it goes on cooldown. On the 3rd cast, Chou also knocks enemies hit airborne. Hitting an enemy hero with the 3rd cast resets the cooldown of Shunpo.\n\n- Base Damage by level: 180 / 200 / 220 / 240 / 260 / 280\n- Cooldown by level (seconds): 9.5 / 9.2 / 8.9 / 8.6 / 8.3 / 8.0\n\n> \"It only take three seconds to defeat you. One! Two! Three!\"\n\n## Shunpo\n\nChou charges in the target direction gaining Control Immunity and a shield.\n\n- Base Shield by level: 200 / 230 / 260 / 290 / 320 / 350\n\n## The Way of Dragon\n\nChou strikes the target enemy hero with a roundhouse kick at the target enemy hero, dealing damage to them and knocking them back. Cast this skill again to chase up the target, dealing a total of combined initial and chase damage.\n\n- Base Damage by level: 400 / 450 / 500\n- Chase Damage by level: 480 / 530 / 580\n\n# Trivia\n\n- Chou's design is heavily based on Bruce Lee.\n- His ultimate ability is the direct reference to the 1972 movie starring Bruce Lee.\n- His quotes \"The man who can beat me has not been born yet\", \"Empty your cup in order to fill it again\", \"Knowing is not enough, we must apply\" are Bruce Lee's famous quotes. The last quote is also said by Goethe.\n- Jeet Kune Do is a famous martial arts that was developed by Bruce Lee.\n- Shunpo (瞬歩) is a word meaning quick steps.\n- His quote \"In the world of Kungfu, speed defines the winner.\" is a direct quote from The Beast in 2004 movie Kung Fu Hustle.\n- The name \"Chou\" (周) is commonly found in Chinese and East Asian names and could mean \"cycle\" or \"universe\" in Chinese.\n- His Ultimate (The Way of Dragon) is one of the few non-tank skills that can suppress enemies, making it deadly for isolating carries.\n- He is one of the heroes with the most skins.\n- He is the first hero to receive more than one collaborations which is the King of Fighters - Iori Yagami and Saint Seiya - Shiryu.\n- Before its remodel, his default skin was based on Hong Kong martial artist Bruce Lee.\n- Chou is the fourth hero to receive an exclusive M-Series Champion Skin when ECHO Philippines won the M4 World Championship. Other heroes with M-Series skin include, , , and.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "johnson",
+        "harith",
+        "lancelot",
+        "estes",
+        "brody",
+        "joy"
+      ],
+      "faction": null,
+      "allies": [
+        "johnson"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Los Pecados",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "quest"
+        },
+        {
+          "location": "Eruditio",
+          "relationship": "member"
+        },
+        {
+          "location": "Plaza Circular",
+          "relationship": "protects"
+        },
+        {
+          "location": "Leviathan Workshop",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic"
+    ],
+    "themes": [
+      "destiny",
+      "justice"
+    ],
+    "hook": "Chou made a vow right then and there that he would start on his journey in the Land of Dawn to become a true hero without looking back.",
+    "teaser": "Born in the deepest slums yet carrying a heart of chivalry, Chou learns ancient Kung-Fu and steps into the chaos of the Land of Dawn to become a true hero.",
+    "openingLine": "Chou was born in a secluded slum deep in the hearts of poverty, living the lowest quality of life.",
+    "dominantColor": "#F4B000",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Lethal Nexus Incident"
+    ],
+    "plotKeywords": [
+      "slum upbringing",
+      "mysterious monk",
+      "ancient kung-fu",
+      "vow to be a hero",
+      "Land of Dawn chaos",
+      "Eruditio Rangers",
+      "Plaza Circular attack"
+    ],
+    "characterTraits": [
+      "kind",
+      "chivalrous",
+      "determined",
+      "selfless",
+      "disciplined"
+    ],
+    "locations": [
+      "Los Pecados",
+      "Agelta Drylands",
+      "Land of Dawn",
+      "Eruditio",
+      "Plaza Circular",
+      "Leviathan Workshop"
+    ],
+    "wordCount": 761,
+    "readingTimeMinutes": 6,
+    "connectionsCount": 6,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646999890,
+    "updatedAt": 1764646999890
+  },
+  "lastUpdated": null
+}

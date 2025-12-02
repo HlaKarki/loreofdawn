@@ -1,0 +1,196 @@
+{
+  "hero": "estes",
+  "urlName": "estes",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Estes\n\n**Title:** Moon Elf King\n\n**Species:** Moon Elf\n\n**Gender:** Male\n\n**Affiliation:**\n- Lunar Temple\n- Abyss (enemies)\n- Dawn Zenith\n\n**Birthplace:** Tree of Life, Moonlit Forest, Azrya Woodlands\n\n**Abilities:** Healing\n\n**Weapons:** Tome of Moon God\n\n**Battles Fought:**\n- Second Plane War\n- Invasion of Moonlit Forest\n\n**Voice Actors:**\n- Indonesian: Kamal Nasuti\n- Japanese: Fujisawa Sho (藤澤 奨)\n\n\"Elf King who rules the Moon Elves\""
+    },
+    "story": {
+      "markdown": "The Elf King who ruled the Moon Elves fell into a deep sleep after contracting a serious injury of the Second Plane War. When the Moon Elves were once again in imminent danger because of the awakening of the Abyss, he woke up early on a night of lightning and thunder."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Emerald Woodland and the Sleeping King",
+          "content": {
+            "markdown": "At the habitat of the moon elves, somewhere west of the Moonlake, lies the legendary Emerald Woodland, which was the birthplace of the first generation of elves. Every elven king was born in the Tree of Life at the center of the Emerald Woodland.\n\nThe elven king of the current generation is the unique Estes, who was badly hurt during the second plain war and had to go into deep sleep in the Emerald Woodland. Moon elves lost the guidance from their king ever since that day. When the flames of wars between humans and orcs burned on this peaceful woodland, the young Moonlight Archer, Miya, stood up and gathered the rest of the elves to protect their homeland.\n\nHowever, the dominator of dark Abyss is thirsty for more believers and the dark force has been growing stronger in secret. Seduced by the Blood Queen, Alice, some young elves have fallen. The race of moon elves was once again at stake which outraged the great elven king! During a night of great thunder and lightning, Estes woke up. He's strict but benevolent, and empowered with the strength by the sacred moonlight to protect his people and to support his allies. With the Code of Moonlight in his hands, he swore to repel every enemy who dares to violate his homeland."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Scripture of the Moon Elf",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Scripture of Moon Elf slowly charges Estes with energy. When the energy reaches 100 stacks, Estes' next Basic Attack will become enhanced, dealing damage to the target and additional damage to nearby enemies, and slowing them by 60% for 1.5 seconds.\n\n- Default recharge speed: 6.6667 stacks per second (reaches 100 stacks in 15 seconds)\n- Follow-up damage counts as skill damage\n- The icon for Scripture of the Moon Elf is a book (or code), which was the precursor of Estes' current scroll (or scripture)."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Moonlight Immersion",
+        "cooldown": 11,
+        "cost": 110,
+        "role": "Defense",
+        "details": {
+          "markdown": "Estes restores HP for the target hero immediately and links himself with them for 3 seconds, slowly restoring HP to the target. Linking with an allied hero will also increase Estes' Hybrid Defense by 20–45 and Movement Speed by 15%, as well as the energy charging speed of the Scripture of the Moon Elf. Being too far from the target will break the link.\n\nEnhanced: Estes restores more HP for the target hero immediately and links himself with them for 3 seconds, slowly restoring HP to the target for up to 15 ticks.\n\n- Cooldown: 11.0 / 10.2 / 9.4 / 8.6 / 7.8 / 7.0 seconds\n- Cooldown (Enhanced): 8.80 / 8.20 / 7.52 / 6.88 / 6.24 / 5.60 seconds\n- Mana Cost: 110 / 130 / 150 / 170 / 190 / 210\n- Mana Cost (Enhanced): 0\n- Basic Healing: 250 / 265 / 280 / 295 / 310 / 325\n- Sustained Healing: 325 / 340 / 365 / 370 / 385 / 400\n- Basic Healing (Enhanced): 500 / 550 / 600 / 650 / 700\n- Sustained Healing (Enhanced): 1170 / 1230 / 1290 / 1350 / 1410 / 1470\n- Both Defense Increase: 20 / 25 / 30 / 35 / 40 / 45\n\nNotes:\n- Default skill effect:\n  - Sustained healing from Moonlight Immersion restores HP each tick, up to 5 times.\n  - Casting the Ultimate cancels the active Moonlight Immersion and is replaced by Enhanced Moonlight Immersion over time.\n  - An ally already linked by Blessing of Moon Goddess will still benefit from the heal of Moonlight Immersion but only from Basic Healing, as Sustained Healing cannot be stacked.\n- Enhanced skill effect:\n  - Upon activation of Blessing of Moon Goddess, enhanced Moonlight Immersion's cooldown will be reduced to 20% of the original, and does not cost mana.\n  - Sustained healing from enhanced Moonlight Immersion restores HP each tick, up to 15 times.\n  - An ally already linked by Blessing of Moon Goddess will still benefit from the heal of enhanced Moonlight Immersion but only from Basic Healing, as Sustained Healing cannot be stacked.\n  - If Estes casts the enhanced Moonlight Immersion late to an ally, it will end prematurely as soon as the 8-second duration ends.\n  - This won't work by healing Estes himself, hence he will benefit from the heal even after the duration of Blessing of Moon Goddess ends. The default and enhanced Moonlight Immersion's Sustained Healing can be simultaneously stacked this way, if Estes has enough cooldown reduction to cast the default one.\n- The link is visible to the enemy, and it might prompt enemies that the ally is in the bush."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Domain of Moon Goddess",
+        "cooldown": 12,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Estes drops a flood of moonlight on the target area, dealing magic damage to enemy units within it. Afterwards, it turns to a domain of Moon Goddess and reveals enemies inside it for a short duration. Enemies will be slowed by 90% for 1.5 seconds when they touch the edge of the domain area. The slow effect will decay over time.\n\n- Cooldown: 12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5 seconds\n- Mana Cost: 80 / 90 / 100 / 110 / 120 / 130\n- Base Damage: 350 / 400 / 450 / 500 / 550 / 600\n- Reveal duration: about 1.5 seconds\n- Damage type: Magic Damage Skill\n- Effect: Area of Effect, Slow (90% initially, decays over time)"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Blessing of Moon Goddess",
+        "cooldown": 55,
+        "cost": 150,
+        "role": "Defense",
+        "details": {
+          "markdown": "Estes casts an enhanced effect on all nearby allied heroes. Within the next 8 seconds, Moonlight Immersion will be enhanced and Estes will continuously recover HP.\n\n- Cooldown: 55.0 / 50.0 / 45.0 seconds\n- Mana Cost: 150 / 250 / 350\n- HP Regen (self): 1230 / 1350 / 1470\n\nNotes:\n- Estes restores HP for the target hero immediately, and links himself with them for 3 seconds, slowly restoring HP to the target for 15 times (see Enhanced Skill 1 notes). The amount of heal is based on Moonlight Immersion's level.\n- The Ultimate skill can still activate Moonlight Immersion even if Skill 1 has yet to be learned and it heals the same as the Level 1 Moonlight Immersion.\n- However the Basic Healing applied to Estes himself is still based off of the Ultimate level."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "When Estes was first released, he held a book in his hand. This was later replaced with a scroll, but it can still be seen in his."
+      },
+      {
+        "markdown": "He has the least starting HP, of 2221."
+      },
+      {
+        "markdown": "His quote \"Love others as love yourself\" is a reference to NIV Bible Matthew 22:39 \"Love others as much as you love yourself\"."
+      },
+      {
+        "markdown": "His quote \"Darkness is the right hand of the light\" is a reference to Ursula K. Le Guin's: \"Light is the left hand of darkness and darkness is the right hand of the light.\""
+      },
+      {
+        "markdown": "Estes is the third hero to receive an exclusive M-Series Champion Skin when Blacklist International won the M3 World Championship. Other heroes with M-Series skin include, , , and."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Estes\n\n**Title:** Moon Elf King\n\n**Species:** Moon Elf\n\n**Gender:** Male\n\n**Affiliation:**\n- Lunar Temple\n- Abyss (enemies)\n- Dawn Zenith\n\n**Birthplace:** Tree of Life, Moonlit Forest, Azrya Woodlands\n\n**Abilities:** Healing\n\n**Weapons:** Tome of Moon God\n\n**Battles Fought:**\n- Second Plane War\n- Invasion of Moonlit Forest\n\n**Voice Actors:**\n- Indonesian: Kamal Nasuti\n- Japanese: Fujisawa Sho (藤澤 奨)\n\n\"Elf King who rules the Moon Elves\"\n\n# Story\n\nThe Elf King who ruled the Moon Elves fell into a deep sleep after contracting a serious injury of the Second Plane War. When the Moon Elves were once again in imminent danger because of the awakening of the Abyss, he woke up early on a night of lightning and thunder.\n\n# Side Story\n\n## Emerald Woodland and the Sleeping King\n\nAt the habitat of the moon elves, somewhere west of the Moonlake, lies the legendary Emerald Woodland, which was the birthplace of the first generation of elves. Every elven king was born in the Tree of Life at the center of the Emerald Woodland.\n\nThe elven king of the current generation is the unique Estes, who was badly hurt during the second plain war and had to go into deep sleep in the Emerald Woodland. Moon elves lost the guidance from their king ever since that day. When the flames of wars between humans and orcs burned on this peaceful woodland, the young Moonlight Archer, Miya, stood up and gathered the rest of the elves to protect their homeland.\n\nHowever, the dominator of dark Abyss is thirsty for more believers and the dark force has been growing stronger in secret. Seduced by the Blood Queen, Alice, some young elves have fallen. The race of moon elves was once again at stake which outraged the great elven king! During a night of great thunder and lightning, Estes woke up. He's strict but benevolent, and empowered with the strength by the sacred moonlight to protect his people and to support his allies. With the Code of Moonlight in his hands, he swore to repel every enemy who dares to violate his homeland.\n\n# Abilities\n\n## Scripture of the Moon Elf\n\nScripture of Moon Elf slowly charges Estes with energy. When the energy reaches 100 stacks, Estes' next Basic Attack will become enhanced, dealing damage to the target and additional damage to nearby enemies, and slowing them by 60% for 1.5 seconds.\n\n- Default recharge speed: 6.6667 stacks per second (reaches 100 stacks in 15 seconds)\n- Follow-up damage counts as skill damage\n- The icon for Scripture of the Moon Elf is a book (or code), which was the precursor of Estes' current scroll (or scripture).\n\n## Moonlight Immersion\n\nEstes restores HP for the target hero immediately and links himself with them for 3 seconds, slowly restoring HP to the target. Linking with an allied hero will also increase Estes' Hybrid Defense by 20–45 and Movement Speed by 15%, as well as the energy charging speed of the Scripture of the Moon Elf. Being too far from the target will break the link.\n\nEnhanced: Estes restores more HP for the target hero immediately and links himself with them for 3 seconds, slowly restoring HP to the target for up to 15 ticks.\n\n- Cooldown: 11.0 / 10.2 / 9.4 / 8.6 / 7.8 / 7.0 seconds\n- Cooldown (Enhanced): 8.80 / 8.20 / 7.52 / 6.88 / 6.24 / 5.60 seconds\n- Mana Cost: 110 / 130 / 150 / 170 / 190 / 210\n- Mana Cost (Enhanced): 0\n- Basic Healing: 250 / 265 / 280 / 295 / 310 / 325\n- Sustained Healing: 325 / 340 / 365 / 370 / 385 / 400\n- Basic Healing (Enhanced): 500 / 550 / 600 / 650 / 700\n- Sustained Healing (Enhanced): 1170 / 1230 / 1290 / 1350 / 1410 / 1470\n- Both Defense Increase: 20 / 25 / 30 / 35 / 40 / 45\n\nNotes:\n- Default skill effect:\n  - Sustained healing from Moonlight Immersion restores HP each tick, up to 5 times.\n  - Casting the Ultimate cancels the active Moonlight Immersion and is replaced by Enhanced Moonlight Immersion over time.\n  - An ally already linked by Blessing of Moon Goddess will still benefit from the heal of Moonlight Immersion but only from Basic Healing, as Sustained Healing cannot be stacked.\n- Enhanced skill effect:\n  - Upon activation of Blessing of Moon Goddess, enhanced Moonlight Immersion's cooldown will be reduced to 20% of the original, and does not cost mana.\n  - Sustained healing from enhanced Moonlight Immersion restores HP each tick, up to 15 times.\n  - An ally already linked by Blessing of Moon Goddess will still benefit from the heal of enhanced Moonlight Immersion but only from Basic Healing, as Sustained Healing cannot be stacked.\n  - If Estes casts the enhanced Moonlight Immersion late to an ally, it will end prematurely as soon as the 8-second duration ends.\n  - This won't work by healing Estes himself, hence he will benefit from the heal even after the duration of Blessing of Moon Goddess ends. The default and enhanced Moonlight Immersion's Sustained Healing can be simultaneously stacked this way, if Estes has enough cooldown reduction to cast the default one.\n- The link is visible to the enemy, and it might prompt enemies that the ally is in the bush.\n\n## Domain of Moon Goddess\n\nEstes drops a flood of moonlight on the target area, dealing magic damage to enemy units within it. Afterwards, it turns to a domain of Moon Goddess and reveals enemies inside it for a short duration. Enemies will be slowed by 90% for 1.5 seconds when they touch the edge of the domain area. The slow effect will decay over time.\n\n- Cooldown: 12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5 seconds\n- Mana Cost: 80 / 90 / 100 / 110 / 120 / 130\n- Base Damage: 350 / 400 / 450 / 500 / 550 / 600\n- Reveal duration: about 1.5 seconds\n- Damage type: Magic Damage Skill\n- Effect: Area of Effect, Slow (90% initially, decays over time)\n\n## Blessing of Moon Goddess\n\nEstes casts an enhanced effect on all nearby allied heroes. Within the next 8 seconds, Moonlight Immersion will be enhanced and Estes will continuously recover HP.\n\n- Cooldown: 55.0 / 50.0 / 45.0 seconds\n- Mana Cost: 150 / 250 / 350\n- HP Regen (self): 1230 / 1350 / 1470\n\nNotes:\n- Estes restores HP for the target hero immediately, and links himself with them for 3 seconds, slowly restoring HP to the target for 15 times (see Enhanced Skill 1 notes). The amount of heal is based on Moonlight Immersion's level.\n- The Ultimate skill can still activate Moonlight Immersion even if Skill 1 has yet to be learned and it heals the same as the Level 1 Moonlight Immersion.\n- However the Basic Healing applied to Estes himself is still based off of the Ultimate level.\n\n# Trivia\n\n- When Estes was first released, he held a book in his hand. This was later replaced with a scroll, but it can still be seen in his.\n- He has the least starting HP, of 2221.\n- His quote \"Love others as love yourself\" is a reference to NIV Bible Matthew 22:39 \"Love others as much as you love yourself\".\n- His quote \"Darkness is the right hand of the light\" is a reference to Ursula K. Le Guin's: \"Light is the left hand of darkness and darkness is the right hand of the light.\"\n- Estes is the third hero to receive an exclusive M-Series Champion Skin when Blacklist International won the M3 World Championship. Other heroes with M-Series skin include, , , and.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "miya",
+        "alice",
+        "belerick",
+        "lunox",
+        "valentina",
+        "harith",
+        "lancelot",
+        "chou",
+        "brody",
+        "joy"
+      ],
+      "faction": "Moon Elves",
+      "allies": [
+        "miya",
+        "belerick"
+      ],
+      "rivals": [
+        "alice",
+        "valentina",
+        "lunox"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "King",
+      "locationTies": [
+        {
+          "location": "Moonlake",
+          "relationship": "home"
+        },
+        {
+          "location": "Emerald Woodland",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Tree of Life",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Moonlit Forest",
+          "relationship": "home"
+        },
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic"
+    ],
+    "themes": [
+      "protection",
+      "loyalty",
+      "destiny"
+    ],
+    "hook": "During a night of great thunder and lightning, the long-slumbering elven king Estes awakens, vowing to repel every enemy who dares violate his homeland.",
+    "teaser": "Badly wounded and long asleep, the Moon Elf King awakens amid thunder and war to reclaim his code of moonlight and shield his people from the Abyss.",
+    "openingLine": "At the habitat of the moon elves, somewhere west of the Moonlake, lies the legendary Emerald Woodland, which was the birthplace of the first generation of elves.",
+    "dominantColor": "#4B9CD3",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Emerald Woodland and the Sleeping King"
+    ],
+    "plotKeywords": [
+      "ancient woodland",
+      "slumbering king",
+      "second plane war",
+      "abyssal corruption",
+      "elven homeland defense",
+      "awakening",
+      "moonlight power"
+    ],
+    "characterTraits": [
+      "strict",
+      "benevolent",
+      "protective",
+      "resolute",
+      "duty-bound"
+    ],
+    "locations": [
+      "Moonlake",
+      "Emerald Woodland",
+      "Tree of Life",
+      "Moonlit Forest",
+      "Azrya Woodlands",
+      "Lunar Temple"
+    ],
+    "wordCount": 1257,
+    "readingTimeMinutes": 9,
+    "connectionsCount": 10,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647197899,
+    "updatedAt": 1764647197899
+  },
+  "lastUpdated": null
+}

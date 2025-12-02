@@ -1,0 +1,188 @@
+{
+  "hero": "ruby",
+  "urlName": "ruby",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Ruby\n\n**Alias:** Little Red Hood\n\n**Chinese Name:** 露比 (lù bǐ)\n\n**Born:** Black Forest, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Female\n\n**Occupation:** Wolf Hunter\n\n**Speciality:** Wolf hunting\n\n**Weapons:** Scythe\n\n**Notable Relationships:**\n- Unnamed grandmother (deceased)\n- Unnamed grandfather (deceased)\n- Whitefang (enemy)\n\n**Spell Vamp (Stat):** 10%"
+    },
+    "story": {
+      "markdown": "> \"A girl who grew up with Roger's help\"\n\nThe village where Ruby lived was attacked by werewolves. At the time of crisis, Roger appeared to help them repel the werewolves. Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Glimmer Amidst the Icy Night",
+          "content": {
+            "markdown": ""
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Let's Dance!",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Ruby gains 6%-20% Spell Vamp based on level and inherits 125% Spell Vamp Ratio. Basic Attacks cannot trigger Lifesteal.\n\nAfter each skill cast, Ruby can dash to another location, gaining extra Physical and Magic Defense that scales with level for 4 seconds. This effect stacks up to 3 times.\n\nExtra Hybrid Defense per level (overview): 10.8 increasing gradually up to 36 at higher levels.\n\nExample hybrid defense values by stacks:\n- Hero level 1: 10.8 / 21.6 / 32.4\n- Hero level 15: 36 / 72 / 108\n\nNotes:\n- Backward dash distance is shorter than forwards and sidewards.\n- When using aimed skills, \"front\" is the direction the skill is facing.\n- When using Skill 2, \"front\" is the direction Ruby is facing before using the skill.\n- Disabled by root effects."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Be Good!",
+        "cooldown": 4,
+        "cost": 25,
+        "role": "Damage",
+        "details": {
+          "markdown": "Ruby swings her scythe, dealing physical damage to enemies hit. She then unleashes a shockwave in the same direction, dealing additional physical damage to enemies hit and slowing them by 40% for 1 second.\n\n- Damage type: Physical\n- Slow: 40% for 1 second\n- Spell Vamp Ratio: 125%\n- Physical bonus scaling: 70% / 82% / 94% / 106% / 118% / 130%\n\nDamage scales with Ruby's physical attack and skill level."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Don't Run, Wolf King!",
+        "cooldown": 7,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Ruby swings her scythe twice, each swing dealing physical damage to nearby enemies, stunning them for 0.5 seconds, and slowly pulling them toward her.\n\n- Damage type: Physical\n- Stun: 0.5 seconds per swing\n- Crowd control: Gradual displacement, pulling enemies toward Ruby\n- Spell Vamp Ratio: 125%\n- Base damage per swing by level: 60 / 85 / 110 / 135 / 160 / 185\n\nDamage scales with Ruby's physical attack."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "I'm Offended!",
+        "cooldown": 26,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Ruby sweeps her scythe in the target direction, dealing physical damage to enemies hit, pulling them toward her, and stunning them for 0.5 seconds.\n\n- Damage type: Physical\n- Stun: 0.5 seconds\n- Crowd control: Displacement, pulling enemies toward Ruby\n- Spell Vamp Ratio: 125%\n- Base damage by level: 200 / 340 / 480\n\nCooldown: 26 / 23 / 20 seconds\nMana cost: 80 / 100 / 120\n\nDamage scales with Ruby's physical attack."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name **Ruby** is named after the ruby gemstone, which is red and symbolizes passion, strength, and vitality. This fits her red-themed design, scythe weapon, and blood-related lifesteal abilities. The color red (ruby) also represents blood, aggression, and power, matching her vampiric lifesteal gameplay."
+      },
+      {
+        "markdown": "Her appearance might be inspired by Ruby Rose from RWBY which itself is alluded in the fairytale character Little Red Riding Hood."
+      },
+      {
+        "markdown": "Her story and her title \"Little Red Hood\" is also a reference to Little Red Riding Hood. Furthermore, in game files, she is named X, which translates to \"Little Red Riding Hood\" in Chinese."
+      },
+      {
+        "markdown": "Her original lore was retconned upon the release of the so-called \"family friendly update\" as the story of Ruby ripping Haas the Wolf's (later renamed to Whitefang) still beating heart and drinking its blood, as well as Ruby falling into insanity, was deemed too dark and disturbing for many young audiences of the game."
+      },
+      {
+        "markdown": "Old Ruby full picture her eye patch is on the left eye but in the in-game model, it's in her right eye."
+      },
+      {
+        "markdown": "Ruby eyes are blue in color but the model has green eyes."
+      },
+      {
+        "markdown": "Ruby has one of the highest lifesteal rates in the game. Her passive (Let's Dance!) allows her to gain massive spell vamp from items and skills. With the right build, she can heal back to full HP in just a few attacks!"
+      },
+      {
+        "markdown": "She is inspired by Little Red from Moonton's Magic Rush, which is also a clear reference to Little Red Riding Hood."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Ruby\n\n**Alias:** Little Red Hood\n\n**Chinese Name:** 露比 (lù bǐ)\n\n**Born:** Black Forest, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Female\n\n**Occupation:** Wolf Hunter\n\n**Speciality:** Wolf hunting\n\n**Weapons:** Scythe\n\n**Notable Relationships:**\n- Unnamed grandmother (deceased)\n- Unnamed grandfather (deceased)\n- Whitefang (enemy)\n\n**Spell Vamp (Stat):** 10%\n\n# Story\n\n> \"A girl who grew up with Roger's help\"\n\nThe village where Ruby lived was attacked by werewolves. At the time of crisis, Roger appeared to help them repel the werewolves. Roger taught Ruby how to fight and gave her a sickle so that she could protect herself and the village.\n\n# Side Story\n\n## Glimmer Amidst the Icy Night\n\n\n\n# Abilities\n\n## Let's Dance!\n\nRuby gains 6%-20% Spell Vamp based on level and inherits 125% Spell Vamp Ratio. Basic Attacks cannot trigger Lifesteal.\n\nAfter each skill cast, Ruby can dash to another location, gaining extra Physical and Magic Defense that scales with level for 4 seconds. This effect stacks up to 3 times.\n\nExtra Hybrid Defense per level (overview): 10.8 increasing gradually up to 36 at higher levels.\n\nExample hybrid defense values by stacks:\n- Hero level 1: 10.8 / 21.6 / 32.4\n- Hero level 15: 36 / 72 / 108\n\nNotes:\n- Backward dash distance is shorter than forwards and sidewards.\n- When using aimed skills, \"front\" is the direction the skill is facing.\n- When using Skill 2, \"front\" is the direction Ruby is facing before using the skill.\n- Disabled by root effects.\n\n## Be Good!\n\nRuby swings her scythe, dealing physical damage to enemies hit. She then unleashes a shockwave in the same direction, dealing additional physical damage to enemies hit and slowing them by 40% for 1 second.\n\n- Damage type: Physical\n- Slow: 40% for 1 second\n- Spell Vamp Ratio: 125%\n- Physical bonus scaling: 70% / 82% / 94% / 106% / 118% / 130%\n\nDamage scales with Ruby's physical attack and skill level.\n\n## Don't Run, Wolf King!\n\nRuby swings her scythe twice, each swing dealing physical damage to nearby enemies, stunning them for 0.5 seconds, and slowly pulling them toward her.\n\n- Damage type: Physical\n- Stun: 0.5 seconds per swing\n- Crowd control: Gradual displacement, pulling enemies toward Ruby\n- Spell Vamp Ratio: 125%\n- Base damage per swing by level: 60 / 85 / 110 / 135 / 160 / 185\n\nDamage scales with Ruby's physical attack.\n\n## I'm Offended!\n\nRuby sweeps her scythe in the target direction, dealing physical damage to enemies hit, pulling them toward her, and stunning them for 0.5 seconds.\n\n- Damage type: Physical\n- Stun: 0.5 seconds\n- Crowd control: Displacement, pulling enemies toward Ruby\n- Spell Vamp Ratio: 125%\n- Base damage by level: 200 / 340 / 480\n\nCooldown: 26 / 23 / 20 seconds\nMana cost: 80 / 100 / 120\n\nDamage scales with Ruby's physical attack.\n\n# Trivia\n\n- The name **Ruby** is named after the ruby gemstone, which is red and symbolizes passion, strength, and vitality. This fits her red-themed design, scythe weapon, and blood-related lifesteal abilities. The color red (ruby) also represents blood, aggression, and power, matching her vampiric lifesteal gameplay.\n- Her appearance might be inspired by Ruby Rose from RWBY which itself is alluded in the fairytale character Little Red Riding Hood.\n- Her story and her title \"Little Red Hood\" is also a reference to Little Red Riding Hood. Furthermore, in game files, she is named X, which translates to \"Little Red Riding Hood\" in Chinese.\n- Her original lore was retconned upon the release of the so-called \"family friendly update\" as the story of Ruby ripping Haas the Wolf's (later renamed to Whitefang) still beating heart and drinking its blood, as well as Ruby falling into insanity, was deemed too dark and disturbing for many young audiences of the game.\n- Old Ruby full picture her eye patch is on the left eye but in the in-game model, it's in her right eye.\n- Ruby eyes are blue in color but the model has green eyes.\n- Ruby has one of the highest lifesteal rates in the game. Her passive (Let's Dance!) allows her to gain massive spell vamp from items and skills. With the right build, she can heal back to full HP in just a few attacks!\n- She is inspired by Little Red from Moonton's Magic Rush, which is also a clear reference to Little Red Riding Hood.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "roger",
+        "whitefang"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "roger"
+      ],
+      "rivals": [
+        "whitefang"
+      ],
+      "family": [],
+      "mentors": [
+        "roger"
+      ],
+      "factionRole": "Hunter",
+      "locationTies": [
+        {
+          "location": "Black Forest",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "home"
+        },
+        {
+          "location": "Dark Forest",
+          "relationship": "visited"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "tragic",
+      "heroic"
+    ],
+    "themes": [
+      "loss",
+      "revenge"
+    ],
+    "hook": "Outraged by the brutal death of her grandparents, the seemingly weak girl picked up the scythes and rushed into the pack of wolves, slaughtering almost all of them.",
+    "teaser": "In a village stalked by wolves, a little girl trained by a vanished hunter takes up a massive scythe to avenge her family and hunt the Wolf King.",
+    "openingLine": "It could have been just another peaceful night in a remote village, near the outskirts of the Dark Forest, but they were interrupted by the vicious howling of the wolves from afar.",
+    "dominantColor": "#B00020",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Glimmer Amidst the Icy Night"
+    ],
+    "plotKeywords": [
+      "werewolf attack",
+      "Roger's training",
+      "village massacre",
+      "grandparents' death",
+      "Wolf King Pale Tusk",
+      "eye injury",
+      "vengeful resolve"
+    ],
+    "characterTraits": [
+      "vengeful",
+      "resilient",
+      "irritable",
+      "courageous"
+    ],
+    "locations": [
+      "Black Forest",
+      "Moniyan Empire",
+      "Dark Forest",
+      "Land of Dawn"
+    ],
+    "wordCount": 701,
+    "readingTimeMinutes": 5,
+    "connectionsCount": 2,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646876634,
+    "updatedAt": 1764646876634
+  },
+  "lastUpdated": null
+}

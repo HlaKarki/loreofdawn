@@ -12,11 +12,11 @@ import type {
 } from "@/types/scraper.types";
 import { mlDbService } from "@/services/ml/ml-db.service";
 import {
-	STORY_ARCS_Z,
-	STORY_MOODS_Z,
-	STORY_THEMES_Z,
-	STORY_TYPES_Z,
+	AiMarkdownResponseZod,
+	WikiMetadataAiGeneratedZod,
 	type AiMarkdownResponse,
+	type WikiMetadata,
+	type WikiMetadataAiGenerated,
 } from "@repo/database";
 import z from "zod/v3";
 
@@ -170,82 +170,14 @@ class WikiScraper {
 		},
 	});
 
-	private schemaZ = z
-		.object({
-			name: z.string().describe("Canonical data name, e.g., 'Miya'."),
-			markdown: z
-				.object({
-					profile: z.object({ markdown: z.string() }).strict(),
-					story: z.object({ markdown: z.string() }).strict(),
-					bio: z.object({ markdown: z.string() }).strict(),
-					side_story: z
-						.object({
-							chapters: z
-								.array(
-									z
-										.object({
-											title: z.string().describe("Meaningful chapter title."),
-											content: z.object({ markdown: z.string() }).strict(),
-										})
-										.strict(),
-								)
-								.optional()
-								.default([]),
-						})
-						.strict()
-						.optional(),
-					abilities: z
-						.array(
-							z
-								.object({
-									slot: z.enum(["Passive", "Skill 1", "Skill 2", "Skill 3", "Morph", "Ultimate"]),
-									name: z.string(),
-									cooldown: z.number().min(0).optional().describe("Seconds; 0/omit for passives."),
-									cost: z.number().min(0).optional().describe("Mana/energy cost; omit if N/A."),
-									role: z
-										.enum(["Damage", "Control", "Mobility", "Defense", "Utility"])
-										.optional()
-										.describe("Primary function."),
-									details: z
-										.object({
-											markdown: z.string(),
-										})
-										.strict(),
-								})
-								.strict(),
-						)
-						.min(3)
-						.max(6),
-					trivia: z
-						.array(z.object({ markdown: z.string() }).strict())
-						.optional()
-						.default([]),
-				})
-				.strict(),
-			metadata: z.object({
-				storyType: STORY_TYPES_Z,
-				storyArc: STORY_ARCS_Z.nullable(),
-				mood: STORY_MOODS_Z,
-				themes: STORY_THEMES_Z,
-				hook: z.string().nullable(),
-				teaser: z.string(),
-				openeingLine: z.string(),
-				dominatingColor: z.string(),
-
-				hasBackstory: z.boolean(),
-				hasSideStory: z.boolean(),
-				hasAbilityLore: z.boolean(),
-				hasTrivia: z.boolean(),
-				hasChapters: z.boolean(),
-				chapterCount: z.number(),
-				chapterTitles: z.array(z.string()),
-
-				plotKeywords: z.array(z.string()),
-				characterTraits: z.array(z.string()),
-				locations: z.array(z.string()),
-			}),
-		})
-		.strict();
+	// @ts-ignore - Deep nesting causes TS2589, but runtime validation works fine
+	private schemaZ: z.ZodType = z.object({
+		name: z
+			.string()
+			.describe("Canonical hero name exactly as it appears in-game (e.g., 'Miya', 'Lapu-Lapu')"),
+		markdown: AiMarkdownResponseZod,
+		metadata: WikiMetadataAiGeneratedZod,
+	});
 
 	private SYSTEM_PROMPT = `
 	You are formatting source content into structured Markdown sections — not rewriting it.
@@ -396,7 +328,7 @@ class WikiScraper {
 			await Promise.all(
 				links.map(async (link) => {
 					const normalized = this.normalizeTitle(link);
-					const wikiMarkup = await this.fetchWikiMarkup(this.buildQuery(normalized));
+					const { markup: wikiMarkup } = await this.fetchWikiMarkup(this.buildQuery(normalized));
 					const sentences = wikiMarkup
 						.split(".")
 						.map((text) => text.trim())
@@ -462,7 +394,11 @@ class WikiScraper {
 		});
 		const raw_data = await response.json();
 		const wiki_markup = raw_data as WikiResponseComplete;
-		return wiki_markup.query.pages[0].revisions[0].slots.main.content;
+		const unixTime = new Date(wiki_markup.query.pages[0].revisions[0].timestamp).getTime();
+		return {
+			timestamp: unixTime,
+			markup: wiki_markup.query.pages[0].revisions[0].slots.main.content,
+		};
 	}
 
 	async getMarkdown(title: string) {
@@ -474,7 +410,7 @@ class WikiScraper {
 	async getJSON(titles: string) {
 		const query = this.buildQuery(titles);
 
-		const wiki_response = await this.fetchWikiMarkup(query);
+		const { markup: wiki_response } = await this.fetchWikiMarkup(query);
 		const wtf_response = wtf(wiki_response).json() as WikiJSON;
 		return this.prepareSections(wtf_response);
 	}
@@ -497,7 +433,7 @@ class WikiScraper {
 
 		for (const [_key, value] of Object.entries(list)) {
 			const query = this.buildQuery(value.url_name);
-			const wiki_response = await this.fetchWikiMarkup(query);
+			const { markup: wiki_response } = await this.fetchWikiMarkup(query);
 			const filepath = path.join(
 				process.cwd(),
 				"src",
@@ -537,6 +473,124 @@ class WikiScraper {
 		}
 	}
 
+	async getAiMarkdown(markup_content: string) {
+		try {
+			const object_response = await generateObject({
+				model: openai("gpt-4o"),
+				// schema: this.schema,
+				schema: this.schemaZ,
+				messages: [
+					{ role: "system", content: this.SYSTEM_PROMPT },
+					{ role: "user", content: markup_content },
+				],
+			});
+
+			const markdownSections = object_response.object.markdown as AiMarkdownResponse;
+			const metadata = object_response.object.metadata as WikiMetadataAiGenerated;
+			const name = object_response.object.name as string;
+
+			let markdown: string = "";
+			if (markdownSections.profile.markdown) {
+				markdown += this.appendSection("#", "Profile", markdownSections.profile.markdown);
+			}
+			if (markdownSections.bio.markdown) {
+				markdown += this.appendSection("#", "Bio", markdownSections.bio.markdown);
+			}
+			if (markdownSections.story.markdown) {
+				markdown += this.appendSection("#", "Story", markdownSections.story.markdown);
+			}
+			if (
+				"side_story" in markdownSections &&
+				markdownSections.side_story?.chapters?.length &&
+				markdownSections.side_story?.chapters?.length > 0
+			) {
+				markdown += this.appendFront("#", "Side Story");
+				for (const chapter of markdownSections.side_story.chapters) {
+					markdown += this.appendSection("##", chapter.title, chapter.content.markdown);
+				}
+			}
+			if (markdownSections.abilities && markdownSections.abilities.length > 0) {
+				markdown += this.appendFront("#", "Abilities");
+				for (const ability of markdownSections.abilities) {
+					markdown += this.appendSection("##", ability.name, ability.details.markdown);
+				}
+			}
+			if (markdownSections.trivia && markdownSections.trivia.length > 0) {
+				markdown += this.appendFront("#", "Trivia");
+				for (const trivia of markdownSections.trivia) {
+					markdown += `- ${trivia.markdown}\n`;
+				}
+			}
+
+			return { name, markdown, partialMetadata: metadata, sections: markdownSections };
+		} catch (err: any) {
+			console.error("generateObject error:", err);
+
+			console.error("cause:", err.cause);
+			console.error("validation error:", err.cause?.error);
+			console.error("rawOutput:", err.cause?.rawResponse);
+
+			throw err; // fallback
+		}
+	}
+
+	buildFullMetadata(
+		partialMetadata: WikiMetadataAiGenerated,
+		sections: AiMarkdownResponse,
+	): WikiMetadata {
+		// Calculate content metrics from raw section content (not processed markdown with # ## > etc)
+		let combinedContent = "";
+		combinedContent += sections.profile.markdown + " ";
+		combinedContent += sections.story.markdown + " ";
+		combinedContent += sections.bio.markdown + " ";
+
+		// Add side story chapters
+		if (sections.side_story?.chapters) {
+			for (const chapter of sections.side_story.chapters) {
+				combinedContent += chapter.content.markdown + " ";
+			}
+		}
+
+		// Add ability details
+		for (const ability of sections.abilities) {
+			combinedContent += ability.details.markdown + " ";
+		}
+
+		// Add trivia
+		if (sections.trivia) {
+			for (const triviaItem of sections.trivia) {
+				combinedContent += triviaItem.markdown + " ";
+			}
+		}
+
+		const wordCount = combinedContent.split(/\s+/).filter((word) => word.length > 0).length;
+		const readingTimeMinutes = Math.ceil(wordCount / 150); // Custom reading speed
+
+		// Calculate connections count from relationships
+		const connectionsCount = partialMetadata.relationships.relatedHeroes.length;
+
+		// Build full metadata
+		return {
+			...partialMetadata,
+
+			wordCount,
+			readingTimeMinutes,
+			connectionsCount,
+
+			// Default values
+			coverImage: null,
+			artworkCount: 0,
+			hasVoiceLines: false,
+			rarityScore: 0,
+			epicnessScore: 0,
+			mysteryLevel: 0,
+
+			// Timestamps
+			createdAt: new Date().getTime(),
+			updatedAt: new Date().getTime(),
+		};
+	}
+
 	async batchAiMarkdownWrites() {
 		// get all files from src/data/wiki/jsons/{files.json}
 		const jsonDir = path.join(process.cwd(), "src", "data", "wiki", "jsons");
@@ -560,7 +614,7 @@ class WikiScraper {
 					const prompt = JSON.stringify(JSON.parse(fileContents), null, 2);
 
 					// generateText from openai to get the markdown format
-					const markdown = await this.getAiMarkdown(prompt);
+					const { markdown } = await this.getAiMarkdown(prompt);
 
 					// write to file
 					const outputPath = path.join(outputDir, `${path.basename(filename, ".json")}.md`);
@@ -577,7 +631,7 @@ class WikiScraper {
 	async updateHeroMarkdown(title: string): Promise<string> {
 		const normalizedTitle = this.normalizeTitle(title);
 		const query = this.buildQuery(normalizedTitle);
-		const wikiMarkup = await this.fetchWikiMarkup(query);
+		const { markup: wikiMarkup } = await this.fetchWikiMarkup(query);
 		const wikiJson = wtf(wikiMarkup).json() as WikiJSON;
 		const sections = await this.prepareSections(wikiJson);
 		const prompt = JSON.stringify(sections, null, 2);
@@ -592,7 +646,7 @@ class WikiScraper {
 			fs.promises.mkdir(markdownDir, { recursive: true }),
 		]);
 
-		const markdown = await this.getAiMarkdown(prompt);
+		const { markdown } = await this.getAiMarkdown(prompt);
 
 		const fileBase = normalizedTitle.toLowerCase();
 		await Promise.all([
@@ -605,64 +659,6 @@ class WikiScraper {
 		]);
 
 		return markdown;
-	}
-
-	async getAiMarkdown(markup_content: string) {
-		try {
-			const object_response = await generateObject({
-				model: openai("gpt-5-mini"),
-				// schema: this.schema,
-				schema: this.schemaZ,
-				messages: [
-					{ role: "system", content: this.SYSTEM_PROMPT },
-					{ role: "user", content: markup_content },
-				],
-			});
-
-			const ai_response = object_response.object.markdown as AiMarkdownResponse;
-			const { name, metadata } = object_response.object;
-
-			let markdown: string = "";
-			if (ai_response.profile.markdown) {
-				markdown += this.appendSection("#", "Profile", ai_response.profile.markdown);
-			}
-			if (ai_response.bio.markdown) {
-				markdown += this.appendSection("#", "Bio", ai_response.bio.markdown);
-			}
-			if (ai_response.story.markdown) {
-				markdown += this.appendSection("#", "Story", ai_response.story.markdown);
-			}
-			if (ai_response.side_story?.chapters?.length > 0) {
-				markdown += this.appendFront("#", "Side Story");
-				for (const chapter of ai_response.side_story.chapters) {
-					markdown += this.appendSection("##", chapter.title, chapter.content.markdown);
-				}
-			}
-			if (ai_response.abilities && ai_response.abilities.length > 0) {
-				markdown += this.appendFront("#", "Abilities");
-				for (const ability of ai_response.abilities) {
-					markdown += this.appendSection("##", ability.name, ability.details.markdown);
-				}
-			}
-			if (ai_response.trivia && ai_response.trivia.length > 0) {
-				markdown += this.appendFront("#", "Trivia");
-				for (const trivia of ai_response.trivia) {
-					markdown += `- ${trivia.markdown}\n`;
-				}
-			}
-
-			return { name, markdown, metadata };
-		} catch (err: any) {
-			console.error("generateObject error:", err);
-
-			// Vercel AI SDK usually attaches Zod error in the cause / data.
-			console.error("cause:", err.cause);
-			console.error("validation error:", err.cause?.error);
-			// Sometimes there’s raw output:
-			console.error("rawOutput:", err.cause?.rawResponse);
-
-			throw err; // or return fallback
-		}
 	}
 
 	private appendFront(append: string, text: string): string {

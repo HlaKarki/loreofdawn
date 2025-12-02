@@ -1,0 +1,213 @@
+{
+  "hero": "granger",
+  "urlName": "granger",
+  "sections": {
+    "profile": {
+      "markdown": "**Chinese Name:** 格兰杰 (gélánjié)\n\n**Alias:**\n- Death Chanter\n- The Vagrant Poet\n- Invincible Marksman\n- Lightborn Overrider (Lightborn squad)\n\n**Origin:** Monastery of Light, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Male\n\n**Occupation:**\n- Violinist\n- Bard\n- Demon hunter\n\n**Affiliation:**\n- Monastery of Light\n- Moniyan Empire\n- Lightborn squad\n- The Abyss (hostile)\n\n**Weapons:**\n- Dirge (gun)\n- Requiem (cannon)\n\n**Voice Actors:**\n- English: Jack Dillon (2021; Starfall Knight)\n- Japanese: Date Masanori (伊達 将範)\n- Indonesian: Ari Wibowo"
+    },
+    "story": {
+      "markdown": "> \"A bard, a famed Demon Hunter\"\n\nGranger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Sonata of Bullets",
+          "content": {
+            "markdown": "An unnamed town on the edge of the Moniyan Empire is Granger's destination for this journey.\n\nHe walked quietly, the bright red scarf around his neck giving off an eerie aura. His skin was as pale as parchment, with a high collar covering half his face, revealing only a pair of somber eyes.\n\nGranger made his way to the outskirts of town, fully aware of what was waiting for him. Although their deep growls were hard to catch, the ringing in his ears that he despises was getting louder.\n\nSuddenly, a familiar melody caught Granger's attention. A child is sitting on the street, playing a tune on a flute. It's the Hymn of Light, a song he often heard when he was young.\n\nGranger's childhood was tragic, to say the least.\n\nOne night, his town was attacked by demons. With no place to run, Granger's parents hid him in a small space under the floorboards. As the demons broke in and dragged his parents away, their cries and the demonic snarls left an indelible shadow in his young heart. That memory turned into a constant ringing in his ears, torturing Granger night after night. The pain caused him to distance himself from others and he became increasingly reclusive. Until the day a beautiful and gentle melody calmed the ringing, like a warm hand across his heart, granting him a moment of peace that he had almost forgotten.\n\nFor the first time, he stepped out of his chaotic world and looked up to see a priest playing the violin.\n\n> \"What's the name of this piece?\"\n\nThe priest took out a pen and paper from his pocket and wrote down the words Hymn of Light.\n\nIt turned out that the priest was once the lead of the Monastery of Light's choir. It was his job to soothe the suffering hearts of the people with his voice. But years ago, when Alice infiltrated Lumina City and sent the city into chaos, the priest was struck by a demon and lost the ability to speak. But instead of wallowing in despair, he picked up the violin and continued to help others through music.\n\nPerhaps the violin's sound was too inviting. Granger came out of his world and followed the priest to the monastery. He even tried learning the violin but could only produce discordant noises.\n\n> \"Looks like I don't have any talent,\" a discouraged Granger lamented.\n\nThe priest smiled and showed him that true melody doesn't come from talent, but from the kindness and perseverance in one's heart, and in this aspect, he believed Granger had plenty.\n\nGranger, who failed to make much progress with music, showed exceptional talent in hunting demons. The church's leaders personally invited him to join the ranks of their demon hunters, even gifting him a specialized weapon—a pair of demon-devouring guns that could absorb demonic energy and convert it into special demon-slaying bullets. The few friends he had, including Alucard, invited him to hunt demons together, but Granger refused. Although the priest's music had healed his chaotic world, the night his parents died still remained in his heart like a permanent wound, bleeding at the slightest touch.\n\nThe priest respected Granger's decision. He believed that even the deepest wounds could heal one day, and this introverted and gentle child would eventually accept the past and walk into a brighter future.\n\nBut that day would never come.\n\nDyrroth, the Prince of the Abyss, led his Abyssal legions through the Moonlit Forest to attack the Moniyan Empire. In response, the Church of Light recruited demon hunters to prepare for the oncoming war. Seeing Granger unsettled by this, the priest let him take a leave from the monastery to decide his future. Whether he chose to remain a demon hunter or not, the monastery would always be his home.\n\nBut when Granger returned to the monastery, he saw only burning ruins and the priest lying in a pool of blood—the demons had already struck.\n\nWhatever choice he made no longer held any meaning.\n\nThe priest's hand still held the violin bow. Granger could almost picture the priest calmly playing his final requiem as the demons attacked. The ringing invaded his world again. But this time, there would be no Hymn of Light to soothe it. There would be no one to smile and comfort his pain, no one to play a lullaby to help him sleep. How could he silence this piercing noise... this creeping madness... this deafening rage in his chest?\n\nSensing the presence of a living soul, the demons stationed nearby closed in. Granger pulled out his guns and began a frenzied performance. As the demons' wails grew louder, the sound of bullets did too. The two cacophonies intertwined into a grand requiem, drowning out the ringing in Granger's ears. He suddenly realized that for him, this was the only way to soothe the pain. Blood for blood, until all evil was dead and gone.\n\nAfter that, Granger officially became a demon hunter. He named one of his guns Dirge, and modified the other into a cannon and installed it into the priest's violin case, which he named Requiem. He wrapped bandages around his hands to prevent the bloodshed from tainting the hands that once hoped to learn the violin. From that point on, every hunt became a requiem for the ones he lost.\n\nThe memories that had surfaced shattered once again.\n\nGranger's attention snapped back to the present. Since setting foot in this small town, the ringing in his ears hasn't stopped, but he knew that everything would quiet down soon enough.\n\nHe crouched down and gently placed a few coins in front of the child.\n\nAs the Ave Maria reached its finale, the demon hunter's death sonata was about to begin."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Capriccio",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Granger's unique Demon Hunting and cannon attacks are powered by Demonic Energy. Both his weapons have a starting Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second.\n\nEach Minion or Creep kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 and instantly restore their Energy by 5% each. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy.\n\nEvery 1% Cooldown Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy Cost is not affected by Energy Cost Reductions.\n\nNotes:\n- Demonic Energy Cost is technically not an energy as it is not affected by Energy Cost Reductions from the purple buff and the energy is omitted on his stats as seen on Granger's Story Page in-game."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Rhapsody",
+        "cooldown": 0.3,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "Granger rapidly fires 6 shots with his Gun, with each shot dealing physical damage based on level and stats and consuming 70 Gun Energy. The last bullet is guaranteed to Crit. Each bullet deals an additional 70 damage to Creeps and Minions.\n\nWhile firing, Granger's Movement Speed is increased by 15%. Granger stops firing when he runs out of Energy, or when the skill is cast again. Rhapsody has a brief cooldown and can be cast once his Gun Energy is over 420.\n\nLevel scaling:\n- Gun Energy Cost: 420\n- Base Damage: 60 / 72 / 84 / 96 / 108 / 120\n\nNotes:\n- Granger can cast other abilities throughout the duration of this skill, but he cannot change the direction he's facing."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Rondo",
+        "cooldown": 12,
+        "cost": 0,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Granger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15% to 25% Energy for his Gun. Rondo can be cast while channeling Rhapsody. Each time Rhapsody hits an enemy, Rondo's Cooldown is reduced by 0.5 second.\n\nLevel scaling:\n- Energy Regen: 15% / 17% / 19% / 21% / 23% / 25%"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Death Sonata",
+        "cooldown": 0.6,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "Granger fires his Cannon in the target direction, dealing burst physical damage to the first enemy hero hit and other targets in the blast radius. Targets hit will be slowed and revealed for a brief duration.\n\nGranger can roll in the joystick's direction after each shot. Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown between shots and consumes 250 of Granger's Cannon Energy per shot.\n\nLevel scaling:\n- Cannon Energy Cost: 250\n- Base Damage: 250 / 325 / 400\n\nNotes:\n- Bullet passes through creeps and minions and deals the same damage to them."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "While \"Granger\" originally meant \"farm steward\", it also sounds like \"Ranger\", which fits his lone-wolf, sharpshooter personality. His name could be inspired by The Gunslinger from Stephen King’s Dark Tower series, which features a similar gun-wielding anti-hero."
+      },
+      {
+        "markdown": "Granger was the first marksman that does not require mana nor energy."
+      },
+      {
+        "markdown": "However, his abilities now cost energy after his revamp except for Skill 2."
+      },
+      {
+        "markdown": "Granger is the first marksman without basic attack crits."
+      },
+      {
+        "markdown": "His internal game file name is Mike."
+      },
+      {
+        "markdown": "He has the roots of French and Italian."
+      },
+      {
+        "markdown": "His gun name is Dirge and his cannon name is Requiem."
+      },
+      {
+        "markdown": "His Ultimate, Death Sonata, is named after a classical music piece, matching his violinist background."
+      },
+      {
+        "markdown": "His design is heavily inspired by Western gunslingers, mixed with anime and gothic elements."
+      },
+      {
+        "markdown": "He carries a violin case and calls it a guitar case but it's loaded with a cannon. One of his removed voicelines says, \"Don't you dare touch my guitar case.\" But it's actually a violin case."
+      },
+      {
+        "markdown": "He speaks French in his voicelines."
+      },
+      {
+        "markdown": "He actually plays music with his gun to his violin case when recalling."
+      },
+      {
+        "markdown": "Granger’s Doomsday Terminator skin is heavily inspired by The Terminator movie series. His cybernetic design, red glowing eye, and robotic enhancements resemble the T-800, played by Arnold Schwarzenegger."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Chinese Name:** 格兰杰 (gélánjié)\n\n**Alias:**\n- Death Chanter\n- The Vagrant Poet\n- Invincible Marksman\n- Lightborn Overrider (Lightborn squad)\n\n**Origin:** Monastery of Light, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Male\n\n**Occupation:**\n- Violinist\n- Bard\n- Demon hunter\n\n**Affiliation:**\n- Monastery of Light\n- Moniyan Empire\n- Lightborn squad\n- The Abyss (hostile)\n\n**Weapons:**\n- Dirge (gun)\n- Requiem (cannon)\n\n**Voice Actors:**\n- English: Jack Dillon (2021; Starfall Knight)\n- Japanese: Date Masanori (伊達 将範)\n- Indonesian: Ari Wibowo\n\n# Story\n\n> \"A bard, a famed Demon Hunter\"\n\nGranger, a demon hunter who walks the line between human and demon, always preferred to keep to himself. But if someone could enter his world, they would realize how terrifying it is—the incessant howls and shrill cries constantly deafening his ears and heart. When he draws his demon-devouring weapons and unleashes a hail of bullets, the agonizing howls of demons become a requiem playing in the depths of his soul. Only the intertwining of their death shrieks and the sound of gunfire can drown out the noise that torments him daily. Each shot fired by Granger is not only his performance against the Abyss, but also an expression of his lament.\n\n# Side Story\n\n## Sonata of Bullets\n\nAn unnamed town on the edge of the Moniyan Empire is Granger's destination for this journey.\n\nHe walked quietly, the bright red scarf around his neck giving off an eerie aura. His skin was as pale as parchment, with a high collar covering half his face, revealing only a pair of somber eyes.\n\nGranger made his way to the outskirts of town, fully aware of what was waiting for him. Although their deep growls were hard to catch, the ringing in his ears that he despises was getting louder.\n\nSuddenly, a familiar melody caught Granger's attention. A child is sitting on the street, playing a tune on a flute. It's the Hymn of Light, a song he often heard when he was young.\n\nGranger's childhood was tragic, to say the least.\n\nOne night, his town was attacked by demons. With no place to run, Granger's parents hid him in a small space under the floorboards. As the demons broke in and dragged his parents away, their cries and the demonic snarls left an indelible shadow in his young heart. That memory turned into a constant ringing in his ears, torturing Granger night after night. The pain caused him to distance himself from others and he became increasingly reclusive. Until the day a beautiful and gentle melody calmed the ringing, like a warm hand across his heart, granting him a moment of peace that he had almost forgotten.\n\nFor the first time, he stepped out of his chaotic world and looked up to see a priest playing the violin.\n\n> \"What's the name of this piece?\"\n\nThe priest took out a pen and paper from his pocket and wrote down the words Hymn of Light.\n\nIt turned out that the priest was once the lead of the Monastery of Light's choir. It was his job to soothe the suffering hearts of the people with his voice. But years ago, when Alice infiltrated Lumina City and sent the city into chaos, the priest was struck by a demon and lost the ability to speak. But instead of wallowing in despair, he picked up the violin and continued to help others through music.\n\nPerhaps the violin's sound was too inviting. Granger came out of his world and followed the priest to the monastery. He even tried learning the violin but could only produce discordant noises.\n\n> \"Looks like I don't have any talent,\" a discouraged Granger lamented.\n\nThe priest smiled and showed him that true melody doesn't come from talent, but from the kindness and perseverance in one's heart, and in this aspect, he believed Granger had plenty.\n\nGranger, who failed to make much progress with music, showed exceptional talent in hunting demons. The church's leaders personally invited him to join the ranks of their demon hunters, even gifting him a specialized weapon—a pair of demon-devouring guns that could absorb demonic energy and convert it into special demon-slaying bullets. The few friends he had, including Alucard, invited him to hunt demons together, but Granger refused. Although the priest's music had healed his chaotic world, the night his parents died still remained in his heart like a permanent wound, bleeding at the slightest touch.\n\nThe priest respected Granger's decision. He believed that even the deepest wounds could heal one day, and this introverted and gentle child would eventually accept the past and walk into a brighter future.\n\nBut that day would never come.\n\nDyrroth, the Prince of the Abyss, led his Abyssal legions through the Moonlit Forest to attack the Moniyan Empire. In response, the Church of Light recruited demon hunters to prepare for the oncoming war. Seeing Granger unsettled by this, the priest let him take a leave from the monastery to decide his future. Whether he chose to remain a demon hunter or not, the monastery would always be his home.\n\nBut when Granger returned to the monastery, he saw only burning ruins and the priest lying in a pool of blood—the demons had already struck.\n\nWhatever choice he made no longer held any meaning.\n\nThe priest's hand still held the violin bow. Granger could almost picture the priest calmly playing his final requiem as the demons attacked. The ringing invaded his world again. But this time, there would be no Hymn of Light to soothe it. There would be no one to smile and comfort his pain, no one to play a lullaby to help him sleep. How could he silence this piercing noise... this creeping madness... this deafening rage in his chest?\n\nSensing the presence of a living soul, the demons stationed nearby closed in. Granger pulled out his guns and began a frenzied performance. As the demons' wails grew louder, the sound of bullets did too. The two cacophonies intertwined into a grand requiem, drowning out the ringing in Granger's ears. He suddenly realized that for him, this was the only way to soothe the pain. Blood for blood, until all evil was dead and gone.\n\nAfter that, Granger officially became a demon hunter. He named one of his guns Dirge, and modified the other into a cannon and installed it into the priest's violin case, which he named Requiem. He wrapped bandages around his hands to prevent the bloodshed from tainting the hands that once hoped to learn the violin. From that point on, every hunt became a requiem for the ones he lost.\n\nThe memories that had surfaced shattered once again.\n\nGranger's attention snapped back to the present. Since setting foot in this small town, the ringing in his ears hasn't stopped, but he knew that everything would quiet down soon enough.\n\nHe crouched down and gently placed a few coins in front of the child.\n\nAs the Ave Maria reached its finale, the demon hunter's death sonata was about to begin.\n\n# Abilities\n\n## Capriccio\n\nGranger's unique Demon Hunting and cannon attacks are powered by Demonic Energy. Both his weapons have a starting Energy cap of 800. His Gun restores 8% Energy per second while his Cannon restores 2% Energy per second.\n\nEach Minion or Creep kill will permanently increase the Energy cap of Granger's Gun and Cannon by 6 and instantly restore their Energy by 5% each. Every kill or assist on an enemy hero will permanently increase their Energy cap by 12 and instantly restore 10% Energy.\n\nEvery 1% Cooldown Reduction Granger gains is converted into 2 Physical Attack. Demonic Energy Cost is not affected by Energy Cost Reductions.\n\nNotes:\n- Demonic Energy Cost is technically not an energy as it is not affected by Energy Cost Reductions from the purple buff and the energy is omitted on his stats as seen on Granger's Story Page in-game.\n\n## Rhapsody\n\nGranger rapidly fires 6 shots with his Gun, with each shot dealing physical damage based on level and stats and consuming 70 Gun Energy. The last bullet is guaranteed to Crit. Each bullet deals an additional 70 damage to Creeps and Minions.\n\nWhile firing, Granger's Movement Speed is increased by 15%. Granger stops firing when he runs out of Energy, or when the skill is cast again. Rhapsody has a brief cooldown and can be cast once his Gun Energy is over 420.\n\nLevel scaling:\n- Gun Energy Cost: 420\n- Base Damage: 60 / 72 / 84 / 96 / 108 / 120\n\nNotes:\n- Granger can cast other abilities throughout the duration of this skill, but he cannot change the direction he's facing.\n\n## Rondo\n\nGranger uses his Demon Hunter agility to dash in the target direction, instantly restoring 15% to 25% Energy for his Gun. Rondo can be cast while channeling Rhapsody. Each time Rhapsody hits an enemy, Rondo's Cooldown is reduced by 0.5 second.\n\nLevel scaling:\n- Energy Regen: 15% / 17% / 19% / 21% / 23% / 25%\n\n## Death Sonata\n\nGranger fires his Cannon in the target direction, dealing burst physical damage to the first enemy hero hit and other targets in the blast radius. Targets hit will be slowed and revealed for a brief duration.\n\nGranger can roll in the joystick's direction after each shot. Death Sonata can be cast while firing Rhapsody. Death Sonata has a brief cooldown between shots and consumes 250 of Granger's Cannon Energy per shot.\n\nLevel scaling:\n- Cannon Energy Cost: 250\n- Base Damage: 250 / 325 / 400\n\nNotes:\n- Bullet passes through creeps and minions and deals the same damage to them.\n\n# Trivia\n\n- While \"Granger\" originally meant \"farm steward\", it also sounds like \"Ranger\", which fits his lone-wolf, sharpshooter personality. His name could be inspired by The Gunslinger from Stephen King’s Dark Tower series, which features a similar gun-wielding anti-hero.\n- Granger was the first marksman that does not require mana nor energy.\n- However, his abilities now cost energy after his revamp except for Skill 2.\n- Granger is the first marksman without basic attack crits.\n- His internal game file name is Mike.\n- He has the roots of French and Italian.\n- His gun name is Dirge and his cannon name is Requiem.\n- His Ultimate, Death Sonata, is named after a classical music piece, matching his violinist background.\n- His design is heavily inspired by Western gunslingers, mixed with anime and gothic elements.\n- He carries a violin case and calls it a guitar case but it's loaded with a cannon. One of his removed voicelines says, \"Don't you dare touch my guitar case.\" But it's actually a violin case.\n- He speaks French in his voicelines.\n- He actually plays music with his gun to his violin case when recalling.\n- Granger’s Doomsday Terminator skin is heavily inspired by The Terminator movie series. His cybernetic design, red glowing eye, and robotic enhancements resemble the T-800, played by Arnold Schwarzenegger.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "silvanna",
+        "alucard",
+        "fanny",
+        "harith",
+        "tigreal",
+        "alice",
+        "dyrroth"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "alucard"
+      ],
+      "rivals": [
+        "alice",
+        "dyrroth"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Demon Hunter",
+      "locationTies": [
+        {
+          "location": "Monastery of Light",
+          "relationship": "home"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "homeland"
+        },
+        {
+          "location": "Lumina City",
+          "relationship": "attacked"
+        },
+        {
+          "location": "Moonlit Forest",
+          "relationship": "battlefield"
+        }
+      ]
+    },
+    "moods": [
+      "tragic",
+      "dark",
+      "heroic"
+    ],
+    "themes": [
+      "loss",
+      "revenge",
+      "sacrifice"
+    ],
+    "hook": "When the Hymn of Light falls silent and the monastery lies in ruins, Granger learns the only lullaby that can calm his tortured world is a storm of bullets.",
+    "teaser": "Haunted by demonic screams and a lost lullaby, Granger turns every hunt into a requiem, walking the line between man and monster with gun and cannon in hand.",
+    "openingLine": "Granger, a demon hunter who walks the line between human and demon, always preferred to keep to himself.",
+    "dominantColor": "#5A1C1C",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Sonata of Bullets"
+    ],
+    "plotKeywords": [
+      "demonic attack on hometown",
+      "parents killed by demons",
+      "monastery of light",
+      "mute priest mentor",
+      "Hymn of Light melody",
+      "becomes demon hunter",
+      "monastery destroyed",
+      "revenge against Abyss",
+      "Dirge and Requiem weapons"
+    ],
+    "characterTraits": [
+      "reclusive",
+      "tormented",
+      "vengeful",
+      "loyal",
+      "introverted",
+      "determined"
+    ],
+    "locations": [
+      "Moniyan Empire",
+      "Monastery of Light",
+      "Lumina City",
+      "Moonlit Forest"
+    ],
+    "wordCount": 1798,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 7,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646981702,
+    "updatedAt": 1764646981702
+  },
+  "lastUpdated": null
+}

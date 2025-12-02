@@ -1,0 +1,251 @@
+{
+  "hero": "selena",
+  "urlName": "selena",
+  "sections": {
+    "profile": {
+      "markdown": "- Alias: Abyssal Witch\n- Species: Dark Elf\n- Gender: Female\n- Birthplace: Shadow Swamp, Azrya Woodlands\n- Weapon: Abyssal Devil\n- Japanese VA: Nokubi Naoko (野首 南帆子)\n- Indonesian VA: Jane Leisilla Zahara"
+    },
+    "story": {
+      "markdown": "> \"Dark Elf girl who fell into the Abyss\"\n\nThe Dark Elf Selena had been dependent on her sister Karina since childhood. Selena maintained her innocent nature under the protection of her sister, until she discovered the dirty things her sister Karina had done for her. She thought that she had become a burden for her sister. In order to gain more power, she dedicated herself to the Abyss, but did not want to be completely controlled by the Abyss and ultimately became a horrifying demon."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Shadow Abyss",
+          "content": {
+            "markdown": "South of the Moniyan Empire lies a bottomless abyss, engraved into this barren landscape as if an ancient demon used the sharpest of blades to carve a disfiguring scar into the Land of Dawn. People call this the Shadow Abyss.\n\nSealed away at the bottom of this legendary abyss, lies the most terrible demon in the Land of Dawn - the Abyss Dominator. But as the seal slowly fades, the will of the abyss gradually grows stronger.\n\nThe demons at the bottom of the abyss tirelessly devise plots to strengthen the power of darkness, persuading misguided believers to provide them with sacrifices for their evil cause. They use these sacrifices to feed the \"Abyss Devil\", a monster formed of the purest dark energy that waits in the darkness to devour its prey."
+          }
+        },
+        {
+          "title": "Sacrifice",
+          "content": {
+            "markdown": "Selena, a young Dark Elf, was sacrificed to the Shadow Abyss by fanatics in exchange for dark energy, and as Elves are the Abyss Devil's favorite sacrifices, Selena was offered up immediately by the demons. The Abyss Devil maniacally drilled into Selena, severe pain and desperation spreading through every corner of the young Elf girl's body. Just as she was about to be consumed by dark magic, a miracle occurred - a warm blue light enveloped the girl, and the dark abyssal magic and this mystical power began waging a savage battle inside her fragile, young body.\n\nSelena awoke find herself lying in the depth of the abyss, her skin now a mysterious blue tone and her lavender eyes filled with a scarlet glow, with the Abyss Devil lying quietly at her side."
+          }
+        },
+        {
+          "title": "Chosen of the Abyss",
+          "content": {
+            "markdown": "The Demons of the Abyss were busy wondering what had just happened. Little did they know, the will of the Abyss had arrived. This girl is loved deeply, and this love has protected her from being consumed by darkness. The Abyss and the Moon Goddess - these two opposing forces have reached a balance within her body.\n\nAn ancient, heavy voice echoed through the minds of the demons,\n\n> \"Leave this girls to me. She will become the strongest warrior of the Shadow Abyss!\"\n\nThe demons obeyed the abyss' command and left her there. When Selena reappeared before the demonic inhabitants of the abyss, with the Abyss Devil at her side, she had completely forgotten her past."
+          }
+        },
+        {
+          "title": "Voice of the Abyss",
+          "content": {
+            "markdown": "She found that she could skillfully manipulate the abyss to release dark magic, a demon capable of tearing her enemies to shreds. The will of the Shadow Abyss appointed her as its voice, making it her duty to rule over the demonic denizens. Even the proud Queen of Blood Magic began to feel unnerved upon seeing this young Dark Elf Girl, not only because the abyss had chosen her, but also because Alice could sense the terrible power lying within this seemingly cute and mischievous youngster."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Symbiosis",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Selena can switch freely between her two forms.\n\nElven Form: Selena applies Abyssal Mark with her skills. The mark can stack up to 2 times. When Abyssal Arrow hits an enemy, it immediately adds an Abyssal Mark.\n\nAbyssal Form: All damage will consume 1 stack of Abyssal Mark to deal extra magic damage based on level and stats.\n\n- Type: Magic Skill\n- Extra Damage per Mark (by level): 240 / 255 / 270 / 285 / 300 / 315 / 330 / 345 / 360 / 375 / 390 / 405 / 420 / 435 / 450 magic damage."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Abyssal Trap",
+        "cooldown": 8,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Selena summons an Abyssal Devil to lurk in a designated location. The Abyssal Devil will attach itself to any enemy that approaches the location and slow them by 70%. After 1 second, the Abyssal Devil deals magic damage to the enemy and other nearby enemies and slows them by 50% for 1 second.\n\nThe Abyssal Devil lasts up to 60 seconds. Up to 3 Abyssal Devils can exist at the same time. Each extra Abyssal Devil increases the final damage by 50%.\n\n- Type: Magic Skill\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Mana Cost: 60 / 70 / 80 / 90 / 100 / 110\n- Base Damage: 350 / 390 / 430 / 470 / 510 / 550 magic damage\n- Additional Effect: Provides vision in the surrounding area."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Soul Eater",
+        "cooldown": 6,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Selena strengthens her claws with the power of the Abyss, causing the next basic attack to deal extra magic damage, while granting a shield.\n\n- Type: Magic Skill\n- Cooldown: 6.0 / 5.5 / 5.0 / 4.5 / 4.0 / 3.5 seconds\n- Mana Cost: 60 / 65 / 70 / 75 / 80 / 85\n- Extra Damage (by level): 200 / 230 / 260 / 290 / 320 / 350 magic damage\n- Shield (by level): 300 / 320 / 340 / 360 / 380 / 400."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Abyssal Arrow",
+        "cooldown": 12,
+        "cost": 70,
+        "role": "Control",
+        "details": {
+          "markdown": "Selena fires magic arrows in a designated direction, dealing magic damage to the first enemy hero hit and stunning it for 0.5 seconds to 3 seconds. Stun duration and damage increase with the distance that the arrows travel.\n\nThe arrow absorbs Abyssal Traps as it travels and hence will apply the effects of Abyssal Traps to the enemy target upon hit. If an enemy is stunned for 1 second or longer, Selena's Movement Speed will be increased by 40% for 2 seconds.\n\n- Type: Magic Skill\n- Cooldown: 12.0 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Base Damage: 250 / 280 / 310 / 340 / 370 / 400 magic damage\n- Max Damage at longest distance: 500 / 560 / 620 / 680 / 740 / 800 magic damage\n- Additional Effect: Stun 0.5–3 seconds depending on travel distance, Movement Speed +40% for 2 seconds if stun duration is at least 1 second."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Garotte",
+        "cooldown": 12,
+        "cost": 70,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Selena charges in a designated direction, dealing magic damage to enemies along the way. If this damage triggers the Abyssal Mark effect, its cooldown resets immediately.\n\n- Type: Magic Skill / Blink\n- Cooldown: 12.0 / 11.4 / 10.8 / 10.2 / 9.6 / 9.0 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Base Damage: 150 / 190 / 230 / 270 / 310 / 350 magic damage\n- Note: Despite being a magic skill, Garotte does not trigger magic lifesteal but only triggers spell vamp."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Primal Darkness",
+        "cooldown": 4.5,
+        "cost": 0,
+        "role": "Morph",
+        "details": {
+          "markdown": "Selena enters Abyssal Form and increases her Movement Speed by 30% for 0.8 seconds. Immediately resets the cooldown of Soul Eater and Garotte.\n\nIn Abyssal Form, Selena gains new skills. Her basic attacks will deal extra magic damage.\n\n- Type: Morph / Magic Basic Attack Enhancer\n- Cooldown: 4.5 / 4.0 / 3.5 / 3.0 seconds\n- Movement Speed Bonus: 30% / 35% / 40% / 45%\n- Note: Her basic attack's extra damage only applies to one target; multiple targets hit will receive her basic physical damage."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Blessing of the Moon Goddess",
+        "cooldown": 4.5,
+        "cost": 0,
+        "role": "Morph",
+        "details": {
+          "markdown": "Selena enters Elven Form and increases her Movement Speed for 30%. Lasts 0.8 seconds. Immediately resets the cooldown of Abyssal Trap and Abyssal Arrow.\n\n- Type: Morph / Magic Skill\n- Cooldown: 4.5 / 4.0 / 3.5 / 3.0 seconds\n- Movement Speed Bonus: 30% / 35% / 40% / 45%."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Except from her basic skin \"Wasp Queen\", all of Selena's skins were first released as time-limited."
+      },
+      {
+        "markdown": "The name Selena comes from the Greek name \"Selene\" or Selina, which means \"moon\" or \"goddess of the moon.\" In Greek mythology, Selene was the Titan goddess of the moon, often depicted riding a chariot across the night sky."
+      },
+      {
+        "markdown": "Selena was one of the first heroes in MLBB to have two separate skill sets in one hero. Her switching mechanics make her both an Assassin and a Mage, depending on the form."
+      },
+      {
+        "markdown": "Selena was supposed to be released on the date another hero was released, but the developers decided to postpone her release to a month later because some of them saw her as over-powered and others saw her under-powered."
+      },
+      {
+        "markdown": "Her Abyssal Arrow (2nd Skill in Elven Form) can stun enemies for up to 3 seconds, making it one of the longest stuns in the game."
+      },
+      {
+        "markdown": "Selena's Abyssal skin \"Lady Vengeance\" pays a wicked tribute to Starcraft’s Kerrigan."
+      },
+      {
+        "markdown": "Selena's Zenith skin \"Curse of Cinder\" refers to Ashes. In Selena's Zenith skin back story her stepsister's calls her little Ashes. The name \"Cinder\" is also a shortened form of \"Cinderella,\" from the classic fairy tale. Additionally, her outfit, theme, and skin story are inspired by it while another hero's Zenith skin is inspired by Snow White."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Alias: Abyssal Witch\n- Species: Dark Elf\n- Gender: Female\n- Birthplace: Shadow Swamp, Azrya Woodlands\n- Weapon: Abyssal Devil\n- Japanese VA: Nokubi Naoko (野首 南帆子)\n- Indonesian VA: Jane Leisilla Zahara\n\n# Story\n\n> \"Dark Elf girl who fell into the Abyss\"\n\nThe Dark Elf Selena had been dependent on her sister Karina since childhood. Selena maintained her innocent nature under the protection of her sister, until she discovered the dirty things her sister Karina had done for her. She thought that she had become a burden for her sister. In order to gain more power, she dedicated herself to the Abyss, but did not want to be completely controlled by the Abyss and ultimately became a horrifying demon.\n\n# Side Story\n\n## Shadow Abyss\n\nSouth of the Moniyan Empire lies a bottomless abyss, engraved into this barren landscape as if an ancient demon used the sharpest of blades to carve a disfiguring scar into the Land of Dawn. People call this the Shadow Abyss.\n\nSealed away at the bottom of this legendary abyss, lies the most terrible demon in the Land of Dawn - the Abyss Dominator. But as the seal slowly fades, the will of the abyss gradually grows stronger.\n\nThe demons at the bottom of the abyss tirelessly devise plots to strengthen the power of darkness, persuading misguided believers to provide them with sacrifices for their evil cause. They use these sacrifices to feed the \"Abyss Devil\", a monster formed of the purest dark energy that waits in the darkness to devour its prey.\n\n## Sacrifice\n\nSelena, a young Dark Elf, was sacrificed to the Shadow Abyss by fanatics in exchange for dark energy, and as Elves are the Abyss Devil's favorite sacrifices, Selena was offered up immediately by the demons. The Abyss Devil maniacally drilled into Selena, severe pain and desperation spreading through every corner of the young Elf girl's body. Just as she was about to be consumed by dark magic, a miracle occurred - a warm blue light enveloped the girl, and the dark abyssal magic and this mystical power began waging a savage battle inside her fragile, young body.\n\nSelena awoke find herself lying in the depth of the abyss, her skin now a mysterious blue tone and her lavender eyes filled with a scarlet glow, with the Abyss Devil lying quietly at her side.\n\n## Chosen of the Abyss\n\nThe Demons of the Abyss were busy wondering what had just happened. Little did they know, the will of the Abyss had arrived. This girl is loved deeply, and this love has protected her from being consumed by darkness. The Abyss and the Moon Goddess - these two opposing forces have reached a balance within her body.\n\nAn ancient, heavy voice echoed through the minds of the demons,\n\n> \"Leave this girls to me. She will become the strongest warrior of the Shadow Abyss!\"\n\nThe demons obeyed the abyss' command and left her there. When Selena reappeared before the demonic inhabitants of the abyss, with the Abyss Devil at her side, she had completely forgotten her past.\n\n## Voice of the Abyss\n\nShe found that she could skillfully manipulate the abyss to release dark magic, a demon capable of tearing her enemies to shreds. The will of the Shadow Abyss appointed her as its voice, making it her duty to rule over the demonic denizens. Even the proud Queen of Blood Magic began to feel unnerved upon seeing this young Dark Elf Girl, not only because the abyss had chosen her, but also because Alice could sense the terrible power lying within this seemingly cute and mischievous youngster.\n\n# Abilities\n\n## Symbiosis\n\nSelena can switch freely between her two forms.\n\nElven Form: Selena applies Abyssal Mark with her skills. The mark can stack up to 2 times. When Abyssal Arrow hits an enemy, it immediately adds an Abyssal Mark.\n\nAbyssal Form: All damage will consume 1 stack of Abyssal Mark to deal extra magic damage based on level and stats.\n\n- Type: Magic Skill\n- Extra Damage per Mark (by level): 240 / 255 / 270 / 285 / 300 / 315 / 330 / 345 / 360 / 375 / 390 / 405 / 420 / 435 / 450 magic damage.\n\n## Abyssal Trap\n\nSelena summons an Abyssal Devil to lurk in a designated location. The Abyssal Devil will attach itself to any enemy that approaches the location and slow them by 70%. After 1 second, the Abyssal Devil deals magic damage to the enemy and other nearby enemies and slows them by 50% for 1 second.\n\nThe Abyssal Devil lasts up to 60 seconds. Up to 3 Abyssal Devils can exist at the same time. Each extra Abyssal Devil increases the final damage by 50%.\n\n- Type: Magic Skill\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Mana Cost: 60 / 70 / 80 / 90 / 100 / 110\n- Base Damage: 350 / 390 / 430 / 470 / 510 / 550 magic damage\n- Additional Effect: Provides vision in the surrounding area.\n\n## Soul Eater\n\nSelena strengthens her claws with the power of the Abyss, causing the next basic attack to deal extra magic damage, while granting a shield.\n\n- Type: Magic Skill\n- Cooldown: 6.0 / 5.5 / 5.0 / 4.5 / 4.0 / 3.5 seconds\n- Mana Cost: 60 / 65 / 70 / 75 / 80 / 85\n- Extra Damage (by level): 200 / 230 / 260 / 290 / 320 / 350 magic damage\n- Shield (by level): 300 / 320 / 340 / 360 / 380 / 400.\n\n## Abyssal Arrow\n\nSelena fires magic arrows in a designated direction, dealing magic damage to the first enemy hero hit and stunning it for 0.5 seconds to 3 seconds. Stun duration and damage increase with the distance that the arrows travel.\n\nThe arrow absorbs Abyssal Traps as it travels and hence will apply the effects of Abyssal Traps to the enemy target upon hit. If an enemy is stunned for 1 second or longer, Selena's Movement Speed will be increased by 40% for 2 seconds.\n\n- Type: Magic Skill\n- Cooldown: 12.0 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Base Damage: 250 / 280 / 310 / 340 / 370 / 400 magic damage\n- Max Damage at longest distance: 500 / 560 / 620 / 680 / 740 / 800 magic damage\n- Additional Effect: Stun 0.5–3 seconds depending on travel distance, Movement Speed +40% for 2 seconds if stun duration is at least 1 second.\n\n## Garotte\n\nSelena charges in a designated direction, dealing magic damage to enemies along the way. If this damage triggers the Abyssal Mark effect, its cooldown resets immediately.\n\n- Type: Magic Skill / Blink\n- Cooldown: 12.0 / 11.4 / 10.8 / 10.2 / 9.6 / 9.0 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Base Damage: 150 / 190 / 230 / 270 / 310 / 350 magic damage\n- Note: Despite being a magic skill, Garotte does not trigger magic lifesteal but only triggers spell vamp.\n\n## Primal Darkness\n\nSelena enters Abyssal Form and increases her Movement Speed by 30% for 0.8 seconds. Immediately resets the cooldown of Soul Eater and Garotte.\n\nIn Abyssal Form, Selena gains new skills. Her basic attacks will deal extra magic damage.\n\n- Type: Morph / Magic Basic Attack Enhancer\n- Cooldown: 4.5 / 4.0 / 3.5 / 3.0 seconds\n- Movement Speed Bonus: 30% / 35% / 40% / 45%\n- Note: Her basic attack's extra damage only applies to one target; multiple targets hit will receive her basic physical damage.\n\n## Blessing of the Moon Goddess\n\nSelena enters Elven Form and increases her Movement Speed for 30%. Lasts 0.8 seconds. Immediately resets the cooldown of Abyssal Trap and Abyssal Arrow.\n\n- Type: Morph / Magic Skill\n- Cooldown: 4.5 / 4.0 / 3.5 / 3.0 seconds\n- Movement Speed Bonus: 30% / 35% / 40% / 45%.\n\n# Trivia\n\n- Except from her basic skin \"Wasp Queen\", all of Selena's skins were first released as time-limited.\n- The name Selena comes from the Greek name \"Selene\" or Selina, which means \"moon\" or \"goddess of the moon.\" In Greek mythology, Selene was the Titan goddess of the moon, often depicted riding a chariot across the night sky.\n- Selena was one of the first heroes in MLBB to have two separate skill sets in one hero. Her switching mechanics make her both an Assassin and a Mage, depending on the form.\n- Selena was supposed to be released on the date another hero was released, but the developers decided to postpone her release to a month later because some of them saw her as over-powered and others saw her under-powered.\n- Her Abyssal Arrow (2nd Skill in Elven Form) can stun enemies for up to 3 seconds, making it one of the longest stuns in the game.\n- Selena's Abyssal skin \"Lady Vengeance\" pays a wicked tribute to Starcraft’s Kerrigan.\n- Selena's Zenith skin \"Curse of Cinder\" refers to Ashes. In Selena's Zenith skin back story her stepsister's calls her little Ashes. The name \"Cinder\" is also a shortened form of \"Cinderella,\" from the classic fairy tale. Additionally, her outfit, theme, and skin story are inspired by it while another hero's Zenith skin is inspired by Snow White.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "karina",
+        "aldous",
+        "alice",
+        "obsidia",
+        "vexana",
+        "chang_e",
+        "kaja"
+      ],
+      "faction": "Shadow Abyss",
+      "allies": [
+        "karina"
+      ],
+      "rivals": [
+        "alice"
+      ],
+      "family": [
+        "karina"
+      ],
+      "mentors": [],
+      "factionRole": "Voice of the Abyss",
+      "locationTies": [
+        {
+          "location": "Shadow Swamp",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Shadow Abyss",
+          "relationship": "home"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "opposes"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "roams"
+        }
+      ]
+    },
+    "moods": [
+      "dark",
+      "tragic",
+      "heroic"
+    ],
+    "themes": [
+      "power",
+      "sacrifice",
+      "destiny"
+    ],
+    "hook": "Sacrificed to the Shadow Abyss, Selena should have been devoured—until a warm blue light clashed with the darkness and bound abyss and moon within her.",
+    "teaser": "Cast into the Shadow Abyss as a sacrifice, Selena awakens changed—half moonlight, half darkness, chosen to rule demons even she barely remembers.",
+    "openingLine": "South of the Moniyan Empire lies a bottomless abyss, engraved into this barren landscape as if an ancient demon used the sharpest of blades to carve a disfiguring scar into the Land of Dawn.",
+    "dominantColor": "#4B2A84",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 4,
+    "chapterTitles": [
+      "Shadow Abyss",
+      "Sacrifice",
+      "Chosen of the Abyss",
+      "Voice of the Abyss"
+    ],
+    "plotKeywords": [
+      "shadow abyss",
+      "demonic sacrifice",
+      "abyss dominator",
+      "abyss devil",
+      "moon goddess blessing",
+      "transformation",
+      "amnesia",
+      "demonic rule"
+    ],
+    "characterTraits": [
+      "innocent",
+      "dependent",
+      "burdened",
+      "mischievous",
+      "powerful",
+      "enigmatic"
+    ],
+    "locations": [
+      "Moniyan Empire",
+      "Land of Dawn",
+      "Shadow Abyss",
+      "Shadow Swamp",
+      "Azrya Woodlands"
+    ],
+    "wordCount": 1533,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 7,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647173903,
+    "updatedAt": 1764647173903
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,253 @@
+{
+  "hero": "tigreal",
+  "urlName": "tigreal",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Tigreal Wertz\n\n**Chinese Name:** 泰格 (Tài gé)\n\n**Alias:**\n- Warrior of Dawn\n- Leader of the Light's Order\n- Guardian of the Moniyan Empire\n\n**Origin:** Lumina City, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Male\n\n**Occupation:** Imperial Knight leader\n\n**Affiliation:**\n- Wertz family\n- Moniyan Empire\n  - Imperial Army\n    - Knights of Light\n    - Garrison Army\n    - Second Regiment\n- The Abyss (hostile)\n\n**Weapons:**\n- Sacred Hammer\n- Shield\n- Longsword (formerly)\n\n**Traits:** Courageous & Justice, Chivalry Spirit\n\n**Relationships:**\n- Gareth (father)\n- Eckert (uncle)\n\n**Title Quote:**\n> \"Leader of the Light's Order, guardian of the Moniyan Empire\""
+    },
+    "story": {
+      "markdown": "> \"Leader of the Light's Order, guardian of the Moniyan Empire\"\n\nTigreal is the rising star of the Moniyan Empire. But in a battle, the Second Army that he was leading went deep into the enemy territory alone under the orders of high-level officials and suffered heavy losses, for which Tigreal was eventually forced to take responsibility.\n\nBecause of this, he left the Empire and came to the Northern Vale. During this period of time, Tigreal finally resolved the problems in his mind. Eventually, he returned to the Empire and became the leader of the Light's Order."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Noble Lineage",
+          "content": {
+            "markdown": "Tigreal was born into the noble Wertz family. Since the establishment of the Moniyan Empire, the House Wertz has continuously provided military talents for the empire, and has guarded Moniyan’s imperial power and national security for generations. Tigreal’s generation is no exception. His father Gareth is the empire’s Minister of Defense and the emperor’s right-hand man, while his uncle Eckert is in charge of the border guards stationed at the most dangerous area between the southern part of the empire and the land of despair."
+          }
+        },
+        {
+          "title": "Training and Expectations",
+          "content": {
+            "markdown": "Although thousands of years have passed since the shocking changes that split the empire, the rumors and threats about the Abyss, heretics, and terrible creatures have never been far away. Since he was a child, Tigreal received systematic military training in the Lumina City, constantly learning various combat skills such as fighting, swordsmanship, and riding. The whole family had high hopes for him, hoping that one day he would be able to take over the banner of his father's generation and become the most steadfast and loyal guardian of Moniyan."
+          }
+        },
+        {
+          "title": "Joining the Imperial Army",
+          "content": {
+            "markdown": "At the age of sixteen, Tigreal joined the Imperial Army with full devotion, and was incorporated into the Garrison Army ranks. During his four years in the Garrison Army, Tigreal led his troops to almost every part of Moniyan, which further exercised Tigreal's command ability and leadership ability, earning him the favor of the Light's Order."
+          }
+        },
+        {
+          "title": "Youngest of the Knights of Light",
+          "content": {
+            "markdown": "Subsequently, Tigreal joined the Knights of Light with his outstanding military talent and leadership ability. In the Moniyan Empire, only the most loyal and brave fighters who had undergone intensive training were eligible to be elected to the Knights of Light, and Tigreal became the youngest member of the Knights in history. He was the glory of his family and a genius in the eyes of the Moniyan people. Everyone believed that he would become a hero in the history of Moniyan, just like the martyrs of previous generations in Promenade of Heroes."
+          }
+        },
+        {
+          "title": "Disaster in the Barren Lands",
+          "content": {
+            "markdown": "However, few peoples’ lives are such smooth sailing. Just when people thought that a star was about to rise, a blow soon befell Tigreal. In The Barren Lands, in a battle launched to completely drive the Abyss demons, who had been holding the area for a long time, back underground, Tigreal served as the commander of the Second Regiment in an army that was composed of the Light's Order and the Imperial Border Guard. He was deployed on the left flank of the battlefield, and launched an attack on the demon army. However, due to a mistake by the command center, the Second Regiment went in deep alone and was besieged by the demon army."
+          }
+        },
+        {
+          "title": "Retreat and Sacrifice",
+          "content": {
+            "markdown": "Subsequently, the command center ordered the Second Regiment to leave some of the soldiers behind to bring up the rear and disperse to break through the envelopment. At this time, Tigreal was determined to live or die with his troops, but the elderly and experienced deputy Roland stopped Tigreal and made him retreat with the main force that he was commanding, while he and a small number of fighters would hold up the enemy. On the premise of retaining some effective soldiers, Tigreal reluctantly led the troops to withdraw."
+          }
+        },
+        {
+          "title": "Aftermath and Guilt",
+          "content": {
+            "markdown": "After the battle, the demon army, which had long been entrenched where the southern part of the empire met the Barren Lands, was completely wiped out, but only the Second Regiment had suffered heavy casualties, with the unit that remained in place to hold up the enemy having been totally annihilated. Looking at the corpses and blood all over the ground, Tigreal felt full of guilt for the decision he made."
+          }
+        },
+        {
+          "title": "Disgrace and Exile",
+          "content": {
+            "markdown": "After this battle, in order to cover up their mistakes, the high-levels of the Knights refused to give the soldiers of the Second Regiment the honor they deserved, and called these soldiers \"disobedient\" because they were greedy for merit and this led to unnecessary sacrifice. Afterwards, they tried to use medals and promotions as a way of tempting Tigreal to keep silent. Feeling the stress of the unsuccessful struggle and pressure from the family, Tigreal left Moniyan and came to the cold Northern Vale. In the icy and snowy north, Tigreal established a deep friendship with the rugged Northern Vale tribes, and more importantly, by fighting side by side again and again, Tigreal realized that as a knight, the life of a companion is more important than the outcome of a battle: because we choose to fight to protect everyone around us. If fighting only means sacrifice, then victory is meaningless."
+          }
+        },
+        {
+          "title": "Return as Warrior of Dawn",
+          "content": {
+            "markdown": "After that, Tigreal returned to Moniyan, returned to the Knights of Light, and became the leader of the Knights over the years, guarding everything in Moniyan with determination and bravery day after day. In folklore, as long as there is a place where darkness invades, there will be the fearless Warrior of Dawn to lead everyone in driving away the darkness."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Fearless",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "Tigreal gains a stack of Fearless each time he casts a skill or is hit by a Basic Attack. After getting 4 stacks, Tigreal will consume all Fearless stacks to block the next incoming Basic Attack, including attacks from turrets. Attacks from Minions do not grant Fearless stacks nor trigger this effect.\n\n- Trigger source: casting skills or being hit by Physical or Magic Basic Attacks\n- Effect at 4 stacks: blocks the next Basic Attack (turrets included)\n- Minion attacks: do not grant stacks and do not trigger the block\n\nNotes:\n- Fearless stacks will completely deplete 6 seconds after Tigreal is unable to maintain them.\n- Tigreal fully gains stacks from Lord and Turtle damage but not from Altar damage.\n- Tigreal only gains a stack from Implosion after the pull step."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Attack Wave",
+        "cooldown": 7,
+        "cost": 45,
+        "role": "Damage",
+        "details": {
+          "markdown": "Cooldown: 7.0 / 6.4 / 5.8 / 5.2 / 4.6 / 4.0 seconds  \nMana Cost: 45\n\nTigreal smashes the ground with his hammer and sends a shockwave forward that erupts 3 times, each time dealing physical damage scaling with level and Physical Attack to enemies along the fan-shaped area and slowing them by 20% / 40% / 60% for 1.5 seconds.\n\nLevel scaling:\n- Base Damage: 270 / 300 / 330 / 360 / 390 / 420\n\nAdditional info:\n- Damage type: Physical Damage Skill\n- Also affects enemy Movement Speed via slow\n\nNotes:\n- The wave travels at the same speed as his movement during the cast.\n- It is possible for a unit to be hit by multiple waves if they stay in the area."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Sacred Hammer",
+        "cooldown": 12.5,
+        "cost": 70,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 12.5 / 12.0 / 11.5 / 11.0 / 10.5 / 10.0 seconds  \nMana Cost: 70\n\nTigreal charges in a target direction, dealing physical damage scaling with level and Physical Attack to enemies along the way and pushing them to the end of the charge. Tigreal can cast this skill again within 4 seconds, dealing additional physical damage to enemies in front of him and knocking them airborne for 1 second.\n\nSecond cast damage scaling:\n- Airborne Damage: 280 / 300 / 320 / 340 / 360 / 380\n\nAdditional info:\n- Damage type: Physical Skill\n- Effects: Charge, Displacement, Knock-up (airborne)\n\nNotes:\n- Cooldown starts when the skill is first cast.\n- Tigreal can blink by using the battle spell Flicker during this skill.\n- The knockback will control enemies for the full duration if they do not use crowd-control immunity.\n- If an enemy is hit by the end of this ability, they will be briefly knocked back and stunned in position instead, and the total duration can be reduced by resilience while stunned.\n- Death removes access to the second phase if it has not been used."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Implosion",
+        "cooldown": 45,
+        "cost": 120,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 45.0 / 41.0 / 37.0 seconds  \nMana Cost: 120 / 140 / 160\n\nTigreal unleashes the power of his hammer, stunning and pulling nearby enemies to him for 2 seconds while dealing physical damage scaling with level and Physical Attack. The first half of the channeling can be interrupted by control effects. The second part of the channeling cannot be interrupted except by Suppression.\n\nLevel scaling:\n- Base Damage: 270 / 350 / 430\n\nAdditional info:\n- Effects: Pull, Stun, Area-of-effect Physical Damage Skill\n\nNotes:\n- Tigreal can blink by using the battle spell Flicker during this skill.\n- The skill executes in 3 steps:\n  - Delay step: Tigreal applies a weak pull which does not count as knockback. It now applies stun, and the skill goes into cooldown if cancelled here.\n  - Pull step: Tigreal pulls enemies towards him. It does not stun yet, but it immobilizes. When the ultimate is cancelled in this step, it still goes into cooldown.\n  - Stun: Tigreal stuns his enemies for 2 seconds while dealing damage.\n- Implosion can pull through obstacles. If the enemy does not pass by the obstacle, they will be displaced next to Tigreal at the time of the stun."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Tigreal's passive has been reworked twice up to this day."
+      },
+      {
+        "markdown": "His first passive granted him bonus armor and magic resistance when he performs a basic attack, which stacks up to 5 times."
+      },
+      {
+        "markdown": "His second passive granted him 15% more armor and magic defense from items."
+      },
+      {
+        "markdown": "There are numerous inconsistencies and ironies with Tigreal's quotes:"
+      },
+      {
+        "markdown": "\"A real man never hides in a bush\", when all Tigreal players do hide in bushes."
+      },
+      {
+        "markdown": "\"A true knight never says die\", but he already said it."
+      },
+      {
+        "markdown": "He is based from Bedivere from Magic Rush."
+      },
+      {
+        "markdown": "His current English voice actor, Zach Lazar Hoffman, also provides the voice for Yu Zhong."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Tigreal Wertz\n\n**Chinese Name:** 泰格 (Tài gé)\n\n**Alias:**\n- Warrior of Dawn\n- Leader of the Light's Order\n- Guardian of the Moniyan Empire\n\n**Origin:** Lumina City, Moniyan Empire\n\n**Species:** Human\n\n**Gender:** Male\n\n**Occupation:** Imperial Knight leader\n\n**Affiliation:**\n- Wertz family\n- Moniyan Empire\n  - Imperial Army\n    - Knights of Light\n    - Garrison Army\n    - Second Regiment\n- The Abyss (hostile)\n\n**Weapons:**\n- Sacred Hammer\n- Shield\n- Longsword (formerly)\n\n**Traits:** Courageous & Justice, Chivalry Spirit\n\n**Relationships:**\n- Gareth (father)\n- Eckert (uncle)\n\n**Title Quote:**\n> \"Leader of the Light's Order, guardian of the Moniyan Empire\"\n\n# Story\n\n> \"Leader of the Light's Order, guardian of the Moniyan Empire\"\n\nTigreal is the rising star of the Moniyan Empire. But in a battle, the Second Army that he was leading went deep into the enemy territory alone under the orders of high-level officials and suffered heavy losses, for which Tigreal was eventually forced to take responsibility.\n\nBecause of this, he left the Empire and came to the Northern Vale. During this period of time, Tigreal finally resolved the problems in his mind. Eventually, he returned to the Empire and became the leader of the Light's Order.\n\n# Side Story\n\n## Noble Lineage\n\nTigreal was born into the noble Wertz family. Since the establishment of the Moniyan Empire, the House Wertz has continuously provided military talents for the empire, and has guarded Moniyan’s imperial power and national security for generations. Tigreal’s generation is no exception. His father Gareth is the empire’s Minister of Defense and the emperor’s right-hand man, while his uncle Eckert is in charge of the border guards stationed at the most dangerous area between the southern part of the empire and the land of despair.\n\n## Training and Expectations\n\nAlthough thousands of years have passed since the shocking changes that split the empire, the rumors and threats about the Abyss, heretics, and terrible creatures have never been far away. Since he was a child, Tigreal received systematic military training in the Lumina City, constantly learning various combat skills such as fighting, swordsmanship, and riding. The whole family had high hopes for him, hoping that one day he would be able to take over the banner of his father's generation and become the most steadfast and loyal guardian of Moniyan.\n\n## Joining the Imperial Army\n\nAt the age of sixteen, Tigreal joined the Imperial Army with full devotion, and was incorporated into the Garrison Army ranks. During his four years in the Garrison Army, Tigreal led his troops to almost every part of Moniyan, which further exercised Tigreal's command ability and leadership ability, earning him the favor of the Light's Order.\n\n## Youngest of the Knights of Light\n\nSubsequently, Tigreal joined the Knights of Light with his outstanding military talent and leadership ability. In the Moniyan Empire, only the most loyal and brave fighters who had undergone intensive training were eligible to be elected to the Knights of Light, and Tigreal became the youngest member of the Knights in history. He was the glory of his family and a genius in the eyes of the Moniyan people. Everyone believed that he would become a hero in the history of Moniyan, just like the martyrs of previous generations in Promenade of Heroes.\n\n## Disaster in the Barren Lands\n\nHowever, few peoples’ lives are such smooth sailing. Just when people thought that a star was about to rise, a blow soon befell Tigreal. In The Barren Lands, in a battle launched to completely drive the Abyss demons, who had been holding the area for a long time, back underground, Tigreal served as the commander of the Second Regiment in an army that was composed of the Light's Order and the Imperial Border Guard. He was deployed on the left flank of the battlefield, and launched an attack on the demon army. However, due to a mistake by the command center, the Second Regiment went in deep alone and was besieged by the demon army.\n\n## Retreat and Sacrifice\n\nSubsequently, the command center ordered the Second Regiment to leave some of the soldiers behind to bring up the rear and disperse to break through the envelopment. At this time, Tigreal was determined to live or die with his troops, but the elderly and experienced deputy Roland stopped Tigreal and made him retreat with the main force that he was commanding, while he and a small number of fighters would hold up the enemy. On the premise of retaining some effective soldiers, Tigreal reluctantly led the troops to withdraw.\n\n## Aftermath and Guilt\n\nAfter the battle, the demon army, which had long been entrenched where the southern part of the empire met the Barren Lands, was completely wiped out, but only the Second Regiment had suffered heavy casualties, with the unit that remained in place to hold up the enemy having been totally annihilated. Looking at the corpses and blood all over the ground, Tigreal felt full of guilt for the decision he made.\n\n## Disgrace and Exile\n\nAfter this battle, in order to cover up their mistakes, the high-levels of the Knights refused to give the soldiers of the Second Regiment the honor they deserved, and called these soldiers \"disobedient\" because they were greedy for merit and this led to unnecessary sacrifice. Afterwards, they tried to use medals and promotions as a way of tempting Tigreal to keep silent. Feeling the stress of the unsuccessful struggle and pressure from the family, Tigreal left Moniyan and came to the cold Northern Vale. In the icy and snowy north, Tigreal established a deep friendship with the rugged Northern Vale tribes, and more importantly, by fighting side by side again and again, Tigreal realized that as a knight, the life of a companion is more important than the outcome of a battle: because we choose to fight to protect everyone around us. If fighting only means sacrifice, then victory is meaningless.\n\n## Return as Warrior of Dawn\n\nAfter that, Tigreal returned to Moniyan, returned to the Knights of Light, and became the leader of the Knights over the years, guarding everything in Moniyan with determination and bravery day after day. In folklore, as long as there is a place where darkness invades, there will be the fearless Warrior of Dawn to lead everyone in driving away the darkness.\n\n# Abilities\n\n## Fearless\n\nTigreal gains a stack of Fearless each time he casts a skill or is hit by a Basic Attack. After getting 4 stacks, Tigreal will consume all Fearless stacks to block the next incoming Basic Attack, including attacks from turrets. Attacks from Minions do not grant Fearless stacks nor trigger this effect.\n\n- Trigger source: casting skills or being hit by Physical or Magic Basic Attacks\n- Effect at 4 stacks: blocks the next Basic Attack (turrets included)\n- Minion attacks: do not grant stacks and do not trigger the block\n\nNotes:\n- Fearless stacks will completely deplete 6 seconds after Tigreal is unable to maintain them.\n- Tigreal fully gains stacks from Lord and Turtle damage but not from Altar damage.\n- Tigreal only gains a stack from Implosion after the pull step.\n\n## Attack Wave\n\nCooldown: 7.0 / 6.4 / 5.8 / 5.2 / 4.6 / 4.0 seconds  \nMana Cost: 45\n\nTigreal smashes the ground with his hammer and sends a shockwave forward that erupts 3 times, each time dealing physical damage scaling with level and Physical Attack to enemies along the fan-shaped area and slowing them by 20% / 40% / 60% for 1.5 seconds.\n\nLevel scaling:\n- Base Damage: 270 / 300 / 330 / 360 / 390 / 420\n\nAdditional info:\n- Damage type: Physical Damage Skill\n- Also affects enemy Movement Speed via slow\n\nNotes:\n- The wave travels at the same speed as his movement during the cast.\n- It is possible for a unit to be hit by multiple waves if they stay in the area.\n\n## Sacred Hammer\n\nCooldown: 12.5 / 12.0 / 11.5 / 11.0 / 10.5 / 10.0 seconds  \nMana Cost: 70\n\nTigreal charges in a target direction, dealing physical damage scaling with level and Physical Attack to enemies along the way and pushing them to the end of the charge. Tigreal can cast this skill again within 4 seconds, dealing additional physical damage to enemies in front of him and knocking them airborne for 1 second.\n\nSecond cast damage scaling:\n- Airborne Damage: 280 / 300 / 320 / 340 / 360 / 380\n\nAdditional info:\n- Damage type: Physical Skill\n- Effects: Charge, Displacement, Knock-up (airborne)\n\nNotes:\n- Cooldown starts when the skill is first cast.\n- Tigreal can blink by using the battle spell Flicker during this skill.\n- The knockback will control enemies for the full duration if they do not use crowd-control immunity.\n- If an enemy is hit by the end of this ability, they will be briefly knocked back and stunned in position instead, and the total duration can be reduced by resilience while stunned.\n- Death removes access to the second phase if it has not been used.\n\n## Implosion\n\nCooldown: 45.0 / 41.0 / 37.0 seconds  \nMana Cost: 120 / 140 / 160\n\nTigreal unleashes the power of his hammer, stunning and pulling nearby enemies to him for 2 seconds while dealing physical damage scaling with level and Physical Attack. The first half of the channeling can be interrupted by control effects. The second part of the channeling cannot be interrupted except by Suppression.\n\nLevel scaling:\n- Base Damage: 270 / 350 / 430\n\nAdditional info:\n- Effects: Pull, Stun, Area-of-effect Physical Damage Skill\n\nNotes:\n- Tigreal can blink by using the battle spell Flicker during this skill.\n- The skill executes in 3 steps:\n  - Delay step: Tigreal applies a weak pull which does not count as knockback. It now applies stun, and the skill goes into cooldown if cancelled here.\n  - Pull step: Tigreal pulls enemies towards him. It does not stun yet, but it immobilizes. When the ultimate is cancelled in this step, it still goes into cooldown.\n  - Stun: Tigreal stuns his enemies for 2 seconds while dealing damage.\n- Implosion can pull through obstacles. If the enemy does not pass by the obstacle, they will be displaced next to Tigreal at the time of the stun.\n\n# Trivia\n\n- Tigreal's passive has been reworked twice up to this day.\n- His first passive granted him bonus armor and magic resistance when he performs a basic attack, which stacks up to 5 times.\n- His second passive granted him 15% more armor and magic defense from items.\n- There are numerous inconsistencies and ironies with Tigreal's quotes:\n- \"A real man never hides in a bush\", when all Tigreal players do hide in bushes.\n- \"A true knight never says die\", but he already said it.\n- He is based from Bedivere from Magic Rush.\n- His current English voice actor, Zach Lazar Hoffman, also provides the voice for Yu Zhong.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "fanny",
+        "alucard",
+        "granger",
+        "harith",
+        "silvanna",
+        "claude",
+        "clint",
+        "natalia",
+        "phoveus",
+        "alice",
+        "yu_zhong"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Leader",
+      "locationTies": [
+        {
+          "location": "Lumina City",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "home"
+        },
+        {
+          "location": "The Barren Lands",
+          "relationship": "battlefield"
+        },
+        {
+          "location": "Northern Vale",
+          "relationship": "exile"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "honor",
+      "sacrifice",
+      "redemption"
+    ],
+    "hook": "In the icy Northern Vale, Tigreal learns the hardest truth of knighthood: if fighting only means sacrifice, then even the brightest victory is meaningless.",
+    "teaser": "Branded for a massacre he didn’t cause, Tigreal abandons his empire, only to return as the Warrior of Dawn who values comrades’ lives above any victory.",
+    "openingLine": "Tigreal was born into the noble Wertz family.",
+    "dominantColor": "#1E4B7A",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 9,
+    "chapterTitles": [
+      "Noble Lineage",
+      "Training and Expectations",
+      "Joining the Imperial Army",
+      "Youngest of the Knights of Light",
+      "Disaster in the Barren Lands",
+      "Retreat and Sacrifice",
+      "Aftermath and Guilt",
+      "Disgrace and Exile",
+      "Return as Warrior of Dawn"
+    ],
+    "plotKeywords": [
+      "noble house",
+      "military prodigy",
+      "battle disaster",
+      "command mistake",
+      "sacrifice of comrades",
+      "political cover up",
+      "exile to Northern Vale",
+      "lesson about comradeship",
+      "return as leader of Knights of Light"
+    ],
+    "characterTraits": [
+      "loyal",
+      "dutiful",
+      "guilt-ridden",
+      "courageous",
+      "honorable",
+      "resolute"
+    ],
+    "locations": [
+      "Lumina City",
+      "Moniyan Empire",
+      "The Barren Lands",
+      "Northern Vale",
+      "Promenade of Heroes"
+    ],
+    "wordCount": 1763,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 11,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646884901,
+    "updatedAt": 1764646884901
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,174 @@
+{
+  "hero": "hylos",
+  "urlName": "hylos",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Hylos\n\n**Alias:** Grand Warden\n\n**Origin:** Misty Mountains, Agelta Drylands\n\n**Species:** Centaur\n\n**Gender:** Male\n\n**Weapon:** Unnamed Spear\n\nHe lives in the Misty Mountains and belongs to the Centaur race. He has the ability to convert natural magic into life force, and at the same time he can continuously punish any enemy who invades the Misty Mountains by consuming his own life force."
+    },
+    "story": {
+      "markdown": "> \"Centaur guarding the Misty Mountains\"\n\nAmidst the misty mountains within the northern reaches of the Land of Dawn, resides the ancient and mysterious race of Centaurs, half-man, half-horse creatures. The Centaurs guard a fountain that rests among the highest mountain peak. This fountain is said to give the gift of Immortality and Infinite wisdom. Dark forces have relentlessly tried to gain the power found within the waters of this fountain, but only to be time and time again be thwarted by the centaurs.\n\nHowever, as time went on, the centaurs became tired and attrition soon took hold. It was not until Hylos had arrived, where he threw his mastery of nature's wrath, he was able to crush and punish all the invaders of the fountain. He had become a legendary figure within the annals of the Land of Dawn."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Thickened Blood",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Hylos gains extra Max HP for every extra Max Mana he possesses, effectively converting Mana into HP. When out of Mana, Hylos can use his HP for skill casts."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Law and Order",
+        "cooldown": 8,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Hylos gains 50% Movement Speed and causes his next Basic Attack within 3 seconds to deal magic damage to the target, knocking them back and stunning them for 1 second. This damage counts as Skill Damage. The extra Movement Speed rapidly decays over the duration and ends after the next Basic Attack.\n\n- Base Damage: 300 / 350 / 400 / 450 / 500 / 550\n- Cooldown: 12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0 seconds\n- Mana Cost: 80 / 90 / 100 / 110 / 120 / 130\n\nNotes:\n- The enhanced basic attack range is increased to 2.5 (1.25 times increase)."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Ring of Punishment",
+        "cooldown": 1,
+        "cost": 30,
+        "role": "Damage",
+        "details": {
+          "markdown": "Hylos releases the Ring of Punishment, dealing magic damage to nearby enemies per second while slowing them and reducing their Attack Speed for 2.5 seconds, stacking up to 8 times. Each stack also increases the enemy's damage taken from the Ring of Punishment. The Ring of Punishment consumes Mana per second while it's active. Using the skill again cancels the Ring of Punishment.\n\n- Magic Damage per second: 100 / 140 / 180 / 220 / 260 / 300\n- Movement Speed Reduction: 4% / 4% / 5% / 5% / 6% / 6%\n- Damage Increase per stack: 5% / 8% / 11% / 14% / 17% / 20%\n- Mana Cost per second: 30 / 40 / 60 / 90 / 120 / 150\n- Cooldown: 1.0 second\n- Spell Vamp Ratio: 50%\n\nThe skill lasts until Hylos runs out of Mana or cancels it.\n\n(Additional scaling formulas describe total skill damage based on skill level, total magic power, and number of stacks.)"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Glorious Pathway",
+        "cooldown": 40,
+        "cost": 150,
+        "role": "Utility",
+        "details": {
+          "markdown": "Hylos creates a huge pathway in the target direction, reducing enemies' Movement Speed by 75% for 1 second. The pathway lasts 6 seconds. When on the pathway, Hylos gains Slow Immunity and recovers a percentage of his Max HP per second. Allied heroes moving along the pathway gain extra Movement Speed, while enemy heroes on the pathway will be slowed.\n\n- Cooldown: 40.0 / 36.0 / 32.0 seconds\n- Mana Cost: 150 / 300 / 450\n- HP Regen: 3% / 4% / 5% of Max HP per second\n- Movement Speed Bonus for allies: 60% / 65% / 70%\n- Slowing Effect on enemies: 25% / 45% / 45%"
+        }
+      },
+      {
+        "slot": "Skill 3",
+        "name": "",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": ""
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "He is a centaur, which is based on the creature of Greek mythology. Minotaur is the other one."
+      },
+      {
+        "markdown": "He is inspired by Malachi of Moonton's Magic Rush."
+      },
+      {
+        "markdown": "Hylos is the only hero who can use HP to consume a skill."
+      },
+      {
+        "markdown": "Alongside other heroes, Hylos is the only hero who can reduce his own HP through a skill."
+      },
+      {
+        "markdown": "Belerick's skill used to consume a portion of his HP, but this was removed when he got revamped for the second time."
+      },
+      {
+        "markdown": "Hylos' Ring of Punishment is the first among the only \"toggle\" skills in the game."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Hylos\n\n**Alias:** Grand Warden\n\n**Origin:** Misty Mountains, Agelta Drylands\n\n**Species:** Centaur\n\n**Gender:** Male\n\n**Weapon:** Unnamed Spear\n\nHe lives in the Misty Mountains and belongs to the Centaur race. He has the ability to convert natural magic into life force, and at the same time he can continuously punish any enemy who invades the Misty Mountains by consuming his own life force.\n\n# Story\n\n> \"Centaur guarding the Misty Mountains\"\n\nAmidst the misty mountains within the northern reaches of the Land of Dawn, resides the ancient and mysterious race of Centaurs, half-man, half-horse creatures. The Centaurs guard a fountain that rests among the highest mountain peak. This fountain is said to give the gift of Immortality and Infinite wisdom. Dark forces have relentlessly tried to gain the power found within the waters of this fountain, but only to be time and time again be thwarted by the centaurs.\n\nHowever, as time went on, the centaurs became tired and attrition soon took hold. It was not until Hylos had arrived, where he threw his mastery of nature's wrath, he was able to crush and punish all the invaders of the fountain. He had become a legendary figure within the annals of the Land of Dawn.\n\n# Abilities\n\n## Thickened Blood\n\nHylos gains extra Max HP for every extra Max Mana he possesses, effectively converting Mana into HP. When out of Mana, Hylos can use his HP for skill casts.\n\n## Law and Order\n\nHylos gains 50% Movement Speed and causes his next Basic Attack within 3 seconds to deal magic damage to the target, knocking them back and stunning them for 1 second. This damage counts as Skill Damage. The extra Movement Speed rapidly decays over the duration and ends after the next Basic Attack.\n\n- Base Damage: 300 / 350 / 400 / 450 / 500 / 550\n- Cooldown: 12.0 / 11.2 / 10.4 / 9.6 / 8.8 / 8.0 seconds\n- Mana Cost: 80 / 90 / 100 / 110 / 120 / 130\n\nNotes:\n- The enhanced basic attack range is increased to 2.5 (1.25 times increase).\n\n## Ring of Punishment\n\nHylos releases the Ring of Punishment, dealing magic damage to nearby enemies per second while slowing them and reducing their Attack Speed for 2.5 seconds, stacking up to 8 times. Each stack also increases the enemy's damage taken from the Ring of Punishment. The Ring of Punishment consumes Mana per second while it's active. Using the skill again cancels the Ring of Punishment.\n\n- Magic Damage per second: 100 / 140 / 180 / 220 / 260 / 300\n- Movement Speed Reduction: 4% / 4% / 5% / 5% / 6% / 6%\n- Damage Increase per stack: 5% / 8% / 11% / 14% / 17% / 20%\n- Mana Cost per second: 30 / 40 / 60 / 90 / 120 / 150\n- Cooldown: 1.0 second\n- Spell Vamp Ratio: 50%\n\nThe skill lasts until Hylos runs out of Mana or cancels it.\n\n(Additional scaling formulas describe total skill damage based on skill level, total magic power, and number of stacks.)\n\n## Glorious Pathway\n\nHylos creates a huge pathway in the target direction, reducing enemies' Movement Speed by 75% for 1 second. The pathway lasts 6 seconds. When on the pathway, Hylos gains Slow Immunity and recovers a percentage of his Max HP per second. Allied heroes moving along the pathway gain extra Movement Speed, while enemy heroes on the pathway will be slowed.\n\n- Cooldown: 40.0 / 36.0 / 32.0 seconds\n- Mana Cost: 150 / 300 / 450\n- HP Regen: 3% / 4% / 5% of Max HP per second\n- Movement Speed Bonus for allies: 60% / 65% / 70%\n- Slowing Effect on enemies: 25% / 45% / 45%\n\n## \n\n\n\n# Trivia\n\n- He is a centaur, which is based on the creature of Greek mythology. Minotaur is the other one.\n- He is inspired by Malachi of Moonton's Magic Rush.\n- Hylos is the only hero who can use HP to consume a skill.\n- Alongside other heroes, Hylos is the only hero who can reduce his own HP through a skill.\n- Belerick's skill used to consume a portion of his HP, but this was removed when he got revamped for the second time.\n- Hylos' Ring of Punishment is the first among the only \"toggle\" skills in the game.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "belerick",
+        "lunox",
+        "minotaur",
+        "masha",
+        "x_borg"
+      ],
+      "faction": null,
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Misty Mountains",
+          "relationship": "home"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "mentioned"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "mysterious"
+    ],
+    "themes": [
+      "power",
+      "duty"
+    ],
+    "hook": "It was not until Hylos had arrived, where he threw his mastery of nature's wrath, he was able to crush and punish all the invaders of the fountain.",
+    "teaser": "High in the Misty Mountains, an immortal fountain lures dark forces. When the centaurs begin to fall, Hylos rises as nature’s wrathful warden.",
+    "openingLine": "Amidst the misty mountains within the northern reaches of the Land of Dawn, resides the ancient and mysterious race of Centaurs, half-man, half-horse creatures.",
+    "dominantColor": "#2F6B4F",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "immortal fountain",
+      "ancient centaurs",
+      "dark forces",
+      "mountain guardians",
+      "nature’s wrath",
+      "legendary warden"
+    ],
+    "characterTraits": [
+      "stoic",
+      "protective",
+      "unyielding",
+      "sacrificial"
+    ],
+    "locations": [
+      "Misty Mountains",
+      "Agelta Drylands",
+      "Land of Dawn"
+    ],
+    "wordCount": 709,
+    "readingTimeMinutes": 5,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646952243,
+    "updatedAt": 1764646952243
+  },
+  "lastUpdated": null
+}

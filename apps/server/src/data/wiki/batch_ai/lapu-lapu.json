@@ -1,0 +1,214 @@
+{
+  "hero": "lapu-lapu",
+  "urlName": "lapu-lapu",
+  "sections": {
+    "profile": {
+      "markdown": "- **Full Name:** Lapu-Lapu\n- **Origin:** Perlas, Vonetis Islands\n- **Species:** Human\n- **Gender:** Male\n- **Occupation:** Chieftain\n- **Affiliation:**\n  - Dorik people\n  - Moniyan Empire (hostile)\n- **Nationality:** Dorik/Dorican\n- **Fighting Style:** Heavy Sword Stance\n- **Weapons:** Twinblades of Valor\n- **Battles Fought:** Invasion of Perlas\n- **Relationships:**\n  - Unnamed wife\n  - Unnamed children\n\nHe is the first hero that is based on a historical figure (see Lapulapu).\n\n- **EN Voice Actor:** Direk Brian Ligsay\n- **JA Voice Actor:** Saitou Yusuke (斉藤佑介)"
+    },
+    "story": {
+      "markdown": "> \"Hero who defends the Vonetis Islands from outsiders\"\n\nLapu-Lapu lives with other Doricans on the Vonetis Islands, living a life outside of worldly strife. But the arrival of a warlord who had defected from the Moniyan Empire broke this silence brought about endless killing. Lapu-Lapu gathered all the tribes together to fight back against the warlord's invasion and finally won, turning the Vonetis Islands into a paradise of freedom again."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Vonetis Protector",
+          "content": {
+            "markdown": "From up on the peak, Lapu-Lapu looked down at the flames of the Moniyan camp at the foot of the mountain. He never thought he would once again step on to a battlefield, the kind of place he hated the most. But he knew that in order to protect that which was most important, he could no longer run away.\n\nAs early as the middle of the Era of Strife, the Dorik people came to the Vonetis Islands to the southeast of the mainland where they thrived.\n\nJust as turbulent waves are the normal state of the sea, this lonely archipelago was by no means peaceful. The protection of the sea and the isolated lifestyle made the Dorik forget the vows made by the various tribes hundreds of years prior to join forces and resist the powerful Moniyan navy and there was constant conflict between tribes large and small.\n\nLapu-Lapu was the most famous warrior of the Vonetis Islands. He was employed by various tribes over a long period of time, passing between the islands. The endless battles brought him weariness, dignity, honor, and money... On the battlefield, human lives were worthless. So, what was the value in it all? Having fought countless wars, he returned to his hometown with his scarred body and mind.\n\nLapu-Lapu lived a quiet life in his hometown like an ordinary hunter, working at sunrise and resting at sunset. But the peaceful life he was looking forward to did not last. Some warlords who had defected from the Moniyan Empire set their sights on this free land. Well-trained troops landed on the Vonetis Islands like tidal waves. The scattered Dorik peoples were powerless to resist, and vast swathes of land fell into enemy hands.\n\nVarious tribes sent invitations to Lapu-Lapu, hoping that he could join their camp. He was no longer willing to work for the interests of the tribal leaders, but there was no way he could become a despicable capitulator, so he rejected the persuasions of the leaders and the Moniyans, and just wanted to remain a simple hunter aloof from any worldly strife.\n\nLapu-Lapu and the Moniyans made a non-aggression agreement. However, in the eyes of the greedy Moniyans, there was no such thing as neutrality and everything in the Vonetis Islands was theirs for the taking. Soon, the Moniyans broke the agreement and ransacked Lapu-Lapu's tribe while he was out.\n\nThe humiliating loss brought only tears from his wife and children and a devastated home. Lapu-Lapu was incensed. He wanted no more than to protect everything around him. If the Moniyans were going to repay his compromises with perfidy, he would make them see his inviolable dignity in the form of their own blood.\n\nLapu-Lapu assembled the young people of the tribe together into a unit and began his campaign of resistance. He was more familiar with the hometown under his feet than anyone, and knew how to attack, fight and retreat in the mountains and forests. The unit kept attacking Moniyan bases and supply lines, coming and going without leaving a trace, leaving the Moniyans with constant confusion and panic.\n\nWhen a Moniyan warlord found out that this was all Lapu-Lapu's doing, the despicable invaders began to deliberately loot the villages with which Lapu-Lapu had allied. They strengthened their defenses and hid provisions to force Lapu-Lapu to appear. The villages that once welcomed Lapu-Lapu cordially had become totally unrecognizable under the iron boot of the Moniyans.\n\nThe heartbroken Lapu-Lapu understood that guerrilla warfare would not be enough to win the final victory. The Dorik were destined to face the mighty Moniyan Empire head on; without doubt an impossible task for him and his unit.\n\nTherefore, he had to unite all the forces that could be united.\n\nLapu-Lapu recruited all the Dorik who had a will to resist, and trained them into reliable warriors, regardless of whether they were men or women. This was not a group of thugs thirsting for power, but a rebel army born to protect and fight for themselves. Everyone possessed the courage and conscience to dedicate themselves to their land. They gathered around Lapu-Lapu and fought alongside him.\n\nAfter many arduous battles, the decisive showdown finally arrived. Lapu-Lapu lured the enemy to the foot of a mountain where countless Dorik warriors were hidden, and withdrew his unit into the mountain. The enemy knew that Lapu-Lapu was good at jungle warfare, and the other side of the mountain was a cliff, so they decided to guard the only way out of the mountain at the bottom. The Moniyans believed that the “trapped and desperate” rebels would either have to come out of the mountain and fight the army head-on, or simply starve to death inside.\n\nBut in the middle of the night while the Moniyans were sleeping sweetly waiting for victory, Lapu-Lapu commanded his soldiers to climb down the cliff using ropes made of mountain vines, and launched a surprise attack on the Moniyans. All the built-up humiliation and hatred took on the form of the swift swords of the Dorik warriors, which poured down on the unsuspecting Moniyans. Before the pitiful Moniyan warlord could react, he was beheaded by Lapu-Lapu.\n\nAfter this battle, the Moniyan invaders, who had lost their leader, were unable to recover, and the surging resistance forces under the leadership of Lapu-Lapu drove them back to the mainland. The Vonetis Islands had once again become a bright and free paradise."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Homeland Defender",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "Each time Lapu-Lapu deals damage, he gains Bravery Blessing points (10 from heroes, reduced from non-hero units). When his Bravery Blessing is full, his next Basic Attack or skill will be enhanced, granting Lapu-Lapu a shield that can absorb scaling damage for 2.5 seconds.\n\nThe enhanced Basic Attack will cause him to dash toward the target, dealing scaling damage. This Basic Attack cannot be a critical hit.\n\nThe enhanced skill will slow the target by 60% for 1 second.\n\n- Shield value by level: 250 / 315 / 380 / 445 / 510 / 575 / 640 / 705 / 770 / 835 / 900 / 965 / 1030 / 1095 / 1160"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Justice Blades",
+        "cooldown": 8,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "> \"Enemies have their sharp spears, but we have strong and brave souls.\"\n\nLapu-Lapu releases two boomerangs in the target direction. Each boomerang deals physical damage to enemies hit on its way out and back.\n\nEnemies hit by both boomerangs take 50% damage from the second hit.\n\n- Base Damage by level: 175 / 200 / 225 / 250 / 275 / 300\n- Damage type: Physical Skill"
+        }
+      },
+      {
+        "slot": "Skill 1 (Heavy Sword Stance)",
+        "name": "Land Shaker",
+        "cooldown": 10,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "> \"Enemies have their sharp spears, but we have strong and brave souls.\"\n\nLapu-Lapu channels for 0.7 seconds, slowing enemies in the target direction by 60%. He then slams his heavy sword to the ground, dealing physical damage to enemies hit and stunning them for 1 second.\n\n- Base Damage by level: 250 / 280 / 310 / 340 / 370 / 400\n- Effects: Slow, Stun\n- Damage type: Physical Skill"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Jungle Warrior",
+        "cooldown": 12,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Lapu-Lapu dashes in the target direction, dealing physical damage to enemies along the way.\n\n- Base Damage by level: 100 / 120 / 140 / 160 / 180 / 200\n- Damage type: Physical Skill\n- Additional type: Blink"
+        }
+      },
+      {
+        "slot": "Skill 2 (Heavy Sword Stance)",
+        "name": "Storm Sword",
+        "cooldown": 4,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "Lapu-Lapu whirls his heavy sword, dealing physical damage to nearby enemies. For each enemy hero hit, he gains 10% damage reduction for 4 seconds.\n\n- Base Damage by level: 250 / 280 / 310 / 340 / 370 / 400\n- Damage Reduction: 10%, 20%, 30%, 40%, 50%\n- Damage type: Physical Skill"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Bravest Fighter",
+        "cooldown": 20,
+        "cost": null,
+        "role": "Morph",
+        "details": {
+          "markdown": "Lapu-Lapu leaps to the target location while combining his twin blades into one, dealing physical damage upon landing and slowing enemies by 60% for 1 second. Lapu-Lapu gains increased Bravery Blessing generation from this skill and skills in transformed state.\n\nFor the next 10 seconds, Lapu-Lapu enters Great Sword Stance and gains enhanced skills, extra Physical and Magic Defense, and his Basic Attack damage is increased to 120%.\n\n- Base Damage by level: 300 / 400 / 500\n- Defense Increase by level: 30 / 45 / 60\n- Damage type: Physical Skill"
+        }
+      },
+      {
+        "slot": "Ultimate (Heavy Sword Stance)",
+        "name": "Raging Slash",
+        "cooldown": 40,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lapu-Lapu swings his heavy sword 3 times. The first two slashes deal physical damage, and the third deals higher physical damage to enemies in a large area.\n\nLapu-Lapu gains Control Immunity during the process and can change his attack direction and move a short distance on each attack.\n\n- First Two Slashes Damage by level: 280 / 360 / 440\n- Third Slash Damage by level: 420 / 540 / 660\n- Effect: Control Immunity\n\n*The first two slashes are charges, and the third and last slash is a blink.*"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "He is the dramatized version of the Filipino hero Lapulapu. In the Philippines, he is best known as the first Filipino to repel foreign invasions, and his background is based on historical events but edited to fit in the game's lore. Because of limited historical accounts attributed to him, his appearance and his involvement in the Battle of Mactan, the battle that killed Ferdinand Magellan, is subjected to debate."
+      },
+      {
+        "markdown": "He is also the first Filipino-based hero to appear in Mobile Legends: Bang Bang."
+      },
+      {
+        "markdown": "His dual-wielding style is inspired by Filipino martial arts Kali or Arnis, where warriors use two blades for fast attacks."
+      },
+      {
+        "markdown": "His Heavy Sword mode is similar to a traditional kampilan sword, a weapon used by Filipino warriors."
+      },
+      {
+        "markdown": "He is the 2nd hero to be based from a historical figure, along with other heroes."
+      },
+      {
+        "markdown": "The English voice of Lapu-Lapu includes a Tagalog line, \"Umalis kayo sa aming lupain\", implying that he is bilingual and that the language of Dorican people being Tagalog is canon."
+      },
+      {
+        "markdown": "The Vulcan skin is named after the god of the same name who is associated with fire from Roman mythology."
+      },
+      {
+        "markdown": "The Imperial Champion skin is based on Ancient Roman military personal equipment."
+      },
+      {
+        "markdown": "The Adlaw's Chosen skin is likely inspired by the word adlaw in Cebuano and other Visayan languages, which means sun. The sun symbolizes power, heroism, and strength, all of which represent Lapu-Lapu, the first Filipino hero who resisted Spanish colonization. The skin resembles ancient Visayan warrior aesthetics, connecting it to pre-colonial Filipino culture."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- **Full Name:** Lapu-Lapu\n- **Origin:** Perlas, Vonetis Islands\n- **Species:** Human\n- **Gender:** Male\n- **Occupation:** Chieftain\n- **Affiliation:**\n  - Dorik people\n  - Moniyan Empire (hostile)\n- **Nationality:** Dorik/Dorican\n- **Fighting Style:** Heavy Sword Stance\n- **Weapons:** Twinblades of Valor\n- **Battles Fought:** Invasion of Perlas\n- **Relationships:**\n  - Unnamed wife\n  - Unnamed children\n\nHe is the first hero that is based on a historical figure (see Lapulapu).\n\n- **EN Voice Actor:** Direk Brian Ligsay\n- **JA Voice Actor:** Saitou Yusuke (斉藤佑介)\n\n# Story\n\n> \"Hero who defends the Vonetis Islands from outsiders\"\n\nLapu-Lapu lives with other Doricans on the Vonetis Islands, living a life outside of worldly strife. But the arrival of a warlord who had defected from the Moniyan Empire broke this silence brought about endless killing. Lapu-Lapu gathered all the tribes together to fight back against the warlord's invasion and finally won, turning the Vonetis Islands into a paradise of freedom again.\n\n# Side Story\n\n## Vonetis Protector\n\nFrom up on the peak, Lapu-Lapu looked down at the flames of the Moniyan camp at the foot of the mountain. He never thought he would once again step on to a battlefield, the kind of place he hated the most. But he knew that in order to protect that which was most important, he could no longer run away.\n\nAs early as the middle of the Era of Strife, the Dorik people came to the Vonetis Islands to the southeast of the mainland where they thrived.\n\nJust as turbulent waves are the normal state of the sea, this lonely archipelago was by no means peaceful. The protection of the sea and the isolated lifestyle made the Dorik forget the vows made by the various tribes hundreds of years prior to join forces and resist the powerful Moniyan navy and there was constant conflict between tribes large and small.\n\nLapu-Lapu was the most famous warrior of the Vonetis Islands. He was employed by various tribes over a long period of time, passing between the islands. The endless battles brought him weariness, dignity, honor, and money... On the battlefield, human lives were worthless. So, what was the value in it all? Having fought countless wars, he returned to his hometown with his scarred body and mind.\n\nLapu-Lapu lived a quiet life in his hometown like an ordinary hunter, working at sunrise and resting at sunset. But the peaceful life he was looking forward to did not last. Some warlords who had defected from the Moniyan Empire set their sights on this free land. Well-trained troops landed on the Vonetis Islands like tidal waves. The scattered Dorik peoples were powerless to resist, and vast swathes of land fell into enemy hands.\n\nVarious tribes sent invitations to Lapu-Lapu, hoping that he could join their camp. He was no longer willing to work for the interests of the tribal leaders, but there was no way he could become a despicable capitulator, so he rejected the persuasions of the leaders and the Moniyans, and just wanted to remain a simple hunter aloof from any worldly strife.\n\nLapu-Lapu and the Moniyans made a non-aggression agreement. However, in the eyes of the greedy Moniyans, there was no such thing as neutrality and everything in the Vonetis Islands was theirs for the taking. Soon, the Moniyans broke the agreement and ransacked Lapu-Lapu's tribe while he was out.\n\nThe humiliating loss brought only tears from his wife and children and a devastated home. Lapu-Lapu was incensed. He wanted no more than to protect everything around him. If the Moniyans were going to repay his compromises with perfidy, he would make them see his inviolable dignity in the form of their own blood.\n\nLapu-Lapu assembled the young people of the tribe together into a unit and began his campaign of resistance. He was more familiar with the hometown under his feet than anyone, and knew how to attack, fight and retreat in the mountains and forests. The unit kept attacking Moniyan bases and supply lines, coming and going without leaving a trace, leaving the Moniyans with constant confusion and panic.\n\nWhen a Moniyan warlord found out that this was all Lapu-Lapu's doing, the despicable invaders began to deliberately loot the villages with which Lapu-Lapu had allied. They strengthened their defenses and hid provisions to force Lapu-Lapu to appear. The villages that once welcomed Lapu-Lapu cordially had become totally unrecognizable under the iron boot of the Moniyans.\n\nThe heartbroken Lapu-Lapu understood that guerrilla warfare would not be enough to win the final victory. The Dorik were destined to face the mighty Moniyan Empire head on; without doubt an impossible task for him and his unit.\n\nTherefore, he had to unite all the forces that could be united.\n\nLapu-Lapu recruited all the Dorik who had a will to resist, and trained them into reliable warriors, regardless of whether they were men or women. This was not a group of thugs thirsting for power, but a rebel army born to protect and fight for themselves. Everyone possessed the courage and conscience to dedicate themselves to their land. They gathered around Lapu-Lapu and fought alongside him.\n\nAfter many arduous battles, the decisive showdown finally arrived. Lapu-Lapu lured the enemy to the foot of a mountain where countless Dorik warriors were hidden, and withdrew his unit into the mountain. The enemy knew that Lapu-Lapu was good at jungle warfare, and the other side of the mountain was a cliff, so they decided to guard the only way out of the mountain at the bottom. The Moniyans believed that the “trapped and desperate” rebels would either have to come out of the mountain and fight the army head-on, or simply starve to death inside.\n\nBut in the middle of the night while the Moniyans were sleeping sweetly waiting for victory, Lapu-Lapu commanded his soldiers to climb down the cliff using ropes made of mountain vines, and launched a surprise attack on the Moniyans. All the built-up humiliation and hatred took on the form of the swift swords of the Dorik warriors, which poured down on the unsuspecting Moniyans. Before the pitiful Moniyan warlord could react, he was beheaded by Lapu-Lapu.\n\nAfter this battle, the Moniyan invaders, who had lost their leader, were unable to recover, and the surging resistance forces under the leadership of Lapu-Lapu drove them back to the mainland. The Vonetis Islands had once again become a bright and free paradise.\n\n# Abilities\n\n## Homeland Defender\n\nEach time Lapu-Lapu deals damage, he gains Bravery Blessing points (10 from heroes, reduced from non-hero units). When his Bravery Blessing is full, his next Basic Attack or skill will be enhanced, granting Lapu-Lapu a shield that can absorb scaling damage for 2.5 seconds.\n\nThe enhanced Basic Attack will cause him to dash toward the target, dealing scaling damage. This Basic Attack cannot be a critical hit.\n\nThe enhanced skill will slow the target by 60% for 1 second.\n\n- Shield value by level: 250 / 315 / 380 / 445 / 510 / 575 / 640 / 705 / 770 / 835 / 900 / 965 / 1030 / 1095 / 1160\n\n## Justice Blades\n\n> \"Enemies have their sharp spears, but we have strong and brave souls.\"\n\nLapu-Lapu releases two boomerangs in the target direction. Each boomerang deals physical damage to enemies hit on its way out and back.\n\nEnemies hit by both boomerangs take 50% damage from the second hit.\n\n- Base Damage by level: 175 / 200 / 225 / 250 / 275 / 300\n- Damage type: Physical Skill\n\n## Land Shaker\n\n> \"Enemies have their sharp spears, but we have strong and brave souls.\"\n\nLapu-Lapu channels for 0.7 seconds, slowing enemies in the target direction by 60%. He then slams his heavy sword to the ground, dealing physical damage to enemies hit and stunning them for 1 second.\n\n- Base Damage by level: 250 / 280 / 310 / 340 / 370 / 400\n- Effects: Slow, Stun\n- Damage type: Physical Skill\n\n## Jungle Warrior\n\nLapu-Lapu dashes in the target direction, dealing physical damage to enemies along the way.\n\n- Base Damage by level: 100 / 120 / 140 / 160 / 180 / 200\n- Damage type: Physical Skill\n- Additional type: Blink\n\n## Storm Sword\n\nLapu-Lapu whirls his heavy sword, dealing physical damage to nearby enemies. For each enemy hero hit, he gains 10% damage reduction for 4 seconds.\n\n- Base Damage by level: 250 / 280 / 310 / 340 / 370 / 400\n- Damage Reduction: 10%, 20%, 30%, 40%, 50%\n- Damage type: Physical Skill\n\n## Bravest Fighter\n\nLapu-Lapu leaps to the target location while combining his twin blades into one, dealing physical damage upon landing and slowing enemies by 60% for 1 second. Lapu-Lapu gains increased Bravery Blessing generation from this skill and skills in transformed state.\n\nFor the next 10 seconds, Lapu-Lapu enters Great Sword Stance and gains enhanced skills, extra Physical and Magic Defense, and his Basic Attack damage is increased to 120%.\n\n- Base Damage by level: 300 / 400 / 500\n- Defense Increase by level: 30 / 45 / 60\n- Damage type: Physical Skill\n\n## Raging Slash\n\nLapu-Lapu swings his heavy sword 3 times. The first two slashes deal physical damage, and the third deals higher physical damage to enemies in a large area.\n\nLapu-Lapu gains Control Immunity during the process and can change his attack direction and move a short distance on each attack.\n\n- First Two Slashes Damage by level: 280 / 360 / 440\n- Third Slash Damage by level: 420 / 540 / 660\n- Effect: Control Immunity\n\n*The first two slashes are charges, and the third and last slash is a blink.*\n\n# Trivia\n\n- He is the dramatized version of the Filipino hero Lapulapu. In the Philippines, he is best known as the first Filipino to repel foreign invasions, and his background is based on historical events but edited to fit in the game's lore. Because of limited historical accounts attributed to him, his appearance and his involvement in the Battle of Mactan, the battle that killed Ferdinand Magellan, is subjected to debate.\n- He is also the first Filipino-based hero to appear in Mobile Legends: Bang Bang.\n- His dual-wielding style is inspired by Filipino martial arts Kali or Arnis, where warriors use two blades for fast attacks.\n- His Heavy Sword mode is similar to a traditional kampilan sword, a weapon used by Filipino warriors.\n- He is the 2nd hero to be based from a historical figure, along with other heroes.\n- The English voice of Lapu-Lapu includes a Tagalog line, \"Umalis kayo sa aming lupain\", implying that he is bilingual and that the language of Dorican people being Tagalog is canon.\n- The Vulcan skin is named after the god of the same name who is associated with fire from Roman mythology.\n- The Imperial Champion skin is based on Ancient Roman military personal equipment.\n- The Adlaw's Chosen skin is likely inspired by the word adlaw in Cebuano and other Visayan languages, which means sun. The sun symbolizes power, heroism, and strength, all of which represent Lapu-Lapu, the first Filipino hero who resisted Spanish colonization. The skin resembles ancient Visayan warrior aesthetics, connecting it to pre-colonial Filipino culture.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "yi_sun_shin",
+        "zetian"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Enemy chieftain",
+      "locationTies": [
+        {
+          "location": "Perlas",
+          "relationship": "home"
+        },
+        {
+          "location": "Vonetis Islands",
+          "relationship": "protects"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "enemy"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic"
+    ],
+    "themes": [
+      "freedom",
+      "resistance",
+      "honor"
+    ],
+    "hook": "From weary mercenary to rebel chieftain, Lapu-Lapu trades neutrality for vengeance when Moniyan treachery destroys his home and threatens his free islands.",
+    "teaser": "When Moniyan invaders shatter his fragile peace, Lapu-Lapu must unite feuding island tribes into a rebel force to defend their freedom or die trying.",
+    "openingLine": "From up on the peak, Lapu-Lapu looked down at the flames of the Moniyan camp at the foot of the mountain.",
+    "dominantColor": "#F2A029",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Vonetis Protector"
+    ],
+    "plotKeywords": [
+      "island invasion",
+      "guerrilla warfare",
+      "tribal unity",
+      "broken treaty",
+      "ambush from cliffs",
+      "resistance campaign"
+    ],
+    "characterTraits": [
+      "brave",
+      "protective",
+      "honorable",
+      "strategic",
+      "resilient",
+      "weary"
+    ],
+    "locations": [
+      "Perlas",
+      "Vonetis Islands",
+      "Moniyan Empire",
+      "mainland",
+      "Era of Strife"
+    ],
+    "wordCount": 1840,
+    "readingTimeMinutes": 13,
+    "connectionsCount": 2,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647177620,
+    "updatedAt": 1764647177620
+  },
+  "lastUpdated": null
+}

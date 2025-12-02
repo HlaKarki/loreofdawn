@@ -1,0 +1,215 @@
+{
+  "hero": "belerick",
+  "urlName": "belerick",
+  "sections": {
+    "profile": {
+      "markdown": "- Alias: Guard of Nature; Nature's Child (previously)\n- Species: Anthropomorphic plant\n- Gender: Male\n- Birthplace: The Oasis, Agelta Drylands\n- Origin: Moonlit Forest (current incarnation)\n- Affiliation: Moon elves; The Abyss (hostile)\n- Weapons: Thorns, Vines\n- Battles Fought: Invasion of Moonlit Forest\n- Voice Actor (EN): Con Eyre (2018–2019)\n- Voice Actor (ID): Bonar\n- Voice Actor (JP): Date Masanori (伊達 将範)\n\nPlayers had a chance to redeem the hero for free for a limited time."
+    },
+    "story": {
+      "markdown": "\"Kind and fraternal elemental creatures\"\n\nThe descendants of the ancient tribe where once guided by the voice of the ancient tribe to the western desert, where they overdrew on their life force and turned into an oasis, bringing hope to the desperate Minoan survivors and later using their lives to save the tree of life of the Elves, achieving birth."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Lore",
+          "content": {
+            "markdown": "Many a race has risen and fallen throughout the expansive history of the Land of Dawn. Belerick is one of the few who have borne witness to all this throughout the mists of time. When the world was first formed, the mysterious Ancient Ones aided the Forefathers as they created all things in this universe. Together they constructed the grand and massive Celestial Palace and the myriad elemental creatures, who would live as successors to their bloodlines.\n\nWhen Belerick was but a young sapling, he was chosen by the Ancient Ones and given the essence of life and Mother Nature; this bestowed upon him the powers of intelligent though, deep wisdom, and the wondrous ability of reincarnation. Under the Ancient Ones' protection he lived together with the elemental creatures within the Lantis Mountain ranges, a place flourishing with life and vitality.\n\nHowever, this blissful existence would not last long. The Forefathers departed and the Endless War descended upon the lands, plunging the Land of Dawn into the throes of fierce battle and slaughter: the Ancient Ones retreated to the Celestial Palace and the elemental creatures thus lost the protection they'd once been granted. The creatures were left without a safe home of their own, and slain en masse as the fires of war blazed ever on.\n\nThey were forced to wander the lands for an entire age. Belerick watched as the Land of Dawn was ravaged by the raging war, no corner left untouched by the fighting. As he did so, Belerick grew from a sapling into a mighty tree. The warfare had stripped him of his former life, and hardened his power of will; despite having lost many of his companions in the process, he nonetheless refused to give up the hope he had in life. He sought to use his power to the best of his ability in helping out those weaker than him. In the later stages of the Era of Strife, the Ancient Ones who had returned to their Celestial Palace long ago could no longer stand the pitiable state of the world below, and went against the orders of the Forefathers as they rashly used the Twilight Orbs' power to try and end the war."
+          }
+        },
+        {
+          "title": "Belerick Sacrificed Himself! Who's Responsible?",
+          "content": {
+            "markdown": ""
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Deadly Thorns",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "For every 50 damage inflicted upon Belerick, he has a 25% chance to shoot the nearest enemy unit, dealing magic damage based on level and his stats plus 1.8% of his Max HP (scales with level). This attack can be triggered once every 0.4 seconds.\n\nHis HP obtained from Equipment and Emblems is increased by 30%.\n\n- Damage type: Magic damage\n- Additional scaling: 1.8% of Max HP, scaling with level\n- Trigger condition: Every 50 damage taken, 25% chance; internal cooldown 0.4 seconds\n\nNotes:\n\n- This skill gets spell vamp without being reduced, unlike magic lifesteal."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Ancient Seed",
+        "cooldown": 8,
+        "cost": 60,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n\nMana Cost: 60 / 66 / 72 / 78 / 84 / 90\n\nBelerick releases vines in a designated direction, dealing magic damage to enemies on the path and slowing them by 25%. Meanwhile, he leaves Ancient Seed on the path, and after 1 second, these seeds will deal magic damage to enemies on the path and taunt them for 1.2 seconds. To minions, 80% extra damage will be dealt.\n\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Extra Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Slow: 25%\n- Taunt Duration: 1.2 seconds\n- Damage Bonus to Minions: 80%\n\nNotes:\n\n- If Belerick dies, taunted enemies still move towards Belerick, but do not attack.\n- When Belerick uses this skill, the taunted enemies keep attacking, but no damage is dealt, fully triggering Deadly Thorns."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Nature's Strike",
+        "cooldown": 12,
+        "cost": 90,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Cooldown: 12.0 / 11.4 / 10.8 / 10.2 / 9.6 / 9.0 seconds\n\nMana Cost: 90 / 102 / 114 / 126 / 138 / 150\n\nBelerick increases his Movement Speed by 80% and strengthens his next Basic Attack. The Movement Speed gain will decay in 2 seconds. This enhanced Basic Attack deals magic damage and slows the target by 60% for 1.4 seconds. Belerick also regenerates HP equal to 240 plus 10% of his lost HP.\n\nEach time Deadly Thorns is triggered, the cooldown of this skill is reduced by 1 second.\n\n- Base Damage: 300 / 330 / 360 / 390 / 420 / 450\n- HP Regen: 240 / 288 / 336 / 384 / 432 / 480\n- Movement Speed Bonus: 80%, decays over 2 seconds\n- Slow: 60% for 1.4 seconds\n- Additional healing: 10% of lost HP\n- Type: Magic Basic Attack"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Wrath of Dryad",
+        "cooldown": 50,
+        "cost": 150,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 50.0 / 46.0 / 42.0 seconds\n\nMana Cost: 150\n\nBelerick conjures spreading vines around him, dealing magic damage to enemies in the area 4 times and taunting them for 1.5 seconds.\n\n- Base Damage (per hit): 100 / 150 / 200\n- Number of Hits: 4\n- Taunt Duration: 1.5 seconds\n- Type: Magic Skill\n\nNotes:\n\n- If Belerick dies, taunted enemies still move towards Belerick, but do not attack.\n- When Belerick uses this skill, the taunted enemies keep attacking, but no damage is dealt, fully triggering Deadly Thorns."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Belerick doesn’t have a direct real-world meaning, but it might be inspired by botanical and mythical themes. It sounds similar to \"Beleriand,\" a lush, ancient land in The Lord of the Rings, fitting his forest guardian theme. His name could be derived from \"bark\" or \"bel\" (a common prefix in fantasy names), reinforcing his identity as a living tree warrior."
+      },
+      {
+        "markdown": "His design and abilities resemble Treants (tree-like beings in fantasy worlds)."
+      },
+      {
+        "markdown": "Old model Belerick is a young version of the current one."
+      },
+      {
+        "markdown": "His old model can be still seen in the hero intro."
+      },
+      {
+        "markdown": "His skin \"Torched Guardian\" is the evil version of himself."
+      },
+      {
+        "markdown": "Belerick is regarded as one of the best heroes for damage reflection. His passive, Deadly Thorns, allows him to return damage to attackers, making him one of the best anti-marksman tanks in MLBB."
+      },
+      {
+        "markdown": "Many MLBB players compare Belerick to Groot, as both are giant tree creatures with a protective nature."
+      },
+      {
+        "markdown": "After being indirectly killed by Thamuz, Belerick's skillset was revamped to better counter continuous damaging opponents, one such, being Thamuz."
+      },
+      {
+        "markdown": "Whether or not he grew specifically to adapt against him, there have been multiple real life instances of plants adapting to specific threats in nature."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Alias: Guard of Nature; Nature's Child (previously)\n- Species: Anthropomorphic plant\n- Gender: Male\n- Birthplace: The Oasis, Agelta Drylands\n- Origin: Moonlit Forest (current incarnation)\n- Affiliation: Moon elves; The Abyss (hostile)\n- Weapons: Thorns, Vines\n- Battles Fought: Invasion of Moonlit Forest\n- Voice Actor (EN): Con Eyre (2018–2019)\n- Voice Actor (ID): Bonar\n- Voice Actor (JP): Date Masanori (伊達 将範)\n\nPlayers had a chance to redeem the hero for free for a limited time.\n\n# Story\n\n\"Kind and fraternal elemental creatures\"\n\nThe descendants of the ancient tribe where once guided by the voice of the ancient tribe to the western desert, where they overdrew on their life force and turned into an oasis, bringing hope to the desperate Minoan survivors and later using their lives to save the tree of life of the Elves, achieving birth.\n\n# Side Story\n\n## Lore\n\nMany a race has risen and fallen throughout the expansive history of the Land of Dawn. Belerick is one of the few who have borne witness to all this throughout the mists of time. When the world was first formed, the mysterious Ancient Ones aided the Forefathers as they created all things in this universe. Together they constructed the grand and massive Celestial Palace and the myriad elemental creatures, who would live as successors to their bloodlines.\n\nWhen Belerick was but a young sapling, he was chosen by the Ancient Ones and given the essence of life and Mother Nature; this bestowed upon him the powers of intelligent though, deep wisdom, and the wondrous ability of reincarnation. Under the Ancient Ones' protection he lived together with the elemental creatures within the Lantis Mountain ranges, a place flourishing with life and vitality.\n\nHowever, this blissful existence would not last long. The Forefathers departed and the Endless War descended upon the lands, plunging the Land of Dawn into the throes of fierce battle and slaughter: the Ancient Ones retreated to the Celestial Palace and the elemental creatures thus lost the protection they'd once been granted. The creatures were left without a safe home of their own, and slain en masse as the fires of war blazed ever on.\n\nThey were forced to wander the lands for an entire age. Belerick watched as the Land of Dawn was ravaged by the raging war, no corner left untouched by the fighting. As he did so, Belerick grew from a sapling into a mighty tree. The warfare had stripped him of his former life, and hardened his power of will; despite having lost many of his companions in the process, he nonetheless refused to give up the hope he had in life. He sought to use his power to the best of his ability in helping out those weaker than him. In the later stages of the Era of Strife, the Ancient Ones who had returned to their Celestial Palace long ago could no longer stand the pitiable state of the world below, and went against the orders of the Forefathers as they rashly used the Twilight Orbs' power to try and end the war.\n\n## Belerick Sacrificed Himself! Who's Responsible?\n\n\n\n# Abilities\n\n## Deadly Thorns\n\nFor every 50 damage inflicted upon Belerick, he has a 25% chance to shoot the nearest enemy unit, dealing magic damage based on level and his stats plus 1.8% of his Max HP (scales with level). This attack can be triggered once every 0.4 seconds.\n\nHis HP obtained from Equipment and Emblems is increased by 30%.\n\n- Damage type: Magic damage\n- Additional scaling: 1.8% of Max HP, scaling with level\n- Trigger condition: Every 50 damage taken, 25% chance; internal cooldown 0.4 seconds\n\nNotes:\n\n- This skill gets spell vamp without being reduced, unlike magic lifesteal.\n\n## Ancient Seed\n\nCooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n\nMana Cost: 60 / 66 / 72 / 78 / 84 / 90\n\nBelerick releases vines in a designated direction, dealing magic damage to enemies on the path and slowing them by 25%. Meanwhile, he leaves Ancient Seed on the path, and after 1 second, these seeds will deal magic damage to enemies on the path and taunt them for 1.2 seconds. To minions, 80% extra damage will be dealt.\n\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Extra Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Slow: 25%\n- Taunt Duration: 1.2 seconds\n- Damage Bonus to Minions: 80%\n\nNotes:\n\n- If Belerick dies, taunted enemies still move towards Belerick, but do not attack.\n- When Belerick uses this skill, the taunted enemies keep attacking, but no damage is dealt, fully triggering Deadly Thorns.\n\n## Nature's Strike\n\nCooldown: 12.0 / 11.4 / 10.8 / 10.2 / 9.6 / 9.0 seconds\n\nMana Cost: 90 / 102 / 114 / 126 / 138 / 150\n\nBelerick increases his Movement Speed by 80% and strengthens his next Basic Attack. The Movement Speed gain will decay in 2 seconds. This enhanced Basic Attack deals magic damage and slows the target by 60% for 1.4 seconds. Belerick also regenerates HP equal to 240 plus 10% of his lost HP.\n\nEach time Deadly Thorns is triggered, the cooldown of this skill is reduced by 1 second.\n\n- Base Damage: 300 / 330 / 360 / 390 / 420 / 450\n- HP Regen: 240 / 288 / 336 / 384 / 432 / 480\n- Movement Speed Bonus: 80%, decays over 2 seconds\n- Slow: 60% for 1.4 seconds\n- Additional healing: 10% of lost HP\n- Type: Magic Basic Attack\n\n## Wrath of Dryad\n\nCooldown: 50.0 / 46.0 / 42.0 seconds\n\nMana Cost: 150\n\nBelerick conjures spreading vines around him, dealing magic damage to enemies in the area 4 times and taunting them for 1.5 seconds.\n\n- Base Damage (per hit): 100 / 150 / 200\n- Number of Hits: 4\n- Taunt Duration: 1.5 seconds\n- Type: Magic Skill\n\nNotes:\n\n- If Belerick dies, taunted enemies still move towards Belerick, but do not attack.\n- When Belerick uses this skill, the taunted enemies keep attacking, but no damage is dealt, fully triggering Deadly Thorns.\n\n# Trivia\n\n- The name Belerick doesn’t have a direct real-world meaning, but it might be inspired by botanical and mythical themes. It sounds similar to \"Beleriand,\" a lush, ancient land in The Lord of the Rings, fitting his forest guardian theme. His name could be derived from \"bark\" or \"bel\" (a common prefix in fantasy names), reinforcing his identity as a living tree warrior.\n- His design and abilities resemble Treants (tree-like beings in fantasy worlds).\n- Old model Belerick is a young version of the current one.\n- His old model can be still seen in the hero intro.\n- His skin \"Torched Guardian\" is the evil version of himself.\n- Belerick is regarded as one of the best heroes for damage reflection. His passive, Deadly Thorns, allows him to return damage to attackers, making him one of the best anti-marksman tanks in MLBB.\n- Many MLBB players compare Belerick to Groot, as both are giant tree creatures with a protective nature.\n- After being indirectly killed by Thamuz, Belerick's skillset was revamped to better counter continuous damaging opponents, one such, being Thamuz.\n- Whether or not he grew specifically to adapt against him, there have been multiple real life instances of plants adapting to specific threats in nature.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "ongoing",
+    "relationships": {
+      "relatedHeroes": [
+        "floryn",
+        "aamon",
+        "gusion",
+        "lunox",
+        "natan",
+        "uranus",
+        "valentina",
+        "sora",
+        "thamuz",
+        "alice"
+      ],
+      "faction": "Moon elves",
+      "allies": [],
+      "rivals": [
+        "thamuz",
+        "alice"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Guardian",
+      "locationTies": [
+        {
+          "location": "The Oasis",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Moonlit Forest",
+          "relationship": "home"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "home"
+        },
+        {
+          "location": "Celestial Palace",
+          "relationship": "visited"
+        },
+        {
+          "location": "Lantis Mountain",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "sacrifice",
+      "war",
+      "destiny"
+    ],
+    "hook": "Belerick watched the Land of Dawn ravaged by war, grew from sapling to mighty tree, and still refused to abandon hope for those weaker than him.",
+    "teaser": "Chosen by the Ancient Ones and forged in endless war, Belerick wanders the ruined Land of Dawn, a reincarnating tree guardian who refuses to abandon hope.",
+    "openingLine": "Many a race has risen and fallen throughout the expansive history of the Land of Dawn.",
+    "dominantColor": "#228B22",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 2,
+    "chapterTitles": [
+      "Lore",
+      "Belerick Sacrificed Himself! Who's Responsible?"
+    ],
+    "plotKeywords": [
+      "endless war",
+      "ancient ones",
+      "elemental creatures",
+      "reincarnation",
+      "sacrifice",
+      "wandering guardian",
+      "twilight orbs"
+    ],
+    "characterTraits": [
+      "wise",
+      "steadfast",
+      "compassionate",
+      "self-sacrificing",
+      "resilient"
+    ],
+    "locations": [
+      "The Oasis",
+      "Agelta Drylands",
+      "Moonlit Forest",
+      "Land of Dawn",
+      "Celestial Palace",
+      "Lantis Mountain"
+    ],
+    "wordCount": 1205,
+    "readingTimeMinutes": 9,
+    "connectionsCount": 10,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647018481,
+    "updatedAt": 1764647018481
+  },
+  "lastUpdated": null
+}

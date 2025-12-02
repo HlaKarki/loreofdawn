@@ -1,0 +1,210 @@
+{
+  "hero": "eudora",
+  "urlName": "eudora",
+  "sections": {
+    "profile": {
+      "markdown": "- Species: Light Elf\n- Gender: Female\n- Title: Professor\n- Occupation: Magic Academy professor; Dean of the Ulturia School\n- Birthplace: Moniyan Empire\n- Origin: Magic Academy, Northern Vale\n- Weapons: Lightning Nexus\n- Abilities: Lightning\n- Alias: Lightning Weaver; Dean of the Ulturia School of the Magic Academy\n- Chinese name: 雷朵 (léiduǒ \"lightning\")\n- English VA: Abigail Turner (2020–)\n- Japanese VA: Morisaki Miho (森嵜 美穂)\n- Indonesian VA: Wan Leoni Mutiarza\n\n> \"Dean of the Ulturia School of the Magic Academy, Light Elf\""
+    },
+    "story": {
+      "markdown": "Eudora is a Light Elf who possesses a high level of magical talent, yet always loses control of her emotions because of her being discriminated against due to her Elf status. Later, she was discovered by the mentor of the Magic Academy, Theresa, who took her to the Magic Academy to study. Finally, she overcame the gloom in her heart and succeeded Theresa, becoming the dean of the Ulturia School."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Childhood in a Hostile Village",
+          "content": {
+            "markdown": "Although they have been integrating into human civilization for many years, and their appearance and habits are becoming closer to those of humans, many Moniyan's still holds hostility and wariness toward the Light Elves. It was in a village of such racial tension that Eudora grew up.\n\nDue to its proximity to the Monastery of Light, most of the people in this village followed the outdated teachings of the monastery, and were unfriendly toward the Light Elves. The prejudices of the older generation also affected the children of the village, and Eudora was bullied and reviled by her peers for her unusual eyes and sharp ears for as long as she could remember, which led to her developing into a sensitive and withdrawn young Elf. She had no friends, and her only companion was a humble Silver Song flower.\n\nLonely little Eudora would sit beside this flower for hours on end, sharing all her woes and joys with it."
+          }
+        },
+        {
+          "title": "Awakening of Lightning Power",
+          "content": {
+            "markdown": "However, her only friend was eventually destroyed by the cruel children of the village. A group of boys, who often teased Eudora, spied Eudora talking to her floral friend one day and uprooted it on a cloudy afternoon, then bragged about it to anyone who would listen. When Eudora saw what they had done, she could no longer hold back her emotions. All the years of indignation and abuse gushed from her body in the form of pure rage, condensed into the power of lightning, and she almost flattened the surrounding houses.\n\nThis was the awakening of Eudora's latent magic power, but because of this incident, her family had to leave the village and find a new home.\n\nEudora carried the burden of this painful memory with her as she grew up, and this emotional imbalance eventually became a huge obstacle in her struggle to control her magical power. Whenever anyone tried to insult her on the basis of her appearance, the magic power in Eudora's body spiraled out of control, leaving her family with no choice but to move on to find another home."
+          }
+        },
+        {
+          "title": "Apprentice of the Ulturia School",
+          "content": {
+            "markdown": "This nomadic lifestyle of theirs finally came to an end when they arrived in Northern Moniyan. A tutor from the Academy of Magic, named Theresa, discovered Eudora's magical talent and decided to bring her to the school to commence her formal education in the arcane arts. Although she did not want to be separated from her family, Eudora gladly accepted Theresa's invitation and enrolled at the Academy of Magic, becoming an apprentice of the Ulturia School.\n\nUnder Theresa's guidance, Eudora absorbed all manner of magical knowledge, and soon mastered the most powerful magic Theresa had to teach her. As time passed, she gradually grew from a young apprentice to one of the most outstanding magic instructors of the Ulturia School. She grew her hair long in an attempt to hide her Elven ears. Even though she was respected by all who knew her, the scars of her youth still lurked in her heart."
+          }
+        },
+        {
+          "title": "Controversy over Succession",
+          "content": {
+            "markdown": "When Eudora's mentor Theresa, head of the Ulturia School, was about to retire, she announced to the public that Eudora would be taking over. But unexpectedly, this decision aroused great controversy. Never in the history of the Academy of Magic had an Elf ever served as the head of a magic school and entered the academic committee. Many even believed that this was a betrayal of the great prophet.\n\nAll this time, Eudora had believed that she would never be subject to prejudice at the hands of the Academy of Magic, but the doubts that surfaced upon the announcement of this news threw her heart into turmoil. The shadow of her childhood was cast over her again. Huge lightning balls, bearing her heavy memories, crashed onto the floor, putting an abrupt end to the handover ceremony and all the confidence Eudora had tried to build over the years.\n\nShe decided to relinquish her appointed role as the head of the Ulturia School and was prepared to leave the Academy of Magic and seek a new home where she could live free from prejudice. But Theresa stopped Eudora in her tracks and gave her a True-sight Mirror that allowed her to see her true self."
+          }
+        },
+        {
+          "title": "Facing the True Self",
+          "content": {
+            "markdown": "> \"Only that which you care about can truly hurt you.\"\n\n> \"You care about your race; you care about your appearance... and so, you care about what the others say.\"\n\nEudora stood before the mirror for a day and a night. Those nightmarish childhood experiences and all the doubts surrounding the handover ceremony emerged from her one by one. The light in her eyes shone brightly, the electricity within her surging with no end in sight. Just as she was on the verge of exploding, it slowly dissipated, and all that remained when she looked in the mirror once more was the calm, pointy-eared Elf she had been running from.\n\nShe now knew herself, and had finally learned to face herself with peace in her heart.\n\nEudora cut her long hair, which she had been growing for many years, and raised her Elven ears high and proud. She vowed to return to Ulturia School and tell all those who could not accept her: I know who I am, and you will one day find out who I am going to become."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Superconductor",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Eudora's skills inflict Superconductor for 3 seconds on hit and can trigger additional effects affected by Superconductor.\n\nSuperconductor is a debuff that enhances the effects of Eudora's other skills when they hit enemies already affected by it."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Forked Lightning",
+        "cooldown": 7,
+        "cost": 65,
+        "role": "Damage",
+        "details": {
+          "markdown": "Eudora casts forked lightning, dealing magic damage to enemies in a fan-shaped area in front of her. Enemies affected by Superconductor will take additional magic damage after a short delay.\n\n- Cooldown: 7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0 seconds\n- Mana cost: 65 / 70 / 75 / 80 / 85 / 90\n- Damage type: Magic damage\n- Spell vamp ratio: 50%\n- Base damage: 350 / 410 / 470 / 530 / 590 / 650\n- Trigger (additional) damage vs Superconductor targets: 190 / 230 / 270 / 310 / 350 / 390"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Ball Lightning",
+        "cooldown": 11,
+        "cost": 90,
+        "role": "Control",
+        "details": {
+          "markdown": "Eudora hurls an orb of lightning at the target enemy, dealing magic damage, stunning the target for 1.2 seconds, and reducing the target's Magic Defense for 1.8 seconds.\n\nIf the target is affected by Superconductor, the lightning orb will bounce up to 3 nearby enemies (prioritizes enemy heroes), dealing magic damage and stunning them for 0.6 second.\n\n- Cooldown: 11.0 / 10.5 / 10.0 / 9.5 / 9.0 / 8.5 seconds\n- Mana cost: 90 / 100 / 110 / 120 / 130 / 140\n- Damage type: Magic damage\n- Magic Defense reduction: 10 / 13 / 16 / 19 / 22 / 25\n- Base damage: 350 / 370 / 390 / 410 / 430 / 450\n- Spread (bounce) damage: 175 / 185 / 195 / 205 / 215 / 225\n- Main target stun: 1.2 seconds\n- Bounce stun: 0.6 second"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Thunder's Wrath",
+        "cooldown": 32,
+        "cost": 130,
+        "role": "Damage",
+        "details": {
+          "markdown": "Eudora calls down a blast of lightning on the target non-minion enemy, dealing magic damage.\n\nIf the enemy is affected by Superconductor, dark clouds appear over their head and unleash an additional lightning strike on an area after 0.8 seconds, dealing magic damage to enemies within and spread magic damage to nearby enemies.\n\n- Cooldown: 32.0 / 29.0 / 26.0 seconds\n- Mana cost: 130 / 160 / 190\n- Damage type: Magic damage\n- Initial damage: 480 / 660 / 840\n- Delayed area damage vs Superconductor targets: 440 / 605 / 770\n- Spread damage to nearby enemies: 360 / 495 / 630"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Eudora is the cheapest hero in the game, only costing, along with and."
+      },
+      {
+        "markdown": "Her name is a reference from one of the Hyades in Greek mythology. They are a sisterhood of nymphs that bring rain."
+      },
+      {
+        "markdown": "As the name suggest, her skill, Ball Lightning, is based on the real life and rare phenomenon, ball lightning, described as luminescent, spherical objects that vary from pea-sized to several meters in diameter. Descriptions of ball lightning appear in a variety of accounts over the centuries and have received attention from scientists."
+      },
+      {
+        "markdown": "She has a Vivo-themed skin called \"Vivo Selfie Goddess\", and is one of the only two heroes to have a Limited tag along with a skin called \"Honor\"."
+      },
+      {
+        "markdown": "\"Vivo Selfie Goddess\" can be upgraded in Skin Upgrade, while \"Honor\" cannot be."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Species: Light Elf\n- Gender: Female\n- Title: Professor\n- Occupation: Magic Academy professor; Dean of the Ulturia School\n- Birthplace: Moniyan Empire\n- Origin: Magic Academy, Northern Vale\n- Weapons: Lightning Nexus\n- Abilities: Lightning\n- Alias: Lightning Weaver; Dean of the Ulturia School of the Magic Academy\n- Chinese name: 雷朵 (léiduǒ \"lightning\")\n- English VA: Abigail Turner (2020–)\n- Japanese VA: Morisaki Miho (森嵜 美穂)\n- Indonesian VA: Wan Leoni Mutiarza\n\n> \"Dean of the Ulturia School of the Magic Academy, Light Elf\"\n\n# Story\n\nEudora is a Light Elf who possesses a high level of magical talent, yet always loses control of her emotions because of her being discriminated against due to her Elf status. Later, she was discovered by the mentor of the Magic Academy, Theresa, who took her to the Magic Academy to study. Finally, she overcame the gloom in her heart and succeeded Theresa, becoming the dean of the Ulturia School.\n\n# Side Story\n\n## Childhood in a Hostile Village\n\nAlthough they have been integrating into human civilization for many years, and their appearance and habits are becoming closer to those of humans, many Moniyan's still holds hostility and wariness toward the Light Elves. It was in a village of such racial tension that Eudora grew up.\n\nDue to its proximity to the Monastery of Light, most of the people in this village followed the outdated teachings of the monastery, and were unfriendly toward the Light Elves. The prejudices of the older generation also affected the children of the village, and Eudora was bullied and reviled by her peers for her unusual eyes and sharp ears for as long as she could remember, which led to her developing into a sensitive and withdrawn young Elf. She had no friends, and her only companion was a humble Silver Song flower.\n\nLonely little Eudora would sit beside this flower for hours on end, sharing all her woes and joys with it.\n\n## Awakening of Lightning Power\n\nHowever, her only friend was eventually destroyed by the cruel children of the village. A group of boys, who often teased Eudora, spied Eudora talking to her floral friend one day and uprooted it on a cloudy afternoon, then bragged about it to anyone who would listen. When Eudora saw what they had done, she could no longer hold back her emotions. All the years of indignation and abuse gushed from her body in the form of pure rage, condensed into the power of lightning, and she almost flattened the surrounding houses.\n\nThis was the awakening of Eudora's latent magic power, but because of this incident, her family had to leave the village and find a new home.\n\nEudora carried the burden of this painful memory with her as she grew up, and this emotional imbalance eventually became a huge obstacle in her struggle to control her magical power. Whenever anyone tried to insult her on the basis of her appearance, the magic power in Eudora's body spiraled out of control, leaving her family with no choice but to move on to find another home.\n\n## Apprentice of the Ulturia School\n\nThis nomadic lifestyle of theirs finally came to an end when they arrived in Northern Moniyan. A tutor from the Academy of Magic, named Theresa, discovered Eudora's magical talent and decided to bring her to the school to commence her formal education in the arcane arts. Although she did not want to be separated from her family, Eudora gladly accepted Theresa's invitation and enrolled at the Academy of Magic, becoming an apprentice of the Ulturia School.\n\nUnder Theresa's guidance, Eudora absorbed all manner of magical knowledge, and soon mastered the most powerful magic Theresa had to teach her. As time passed, she gradually grew from a young apprentice to one of the most outstanding magic instructors of the Ulturia School. She grew her hair long in an attempt to hide her Elven ears. Even though she was respected by all who knew her, the scars of her youth still lurked in her heart.\n\n## Controversy over Succession\n\nWhen Eudora's mentor Theresa, head of the Ulturia School, was about to retire, she announced to the public that Eudora would be taking over. But unexpectedly, this decision aroused great controversy. Never in the history of the Academy of Magic had an Elf ever served as the head of a magic school and entered the academic committee. Many even believed that this was a betrayal of the great prophet.\n\nAll this time, Eudora had believed that she would never be subject to prejudice at the hands of the Academy of Magic, but the doubts that surfaced upon the announcement of this news threw her heart into turmoil. The shadow of her childhood was cast over her again. Huge lightning balls, bearing her heavy memories, crashed onto the floor, putting an abrupt end to the handover ceremony and all the confidence Eudora had tried to build over the years.\n\nShe decided to relinquish her appointed role as the head of the Ulturia School and was prepared to leave the Academy of Magic and seek a new home where she could live free from prejudice. But Theresa stopped Eudora in her tracks and gave her a True-sight Mirror that allowed her to see her true self.\n\n## Facing the True Self\n\n> \"Only that which you care about can truly hurt you.\"\n\n> \"You care about your race; you care about your appearance... and so, you care about what the others say.\"\n\nEudora stood before the mirror for a day and a night. Those nightmarish childhood experiences and all the doubts surrounding the handover ceremony emerged from her one by one. The light in her eyes shone brightly, the electricity within her surging with no end in sight. Just as she was on the verge of exploding, it slowly dissipated, and all that remained when she looked in the mirror once more was the calm, pointy-eared Elf she had been running from.\n\nShe now knew herself, and had finally learned to face herself with peace in her heart.\n\nEudora cut her long hair, which she had been growing for many years, and raised her Elven ears high and proud. She vowed to return to Ulturia School and tell all those who could not accept her: I know who I am, and you will one day find out who I am going to become.\n\n# Abilities\n\n## Superconductor\n\nEudora's skills inflict Superconductor for 3 seconds on hit and can trigger additional effects affected by Superconductor.\n\nSuperconductor is a debuff that enhances the effects of Eudora's other skills when they hit enemies already affected by it.\n\n## Forked Lightning\n\nEudora casts forked lightning, dealing magic damage to enemies in a fan-shaped area in front of her. Enemies affected by Superconductor will take additional magic damage after a short delay.\n\n- Cooldown: 7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0 seconds\n- Mana cost: 65 / 70 / 75 / 80 / 85 / 90\n- Damage type: Magic damage\n- Spell vamp ratio: 50%\n- Base damage: 350 / 410 / 470 / 530 / 590 / 650\n- Trigger (additional) damage vs Superconductor targets: 190 / 230 / 270 / 310 / 350 / 390\n\n## Ball Lightning\n\nEudora hurls an orb of lightning at the target enemy, dealing magic damage, stunning the target for 1.2 seconds, and reducing the target's Magic Defense for 1.8 seconds.\n\nIf the target is affected by Superconductor, the lightning orb will bounce up to 3 nearby enemies (prioritizes enemy heroes), dealing magic damage and stunning them for 0.6 second.\n\n- Cooldown: 11.0 / 10.5 / 10.0 / 9.5 / 9.0 / 8.5 seconds\n- Mana cost: 90 / 100 / 110 / 120 / 130 / 140\n- Damage type: Magic damage\n- Magic Defense reduction: 10 / 13 / 16 / 19 / 22 / 25\n- Base damage: 350 / 370 / 390 / 410 / 430 / 450\n- Spread (bounce) damage: 175 / 185 / 195 / 205 / 215 / 225\n- Main target stun: 1.2 seconds\n- Bounce stun: 0.6 second\n\n## Thunder's Wrath\n\nEudora calls down a blast of lightning on the target non-minion enemy, dealing magic damage.\n\nIf the enemy is affected by Superconductor, dark clouds appear over their head and unleash an additional lightning strike on an area after 0.8 seconds, dealing magic damage to enemies within and spread magic damage to nearby enemies.\n\n- Cooldown: 32.0 / 29.0 / 26.0 seconds\n- Mana cost: 130 / 160 / 190\n- Damage type: Magic damage\n- Initial damage: 480 / 660 / 840\n- Delayed area damage vs Superconductor targets: 440 / 605 / 770\n- Spread damage to nearby enemies: 360 / 495 / 630\n\n# Trivia\n\n- Eudora is the cheapest hero in the game, only costing, along with and.\n- Her name is a reference from one of the Hyades in Greek mythology. They are a sisterhood of nymphs that bring rain.\n- As the name suggest, her skill, Ball Lightning, is based on the real life and rare phenomenon, ball lightning, described as luminescent, spherical objects that vary from pea-sized to several meters in diameter. Descriptions of ball lightning appear in a variety of accounts over the centuries and have received attention from scientists.\n- She has a Vivo-themed skin called \"Vivo Selfie Goddess\", and is one of the only two heroes to have a Limited tag along with a skin called \"Honor\".\n- \"Vivo Selfie Goddess\" can be upgraded in Skin Upgrade, while \"Honor\" cannot be.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "gord",
+        "harley",
+        "lylia",
+        "zilong",
+        "miya"
+      ],
+      "faction": "Magic Academy",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [
+        "theresa"
+      ],
+      "factionRole": "Dean",
+      "locationTies": [
+        {
+          "location": "Moniyan Empire",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Northern Moniyan",
+          "relationship": "home"
+        },
+        {
+          "location": "Magic Academy",
+          "relationship": "home"
+        },
+        {
+          "location": "Northern Vale",
+          "relationship": "origin"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "prejudice",
+      "identity",
+      "power"
+    ],
+    "hook": "Eudora cuts her long hair, raises her Elven ears high and proud, and vows to prove to a prejudiced world: she knows who she is, and who she will become.",
+    "teaser": "Bullied for her Elven blood and feared for her lightning, Eudora must confront her deepest scars in a True-sight Mirror before she can lead the Ulturia School.",
+    "openingLine": "Although they have been integrating into human civilization for many years, and their appearance and habits are becoming closer to those of humans, many Moniyan's still holds hostility and wariness toward the Light Elves.",
+    "dominantColor": "#4A90E2",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 5,
+    "chapterTitles": [
+      "Childhood in a Hostile Village",
+      "Awakening of Lightning Power",
+      "Apprentice of the Ulturia School",
+      "Controversy over Succession",
+      "Facing the True Self"
+    ],
+    "plotKeywords": [
+      "racial prejudice",
+      "childhood bullying",
+      "magic awakening",
+      "academy mentorship",
+      "leadership controversy",
+      "self-acceptance",
+      "identity struggle"
+    ],
+    "characterTraits": [
+      "sensitive",
+      "withdrawn",
+      "talented",
+      "determined",
+      "proud",
+      "resilient"
+    ],
+    "locations": [
+      "Moniyan Empire",
+      "Monastery of Light",
+      "Northern Moniyan",
+      "Magic Academy",
+      "Northern Vale"
+    ],
+    "wordCount": 1555,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646992516,
+    "updatedAt": 1764646992516
+  },
+  "lastUpdated": null
+}

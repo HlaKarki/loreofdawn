@@ -1,0 +1,163 @@
+{
+  "hero": "grock",
+  "urlName": "grock",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Fortress Titan\n\n**Origin:** Lantis Mountains, The Barren Lands\n\n**Species:** Castle\n\n**Gender:** Male\n\n**Occupation:** Guardian\n\n**Affiliation:**\n- Ancient Ones\n- The Abyss (hostile)\n\n**Weapons:** Weathered Citadel\n\n**Abilities:**\n- Power of nature\n- Summons guardian's barrier\n\n**Likes:** Sleeping\n\n**Japanese Voice Actor:** Nakamura Taishi (中村 大志)"
+    },
+    "story": {
+      "markdown": "> \"Stone man awakened from sleep\"\n\nThe stone man who signed a contract with the Ancient Ones has a kind-hearted nature and infinite power. He sleeps most of his life. After Grock woke up, he found that the Ancient Ones he was guarding had disappeared, so he carried the Castle of the Ancient Ones on his shoulders and walked out of the mountains to find the whereabouts of the Ancient Ones."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Ancient Fortress",
+          "content": {
+            "markdown": "Deep within the mountains of the Land of Dawn sits an ancient fortress. Though the owner is unknown, it is rumored that it could be a descendant of the legendary race that once walked the Lands of Dawn. It said that this race is older than the earth itself, and having a special affinity for nature, they were able to build deep connections and relations with various beings of nature, especially the Stone Titans."
+          }
+        },
+        {
+          "title": "Journey of the Stone Titan",
+          "content": {
+            "markdown": "These amiable giants possess rocky skin that is almost impervious to all physical force, but due to their kind nature, they mainly use their physical prowess to sleep safely. These stony giants love sleeping so much that they will hibernate for up to half a year sometimes, however once they are awakened, it is hard for them fall asleep again. One day when Grock awoke again, he found himself to be alone with the guardians of the fortress long gone. He proceeded to saddle the fortress onto his back to find the owners, setting out all over the Land of Dawn to find any news of their whereabouts, so he may one day return their home to them."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Bastion of Stone",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "Grock gains a Shield equal to 10% of his Max HP and empowers the next Basic Attack to deal damage based on the target's Max HP (capped at a fixed amount against non-hero units). This effect has an 18–12 second cooldown (decreases with level), which is reduced significantly when Grock is near terrain. Grock gains Control Immunity while casting skills and extra Physical Defense while the Shield is active."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Mighty Swing",
+        "cooldown": 8,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Grock strikes forward with massive force, dealing physical damage in an area. Enemies knocked into obstacles are launched airborne and take extra damage based on a percentage of their Max HP (capped at a fixed amount against non-hero units). If there are no obstacles behind enemies, they are only knocked back slightly.\n\n- Base Damage: 240 / 280 / 320 / 360 / 400 / 440\n- Type: Physical Skill\n- Effects: Crowd Control, Area of Effect\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Earthen Rampart",
+        "cooldown": 14,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "After a brief delay, Grock summons a stone wall in the target area, dealing physical damage and knocking enemies towards him. The wall can be canceled early.\n\n- Base Damage: 100 / 120 / 140 / 160 / 180 / 200\n- Type: Physical Skill\n- Effects: Crowd Control, Area of Effect\n- Cooldown: 14.0 / 13.2 / 12.4 / 11.6 / 10.8 / 10.0 seconds\n\nPlacing a wall near a nearby unit, including Grock himself, will displace them while disrupting their skills, whether it is an ally or an enemy and even if they are immune to crowd control. Because the displacing effect is not counted as a control effect, but rather as a result of the way obstacles work, any units who manage to place themselves on the obstacle's way will automatically be moved onto valid ground to avoid becoming stuck."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Tectonic Charge",
+        "cooldown": 55,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "> \"The brave fear nothing.\"\n\nGrock charges forward, dealing physical damage to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1 second and deals additional damage. If this skill does not hit terrain, 50% of its cooldown is refunded.\n\n- Base Damage: 100 / 100 / 100\n- Added Damage: 650 / 850 / 1050\n- Type: Physical Skill, Charge\n- Effects: Mobility, Area of Effect, Crowd Control\n- Cooldown: 55.0 / 50.0 / 45.0 seconds"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Grock’s design is heavily influenced by golems, which are stone or earth-based protectors in mythology and fantasy."
+      },
+      {
+        "markdown": "Grock is the first hero to summon a physical wall in the game."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Fortress Titan\n\n**Origin:** Lantis Mountains, The Barren Lands\n\n**Species:** Castle\n\n**Gender:** Male\n\n**Occupation:** Guardian\n\n**Affiliation:**\n- Ancient Ones\n- The Abyss (hostile)\n\n**Weapons:** Weathered Citadel\n\n**Abilities:**\n- Power of nature\n- Summons guardian's barrier\n\n**Likes:** Sleeping\n\n**Japanese Voice Actor:** Nakamura Taishi (中村 大志)\n\n# Story\n\n> \"Stone man awakened from sleep\"\n\nThe stone man who signed a contract with the Ancient Ones has a kind-hearted nature and infinite power. He sleeps most of his life. After Grock woke up, he found that the Ancient Ones he was guarding had disappeared, so he carried the Castle of the Ancient Ones on his shoulders and walked out of the mountains to find the whereabouts of the Ancient Ones.\n\n# Side Story\n\n## Ancient Fortress\n\nDeep within the mountains of the Land of Dawn sits an ancient fortress. Though the owner is unknown, it is rumored that it could be a descendant of the legendary race that once walked the Lands of Dawn. It said that this race is older than the earth itself, and having a special affinity for nature, they were able to build deep connections and relations with various beings of nature, especially the Stone Titans.\n\n## Journey of the Stone Titan\n\nThese amiable giants possess rocky skin that is almost impervious to all physical force, but due to their kind nature, they mainly use their physical prowess to sleep safely. These stony giants love sleeping so much that they will hibernate for up to half a year sometimes, however once they are awakened, it is hard for them fall asleep again. One day when Grock awoke again, he found himself to be alone with the guardians of the fortress long gone. He proceeded to saddle the fortress onto his back to find the owners, setting out all over the Land of Dawn to find any news of their whereabouts, so he may one day return their home to them.\n\n# Abilities\n\n## Bastion of Stone\n\nGrock gains a Shield equal to 10% of his Max HP and empowers the next Basic Attack to deal damage based on the target's Max HP (capped at a fixed amount against non-hero units). This effect has an 18–12 second cooldown (decreases with level), which is reduced significantly when Grock is near terrain. Grock gains Control Immunity while casting skills and extra Physical Defense while the Shield is active.\n\n## Mighty Swing\n\nGrock strikes forward with massive force, dealing physical damage in an area. Enemies knocked into obstacles are launched airborne and take extra damage based on a percentage of their Max HP (capped at a fixed amount against non-hero units). If there are no obstacles behind enemies, they are only knocked back slightly.\n\n- Base Damage: 240 / 280 / 320 / 360 / 400 / 440\n- Type: Physical Skill\n- Effects: Crowd Control, Area of Effect\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n\n## Earthen Rampart\n\nAfter a brief delay, Grock summons a stone wall in the target area, dealing physical damage and knocking enemies towards him. The wall can be canceled early.\n\n- Base Damage: 100 / 120 / 140 / 160 / 180 / 200\n- Type: Physical Skill\n- Effects: Crowd Control, Area of Effect\n- Cooldown: 14.0 / 13.2 / 12.4 / 11.6 / 10.8 / 10.0 seconds\n\nPlacing a wall near a nearby unit, including Grock himself, will displace them while disrupting their skills, whether it is an ally or an enemy and even if they are immune to crowd control. Because the displacing effect is not counted as a control effect, but rather as a result of the way obstacles work, any units who manage to place themselves on the obstacle's way will automatically be moved onto valid ground to avoid becoming stuck.\n\n## Tectonic Charge\n\n> \"The brave fear nothing.\"\n\nGrock charges forward, dealing physical damage to enemies in his path. Upon hitting terrain, he immediately stops and triggers a massive explosion that knocks nearby enemies airborne for 1 second and deals additional damage. If this skill does not hit terrain, 50% of its cooldown is refunded.\n\n- Base Damage: 100 / 100 / 100\n- Added Damage: 650 / 850 / 1050\n- Type: Physical Skill, Charge\n- Effects: Mobility, Area of Effect, Crowd Control\n- Cooldown: 55.0 / 50.0 / 45.0 seconds\n\n# Trivia\n\n- Grock’s design is heavily influenced by golems, which are stone or earth-based protectors in mythology and fantasy.\n- Grock is the first hero to summon a physical wall in the game.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "quest",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": "Ancient Ones",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Guardian",
+      "locationTies": [
+        {
+          "location": "Lantis Mountains",
+          "relationship": "home"
+        },
+        {
+          "location": "The Barren Lands",
+          "relationship": "home"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "journey"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "loyalty",
+      "destiny"
+    ],
+    "hook": "After waking to find the Ancient Ones gone, the kind-hearted stone titan hoists their fortress onto his back and wanders the Land of Dawn in search of them.",
+    "teaser": "A towering stone guardian awakens alone, his ancient masters vanished. With their fortress on his back, Grock roams the Land of Dawn to return it home.",
+    "openingLine": "Deep within the mountains of the Land of Dawn sits an ancient fortress.",
+    "dominantColor": "#6B8E8B",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 2,
+    "chapterTitles": [
+      "Ancient Fortress",
+      "Journey of the Stone Titan"
+    ],
+    "plotKeywords": [
+      "ancient fortress",
+      "stone titan race",
+      "long slumber",
+      "guardians vanished",
+      "wandering quest",
+      "search for masters"
+    ],
+    "characterTraits": [
+      "kind-hearted",
+      "loyal",
+      "steadfast",
+      "sleepy",
+      "gentle"
+    ],
+    "locations": [
+      "Lantis Mountains",
+      "The Barren Lands",
+      "Land of Dawn"
+    ],
+    "wordCount": 729,
+    "readingTimeMinutes": 5,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646967735,
+    "updatedAt": 1764646967735
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,146 @@
+{
+  "hero": "gatotkaca",
+  "urlName": "gatotkaca",
+  "sections": {
+    "profile": {
+      "markdown": "He is based on the character with the same name in *Garudayana* comics by Is Yuniarto, making him the first and currently the only hero in *MLBB* that is based on an intellectual property.\n\n- Chinese Name: 金迦 (jīnjiā)\n- Alias: Mighty Legend\n- Title: Knight of Pringgadani\n- Species: Human\n- Gender: Male\n- Born: Arcadhem Universe\n- Origin: Nebula Chronorift\n- Affiliation: Asuras (hostile)\n- Weapons: Antakusuma armor; Braiamusti-Braiadenta gauntlets\n- Abilities: Electrokinesis; Flight"
+    },
+    "story": {
+      "markdown": "> \"Warrior from the Arcadhem universe\"\n\nThe son of Bima and Arimbi from the Arcadhem Universe. When he was a child, he became a champion of the gods, fighting against enemies in his hometown."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Steel Bones",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "Gatotkaca gains Physical Defense equal to 2% of his lost HP, up to 100. For every 300 damage he takes (calculated before damage reduction), he gains 5 Rage, up to 100.\n\nUpon reaching over 25 Rage, Gatotkaca's next Basic Attack becomes enhanced, consuming all Rage to deal extra Magic Damage and recover HP. The extra damage scales with his Rage, level, and Magic Power.\n\nAdditional details:\n\n- Enhanced Basic Attack Range: 2.5\n- For each 1 lost HP, his extra Physical Defense increases by 0.02, up to a maximum of 100 Physical Defense if he has at least 5000 lost HP.\n- Rage begins to deplete after approximately 3 seconds of Gatotkaca leaving combat (not taking or dealing damage), with 10 Rage depleted every 0.5 seconds.\n- Rage is used in multiples of 5 and is rounded to the nearest multiple of 5. Example: having 38 Rage will output damage as if having 40 Rage, while having 7 Rage will output damage as if having 5 Rage.\n- While these formulas are highly approximate, Rage generation can be inconsistent, resulting in the same Rage but varied enhanced Basic Attack damage dealt.\n- The heal is static and follows the rounding rule of Rage before it's calculated.\n- Gatotkaca will perform a short dash to the target when dealing the enhanced Basic Attack."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Blast Iron Fist",
+        "cooldown": 8,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Gatotkaca slams the ground, creating a shattered zone in the target direction while dealing Magic Damage to enemies within. Enemies in the shattered zone will take sustained Magic Damage per second and be slowed by 30%.\n\nKey properties:\n\n- Duration: approximately 3.5 seconds\n- Slow: 30%\n- Spell Vamp Ratio: 50%\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Sustained Damage: 100 / 110 / 120 / 130 / 140 / 150\n- Sustained Damage hits every 0.5 seconds and can hit up to 7 times."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Unbreakable",
+        "cooldown": 12,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "> \"Impregnable!\"\n\nGatotkaca begins channeling, then sprints in the target direction with a battle cry, forcing enemies on the path to attack him and dealing Magic Damage for 1.5 seconds. The sprint distance scales with the channel time. Canceling the skill reduces 50% of the remaining cooldown.\n\nKey properties:\n\n- Taunt duration: 1.5 seconds\n- Spell Vamp Ratio: 50%\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Gatotkaca can fully charge the skill for approximately 1⅙ seconds, and can overcharge for approximately another 3.75 seconds."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Avatar of the Guardian",
+        "cooldown": 54,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "> \"A leap holds the world in awe.\"\n\nGatotkaca jumps to the target location, dealing Magic Damage to nearby enemies and knocking them airborne for 1 second. Enemies near the center of the area will be knocked airborne for a longer duration, while enemies on the fringes will be pulled to the center. The camera will move with the skill indicator but will not grant extra sight.\n\nKey properties:\n\n- Spell Vamp Ratio: 50%\n- Base Damage: 500 / 750 / 1000\n- This skill has control immunity, and his descending animation makes Gatotkaca untargetable."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Gatotkaca is based on *Bharatayuddha*, a Javanese adaptation of the Sanskrit epic *Mahabharata*. According to the *Garudayana* creator, Is Yuniarto, his design is inspired by *wayang*, a traditional Javanese shadow puppet theater. Wayang is used in retelling epics, including *Bharatayuddha*."
+      },
+      {
+        "markdown": "His most recent skin, \"Tide Preserver,\" was released on January 8, 2024, making him the hero who received the skin for the longest period of time, 1745 days, between it and \"Spark,\" which was released on March 30, 2019."
+      },
+      {
+        "markdown": "His voiceline \"Om Telolet Om\" is a social media meme that depicts Indonesian youths' excitement when a bus driver honks a modified horn in a rhythmic manner as they pass by."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nHe is based on the character with the same name in *Garudayana* comics by Is Yuniarto, making him the first and currently the only hero in *MLBB* that is based on an intellectual property.\n\n- Chinese Name: 金迦 (jīnjiā)\n- Alias: Mighty Legend\n- Title: Knight of Pringgadani\n- Species: Human\n- Gender: Male\n- Born: Arcadhem Universe\n- Origin: Nebula Chronorift\n- Affiliation: Asuras (hostile)\n- Weapons: Antakusuma armor; Braiamusti-Braiadenta gauntlets\n- Abilities: Electrokinesis; Flight\n\n# Story\n\n> \"Warrior from the Arcadhem universe\"\n\nThe son of Bima and Arimbi from the Arcadhem Universe. When he was a child, he became a champion of the gods, fighting against enemies in his hometown.\n\n# Abilities\n\n## Steel Bones\n\nGatotkaca gains Physical Defense equal to 2% of his lost HP, up to 100. For every 300 damage he takes (calculated before damage reduction), he gains 5 Rage, up to 100.\n\nUpon reaching over 25 Rage, Gatotkaca's next Basic Attack becomes enhanced, consuming all Rage to deal extra Magic Damage and recover HP. The extra damage scales with his Rage, level, and Magic Power.\n\nAdditional details:\n\n- Enhanced Basic Attack Range: 2.5\n- For each 1 lost HP, his extra Physical Defense increases by 0.02, up to a maximum of 100 Physical Defense if he has at least 5000 lost HP.\n- Rage begins to deplete after approximately 3 seconds of Gatotkaca leaving combat (not taking or dealing damage), with 10 Rage depleted every 0.5 seconds.\n- Rage is used in multiples of 5 and is rounded to the nearest multiple of 5. Example: having 38 Rage will output damage as if having 40 Rage, while having 7 Rage will output damage as if having 5 Rage.\n- While these formulas are highly approximate, Rage generation can be inconsistent, resulting in the same Rage but varied enhanced Basic Attack damage dealt.\n- The heal is static and follows the rounding rule of Rage before it's calculated.\n- Gatotkaca will perform a short dash to the target when dealing the enhanced Basic Attack.\n\n## Blast Iron Fist\n\nGatotkaca slams the ground, creating a shattered zone in the target direction while dealing Magic Damage to enemies within. Enemies in the shattered zone will take sustained Magic Damage per second and be slowed by 30%.\n\nKey properties:\n\n- Duration: approximately 3.5 seconds\n- Slow: 30%\n- Spell Vamp Ratio: 50%\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Sustained Damage: 100 / 110 / 120 / 130 / 140 / 150\n- Sustained Damage hits every 0.5 seconds and can hit up to 7 times.\n\n## Unbreakable\n\n> \"Impregnable!\"\n\nGatotkaca begins channeling, then sprints in the target direction with a battle cry, forcing enemies on the path to attack him and dealing Magic Damage for 1.5 seconds. The sprint distance scales with the channel time. Canceling the skill reduces 50% of the remaining cooldown.\n\nKey properties:\n\n- Taunt duration: 1.5 seconds\n- Spell Vamp Ratio: 50%\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n- Gatotkaca can fully charge the skill for approximately 1⅙ seconds, and can overcharge for approximately another 3.75 seconds.\n\n## Avatar of the Guardian\n\n> \"A leap holds the world in awe.\"\n\nGatotkaca jumps to the target location, dealing Magic Damage to nearby enemies and knocking them airborne for 1 second. Enemies near the center of the area will be knocked airborne for a longer duration, while enemies on the fringes will be pulled to the center. The camera will move with the skill indicator but will not grant extra sight.\n\nKey properties:\n\n- Spell Vamp Ratio: 50%\n- Base Damage: 500 / 750 / 1000\n- This skill has control immunity, and his descending animation makes Gatotkaca untargetable.\n\n# Trivia\n\n- Gatotkaca is based on *Bharatayuddha*, a Javanese adaptation of the Sanskrit epic *Mahabharata*. According to the *Garudayana* creator, Is Yuniarto, his design is inspired by *wayang*, a traditional Javanese shadow puppet theater. Wayang is used in retelling epics, including *Bharatayuddha*.\n- His most recent skin, \"Tide Preserver,\" was released on January 8, 2024, making him the hero who received the skin for the longest period of time, 1745 days, between it and \"Spark,\" which was released on March 30, 2019.\n- His voiceline \"Om Telolet Om\" is a social media meme that depicts Indonesian youths' excitement when a bus driver honks a modified horn in a rhythmic manner as they pass by.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": null,
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Arcadhem Universe",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Nebula Chronorift",
+          "relationship": "origin"
+        }
+      ]
+    },
+    "moods": [
+      "heroic"
+    ],
+    "themes": [
+      "destiny",
+      "power"
+    ],
+    "hook": "Gatotkaca, the Knight of Pringgadani, rises from near death in the cauldron of heaven to become a lightning-swift guardian hunting his sworn enemies, the Asuras.",
+    "teaser": "From near death in a heavenly cauldron to lightning across the skies, Gatotkaca stands as the mighty legend and guardian knight against the wrathful Asuras.",
+    "openingLine": "Gatotkaca the \"Mighty Legend\" was the son of Bima and Arimbi from the Arcapada universe.",
+    "dominantColor": "#1E6AB3",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "champion of gods",
+      "near-death defeat",
+      "heavenly cauldron training",
+      "supernatural power",
+      "lightning flight",
+      "battle against Asuras",
+      "myth-inspired hero"
+    ],
+    "characterTraits": [
+      "brave",
+      "devoted",
+      "resilient",
+      "heroic"
+    ],
+    "locations": [
+      "Arcapada universe",
+      "Arcadhem Universe",
+      "Nebula Chronorift",
+      "Pringgadani"
+    ],
+    "wordCount": 722,
+    "readingTimeMinutes": 5,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646976265,
+    "updatedAt": 1764646976265
+  },
+  "lastUpdated": null
+}

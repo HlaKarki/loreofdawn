@@ -1,0 +1,201 @@
+{
+  "hero": "hanzo",
+  "urlName": "hanzo",
+  "sections": {
+    "profile": {
+      "markdown": ""
+    },
+    "story": {
+      "markdown": "> \"Genius ninja in the Shadow Sect who is at the crossroads\"\n\nA genius ninja of the Shadow Sect in the Scarlet Shadow. In order to pursue great power, he absorbed the \"Hanekage\" into his body, and used the enemy's flesh and blood to provide nourishment for the \"Hanekage\". After gaining power, he took away the most powerful supreme ninjutsu and Ame no Habakiri in the Scarlet Shadow, and went further and further on the road of killing."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "The End of Nindo",
+          "content": {
+            "markdown": "> \"To protect the secrets of the Sacred Tools is your duty; value it more than your life.\"\n\nAs Hanzo awoke in the middle of the night due to pain inflicted by the Ame no Habakiri, he recalled this teaching that led him down this path of no return. Before turning his back on the Scarlet Shadow, Hanzo was the Shadow Sect's sharpest blade.\n\nAdopted by the Shadow Sect at a young age, Hanzo was lucky to escape the fate of a wandering beggar. He learned the ways of Nindo, to \"uphold justice and endure hardship\", and lived his new life by its teachings. For the Scarlet Shadow, his cherished home, he was willing to do anything.\n\nFierce and tenacious like the wolf, Hanzo always took on the most perilous missions. Even when he returned with grave injuries, he would make his report in full before seeking treatment. Failure was something not even Hanzo's greatest rivals would dare think of. They knew Hanzo would stop at nothing to achieve his objectives.\n\nOver the course of a decade, Hanzo accumulated so many merits that his peers saw him, a commoner by birth, as only second to Kurēn, the clan's next heir. Hanzo acknowledged Kurēn's unmatched wisdom. If Kurēn vowed to uphold Nindo after he took power, then Hanzo would become his sharpest blade.\n\nUntil now, Hanzo never thought his past self was wrong, but it was his near-obsessive persistence that led him to this point.\n\nSome time ago, Hanzo, while engrossed in the Nindo scriptures, suddenly realized that his peers, other orphans adopted by the clan, had routinely disappeared with little explanation. Greatly puzzled, Hanzo began to investigate on his own. During his search, he crossed more than a few elders, resulting in him being stripped of all rank in the clan. The merits he earned at the risk of his life were erased overnight. Hanzo cared little for fame, but he knew something sinister was being covered up. Eventually, he discovered that the elders had been sending ninjas on missions to the forbidden grounds to steal a Cursed Tool that was supposed to be sealed within: the demonic blade Ame no Habakiri.\n\nCountless lives had been sacrificed to the demon blade. Hanzo couldn't bear to think how many in the Scarlet Shadow who simply sought to uphold justice ended up with this fate.\n\nA momentary lapse in concentration caused Hanzo to be discovered by another ninja in the forbidden grounds―it was Kurēn.\n\nIn the dark, stone chamber, Kurēn revealed the truth of the Scarlet Shadow: The two factions within the clan had been vying for control of the Seven Sacred Tools, each trying to shift the balance of power in their favor. The elders of the Shadow Sect were sacrificing their own to the Ame no Habakiri in order to awaken its true power.\n\nKurēn had been secretly gaining influence to abolish this vile practice once he became the clan leader, and seeing Hanzo, he was eager to have a ninja of Nindo help him change the future of the clan.\n\n> \"Those that were sacrificed to Ame no Habakiri... what of their futures?\"\n\nKurēn had no answer to his question, which sent Hanzo into a rage. He had seen too many hypocrites claiming to act for the greater good, and in that moment, he realized the Scarlet Shadow was no different. His Nindo did not tolerate evil deeds, thus the Scarlet Shadow should not exist. If they craved Ame no Habakiri's power so much, he would show them its true might.\n\nAs Hanzo reached for the demon blade on the pedestal, he thought to himself, \"Come, either devour me, or let me devour everything!\"\n\nThe moment he grasped the Ame no Habakiri, its unbridled demonic power invaded his body. In a trance, he saw a whirlpool swallowing ships, or was it a leviathan devouring entire islands? Quickly he realized what he was actually seeing:\n\nIt was a vortex of souls; the ninjas who had been sacrificed, and countless more before them. Their wills had long been erased, leaving only an insatiable hunger and darkness churning within the blade; a madness that was neither human nor demon.\n\nThe demonic power invaded Hanzo's very being, but his pride refused to be consumed. Feeding on his rage and obsession, he finally tamed the Ame no Habakiri.\n\n> \"Naive pretender, you will witness my reign from within this blade.\"\n\nAnd with that, Hanzo swung the blade at his former comrade Kurēn. \"Gaining influence\"... that's merely the cowardly compromise of the weak. Without the courage to make the first cut, there would never be change.\n\nAfter devouring Kurēn, Hanzo left the forbidden grounds. He knew his path as a ninja of the Shadow Sect ninja was forever severed. But what of it? This Akuma shall carve out the rot from within the Scarlet Shadow once and for all."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Ame No Habakiri",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Damage dealt by Hanzo's Basic Attacks and skills inflicts a stacking debuff on the target, up to 5 stacks. Ninjutsu: Demon Feast can only be cast on targets with full stacks of this debuff."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Ninjutsu: Demon Feast",
+        "cooldown": 25,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "This skill can only be used on targets with max stacks of Hanzo's passive debuff.\n\nIf the target is a Common Creep, Hanzo will immediately devour them and digest over a period of time to recover 20% HP.\n\nWhen targeting enemy heroes, the skill deals burst physical damage with additional true damage scaling based on level and Physical Attack. When targeting Lord or Turtle, it deals high burst true damage suitable for objective securing.\n\nDamage values by level:\n- Base physical damage: 540 / 576 / 612 / 648 / 684 / 720 plus 120% / 128% / 136% / 144% / 152% / 160% extra Physical Attack\n- Additional true damage: 500 / 700 / 900 / 1100 / 1300 / 1500"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Forbidden Ninjutsu: Soul Snatch",
+        "cooldown": 10,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Hanekage dashes to an enemy hero, dealing physical damage to the target and its surrounding units after a brief delay.\n\nEach stack of Hanzo's passive debuff on the target increases the damage to that target by 20%. Surrounding units are not affected by this bonus.\n\nWhen the target has max stacks of the debuff, the skill deals additional damage equal to a percentage of the target's Max HP. This additional damage ignores 30% of the target's Physical Defense. Hanzo recovers 30% HP when this enhanced damage is triggered.\n\nDamage values by level:\n- Base damage: 270 / 288 / 306 / 324 / 342 / 360 plus 60% / 64% / 68% / 72% / 76% / 80% extra Physical Attack"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Ninjutsu: Dark Mist",
+        "cooldown": 10,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Hanzo dashes in the target direction, leaving a dark mist in front that deals physical damage to enemies in the area every 0.5 seconds, up to 5 times. This damage counts as skill damage but cannot critically strike.\n\nThe mist slows enemies in the area by 40% and grants Hanzo 20% Movement Speed while he is in it.\n\nDamage values by level:\n- Base damage per tick: 90 / 100 / 110 / 120 / 130 / 140\n- Additional damage scales with 45% of Hanzo's Physical Attack applied through his Basic Attack effects."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Forbidden Ninjutsu: Black Mist",
+        "cooldown": 10,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Hanekage dashes in the target direction, briefly knocking enemies in his path airborne for 0.4 seconds and leaving a black mist in the area he passes through.\n\nThe mist deals physical damage to enemies in the area every 0.5 seconds, up to 5 times. This damage counts as Basic Attack-type damage but cannot critically strike. The mist slows enemies in the area by 40%.\n\nDamage values by level:\n- Base damage per tick: 135 / 150 / 165 / 180 / 195 / 210\n- Additional damage scales with 45% of Hanzo's Physical Attack applied as an attack effect."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Kinjutsu: Pinnacle Ninja",
+        "cooldown": 24,
+        "cost": null,
+        "role": "Morph",
+        "details": {
+          "markdown": "Hanzo charges into battle as Hanekage, consuming 12.5 Energy per second.\n\nEnergy mechanics:\n- Gains 2 Energy when a non-hero unit dies nearby\n- Gains 20 Energy when a hero dies nearby\n\nAfter consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position.\n\nWhile in Hanekage form:\n- Hanzo's original body is invincible\n- Hanekage ignores obstacles\n- Gains 35% Movement Speed and 30% Attack Speed\n\nWhen Hanekage is killed, he will be immediately drawn to Hanzo's position, during which Hanzo recovers 16% HP and cannot be targeted. This effect is also triggered when this skill is cast again to end the form.\n\nIf Hanzo's body is killed while Hanekage is active, Hanzo will be slowed by 50% and his location will be revealed for 6 seconds."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Ninjutsu Flee: Return",
+        "cooldown": 1,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Hanekage returns to Hanzo's body and exits the Hanekage form created by Kinjutsu: Pinnacle Ninja."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Hanzo was borne by the infamous ninja Hanzō Hattori, nicknamed Oni no Hanzō (Demon Hanzō)."
+      },
+      {
+        "markdown": "The name is derived from the letter 半 (han) meaning \"half\" and 蔵 (zō/zou) meaning \"to hide\"."
+      },
+      {
+        "markdown": "According to Japanese mythology, Ame no Habakiri is one of the 4 Totsuka swords. Ame no Habakiri was wielded by Susanoo to slay Yamata no Orochi."
+      },
+      {
+        "markdown": "The Japanese word written on his back is Fū which translates to \"seal\"."
+      },
+      {
+        "markdown": "Some aspects of Hanzo’s armor and mask resemble the Tengu, mythical creatures that were feared and respected as powerful ninja-like beings."
+      },
+      {
+        "markdown": "Hanzo has one of the fastest jungle clears because his first skill (Ninjutsu: Demon Feast) instantly eats jungle monsters, securing buffs faster than most heroes."
+      }
+    ]
+  },
+  "markdown": "# Story\n\n> \"Genius ninja in the Shadow Sect who is at the crossroads\"\n\nA genius ninja of the Shadow Sect in the Scarlet Shadow. In order to pursue great power, he absorbed the \"Hanekage\" into his body, and used the enemy's flesh and blood to provide nourishment for the \"Hanekage\". After gaining power, he took away the most powerful supreme ninjutsu and Ame no Habakiri in the Scarlet Shadow, and went further and further on the road of killing.\n\n# Side Story\n\n## The End of Nindo\n\n> \"To protect the secrets of the Sacred Tools is your duty; value it more than your life.\"\n\nAs Hanzo awoke in the middle of the night due to pain inflicted by the Ame no Habakiri, he recalled this teaching that led him down this path of no return. Before turning his back on the Scarlet Shadow, Hanzo was the Shadow Sect's sharpest blade.\n\nAdopted by the Shadow Sect at a young age, Hanzo was lucky to escape the fate of a wandering beggar. He learned the ways of Nindo, to \"uphold justice and endure hardship\", and lived his new life by its teachings. For the Scarlet Shadow, his cherished home, he was willing to do anything.\n\nFierce and tenacious like the wolf, Hanzo always took on the most perilous missions. Even when he returned with grave injuries, he would make his report in full before seeking treatment. Failure was something not even Hanzo's greatest rivals would dare think of. They knew Hanzo would stop at nothing to achieve his objectives.\n\nOver the course of a decade, Hanzo accumulated so many merits that his peers saw him, a commoner by birth, as only second to Kurēn, the clan's next heir. Hanzo acknowledged Kurēn's unmatched wisdom. If Kurēn vowed to uphold Nindo after he took power, then Hanzo would become his sharpest blade.\n\nUntil now, Hanzo never thought his past self was wrong, but it was his near-obsessive persistence that led him to this point.\n\nSome time ago, Hanzo, while engrossed in the Nindo scriptures, suddenly realized that his peers, other orphans adopted by the clan, had routinely disappeared with little explanation. Greatly puzzled, Hanzo began to investigate on his own. During his search, he crossed more than a few elders, resulting in him being stripped of all rank in the clan. The merits he earned at the risk of his life were erased overnight. Hanzo cared little for fame, but he knew something sinister was being covered up. Eventually, he discovered that the elders had been sending ninjas on missions to the forbidden grounds to steal a Cursed Tool that was supposed to be sealed within: the demonic blade Ame no Habakiri.\n\nCountless lives had been sacrificed to the demon blade. Hanzo couldn't bear to think how many in the Scarlet Shadow who simply sought to uphold justice ended up with this fate.\n\nA momentary lapse in concentration caused Hanzo to be discovered by another ninja in the forbidden grounds―it was Kurēn.\n\nIn the dark, stone chamber, Kurēn revealed the truth of the Scarlet Shadow: The two factions within the clan had been vying for control of the Seven Sacred Tools, each trying to shift the balance of power in their favor. The elders of the Shadow Sect were sacrificing their own to the Ame no Habakiri in order to awaken its true power.\n\nKurēn had been secretly gaining influence to abolish this vile practice once he became the clan leader, and seeing Hanzo, he was eager to have a ninja of Nindo help him change the future of the clan.\n\n> \"Those that were sacrificed to Ame no Habakiri... what of their futures?\"\n\nKurēn had no answer to his question, which sent Hanzo into a rage. He had seen too many hypocrites claiming to act for the greater good, and in that moment, he realized the Scarlet Shadow was no different. His Nindo did not tolerate evil deeds, thus the Scarlet Shadow should not exist. If they craved Ame no Habakiri's power so much, he would show them its true might.\n\nAs Hanzo reached for the demon blade on the pedestal, he thought to himself, \"Come, either devour me, or let me devour everything!\"\n\nThe moment he grasped the Ame no Habakiri, its unbridled demonic power invaded his body. In a trance, he saw a whirlpool swallowing ships, or was it a leviathan devouring entire islands? Quickly he realized what he was actually seeing:\n\nIt was a vortex of souls; the ninjas who had been sacrificed, and countless more before them. Their wills had long been erased, leaving only an insatiable hunger and darkness churning within the blade; a madness that was neither human nor demon.\n\nThe demonic power invaded Hanzo's very being, but his pride refused to be consumed. Feeding on his rage and obsession, he finally tamed the Ame no Habakiri.\n\n> \"Naive pretender, you will witness my reign from within this blade.\"\n\nAnd with that, Hanzo swung the blade at his former comrade Kurēn. \"Gaining influence\"... that's merely the cowardly compromise of the weak. Without the courage to make the first cut, there would never be change.\n\nAfter devouring Kurēn, Hanzo left the forbidden grounds. He knew his path as a ninja of the Shadow Sect ninja was forever severed. But what of it? This Akuma shall carve out the rot from within the Scarlet Shadow once and for all.\n\n# Abilities\n\n## Ame No Habakiri\n\nDamage dealt by Hanzo's Basic Attacks and skills inflicts a stacking debuff on the target, up to 5 stacks. Ninjutsu: Demon Feast can only be cast on targets with full stacks of this debuff.\n\n## Ninjutsu: Demon Feast\n\nThis skill can only be used on targets with max stacks of Hanzo's passive debuff.\n\nIf the target is a Common Creep, Hanzo will immediately devour them and digest over a period of time to recover 20% HP.\n\nWhen targeting enemy heroes, the skill deals burst physical damage with additional true damage scaling based on level and Physical Attack. When targeting Lord or Turtle, it deals high burst true damage suitable for objective securing.\n\nDamage values by level:\n- Base physical damage: 540 / 576 / 612 / 648 / 684 / 720 plus 120% / 128% / 136% / 144% / 152% / 160% extra Physical Attack\n- Additional true damage: 500 / 700 / 900 / 1100 / 1300 / 1500\n\n## Forbidden Ninjutsu: Soul Snatch\n\nHanekage dashes to an enemy hero, dealing physical damage to the target and its surrounding units after a brief delay.\n\nEach stack of Hanzo's passive debuff on the target increases the damage to that target by 20%. Surrounding units are not affected by this bonus.\n\nWhen the target has max stacks of the debuff, the skill deals additional damage equal to a percentage of the target's Max HP. This additional damage ignores 30% of the target's Physical Defense. Hanzo recovers 30% HP when this enhanced damage is triggered.\n\nDamage values by level:\n- Base damage: 270 / 288 / 306 / 324 / 342 / 360 plus 60% / 64% / 68% / 72% / 76% / 80% extra Physical Attack\n\n## Ninjutsu: Dark Mist\n\nHanzo dashes in the target direction, leaving a dark mist in front that deals physical damage to enemies in the area every 0.5 seconds, up to 5 times. This damage counts as skill damage but cannot critically strike.\n\nThe mist slows enemies in the area by 40% and grants Hanzo 20% Movement Speed while he is in it.\n\nDamage values by level:\n- Base damage per tick: 90 / 100 / 110 / 120 / 130 / 140\n- Additional damage scales with 45% of Hanzo's Physical Attack applied through his Basic Attack effects.\n\n## Forbidden Ninjutsu: Black Mist\n\nHanekage dashes in the target direction, briefly knocking enemies in his path airborne for 0.4 seconds and leaving a black mist in the area he passes through.\n\nThe mist deals physical damage to enemies in the area every 0.5 seconds, up to 5 times. This damage counts as Basic Attack-type damage but cannot critically strike. The mist slows enemies in the area by 40%.\n\nDamage values by level:\n- Base damage per tick: 135 / 150 / 165 / 180 / 195 / 210\n- Additional damage scales with 45% of Hanzo's Physical Attack applied as an attack effect.\n\n## Kinjutsu: Pinnacle Ninja\n\nHanzo charges into battle as Hanekage, consuming 12.5 Energy per second.\n\nEnergy mechanics:\n- Gains 2 Energy when a non-hero unit dies nearby\n- Gains 20 Energy when a hero dies nearby\n\nAfter consuming all his Energy, Hanzo's body will be slowly drawn to Hanekage's current position.\n\nWhile in Hanekage form:\n- Hanzo's original body is invincible\n- Hanekage ignores obstacles\n- Gains 35% Movement Speed and 30% Attack Speed\n\nWhen Hanekage is killed, he will be immediately drawn to Hanzo's position, during which Hanzo recovers 16% HP and cannot be targeted. This effect is also triggered when this skill is cast again to end the form.\n\nIf Hanzo's body is killed while Hanekage is active, Hanzo will be slowed by 50% and his location will be revealed for 6 seconds.\n\n## Ninjutsu Flee: Return\n\nHanekage returns to Hanzo's body and exits the Hanekage form created by Kinjutsu: Pinnacle Ninja.\n\n# Trivia\n\n- The name Hanzo was borne by the infamous ninja Hanzō Hattori, nicknamed Oni no Hanzō (Demon Hanzō).\n- The name is derived from the letter 半 (han) meaning \"half\" and 蔵 (zō/zou) meaning \"to hide\".\n- According to Japanese mythology, Ame no Habakiri is one of the 4 Totsuka swords. Ame no Habakiri was wielded by Susanoo to slay Yamata no Orochi.\n- The Japanese word written on his back is Fū which translates to \"seal\".\n- Some aspects of Hanzo’s armor and mask resemble the Tengu, mythical creatures that were feared and respected as powerful ninja-like beings.\n- Hanzo has one of the fastest jungle clears because his first skill (Ninjutsu: Demon Feast) instantly eats jungle monsters, securing buffs faster than most heroes.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "fall_from_grace",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": null,
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Scarlet Shadow",
+          "relationship": "home"
+        },
+        {
+          "location": "Shadow Sect",
+          "relationship": "home"
+        },
+        {
+          "location": "forbidden grounds",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "dark",
+      "tragic",
+      "vengeful"
+    ],
+    "themes": [
+      "corruption",
+      "justice",
+      "power"
+    ],
+    "hook": "Feeding on his rage and obsession, Hanzo seizes the demon blade meant to consume him and vows to carve the rot out of the clan that raised him.",
+    "teaser": "Once the Scarlet Shadow’s sharpest blade, Hanzo uncovers a horrific secret and binds with a demon sword, turning his Nindo into a path of bloody vengeance.",
+    "openingLine": "\"To protect the secrets of the Sacred Tools is your duty; value it more than your life.\"",
+    "dominantColor": "#5A0F0F",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "The End of Nindo"
+    ],
+    "plotKeywords": [
+      "cursed weapon",
+      "clan corruption",
+      "sacrifice",
+      "betrayal by elders",
+      "forbidden grounds",
+      "demon blade pact",
+      "assassination of heir"
+    ],
+    "characterTraits": [
+      "tenacious",
+      "obsessive",
+      "ruthless",
+      "principled",
+      "vengeful"
+    ],
+    "locations": [
+      "Scarlet Shadow",
+      "Shadow Sect",
+      "forbidden grounds"
+    ],
+    "wordCount": 1628,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647263247,
+    "updatedAt": 1764647263247
+  },
+  "lastUpdated": null
+}

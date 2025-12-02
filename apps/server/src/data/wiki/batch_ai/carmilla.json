@@ -1,0 +1,259 @@
+{
+  "hero": "carmilla",
+  "urlName": "carmilla",
+  "sections": {
+    "profile": {
+      "markdown": "- Species: Human-turned-Blood Demon\n- Gender: Female\n- Affiliation: House Ansaac\n- Abilities: summons crimson flowers, Bloodbath, Curse of Blood\n- Traits: Sweet, deeply in love\n- Relationships: Cecilion (lover), Earl Ansaac (father), Baron Tawil (fiancé), Gusion (savior), Alice (enemy)\n- Japanese VA: Takada Sakie (高田 紗希衣)\n- Indonesian VA: Lis Kurniasih"
+    },
+    "story": {
+      "markdown": "\"Girl who became a Blood Demon for love\"\n\nAs a human, Carmilla fell in love with Cecilion, who was a Blood Demon, but cruel reality separated them, Carmilla had already guessed the identity of Cecilion. Even so, she wanted to be with Cecilion, so she chose to commit suicide. When she woke up, she found that she had become a Blood Demon, lying in the arms of her lover. From then on, the two of them stayed from the world together forever."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Castle Aberleen Heiress",
+          "content": {
+            "markdown": "Many years ago, Carmilla was born in the House Ansaac in the Castle Aberleen. As the only daughter of the Earl, she was loved by all her family since birth. When she grew up, her eminent family background coupled with her captivating beauty made her one of the most popular noble ladies around the Castle Aberleen, and maybe even the whole Empire. However, her royal origin was inevitably bound to the tragedy as was to become a political tool of her father Earl Anssac, consolidating power by betrothing her to another family of power."
+          }
+        },
+        {
+          "title": "The Singer and His Loyal Audience",
+          "content": {
+            "markdown": "Though countless aristocrats tried to court Carmilla, none of them pleased her. Her innate pride made her refuse to bow down to mediocrity. What she wanted was someone who could connect with her soul. But, her father Earl Ansaac had already made his decision. As the threat of the abyss was getting closer, he knew that the new class of military-nobles would dominate the politics of the land. Thus, he had to establish good relations with them in order to sustain the social status of his family.\n\nHowever, a man who was a rather insignificant to the old Earl foiled this plan. This man was Cecilion, the best opera singer in the southern Empire. Carmilla became his most loyal audience since the first day he came to the Castle Aberleen. In Carmilla’s eyes, he was just so elegant and talented, but she could also read the melancholy and the mystery from his eyes. For every performance of Cecilion, Carmilla would sit in the right middle in the auditorium, quietly enjoying his song performance."
+          }
+        },
+        {
+          "title": "Love at First Gaze",
+          "content": {
+            "markdown": "One day, as the curtains called, Cecilion and Carmilla's eyes met. The flames of passion ignited between them. And like a bolt of lightning cracking open the dark night sky, they instantly fell in love."
+          }
+        },
+        {
+          "title": "Moonlit Courtship",
+          "content": {
+            "markdown": "The days that followed were the happiest ones in Carmilla's life. When night fell, Cecilion dressed up and came to invite her to the opera house, singing songs he composed for her. And Carmilla watched his performance intently, never taking her eyes off him. When the performance ended, they dated at the backstage, dancing in the moonlight. And in the early morning, Cecilion would put a rose on Carmilla's windowsill that was nourished by the morning dew and leave quietly."
+          }
+        },
+        {
+          "title": "Suspicions of a Blood Demon",
+          "content": {
+            "markdown": "As time went by, Carmilla noticed something unusual about Cecilion. He lived in solitude and never had needless contact with others. His skin was always pale, even when he didn’t makeup; and it seemed that he always tried to avoid something. From his eyes, Carmilla could feel his desire for a normal life, and she could vaguely see that Cecilion might have some connection to the legendary blood demon species. Though Cecilion never talked about his origins with her, she still chose to believe in him, because she could feel his love was real. No matter he was man or blood demon, it was just about love between them, and Carmilla believed that she would always belong to Cecilion, and would spend the rest of her life with him."
+          }
+        },
+        {
+          "title": "Forbidden Marriage",
+          "content": {
+            "markdown": "Though they loved each other so deeply, Carmilla’s father the Earl forbade her to marry this humble singer. He imprisoned her and forced her to marry Baron Tawil, the general of the imperial army, who was stationed near the Castle Aberleen. In order to make Carmilla forget Cecilion, the Earl even sent his men to close the opera house. In Cecilion’s mind, he knew that the love between the blood demon and mankind would never be true. Though he loved Carmilla, he finally decided to give up. At the day he left, he wrote a letter to her, in which he told her everything, about his origins, his story, and left it with a rose at her windowsill."
+          }
+        },
+        {
+          "title": "A Broken Heart",
+          "content": {
+            "markdown": "Carmilla didn’t stop fighting, she was not willing to succumb to her father's will. But her heart broke when she read his parting letter. To Carmilla, it didn't matter what species he belonged to. She loved him, and without him, her life would become meaningless."
+          }
+        },
+        {
+          "title": "Blood at Dawn",
+          "content": {
+            "markdown": "She stood at the window, watching the direction Cecilion left to. As the dawn was raising, she slit her wrist with a sharp dagger. The world fell into endless darkness. And Carmilla buried her love in her own way."
+          }
+        },
+        {
+          "title": "Rebirth in Blood",
+          "content": {
+            "markdown": "When Carmilla awoke, she found herself once again in Cecilion’s arms. His eyes were full of kindness, and he was looking at her. Then she found that her touch was so cold, as if she was lifeless, and her skin looked just as pale as Cecilion's. She knew, her lover didn’t abandon her, he returned and revived her with his blood. These two lonely souls finally were together again and could live with each other forever."
+          }
+        },
+        {
+          "title": "Legends of the Night",
+          "content": {
+            "markdown": "After that day, the people of Castle Aberleen never saw Cecilion or Carmilla again, only the legendary tales of the night, which passed from mouth to mouth over time. When night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time stood still."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Vampire Pact",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Each time Carmilla deals damage to an enemy hero, she steals 7–11 Physical Defense and Magic Defense, scaling with level, from them. The stolen Physical and Magic Defense can stack up to 5 times and lasts 5 seconds. However, Carmilla can only steal defense from the same enemy hero once every 5 seconds.\n\nStolen Physical & Magic Defense by hero level (per stack):\n- 7.00 / 7.29 / 7.57 / 7.86 / 8.14 / 8.43 / 8.71 / 9.00 / 9.29 / 9.57 / 9.86 / 10.14 / 10.43 / 10.71 / 11.00\n\nTotal stolen Physical & Magic Defense at different levels:\n- Level 1: 7 / 14 / 21 / 28 / 35\n- Level 8: 9 / 18 / 27 / 36 / 45\n- Level 15: 11 / 22 / 33 / 44 / 55\n\nNotes:\n- Only Carmilla's basic attacks and skills can trigger Vampire Pact.\n- Enemies can purify themselves to remove the invisible debuff from this skill."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Crimson Flower",
+        "cooldown": 9,
+        "cost": 50,
+        "role": "Damage",
+        "details": {
+          "markdown": "Carmilla summons two Crimson Flowers that circle around her for 5 seconds, dealing magic damage each time they hit an enemy and slowing them by 10% for 0.8 seconds. The slow effect stacks up to 50%. The circling speed of the Crimson Flowers also increases with each hit. Carmilla recovers HP each time a Crimson Flower deals damage, only recovering 30% of that amount when hitting Minions.\n\nDamage and healing:\n- Base Damage: 100 / 120 / 140 / 160 / 180 / 200\n- HP Regen: 75 / 90 / 105 / 120 / 135 / 150\n- Slow Effect per stack: 10% / 20% / 30% / 40% / 50%\n- Spell Vamp Ratio: 50%\n\nMana Cost: 50 / 58 / 66 / 74 / 82 / 90"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Bloodbath",
+        "cooldown": 12,
+        "cost": 85,
+        "role": "Control",
+        "details": {
+          "markdown": "Carmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5 seconds. Carmilla then unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing magic damage and stunning them for 0.6 seconds. The damage and stun duration scale with the accumulation time, up to 100% bonus.\n\nDamage and scaling:\n- Base Damage: 150 / 180 / 210 / 240 / 270 / 300\n- Damage and stun duration increase with the time spent charging Bloodbath Energy, up to a maximum charge at 2.5 seconds.\n\nNotes:\n- Cooldown only starts when the skill is cast or when the Bloodbath Energy expires.\n- Bloodbath Energy can fully charge for 2.5 seconds and can overcharge for another 2 seconds.\n\nRelated formulas from the original description indicate scaling base damage, magic bonus, and stun duration with the skill's charge duration, within a range from 0 to 2.5 seconds of charge."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Curse of Blood",
+        "cooldown": 60,
+        "cost": 150,
+        "role": "Control",
+        "details": {
+          "markdown": "Carmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8 seconds, enemies still within the area will take magic damage, be immobilized for 1 second, slowed by 30%, and linked for 5 seconds. When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link.\n\nDamage and scaling:\n- Base Damage: 275 / 400 / 525\n- Spell Vamp Ratio: 50%\n\nCooldown: 60.0 / 52.0 / 44.0\nMana Cost: 150 / 175 / 200"
+        }
+      },
+      {
+        "slot": "Morph",
+        "name": "Vermeil Shadow",
+        "cooldown": 0,
+        "cost": 0,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Vermeil Shadow summons Carmilla to become a Vermil [sic] Shadow as she wraps herself around him, granting him a shield. Carmilla leaves Cecilion and charges at the target location, gaining an equal shield while dealing magic damage to enemies hit and slowing them by 30% for 1 second. The cooldowns of her other active skills will also reset.\n\nScaling:\n- Base Shield: 520 / 540 / 560 / 580 / 600 / 620 / 640 / 660 / 680 / 700 / 720 / 740 / 760 / 780 / 800\n- Magic Damage: 520 / 540 / 560 / 580 / 600 / 620 / 640 / 660 / 680 / 700 / 720 / 740 / 760 / 780 / 800\n\nNotes:\n- This skill can only be used within 5 seconds, and then Carmilla will be immediately detached to Cecilion's body if it expires.\n- During the Vermeil Shadow state, her active skills are replaced with the Vermeil Shadow skill.\n- Carmilla will be in an untargetable state after becoming a Vermeil Shadow. Cecilion's death or casting this skill again will end the state.\n- Cecilion will be unable to use this cooperative skill if an allied Carmilla bought an item that prevents its activation in the Shop."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "She might be based on Carmilla, an 1872 gothic novella written by Sheridan Le Fanu and also one of the earliest works of vampire fiction."
+      },
+      {
+        "markdown": "Her Ultimate Skill \"Curse of Blood\" is the first skill to link enemies spreading damage and crowd control effects."
+      },
+      {
+        "markdown": "Her quote \"Whoever wrote my script is a long-winded bastard.\" is the first canon quote that features profanity."
+      },
+      {
+        "markdown": "Her epic skin \"Astral Arcana\" is her only skin that has no counterpart with."
+      },
+      {
+        "markdown": "In early development, Carmilla was planned as a mage, similar to Alice, with abilities that focused on damage and life drain."
+      },
+      {
+        "markdown": "Carmilla’s final design resembles a vampire noble, but earlier concept art had her looking more like a ghostly spirit."
+      },
+      {
+        "markdown": "Her voiceline \"Do not go gentle into that good night\" is a reference to the poem of the same title by Welsh poet Dylan Thomas."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Species: Human-turned-Blood Demon\n- Gender: Female\n- Affiliation: House Ansaac\n- Abilities: summons crimson flowers, Bloodbath, Curse of Blood\n- Traits: Sweet, deeply in love\n- Relationships: Cecilion (lover), Earl Ansaac (father), Baron Tawil (fiancé), Gusion (savior), Alice (enemy)\n- Japanese VA: Takada Sakie (高田 紗希衣)\n- Indonesian VA: Lis Kurniasih\n\n# Story\n\n\"Girl who became a Blood Demon for love\"\n\nAs a human, Carmilla fell in love with Cecilion, who was a Blood Demon, but cruel reality separated them, Carmilla had already guessed the identity of Cecilion. Even so, she wanted to be with Cecilion, so she chose to commit suicide. When she woke up, she found that she had become a Blood Demon, lying in the arms of her lover. From then on, the two of them stayed from the world together forever.\n\n# Side Story\n\n## Castle Aberleen Heiress\n\nMany years ago, Carmilla was born in the House Ansaac in the Castle Aberleen. As the only daughter of the Earl, she was loved by all her family since birth. When she grew up, her eminent family background coupled with her captivating beauty made her one of the most popular noble ladies around the Castle Aberleen, and maybe even the whole Empire. However, her royal origin was inevitably bound to the tragedy as was to become a political tool of her father Earl Anssac, consolidating power by betrothing her to another family of power.\n\n## The Singer and His Loyal Audience\n\nThough countless aristocrats tried to court Carmilla, none of them pleased her. Her innate pride made her refuse to bow down to mediocrity. What she wanted was someone who could connect with her soul. But, her father Earl Ansaac had already made his decision. As the threat of the abyss was getting closer, he knew that the new class of military-nobles would dominate the politics of the land. Thus, he had to establish good relations with them in order to sustain the social status of his family.\n\nHowever, a man who was a rather insignificant to the old Earl foiled this plan. This man was Cecilion, the best opera singer in the southern Empire. Carmilla became his most loyal audience since the first day he came to the Castle Aberleen. In Carmilla’s eyes, he was just so elegant and talented, but she could also read the melancholy and the mystery from his eyes. For every performance of Cecilion, Carmilla would sit in the right middle in the auditorium, quietly enjoying his song performance.\n\n## Love at First Gaze\n\nOne day, as the curtains called, Cecilion and Carmilla's eyes met. The flames of passion ignited between them. And like a bolt of lightning cracking open the dark night sky, they instantly fell in love.\n\n## Moonlit Courtship\n\nThe days that followed were the happiest ones in Carmilla's life. When night fell, Cecilion dressed up and came to invite her to the opera house, singing songs he composed for her. And Carmilla watched his performance intently, never taking her eyes off him. When the performance ended, they dated at the backstage, dancing in the moonlight. And in the early morning, Cecilion would put a rose on Carmilla's windowsill that was nourished by the morning dew and leave quietly.\n\n## Suspicions of a Blood Demon\n\nAs time went by, Carmilla noticed something unusual about Cecilion. He lived in solitude and never had needless contact with others. His skin was always pale, even when he didn’t makeup; and it seemed that he always tried to avoid something. From his eyes, Carmilla could feel his desire for a normal life, and she could vaguely see that Cecilion might have some connection to the legendary blood demon species. Though Cecilion never talked about his origins with her, she still chose to believe in him, because she could feel his love was real. No matter he was man or blood demon, it was just about love between them, and Carmilla believed that she would always belong to Cecilion, and would spend the rest of her life with him.\n\n## Forbidden Marriage\n\nThough they loved each other so deeply, Carmilla’s father the Earl forbade her to marry this humble singer. He imprisoned her and forced her to marry Baron Tawil, the general of the imperial army, who was stationed near the Castle Aberleen. In order to make Carmilla forget Cecilion, the Earl even sent his men to close the opera house. In Cecilion’s mind, he knew that the love between the blood demon and mankind would never be true. Though he loved Carmilla, he finally decided to give up. At the day he left, he wrote a letter to her, in which he told her everything, about his origins, his story, and left it with a rose at her windowsill.\n\n## A Broken Heart\n\nCarmilla didn’t stop fighting, she was not willing to succumb to her father's will. But her heart broke when she read his parting letter. To Carmilla, it didn't matter what species he belonged to. She loved him, and without him, her life would become meaningless.\n\n## Blood at Dawn\n\nShe stood at the window, watching the direction Cecilion left to. As the dawn was raising, she slit her wrist with a sharp dagger. The world fell into endless darkness. And Carmilla buried her love in her own way.\n\n## Rebirth in Blood\n\nWhen Carmilla awoke, she found herself once again in Cecilion’s arms. His eyes were full of kindness, and he was looking at her. Then she found that her touch was so cold, as if she was lifeless, and her skin looked just as pale as Cecilion's. She knew, her lover didn’t abandon her, he returned and revived her with his blood. These two lonely souls finally were together again and could live with each other forever.\n\n## Legends of the Night\n\nAfter that day, the people of Castle Aberleen never saw Cecilion or Carmilla again, only the legendary tales of the night, which passed from mouth to mouth over time. When night came, Carmilla nestled in Cecilion's arms above the top tower of Castle Aberleen, as if time stood still.\n\n# Abilities\n\n## Vampire Pact\n\nEach time Carmilla deals damage to an enemy hero, she steals 7–11 Physical Defense and Magic Defense, scaling with level, from them. The stolen Physical and Magic Defense can stack up to 5 times and lasts 5 seconds. However, Carmilla can only steal defense from the same enemy hero once every 5 seconds.\n\nStolen Physical & Magic Defense by hero level (per stack):\n- 7.00 / 7.29 / 7.57 / 7.86 / 8.14 / 8.43 / 8.71 / 9.00 / 9.29 / 9.57 / 9.86 / 10.14 / 10.43 / 10.71 / 11.00\n\nTotal stolen Physical & Magic Defense at different levels:\n- Level 1: 7 / 14 / 21 / 28 / 35\n- Level 8: 9 / 18 / 27 / 36 / 45\n- Level 15: 11 / 22 / 33 / 44 / 55\n\nNotes:\n- Only Carmilla's basic attacks and skills can trigger Vampire Pact.\n- Enemies can purify themselves to remove the invisible debuff from this skill.\n\n## Crimson Flower\n\nCarmilla summons two Crimson Flowers that circle around her for 5 seconds, dealing magic damage each time they hit an enemy and slowing them by 10% for 0.8 seconds. The slow effect stacks up to 50%. The circling speed of the Crimson Flowers also increases with each hit. Carmilla recovers HP each time a Crimson Flower deals damage, only recovering 30% of that amount when hitting Minions.\n\nDamage and healing:\n- Base Damage: 100 / 120 / 140 / 160 / 180 / 200\n- HP Regen: 75 / 90 / 105 / 120 / 135 / 150\n- Slow Effect per stack: 10% / 20% / 30% / 40% / 50%\n- Spell Vamp Ratio: 50%\n\nMana Cost: 50 / 58 / 66 / 74 / 82 / 90\n\n## Bloodbath\n\nCarmilla accumulates Bloodbath Energy, gaining 70% Movement Speed that decays over 4.5 seconds. Carmilla then unleashes the accumulated Bloodbath Energy on the target enemy hero or Creep, dealing magic damage and stunning them for 0.6 seconds. The damage and stun duration scale with the accumulation time, up to 100% bonus.\n\nDamage and scaling:\n- Base Damage: 150 / 180 / 210 / 240 / 270 / 300\n- Damage and stun duration increase with the time spent charging Bloodbath Energy, up to a maximum charge at 2.5 seconds.\n\nNotes:\n- Cooldown only starts when the skill is cast or when the Bloodbath Energy expires.\n- Bloodbath Energy can fully charge for 2.5 seconds and can overcharge for another 2 seconds.\n\nRelated formulas from the original description indicate scaling base damage, magic bonus, and stun duration with the skill's charge duration, within a range from 0 to 2.5 seconds of charge.\n\n## Curse of Blood\n\nCarmilla casts Curse of Blood on the target location, slowing enemies hit by 50%. After 0.8 seconds, enemies still within the area will take magic damage, be immobilized for 1 second, slowed by 30%, and linked for 5 seconds. When a linked enemy takes damage or becomes controlled, all the other linked targets take 50% of the damage and become controlled for 100% of the duration. Enemies can move away from one another to break the link.\n\nDamage and scaling:\n- Base Damage: 275 / 400 / 525\n- Spell Vamp Ratio: 50%\n\nCooldown: 60.0 / 52.0 / 44.0\nMana Cost: 150 / 175 / 200\n\n## Vermeil Shadow\n\nVermeil Shadow summons Carmilla to become a Vermil [sic] Shadow as she wraps herself around him, granting him a shield. Carmilla leaves Cecilion and charges at the target location, gaining an equal shield while dealing magic damage to enemies hit and slowing them by 30% for 1 second. The cooldowns of her other active skills will also reset.\n\nScaling:\n- Base Shield: 520 / 540 / 560 / 580 / 600 / 620 / 640 / 660 / 680 / 700 / 720 / 740 / 760 / 780 / 800\n- Magic Damage: 520 / 540 / 560 / 580 / 600 / 620 / 640 / 660 / 680 / 700 / 720 / 740 / 760 / 780 / 800\n\nNotes:\n- This skill can only be used within 5 seconds, and then Carmilla will be immediately detached to Cecilion's body if it expires.\n- During the Vermeil Shadow state, her active skills are replaced with the Vermeil Shadow skill.\n- Carmilla will be in an untargetable state after becoming a Vermeil Shadow. Cecilion's death or casting this skill again will end the state.\n- Cecilion will be unable to use this cooperative skill if an allied Carmilla bought an item that prevents its activation in the Shop.\n\n# Trivia\n\n- She might be based on Carmilla, an 1872 gothic novella written by Sheridan Le Fanu and also one of the earliest works of vampire fiction.\n- Her Ultimate Skill \"Curse of Blood\" is the first skill to link enemies spreading damage and crowd control effects.\n- Her quote \"Whoever wrote my script is a long-winded bastard.\" is the first canon quote that features profanity.\n- Her epic skin \"Astral Arcana\" is her only skin that has no counterpart with.\n- In early development, Carmilla was planned as a mage, similar to Alice, with abilities that focused on damage and life drain.\n- Carmilla’s final design resembles a vampire noble, but earlier concept art had her looking more like a ghostly spirit.\n- Her voiceline \"Do not go gentle into that good night\" is a reference to the poem of the same title by Welsh poet Dylan Thomas.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "tragic",
+    "relationships": {
+      "relatedHeroes": [
+        "cecilion",
+        "gusion",
+        "alice"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "cecilion",
+        "gusion"
+      ],
+      "rivals": [
+        "alice"
+      ],
+      "family": [
+        "earl_ansaac",
+        "baron_tawil"
+      ],
+      "mentors": [],
+      "factionRole": "Noble Lady",
+      "locationTies": [
+        {
+          "location": "House Ansaac",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Castle Aberleen",
+          "relationship": "home"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "tragic",
+      "romantic"
+    ],
+    "themes": [
+      "love",
+      "sacrifice",
+      "destiny"
+    ],
+    "hook": "She slit her wrist at dawn, choosing death over a life without Cecilion—only to awaken cold and pale in his arms, reborn as the very Blood Demon she once feared.",
+    "teaser": "Born a noble heiress, Carmilla defies her family, dies for forbidden love, and rises as a Blood Demon bound eternally to the opera singer who once sang only for her.",
+    "openingLine": "Many years ago, Carmilla was born in the House Ansaac in the Castle Aberleen.",
+    "dominantColor": "#8B0000",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 10,
+    "chapterTitles": [
+      "Castle Aberleen Heiress",
+      "The Singer and His Loyal Audience",
+      "Love at First Gaze",
+      "Moonlit Courtship",
+      "Suspicions of a Blood Demon",
+      "Forbidden Marriage",
+      "A Broken Heart",
+      "Blood at Dawn",
+      "Rebirth in Blood",
+      "Legends of the Night"
+    ],
+    "plotKeywords": [
+      "forbidden love",
+      "political marriage",
+      "suicide",
+      "rebirth",
+      "blood demon transformation",
+      "opera house romance",
+      "family pressure",
+      "elopement myth"
+    ],
+    "characterTraits": [
+      "romantic",
+      "proud",
+      "devoted",
+      "rebellious",
+      "melancholic"
+    ],
+    "locations": [
+      "House Ansaac",
+      "Castle Aberleen",
+      "Moniyan Empire"
+    ],
+    "wordCount": 1873,
+    "readingTimeMinutes": 13,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647017742,
+    "updatedAt": 1764647017742
+  },
+  "lastUpdated": null
+}

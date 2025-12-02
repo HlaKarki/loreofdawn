@@ -1,0 +1,215 @@
+{
+  "hero": "lukas",
+  "urlName": "lukas",
+  "sections": {
+    "profile": {
+      "markdown": "Lukas is the face of *MLBB* Season 35: Peerless Light.\n\n- Name: Lukas\n- Chinese Name: 卢卡斯 (lúkǎsī)\n- Alias: Beast of Light\n- Origin: Lumina City, Moniyan Empire\n- Age: More than 1000\n- Species: Sacred Beast\n- Gender: Male\n- Weapons: Tonfa Hammers\n- Abilities: Transform into Sacred Beast\n- English Voice Actor: Kieran Regan\n- Japanese Voice Actor: Bonkobara Kō (盆子原康)"
+    },
+    "story": {
+      "markdown": "> \"A legendary Sacred Beast that can take the form of a rambunctious young man\"\n\nLukas is a recently revived from inside the Imperial Sanctuary. Endowed with a special bloodline that allows him to take human form, he was once befriended by Emperor Gaius and fought alongside him to create the glorious Moniyan Empire. After a millennium-long slumber, he was awakened by Silvanna and vowed to herald a new era for the Empire at her side.\n\nBeneath his brazen and rambunctious appearance lies a pure and earnest heart. For Lukas, fighting is not only his duty but the instinctive expression of his spirit. He firmly believes he will create something as brilliant as the dawning sun to illuminate every corner of the Moniyan Empire and rewrite the legend of the Beast of Light."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "The Dawning Sun",
+          "content": {
+            "markdown": "In the heart of the Imperial Sanctuary is a statue that has stood there for a thousand years, symbolizing the past glories of the Moniyan Empire. But it has long been neglected and nearly unrecognizable these days.\n\nBelow the statue lies a stone tablet chronicling the empire's history. As a historian brushes away the dust, a millennium-old legend is revealed:\n\n> \"After the Endless War, an ancient beast with a unique bloodline yearned to prove itself against the world. At the same time, a spirited young man vowed to establish a glorious nation where all the war-torn people could call home.\"\n\nThe beast and the young man were destined to meet, and so they did—in a titanic clash that would last three days and three nights. In the end, although no victor could be decided, their never-bending spirit melted away the divide.\n\n> \"Together, we will create something glorious!\"\n\nThe man laid down his lance and extended his hand to the beast. It was his hope to fight alongside the beast and leave their mark on the world together. The beast never imagined a human would be brazen enough to offer friendship, but as the young man reached out his hand, the beast felt a strange feeling as his three tails began to wag.\n\nAnd so, the two embarked on their long journey, traversing the bone-chilling Frozen Sea, the sand-swept Agelta Drylands, and the tranquil Moonlit Forest... fighting for unification amidst the chaos. They faced countless adversaries and obstacles, but their trials of battle had forged an unbreakable bond between them. Together, they were invincible.\n\nEventually, the young man and the beast founded the Moniyan Empire. This new nation became the new sun in the Land of Dawn; a beacon of everlasting glory that drew in war-weary people from the four corners of the world. The young man was now revered as Emperor Gaius, and his most trusted companion became a Sacred Beast. He would be known as Lukas, the Beast of Light, in the hearts of all Moniyans.\n\nAt the empire's first knighting ceremony, Gaius infused the light from his bloodline into Lukas's horns, causing them to shine a brilliant gold. From then on, wherever Lukas went, the sun's radiance followed.\n\nBut after Gaius's passing, the empire fell into disarray, the faith of the citizens wavered, and the Beast of Light lost his spirit...\n\n> \"What?! What do you mean 'lost his spirit'?!\"\n\nA young man suddenly appeared next to the historian, carelessly waving his signature weapons around—two hammer tonfas. \"Why was the Beast of Light here in his human form,\" the historian wondered. As the subject of this story, Lukas had a vested interest in the tablet's inscription.\n\n> \"To tell the glorious history of the Beast of Light, we need a personal touch...\"\n\nLukas took the pen from the historian, only to realize that he had never learned how to write.\n\n> \"... On second thought, this is your job. Just write down what I say!\"\n\nLukas casually sat on the stone tablet as the historian diligently recorded his words:\n\n> \"Even the mightiest mortals cannot escape the inevitable. After Gaius passed away, the Beast of Light fell into deep sorrow for a very long time... but he never forgot his promise. He sealed himself and Gaius's holy lance in the Imperial Sanctuary, hoping that one day, a descendant of Gaius would awaken him to fight for the empire's glory once more. So Lukas waited and waited, and just like that, a thousand years had passed...\"\n\nThen one day, a young princess broke into the Sanctuary. As one of Gaius's lineage, Silvanna was able to draw the holy lance. But the truly surprising part was, without fear or hesitation, she invited the intimidating Beast of Light to join her to push back the invading Abyss legions. But Lukas could never acknowledge a human so easily!\n\nAnother titanic battle ensued, just like a thousand years ago. Silvanna faced the beast's powerful attacks and did not fall back a single step. She carried the glory of Lumina City on her shoulders and vowed to protect it and every citizen under her care.\n\nThe Beast of Light gazed into Silvanna's blue eyes, full of hope and determination, and was reminded of the young Gaius. At that moment, the flame inside him that had gone cold for a thousand years ignited once more. He ceased his attack and chose to stand by the princess's side! And so, they returned to Lumina City together.\n\nAs the Sacred Beast of a new era, Lukas went about busily catching up with everything he had missed. To raise funds for people who had lost everything to war, he set up a ring on the streets and took on all challengers; to dispel the empire's ghosts of the past, he courageously braved a haunted house; to protect bullied children, he personally led an uprising in their make-believe war. Oh, and did I mention he won the eating competition 3 years in a row? Truly his proudest accomplishment.\n\nAlthough the citizens of Lumina City found these feats too childish and unfit for the prestige of a Sacred Beast, Lukas didn't care! He would do things his way and give it his all, whether it was playing with the children or defending the empire alongside Silvanna. His roar would echo through the skies of Lumina City like a thousand years ago—\n\nTogether, we will create something glorious!\"\n\nThe court historian's pen finally snapped as he could barely keep up with the story. He let out a long sigh, only to be interrupted by a tug on his collar.\n\n> \"Hey, in the part about Silvanna, throw in some adjectives like beautiful and inspiring. I don't want to get grounded again...\"\n\n> \"Oh... and get me something to clean this thing with.\"\n\nThe statue, which had stood there for a thousand years, was finally able to reveal its original appearance—\n\nIn front of the emblem of the sun and sword was a golden-horned beast with its head held high, watching ever so vigilantly over Lumina City."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Hero's Resolve",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Lukas gains 1 Resolve per second and an additional 2 Resolve when dealing damage to heroes. Lukas consumes 10 Resolve per second while in Sacred Beast form.\n\nAdditional details:\n\n- Lukas also gains Hero's Resolve when attacking an untargetable enemy.\n- He gains Hero's Resolve when attacking certain enemy-created entities and clones such as Vexana's Eternal Guard, Zhask's Nightmaric Spawn, Sun's clones, Kupa, Hanzo's Kinjutsu Pinnacle Ninja, and similar summons.\n\nHero's Resolve is used to maintain and empower his Sacred Beast form."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Flash Combo (Human Form)",
+        "cooldown": 5.5,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lukas can enhance his Basic Attacks with Flash Combo up to 2 times, lasting 4 seconds.\n\nLukas consumes all Vigor to unleash Pulverize, dealing base damage plus scaling damage based on his Physical Attack, plus additional attacks depending on the Vigor consumed. When Pulverize hits an enemy hero, Lukas recovers HP equal to 8% of his Max HP.\n\nEffects based on Vigor stacks consumed:\n\n- 1 Stack: Lukas briefly stuns the target and spins his tonfa hammers to deal damage 3 times, pulling the enemy toward him.\n- 2 Stacks: Lukas briefly stuns the target and follows up with 2 attacks that deal damage per hit. He will then spin his tonfa hammers to deal damage 3 times. This spinning sequence cannot be interrupted.\n\nAdditional properties:\n\n- Spell Vamp Ratio: 50%\n- Level scaling:\n  - Base Damage: 100 / 120 / 140 / 160 / 180 / 200\n  - Combo Damage: 50 / 60 / 70 / 80 / 90 / 100\n  - Spin Damage: 100 / 120 / 140 / 160 / 180 / 200"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Flash Combo (Sacred Beast Form)",
+        "cooldown": 5.5,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lukas can enhance his Basic Attacks with Flash Combo up to 2 times, lasting 4 seconds.\n\nLukas consumes all Vigor to unleash a tail swing, dealing base damage plus scaling damage based on his Physical Attack, plus additional attacks depending on the Vigor consumed. When the tail swing hits an enemy hero, he also recovers 8% of his Max HP.\n\nEffects based on Vigor stacks consumed:\n\n- 1 Stack: Lukas briefly stuns the target and pounces to deal damage 3 times, knocking the enemy back.\n- 2 Stacks: Lukas briefly stuns the target and leaps to deal damage 2 times, then summons sacred lightning, dealing damage 3 times. This lightning sequence cannot be interrupted.\n\nLevel scaling:\n\n- Base Damage: 2\n- Base Shield: 4\n- Enhanced Damage: 300 / 360 / 420 / 480 / 540 / 600"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Flash Step (Human Form)",
+        "cooldown": 12,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Lukas dashes in the target direction and turns his next Basic Attack within 4 seconds into a Flash Strike.\n\nWhen he uses this enhanced Basic Attack, Lukas blinks behind the enemy, dealing base damage plus scaling damage based on his Physical Attack. He then increases his Attack Range, gains 20% Movement Speed and 20% Attack Speed, and summons lightning storms with his Basic Attacks to deal extra damage, lasting for 4 seconds.\n\nLevel scaling:\n\n- Base Damage: 60 / 72 / 84 / 96 / 108 / 120\n- Additional scaling damage increases with Physical Attack."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Flash Step (Sacred Beast Form)",
+        "cooldown": 12,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Lukas dashes in the target direction and turns his next Basic Attack within 4 seconds into Lightning Clash.\n\nWhen he uses this enhanced Basic Attack, Lukas charges toward the enemy, knocking them back and dealing base damage plus scaling damage based on his Physical Attack. He then gains 20% Movement Speed and 20% Attack Speed, and summons sacred lightning with his Basic Attacks to deal extra damage, lasting for 4 seconds.\n\nLevel scaling:\n\n- Base Damage: 60 / 72 / 84 / 96 / 108 / 120\n- Additional scaling damage increases with Physical Attack."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Unleash the Beast",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Morph",
+        "details": {
+          "markdown": "Lukas transforms into his Sacred Beast form. While in this state, his base Movement Speed is increased by 30, all attributes are increased by a percentage, and his skills gain new effects.\n\n\"All attributes\" include HP, Physical Attack, Attack Speed, Physical Defense, Magic Defense, and Attack Range.\n\nAttribute scaling by level:\n\n- Attribute Increase: 15% / 17.5% / 20%\n- Resolve Regeneration: 0.5 / 1 / 1.5 per second\n\nAdditional notes:\n\n- Lukas's attack range increases from 1.8 to 2.6 for the duration.\n- The ultimate can be held and spun to change Lukas's facing direction."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Shockwave Blast",
+        "cooldown": 0.5,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "While in Sacred Beast form, Lukas can cast Shockwave Blast.\n\nThe Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing base damage plus scaling damage based on his Physical Attack.\n\nLevel scaling:\n\n- Base Damage: 450 / 775 / 1100\n\nAdditional notes:\n\n- The blast has a maximum range of 11 units."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Lukas is of Greek and Latin origin, derived from the Greek name Loukas (Λουκᾶς), meaning \"from Lucania\", a region in southern Italy. It is also associated with the Latin name Lucas, meaning \"light\" or \"bringer of light.\""
+      },
+      {
+        "markdown": "Lukas's motifs and beast form are probably influenced by the Pixiu (貔貅, píxiū), a beast in Chinese folklore described as having wings, a head of a dragon and a body of a lion, considered auspicious and influential creatures to their masters, similarly to how Lukas is referred to as a sacred beast of the Moniyan Empire fighting side by side with his best friend Gaius thousands of years ago, and later awakened by Gaius's descendant Silvanna."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nLukas is the face of *MLBB* Season 35: Peerless Light.\n\n- Name: Lukas\n- Chinese Name: 卢卡斯 (lúkǎsī)\n- Alias: Beast of Light\n- Origin: Lumina City, Moniyan Empire\n- Age: More than 1000\n- Species: Sacred Beast\n- Gender: Male\n- Weapons: Tonfa Hammers\n- Abilities: Transform into Sacred Beast\n- English Voice Actor: Kieran Regan\n- Japanese Voice Actor: Bonkobara Kō (盆子原康)\n\n# Story\n\n> \"A legendary Sacred Beast that can take the form of a rambunctious young man\"\n\nLukas is a recently revived from inside the Imperial Sanctuary. Endowed with a special bloodline that allows him to take human form, he was once befriended by Emperor Gaius and fought alongside him to create the glorious Moniyan Empire. After a millennium-long slumber, he was awakened by Silvanna and vowed to herald a new era for the Empire at her side.\n\nBeneath his brazen and rambunctious appearance lies a pure and earnest heart. For Lukas, fighting is not only his duty but the instinctive expression of his spirit. He firmly believes he will create something as brilliant as the dawning sun to illuminate every corner of the Moniyan Empire and rewrite the legend of the Beast of Light.\n\n# Side Story\n\n## The Dawning Sun\n\nIn the heart of the Imperial Sanctuary is a statue that has stood there for a thousand years, symbolizing the past glories of the Moniyan Empire. But it has long been neglected and nearly unrecognizable these days.\n\nBelow the statue lies a stone tablet chronicling the empire's history. As a historian brushes away the dust, a millennium-old legend is revealed:\n\n> \"After the Endless War, an ancient beast with a unique bloodline yearned to prove itself against the world. At the same time, a spirited young man vowed to establish a glorious nation where all the war-torn people could call home.\"\n\nThe beast and the young man were destined to meet, and so they did—in a titanic clash that would last three days and three nights. In the end, although no victor could be decided, their never-bending spirit melted away the divide.\n\n> \"Together, we will create something glorious!\"\n\nThe man laid down his lance and extended his hand to the beast. It was his hope to fight alongside the beast and leave their mark on the world together. The beast never imagined a human would be brazen enough to offer friendship, but as the young man reached out his hand, the beast felt a strange feeling as his three tails began to wag.\n\nAnd so, the two embarked on their long journey, traversing the bone-chilling Frozen Sea, the sand-swept Agelta Drylands, and the tranquil Moonlit Forest... fighting for unification amidst the chaos. They faced countless adversaries and obstacles, but their trials of battle had forged an unbreakable bond between them. Together, they were invincible.\n\nEventually, the young man and the beast founded the Moniyan Empire. This new nation became the new sun in the Land of Dawn; a beacon of everlasting glory that drew in war-weary people from the four corners of the world. The young man was now revered as Emperor Gaius, and his most trusted companion became a Sacred Beast. He would be known as Lukas, the Beast of Light, in the hearts of all Moniyans.\n\nAt the empire's first knighting ceremony, Gaius infused the light from his bloodline into Lukas's horns, causing them to shine a brilliant gold. From then on, wherever Lukas went, the sun's radiance followed.\n\nBut after Gaius's passing, the empire fell into disarray, the faith of the citizens wavered, and the Beast of Light lost his spirit...\n\n> \"What?! What do you mean 'lost his spirit'?!\"\n\nA young man suddenly appeared next to the historian, carelessly waving his signature weapons around—two hammer tonfas. \"Why was the Beast of Light here in his human form,\" the historian wondered. As the subject of this story, Lukas had a vested interest in the tablet's inscription.\n\n> \"To tell the glorious history of the Beast of Light, we need a personal touch...\"\n\nLukas took the pen from the historian, only to realize that he had never learned how to write.\n\n> \"... On second thought, this is your job. Just write down what I say!\"\n\nLukas casually sat on the stone tablet as the historian diligently recorded his words:\n\n> \"Even the mightiest mortals cannot escape the inevitable. After Gaius passed away, the Beast of Light fell into deep sorrow for a very long time... but he never forgot his promise. He sealed himself and Gaius's holy lance in the Imperial Sanctuary, hoping that one day, a descendant of Gaius would awaken him to fight for the empire's glory once more. So Lukas waited and waited, and just like that, a thousand years had passed...\"\n\nThen one day, a young princess broke into the Sanctuary. As one of Gaius's lineage, Silvanna was able to draw the holy lance. But the truly surprising part was, without fear or hesitation, she invited the intimidating Beast of Light to join her to push back the invading Abyss legions. But Lukas could never acknowledge a human so easily!\n\nAnother titanic battle ensued, just like a thousand years ago. Silvanna faced the beast's powerful attacks and did not fall back a single step. She carried the glory of Lumina City on her shoulders and vowed to protect it and every citizen under her care.\n\nThe Beast of Light gazed into Silvanna's blue eyes, full of hope and determination, and was reminded of the young Gaius. At that moment, the flame inside him that had gone cold for a thousand years ignited once more. He ceased his attack and chose to stand by the princess's side! And so, they returned to Lumina City together.\n\nAs the Sacred Beast of a new era, Lukas went about busily catching up with everything he had missed. To raise funds for people who had lost everything to war, he set up a ring on the streets and took on all challengers; to dispel the empire's ghosts of the past, he courageously braved a haunted house; to protect bullied children, he personally led an uprising in their make-believe war. Oh, and did I mention he won the eating competition 3 years in a row? Truly his proudest accomplishment.\n\nAlthough the citizens of Lumina City found these feats too childish and unfit for the prestige of a Sacred Beast, Lukas didn't care! He would do things his way and give it his all, whether it was playing with the children or defending the empire alongside Silvanna. His roar would echo through the skies of Lumina City like a thousand years ago—\n\nTogether, we will create something glorious!\"\n\nThe court historian's pen finally snapped as he could barely keep up with the story. He let out a long sigh, only to be interrupted by a tug on his collar.\n\n> \"Hey, in the part about Silvanna, throw in some adjectives like beautiful and inspiring. I don't want to get grounded again...\"\n\n> \"Oh... and get me something to clean this thing with.\"\n\nThe statue, which had stood there for a thousand years, was finally able to reveal its original appearance—\n\nIn front of the emblem of the sun and sword was a golden-horned beast with its head held high, watching ever so vigilantly over Lumina City.\n\n# Abilities\n\n## Hero's Resolve\n\nLukas gains 1 Resolve per second and an additional 2 Resolve when dealing damage to heroes. Lukas consumes 10 Resolve per second while in Sacred Beast form.\n\nAdditional details:\n\n- Lukas also gains Hero's Resolve when attacking an untargetable enemy.\n- He gains Hero's Resolve when attacking certain enemy-created entities and clones such as Vexana's Eternal Guard, Zhask's Nightmaric Spawn, Sun's clones, Kupa, Hanzo's Kinjutsu Pinnacle Ninja, and similar summons.\n\nHero's Resolve is used to maintain and empower his Sacred Beast form.\n\n## Flash Combo (Human Form)\n\nLukas can enhance his Basic Attacks with Flash Combo up to 2 times, lasting 4 seconds.\n\nLukas consumes all Vigor to unleash Pulverize, dealing base damage plus scaling damage based on his Physical Attack, plus additional attacks depending on the Vigor consumed. When Pulverize hits an enemy hero, Lukas recovers HP equal to 8% of his Max HP.\n\nEffects based on Vigor stacks consumed:\n\n- 1 Stack: Lukas briefly stuns the target and spins his tonfa hammers to deal damage 3 times, pulling the enemy toward him.\n- 2 Stacks: Lukas briefly stuns the target and follows up with 2 attacks that deal damage per hit. He will then spin his tonfa hammers to deal damage 3 times. This spinning sequence cannot be interrupted.\n\nAdditional properties:\n\n- Spell Vamp Ratio: 50%\n- Level scaling:\n  - Base Damage: 100 / 120 / 140 / 160 / 180 / 200\n  - Combo Damage: 50 / 60 / 70 / 80 / 90 / 100\n  - Spin Damage: 100 / 120 / 140 / 160 / 180 / 200\n\n## Flash Combo (Sacred Beast Form)\n\nLukas can enhance his Basic Attacks with Flash Combo up to 2 times, lasting 4 seconds.\n\nLukas consumes all Vigor to unleash a tail swing, dealing base damage plus scaling damage based on his Physical Attack, plus additional attacks depending on the Vigor consumed. When the tail swing hits an enemy hero, he also recovers 8% of his Max HP.\n\nEffects based on Vigor stacks consumed:\n\n- 1 Stack: Lukas briefly stuns the target and pounces to deal damage 3 times, knocking the enemy back.\n- 2 Stacks: Lukas briefly stuns the target and leaps to deal damage 2 times, then summons sacred lightning, dealing damage 3 times. This lightning sequence cannot be interrupted.\n\nLevel scaling:\n\n- Base Damage: 2\n- Base Shield: 4\n- Enhanced Damage: 300 / 360 / 420 / 480 / 540 / 600\n\n## Flash Step (Human Form)\n\nLukas dashes in the target direction and turns his next Basic Attack within 4 seconds into a Flash Strike.\n\nWhen he uses this enhanced Basic Attack, Lukas blinks behind the enemy, dealing base damage plus scaling damage based on his Physical Attack. He then increases his Attack Range, gains 20% Movement Speed and 20% Attack Speed, and summons lightning storms with his Basic Attacks to deal extra damage, lasting for 4 seconds.\n\nLevel scaling:\n\n- Base Damage: 60 / 72 / 84 / 96 / 108 / 120\n- Additional scaling damage increases with Physical Attack.\n\n## Flash Step (Sacred Beast Form)\n\nLukas dashes in the target direction and turns his next Basic Attack within 4 seconds into Lightning Clash.\n\nWhen he uses this enhanced Basic Attack, Lukas charges toward the enemy, knocking them back and dealing base damage plus scaling damage based on his Physical Attack. He then gains 20% Movement Speed and 20% Attack Speed, and summons sacred lightning with his Basic Attacks to deal extra damage, lasting for 4 seconds.\n\nLevel scaling:\n\n- Base Damage: 60 / 72 / 84 / 96 / 108 / 120\n- Additional scaling damage increases with Physical Attack.\n\n## Unleash the Beast\n\nLukas transforms into his Sacred Beast form. While in this state, his base Movement Speed is increased by 30, all attributes are increased by a percentage, and his skills gain new effects.\n\n\"All attributes\" include HP, Physical Attack, Attack Speed, Physical Defense, Magic Defense, and Attack Range.\n\nAttribute scaling by level:\n\n- Attribute Increase: 15% / 17.5% / 20%\n- Resolve Regeneration: 0.5 / 1 / 1.5 per second\n\nAdditional notes:\n\n- Lukas's attack range increases from 1.8 to 2.6 for the duration.\n- The ultimate can be held and spun to change Lukas's facing direction.\n\n## Shockwave Blast\n\nWhile in Sacred Beast form, Lukas can cast Shockwave Blast.\n\nThe Sacred Beast fires a Shockwave Blast in the target direction that will explode upon hitting an enemy hero or reaching its maximum range, dealing base damage plus scaling damage based on his Physical Attack.\n\nLevel scaling:\n\n- Base Damage: 450 / 775 / 1100\n\nAdditional notes:\n\n- The blast has a maximum range of 11 units.\n\n# Trivia\n\n- The name Lukas is of Greek and Latin origin, derived from the Greek name Loukas (Λουκᾶς), meaning \"from Lucania\", a region in southern Italy. It is also associated with the Latin name Lucas, meaning \"light\" or \"bringer of light.\"\n- Lukas's motifs and beast form are probably influenced by the Pixiu (貔貅, píxiū), a beast in Chinese folklore described as having wings, a head of a dragon and a body of a lion, considered auspicious and influential creatures to their masters, similarly to how Lukas is referred to as a sacred beast of the Moniyan Empire fighting side by side with his best friend Gaius thousands of years ago, and later awakened by Gaius's descendant Silvanna.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "silvanna",
+        "dyrroth",
+        "layla",
+        "vexana",
+        "zhask"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "silvanna",
+        "gaius_alvin"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Sacred Beast",
+      "locationTies": [
+        {
+          "location": "Lumina City",
+          "relationship": "home"
+        },
+        {
+          "location": "Imperial Sanctuary",
+          "relationship": "sealed"
+        },
+        {
+          "location": "Frozen Sea",
+          "relationship": "visited"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "visited"
+        },
+        {
+          "location": "Moonlit Forest",
+          "relationship": "visited"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "protects"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic",
+      "lighthearted"
+    ],
+    "themes": [
+      "destiny",
+      "loyalty",
+      "legacy"
+    ],
+    "hook": "After a thousand years sealed beside his fallen emperor’s lance, the Beast of Light awakens to a new princess, a wavering empire, and a promise unfulfilled.",
+    "teaser": "Once Gaius’s battle companion, Lukas wakes after a millennium to a fading empire and a fiery princess who might just reignite the Beast of Light.",
+    "openingLine": "In the heart of the Imperial Sanctuary is a statue that has stood there for a thousand years, symbolizing the past glories of the Moniyan Empire.",
+    "dominantColor": "#FFD54A",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "The Dawning Sun"
+    ],
+    "plotKeywords": [
+      "ancient sacred beast",
+      "founding of Moniyan Empire",
+      "bond with Emperor Gaius",
+      "millennium-long slumber",
+      "awakening by Silvanna",
+      "defending Lumina City",
+      "sacred beast transformation"
+    ],
+    "characterTraits": [
+      "rambunctious",
+      "earnest",
+      "loyal",
+      "brave",
+      "playful",
+      "protective"
+    ],
+    "locations": [
+      "Lumina City",
+      "Imperial Sanctuary",
+      "Frozen Sea",
+      "Agelta Drylands",
+      "Moonlit Forest",
+      "Moniyan Empire",
+      "Land of Dawn"
+    ],
+    "wordCount": 2079,
+    "readingTimeMinutes": 14,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647180461,
+    "updatedAt": 1764647180461
+  },
+  "lastUpdated": null
+}

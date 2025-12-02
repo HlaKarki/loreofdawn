@@ -1,0 +1,164 @@
+{
+  "hero": "minsitthar",
+  "urlName": "minsitthar",
+  "sections": {
+    "profile": {
+      "markdown": "**Aliases**\n- Courageus Warrior\n- King of Mahar Pura\n\n**Origin**\n- City of the Sand, Vonetis Sea\n\n**Species**\n- Human\n\n**Gender**\n- Male\n\n**Title**\n- King of Mahar Pura\n\n**Weapons**\n- Spear of Glory\n- Shield\n\n**Relationships**\n- Unnamed father (deceased)\n- Unnamed brother (deceased)\n- Unnamed lover\n\nAfter his first revamp on 22 March 2023, he became the face of Regular Season 28: Fearless."
+    },
+    "story": {
+      "markdown": "> Prince of the City of the Sand, an outstanding warrior\n\nA prince of the Vonetis Sea's Mahar Pura, good at fighting and winning. He was expelled by his father because of a heretical love affair he had. When his brother raised the flag of rebellion, Minsitthar, who was in exile, returned to his motherland, put down the rebellion and became the new king.\n\nI stood under the towering castle wall, it was just another day in my commonplace life as a noteless maid. A sudden baby cry shook the sun but the birth of a prince could not awaken my stranding life. I stood under the towering castle wall, praises and blessings came to my ears: Some wished him to be benevolent; some wished him to be brave; some wished him to have a great future.\n\nI have seen so many royals and nobles in my life, their authorities are like knives at my throat. Just like this moment, I am waiting for my masters to punish me as my senility made me break the dishes. A little figure stands in front of me with a short wooden sword — the praised prince is protecting me just like he swore to protect his subjects. Now I wish so much he could grow up safely and bring warmth to people like the sun over Mahar Pura.\n\nKneeling on the cracked farmland, I prayed for the rain to save our dying crops, parched mouth, and despairing hearts. But what came before the rain was our savior in golden armor, he brought us food and relieved our suffering. When he looked down at his subjects, I could see a whole world in the depth of his eyes, a world that was as beautiful as a landscape. When he raised his eyes, he noticed the figure of a little rosewood flower, which made the world in his eyes jump with joy.\n\nLater, I was told that our savior, the crown prince of our kingdom, fell in love with a civilian girl. He shook off his royal trifles and chased free life with the girl. However, free life is not all about the starry sky and love. It also means paddy, sack clothes, and hard work within fields. This time, the prince finally got the chance to see the truth of the world and the lives of his fellow subjects.\n\nI marched to the battlefield with my comrades as the enemy warships once again broke through our naval defenses. The black waves flooded from the horizon toward us and soon turned into millions of blades. My comrades, my brothers, were pierced by the blades. They told me to bring their last smile back to our hometown.\n\nThe black clouds poured out from enemy ships, covering the sun. We fought for our lives desperately but no hope could be seen. Suddenly, a golden light split across the gloomy sky, driving away all the darkness on the battlefield. I recognized the Sacred Spear in the comer's hand. That was our crown prince. The sun of Mahar Pura.\n\nHe blocked all the enemy attacks with his tough body. He blew the horn to rally the desperate soldiers. Torches gathered from all over the battlefield and formed a wildfire. Under his leadership, we wrapped up all the darkness and pushed them back to where they came from. Later, we knelt before our new king and swore to be his feet and spear. May Mahar Pura shine forever.\n\nI met him again at a very old age. He returned to the palace and basked in the radiance of the crown again. I was told he once put aside his duties and lived a farmer's life with his true love. However, he couldn't turn a blind eye to the bitterness of his people. He left his rosewood flower garden, reforged his Sacred Spear, and went back to the brutal battlefield.\n\nNow I live behind the castle walls, free from the sound of battle horns. Thanks to warriors like him, I can still pour wine with care and respect. I offer him the cup of wine, he looks down, there's loneliness in his eyes. But the bright sun still shines upon the unvarying land of Mahar Pura as always."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Mark of the King",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Minsitthar's Basic Attacks and skills apply a stack of Mark of the King, up to 5 stacks. Mark of the King stacks last for 4.0 seconds.\n\nUpon reaching max stacks, the next attack detonates all Mark of the King stacks, dealing extra physical damage based on level and stats and stunning the target for 0.8 seconds while healing Minsitthar for scaling health based on his max HP. This effect can only trigger once every 6 seconds on the same target.\n\n- Extra damage counts as skill damage.\n- It can trigger Brave Smite."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Spear of Glory",
+        "cooldown": 13,
+        "cost": 95,
+        "role": "Control",
+        "details": {
+          "markdown": "Minsitthar thrusts forward with the Spear of Glory, dealing physical damage based on level and extra physical attack and slowing enemies hit by 30%. Enemy heroes hit by the tip of the spear will be stunned for 0.6 seconds.\n\nAfter a short delay, Minsitthar pulls back the spear, dealing physical damage based on level and extra physical attack to all enemies along the way and dragging enemy heroes hit to him.\n\n- Base Damage: 175 / 200 / 225 / 250 / 275 / 300\n- Cooldown: 13.0 / 12.2 / 11.4 / 10.6 / 9.8 / 9.0 seconds\n- Mana Cost: 95 / 105 / 115 / 125 / 135 / 145\n\nNotes:\n- The spear pulls enemies into Minsitthar's current position, which means they can be pulled sideways or further away with Flicker."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Shield Assault",
+        "cooldown": 7,
+        "cost": 50,
+        "role": "Defense",
+        "details": {
+          "markdown": "Minsitthar awakens the power in his shield and releases it, dealing physical damage based on level and extra physical attack to all enemies in a rectangular area and slowing them by 80%, which decays rapidly over 2 seconds.\n\nMeanwhile, he enters Phalanx state for 3 seconds, reducing damage taken from the front by 25%–50% and enhancing his Basic Attack to swiftly strike an area in front of him.\n\n- Phalanx Basic Attack Range: 5.0\n- Base Damage: 300 / 330 / 360 / 390 / 420 / 450\n- Damage Reduction: 25% / 30% / 35% / 40% / 45% / 50%\n- Cooldown: 7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0 seconds\n- Mana Cost: 50 / 55 / 60 / 65 / 70 / 75\n\nNotes:\n- Minsitthar cannot change the direction he's facing during Phalanx state.\n- While in this stance, Minsitthar's Basic Attacks will have increased attack rate.\n- Minsitthar's enhanced Basic Attack can deal damage to turrets.\n- Casting other skills immediately ends Phalanx state.\n- This state can only be interrupted with suppressed effects."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "King's Calling",
+        "cooldown": 60,
+        "cost": 150,
+        "role": "Control",
+        "details": {
+          "markdown": "> \"Where will I be?\"\n\nMinsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field for physical damage scaling with Minsitthar's physical attack.\n\nEnemies in the field are slowed by 20% and cannot use movement skills.\n\n- Duration: 5.0 seconds\n- Attack Effects: 40% of Minsitthar's attack effects\n- Attack Rate: 1 Basic Attack per about 0.28–0.30 seconds\n- Cooldown: 60.0 / 55.0 / 50.0 seconds\n- Mana Cost: 150 / 200 / 250\n\nNotes:\n- Despite its description, casting King's Calling technically blinks, not charges.\n- Royal Guards are invincible.\n- Royal Guards' basic attacks can trigger 40% of Minsitthar's attack effects.\n- They benefit from attack speed but their attack rate is effectively fixed, allowing up to five attacks during the duration.\n- They benefit from critical chance but they cannot reduce the cooldown time of Windtalker's Unique Passive Typhoon, making the passive only available on their first attack.\n- They cannot trigger Azure Blade and items whose one of the component items are Azure Blade due to their inability to cast skills.\n- The Guards will attack any enemies within their attack range but prioritize enemies within the field.\n- Royal Guards do not benefit from penetration attribute items, but can gain penetration from War Axe's passive.\n\nMobility Disable Component:\n- Enemy abilities with Mobility tag in their description are disabled.\n- Enemies cannot purify or be immune from root when they are within the area-of-effect of this skill, even by becoming untargetable."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Minsitthar is based on King Kyansittha, a famous ruler of the Pagan Dynasty of Myanmar (Burma)."
+      },
+      {
+        "markdown": "He is the first hero to have Burmese lines."
+      },
+      {
+        "markdown": "His Ultimate (King’s Calling) summons royal guards who form a phalanx-style barrier. This makes him the only MLBB hero to use a military formation mechanic, preventing enemies from using blink skills inside it."
+      },
+      {
+        "markdown": "Minsitthar's background story holds some resemblance to the film series Baahubali."
+      },
+      {
+        "markdown": "It is also likely that his story is based on the life of the person it was based on, for the most part."
+      },
+      {
+        "markdown": "He is the only hero capable of inflicting the Rooted status."
+      },
+      {
+        "markdown": "Early leaks suggested that Minsitthar was meant to be a tank, but he was later developed into a fighter with strong crowd control abilities. He retains some tank-like traits, such as damage reduction and sustain."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Aliases**\n- Courageus Warrior\n- King of Mahar Pura\n\n**Origin**\n- City of the Sand, Vonetis Sea\n\n**Species**\n- Human\n\n**Gender**\n- Male\n\n**Title**\n- King of Mahar Pura\n\n**Weapons**\n- Spear of Glory\n- Shield\n\n**Relationships**\n- Unnamed father (deceased)\n- Unnamed brother (deceased)\n- Unnamed lover\n\nAfter his first revamp on 22 March 2023, he became the face of Regular Season 28: Fearless.\n\n# Story\n\n> Prince of the City of the Sand, an outstanding warrior\n\nA prince of the Vonetis Sea's Mahar Pura, good at fighting and winning. He was expelled by his father because of a heretical love affair he had. When his brother raised the flag of rebellion, Minsitthar, who was in exile, returned to his motherland, put down the rebellion and became the new king.\n\nI stood under the towering castle wall, it was just another day in my commonplace life as a noteless maid. A sudden baby cry shook the sun but the birth of a prince could not awaken my stranding life. I stood under the towering castle wall, praises and blessings came to my ears: Some wished him to be benevolent; some wished him to be brave; some wished him to have a great future.\n\nI have seen so many royals and nobles in my life, their authorities are like knives at my throat. Just like this moment, I am waiting for my masters to punish me as my senility made me break the dishes. A little figure stands in front of me with a short wooden sword — the praised prince is protecting me just like he swore to protect his subjects. Now I wish so much he could grow up safely and bring warmth to people like the sun over Mahar Pura.\n\nKneeling on the cracked farmland, I prayed for the rain to save our dying crops, parched mouth, and despairing hearts. But what came before the rain was our savior in golden armor, he brought us food and relieved our suffering. When he looked down at his subjects, I could see a whole world in the depth of his eyes, a world that was as beautiful as a landscape. When he raised his eyes, he noticed the figure of a little rosewood flower, which made the world in his eyes jump with joy.\n\nLater, I was told that our savior, the crown prince of our kingdom, fell in love with a civilian girl. He shook off his royal trifles and chased free life with the girl. However, free life is not all about the starry sky and love. It also means paddy, sack clothes, and hard work within fields. This time, the prince finally got the chance to see the truth of the world and the lives of his fellow subjects.\n\nI marched to the battlefield with my comrades as the enemy warships once again broke through our naval defenses. The black waves flooded from the horizon toward us and soon turned into millions of blades. My comrades, my brothers, were pierced by the blades. They told me to bring their last smile back to our hometown.\n\nThe black clouds poured out from enemy ships, covering the sun. We fought for our lives desperately but no hope could be seen. Suddenly, a golden light split across the gloomy sky, driving away all the darkness on the battlefield. I recognized the Sacred Spear in the comer's hand. That was our crown prince. The sun of Mahar Pura.\n\nHe blocked all the enemy attacks with his tough body. He blew the horn to rally the desperate soldiers. Torches gathered from all over the battlefield and formed a wildfire. Under his leadership, we wrapped up all the darkness and pushed them back to where they came from. Later, we knelt before our new king and swore to be his feet and spear. May Mahar Pura shine forever.\n\nI met him again at a very old age. He returned to the palace and basked in the radiance of the crown again. I was told he once put aside his duties and lived a farmer's life with his true love. However, he couldn't turn a blind eye to the bitterness of his people. He left his rosewood flower garden, reforged his Sacred Spear, and went back to the brutal battlefield.\n\nNow I live behind the castle walls, free from the sound of battle horns. Thanks to warriors like him, I can still pour wine with care and respect. I offer him the cup of wine, he looks down, there's loneliness in his eyes. But the bright sun still shines upon the unvarying land of Mahar Pura as always.\n\n# Abilities\n\n## Mark of the King\n\nMinsitthar's Basic Attacks and skills apply a stack of Mark of the King, up to 5 stacks. Mark of the King stacks last for 4.0 seconds.\n\nUpon reaching max stacks, the next attack detonates all Mark of the King stacks, dealing extra physical damage based on level and stats and stunning the target for 0.8 seconds while healing Minsitthar for scaling health based on his max HP. This effect can only trigger once every 6 seconds on the same target.\n\n- Extra damage counts as skill damage.\n- It can trigger Brave Smite.\n\n## Spear of Glory\n\nMinsitthar thrusts forward with the Spear of Glory, dealing physical damage based on level and extra physical attack and slowing enemies hit by 30%. Enemy heroes hit by the tip of the spear will be stunned for 0.6 seconds.\n\nAfter a short delay, Minsitthar pulls back the spear, dealing physical damage based on level and extra physical attack to all enemies along the way and dragging enemy heroes hit to him.\n\n- Base Damage: 175 / 200 / 225 / 250 / 275 / 300\n- Cooldown: 13.0 / 12.2 / 11.4 / 10.6 / 9.8 / 9.0 seconds\n- Mana Cost: 95 / 105 / 115 / 125 / 135 / 145\n\nNotes:\n- The spear pulls enemies into Minsitthar's current position, which means they can be pulled sideways or further away with Flicker.\n\n## Shield Assault\n\nMinsitthar awakens the power in his shield and releases it, dealing physical damage based on level and extra physical attack to all enemies in a rectangular area and slowing them by 80%, which decays rapidly over 2 seconds.\n\nMeanwhile, he enters Phalanx state for 3 seconds, reducing damage taken from the front by 25%–50% and enhancing his Basic Attack to swiftly strike an area in front of him.\n\n- Phalanx Basic Attack Range: 5.0\n- Base Damage: 300 / 330 / 360 / 390 / 420 / 450\n- Damage Reduction: 25% / 30% / 35% / 40% / 45% / 50%\n- Cooldown: 7.0 / 6.6 / 6.2 / 5.8 / 5.4 / 5.0 seconds\n- Mana Cost: 50 / 55 / 60 / 65 / 70 / 75\n\nNotes:\n- Minsitthar cannot change the direction he's facing during Phalanx state.\n- While in this stance, Minsitthar's Basic Attacks will have increased attack rate.\n- Minsitthar's enhanced Basic Attack can deal damage to turrets.\n- Casting other skills immediately ends Phalanx state.\n- This state can only be interrupted with suppressed effects.\n\n## King's Calling\n\n> \"Where will I be?\"\n\nMinsitthar charges forward and calls 4 Royal Guards to form a field around him. The Royal Guards cannot move but will attack enemies in the field for physical damage scaling with Minsitthar's physical attack.\n\nEnemies in the field are slowed by 20% and cannot use movement skills.\n\n- Duration: 5.0 seconds\n- Attack Effects: 40% of Minsitthar's attack effects\n- Attack Rate: 1 Basic Attack per about 0.28–0.30 seconds\n- Cooldown: 60.0 / 55.0 / 50.0 seconds\n- Mana Cost: 150 / 200 / 250\n\nNotes:\n- Despite its description, casting King's Calling technically blinks, not charges.\n- Royal Guards are invincible.\n- Royal Guards' basic attacks can trigger 40% of Minsitthar's attack effects.\n- They benefit from attack speed but their attack rate is effectively fixed, allowing up to five attacks during the duration.\n- They benefit from critical chance but they cannot reduce the cooldown time of Windtalker's Unique Passive Typhoon, making the passive only available on their first attack.\n- They cannot trigger Azure Blade and items whose one of the component items are Azure Blade due to their inability to cast skills.\n- The Guards will attack any enemies within their attack range but prioritize enemies within the field.\n- Royal Guards do not benefit from penetration attribute items, but can gain penetration from War Axe's passive.\n\nMobility Disable Component:\n- Enemy abilities with Mobility tag in their description are disabled.\n- Enemies cannot purify or be immune from root when they are within the area-of-effect of this skill, even by becoming untargetable.\n\n# Trivia\n\n- Minsitthar is based on King Kyansittha, a famous ruler of the Pagan Dynasty of Myanmar (Burma).\n- He is the first hero to have Burmese lines.\n- His Ultimate (King’s Calling) summons royal guards who form a phalanx-style barrier. This makes him the only MLBB hero to use a military formation mechanic, preventing enemies from using blink skills inside it.\n- Minsitthar's background story holds some resemblance to the film series Baahubali.\n- It is also likely that his story is based on the life of the person it was based on, for the most part.\n- He is the only hero capable of inflicting the Rooted status.\n- Early leaks suggested that Minsitthar was meant to be a tank, but he was later developed into a fighter with strong crowd control abilities. He retains some tank-like traits, such as damage reduction and sustain.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": "City of the Sand",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "King",
+      "locationTies": [
+        {
+          "location": "City of the Sand",
+          "relationship": "home"
+        },
+        {
+          "location": "Vonetis Sea",
+          "relationship": "home"
+        },
+        {
+          "location": "Mahar Pura",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic",
+      "melancholic"
+    ],
+    "themes": [
+      "destiny",
+      "love",
+      "sacrifice"
+    ],
+    "hook": "He left his rosewood flower garden, reforged his Sacred Spear, and went back to the brutal battlefield, trading a quiet love for a kingdom’s hope.",
+    "teaser": "Exiled for forbidden love, the prince of Mahar Pura returns as a golden-armored savior, trading his peaceful life to lead a desperate kingdom out of darkness.",
+    "openingLine": "I stood under the towering castle wall, it was just another day in my commonplace life as a noteless maid.",
+    "dominantColor": "#D4A016",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "exile",
+      "forbidden love",
+      "return of the king",
+      "naval invasion",
+      "peasant life",
+      "battlefield sacrifice"
+    ],
+    "characterTraits": [
+      "brave",
+      "benevolent",
+      "duty-bound",
+      "self-sacrificing",
+      "inspiring"
+    ],
+    "locations": [
+      "City of the Sand",
+      "Vonetis Sea",
+      "Mahar Pura"
+    ],
+    "wordCount": 1584,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646908240,
+    "updatedAt": 1764646908240
+  },
+  "lastUpdated": null
+}

@@ -8,8 +8,28 @@ import { createDb } from "@/db";
 export const wikisRouter = new Hono<Env>();
 
 /**
+ * GET /v1/wikis
+ * List all wikis with metadata
+ */
+wikisRouter.get("/", async (c) => {
+	const cacheKey = "wikis:all";
+
+	return cacheKvLayer.respond(
+		c,
+		cacheKey,
+		async () => {
+			const wikiService = new WikiService(c.env);
+			return await wikiService.getAllWikis();
+		},
+		{
+			ttlSeconds: 60 * 60 * 6, // 2 hours
+		},
+	);
+});
+
+/**
  * GET /v1/wikis/:name
- * Get wiki content for a data
+ * Get wiki content for a hero
  */
 wikisRouter.get("/:name", async (c) => {
 	const name = c.req.param("name")?.trim().toLowerCase();

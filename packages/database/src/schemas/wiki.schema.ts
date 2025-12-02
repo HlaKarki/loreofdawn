@@ -1,4 +1,5 @@
 import {
+	bigint,
 	doublePrecision,
 	integer,
 	jsonb,
@@ -7,20 +8,16 @@ import {
 	timestamp,
 	uuid,
 } from "drizzle-orm/pg-core";
-import { WikiMetadata, WikiRelationships } from "../types/wiki-enhanced.types";
+import { WikiMetadata, type AiMarkdownResponse } from "../types/wiki.types";
 
 export const wikisTable = pgTable("wikis", {
 	id: uuid("id").defaultRandom().primaryKey(),
 	hero: text("hero").notNull().unique(),
 	urlName: text("urlName").notNull().unique(),
 	markdown: text("markdown").notNull(),
-
-	// Enhanced metadata
+	sections: jsonb("sections").$type<AiMarkdownResponse>().notNull(),
 	metadata: jsonb("metadata").$type<WikiMetadata>().notNull(),
-	relationships: jsonb("relationships").$type<WikiRelationships>().notNull(),
-
-	createdAt: timestamp("created_at", { withTimezone: true }).defaultNow().notNull(),
-	updatedAt: timestamp("updated_at", { withTimezone: true }).defaultNow().notNull(),
+	lastUpdated: bigint("last_updated", { mode: "number" }),
 }).enableRLS();
 
 export const wikiAnalyticsTable = pgTable("wiki_analytics", {
@@ -47,8 +44,8 @@ export const wikiAnalyticsTable = pgTable("wiki_analytics", {
 	trendingScore: doublePrecision("trending_score").notNull().default(0),
 
 	// Timestamps
-	lastViewed: timestamp("last_viewed", { withTimezone: true }),
-	updatedAt: timestamp("updated_at", { withTimezone: true }).defaultNow().notNull(),
+	lastViewed: bigint("last_viewed", { mode: "number" }).notNull(),
+	updatedAt: bigint("updated_at", { mode: "number" }).notNull(),
 }).enableRLS();
 
 export type WikiTableType = typeof wikisTable.$inferSelect;

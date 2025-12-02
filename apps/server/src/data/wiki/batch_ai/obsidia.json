@@ -1,0 +1,166 @@
+{
+  "hero": "obsidia",
+  "urlName": "obsidia",
+  "sections": {
+    "profile": {
+      "markdown": "- Name: Obsidia\n- Origin: Night Palace, Abyss\n- Species: Dark Elf\n- Gender: Female\n- Title: Sovereign of Dark's End\n- English VA: Jessica Rookeward"
+    },
+    "story": {
+      "markdown": ""
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Return to Bone",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "When Obsidia deals damage to enemies, she gains Bone Energy.\n\n- Basic Attacks against non-hero units grant 1 Bone Energy.\n- Basic Attacks against hero units grant 2 Bone Energy.\n- Skills grant 3 times the Bone Energy.\n- No Bone Energy is gained from hitting creeps.\n\nWhen Bone Energy reaches 30, it forms a Bone Shard, up to a maximum of 25 shards.\n\nWhen Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing 7% of Total Physical Attack as Physical Damage and inheriting 7% of Attack Effects."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Abyssal Bone Needle",
+        "cooldown": 4.5,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Obsidia launches a bone projectile in the target direction, dealing scaling Physical Damage to enemies hit and triggering Return to Bone on the first enemy hero hit.\n\n- Effect type: Damage, AOE\n- Cooldown by level: 4.5 / 4.2 / 3.9 / 3.6 / 3.3 / 3.0 seconds\n- Base Damage scales with level (approx. 325 to 500 plus bonus from Total Physical Attack)."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Phantom Shadowmeld",
+        "cooldown": 4.5,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Obsidia descends into the Abyss and enters a shadowmeld state, gaining 500% Movement Speed for 0.3 seconds.\n\n- Effect type: Speed Up, Mobility\n- Cooldown by level: 4.5 / 4.2 / 3.9 / 3.6 / 3.3 / 3.0 seconds."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Hunt of Bone",
+        "cooldown": 40,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Obsidia shoots a bone hunt in the target direction, dealing scaling Physical Damage and briefly stunning the first enemy hero hit, then pulls herself near them.\n\nThe Bone Shards then tether to the enemy, preventing Obsidia from moving more than 4 units away from them. The enemy cannot use displacement skills, and their movement will pull Obsidia along. During this time, Obsidia gains 5 temporary stacks of defensive power. This effect lasts 3 seconds.\n\nDuring this time, Obsidia can move through obstacles and use Basic Attacks while moving. Phantom Shadowmeld is enhanced, with its duration increased to 1 second and its cooldown reduced to 33% of the original.\n\n- Effect type: CC, Mobility\n- Cooldown by level: 40.0 / 35.0 / 30.0 seconds\n- Base Damage scales with level (approx. 125 to 225 plus bonus from Total Physical Attack)."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "“Obsidia” evokes “obsidian” (a dark, volcanic glass), which fits with her identity as a being of darkness and bone. Her title, “Sovereign of Dark’s End,” frames her as a ruler or judge over darkness."
+      },
+      {
+        "markdown": "Her visual design uses black, gray, and deep purples, which mimic the glossy, dark sheen of real obsidian stone."
+      },
+      {
+        "markdown": "Visually, the floating bone shards, ethereal trails, and dark or ghostly shadow effects draw from gothic, dark fantasy, and necromantic aesthetics."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Name: Obsidia\n- Origin: Night Palace, Abyss\n- Species: Dark Elf\n- Gender: Female\n- Title: Sovereign of Dark's End\n- English VA: Jessica Rookeward\n\n# Abilities\n\n## Return to Bone\n\nWhen Obsidia deals damage to enemies, she gains Bone Energy.\n\n- Basic Attacks against non-hero units grant 1 Bone Energy.\n- Basic Attacks against hero units grant 2 Bone Energy.\n- Skills grant 3 times the Bone Energy.\n- No Bone Energy is gained from hitting creeps.\n\nWhen Bone Energy reaches 30, it forms a Bone Shard, up to a maximum of 25 shards.\n\nWhen Obsidia uses Basic Attacks, all Bone Shards strike the target, each dealing 7% of Total Physical Attack as Physical Damage and inheriting 7% of Attack Effects.\n\n## Abyssal Bone Needle\n\nObsidia launches a bone projectile in the target direction, dealing scaling Physical Damage to enemies hit and triggering Return to Bone on the first enemy hero hit.\n\n- Effect type: Damage, AOE\n- Cooldown by level: 4.5 / 4.2 / 3.9 / 3.6 / 3.3 / 3.0 seconds\n- Base Damage scales with level (approx. 325 to 500 plus bonus from Total Physical Attack).\n\n## Phantom Shadowmeld\n\nObsidia descends into the Abyss and enters a shadowmeld state, gaining 500% Movement Speed for 0.3 seconds.\n\n- Effect type: Speed Up, Mobility\n- Cooldown by level: 4.5 / 4.2 / 3.9 / 3.6 / 3.3 / 3.0 seconds.\n\n## Hunt of Bone\n\nObsidia shoots a bone hunt in the target direction, dealing scaling Physical Damage and briefly stunning the first enemy hero hit, then pulls herself near them.\n\nThe Bone Shards then tether to the enemy, preventing Obsidia from moving more than 4 units away from them. The enemy cannot use displacement skills, and their movement will pull Obsidia along. During this time, Obsidia gains 5 temporary stacks of defensive power. This effect lasts 3 seconds.\n\nDuring this time, Obsidia can move through obstacles and use Basic Attacks while moving. Phantom Shadowmeld is enhanced, with its duration increased to 1 second and its cooldown reduced to 33% of the original.\n\n- Effect type: CC, Mobility\n- Cooldown by level: 40.0 / 35.0 / 30.0 seconds\n- Base Damage scales with level (approx. 125 to 225 plus bonus from Total Physical Attack).\n\n# Trivia\n\n- “Obsidia” evokes “obsidian” (a dark, volcanic glass), which fits with her identity as a being of darkness and bone. Her title, “Sovereign of Dark’s End,” frames her as a ruler or judge over darkness.\n- Her visual design uses black, gray, and deep purples, which mimic the glossy, dark sheen of real obsidian stone.\n- Visually, the floating bone shards, ethereal trails, and dark or ghostly shadow effects draw from gothic, dark fantasy, and necromantic aesthetics.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "selena",
+        "alice",
+        "thamuz",
+        "dyrroth"
+      ],
+      "faction": "Abyssal Demons",
+      "allies": [],
+      "rivals": [
+        "god_of_darkness"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Sovereign",
+      "locationTies": [
+        {
+          "location": "Night Palace",
+          "relationship": "home"
+        },
+        {
+          "location": "Abyss",
+          "relationship": "kingdom"
+        },
+        {
+          "location": "central plains",
+          "relationship": "oppressed"
+        },
+        {
+          "location": "underground realm",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "dark",
+      "heroic"
+    ],
+    "themes": [
+      "power",
+      "freedom",
+      "rebellion"
+    ],
+    "hook": "“I shall herald the return of the Abyss. I shall hunt down every last Spawn of Decay. I shall lay the trap to slay a god.”",
+    "teaser": "Once the Abyss’s first sovereign and the gods’ pawn, Obsidia awakens from death to reclaim her realm, hunt her corrupted descendants, and lay a trap for a god.",
+    "openingLine": "Deep in the vast, dark depths of the Abyss, Obsidia hunts.",
+    "dominantColor": "#2B193D",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "underground kingdom",
+      "pact with dark god",
+      "founding of the Abyss",
+      "gods’ war",
+      "betrayal by subjects",
+      "death and revival",
+      "hunting corrupted descendants",
+      "plot to slay a god"
+    ],
+    "characterTraits": [
+      "ruthless",
+      "proud",
+      "calculating",
+      "unyielding",
+      "vengeful",
+      "sovereign"
+    ],
+    "locations": [
+      "Night Palace",
+      "Abyss",
+      "central plains",
+      "underground realm"
+    ],
+    "wordCount": 433,
+    "readingTimeMinutes": 3,
+    "connectionsCount": 4,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646891469,
+    "updatedAt": 1764646891469
+  },
+  "lastUpdated": null
+}

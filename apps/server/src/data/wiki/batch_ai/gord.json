@@ -1,0 +1,160 @@
+{
+  "hero": "gord",
+  "urlName": "gord",
+  "sections": {
+    "profile": {
+      "markdown": "Human male from the Magic Academy in Northern Vale, Gord is a Magic Academy professor and Dean of the Icarus School. Wielding arcane magic and riding an arcane hoverboard, he is known as the Professor of the Mystic and Dean of the Icarus School of the Magic Academy.\n\n- Species: Human\n- Gender: Male\n- Origin: Magic Academy, Northern Vale\n- Occupation: Magic Academy professor; Dean of the Icarus School\n- Weapons: Arcane hoverboard\n- Fields of Study: Arcane magic\n- Abilities: Arcane magic\n- Alias: Professor of the Mystic; Dean of the Icarus School of the Magic Academy\n- Chinese Name: 古德 (gǔdé)\n- English VA: Con Eyre (2017–); Tony Waldman (2019 No. 1 Controller, 2023 Conqueror)"
+    },
+    "story": {
+      "markdown": "\"Dean of the Icarus School of the Magic Academy\"\n\nOne of the best students of the Magic Academy, but he mixed ancient sorcery into the process of practicing arcane arts, which led to him being possessed by the Demons. It was lucky that Elward acted in a timely manner, helping Gord control the energy running away in his body. After that, Gord had no hope of reaching the peak of arcane magic in his life, eventually becoming a mentor of the Magic Academy.\n\nGord has always been the living proof of excellence in the magic academy. He was born with the gift to manipulate the mystic powers which allowed him to master several sophisticated spells at an early age. But this is clearly a double-edged sword as Gord became increasingly arrogant over time. Once he stumbled across a forbidden book in the academy which recorded the method to forge the pure mystic existence out of human body using mystic powers.\n\nThe young wizard buried himself in the book and launched his study without respecting the opinions from the outside. It worked out successfully in the beginning, the pure mystic energy started to flow in Gord's veins, thus he was able to cast even more powerful spells. Unfortunately, Gord was not able to control this power and he became overwhelmed with mystic energy. Gord then tried to seek a solution from ancient magic sources. With the combination of the two different energies, Gord's body was almost devastated. Thanks to the help from Elward, the chief wizard, the turbulence in his body was finally able to be controlled. The incident took a huge toll on Gord, leaving his body half red and half blue. While he was saved, Gord can never again control the magic contained in pure mystic energy.\n\nElward encouraged Gord until he finally got back on his feet. Elward then invited Gord to continue his career as a wizard and invited him to teach at the academy. After careful consideration, Gord accepted the offer. He wished to find a student who will carry on his studies without making the same mistakes. From that day, Gord started a new life as the strictest professor in the magic academy."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Mystic Favor",
+        "cooldown": 0,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "After Gord hits an enemy 4 times with Basic Attacks or skills within a short period of time, the next attack on the target will deal additional true damage based on level and stats and slow them by 20% for 1 second. The slow effect stacks up to 2 times.\n\n- Slow Effect per Stack: 20%, up to 40%\n- Damage Type: True damage on the enhanced hit"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Mystic Projectile",
+        "cooldown": 10,
+        "cost": 90,
+        "role": "Control",
+        "details": {
+          "markdown": "Gord conjures a Mystic Orb that bounces in the target direction and explodes on the first enemy hit, dealing magic damage to enemies in the area, while stunning them and revealing their locations for 1 second.\n\n- Base Damage: 270 / 315 / 360 / 405 / 450 / 495\n- Damage Type: Magic damage\n- Spell Vamp Ratio: 50%\n- Cooldown: 10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5 seconds\n- Mana Cost: 90 / 100 / 110 / 120 / 130 / 140\n- Additional Effect: Stuns and reveals affected enemies"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Mystic Injunction",
+        "cooldown": 8,
+        "cost": 55,
+        "role": "Damage",
+        "details": {
+          "markdown": "Gord creates an energy field in the target area, dealing magic damage every 0.3 second to enemies within, up to 13 times.\n\n- Damage Per Hit: 55 / 65 / 75 / 85 / 95 / 105\n- Damage Type: Magic damage over time in an area\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Mana Cost: 55 / 65 / 75 / 85 / 95 / 105"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Mystic Gush",
+        "cooldown": 44,
+        "cost": 150,
+        "role": "Damage",
+        "details": {
+          "markdown": "Gord unleashes an energy beam in the target direction, dealing magic damage to enemies hit every 0.2 seconds, up to 16 times. The direction of the beam can be adjusted using the Joystick.\n\n- Damage Per Hit: 110 / 160 / 210\n- Damage Type: Magic damage\n- Spell Vamp Ratio: 50%\n- Cooldown: 44.0 / 40.0 / 36.0 seconds\n- Mana Cost: 150 / 170 / 190\n- Notes:\n  - Gord is stationary within the skill's duration.\n  - This skill can only be interrupted by airborne, frozen, suppressed or transformed crowd control effects."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "He has a small resemblance to Silver Surfer, both riding on a floating surfboard-like craft."
+      },
+      {
+        "markdown": "Gord is one of the heroes who doesn't walk, but instead he rides his floating board."
+      },
+      {
+        "markdown": "Before his rework, he executes his ultimate through his floating board. Now, he executes it with his hands only."
+      },
+      {
+        "markdown": "Gord is one of the heroes who can deal more than one type of damage with his skills, including magic damage and true damage."
+      },
+      {
+        "markdown": "Gord is one of the heroes that can zoom out the camera in gameplay when using his ultimate. The other heroes are Pharsa, Kimmy, Lesley, Gatotkaca, and Yi Sun-Shin, all with their Ultimates, as well as Blood Floods while charging."
+      },
+      {
+        "markdown": "Gord was Valir's mentor during his time in the Magic Academy, and is currently seeking to put a stop to his student after Valir's arcane flame went loose on the academy."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nHuman male from the Magic Academy in Northern Vale, Gord is a Magic Academy professor and Dean of the Icarus School. Wielding arcane magic and riding an arcane hoverboard, he is known as the Professor of the Mystic and Dean of the Icarus School of the Magic Academy.\n\n- Species: Human\n- Gender: Male\n- Origin: Magic Academy, Northern Vale\n- Occupation: Magic Academy professor; Dean of the Icarus School\n- Weapons: Arcane hoverboard\n- Fields of Study: Arcane magic\n- Abilities: Arcane magic\n- Alias: Professor of the Mystic; Dean of the Icarus School of the Magic Academy\n- Chinese Name: 古德 (gǔdé)\n- English VA: Con Eyre (2017–); Tony Waldman (2019 No. 1 Controller, 2023 Conqueror)\n\n# Story\n\n\"Dean of the Icarus School of the Magic Academy\"\n\nOne of the best students of the Magic Academy, but he mixed ancient sorcery into the process of practicing arcane arts, which led to him being possessed by the Demons. It was lucky that Elward acted in a timely manner, helping Gord control the energy running away in his body. After that, Gord had no hope of reaching the peak of arcane magic in his life, eventually becoming a mentor of the Magic Academy.\n\nGord has always been the living proof of excellence in the magic academy. He was born with the gift to manipulate the mystic powers which allowed him to master several sophisticated spells at an early age. But this is clearly a double-edged sword as Gord became increasingly arrogant over time. Once he stumbled across a forbidden book in the academy which recorded the method to forge the pure mystic existence out of human body using mystic powers.\n\nThe young wizard buried himself in the book and launched his study without respecting the opinions from the outside. It worked out successfully in the beginning, the pure mystic energy started to flow in Gord's veins, thus he was able to cast even more powerful spells. Unfortunately, Gord was not able to control this power and he became overwhelmed with mystic energy. Gord then tried to seek a solution from ancient magic sources. With the combination of the two different energies, Gord's body was almost devastated. Thanks to the help from Elward, the chief wizard, the turbulence in his body was finally able to be controlled. The incident took a huge toll on Gord, leaving his body half red and half blue. While he was saved, Gord can never again control the magic contained in pure mystic energy.\n\nElward encouraged Gord until he finally got back on his feet. Elward then invited Gord to continue his career as a wizard and invited him to teach at the academy. After careful consideration, Gord accepted the offer. He wished to find a student who will carry on his studies without making the same mistakes. From that day, Gord started a new life as the strictest professor in the magic academy.\n\n# Abilities\n\n## Mystic Favor\n\nAfter Gord hits an enemy 4 times with Basic Attacks or skills within a short period of time, the next attack on the target will deal additional true damage based on level and stats and slow them by 20% for 1 second. The slow effect stacks up to 2 times.\n\n- Slow Effect per Stack: 20%, up to 40%\n- Damage Type: True damage on the enhanced hit\n\n## Mystic Projectile\n\nGord conjures a Mystic Orb that bounces in the target direction and explodes on the first enemy hit, dealing magic damage to enemies in the area, while stunning them and revealing their locations for 1 second.\n\n- Base Damage: 270 / 315 / 360 / 405 / 450 / 495\n- Damage Type: Magic damage\n- Spell Vamp Ratio: 50%\n- Cooldown: 10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5 seconds\n- Mana Cost: 90 / 100 / 110 / 120 / 130 / 140\n- Additional Effect: Stuns and reveals affected enemies\n\n## Mystic Injunction\n\nGord creates an energy field in the target area, dealing magic damage every 0.3 second to enemies within, up to 13 times.\n\n- Damage Per Hit: 55 / 65 / 75 / 85 / 95 / 105\n- Damage Type: Magic damage over time in an area\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Mana Cost: 55 / 65 / 75 / 85 / 95 / 105\n\n## Mystic Gush\n\nGord unleashes an energy beam in the target direction, dealing magic damage to enemies hit every 0.2 seconds, up to 16 times. The direction of the beam can be adjusted using the Joystick.\n\n- Damage Per Hit: 110 / 160 / 210\n- Damage Type: Magic damage\n- Spell Vamp Ratio: 50%\n- Cooldown: 44.0 / 40.0 / 36.0 seconds\n- Mana Cost: 150 / 170 / 190\n- Notes:\n  - Gord is stationary within the skill's duration.\n  - This skill can only be interrupted by airborne, frozen, suppressed or transformed crowd control effects.\n\n# Trivia\n\n- He has a small resemblance to Silver Surfer, both riding on a floating surfboard-like craft.\n- Gord is one of the heroes who doesn't walk, but instead he rides his floating board.\n- Before his rework, he executes his ultimate through his floating board. Now, he executes it with his hands only.\n- Gord is one of the heroes who can deal more than one type of damage with his skills, including magic damage and true damage.\n- Gord is one of the heroes that can zoom out the camera in gameplay when using his ultimate. The other heroes are Pharsa, Kimmy, Lesley, Gatotkaca, and Yi Sun-Shin, all with their Ultimates, as well as Blood Floods while charging.\n- Gord was Valir's mentor during his time in the Magic Academy, and is currently seeking to put a stop to his student after Valir's arcane flame went loose on the academy.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "valir"
+      ],
+      "faction": "Magic Academy",
+      "allies": [
+        "valir"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Dean",
+      "locationTies": [
+        {
+          "location": "Magic Academy",
+          "relationship": "home"
+        },
+        {
+          "location": "Northern Vale",
+          "relationship": "origin"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "power",
+      "loss",
+      "redemption"
+    ],
+    "hook": "He wished to find a student who will carry on his studies without making the same mistakes, starting a new life as the strictest professor in the academy.",
+    "teaser": "Once the academy’s brightest prodigy, Gord’s obsession with pure mystic energy shattered his body and future, forcing him into a strict mentor’s path of atonement.",
+    "openingLine": "Gord has always been the living proof of excellence in the magic academy.",
+    "dominantColor": "#3B7BD9",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "forbidden magic",
+      "academy prodigy",
+      "arcane experiment",
+      "loss of power",
+      "mentor role",
+      "search for worthy student"
+    ],
+    "characterTraits": [
+      "arrogant",
+      "gifted",
+      "disciplined",
+      "strict",
+      "regretful",
+      "determined"
+    ],
+    "locations": [
+      "Magic Academy",
+      "Northern Vale"
+    ],
+    "wordCount": 964,
+    "readingTimeMinutes": 7,
+    "connectionsCount": 1,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646976327,
+    "updatedAt": 1764646976327
+  },
+  "lastUpdated": null
+}

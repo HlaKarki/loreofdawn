@@ -1,0 +1,161 @@
+{
+  "hero": "novaria",
+  "urlName": "novaria",
+  "sections": {
+    "profile": {
+      "markdown": "- Full name: Novaria\n- Alias: Star Rebel\n- Origin: Eruditio\n- Species: Half-Human, Half-Star\n- Gender: Female\n- Weapons: Star Magic\n- Abilities: Astral Sphere manipulation\n- Relationships:\n  - Unnamed mother (fate unknown)\n- Japanese voice actor: Yuu Sakuragi (桜木 夕)"
+    },
+    "story": {
+      "markdown": "> Tap the link to know more stories of Novaria from her bio \"The Nova\". Together, let's witness her rebelling journey against the stars and how she brings back the destiny that they had stolen!\n\nNovaria woke up in the silence of the night. She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas.\n\nBut unlike the countless times before, an exceptionally bright star could be seen this night. As Novaria gazed upon it, her hands reached out as if by instinct, until it was stopped by an invisible cage.\n\nOf course they wouldn't allow it. Novaria knew that all too well. This night, and every night, the stars held her prisoner. She could only watch the tiny glimmers overhead and ruminate the story of her life over and over again.\n\nA story that they had written.\n\n> ''Novaria, the last remaining Astral Artificer, belonged to us. She was born in the Valley of Stars and that is all she will ever know. Her people had been blessed with a fragment of our power, yet they foolishly sought to build the Star Atlas, under the delusion that it would allow them to unlock our secrets.''\n\n> ''Such naive creatures! We the stars are infinite, whereas they, mere mortals, waste their lives seeking to comprehend us. But this girl, Novaria, was unique. She somehow discovered within the Star Atlas the destiny we designed for her: When the stars align, her power as the First Observer will awaken and she will become a half-astral being. By our will, she will inadvertently destroy the Star Atlas and doom her entire people.''\n\n> ''We are the stars. She will abide by our will. She must abide by our will.''\n\nAfter seeing her destiny, Novaria hid her power out of fear. But one fateful day, she foresaw in the stars that a tragedy would befall her mother, and was left with no choice but to alter the Star Atlas.\n\n> ''When her mother returned home safely, Novaria finally understood the connection between the Star Atlas and the stars. It was at that moment that she made up her mind to betray us. Bit by bit, she made tiny, seemingly insignificant changes to the Atlas. Patterns of stars began to appear on her body, which distressed her but did not stop her work.''\n\nShe looked up and found that star again, this time even brighter than before, as if it was burning all of its energy.\n\nThis was not within the stars' design.\n\nNovaria felt something stirring in her heart, something she hadn't felt since that night.\n\n> ''On the night of her sixteenth birthday, she aligned the last star into place according to her design. At last, her people would be saved. The next morning, as Novaria enjoyed the cake her mother made her, she felt at peace. The naive girl believed she was blessed by the stars.''\n\n*We do not know mercy.*\n\n> ''The Star Atlas suddenly began shifting radically as a rift grew from its center, tearing the Atlas apart. Star fragments wrapped around Novaria and began pulling her towards the rift. Her mother and the other Artificers exhausted the last of their power desperately trying to pull her back. She was the only one capable of completing the Star Atlas.''\n\n> ''The cosmic forces within the rift began changing Novaria, turning her skin. She struggled and cried, trying to hold on to what little hope she had left, but it was to no avail.''\n\n> ''We are the stars. She will abide by our will. She must abide by our will.''\n\n> ''Novaria fainted. When she came to, she found herself shackled by astral rings. She could not escape destiny. She tried to resist; in darkness, she chased and chased the fleeting stars, but she could not break away from our design. We chose her. She will not be allowed to defy us again. No creature could...''\n\nOr could they...?\n\nThe last hope was kindled in Novaria's heart. A great explosion lit up the sky in a magnificent spectacle. It was that star! For her to shatter a star... it was unthinkable! She had challenged destiny by her own will. The stars were no longer arrogant; they began to tremble at the sight of such power. The astral rings that shackled Novaria trembled as well. This was her chance.\n\nNovaria broke free using her newfound power. The rings cracked and shattered into countless little pieces.\n\nNovaria raised her hand and held a burning star fragment on her fingertip. She contemplated for a long time, trying to understand it all. Finally, she realized...\n\nShe was free.\n\nAs daylight finally broke, Novaria felt a greater calling - to leave the Valley of Stars and search for the location of the shattered star. She lifted her head and looked into the fading night.\n\n> \"I know I'll never have power as infinite as yours,\" Novaria said to us, \"But I will complete the Star Atlas, and with it, unlock the secrets of the stars. The destinies accessible to you will also be accessible to me. Then we'll have an even playing field. You won't shackle me down, or anyone else for that matter. Our destiny will be in our own hands.\"\n\nAs the night faded, the stars could only reply with silence.\n\nNovaria shook off the star fragments and walked towards the dawn."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Star Trail",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Astral Spheres summoned by Novaria will continuously slow nearby enemies by 20% and grant vision of them for 2 seconds.\n\n- Base damage: 260 / 285 / 310 / 335 / 360 / 385\n- Extra percentage damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Astral Meteor",
+        "cooldown": 8,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Novaria summons an Astral Sphere at the target location, continuously dealing magic damage to nearby enemies six times. After 2 seconds, the sphere will explode, dealing additional magic damage to nearby enemies and increasing Astral Sphere's slow effect to 2.5 times the original slow effect (50% slow).\n\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Mana cost: 60 / 70 / 80 / 90 / 100 / 110\n- Periodic damage: scaling magic damage based on level\n- Explosion damage: scaling magic damage based on level\n- Base periodic damage: 75 / 90 / 105 / 120 / 135 / 150\n- Base explosion damage: 260 / 285 / 310 / 335 / 360 / 385\n- Extra percentage damage on explosion: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6% of the enemy's max HP\n\nNotes:\n- The damage, excluding the final one, reveals enemies until they get out of the area of effect.\n- The final damage reveals heroes for 2 seconds."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Astral Recall",
+        "cooldown": 8,
+        "cost": 120,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Novaria summons an Astral Sphere at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall will increase the Movement bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy hero, dealing scaling magic damage. The damage will increase based on the Astral Sphere's travel distance (starting from when the sphere is summoned) up to 2.5 times the original.\n\n- Cooldown: 8.0 seconds\n- Mana cost: 120 / 150 / 180 / 210 / 240 / 270\n- Base damage: 260 / 285 / 310 / 335 / 360 / 385\n- Extra percentage damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6% of the enemy's max HP\n- Damage increase per distance step: 15% / 30% / 45% / 60% / 75% / 90% / 105% / 120% / 135% / 150%\n\nNotes:\n- Enemies will be revealed for a short amount of time when passed by the returning Astral Sphere. No eye mark if it doesn't hit them.\n- The game camera zooms out during the skill duration.\n- If Astral Recall ends when Novaria is inside an obstacle, she will be displaced to the nearest valid point.\n- Novaria cannot go beyond the battlefield for an unspecified amount of distance within the skill duration.\n- Novaria can recall during the skill duration, but it will be interrupted when she receives the Astral Sphere, or the skill duration ends while she is inside an obstacle.\n- It deals up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000 damage to non-hero units.\n- Novaria speeds up by 60% when passing through obstacles.\n- Novaria can get more stacks when passing through obstacles.\n- Assisted Aiming Mode is disabled by default on this skill.\n- Passing by obstacles increases speed once per cast time."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Astral Echo",
+        "cooldown": 45,
+        "cost": 150,
+        "role": "Control",
+        "details": {
+          "markdown": "Novaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% for approximately 0.8 seconds while applying an Astral Ring on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 5 seconds.\n\n- Cooldown: 45.0 / 40.0 / 35.0 seconds\n- Mana cost: 150 / 75 / 0\n\nNotes:\n- Has a distance of 23 units.\n- Novaria gets an assist from an enemy marked by the Astral Ring.\n- Hitbox increase does not increase the enemy's ability range."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Novaria is of Latin origin and means fresh and innovative. The name \"Novaria\" is reminiscent of \"nova,\" a term used in astronomy to describe a star that suddenly increases in brightness. This aligns with her celestial theme and her role as a luminous force on the battlefield."
+      },
+      {
+        "markdown": "Her attire features shimmering, glowing patterns resembling stars and constellations, highlighting her celestial nature."
+      },
+      {
+        "markdown": "Novaria’s entire design is inspired by the cosmos, stars, and celestial elements. She is a manifestation of the Astral Artificer from the Valley of Stars, and her design reflects her deep connection to astral energy and cosmic forces. The dominant colors in her design are blue, purple, and white, all of which are traditionally associated with the night sky and space."
+      },
+      {
+        "markdown": "Unlike most mages, she can pass through walls, helping her reposition for better attacks or escape dangerous situations."
+      },
+      {
+        "markdown": "Unlike most mages who deal damage within a fixed range, Novaria’s long-range skill rewards players for positioning and perfecting their aim, making her one of the few mages who functions like a ranged marksman in a sense."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Full name: Novaria\n- Alias: Star Rebel\n- Origin: Eruditio\n- Species: Half-Human, Half-Star\n- Gender: Female\n- Weapons: Star Magic\n- Abilities: Astral Sphere manipulation\n- Relationships:\n  - Unnamed mother (fate unknown)\n- Japanese voice actor: Yuu Sakuragi (桜木 夕)\n\n# Story\n\n> Tap the link to know more stories of Novaria from her bio \"The Nova\". Together, let's witness her rebelling journey against the stars and how she brings back the destiny that they had stolen!\n\nNovaria woke up in the silence of the night. She found herself in the vast, empty darkness once again, floating among the remains of the Star Atlas.\n\nBut unlike the countless times before, an exceptionally bright star could be seen this night. As Novaria gazed upon it, her hands reached out as if by instinct, until it was stopped by an invisible cage.\n\nOf course they wouldn't allow it. Novaria knew that all too well. This night, and every night, the stars held her prisoner. She could only watch the tiny glimmers overhead and ruminate the story of her life over and over again.\n\nA story that they had written.\n\n> ''Novaria, the last remaining Astral Artificer, belonged to us. She was born in the Valley of Stars and that is all she will ever know. Her people had been blessed with a fragment of our power, yet they foolishly sought to build the Star Atlas, under the delusion that it would allow them to unlock our secrets.''\n\n> ''Such naive creatures! We the stars are infinite, whereas they, mere mortals, waste their lives seeking to comprehend us. But this girl, Novaria, was unique. She somehow discovered within the Star Atlas the destiny we designed for her: When the stars align, her power as the First Observer will awaken and she will become a half-astral being. By our will, she will inadvertently destroy the Star Atlas and doom her entire people.''\n\n> ''We are the stars. She will abide by our will. She must abide by our will.''\n\nAfter seeing her destiny, Novaria hid her power out of fear. But one fateful day, she foresaw in the stars that a tragedy would befall her mother, and was left with no choice but to alter the Star Atlas.\n\n> ''When her mother returned home safely, Novaria finally understood the connection between the Star Atlas and the stars. It was at that moment that she made up her mind to betray us. Bit by bit, she made tiny, seemingly insignificant changes to the Atlas. Patterns of stars began to appear on her body, which distressed her but did not stop her work.''\n\nShe looked up and found that star again, this time even brighter than before, as if it was burning all of its energy.\n\nThis was not within the stars' design.\n\nNovaria felt something stirring in her heart, something she hadn't felt since that night.\n\n> ''On the night of her sixteenth birthday, she aligned the last star into place according to her design. At last, her people would be saved. The next morning, as Novaria enjoyed the cake her mother made her, she felt at peace. The naive girl believed she was blessed by the stars.''\n\n*We do not know mercy.*\n\n> ''The Star Atlas suddenly began shifting radically as a rift grew from its center, tearing the Atlas apart. Star fragments wrapped around Novaria and began pulling her towards the rift. Her mother and the other Artificers exhausted the last of their power desperately trying to pull her back. She was the only one capable of completing the Star Atlas.''\n\n> ''The cosmic forces within the rift began changing Novaria, turning her skin. She struggled and cried, trying to hold on to what little hope she had left, but it was to no avail.''\n\n> ''We are the stars. She will abide by our will. She must abide by our will.''\n\n> ''Novaria fainted. When she came to, she found herself shackled by astral rings. She could not escape destiny. She tried to resist; in darkness, she chased and chased the fleeting stars, but she could not break away from our design. We chose her. She will not be allowed to defy us again. No creature could...''\n\nOr could they...?\n\nThe last hope was kindled in Novaria's heart. A great explosion lit up the sky in a magnificent spectacle. It was that star! For her to shatter a star... it was unthinkable! She had challenged destiny by her own will. The stars were no longer arrogant; they began to tremble at the sight of such power. The astral rings that shackled Novaria trembled as well. This was her chance.\n\nNovaria broke free using her newfound power. The rings cracked and shattered into countless little pieces.\n\nNovaria raised her hand and held a burning star fragment on her fingertip. She contemplated for a long time, trying to understand it all. Finally, she realized...\n\nShe was free.\n\nAs daylight finally broke, Novaria felt a greater calling - to leave the Valley of Stars and search for the location of the shattered star. She lifted her head and looked into the fading night.\n\n> \"I know I'll never have power as infinite as yours,\" Novaria said to us, \"But I will complete the Star Atlas, and with it, unlock the secrets of the stars. The destinies accessible to you will also be accessible to me. Then we'll have an even playing field. You won't shackle me down, or anyone else for that matter. Our destiny will be in our own hands.\"\n\nAs the night faded, the stars could only reply with silence.\n\nNovaria shook off the star fragments and walked towards the dawn.\n\n# Abilities\n\n## Star Trail\n\nAstral Spheres summoned by Novaria will continuously slow nearby enemies by 20% and grant vision of them for 2 seconds.\n\n- Base damage: 260 / 285 / 310 / 335 / 360 / 385\n- Extra percentage damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6%\n\n## Astral Meteor\n\nNovaria summons an Astral Sphere at the target location, continuously dealing magic damage to nearby enemies six times. After 2 seconds, the sphere will explode, dealing additional magic damage to nearby enemies and increasing Astral Sphere's slow effect to 2.5 times the original slow effect (50% slow).\n\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Mana cost: 60 / 70 / 80 / 90 / 100 / 110\n- Periodic damage: scaling magic damage based on level\n- Explosion damage: scaling magic damage based on level\n- Base periodic damage: 75 / 90 / 105 / 120 / 135 / 150\n- Base explosion damage: 260 / 285 / 310 / 335 / 360 / 385\n- Extra percentage damage on explosion: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6% of the enemy's max HP\n\nNotes:\n- The damage, excluding the final one, reveals enemies until they get out of the area of effect.\n- The final damage reveals heroes for 2 seconds.\n\n## Astral Recall\n\nNovaria summons an Astral Sphere at a distance and draws it towards her. At the same time, Novaria gains 20% Movement Speed and can pass through terrain. Passing through a wall will increase the Movement bonus to 60%. When the Astral Sphere reaches Novaria, she can launch it in a target direction within 5 seconds. The sphere will explode when hitting an enemy hero, dealing scaling magic damage. The damage will increase based on the Astral Sphere's travel distance (starting from when the sphere is summoned) up to 2.5 times the original.\n\n- Cooldown: 8.0 seconds\n- Mana cost: 120 / 150 / 180 / 210 / 240 / 270\n- Base damage: 260 / 285 / 310 / 335 / 360 / 385\n- Extra percentage damage: 4% / 4.4% / 4.8% / 5.2% / 5.6% / 6% of the enemy's max HP\n- Damage increase per distance step: 15% / 30% / 45% / 60% / 75% / 90% / 105% / 120% / 135% / 150%\n\nNotes:\n- Enemies will be revealed for a short amount of time when passed by the returning Astral Sphere. No eye mark if it doesn't hit them.\n- The game camera zooms out during the skill duration.\n- If Astral Recall ends when Novaria is inside an obstacle, she will be displaced to the nearest valid point.\n- Novaria cannot go beyond the battlefield for an unspecified amount of distance within the skill duration.\n- Novaria can recall during the skill duration, but it will be interrupted when she receives the Astral Sphere, or the skill duration ends while she is inside an obstacle.\n- It deals up to 1000 / 1200 / 1400 / 1600 / 1800 / 2000 damage to non-hero units.\n- Novaria speeds up by 60% when passing through obstacles.\n- Novaria can get more stacks when passing through obstacles.\n- Assisted Aiming Mode is disabled by default on this skill.\n- Passing by obstacles increases speed once per cast time.\n\n## Astral Echo\n\nNovaria scatters Astral Echo in the target direction, briefly slowing enemy heroes hit by 50% for approximately 0.8 seconds while applying an Astral Ring on them, increasing their hitbox by 2.5 times and revealing their surrounding area. This effect lasts 5 seconds.\n\n- Cooldown: 45.0 / 40.0 / 35.0 seconds\n- Mana cost: 150 / 75 / 0\n\nNotes:\n- Has a distance of 23 units.\n- Novaria gets an assist from an enemy marked by the Astral Ring.\n- Hitbox increase does not increase the enemy's ability range.\n\n# Trivia\n\n- The name Novaria is of Latin origin and means fresh and innovative. The name \"Novaria\" is reminiscent of \"nova,\" a term used in astronomy to describe a star that suddenly increases in brightness. This aligns with her celestial theme and her role as a luminous force on the battlefield.\n- Her attire features shimmering, glowing patterns resembling stars and constellations, highlighting her celestial nature.\n- Novaria’s entire design is inspired by the cosmos, stars, and celestial elements. She is a manifestation of the Astral Artificer from the Valley of Stars, and her design reflects her deep connection to astral energy and cosmic forces. The dominant colors in her design are blue, purple, and white, all of which are traditionally associated with the night sky and space.\n- Unlike most mages, she can pass through walls, helping her reposition for better attacks or escape dangerous situations.\n- Unlike most mages who deal damage within a fixed range, Novaria’s long-range skill rewards players for positioning and perfecting their aim, making her one of the few mages who functions like a ranged marksman in a sense.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "layla",
+        "diggie",
+        "yin",
+        "badang",
+        "grock"
+      ],
+      "faction": "Eruditio",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Eruditio",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Valley of Stars",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "mysterious"
+    ],
+    "themes": [
+      "destiny",
+      "freedom",
+      "power"
+    ],
+    "hook": "She shattered a star to defy the destiny written for her, and with a burning fragment on her fingertip, vowed that never again would the stars shackle any soul.",
+    "teaser": "Born to fulfill the stars’ cruel design, Novaria breaks her astral chains, shatters a star, and sets out to rewrite destiny itself across the Land of Dawn.",
+    "openingLine": "Novaria woke up in the silence of the night.",
+    "dominantColor": "#4B32A8",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "star-forged destiny",
+      "astral imprisonment",
+      "betrayal of the stars",
+      "mother saved from fate",
+      "Star Atlas rift",
+      "shattering a star",
+      "breaking astral chains",
+      "vow to rewrite destiny"
+    ],
+    "characterTraits": [
+      "rebellious",
+      "determined",
+      "courageous",
+      "introspective",
+      "defiant"
+    ],
+    "locations": [
+      "Eruditio",
+      "Valley of Stars",
+      "Land of Dawn"
+    ],
+    "wordCount": 1772,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646909097,
+    "updatedAt": 1764646909097
+  },
+  "lastUpdated": null
+}

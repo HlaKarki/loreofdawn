@@ -1,0 +1,150 @@
+{
+  "hero": "jawhead",
+  "urlName": "jawhead",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** SMART-01\n\n**Alias:**\n- Steel Sweetheart\n- Prototype One\n- Jawhead (by Ailee)\n\n**Chinese Name:** 大铁罐 (dàtiěguàn, \"Great Metal Pot\" )\n\n**Origin:** Laboratory 1718\n\n**Species:** Robot\n\n**Gender:** Ungendered\n\n**Occupation:** Guardian of Henry family\n\n**Weapons:** Smart missiles\n\n**Relationships:** Prof. and Mrs. Henry (creator)\n\n**Related Character:**\n\n- **Name:** Ailee\n  - Full Name: Ailee Henry\n  - Alias: Honey/Honeybear (by Jawhead)\n  - Species: Human\n  - Relationships: Prof. and Mrs. Henry (parents)"
+    },
+    "story": {
+      "markdown": "> \"Intelligent robot used to protect little Ailee\"\n\nThis intelligent robot developed by Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter little Ailee after their disappearance."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Mecha Suppression",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Jawhead's attacks apply a stack of Mecha Suppression on hit (up to 10 stacks). Each stack lasts 3 seconds and increases the damage of Jawhead's Physical Basic Attacks to the enemy by 8%.\n\nBasic Attack Damage Increase Per Stack: 8% / 16% / 24% / 32% / 40% / 48% / 56% / 64% / 72% / 80%\n\nNotes:\n- Only applies to non-minion enemies.\n- Jawhead's attacks also refresh the duration of the stacks.\n- Attacks that apply Mecha Suppression stacks only refer to Jawhead's basic attack and skill damage dealt."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Smart Missiles",
+        "cooldown": 5,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Jawhead launches up to 12 missiles at random nearby enemies over 5 seconds, each missile dealing physical damage to the enemy hit.\n\nBase Damage per missile: 135 / 160 / 185 / 210 / 235 / 260\n\nDamage Type: Physical damage skill\n\nMana Cost: 60 / 65 / 70 / 75 / 80 / 85"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Ejector",
+        "cooldown": 15,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Jawhead gains 30% Movement Speed and a shield for several seconds. Jawhead then flings the nearest unit (prioritizes heroes) to the target location, dealing physical damage to enemies in the area and stunning them for 0.5 seconds. This skill can be used on allied heroes and they will not take damage.\n\nBase Shield: 250 / 320 / 390 / 460 / 530 / 600\nBase Damage: 300 / 340 / 380 / 420 / 460 / 500\n\nDamage Type: Physical damage skill\n\nControl Effects:\n- Stun (0.5 seconds)\n- Displacement via fling\n\nMovement Effect:\n- 30% Movement Speed bonus for Jawhead\n\nMana Cost: 80 / 90 / 100 / 110 / 120 / 130"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Unstoppable Force",
+        "cooldown": 35,
+        "cost": 120,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Jawhead charges into the target enemy hero, dealing physical damage and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.\n\nBase Damage: 350 / 475 / 600\n\nDamage Type: Physical damage skill\n\nControl Effects:\n- Stun on the primary target\n- Knockback to nearby enemies\n\nMobility Effect:\n- Blink-style charge to the target enemy hero\n\nMana Cost: 120 / 150 / 180\n\nNotes:\n- This ability has three phases:\n  - Jawhead begins to channel the charge. If interrupted at this step, the ability does not go on cooldown.\n  - Jawhead travels to the target.\n  - Upon hitting the target, Jawhead loses crowd control immunity and nearby enemies are knocked back."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Jawhead is the only hero who carries a companion (Ailee) that does not help or assist in fight."
+      },
+      {
+        "markdown": "Revisions of the name of Ailee was made from Alice and Ellie."
+      },
+      {
+        "markdown": "Almost all of Jawhead's skins has two eyes or lens which is different from default's one."
+      },
+      {
+        "markdown": "\"Victory Loader\" is the first skin that use Ailee's face in the avatar icon instead of using Jawhead's face."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** SMART-01\n\n**Alias:**\n- Steel Sweetheart\n- Prototype One\n- Jawhead (by Ailee)\n\n**Chinese Name:** 大铁罐 (dàtiěguàn, \"Great Metal Pot\" )\n\n**Origin:** Laboratory 1718\n\n**Species:** Robot\n\n**Gender:** Ungendered\n\n**Occupation:** Guardian of Henry family\n\n**Weapons:** Smart missiles\n\n**Relationships:** Prof. and Mrs. Henry (creator)\n\n**Related Character:**\n\n- **Name:** Ailee\n  - Full Name: Ailee Henry\n  - Alias: Honey/Honeybear (by Jawhead)\n  - Species: Human\n  - Relationships: Prof. and Mrs. Henry (parents)\n\n# Story\n\n> \"Intelligent robot used to protect little Ailee\"\n\nThis intelligent robot developed by Henry and his wife is armed with weapons and strong defensive capabilities, and can also act as a housekeeper. It is responsible for protecting the couple's daughter little Ailee after their disappearance.\n\n# Abilities\n\n## Mecha Suppression\n\nJawhead's attacks apply a stack of Mecha Suppression on hit (up to 10 stacks). Each stack lasts 3 seconds and increases the damage of Jawhead's Physical Basic Attacks to the enemy by 8%.\n\nBasic Attack Damage Increase Per Stack: 8% / 16% / 24% / 32% / 40% / 48% / 56% / 64% / 72% / 80%\n\nNotes:\n- Only applies to non-minion enemies.\n- Jawhead's attacks also refresh the duration of the stacks.\n- Attacks that apply Mecha Suppression stacks only refer to Jawhead's basic attack and skill damage dealt.\n\n## Smart Missiles\n\nJawhead launches up to 12 missiles at random nearby enemies over 5 seconds, each missile dealing physical damage to the enemy hit.\n\nBase Damage per missile: 135 / 160 / 185 / 210 / 235 / 260\n\nDamage Type: Physical damage skill\n\nMana Cost: 60 / 65 / 70 / 75 / 80 / 85\n\n## Ejector\n\nJawhead gains 30% Movement Speed and a shield for several seconds. Jawhead then flings the nearest unit (prioritizes heroes) to the target location, dealing physical damage to enemies in the area and stunning them for 0.5 seconds. This skill can be used on allied heroes and they will not take damage.\n\nBase Shield: 250 / 320 / 390 / 460 / 530 / 600\nBase Damage: 300 / 340 / 380 / 420 / 460 / 500\n\nDamage Type: Physical damage skill\n\nControl Effects:\n- Stun (0.5 seconds)\n- Displacement via fling\n\nMovement Effect:\n- 30% Movement Speed bonus for Jawhead\n\nMana Cost: 80 / 90 / 100 / 110 / 120 / 130\n\n## Unstoppable Force\n\nJawhead charges into the target enemy hero, dealing physical damage and briefly stunning them. Enemies around the target are knocked back and dealt the same amount of damage. Jawhead is immune to control effects during the charge.\n\nBase Damage: 350 / 475 / 600\n\nDamage Type: Physical damage skill\n\nControl Effects:\n- Stun on the primary target\n- Knockback to nearby enemies\n\nMobility Effect:\n- Blink-style charge to the target enemy hero\n\nMana Cost: 120 / 150 / 180\n\nNotes:\n- This ability has three phases:\n  - Jawhead begins to channel the charge. If interrupted at this step, the ability does not go on cooldown.\n  - Jawhead travels to the target.\n  - Upon hitting the target, Jawhead loses crowd control immunity and nearby enemies are knocked back.\n\n# Trivia\n\n- Jawhead is the only hero who carries a companion (Ailee) that does not help or assist in fight.\n- Revisions of the name of Ailee was made from Alice and Ellie.\n- Almost all of Jawhead's skins has two eyes or lens which is different from default's one.\n- \"Victory Loader\" is the first skin that use Ailee's face in the avatar icon instead of using Jawhead's face.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": "Laboratory 1718",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Prototype",
+      "locationTies": [
+        {
+          "location": "Laboratory 1718",
+          "relationship": "origin"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "setting"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "mysterious"
+    ],
+    "themes": [
+      "family",
+      "power",
+      "destiny"
+    ],
+    "hook": "All Ailee knows is that the special robot calling her “Honey” has always been by her side, guarding her in place of the parents who vanished without a trace.",
+    "teaser": "Built as the ultimate prototype weapon, SMART-01 defied its makers’ fate to become Jawhead, the steadfast steel guardian of a little girl named Ailee.",
+    "openingLine": "Clandestine organizations have existed throughout the many ages of the Land of Dawn's history.",
+    "dominantColor": "#2F91C9",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "secret organization",
+      "cutting-edge technology",
+      "prototype weapon",
+      "family disappearance",
+      "child protected by robot",
+      "search for missing parents"
+    ],
+    "characterTraits": [
+      "protective",
+      "loyal",
+      "innocent",
+      "powerful",
+      "obedient",
+      "steadfast"
+    ],
+    "locations": [
+      "Land of Dawn",
+      "Laboratory 1718"
+    ],
+    "wordCount": 566,
+    "readingTimeMinutes": 4,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646951096,
+    "updatedAt": 1764646951096
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,232 @@
+{
+  "hero": "zhask",
+  "urlName": "zhask",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Zhask\n\n**Aliases:**\n- King of Swarms (Currently)\n- Planes Dominator (Formerly)\n\n**Title:** King of the Swarm who distrupts the balance of the universe\n\n**Birthplace:** Kastiya\n\n**Origin:** Frozen Sea Chronorift\n\n**Species:** Extraterrestrial\n\n**Gender:** Male\n\n**Nationality:** Kastiyan\n\n**Weapons:** Domorey\n\n**Abilities:**\n- Summons Nightmaric Spawn\n- Fires mental missile\n- Summons Nightmeric Clones\n- Fuses to Nightmaric Spawn\n\n**Battles Fought:**\n- Invasion of Mithlora\n- Invasion of the Land of Dawn\n\n**Known Enemies:**\n- Yve\n- Aurora and Tobias (Aurora's Old Lore)\n\n**Voice Actors (EN):** Cian Hoyne (2017–2021)\n\n**Voice Actors (JP):** Miyamoto Jyun (宮本 淳)"
+    },
+    "story": {
+      "markdown": "\"King of the Swarm who distrupts the balance of the universe\"\n\nZhask expanded his swarm as he pleased in the universe, disrupting its balance in the process. Yve pursued him, but Zhask was able to escape every time.\n\nWhen he shuffled to the Land of Dawn and attempted to destroy it, he was hit hard by the resistance of Aurora and Tobias, so he hibernated in Kastiya to recuperate. But at this time, Yve also arrived, so a duel was imminent."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Rise of the Swarm",
+          "content": {
+            "markdown": "In the vast universe, there are countless unknown planets and mysterious regions.\n\nSome planets have been annihilated and forgotten, but some endure – like the planet of Kastiya.\n\nMany great civilizations were built over a long history of discovery and enlightenment. This was however, not the case for the Kastiyans – whose bloody history was etched in struggles and brutality. For countless eons, the Swarm of Kastiya plundered and devoured to maintain the prosperity of their own race. The vicious nature of the Swarm made them keen on endless encroachment and reproduction.\n\nAs the king of Kastiya, Zhask knew exactly what he and his race needed. The terrifying Swarm was able to follow Zhask's lead, appearing anywhere in the universe, and then devouring all in its path. The scourge of the Swarm was more prolific than any other race. No planet in known history has ever been completely safe from the Swarm – and the most terrifying thing was that the Swarm could never be completely wiped out."
+          }
+        },
+        {
+          "title": "Hunters of Mithlora",
+          "content": {
+            "markdown": "Of course, the Swarm of Kastiya also had their arch-enemy – Mithlora.\n\nMithlora was a mysterious region among the stars. The race living there was few in number, but naturally powerful. As one of the most advanced hunters in the universe imbued with tremendous power, Mithlora was burdened with the purpose to maintain the balance of the universe. Therefore, the ever-present Swarm had the ever-watchful Mithlora to deal with.\n\nA veteran hunter from Mithlora had once destroyed Zhask's home Kastiya, but the Swarm could not be completely wiped out. In fact, the destruction of their hometown sparked a raging crusade to expand wildly and ravage other planets. Led by King Zhask, they took absolute pleasure in plundering and replicating their own species. In the midst of their savagery, Mithlora had dispatched a formidable new hunter – Yve."
+          }
+        },
+        {
+          "title": "Endless Pursuit",
+          "content": {
+            "markdown": "Zhask was not afraid of this new threat. On the contrary, he enjoyed the thrill of the chase. Even though Kastiya had already been reduced to dust, Zhask and his Swarm believed that any area in the starry sky may become the the new Kastiya II – so long as they never stop breeding.\n\nWith great strength and cunning, Zhask caused Yve’s efforts to hunt down the scourge to fail countless times. Because of the Swarm’s potency to reproduce, the planets that had been invaded had almost no power to fight back. The creatures on those planets were quickly rendered extinct from Zhask's desolation.\n\nAlthough those from Mithlora never needed help from others, the weakness of those planets isolated Yve to a certain extent. Zhask was always 2 steps ahead of his Mithloran pursuer. Yve would always find herself a completely plundered and ruined planet with Zhask already absconded towards his next foray into the known universe.\n\nZhask was immersed in the pleasure of plundering. He enjoyed the thrill of the hunt and the endless slaughter. Even with the best of Yve’s attempt to stop him, Zhask would always manage to escape under the cover of his swarm.\n\nThe scars on his body did not deter Zhask from his plundering journey. Without pause, Zhask once again passed through the spacetime continuum and came to a new area. This time, he came to the Land of Dawn."
+          }
+        },
+        {
+          "title": "Invasion of the Land of Dawn",
+          "content": {
+            "markdown": "The arrival of Zhask and the Swarm brought serious disaster to The Northern Vale in the Land of Dawn. Numerous villages and tribes were destroyed by the Swarm and the people were displaced. But in a place where heroes gathered, and unlike his previous encounters, Zhask found unprecedented resistance in the Land of Dawn.\n\nThe young knight Tobias led his knights to fight Zhask and sacrificed his life for his land. It was in this battle that Tobias’ lover Aurora, dealt Zhask a devastating blow.\n\nThis was the first time that Zhask had been badly hurt by anyone other than Yve. Injured, he could not escape from the Land of Dawn through the Chrono Rift, so he could only find a piece of land on this continent as a temporary stronghold to give him and his Swarm some respite. He never imagined that these seemingly fragile creatures would be so powerful."
+          }
+        },
+        {
+          "title": "Impending Cosmic Duel",
+          "content": {
+            "markdown": "Zhask went to ground, waiting for the right opportunity. But the situation was a bit tricky: Aurora, who in order to avenge her lover, guarded the Frozen Ocean and never left sight. Meanwhile, the unusual yet familiar time and space fluctuations in the universe only meant to Zhask of Yve’s imminent arrival. A battle of astronomic proportions was soon to happen in the Land of Dawn that could decide the fates of countless many in the universe…"
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Decimation",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Upon death, Zhask summons a frenzied Nightmaric Spawn on the spot, which gradually loses HP over time until death.\n\nUnlike the normal one, the frenzied Nightmaric Spawn enjoys 100% of Zhask's attributes and its Death Ray deals extra damage (60 damage based on level and stats).\n\nBasic attack damage formula: total basic attack damage = 115 + 20% extra attack speed + 20% magic power."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Nightmaric Spawn",
+        "cooldown": 13,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Zhask summons a Nightmaric Spawn that inherits 55%–100% of his attributes. Nightmaric Spawn will automatically attack nearby enemies by firing a Death Ray at the target, dealing magic damage based on level and magic power and slowing them by up to 30% for 0.6 seconds. If Zhask is too far away from Nightmaric Spawn, it will disappear.\n\nDeath Ray is considered as a Basic Attack but cannot crit. When enhanced via fusion, the damage of Nightmaric Spawn is increased to 180%, and it can be repositioned.\n\nCooldown: 13.0 / 12.0 / 11.0 / 10.0 seconds\nMana Cost: 60 / 70 / 80 / 90\n\nAttributes Inherited: 55% / 70% / 85% / 100%\nAttack Speed Inherited by Nightmaric Spawn: 100%\n\nNotes:\n- Nightmaric Spawn also benefits from Zhask's current buffs and debuffs, but not on standard or tier 3 talents.\n- Nightmaric Spawn can use Lifesteal to replenish its own HP but it won't heal Zhask.\n- Its basic attacks and Death Ray are considered as melee attacks.\n- The spawn will give an unknown amount of EXP and gold when slain.\n- Casting the ultimate resets the cooldown of this skill.\n- The disable duration of Skill 1 after the enhanced Nightmaric Spawn dies or disappears is 2 seconds.\n\nBugs and interactions mentioned in the source (item names omitted where incomplete):\n- Nightmaric Spawn can sometimes benefit twice from certain unique passives that increase attack speed.\n- When terrified, Nightmaric Spawn will move from its position, showing that the spawn has a Movement Speed attribute, albeit stationary when summoned."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Mind Eater",
+        "cooldown": 8,
+        "cost": 50,
+        "role": "Control",
+        "details": {
+          "markdown": "Zhask fires a penetrating mental missile in the designated direction, dealing magic damage based on level and magic power. Afterward, Nightmaric Spawn will attack enemies hit by Mind Eater, dealing additional magic damage and stunning them for 0.5 seconds.\n\nWhen enhanced via fusion, the damage dealt by Mind Eater is increased.\n\nCooldown: 8.0 seconds\nMana Cost: 50 / 65 / 80 / 95\n\nBase Damage: 300 / 380 / 460 / 540\nComplete Damage (with follow-up attacks): 540 / 685 / 830 / 975\nSpell Vamp Ratio: 50%\n\nNotes:\n- The enhanced skill damage is considered as Zhask's attack. If Zhask gets off the enhanced Nightmaric Spawn, the spawn's skill will turn into a regular one."
+        }
+      },
+      {
+        "slot": "Skill 3",
+        "name": "Hive Clones",
+        "cooldown": 10,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Zhask releases a swarm (6) of Hive Clones in the targeted direction. The clones will explode and deal magic damage to enemies on contact, reducing their Movement Speed by 80% for 1 second. If Hive Clones find no target, they will burrow into the ground and ambush enemies passing by.\n\nFusion Enhanced: Zhask releases several (15) swarms of Hive Clones. Subsequent damage dealt to the same target decays to 20%.\n\nCooldown: 10.0 seconds\nMana Cost: 60 / 80 / 100 / 120\n\nBase Damage: 55 / 70 / 85 / 100\nDecay Ratio per subsequent hit: 100% / 20% / 20% / 20% / 20%\nDecay Ratio per subsequent hit (Fusion Enhanced): 100% followed by repeated 20% hits across all 15 swarms\nSpell Vamp Ratio: 50%\n\nNotes:\n- The enhanced skill damage is considered as Zhask's. If Zhask gets off the Enhanced Nightmaric Spawn, the spawn's skill will turn into a regular one."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Dominator's Descent",
+        "cooldown": 60,
+        "cost": 100,
+        "role": "Morph",
+        "details": {
+          "markdown": "Zhask selects a designated position to summon Nightmaric Spawn and fuses with it. Nightmaric Spawn can inherit 100% of his attributes and gain extra attributes. His skills are enhanced during the fusion period.\n\nUse Again: Zhask immediately gets off the Nightmaric Spawn and loses enhancement.\n\nCooldown: 60.0 / 55.0 / 50.0 seconds\nMana Cost: 100 / 150 / 200\n\nExtra HP: 750 / 1625 / 2500\nExtra Hybrid Defense: 20 / 30 / 40\nLifesteal: 50%\n\nBasic attack damage formula during fusion: total basic attack damage = 99 + 36% extra attack speed + 36% magic power.\n\nNotes:\n- This skill is a blink.\n- The fusion state lasts for 10 seconds.\n- This skill and Nightmaric Spawn are disabled for an unknown time after Nightmaric Spawn loses the enhancement from the ultimate, disappears, or is killed.\n- Cooldown starts when the skill has been cast.\n- During the brief animation period when his spawn is disappearing, whether it's dead or just out of range, Zhask cannot use this skill.\n- Zhask is untargetable during the fusion period.\n- The damage dealt and received and the buffs and debuffs received during the period are exclusive to the enhanced Nightmaric Spawn and not Zhask.\n- The game's camera height increases within the skill's duration.\n- This skill can be cancelled during the animation.\n- If Zhask currently has no spawn present when casting this skill, he will spawn one at the desired position instead. Summoning a spawn this way does not cost mana.\n- Zhask can still fuse to the enhanced Nightmaric Spawn when Skill 1 has yet to be learned (is at level 0). However, the enhanced spawn will not turn to a regular one when the skill ends and will disappear instead.\n\nBug noted in the source:\n- If Zhask uses Skill 1 during the fusion to blink the enhanced spawn from point A to point B and then quickly uses the second phase of the Ultimate to leave the spawn, Zhask will exit at point A rather than point B before his spawn blinks."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "He is the first hero to have more than 3 abilities in a singular form, with 4 abilities."
+      },
+      {
+        "markdown": "He's also one of the heroes that can summon a unit called the \"Nightmaric Spawn\"."
+      },
+      {
+        "markdown": "His summoning skill is not counted as the correct answer in MLBB Quiz, which the question says: \"Which of the following heroes can summon allies to fight with them?\"."
+      },
+      {
+        "markdown": "Like other heroes' spawns that have their own name, Zhask's nightmaric spawn is named \"Domorey\", the insect spirit; which is named by the Kastiyan language."
+      },
+      {
+        "markdown": "Due to Domorey's power which can be said to be equivalent to the power of a hero, Zhask is known as \"the hero with the power of two heroes\"."
+      },
+      {
+        "markdown": "Two of Zhask's old quotes: *Arkarmasan... Burrsossii!...* and *Ssh...shalosha....arraghh...* are spoken on Kastiyan. This is the first language to be originally created by the game."
+      },
+      {
+        "markdown": "His Epic skin (Bone Flamen) is named after ancient Roman religion, where a flamen was a priest assigned to one of fifteen deities with official cults during the Roman Republic; the meaning of the skin's name then is \"Priest of the Bone\"."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Zhask\n\n**Aliases:**\n- King of Swarms (Currently)\n- Planes Dominator (Formerly)\n\n**Title:** King of the Swarm who distrupts the balance of the universe\n\n**Birthplace:** Kastiya\n\n**Origin:** Frozen Sea Chronorift\n\n**Species:** Extraterrestrial\n\n**Gender:** Male\n\n**Nationality:** Kastiyan\n\n**Weapons:** Domorey\n\n**Abilities:**\n- Summons Nightmaric Spawn\n- Fires mental missile\n- Summons Nightmeric Clones\n- Fuses to Nightmaric Spawn\n\n**Battles Fought:**\n- Invasion of Mithlora\n- Invasion of the Land of Dawn\n\n**Known Enemies:**\n- Yve\n- Aurora and Tobias (Aurora's Old Lore)\n\n**Voice Actors (EN):** Cian Hoyne (2017–2021)\n\n**Voice Actors (JP):** Miyamoto Jyun (宮本 淳)\n\n# Story\n\n\"King of the Swarm who distrupts the balance of the universe\"\n\nZhask expanded his swarm as he pleased in the universe, disrupting its balance in the process. Yve pursued him, but Zhask was able to escape every time.\n\nWhen he shuffled to the Land of Dawn and attempted to destroy it, he was hit hard by the resistance of Aurora and Tobias, so he hibernated in Kastiya to recuperate. But at this time, Yve also arrived, so a duel was imminent.\n\n# Side Story\n\n## Rise of the Swarm\n\nIn the vast universe, there are countless unknown planets and mysterious regions.\n\nSome planets have been annihilated and forgotten, but some endure – like the planet of Kastiya.\n\nMany great civilizations were built over a long history of discovery and enlightenment. This was however, not the case for the Kastiyans – whose bloody history was etched in struggles and brutality. For countless eons, the Swarm of Kastiya plundered and devoured to maintain the prosperity of their own race. The vicious nature of the Swarm made them keen on endless encroachment and reproduction.\n\nAs the king of Kastiya, Zhask knew exactly what he and his race needed. The terrifying Swarm was able to follow Zhask's lead, appearing anywhere in the universe, and then devouring all in its path. The scourge of the Swarm was more prolific than any other race. No planet in known history has ever been completely safe from the Swarm – and the most terrifying thing was that the Swarm could never be completely wiped out.\n\n## Hunters of Mithlora\n\nOf course, the Swarm of Kastiya also had their arch-enemy – Mithlora.\n\nMithlora was a mysterious region among the stars. The race living there was few in number, but naturally powerful. As one of the most advanced hunters in the universe imbued with tremendous power, Mithlora was burdened with the purpose to maintain the balance of the universe. Therefore, the ever-present Swarm had the ever-watchful Mithlora to deal with.\n\nA veteran hunter from Mithlora had once destroyed Zhask's home Kastiya, but the Swarm could not be completely wiped out. In fact, the destruction of their hometown sparked a raging crusade to expand wildly and ravage other planets. Led by King Zhask, they took absolute pleasure in plundering and replicating their own species. In the midst of their savagery, Mithlora had dispatched a formidable new hunter – Yve.\n\n## Endless Pursuit\n\nZhask was not afraid of this new threat. On the contrary, he enjoyed the thrill of the chase. Even though Kastiya had already been reduced to dust, Zhask and his Swarm believed that any area in the starry sky may become the the new Kastiya II – so long as they never stop breeding.\n\nWith great strength and cunning, Zhask caused Yve’s efforts to hunt down the scourge to fail countless times. Because of the Swarm’s potency to reproduce, the planets that had been invaded had almost no power to fight back. The creatures on those planets were quickly rendered extinct from Zhask's desolation.\n\nAlthough those from Mithlora never needed help from others, the weakness of those planets isolated Yve to a certain extent. Zhask was always 2 steps ahead of his Mithloran pursuer. Yve would always find herself a completely plundered and ruined planet with Zhask already absconded towards his next foray into the known universe.\n\nZhask was immersed in the pleasure of plundering. He enjoyed the thrill of the hunt and the endless slaughter. Even with the best of Yve’s attempt to stop him, Zhask would always manage to escape under the cover of his swarm.\n\nThe scars on his body did not deter Zhask from his plundering journey. Without pause, Zhask once again passed through the spacetime continuum and came to a new area. This time, he came to the Land of Dawn.\n\n## Invasion of the Land of Dawn\n\nThe arrival of Zhask and the Swarm brought serious disaster to The Northern Vale in the Land of Dawn. Numerous villages and tribes were destroyed by the Swarm and the people were displaced. But in a place where heroes gathered, and unlike his previous encounters, Zhask found unprecedented resistance in the Land of Dawn.\n\nThe young knight Tobias led his knights to fight Zhask and sacrificed his life for his land. It was in this battle that Tobias’ lover Aurora, dealt Zhask a devastating blow.\n\nThis was the first time that Zhask had been badly hurt by anyone other than Yve. Injured, he could not escape from the Land of Dawn through the Chrono Rift, so he could only find a piece of land on this continent as a temporary stronghold to give him and his Swarm some respite. He never imagined that these seemingly fragile creatures would be so powerful.\n\n## Impending Cosmic Duel\n\nZhask went to ground, waiting for the right opportunity. But the situation was a bit tricky: Aurora, who in order to avenge her lover, guarded the Frozen Ocean and never left sight. Meanwhile, the unusual yet familiar time and space fluctuations in the universe only meant to Zhask of Yve’s imminent arrival. A battle of astronomic proportions was soon to happen in the Land of Dawn that could decide the fates of countless many in the universe…\n\n# Abilities\n\n## Decimation\n\nUpon death, Zhask summons a frenzied Nightmaric Spawn on the spot, which gradually loses HP over time until death.\n\nUnlike the normal one, the frenzied Nightmaric Spawn enjoys 100% of Zhask's attributes and its Death Ray deals extra damage (60 damage based on level and stats).\n\nBasic attack damage formula: total basic attack damage = 115 + 20% extra attack speed + 20% magic power.\n\n## Nightmaric Spawn\n\nZhask summons a Nightmaric Spawn that inherits 55%–100% of his attributes. Nightmaric Spawn will automatically attack nearby enemies by firing a Death Ray at the target, dealing magic damage based on level and magic power and slowing them by up to 30% for 0.6 seconds. If Zhask is too far away from Nightmaric Spawn, it will disappear.\n\nDeath Ray is considered as a Basic Attack but cannot crit. When enhanced via fusion, the damage of Nightmaric Spawn is increased to 180%, and it can be repositioned.\n\nCooldown: 13.0 / 12.0 / 11.0 / 10.0 seconds\nMana Cost: 60 / 70 / 80 / 90\n\nAttributes Inherited: 55% / 70% / 85% / 100%\nAttack Speed Inherited by Nightmaric Spawn: 100%\n\nNotes:\n- Nightmaric Spawn also benefits from Zhask's current buffs and debuffs, but not on standard or tier 3 talents.\n- Nightmaric Spawn can use Lifesteal to replenish its own HP but it won't heal Zhask.\n- Its basic attacks and Death Ray are considered as melee attacks.\n- The spawn will give an unknown amount of EXP and gold when slain.\n- Casting the ultimate resets the cooldown of this skill.\n- The disable duration of Skill 1 after the enhanced Nightmaric Spawn dies or disappears is 2 seconds.\n\nBugs and interactions mentioned in the source (item names omitted where incomplete):\n- Nightmaric Spawn can sometimes benefit twice from certain unique passives that increase attack speed.\n- When terrified, Nightmaric Spawn will move from its position, showing that the spawn has a Movement Speed attribute, albeit stationary when summoned.\n\n## Mind Eater\n\nZhask fires a penetrating mental missile in the designated direction, dealing magic damage based on level and magic power. Afterward, Nightmaric Spawn will attack enemies hit by Mind Eater, dealing additional magic damage and stunning them for 0.5 seconds.\n\nWhen enhanced via fusion, the damage dealt by Mind Eater is increased.\n\nCooldown: 8.0 seconds\nMana Cost: 50 / 65 / 80 / 95\n\nBase Damage: 300 / 380 / 460 / 540\nComplete Damage (with follow-up attacks): 540 / 685 / 830 / 975\nSpell Vamp Ratio: 50%\n\nNotes:\n- The enhanced skill damage is considered as Zhask's attack. If Zhask gets off the enhanced Nightmaric Spawn, the spawn's skill will turn into a regular one.\n\n## Hive Clones\n\nZhask releases a swarm (6) of Hive Clones in the targeted direction. The clones will explode and deal magic damage to enemies on contact, reducing their Movement Speed by 80% for 1 second. If Hive Clones find no target, they will burrow into the ground and ambush enemies passing by.\n\nFusion Enhanced: Zhask releases several (15) swarms of Hive Clones. Subsequent damage dealt to the same target decays to 20%.\n\nCooldown: 10.0 seconds\nMana Cost: 60 / 80 / 100 / 120\n\nBase Damage: 55 / 70 / 85 / 100\nDecay Ratio per subsequent hit: 100% / 20% / 20% / 20% / 20%\nDecay Ratio per subsequent hit (Fusion Enhanced): 100% followed by repeated 20% hits across all 15 swarms\nSpell Vamp Ratio: 50%\n\nNotes:\n- The enhanced skill damage is considered as Zhask's. If Zhask gets off the Enhanced Nightmaric Spawn, the spawn's skill will turn into a regular one.\n\n## Dominator's Descent\n\nZhask selects a designated position to summon Nightmaric Spawn and fuses with it. Nightmaric Spawn can inherit 100% of his attributes and gain extra attributes. His skills are enhanced during the fusion period.\n\nUse Again: Zhask immediately gets off the Nightmaric Spawn and loses enhancement.\n\nCooldown: 60.0 / 55.0 / 50.0 seconds\nMana Cost: 100 / 150 / 200\n\nExtra HP: 750 / 1625 / 2500\nExtra Hybrid Defense: 20 / 30 / 40\nLifesteal: 50%\n\nBasic attack damage formula during fusion: total basic attack damage = 99 + 36% extra attack speed + 36% magic power.\n\nNotes:\n- This skill is a blink.\n- The fusion state lasts for 10 seconds.\n- This skill and Nightmaric Spawn are disabled for an unknown time after Nightmaric Spawn loses the enhancement from the ultimate, disappears, or is killed.\n- Cooldown starts when the skill has been cast.\n- During the brief animation period when his spawn is disappearing, whether it's dead or just out of range, Zhask cannot use this skill.\n- Zhask is untargetable during the fusion period.\n- The damage dealt and received and the buffs and debuffs received during the period are exclusive to the enhanced Nightmaric Spawn and not Zhask.\n- The game's camera height increases within the skill's duration.\n- This skill can be cancelled during the animation.\n- If Zhask currently has no spawn present when casting this skill, he will spawn one at the desired position instead. Summoning a spawn this way does not cost mana.\n- Zhask can still fuse to the enhanced Nightmaric Spawn when Skill 1 has yet to be learned (is at level 0). However, the enhanced spawn will not turn to a regular one when the skill ends and will disappear instead.\n\nBug noted in the source:\n- If Zhask uses Skill 1 during the fusion to blink the enhanced spawn from point A to point B and then quickly uses the second phase of the Ultimate to leave the spawn, Zhask will exit at point A rather than point B before his spawn blinks.\n\n# Trivia\n\n- He is the first hero to have more than 3 abilities in a singular form, with 4 abilities.\n- He's also one of the heroes that can summon a unit called the \"Nightmaric Spawn\".\n- His summoning skill is not counted as the correct answer in MLBB Quiz, which the question says: \"Which of the following heroes can summon allies to fight with them?\".\n- Like other heroes' spawns that have their own name, Zhask's nightmaric spawn is named \"Domorey\", the insect spirit; which is named by the Kastiyan language.\n- Due to Domorey's power which can be said to be equivalent to the power of a hero, Zhask is known as \"the hero with the power of two heroes\".\n- Two of Zhask's old quotes: *Arkarmasan... Burrsossii!...* and *Ssh...shalosha....arraghh...* are spoken on Kastiyan. This is the first language to be originally created by the game.\n- His Epic skin (Bone Flamen) is named after ancient Roman religion, where a flamen was a priest assigned to one of fifteen deities with official cults during the Roman Republic; the meaning of the skin's name then is \"Priest of the Bone\".\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "yve",
+        "aurora",
+        "tobias"
+      ],
+      "faction": null,
+      "allies": [],
+      "rivals": [
+        "yve",
+        "aurora",
+        "tobias"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Kastiya",
+          "relationship": "home"
+        },
+        {
+          "location": "Frozen Sea Chronorift",
+          "relationship": "origin"
+        },
+        {
+          "location": "Mithlora",
+          "relationship": "enemy"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "invaded"
+        },
+        {
+          "location": "Northern Vale",
+          "relationship": "invaded"
+        },
+        {
+          "location": "Frozen Ocean",
+          "relationship": "contested"
+        }
+      ]
+    },
+    "moods": [
+      "dark",
+      "epic"
+    ],
+    "themes": [
+      "power",
+      "destruction"
+    ],
+    "hook": "A king without a home, a swarm that cannot die, and a hunter who never stops chasing converge on the Land of Dawn for a battle of astronomic proportions.",
+    "teaser": "Zhask leads an immortal Swarm across the stars, hunted by Yve, until their ravaging path reaches the Land of Dawn and sparks a universe-shaking confrontation.",
+    "openingLine": "In the vast universe, there are countless unknown planets and mysterious regions.",
+    "dominantColor": "#4B0082",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 5,
+    "chapterTitles": [
+      "Rise of the Swarm",
+      "Hunters of Mithlora",
+      "Endless Pursuit",
+      "Invasion of the Land of Dawn",
+      "Impending Cosmic Duel"
+    ],
+    "plotKeywords": [
+      "cosmic invasion",
+      "devouring swarm",
+      "planetary destruction",
+      "eternal chase",
+      "arch-enemies",
+      "heroic resistance",
+      "Land of Dawn siege"
+    ],
+    "characterTraits": [
+      "ruthless",
+      "cunning",
+      "relentless",
+      "sadistic"
+    ],
+    "locations": [
+      "Kastiya",
+      "Frozen Sea Chronorift",
+      "Mithlora",
+      "Land of Dawn",
+      "Northern Vale",
+      "Frozen Ocean"
+    ],
+    "wordCount": 2067,
+    "readingTimeMinutes": 14,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647183124,
+    "updatedAt": 1764647183124
+  },
+  "lastUpdated": null
+}

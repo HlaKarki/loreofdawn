@@ -1,0 +1,184 @@
+{
+  "hero": "lunox",
+  "urlName": "lunox",
+  "sections": {
+    "profile": {
+      "markdown": "- **Full Name:** Lunox\n- **Alias:** Twilight Goddess\n- **Age:** 1000+\n- **Gender:** Female\n- **Species:** Light Elf\n- **Origin:** Minoan Labyrinth, Agelta Drylands\n- **Affiliation:**\n  - Minoan Labyrinth\n  - The Oasis\n  - Fate Deniers\n- **Abilities:**\n  - Power of order\n  - Power of chaos\n- **Battles Fought:** The Endless War"
+    },
+    "story": {
+      "markdown": "> \"Miraculous creatures born in Twilight Orb\"\n\nLunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the \"Twilight Orbs.\""
+    },
+    "bio": {
+      "markdown": "As the final battle started, the Twillight Orb devoured the energies within the Mage and opened, from which stepped out a girl, who was surrounded by the power of Chaos and Order. Her eyes are deep as the ancient lake.\n\nThe mysterious atmosphere she created then put all of the heroes into dreamland… The power of Chaos and Order have been struggling against each other since the ancient time, and the struggle had driven the world into desperation. Lunox, the mysterious maiden, is the one who survived the desperation. With her unique talent, she can project her dream into reality and change it.\n\nOne day, a sound whispered to her and told her to balance the two powers with her dreamland ability. But the cost would be hunger than ever. For the world she loves, she accepted this fate, channeled the two powers into dreamland and became one of the Twilight Orb, at the cost of falling into an endless sleep. But the sound also told Lunox that one day, she will wake up to proceed with her fate: to find other Twilight Orbs that are forgotten by history."
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Dreamland Twist",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Lunox is twisted by the powers of Chaos and Order. When Lunox uses an Order skill, she gains Spell Vamp based on her Magic Penetration (0.5% Spell Vamp for every 1% Magic Penetration). When Lunox uses a Chaos skill, she gains Magic Penetration based on her Spell Vamp (0.5% Magic Penetration for every 1% of Spell Vamp).\n\n- Only percentage Magic Penetration is converted. Flat Magic Penetration is not converted.\n- Upon death, Lunox loses the current stack of Order and Chaos.\n- The actual percentage Magic Penetration with 1 Order stack is subtracted and converted into Spell Vamp, and vice versa with 1 Chaos stack."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Starlight Pulse",
+        "cooldown": 2,
+        "cost": 75,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lunox summons a rain of starlight upon nearby enemies, dealing magic damage based on level and stats. The starlight then returns to Lunox, each restoring HP based on level and recovering HP. The HP restored is doubled when hitting enemy heroes. Grants one stack of Order after use.\n\n- Base Damage: 200 / 230 / 260 / 290 / 320 / 350\n- HP Regen: 75 / 80 / 85 / 90 / 95 / 100\n- Spell Vamp Ratio: 50%\n- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100\n- Cooldown: 2 seconds\n\nNotes:\n- Skills 1 and 2 share the same cooldown and skill level. Levelling up one ability levels the other.\n- Has a range of about 4.5 units.\n- If a target dies before a starlight reaches it, the starlight will not return and no heal is gained.\n- Lunox fully benefits from returning starlights even when untargetable.\n- Starlight pulses fully bounce to unsighted, concealed or invisible enemies, but not untargetable enemies."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Chaos Assault",
+        "cooldown": 2,
+        "cost": 30,
+        "role": "Damage",
+        "details": {
+          "markdown": "Lunox unleashes Chaos Energy at an enemy, dealing magic damage plus a percentage of the target's Max HP as extra damage (with a lower percentage against creeps). Grants one stack of Chaos after use.\n\n- Base Damage: 250 / 270 / 290 / 310 / 330 / 350\n- Extra Percentage Damage (heroes): 2.5% / 3% / 3.5% / 4% / 4.5% / 5% of target's Max HP\n- Damage to Creeps: 1.5% / 1.8% / 2.1% / 2.4% / 2.7% / 3% of target's Max HP\n- Mana Cost: 30 / 35 / 40 / 45 / 50 / 55\n- Cooldown: 2 seconds\n\nNotes:\n- Skills 1 and 2 share the same cooldown and skill level.\n- Has a range of about 5 units, similar to her attack range (the animation is slightly further than the effective range).\n- Fully affects unsighted enemies, such as those in a bush, invisible or concealed.\n- When affected by Darkening, this ability is neither affected by cooldown reduction nor cooldown speed and does not cost any mana."
+        }
+      },
+      {
+        "slot": "Skill 3",
+        "name": "Cosmic Fission",
+        "cooldown": 10,
+        "cost": 70,
+        "role": "Control",
+        "details": {
+          "markdown": "When Lunox uses the power of Order and Chaos, she will deal magic damage in a line to targets along the way and slow them by 40% for 2 seconds.\n\n- Base Damage: 300 / 340 / 380 / 420 / 460 / 500\n- Slow: 40% for 2 seconds\n- Cooldown: 10 / 9.5 / 9 / 8.5 / 8 / 7.5 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Spell Vamp Ratio: 50%\n\nNotes:\n- Has a range of about 5 units, beginning slightly behind Lunox.\n- The ability first displays the animation and sound, then the cooldown, damage and effect gradually in a rectangular area. In some cases, when being controlled during the cast delay, only the animation is displayed."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Order & Chaos",
+        "cooldown": 30,
+        "cost": 120,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Lunox is twisted by the powers of Chaos and Order and can enter two different ultimate states.\n\nWhen Lunox uses the Power of Order: Brilliance, she becomes invincible while dealing continuous damage to nearby enemies.\n\nWhen Lunox uses the Power of Chaos: Darkening, she blinks in a target direction and greatly reduces the cooldown of Chaos Assault for a brief period.\n\n- Base Damage (Brilliance pulses): 100 / 120 / 140\n- Cooldown: 30 / 26 / 22 seconds\n- Mana Cost: 120 / 160 / 200\n\nPower of Order: Brilliance\n\nLunox extends the Light Barrier, becomes invincible for 2.5 seconds, and gains 30% extra Movement Speed while dealing magic damage every 0.5 seconds to nearby enemies.\n\n- Base Damage per pulse: 100 / 120 / 140\n- Duration: 2.5 seconds (6 damage pulses total)\n- Movement Speed Bonus: 30%\n- Spell Vamp Ratio: 50%\n\nNotes:\n- Brilliance and Darkening have separate cooldown timers.\n- Radius is about 3.2 units.\n- Battle spells and items can be used during the process.\n- Does not remove any ongoing control effects or certain impending buffs and does not pass through obstacles.\n- Lunox disappears on the minimap for the duration.\n- She is still attackable by creeps, minions, Lord and Turtle.\n- The remaining invincible time is visible to both allies and enemies.\n- If the graphic setting is not suitable, certain battlefield effects may disappear or not display when Lunox is invincible.\n\nPower of Chaos: Darkening\n\nLunox blinks in the target direction, dealing magic damage to nearby enemies and slowing them by 30% for 4 seconds. For the next 4 seconds, Lunox enhances her Chaos Assault to greatly reduce its cooldown (unaffected by cooldown reduction) and remove its mana cost.\n\n- Base Damage: 250 / 350 / 450\n- Slow: 30% for 4 seconds\n- Duration of enhancement: 4 seconds\n- Cooldown: 30 / 26 / 22 seconds\n- Mana Cost: 120 / 160 / 200\n\nNotes:\n- Brilliance and Darkening have separate cooldown timers.\n- The dash has a distance of about 3.5 units; the slow and damage effect has a radius of about 3.2 units.\n- The cast range of Chaos Assault becomes visible for the duration.\n- The cooldown of Chaos Assault is set to 0.3 seconds and is not affected by cooldown reduction or cooldown speed for the duration.\n- Chaos Assault does not cost mana for the duration.\n- The duration begins as soon as the ability is cast. If the landing is interrupted, the damage and slow effect of this skill do not take effect.\n- The remaining duration is visible to both allies and enemies.\n- If Lunox has neither Order nor Chaos stack upon learning her ultimate, this ultimate is selected by default."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Lunox' name is a portmanteau of two Latin words *lumos* and *nox*, respectively \"light\" and \"dark\" in English."
+      },
+      {
+        "markdown": "Her old hero title is named \"the Enlightened One\", in reference to the name of Buddha."
+      },
+      {
+        "markdown": "She is the main protagonist of the **Determination** event along with Belerick."
+      },
+      {
+        "markdown": "Lunox's Light and Darkness concept was reused for Luo Yi."
+      },
+      {
+        "markdown": "Her complementary \"Bloody Mary\" skin is a reference to Mary I of England, so called due to her execution of numerous Protestants during her 6-year reign. It is also the name of a popular drink."
+      },
+      {
+        "markdown": "Lunox's light powers come from her mother, and her dark powers come from her father."
+      },
+      {
+        "markdown": "Lunox is Unique God's gift to the world (Land of Dawn)."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- **Full Name:** Lunox\n- **Alias:** Twilight Goddess\n- **Age:** 1000+\n- **Gender:** Female\n- **Species:** Light Elf\n- **Origin:** Minoan Labyrinth, Agelta Drylands\n- **Affiliation:**\n  - Minoan Labyrinth\n  - The Oasis\n  - Fate Deniers\n- **Abilities:**\n  - Power of order\n  - Power of chaos\n- **Battles Fought:** The Endless War\n\n# Bio\n\nAs the final battle started, the Twillight Orb devoured the energies within the Mage and opened, from which stepped out a girl, who was surrounded by the power of Chaos and Order. Her eyes are deep as the ancient lake.\n\nThe mysterious atmosphere she created then put all of the heroes into dreamland… The power of Chaos and Order have been struggling against each other since the ancient time, and the struggle had driven the world into desperation. Lunox, the mysterious maiden, is the one who survived the desperation. With her unique talent, she can project her dream into reality and change it.\n\nOne day, a sound whispered to her and told her to balance the two powers with her dreamland ability. But the cost would be hunger than ever. For the world she loves, she accepted this fate, channeled the two powers into dreamland and became one of the Twilight Orb, at the cost of falling into an endless sleep. But the sound also told Lunox that one day, she will wake up to proceed with her fate: to find other Twilight Orbs that are forgotten by history.\n\n# Story\n\n> \"Miraculous creatures born in Twilight Orb\"\n\nLunox was born with magical powers, and her dreamworld reflects and changes the real world. With this power, she uses her dreamworld to temporarily maintain the balance of energy between order and chaos. But as the power of order and the power of chaos rushed into her dreams, Lunox fell into a long sleep and turned into one of the \"Twilight Orbs.\"\n\n# Abilities\n\n## Dreamland Twist\n\nLunox is twisted by the powers of Chaos and Order. When Lunox uses an Order skill, she gains Spell Vamp based on her Magic Penetration (0.5% Spell Vamp for every 1% Magic Penetration). When Lunox uses a Chaos skill, she gains Magic Penetration based on her Spell Vamp (0.5% Magic Penetration for every 1% of Spell Vamp).\n\n- Only percentage Magic Penetration is converted. Flat Magic Penetration is not converted.\n- Upon death, Lunox loses the current stack of Order and Chaos.\n- The actual percentage Magic Penetration with 1 Order stack is subtracted and converted into Spell Vamp, and vice versa with 1 Chaos stack.\n\n## Starlight Pulse\n\nLunox summons a rain of starlight upon nearby enemies, dealing magic damage based on level and stats. The starlight then returns to Lunox, each restoring HP based on level and recovering HP. The HP restored is doubled when hitting enemy heroes. Grants one stack of Order after use.\n\n- Base Damage: 200 / 230 / 260 / 290 / 320 / 350\n- HP Regen: 75 / 80 / 85 / 90 / 95 / 100\n- Spell Vamp Ratio: 50%\n- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100\n- Cooldown: 2 seconds\n\nNotes:\n- Skills 1 and 2 share the same cooldown and skill level. Levelling up one ability levels the other.\n- Has a range of about 4.5 units.\n- If a target dies before a starlight reaches it, the starlight will not return and no heal is gained.\n- Lunox fully benefits from returning starlights even when untargetable.\n- Starlight pulses fully bounce to unsighted, concealed or invisible enemies, but not untargetable enemies.\n\n## Chaos Assault\n\nLunox unleashes Chaos Energy at an enemy, dealing magic damage plus a percentage of the target's Max HP as extra damage (with a lower percentage against creeps). Grants one stack of Chaos after use.\n\n- Base Damage: 250 / 270 / 290 / 310 / 330 / 350\n- Extra Percentage Damage (heroes): 2.5% / 3% / 3.5% / 4% / 4.5% / 5% of target's Max HP\n- Damage to Creeps: 1.5% / 1.8% / 2.1% / 2.4% / 2.7% / 3% of target's Max HP\n- Mana Cost: 30 / 35 / 40 / 45 / 50 / 55\n- Cooldown: 2 seconds\n\nNotes:\n- Skills 1 and 2 share the same cooldown and skill level.\n- Has a range of about 5 units, similar to her attack range (the animation is slightly further than the effective range).\n- Fully affects unsighted enemies, such as those in a bush, invisible or concealed.\n- When affected by Darkening, this ability is neither affected by cooldown reduction nor cooldown speed and does not cost any mana.\n\n## Cosmic Fission\n\nWhen Lunox uses the power of Order and Chaos, she will deal magic damage in a line to targets along the way and slow them by 40% for 2 seconds.\n\n- Base Damage: 300 / 340 / 380 / 420 / 460 / 500\n- Slow: 40% for 2 seconds\n- Cooldown: 10 / 9.5 / 9 / 8.5 / 8 / 7.5 seconds\n- Mana Cost: 70 / 80 / 90 / 100 / 110 / 120\n- Spell Vamp Ratio: 50%\n\nNotes:\n- Has a range of about 5 units, beginning slightly behind Lunox.\n- The ability first displays the animation and sound, then the cooldown, damage and effect gradually in a rectangular area. In some cases, when being controlled during the cast delay, only the animation is displayed.\n\n## Order & Chaos\n\nLunox is twisted by the powers of Chaos and Order and can enter two different ultimate states.\n\nWhen Lunox uses the Power of Order: Brilliance, she becomes invincible while dealing continuous damage to nearby enemies.\n\nWhen Lunox uses the Power of Chaos: Darkening, she blinks in a target direction and greatly reduces the cooldown of Chaos Assault for a brief period.\n\n- Base Damage (Brilliance pulses): 100 / 120 / 140\n- Cooldown: 30 / 26 / 22 seconds\n- Mana Cost: 120 / 160 / 200\n\nPower of Order: Brilliance\n\nLunox extends the Light Barrier, becomes invincible for 2.5 seconds, and gains 30% extra Movement Speed while dealing magic damage every 0.5 seconds to nearby enemies.\n\n- Base Damage per pulse: 100 / 120 / 140\n- Duration: 2.5 seconds (6 damage pulses total)\n- Movement Speed Bonus: 30%\n- Spell Vamp Ratio: 50%\n\nNotes:\n- Brilliance and Darkening have separate cooldown timers.\n- Radius is about 3.2 units.\n- Battle spells and items can be used during the process.\n- Does not remove any ongoing control effects or certain impending buffs and does not pass through obstacles.\n- Lunox disappears on the minimap for the duration.\n- She is still attackable by creeps, minions, Lord and Turtle.\n- The remaining invincible time is visible to both allies and enemies.\n- If the graphic setting is not suitable, certain battlefield effects may disappear or not display when Lunox is invincible.\n\nPower of Chaos: Darkening\n\nLunox blinks in the target direction, dealing magic damage to nearby enemies and slowing them by 30% for 4 seconds. For the next 4 seconds, Lunox enhances her Chaos Assault to greatly reduce its cooldown (unaffected by cooldown reduction) and remove its mana cost.\n\n- Base Damage: 250 / 350 / 450\n- Slow: 30% for 4 seconds\n- Duration of enhancement: 4 seconds\n- Cooldown: 30 / 26 / 22 seconds\n- Mana Cost: 120 / 160 / 200\n\nNotes:\n- Brilliance and Darkening have separate cooldown timers.\n- The dash has a distance of about 3.5 units; the slow and damage effect has a radius of about 3.2 units.\n- The cast range of Chaos Assault becomes visible for the duration.\n- The cooldown of Chaos Assault is set to 0.3 seconds and is not affected by cooldown reduction or cooldown speed for the duration.\n- Chaos Assault does not cost mana for the duration.\n- The duration begins as soon as the ability is cast. If the landing is interrupted, the damage and slow effect of this skill do not take effect.\n- The remaining duration is visible to both allies and enemies.\n- If Lunox has neither Order nor Chaos stack upon learning her ultimate, this ultimate is selected by default.\n\n# Trivia\n\n- Lunox' name is a portmanteau of two Latin words *lumos* and *nox*, respectively \"light\" and \"dark\" in English.\n- Her old hero title is named \"the Enlightened One\", in reference to the name of Buddha.\n- She is the main protagonist of the **Determination** event along with Belerick.\n- Lunox's Light and Darkness concept was reused for Luo Yi.\n- Her complementary \"Bloody Mary\" skin is a reference to Mary I of England, so called due to her execution of numerous Protestants during her 6-year reign. It is also the name of a popular drink.\n- Lunox's light powers come from her mother, and her dark powers come from her father.\n- Lunox is Unique God's gift to the world (Land of Dawn).\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "aamon",
+        "belerick",
+        "gusion",
+        "natan",
+        "valentina",
+        "uranus",
+        "alice",
+        "thamuz",
+        "luo_yi"
+      ],
+      "faction": "Minoan Labyrinth",
+      "allies": [
+        "belerick"
+      ],
+      "rivals": [
+        "alice",
+        "thamuz"
+      ],
+      "family": [],
+      "mentors": [
+        "unique_god"
+      ],
+      "factionRole": "Member",
+      "locationTies": [
+        {
+          "location": "Minoan Labyrinth",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "mysterious",
+      "heroic"
+    ],
+    "themes": [
+      "destiny",
+      "sacrifice",
+      "power"
+    ],
+    "hook": "For the world she loves, Lunox channeled both Order and Chaos into her dreamland, becoming a Twilight Orb and sacrificing her waking life for fragile balance.",
+    "teaser": "Born with the power to reshape reality, Lunox chooses an endless sleep inside a Twilight Orb to balance Order and Chaos—awaiting the day fate calls her back.",
+    "openingLine": "\"Miraculous creatures born in Twilight Orb\"",
+    "dominantColor": "#B48CF0",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "twilight orb",
+      "order and chaos",
+      "endless sleep",
+      "dreamworld",
+      "final battle",
+      "balance of powers"
+    ],
+    "characterTraits": [
+      "mysterious",
+      "self-sacrificing",
+      "resolute",
+      "otherworldly"
+    ],
+    "locations": [
+      "Minoan Labyrinth",
+      "Agelta Drylands"
+    ],
+    "wordCount": 1471,
+    "readingTimeMinutes": 10,
+    "connectionsCount": 9,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646927967,
+    "updatedAt": 1764646927967
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,191 @@
+{
+  "hero": "kimmy",
+  "urlName": "kimmy",
+  "sections": {
+    "profile": {
+      "markdown": ""
+    },
+    "story": {
+      "markdown": "> \"A cool girl who loves technology and invention\"\n\nBorn into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition. She is obsessed with technology and inventions In order to prove herself to her father, Kimmy picks up her invention and joined the Imperial Expeditionary Army."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Aim for the Sky",
+          "content": {
+            "markdown": "If you were to ask Kimmy about her most vivid childhood memory, she would tell you without hesitation - it was the weight of the medals adorning her father's military uniform. Born into a military family, the young girl secretly vowed to become an even greater soldier than her father.\n\nBut when she enthusiastically shared her dream with him, his usual gentle demeanor turned stern as he rejected her aspirations. Putting his calloused hand over her little head, he said,\n\n> \"I want my daughter to have a peaceful, carefree life.\"\n\nThough her wings were confined within the cage her father built, Kimmy never abandoned her dreams of soaring. She read military books in secret, looked through her family's military records, and even after being sent to Eruditio for schooling, she never stopped dreaming.\n\nPerhaps Kimmy's most carefree and joyful days were spent in Eruditio. She cut her hair short and made many friends, and one in particular, Beatrix, became her closest companion. The two were drawn together by the fierce determination they shared. Kimmy helped Beatrix test various weapons - no matter how complex their design or intricate their controls, she always seemed to bring out their true potential.\n\n> \"Why not just go for it? Enlist first and tell him later!\"\n\nKimmy's heart raced at Beatrix's suggestion. As their fists bumped together, their rebellious alliance was officially sealed.\n\nKimmy packed up and left Eruditio to join the Moniyan Empire's Western Border Guard. The closer she got to the military outpost, the more desolate the surroundings became, but her heart had never felt more fulfilled. She stretched her hand upward, as though she could grasp the sky itself.\n\nKimmy's early days in the Border Guard were anything but easy. Her time spent in Eruditio and her young age led many of the hardened soldiers to dismiss her as a privileged girl who was just looking for some cheap thrills. She paid their gossip no mind, instead throwing herself into her training, using her pent-up ambition as fuel for her fire, and the results showed; she came first in the Imperial Joint Tactical Exercise and demonstrated extraordinary talent in both marksmanship and close- quarters combat. Her achievements finally silenced the rumors and naysayers. Many began to see Kimmy in a new light, and some were even inspired to train harder.\n\nIt was then that the Weapons Department invented a new weapon - a Starlium- powered jetpack and rifle. However, its complex operation was too much for most of the testers, yet Kimmy's talent and experience allowed her to master it almost immediately. The weapon found its full potential in her hands, shocking even the researchers. The flashes of the muzzle illuminated Kimmy's path forward - the Hoverjet Blaster became her weapon, and together they would shine in battle.\n\nKimmy paid no mind to others' cold stares, focusing solely on her own efforts. The fledging had shed her down and was ready to spread her wings and soar. Yet... thoughts of her father still filled her with doubt.\n\nSoon after, Kimmy was assigned to an elite squad, deploying her weapon into battle for the first time on an important rescue mission. The enemy, highly mobile and intimate with the terrain, had the upper hand. Though it was Kimmy's first real combat mission, she remained remarkably calm. She quickly identified the enemy's movement patterns, tracked them to a small outpost, and launched a successful first strike on her own.\n\nBefore the thrill of victory could fade, the full scope of the enemy's operations was revealed: they had kidnapped military researchers to force them to create new weapons. Worse still, they had already used stolen weapons to ambush the front- line troops, causing heavy casualties. With no time to call for backup, Kimmy disguised herself with the enemy's attire and infiltrated their stronghold, quickly locating the holding cells.\n\nBehind iron bars were over a dozen imprisoned allies. Kimmy acted decisively, blasting open the prison doors with her rifle. The sound alerted her comrades waiting to launch their attack outside. With their coordinated assault from both inside and out, chaos erupted in the enemy stronghold, leading to their quick defeat.\n\nAs Kimmy evacuated the prisoners, an older officer, slowed due to his injuries, caught her attention. Those familiar shoulders, that crew cut of gray hair - it was her father. The usually fearless Kimmy felt her confidence waver. She had never told her strict father about enlisting. As their eyes met, Kimmy braced for the worst. However, after a moment's pause, he simply gave her a formal military salute pretending not to recognize his masked daughter. His voice was no longer as deep as she remembered, and his injured stature seemed smaller than she remembered. He advised the \"new recruit\" to make something of herself in the military. Kimmy shouldered her weapon and nodded solemnly while trying to keep her voice from trembling.\n\nNew missions awaited on the horizon. Kimmy looked to the sky, knowing that her wings now carried her father's expectations. She was bound for even greater heights."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Aerial Dominance",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Kimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals scaling damage based on her level and Magic Power. Hitting enemy heroes or non-hero units restores 6 or 3 Starlium respectively. If no Starlium is gained within 7 seconds, the Starlium begins to deplete.\n\nAt max Starlium, Kimmy's Basic Attacks are enhanced to deal increased damage and pierce through targets.\n\nKimmy does not stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.\n\nDue to this passive, she cannot use manual targeting."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Anti-Grav Thruster",
+        "cooldown": 14,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Cooldown: 14 / 13 / 12 / 11 / 10 / 9 seconds\n\nKimmy uses her jetpack to take flight, removing and becoming immune to Slow effects. She can pass through terrain and gains 90% Movement Speed for 1 second.\n\nDuring the flight, she fires 4 Chemical Bolts at nearby enemies, each dealing scaling Magic Damage based on level and Magic Power and slowing them by 50% for 0.5 seconds.\n\nChemical Bolts ignore invisible, concealed, and unsighted enemies.\n\nThis skill benefits from 50% Spell Vamp."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Starlium Beam",
+        "cooldown": 10,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 10 / 9.6 / 9.2 / 8.8 / 8.4 / 8 seconds\n\nKimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals continuous Magic Damage for 2 seconds. The damage scales with level and Magic Power.\n\nGain 20 Starlium for each enemy hero hit.\n\nThis skill benefits from 50% Spell Vamp."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Traction Pulse",
+        "cooldown": 40,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 40 / 35 / 30 seconds\n\nKimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal area Magic Damage to nearby enemies, scaling with level and Magic Power, and creates a force field that slows enemies within by 75%.\n\nAfter 1 second, the field contracts, pulling all enemy heroes to its center and dealing a percentage of their current HP as Magic Damage: 15% / 22.5% / 30%. Gain 40 Starlium for each enemy hero hit.\n\nCooldown begins as soon as the ability is cast. Kimmy can hold the ability for up to 3 seconds before firing.\n\nThe HP-based damage on the second part of this ability will not trigger percentage-HP-based passives."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Kimmy is the first hero and currently the only hero to be a Marksman/Mage type."
+      },
+      {
+        "markdown": "She is the third hero in the game who can convert a stat (Attack Speed) to another stat (Magic Power)."
+      },
+      {
+        "markdown": "When switching Hero Voice to Japanese, instead of saying \"Fighting 'Kimmy!\", she says \"Fighting Jimmy!\" (ファイティング・ジミー! - Faitingu Jimī!) in Entrance Quotes."
+      },
+      {
+        "markdown": "While still in development Kimmy's first given name and hero title was Mary the Ink Queen."
+      },
+      {
+        "markdown": "The name can be a reference to Marie which is an Inkling/Squid from Splatoon by Nintendo."
+      },
+      {
+        "markdown": "Kimmy is one of the heroes to have received a rework before she was even released on the original server."
+      },
+      {
+        "markdown": "Her basic attack used to spread and pierce through enemies similar to how shotgun pellets work."
+      },
+      {
+        "markdown": "She used to have 2 skill sources: one for her first skill and one for her second skill."
+      },
+      {
+        "markdown": "Her second skill used to be another basic attack buff skill similar to her first skill, but was later changed into a blink skill that does not consume any energy."
+      },
+      {
+        "markdown": "Before her rework on Patch Notes 1.6.10, Kimmy had a Mixed Damage specialty; then it was later replaced with Magic Damage, making Esmeralda the only hero who specializes in Mixed Damage."
+      },
+      {
+        "markdown": "The melody she says when picked with the Dragon Tamer skin is a parody of \"Hush Little Baby Don't Say A Word\" by the King's Singers 1987."
+      }
+    ]
+  },
+  "markdown": "# Story\n\n> \"A cool girl who loves technology and invention\"\n\nBorn into a traditional military family in the Moniyan Empire, she received military education from an early age, so she was a little boyish. At the same time, Kimmy is not bound by tradition. She is obsessed with technology and inventions In order to prove herself to her father, Kimmy picks up her invention and joined the Imperial Expeditionary Army.\n\n# Side Story\n\n## Aim for the Sky\n\nIf you were to ask Kimmy about her most vivid childhood memory, she would tell you without hesitation - it was the weight of the medals adorning her father's military uniform. Born into a military family, the young girl secretly vowed to become an even greater soldier than her father.\n\nBut when she enthusiastically shared her dream with him, his usual gentle demeanor turned stern as he rejected her aspirations. Putting his calloused hand over her little head, he said,\n\n> \"I want my daughter to have a peaceful, carefree life.\"\n\nThough her wings were confined within the cage her father built, Kimmy never abandoned her dreams of soaring. She read military books in secret, looked through her family's military records, and even after being sent to Eruditio for schooling, she never stopped dreaming.\n\nPerhaps Kimmy's most carefree and joyful days were spent in Eruditio. She cut her hair short and made many friends, and one in particular, Beatrix, became her closest companion. The two were drawn together by the fierce determination they shared. Kimmy helped Beatrix test various weapons - no matter how complex their design or intricate their controls, she always seemed to bring out their true potential.\n\n> \"Why not just go for it? Enlist first and tell him later!\"\n\nKimmy's heart raced at Beatrix's suggestion. As their fists bumped together, their rebellious alliance was officially sealed.\n\nKimmy packed up and left Eruditio to join the Moniyan Empire's Western Border Guard. The closer she got to the military outpost, the more desolate the surroundings became, but her heart had never felt more fulfilled. She stretched her hand upward, as though she could grasp the sky itself.\n\nKimmy's early days in the Border Guard were anything but easy. Her time spent in Eruditio and her young age led many of the hardened soldiers to dismiss her as a privileged girl who was just looking for some cheap thrills. She paid their gossip no mind, instead throwing herself into her training, using her pent-up ambition as fuel for her fire, and the results showed; she came first in the Imperial Joint Tactical Exercise and demonstrated extraordinary talent in both marksmanship and close- quarters combat. Her achievements finally silenced the rumors and naysayers. Many began to see Kimmy in a new light, and some were even inspired to train harder.\n\nIt was then that the Weapons Department invented a new weapon - a Starlium- powered jetpack and rifle. However, its complex operation was too much for most of the testers, yet Kimmy's talent and experience allowed her to master it almost immediately. The weapon found its full potential in her hands, shocking even the researchers. The flashes of the muzzle illuminated Kimmy's path forward - the Hoverjet Blaster became her weapon, and together they would shine in battle.\n\nKimmy paid no mind to others' cold stares, focusing solely on her own efforts. The fledging had shed her down and was ready to spread her wings and soar. Yet... thoughts of her father still filled her with doubt.\n\nSoon after, Kimmy was assigned to an elite squad, deploying her weapon into battle for the first time on an important rescue mission. The enemy, highly mobile and intimate with the terrain, had the upper hand. Though it was Kimmy's first real combat mission, she remained remarkably calm. She quickly identified the enemy's movement patterns, tracked them to a small outpost, and launched a successful first strike on her own.\n\nBefore the thrill of victory could fade, the full scope of the enemy's operations was revealed: they had kidnapped military researchers to force them to create new weapons. Worse still, they had already used stolen weapons to ambush the front- line troops, causing heavy casualties. With no time to call for backup, Kimmy disguised herself with the enemy's attire and infiltrated their stronghold, quickly locating the holding cells.\n\nBehind iron bars were over a dozen imprisoned allies. Kimmy acted decisively, blasting open the prison doors with her rifle. The sound alerted her comrades waiting to launch their attack outside. With their coordinated assault from both inside and out, chaos erupted in the enemy stronghold, leading to their quick defeat.\n\nAs Kimmy evacuated the prisoners, an older officer, slowed due to his injuries, caught her attention. Those familiar shoulders, that crew cut of gray hair - it was her father. The usually fearless Kimmy felt her confidence waver. She had never told her strict father about enlisting. As their eyes met, Kimmy braced for the worst. However, after a moment's pause, he simply gave her a formal military salute pretending not to recognize his masked daughter. His voice was no longer as deep as she remembered, and his injured stature seemed smaller than she remembered. He advised the \"new recruit\" to make something of herself in the military. Kimmy shouldered her weapon and nodded solemnly while trying to keep her voice from trembling.\n\nNew missions awaited on the horizon. Kimmy looked to the sky, knowing that her wings now carried her father's expectations. She was bound for even greater heights.\n\n# Abilities\n\n## Aerial Dominance\n\nKimmy can move and aim in different directions when using her Spray Gun, but cannot lock on to a specific enemy. Kimmy's Spray Gun attack deals scaling damage based on her level and Magic Power. Hitting enemy heroes or non-hero units restores 6 or 3 Starlium respectively. If no Starlium is gained within 7 seconds, the Starlium begins to deplete.\n\nAt max Starlium, Kimmy's Basic Attacks are enhanced to deal increased damage and pierce through targets.\n\nKimmy does not stop moving while shooting and no longer benefits from Attack Speed Bonus. Every 1% Attack Speed she gains is converted to 1 Magic Power.\n\nDue to this passive, she cannot use manual targeting.\n\n## Anti-Grav Thruster\n\nCooldown: 14 / 13 / 12 / 11 / 10 / 9 seconds\n\nKimmy uses her jetpack to take flight, removing and becoming immune to Slow effects. She can pass through terrain and gains 90% Movement Speed for 1 second.\n\nDuring the flight, she fires 4 Chemical Bolts at nearby enemies, each dealing scaling Magic Damage based on level and Magic Power and slowing them by 50% for 0.5 seconds.\n\nChemical Bolts ignore invisible, concealed, and unsighted enemies.\n\nThis skill benefits from 50% Spell Vamp.\n\n## Starlium Beam\n\nCooldown: 10 / 9.6 / 9.2 / 8.8 / 8.4 / 8 seconds\n\nKimmy fires a Starlium Beam in the target direction that immobilizes enemies in its path and deals continuous Magic Damage for 2 seconds. The damage scales with level and Magic Power.\n\nGain 20 Starlium for each enemy hero hit.\n\nThis skill benefits from 50% Spell Vamp.\n\n## Traction Pulse\n\nCooldown: 40 / 35 / 30 seconds\n\nKimmy charges and fires a Traction Pulse in a target direction. Upon hitting an enemy or reaching its max range, it explodes to deal area Magic Damage to nearby enemies, scaling with level and Magic Power, and creates a force field that slows enemies within by 75%.\n\nAfter 1 second, the field contracts, pulling all enemy heroes to its center and dealing a percentage of their current HP as Magic Damage: 15% / 22.5% / 30%. Gain 40 Starlium for each enemy hero hit.\n\nCooldown begins as soon as the ability is cast. Kimmy can hold the ability for up to 3 seconds before firing.\n\nThe HP-based damage on the second part of this ability will not trigger percentage-HP-based passives.\n\n# Trivia\n\n- Kimmy is the first hero and currently the only hero to be a Marksman/Mage type.\n- She is the third hero in the game who can convert a stat (Attack Speed) to another stat (Magic Power).\n- When switching Hero Voice to Japanese, instead of saying \"Fighting 'Kimmy!\", she says \"Fighting Jimmy!\" (ファイティング・ジミー! - Faitingu Jimī!) in Entrance Quotes.\n- While still in development Kimmy's first given name and hero title was Mary the Ink Queen.\n- The name can be a reference to Marie which is an Inkling/Squid from Splatoon by Nintendo.\n- Kimmy is one of the heroes to have received a rework before she was even released on the original server.\n- Her basic attack used to spread and pierce through enemies similar to how shotgun pellets work.\n- She used to have 2 skill sources: one for her first skill and one for her second skill.\n- Her second skill used to be another basic attack buff skill similar to her first skill, but was later changed into a blink skill that does not consume any energy.\n- Before her rework on Patch Notes 1.6.10, Kimmy had a Mixed Damage specialty; then it was later replaced with Magic Damage, making Esmeralda the only hero who specializes in Mixed Damage.\n- The melody she says when picked with the Dragon Tamer skin is a parody of \"Hush Little Baby Don't Say A Word\" by the King's Singers 1987.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "beatrix",
+        "esmeralda"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "beatrix"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Soldier",
+      "locationTies": [
+        {
+          "location": "Moniyan Empire",
+          "relationship": "home"
+        },
+        {
+          "location": "Eruditio",
+          "relationship": "visited"
+        },
+        {
+          "location": "Western Border Guard of Moniyan Empire",
+          "relationship": "protects"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "triumphant"
+    ],
+    "themes": [
+      "destiny",
+      "family",
+      "honor"
+    ],
+    "hook": "New missions awaited on the horizon. Kimmy looked to the sky, knowing that her wings now carried her father's expectations.",
+    "teaser": "Born to a decorated officer and bound for a peaceful life, Kimmy defies expectations with a jetpack, a rifle, and a vow to soar higher than anyone else.",
+    "openingLine": "If you were to ask Kimmy about her most vivid childhood memory, she would tell you without hesitation - it was the weight of the medals adorning her father's military uniform.",
+    "dominantColor": "#2F8FCC",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Aim for the Sky"
+    ],
+    "plotKeywords": [
+      "military family",
+      "forbidden ambition",
+      "Eruditio schooling",
+      "friendship with Beatrix",
+      "border guard training",
+      "experimental weapon",
+      "rescue mission",
+      "reunion with father"
+    ],
+    "characterTraits": [
+      "determined",
+      "rebellious",
+      "hardworking",
+      "brave",
+      "innovative"
+    ],
+    "locations": [
+      "Moniyan Empire",
+      "Eruditio",
+      "Western Border Guard of Moniyan Empire"
+    ],
+    "wordCount": 1529,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 2,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646935143,
+    "updatedAt": 1764646935143
+  },
+  "lastUpdated": null
+}

@@ -5,7 +5,7 @@ import { compileMDX } from "next-mdx-remote/rsc";
 import { notFound } from "next/navigation";
 import { TableOfContents } from "../_components/table_of_content";
 import { makeUrl } from "@/lib/utils.api";
-import type { WikiType } from "@repo/database";
+import type { WikiTableData } from "@repo/database";
 import { HeaderWiki } from "@/app/(pages)/wiki/_components/header.wiki";
 import { tidyLabel } from "@/lib/utils";
 
@@ -33,7 +33,7 @@ export default async function WikiPage({ params }: WikiPageProps) {
 		throw new Error("Failed to load wiki data");
 	}
 
-	const wikiRecord = (await response.json()) as WikiType;
+	const wikiRecord = (await response.json()) as WikiTableData;
 
 	let markdown = `<Header hero_name="${hero_name}" />\n\n`;
 	markdown += wikiRecord.markdown.replaceAll('"', "");

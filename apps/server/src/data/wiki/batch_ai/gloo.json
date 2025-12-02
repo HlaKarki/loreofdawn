@@ -1,0 +1,184 @@
+{
+  "hero": "gloo",
+  "urlName": "gloo",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Swamp Spirits\n\n**Origin:** Shadow Swamp, Azrya Woodlands\n\n**Species:** Swamp spirit\n\n**Gender:** Genderless\n\n**Affiliation:** Shadow Swamp\n\n**Likes:** Apples\n\n**Japanese VA:** Takeda Taichi (武田 太一)\n\n**English VA:** Aaron Veach"
+    },
+    "story": {
+      "markdown": ""
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Lore",
+          "content": {
+            "markdown": "During a huge war waged in the Barren Lands, the Moniyan Empire's Second Regiment was almost entirely annihilated. Among the sea of corpses strewn all around, a Moniyan soldier had managed to survive; yet lost every one of his comrades, and was left to walk back to his homeland alone.\n\nDark clouds shroud the Barren Lands year in, year out. Without the sun, moon and stars to guide his path, this solitary survivor lost his way and strayed into the Shadow Swamp.\n\nBoth the earth and water found within the forests of the Shadow Swamp are corrupted by the Abyss, leaving the place moist and putrid. The man's extreme hunger and fatigue, together with the endless forest that surrounded him, plunged him into darkness and despair.\n\nJust as he was about to pass out, a most peculiar feeling wrenched him back to consciousness: a sticky sensation spread upon his back, and then he lost all control of his limbs which ran wildly of their own accord.\n\nHe would describe this moment in his memoirs as feeling like he was but a wooden puppet, like those played by the Moniyan children. He was manipulated by some invisible force, nimbly darting through the forest at an unbelievable speed.\n\nThe man was about to lose consciousness when the body he no longer controlled came to a halt. Coming to himself, he watched with wide eyes at what laid before him...\n\nThere he saw the ruins of a great vine-entangled temple, weathered by the wind and frost yet still grand and imposing. These ancient temple ruins stuck out like a sore thumb within their Shadow Swamp surroundings.\n\nThe strange sensation that ran down his back faded away as he stopped, yet it was just then that he caught sight of something small that hopped into the nearby bushes, seemingly in hiding.\n\nCould that thing be behind all of this? The soldier was determined to get to the bottom of it all, and ploughed ahead in the direction the figure had taken. From the vegetation there emanated a loud rustling, and it seemed some kind of violent struggle was taking place within.\n\nAnd so as the soldier crept over stealthily, reaching out to push aside a branch, there appeared before him a little critter about the size of a coal briquette; he prepared to catch it and study it more closely, yet before he could make a move, countless others had emerged from all around. They stacked together in an orderly fashion, and in a little over ten seconds the creature no bigger than a lump of coal had transformed into a mighty beast. This struck terror into the heart of the poor Moniyan soldier who fainted on the spot. But when he awakened once more, he found himself no longer within the swamp, instead upon the border of the Barren Lands and the Empire.\n\nUpon returning to the empire, he regaled those all around with this tale. The Moniyan citizens held much respect for this veteran, yet dismissed his story as merely the hallucinations of a man racked by fatigue while having narrowly escaped death.\n\nAfter all, even the most learned scholars in Moniyan had never even heard of such a creature. There was little the soldier could do but write his experiences down on paper instead, that evidence to be uncovered in later ages could perhaps prove his sanity.\n\nAs luck would have it, he didn't have to wait quite so long. This dream of his was realized while he was still alive and well.\n\nWhen the Elven text \"Azrya\" reached the Academy of Magic, a student from the Moniyan Empire read records within of a faction called the Gloo--records which conformed directly with the experiences of that Moniyan soldier he'd read before.\n\nThe curious student sought the dean of the Ulturia School, Eudora, who having glanced over the soldier's writings confirmed that they indeed described a Gloo encounter.\n\nHaving heard it from Eudora, mankind became aware of Gloo--peculiar beings with peculiar ways of living. Through a mysterious secretion, once just one of their number had attached to any living being, they could then begin to completely enshroud it.\n\nWhat's more, this gel-like outer coating of theirs acted as a cognizant organ that allowed unique neural networks to function among individual “Goos” which formed the larger sensation “Gloo”. Of these beings some would hold higher roles within the network, commanding all the others when they combined into one form. Through merging in different number, they were able to control their size and shape at will.\n\nGoos were found to be intelligent and pure beings, proud of their 'group wisdom' they shared which was mostly used to pull pranks on the neighboring Elves. When she heard of the Moniyan soldier's bizarre adventure, she realized what had happened: a group of Goos must had wandered out too far, and so they latched on to him as a larger organism to hitch a ride back home.\n\nSince its birth, the Goos had never ventured out of Azrya, instead guarding over the forests and the mysterious old temple. They had never initiated any kind of battle, at the most taking on the form of a terrifying beast to scare away any outsiders who broke into their territory by accident. Even the Elves who lived not far from them knew little of their kind.\n\nPerhaps the greatest of Goo’s intelligence could be seen in their residing within the deep expanses of the forests, living in peaceful harmony with the rest of the world.\n\nHowever, the Abyss changed everything.\n\nTaking shelter in the ancient temple, Goos strove to hang on to their rationality and faith, to avoid becoming like those Dark Elves nearby who had fallen to its clutches. But a deep and dark corruption spread into them and their forest home as the Abyss exerted its power.\n\nEudora was by no means unaware of Goo’s predicament. At the end of the Moniyan soldier's writings she left a few sentences.\n\n> \"The Abyss is a catastrophe. It strikes division among the factions, and breeds pure hatred. But maybe, just maybe, this is a chance for us: a chance for every soul across these lands to come together once more, to stand as one.\"\n\nWhen the fates of all the peoples become interlinked together, where will the gentle Gloo head to next?"
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Stick, Stick",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Enemies gain a stack of Sticky each time they're hit by Gloo's skills, decreasing their Movement Speed by 4% for 6 seconds. Stacks up to 5.\n\nEach stack of Sticky on an enemy reduces their damage dealt to Gloo by 4%."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Slam, Slam",
+        "cooldown": 10,
+        "cost": 25,
+        "role": "Damage",
+        "details": {
+          "markdown": "Gloo reaches out and slams the ground, dealing magic damage to the enemy. At the final slam, a Goo is left behind that explodes after 3 seconds to deal magic damage to nearby enemies and immobilize them for 1 second.\n\nIf Gloo touches the Goo, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5%-5% of its Max HP if the explosion hits an enemy (healing is doubled if it hits an enemy hero).\n\n- Cooldown: 10.0 / 9.2 / 8.4 / 7.6 / 6.8 / 6.0 seconds\n- Mana Cost: 25 / 30 / 35 / 40 / 45 / 50\n- Spell Vamp: 50%\n- HP Regen on explosion hit: 2.5% / 3% / 3.5% / 4% / 4.5% / 5% of Max HP\n- Base damage and extra damage scale with level and Max HP."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Spread, Spread",
+        "cooldown": 12,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Gloo splits into Goos, dealing magic damage to enemies in a fan-shaped area and immobilizing them for 0.5 seconds.\n\nWhile split, Gloo gains 10% Movement Speed and deals magic damage every 0.25 seconds to enemies it touches for 4 seconds. If this skill hits a Goo, Gloo will charge over to merge with it, dragging enemies in its path in the same direction for a distance.\n\n- Cooldown: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds\n- Mana Cost: 80 / 88 / 96 / 104 / 112 / 120\n- Spell Vamp: 50%\n- Base damage and touch damage scale with level."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Grab, Grab",
+        "cooldown": 50,
+        "cost": 150,
+        "role": "Control",
+        "details": {
+          "markdown": "Unlocked when any enemy hero has full Sticky stacks.\n\nGloo attaches itself to the target enemy hero for up to 9 seconds, recovering 25%-30% of its Max HP over the duration. While attached, Gloo's Basic Attacks are converted to deal magic damage, and it transfers 80% of the damage it receives (excluding damage from turrets) to its host.\n\nIf the target dies while Gloo is attached, this skill's cooldown is reduced to 5 seconds.\n\n- Cooldown: 50.0 seconds\n- Mana Cost: 150\n- Spell Vamp: 50%\n- Attached HP Regen: 25% / 27.5% / 30% of Max HP\n- Base attack damage while attached scales with level and Max HP.\n\nNotes:\n- Gloo lingers on the host even when the host becomes untargetable.\n- Gloo can freely use battle spells and equipment while attached, though certain Mobility options are disabled."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Gloo is a pun of the word \"Glue\", referencing his ability to stick to an enemy hero."
+      },
+      {
+        "markdown": "Gloo is the second hero who can attach to another hero and use skills upon attaching, the first being Angela."
+      },
+      {
+        "markdown": "Gloo is the first hero who attaches to an enemy hero, while Angela attaches to an allied hero."
+      },
+      {
+        "markdown": "Gloo was originally called Daktec."
+      },
+      {
+        "markdown": "Gloo's favorite fruit is apple."
+      },
+      {
+        "markdown": "Gloo is the second hero to have a basic skin with skill effects, the other hero is Guinevere."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Swamp Spirits\n\n**Origin:** Shadow Swamp, Azrya Woodlands\n\n**Species:** Swamp spirit\n\n**Gender:** Genderless\n\n**Affiliation:** Shadow Swamp\n\n**Likes:** Apples\n\n**Japanese VA:** Takeda Taichi (武田 太一)\n\n**English VA:** Aaron Veach\n\n# Side Story\n\n## Lore\n\nDuring a huge war waged in the Barren Lands, the Moniyan Empire's Second Regiment was almost entirely annihilated. Among the sea of corpses strewn all around, a Moniyan soldier had managed to survive; yet lost every one of his comrades, and was left to walk back to his homeland alone.\n\nDark clouds shroud the Barren Lands year in, year out. Without the sun, moon and stars to guide his path, this solitary survivor lost his way and strayed into the Shadow Swamp.\n\nBoth the earth and water found within the forests of the Shadow Swamp are corrupted by the Abyss, leaving the place moist and putrid. The man's extreme hunger and fatigue, together with the endless forest that surrounded him, plunged him into darkness and despair.\n\nJust as he was about to pass out, a most peculiar feeling wrenched him back to consciousness: a sticky sensation spread upon his back, and then he lost all control of his limbs which ran wildly of their own accord.\n\nHe would describe this moment in his memoirs as feeling like he was but a wooden puppet, like those played by the Moniyan children. He was manipulated by some invisible force, nimbly darting through the forest at an unbelievable speed.\n\nThe man was about to lose consciousness when the body he no longer controlled came to a halt. Coming to himself, he watched with wide eyes at what laid before him...\n\nThere he saw the ruins of a great vine-entangled temple, weathered by the wind and frost yet still grand and imposing. These ancient temple ruins stuck out like a sore thumb within their Shadow Swamp surroundings.\n\nThe strange sensation that ran down his back faded away as he stopped, yet it was just then that he caught sight of something small that hopped into the nearby bushes, seemingly in hiding.\n\nCould that thing be behind all of this? The soldier was determined to get to the bottom of it all, and ploughed ahead in the direction the figure had taken. From the vegetation there emanated a loud rustling, and it seemed some kind of violent struggle was taking place within.\n\nAnd so as the soldier crept over stealthily, reaching out to push aside a branch, there appeared before him a little critter about the size of a coal briquette; he prepared to catch it and study it more closely, yet before he could make a move, countless others had emerged from all around. They stacked together in an orderly fashion, and in a little over ten seconds the creature no bigger than a lump of coal had transformed into a mighty beast. This struck terror into the heart of the poor Moniyan soldier who fainted on the spot. But when he awakened once more, he found himself no longer within the swamp, instead upon the border of the Barren Lands and the Empire.\n\nUpon returning to the empire, he regaled those all around with this tale. The Moniyan citizens held much respect for this veteran, yet dismissed his story as merely the hallucinations of a man racked by fatigue while having narrowly escaped death.\n\nAfter all, even the most learned scholars in Moniyan had never even heard of such a creature. There was little the soldier could do but write his experiences down on paper instead, that evidence to be uncovered in later ages could perhaps prove his sanity.\n\nAs luck would have it, he didn't have to wait quite so long. This dream of his was realized while he was still alive and well.\n\nWhen the Elven text \"Azrya\" reached the Academy of Magic, a student from the Moniyan Empire read records within of a faction called the Gloo--records which conformed directly with the experiences of that Moniyan soldier he'd read before.\n\nThe curious student sought the dean of the Ulturia School, Eudora, who having glanced over the soldier's writings confirmed that they indeed described a Gloo encounter.\n\nHaving heard it from Eudora, mankind became aware of Gloo--peculiar beings with peculiar ways of living. Through a mysterious secretion, once just one of their number had attached to any living being, they could then begin to completely enshroud it.\n\nWhat's more, this gel-like outer coating of theirs acted as a cognizant organ that allowed unique neural networks to function among individual “Goos” which formed the larger sensation “Gloo”. Of these beings some would hold higher roles within the network, commanding all the others when they combined into one form. Through merging in different number, they were able to control their size and shape at will.\n\nGoos were found to be intelligent and pure beings, proud of their 'group wisdom' they shared which was mostly used to pull pranks on the neighboring Elves. When she heard of the Moniyan soldier's bizarre adventure, she realized what had happened: a group of Goos must had wandered out too far, and so they latched on to him as a larger organism to hitch a ride back home.\n\nSince its birth, the Goos had never ventured out of Azrya, instead guarding over the forests and the mysterious old temple. They had never initiated any kind of battle, at the most taking on the form of a terrifying beast to scare away any outsiders who broke into their territory by accident. Even the Elves who lived not far from them knew little of their kind.\n\nPerhaps the greatest of Goo’s intelligence could be seen in their residing within the deep expanses of the forests, living in peaceful harmony with the rest of the world.\n\nHowever, the Abyss changed everything.\n\nTaking shelter in the ancient temple, Goos strove to hang on to their rationality and faith, to avoid becoming like those Dark Elves nearby who had fallen to its clutches. But a deep and dark corruption spread into them and their forest home as the Abyss exerted its power.\n\nEudora was by no means unaware of Goo’s predicament. At the end of the Moniyan soldier's writings she left a few sentences.\n\n> \"The Abyss is a catastrophe. It strikes division among the factions, and breeds pure hatred. But maybe, just maybe, this is a chance for us: a chance for every soul across these lands to come together once more, to stand as one.\"\n\nWhen the fates of all the peoples become interlinked together, where will the gentle Gloo head to next?\n\n# Abilities\n\n## Stick, Stick\n\nEnemies gain a stack of Sticky each time they're hit by Gloo's skills, decreasing their Movement Speed by 4% for 6 seconds. Stacks up to 5.\n\nEach stack of Sticky on an enemy reduces their damage dealt to Gloo by 4%.\n\n## Slam, Slam\n\nGloo reaches out and slams the ground, dealing magic damage to the enemy. At the final slam, a Goo is left behind that explodes after 3 seconds to deal magic damage to nearby enemies and immobilize them for 1 second.\n\nIf Gloo touches the Goo, it will explode immediately, reset the skill's cooldown, and heal Gloo for 2.5%-5% of its Max HP if the explosion hits an enemy (healing is doubled if it hits an enemy hero).\n\n- Cooldown: 10.0 / 9.2 / 8.4 / 7.6 / 6.8 / 6.0 seconds\n- Mana Cost: 25 / 30 / 35 / 40 / 45 / 50\n- Spell Vamp: 50%\n- HP Regen on explosion hit: 2.5% / 3% / 3.5% / 4% / 4.5% / 5% of Max HP\n- Base damage and extra damage scale with level and Max HP.\n\n## Spread, Spread\n\nGloo splits into Goos, dealing magic damage to enemies in a fan-shaped area and immobilizing them for 0.5 seconds.\n\nWhile split, Gloo gains 10% Movement Speed and deals magic damage every 0.25 seconds to enemies it touches for 4 seconds. If this skill hits a Goo, Gloo will charge over to merge with it, dragging enemies in its path in the same direction for a distance.\n\n- Cooldown: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds\n- Mana Cost: 80 / 88 / 96 / 104 / 112 / 120\n- Spell Vamp: 50%\n- Base damage and touch damage scale with level.\n\n## Grab, Grab\n\nUnlocked when any enemy hero has full Sticky stacks.\n\nGloo attaches itself to the target enemy hero for up to 9 seconds, recovering 25%-30% of its Max HP over the duration. While attached, Gloo's Basic Attacks are converted to deal magic damage, and it transfers 80% of the damage it receives (excluding damage from turrets) to its host.\n\nIf the target dies while Gloo is attached, this skill's cooldown is reduced to 5 seconds.\n\n- Cooldown: 50.0 seconds\n- Mana Cost: 150\n- Spell Vamp: 50%\n- Attached HP Regen: 25% / 27.5% / 30% of Max HP\n- Base attack damage while attached scales with level and Max HP.\n\nNotes:\n- Gloo lingers on the host even when the host becomes untargetable.\n- Gloo can freely use battle spells and equipment while attached, though certain Mobility options are disabled.\n\n# Trivia\n\n- The name Gloo is a pun of the word \"Glue\", referencing his ability to stick to an enemy hero.\n- Gloo is the second hero who can attach to another hero and use skills upon attaching, the first being Angela.\n- Gloo is the first hero who attaches to an enemy hero, while Angela attaches to an allied hero.\n- Gloo was originally called Daktec.\n- Gloo's favorite fruit is apple.\n- Gloo is the second hero to have a basic skin with skill effects, the other hero is Guinevere.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "karina",
+        "miya",
+        "eudora",
+        "angela",
+        "guinevere"
+      ],
+      "faction": "Moon Elves",
+      "allies": [
+        "eudora"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Guardian",
+      "locationTies": [
+        {
+          "location": "Shadow Swamp",
+          "relationship": "home"
+        },
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "protects"
+        },
+        {
+          "location": "Barren Lands",
+          "relationship": "battlefield"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "encountered"
+        }
+      ]
+    },
+    "moods": [
+      "mysterious",
+      "melancholic"
+    ],
+    "themes": [
+      "destiny",
+      "corruption"
+    ],
+    "hook": "When a lone Moniyan survivor stumbles into the Shadow Swamp, a playful swarm of Goos reveals itself as Gloo—just as the Abyss begins to corrupt their peaceful world.",
+    "teaser": "Born as playful forest guardians, the Goos of Azrya become Gloo, a hive-mind spirit forced to confront the creeping corruption of the Abyss.",
+    "openingLine": "During a huge war waged in the Barren Lands, the Moniyan Empire's Second Regiment was almost entirely annihilated.",
+    "dominantColor": "#4A7F6B",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Lore"
+    ],
+    "plotKeywords": [
+      "war in the Barren Lands",
+      "lost Moniyan soldier",
+      "mysterious swamp creatures",
+      "ancient vine-entangled temple",
+      "Gloo hive-mind",
+      "Abyssal corruption",
+      "Eudora's records",
+      "Azrya forest guardians"
+    ],
+    "characterTraits": [
+      "gentle",
+      "playful",
+      "protective",
+      "mysterious"
+    ],
+    "locations": [
+      "Barren Lands",
+      "Moniyan Empire",
+      "Shadow Swamp",
+      "Azrya Woodlands",
+      "Ulturia School",
+      "Academy of Magic"
+    ],
+    "wordCount": 1604,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646983773,
+    "updatedAt": 1764646983773
+  },
+  "lastUpdated": null
+}

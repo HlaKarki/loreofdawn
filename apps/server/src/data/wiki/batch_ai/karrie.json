@@ -1,0 +1,154 @@
+{
+  "hero": "karrie",
+  "urlName": "karrie",
+  "sections": {
+    "profile": {
+      "markdown": "- Alias: Lost Star\n- Origin: Alaghat\n- Species: Yasson\n- Gender: Female\n- Weapon: Speedy Lightwheel\n- English VA: Feena Glynn\n- Japanese VA: Daimon Kami (大門 香実)\n\n> \"A Yasson marksman who came from another dimension. Summoned by the prophet, she is determined to break the prophecy.\""
+    },
+    "story": {
+      "markdown": "Karrie was trained by the Empire to become a war machine from when she was a child because of her incredible talent. After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Lightwheel Mark",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Karrie's Basic Attacks and skills apply a stack of Lightwheel Mark on hit. Once a target has 5 stacks of Lightwheel Marks, the marks will turn into a lightwheel, dealing True Damage equal to 6%-8% of the target's Max HP to them (only up to 300 damage against Creeps)."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Spinning Lightwheel",
+        "cooldown": 8,
+        "cost": 40,
+        "role": "Damage",
+        "details": {
+          "markdown": "Karrie releases a sphere of surging energy in the target direction, dealing scaling Physical Skill damage to enemies in its path. The sphere will stop upon hitting an enemy hero or reaching its max travel distance, continuously dealing sustained Physical Skill damage to nearby enemies and slowing them by 80% for 1 second.\n\n- Cooldown: 8 seconds\n- Mana Cost: 40 / 45 / 50 / 55 / 60 / 65\n- Base Damage: 250 / 275 / 300 / 325 / 350 / 375 (plus Physical Attack scaling)\n- Sustained Damage: 150 / 160 / 170 / 180 / 190 / 200 (plus Physical Attack scaling)\n- Slow: 80% for 1 second"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Phantom Step",
+        "cooldown": 4.5,
+        "cost": 35,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Karrie dashes in the target direction while throwing a lightwheel at the nearest enemy, dealing scaling Physical Skill damage and applying a stack of Lightwheel Mark on them. When in Dual Wield state, Karrie throws two lightwheels instead.\n\n- Cooldown: 4.5 / 4.1 / 3.7 / 3.3 / 2.9 / 2.5 seconds\n- Mana Cost: 35 / 40 / 45 / 50 / 55 / 60\n- Base Damage: 150 / 175 / 200 / 225 / 250 / 275 (plus Physical Attack scaling)\n- Effects: Blink; applies 1 stack of Lightwheel Mark per lightwheel"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Speedy Lightwheel",
+        "cooldown": 35,
+        "cost": 70,
+        "role": "Damage",
+        "details": {
+          "markdown": "Karrie enters Dual Wield state for a duration, during which she gains bonus Movement Speed and throws two lightwheels with each Basic Attack, each dealing a percentage of Basic Attack damage and inheriting a portion of Attack Effects.\n\n- Cooldown: 35 seconds\n- Mana Cost: 70 / 80 / 90\n- Duration: 6 / 8 / 10 seconds\n- Movement Speed Bonus: 20%\n- Attack Damage per lightwheel: 50% / 60% / 70% of Basic Attack damage\n- Attack Effect inheritance: 50% / 60% / 70% of Attack Effects"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Karrie is a feminine given name, primarily an alternate form of Carrie, and a diminutive of Caroline or Carol, meaning \"beloved\" or \"friend\"."
+      },
+      {
+        "markdown": "Karrie is one of the heroes who can deal more than one type of damage with her skills (Physical and True)."
+      },
+      {
+        "markdown": "Her second skill \"Phantom Step\" is the reuse skill of the first generation."
+      },
+      {
+        "markdown": "Her Wheel of Justice skin is based on Bastet."
+      },
+      {
+        "markdown": "Karrie was officially released in Mobile Legends in 2017. Her arrival marked a shift in the marksman role, as she was designed to be a tank-buster hero capable of melting through the durability of tanky heroes, something that few other marksmen could do at the time."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Alias: Lost Star\n- Origin: Alaghat\n- Species: Yasson\n- Gender: Female\n- Weapon: Speedy Lightwheel\n- English VA: Feena Glynn\n- Japanese VA: Daimon Kami (大門 香実)\n\n> \"A Yasson marksman who came from another dimension. Summoned by the prophet, she is determined to break the prophecy.\"\n\n# Story\n\nKarrie was trained by the Empire to become a war machine from when she was a child because of her incredible talent. After one battle, the seriously wounded Karrie fused with the consciousness of an alien prophet, so she knew the fate of the demise of her hometown, and to find a way to break the prophecy, she left Alaghat.\n\n# Abilities\n\n## Lightwheel Mark\n\nKarrie's Basic Attacks and skills apply a stack of Lightwheel Mark on hit. Once a target has 5 stacks of Lightwheel Marks, the marks will turn into a lightwheel, dealing True Damage equal to 6%-8% of the target's Max HP to them (only up to 300 damage against Creeps).\n\n## Spinning Lightwheel\n\nKarrie releases a sphere of surging energy in the target direction, dealing scaling Physical Skill damage to enemies in its path. The sphere will stop upon hitting an enemy hero or reaching its max travel distance, continuously dealing sustained Physical Skill damage to nearby enemies and slowing them by 80% for 1 second.\n\n- Cooldown: 8 seconds\n- Mana Cost: 40 / 45 / 50 / 55 / 60 / 65\n- Base Damage: 250 / 275 / 300 / 325 / 350 / 375 (plus Physical Attack scaling)\n- Sustained Damage: 150 / 160 / 170 / 180 / 190 / 200 (plus Physical Attack scaling)\n- Slow: 80% for 1 second\n\n## Phantom Step\n\nKarrie dashes in the target direction while throwing a lightwheel at the nearest enemy, dealing scaling Physical Skill damage and applying a stack of Lightwheel Mark on them. When in Dual Wield state, Karrie throws two lightwheels instead.\n\n- Cooldown: 4.5 / 4.1 / 3.7 / 3.3 / 2.9 / 2.5 seconds\n- Mana Cost: 35 / 40 / 45 / 50 / 55 / 60\n- Base Damage: 150 / 175 / 200 / 225 / 250 / 275 (plus Physical Attack scaling)\n- Effects: Blink; applies 1 stack of Lightwheel Mark per lightwheel\n\n## Speedy Lightwheel\n\nKarrie enters Dual Wield state for a duration, during which she gains bonus Movement Speed and throws two lightwheels with each Basic Attack, each dealing a percentage of Basic Attack damage and inheriting a portion of Attack Effects.\n\n- Cooldown: 35 seconds\n- Mana Cost: 70 / 80 / 90\n- Duration: 6 / 8 / 10 seconds\n- Movement Speed Bonus: 20%\n- Attack Damage per lightwheel: 50% / 60% / 70% of Basic Attack damage\n- Attack Effect inheritance: 50% / 60% / 70% of Attack Effects\n\n# Trivia\n\n- The name Karrie is a feminine given name, primarily an alternate form of Carrie, and a diminutive of Caroline or Carol, meaning \"beloved\" or \"friend\".\n- Karrie is one of the heroes who can deal more than one type of damage with her skills (Physical and True).\n- Her second skill \"Phantom Step\" is the reuse skill of the first generation.\n- Her Wheel of Justice skin is based on Bastet.\n- Karrie was officially released in Mobile Legends in 2017. Her arrival marked a shift in the marksman role, as she was designed to be a tank-buster hero capable of melting through the durability of tanky heroes, something that few other marksmen could do at the time.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "ongoing",
+    "relationships": {
+      "relatedHeroes": [
+        "clint"
+      ],
+      "faction": null,
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Alaghat",
+          "relationship": "home"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "mysterious"
+    ],
+    "themes": [
+      "destiny",
+      "redemption"
+    ],
+    "hook": "After fusing with an alien prophet’s consciousness, Karrie learns her empire is doomed and leaves Alaghat, desperate to break the prophecy and save her people.",
+    "teaser": "Forged as a living weapon and haunted by a prophet’s voice, Karrie abandons her empire to defy a vision of its ruin and hunt for a way to rewrite fate.",
+    "openingLine": "Alaghat is a mysterious technique empire.",
+    "dominantColor": "#F5C24C",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "mysterious empire",
+      "alien prophet",
+      "war machine training",
+      "impending ruin",
+      "prophecy",
+      "search for redemption",
+      "journey to Land of Dawn"
+    ],
+    "characterTraits": [
+      "arrogant",
+      "talented",
+      "determined",
+      "conflicted",
+      "battle-hardened"
+    ],
+    "locations": [
+      "Alaghat",
+      "Land of Dawn"
+    ],
+    "wordCount": 569,
+    "readingTimeMinutes": 4,
+    "connectionsCount": 1,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647251508,
+    "updatedAt": 1764647251508
+  },
+  "lastUpdated": null
+}

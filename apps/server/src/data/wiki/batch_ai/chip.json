@@ -1,0 +1,178 @@
+{
+  "hero": "chip",
+  "urlName": "chip",
+  "sections": {
+    "profile": {
+      "markdown": "He is the face of *MLBB* Season 32: Shapeshifting.\n\n- Origin: Laboratory 1718\n- Species: Genetically enhanced fox\n- Gender: Male\n- Occupation: Inventor\n- Fields of Study: Portal technology\n- Abilities: Human-like intelligence\n- Traits: Lazy, carefree\n- Likes: Potato chips\n- Relationships: Dr. Baker (guardian), Angela (confidant, adoptive sibling)"
+    },
+    "story": {
+      "markdown": "\"A carefree, genetically enhanced fox that wields advanced portal technology\"\n\nChip was once a small fox just trying to survive in the harsh deserts of Agelta. By chance, he was found by Dr. Baker and brought to Laboratory 1718 where he was genetically enhanced with superior intelligence and tasked with testing the lab's portal technology.\n\nHowever, he has always been lazy by nature and just wanted to enjoy a carefree life. When an inner power struggle took place at the secret lab, Chip's life was turned upside down and he ws forced to make a tough decision. To be able to return his carefree life, he had to work hard one last time..."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Dear Dr. Baker",
+          "content": {
+            "markdown": "> \"The laid-back Chip only wants to enjoy a carefree and peaceful fox life, but troubles just keep coming. Once more, Chip's dream of a relaxed existence is disrupted. How can he elude these troubles and embrace a life of leisure?\"\n\n- MLBB official Twitter\n\nDear Dr. Baker:\n\nYou must be shocked that, I, the carefree Chip, would ever write a letter, right?\n\nAfter all, normally I just recline in my hover chair and snack on potato chips all day. But I can no longer do that, my old friend, because your indecisiveness has been interfering with my carefree life, so we need to have a long chat.\n\nOnce upon a time, before I met you, I was just an ordinary little fox, no different than the thousands of other foxes across Agelta. I slept in my burrow under the sand every day and foraged for food when I had to, until that day when I came upon a bag of half-eaten potato chips graciously left behind by a traveler.\n\nMy world was never the same after that. That unique taste and crispy texture was surely the pinnacle of human ingenuity I thought; their miracle to the world of us chip-less peasants.\n\nAfter that divine experience, I waited along the trade routes day in and day out, but never got another taste of that golden delicacy. I even stole some potatoes from a village and was almost mauled by their mangy mutts, but what are potatoes compared to potato chips! Alas, the gods did not send down a second bag of potato chips, but calamity instead - an earthquake threatening to collapse my burrow. I did not panic like the rest of my kin. I made the softest bed with hay, put the empty bag of chips over my head, and was ready for whatever came next.\n\nBut as it turns out, you just happened to be passing by my burrow at that very moment. The sight of my calmness, or perhaps the bag over my head, must have piqued your curiosity, so you took me back to your laboratory. When I woke up, I found that I had been altered by your strange science. I had gained extraordinary intelligence and was soon tasked with testing the lab's portal technology.\n\nI was so naive back then. The great Dr. Baker had granted this little fox the ability to get his own potato chips! From that day on, I became a being of higher intelligence, named myself \"Chip\", and was free to enjoy a lifetime of potato chips that I could reach from anywhere. Surely the portal I was testing was for reaching the snack rack while lounging at home, right? I was thankful, Dr. Baker.\n\nBut if only things were that simple. You later informed me that in addition to eating potato chips, we intelligent \"scholars\" must also perform endless scientific research, record experimental data, assemble robots, and even catch those slimy energy jellyfish in the sea around the island. In other words... work. What a dreadful concept! Wasting my life away is what it is! I was devastated by this revelation, and from then on, all I could do at work was find ways to slack off and eat potato chips. I know you blame yourself, thinking it was some error in your calculations that caused me to become this lazy... but you're wrong. I was always lazy.\n\nNow don't get mad, I've finished my rant. What follows is just a recount of some events.\n\nSoon after, Dr. Octavius became the new head of the lab. He transformed it into an arms factory and used your technology intended to benefit the world to make weapons of war and sell them to Los Pecados. At that time, you couldn't accept what was happening and ran off. I originally thought you were taking a break on the island, but turns out you were secretly working on an android, Angela!\n\nOnce Octavius found out, he had all of us work overtime to develop an even better android; to surpass you, he wanted to mass-produce weapons with artificial souls. The workload for all of us increased tenfold... we worked from dawn till dusk, without any breaks to enjoy even a single potato chip. That's no working condition for man or fox. I couldn't bear another second of it, so I was forced to do something drastic.\n\nI took the initiative and volunteered to lead the search and retrieval team for you. I used the portals to find your residence and brought you back. I hope you're not too angry. It's not that potato chips are more important than you, but I had to bring you back so everyone could finally take a break.\n\nAnyway, you were captured and brought back to the lab, but Angela escaped. You were so worried about her that you fell into a depression, while I received a hundred bags of original flavored potato chips as a bonus. But life likes to play cruel tricks, as I've learned. That blasted Octavius gave me a promotion and a raise, but most importantly gave me even more work and responsibilities!\n\nWill this nightmare ever end? I want to retire with my stash of potato chips!\n\nSo, you gotta get back on your feet, my friend. Think of those suffering from war, the victims of the weapons made in this lab, and the poor little fox forced to work overtime! Listen, I'll help you retake control of your lab. I thought it didn't matter who ran this lab as long as it wasn't me, but now I know it must be you! Otherwise, people will expect me to work!\n\nAs for your \"daughter\" Angela, don't worry, I'll find her and bring her back but promise you'll keep her away from me. She forced me to wear a frilly pink dress in our last encounter... Truly one of your most terrifying creations.\n\nIn conclusion, pull yourself together, Dr. Baker! I know that your technology will bring joy to all living creatures, and I should be first on that list! I can already see the golden beaches of the Agelta coast. I've stashed all my chips there, waiting for that day.\n\nOne last thing. You didn't think I actually wrote this letter myself, did you? I hope the ChipBot AI program I developed has done a good job of conveying my thoughts... or thoughts the real Chip should have according to my algor... Never mind. If you miss me, just contact ChipBot.\n\nAlthough it will only reply that it's off duty.\n\n- Your good friend, Chip"
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Snack Time!",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "\"Yummy...yummy...\"\n\nChip starts eating potato chips when out of combat, regenerating HP equal to 150 plus 45% scaling healing after finishing a whole bag (requires 5 bites). After eating a bag of chips, Chip cannot eat again for 5 seconds."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Crash Course",
+        "cooldown": 5.5,
+        "cost": 40,
+        "role": "Damage",
+        "details": {
+          "markdown": "Magic Damage\n\nChip rams his hovercraft into the ground, dealing base magic damage plus bonus damage based on the target's Max HP and applying Chip's Mark on enemy heroes hit. Chip gains a shield upon hitting an enemy hero, which increases by 20% for each additional enemy hero hit. Chip's next Basic Attack will become ranged and also hit all nearby enemies, detonating the mark to deal extra magic damage and stunning each target for 0.6 seconds.\n\n- Cooldown: 5.5 / 5.2 / 4.9 / 4.6 / 4.3 / 4.0 seconds\n- Mana Cost: 40 / 45 / 50 / 55 / 60 / 65\n- Base Damage: 220 / 250 / 280 / 310 / 340 / 370\n- Base Shield: 300 / 400 / 500 / 600 / 700 / 800\n- Extra Damage on detonation: 200 / 230 / 260 / 290 / 320 / 350\n\nNotes:\n- Crash Course increases Chip's basic attack range to 3.5."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Overtime",
+        "cooldown": 15,
+        "cost": 20,
+        "role": "Mobility",
+        "details": {
+          "markdown": "\"Sunshine and beach, I'm here!\"\n\nChip rushes forward for 2 seconds, gaining Movement Speed until he reaches 65% extra, after which he maintains the max speed for 2 seconds. Chip's next Basic Attack will cause him to charge at the enemy, dealing magic damage and knocking them back slightly.\n\n- Cooldown: 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds\n- Mana Cost: 20\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n\nNotes:\n- Overtime increases Chip's basic attack range to 3.5."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Shortcut",
+        "cooldown": 70,
+        "cost": 110,
+        "role": "Utility",
+        "details": {
+          "markdown": "\"Get it done so we can get off work.\"\n\nChip drops the Main Portal on an enemy hero, dealing base magic damage and slowing them by 30% for 2.5 seconds. Meanwhile, he creates Connecting Portals near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The Main Portal and Connecting Portals last up to 10 seconds.\n\nHeroes can teleport from Connecting Portals to the Main Portal, or stand on the Main Portal for a period of time to return to the Connecting Portal they came from.\n\nAfter a delay, the Main Portal deals extra magic damage to nearby targets and knocks them airborne for 0.8 seconds. The Main Portal inherits 80% of Chip's HP.\n\n- Cooldown: 70.0 / 60.0 / 50.0 seconds\n- Mana Cost: 110\n- Base Damage: 200 / 250 / 300\n- Extra Damage: 600 / 750 / 900\n\nNotes:\n- The first Connecting Portal that a hero comes in will be marked as the Connecting Portal for them.\n- Going through a Connecting Portal will trigger the Main Portal's damage and control effect but not on returning.\n- A hero can only return to the previous portal once after 2 seconds of waiting delay.\n- The Main Portal is treated as a creep, and is fully affected by Retribution.\n- Does not create Connecting Portals to units inside Yin's My Turn and vice versa if the Main Portal is inside."
+        }
+      },
+      {
+        "slot": "Morph",
+        "name": "Why Walk?",
+        "cooldown": 40,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Chip has 4 Beacons on the map. Chip can teleport to any other Beacon.\n\n- Cooldown: 40.0 seconds\n\nNotes:\n- Beacons in clockwise order: 1 (top) > 2 > 3 > 4.\n- Cannot teleport within Yin's My Turn. The order is queued afterwards.\n- When a Beacon is hold-cast, its animation changes and becomes visible to nearby units."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Chip has a unique passive skill where he eats potato chips when out of combat, regenerating his HP to 150. The health regeneration increases by 15% once he takes at least five consecutive bites."
+      },
+      {
+        "markdown": "He has tag no. 5 on his ear implying that other foxes or animals of different species were tested or enhanced before Chip."
+      },
+      {
+        "markdown": "His flavor of the chips change on different skins."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nHe is the face of *MLBB* Season 32: Shapeshifting.\n\n- Origin: Laboratory 1718\n- Species: Genetically enhanced fox\n- Gender: Male\n- Occupation: Inventor\n- Fields of Study: Portal technology\n- Abilities: Human-like intelligence\n- Traits: Lazy, carefree\n- Likes: Potato chips\n- Relationships: Dr. Baker (guardian), Angela (confidant, adoptive sibling)\n\n# Story\n\n\"A carefree, genetically enhanced fox that wields advanced portal technology\"\n\nChip was once a small fox just trying to survive in the harsh deserts of Agelta. By chance, he was found by Dr. Baker and brought to Laboratory 1718 where he was genetically enhanced with superior intelligence and tasked with testing the lab's portal technology.\n\nHowever, he has always been lazy by nature and just wanted to enjoy a carefree life. When an inner power struggle took place at the secret lab, Chip's life was turned upside down and he ws forced to make a tough decision. To be able to return his carefree life, he had to work hard one last time...\n\n# Side Story\n\n## Dear Dr. Baker\n\n> \"The laid-back Chip only wants to enjoy a carefree and peaceful fox life, but troubles just keep coming. Once more, Chip's dream of a relaxed existence is disrupted. How can he elude these troubles and embrace a life of leisure?\"\n\n- MLBB official Twitter\n\nDear Dr. Baker:\n\nYou must be shocked that, I, the carefree Chip, would ever write a letter, right?\n\nAfter all, normally I just recline in my hover chair and snack on potato chips all day. But I can no longer do that, my old friend, because your indecisiveness has been interfering with my carefree life, so we need to have a long chat.\n\nOnce upon a time, before I met you, I was just an ordinary little fox, no different than the thousands of other foxes across Agelta. I slept in my burrow under the sand every day and foraged for food when I had to, until that day when I came upon a bag of half-eaten potato chips graciously left behind by a traveler.\n\nMy world was never the same after that. That unique taste and crispy texture was surely the pinnacle of human ingenuity I thought; their miracle to the world of us chip-less peasants.\n\nAfter that divine experience, I waited along the trade routes day in and day out, but never got another taste of that golden delicacy. I even stole some potatoes from a village and was almost mauled by their mangy mutts, but what are potatoes compared to potato chips! Alas, the gods did not send down a second bag of potato chips, but calamity instead - an earthquake threatening to collapse my burrow. I did not panic like the rest of my kin. I made the softest bed with hay, put the empty bag of chips over my head, and was ready for whatever came next.\n\nBut as it turns out, you just happened to be passing by my burrow at that very moment. The sight of my calmness, or perhaps the bag over my head, must have piqued your curiosity, so you took me back to your laboratory. When I woke up, I found that I had been altered by your strange science. I had gained extraordinary intelligence and was soon tasked with testing the lab's portal technology.\n\nI was so naive back then. The great Dr. Baker had granted this little fox the ability to get his own potato chips! From that day on, I became a being of higher intelligence, named myself \"Chip\", and was free to enjoy a lifetime of potato chips that I could reach from anywhere. Surely the portal I was testing was for reaching the snack rack while lounging at home, right? I was thankful, Dr. Baker.\n\nBut if only things were that simple. You later informed me that in addition to eating potato chips, we intelligent \"scholars\" must also perform endless scientific research, record experimental data, assemble robots, and even catch those slimy energy jellyfish in the sea around the island. In other words... work. What a dreadful concept! Wasting my life away is what it is! I was devastated by this revelation, and from then on, all I could do at work was find ways to slack off and eat potato chips. I know you blame yourself, thinking it was some error in your calculations that caused me to become this lazy... but you're wrong. I was always lazy.\n\nNow don't get mad, I've finished my rant. What follows is just a recount of some events.\n\nSoon after, Dr. Octavius became the new head of the lab. He transformed it into an arms factory and used your technology intended to benefit the world to make weapons of war and sell them to Los Pecados. At that time, you couldn't accept what was happening and ran off. I originally thought you were taking a break on the island, but turns out you were secretly working on an android, Angela!\n\nOnce Octavius found out, he had all of us work overtime to develop an even better android; to surpass you, he wanted to mass-produce weapons with artificial souls. The workload for all of us increased tenfold... we worked from dawn till dusk, without any breaks to enjoy even a single potato chip. That's no working condition for man or fox. I couldn't bear another second of it, so I was forced to do something drastic.\n\nI took the initiative and volunteered to lead the search and retrieval team for you. I used the portals to find your residence and brought you back. I hope you're not too angry. It's not that potato chips are more important than you, but I had to bring you back so everyone could finally take a break.\n\nAnyway, you were captured and brought back to the lab, but Angela escaped. You were so worried about her that you fell into a depression, while I received a hundred bags of original flavored potato chips as a bonus. But life likes to play cruel tricks, as I've learned. That blasted Octavius gave me a promotion and a raise, but most importantly gave me even more work and responsibilities!\n\nWill this nightmare ever end? I want to retire with my stash of potato chips!\n\nSo, you gotta get back on your feet, my friend. Think of those suffering from war, the victims of the weapons made in this lab, and the poor little fox forced to work overtime! Listen, I'll help you retake control of your lab. I thought it didn't matter who ran this lab as long as it wasn't me, but now I know it must be you! Otherwise, people will expect me to work!\n\nAs for your \"daughter\" Angela, don't worry, I'll find her and bring her back but promise you'll keep her away from me. She forced me to wear a frilly pink dress in our last encounter... Truly one of your most terrifying creations.\n\nIn conclusion, pull yourself together, Dr. Baker! I know that your technology will bring joy to all living creatures, and I should be first on that list! I can already see the golden beaches of the Agelta coast. I've stashed all my chips there, waiting for that day.\n\nOne last thing. You didn't think I actually wrote this letter myself, did you? I hope the ChipBot AI program I developed has done a good job of conveying my thoughts... or thoughts the real Chip should have according to my algor... Never mind. If you miss me, just contact ChipBot.\n\nAlthough it will only reply that it's off duty.\n\n- Your good friend, Chip\n\n# Abilities\n\n## Snack Time!\n\n\"Yummy...yummy...\"\n\nChip starts eating potato chips when out of combat, regenerating HP equal to 150 plus 45% scaling healing after finishing a whole bag (requires 5 bites). After eating a bag of chips, Chip cannot eat again for 5 seconds.\n\n## Crash Course\n\nMagic Damage\n\nChip rams his hovercraft into the ground, dealing base magic damage plus bonus damage based on the target's Max HP and applying Chip's Mark on enemy heroes hit. Chip gains a shield upon hitting an enemy hero, which increases by 20% for each additional enemy hero hit. Chip's next Basic Attack will become ranged and also hit all nearby enemies, detonating the mark to deal extra magic damage and stunning each target for 0.6 seconds.\n\n- Cooldown: 5.5 / 5.2 / 4.9 / 4.6 / 4.3 / 4.0 seconds\n- Mana Cost: 40 / 45 / 50 / 55 / 60 / 65\n- Base Damage: 220 / 250 / 280 / 310 / 340 / 370\n- Base Shield: 300 / 400 / 500 / 600 / 700 / 800\n- Extra Damage on detonation: 200 / 230 / 260 / 290 / 320 / 350\n\nNotes:\n- Crash Course increases Chip's basic attack range to 3.5.\n\n## Overtime\n\n\"Sunshine and beach, I'm here!\"\n\nChip rushes forward for 2 seconds, gaining Movement Speed until he reaches 65% extra, after which he maintains the max speed for 2 seconds. Chip's next Basic Attack will cause him to charge at the enemy, dealing magic damage and knocking them back slightly.\n\n- Cooldown: 15.0 / 14.0 / 13.0 / 12.0 / 11.0 / 10.0 seconds\n- Mana Cost: 20\n- Base Damage: 200 / 220 / 240 / 260 / 280 / 300\n\nNotes:\n- Overtime increases Chip's basic attack range to 3.5.\n\n## Shortcut\n\n\"Get it done so we can get off work.\"\n\nChip drops the Main Portal on an enemy hero, dealing base magic damage and slowing them by 30% for 2.5 seconds. Meanwhile, he creates Connecting Portals near allied heroes (excluding allies within 8 units of Chip) and behind the allied Base. The Main Portal and Connecting Portals last up to 10 seconds.\n\nHeroes can teleport from Connecting Portals to the Main Portal, or stand on the Main Portal for a period of time to return to the Connecting Portal they came from.\n\nAfter a delay, the Main Portal deals extra magic damage to nearby targets and knocks them airborne for 0.8 seconds. The Main Portal inherits 80% of Chip's HP.\n\n- Cooldown: 70.0 / 60.0 / 50.0 seconds\n- Mana Cost: 110\n- Base Damage: 200 / 250 / 300\n- Extra Damage: 600 / 750 / 900\n\nNotes:\n- The first Connecting Portal that a hero comes in will be marked as the Connecting Portal for them.\n- Going through a Connecting Portal will trigger the Main Portal's damage and control effect but not on returning.\n- A hero can only return to the previous portal once after 2 seconds of waiting delay.\n- The Main Portal is treated as a creep, and is fully affected by Retribution.\n- Does not create Connecting Portals to units inside Yin's My Turn and vice versa if the Main Portal is inside.\n\n## Why Walk?\n\nChip has 4 Beacons on the map. Chip can teleport to any other Beacon.\n\n- Cooldown: 40.0 seconds\n\nNotes:\n- Beacons in clockwise order: 1 (top) > 2 > 3 > 4.\n- Cannot teleport within Yin's My Turn. The order is queued afterwards.\n- When a Beacon is hold-cast, its animation changes and becomes visible to nearby units.\n\n# Trivia\n\n- Chip has a unique passive skill where he eats potato chips when out of combat, regenerating his HP to 150. The health regeneration increases by 15% once he takes at least five consecutive bites.\n- He has tag no. 5 on his ear implying that other foxes or animals of different species were tested or enhanced before Chip.\n- His flavor of the chips change on different skins.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "ongoing",
+    "relationships": {
+      "relatedHeroes": [
+        "angela",
+        "phoveus",
+        "yin"
+      ],
+      "faction": "Laboratory 1718",
+      "allies": [
+        "angela"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [
+        "dr_baker"
+      ],
+      "factionRole": "Member",
+      "locationTies": [
+        {
+          "location": "Agelta Drylands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Laboratory 1718",
+          "relationship": "home"
+        },
+        {
+          "location": "Los Pecados",
+          "relationship": "indirect_conflict"
+        }
+      ]
+    },
+    "moods": [
+      "comedic",
+      "heroic"
+    ],
+    "themes": [
+      "freedom",
+      "work_vs_leisure"
+    ],
+    "hook": "So, you gotta get back on your feet, my friend. Think of those suffering from war, the victims of the weapons made in this lab, and the poor little fox forced to work overtime!",
+    "teaser": "A lazy, chip-obsessed fox genius is dragged into lab politics, war machines, and android drama—all to win back the right to do absolutely nothing.",
+    "openingLine": "\"A carefree, genetically enhanced fox that wields advanced portal technology\"",
+    "dominantColor": "#F4A300",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Dear Dr. Baker"
+    ],
+    "plotKeywords": [
+      "laboratory rebellion",
+      "portal experiments",
+      "potato chip obsession",
+      "letter to mentor",
+      "arms factory",
+      "android Angela",
+      "overwork"
+    ],
+    "characterTraits": [
+      "lazy",
+      "carefree",
+      "clever",
+      "sarcastic",
+      "loyal"
+    ],
+    "locations": [
+      "Agelta Drylands",
+      "Laboratory 1718",
+      "Los Pecados"
+    ],
+    "wordCount": 1921,
+    "readingTimeMinutes": 13,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647012652,
+    "updatedAt": 1764647012652
+  },
+  "lastUpdated": null
+}

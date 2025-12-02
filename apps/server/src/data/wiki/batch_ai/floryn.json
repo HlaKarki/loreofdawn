@@ -1,0 +1,167 @@
+{
+  "hero": "floryn",
+  "urlName": "floryn",
+  "sections": {
+    "profile": {
+      "markdown": "She was released as a part of the MLBB 5th Anniversary. Players had a chance to redeem the hero for free for a limited time.\n\n- Chinese name: 洛霖 (luòlín)\n- Alias: The Budding Hope\n- Born: The Oasis, Agelta Drylands\n- Species: Anthropomorphic plant\n- Gender: Female\n- Affiliation: The Oasis\n- Abilities: Healing abilities, Energy Seed\n- Relationships:\n  - Dew (companion)\n  - (creator/father)\n  - (companion)\n- Japanese voice actor: Goto Ayasa (後藤 彩佐)\n- Indonesian voice actor: Melati Pertiwi Putri"
+    },
+    "story": {
+      "markdown": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.\n\nThe despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight.\n\n> \"There's still life!\"\n\nMoved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place.\n\nWhile creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed. The little flower, however, underwent an even more peculiar transition. It turned into a life form that had never appeared on the Land of Dawn–Floryn.\n\nSince the day she was born, Floryn had never stepped out of the Oasis. The latter isolated her from the harsh environment of the desert, allowing her to live a life carefree. To Floryn, that glowing seed was the only mystery in her peaceful life. She spent the days contemplating the secret of the seed and the nights sleeping in the shade of the leaves. Only explorers and caravans would occasionally visit this undisturbed little world.\n\nAmong the caravans that frequented the Oasis, Floryn met a young man with a dazzling smile. He'd tell Floryn fun stories he'd seen or heard on his journey whenever he came to lodge at the Oasis. As their friendship gradually deepened, Floryn's trust in the young man also grew. She showed the young man the glowing seed, hoping the latter could help her solve the puzzle.\n\nAt first, the young man helped Floryn look for info about the seed wholeheartedly. As time went by, however, Floryn found the young man was always avoiding her eyes, and he'd change the subject whenever the seed was brought up. Floryn began to worry about the young man's state.\n\nOne night, Floryn woke up with a start. She was shocked to find the seed she'd always carried with her had disappeared!\n\nFloryn searched everywhere in the Oasis but to no avail. Torn with anxiety, Floryn went to ask the young man for help, only to discover he'd already left the Oasis with his camel.\n\nA thought that Floryn dreaded to believe came to her mind – could it be him?\n\nFloryn followed the young man's trail out of the Oasis. She wanted to find out the truth.\n\nHowever, what awaited her was a silent answer from what she saw and heard along the way. It was the first time Floryn had stepped into the desert, and also the first time she'd seen the howling sandstorms and the look of despair on people's faces. Before that, she'd never understood what kind of suffering people outside the Oasis were going through.\n\nWhen Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids… and those desperate ones who'd stop at nothing to survive.\n\nThe young man was slumped in a corner. He'd wanted to sell the seed to feed his family, but he'd never expected that the seed would wither the moment it left Floryn. As a result, those who'd been willing to bid would pay not a single penny.\n\nThe young man returned the withered seed to Floryn, ready to take the blame for betraying their friendship.\n\nFloryn, however, didn't say a word.\n\nThe experience along the way had given Floryn a glimpse of the young man's predicament. Compared to the sadness of being betrayed by her friend, another even stronger and more complicated emotion was churning in her heart. Driven by this emotion, Floryn wanted badly to do something for the land, to save the people who lived in extreme misery as the young man did.\n\nA surge of magic power swelled from the bottom of Floryn's heart. It flowed through her arm and poured into the seed in her hand. feeling the power, the once withered seed shone again, and from the light that was a hundred times more dazzling than before popped out a cute and lively little creature!\n\nThis little creature leaped out into the air and eagerly showed off its miraculous powers; it summoned rain with just a wave of its tail, and new shoots gradually sprouted from where the rain fell. The once lifeless village was surrounded by greenery in mere minutes.\n\nFloryn's was stunned by the sight in front of her. She'd never imagined the seed could give birth to such a magical creature, just as she'd never thought she'd ever leave the Oasis. It was only when Floryn's resolve to change the desert resonated with Belerick's will inside the seed did the latter awakened its true power.\n\nAlthough the little creature born from the seed was still very young, from its limited power Floryn saw infinite possibilities of changing the desert.\n\n> \"You look like a round drop of dew. I should just call you Dew!\"\n\nDew circled Floryn excitedly, as if it also liked the name. The changes in the environment brought light back to the villager's eyes. The young man also promised Floryn he'd never again err from the right path. Biding the young man farewell, Floryn and Dew moved on to their next stop.\n\nNow, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a considerable speed. And this greenery will eventually spread across the entire desert, dispersing all desolation and despair."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Dew",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Dew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat for 5 seconds, Floryn can share the Flower of Hope with an allied hero (30 seconds cooldown), which will grant them a shield each time they are healed by Floryn. Floryn will never sell the Lantern.\n\nNotes:\n- Does not affect target ally's networth.\n- The Lantern can be cast regardless of distance or even when death.\n\nAdditional skill:\n- Share (from Shimmering Lantern / Lantern of Hope): Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes.\n  - Cooldown: 30.0 seconds\n  - Notes:\n    - Share's cooldown is not affected by Cooldown Reduction.\n    - Casting this skill does not give skill-based buffs like on Azure Blade and its successor items.\n    - The icon of this skill is based off of the now-removed Shimmering Lantern."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Sow",
+        "cooldown": 9,
+        "cost": 90,
+        "role": "Damage",
+        "details": {
+          "markdown": "Floryn tosses an Energy Seed at a target enemy, dealing magic damage based on level and stats. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring their HP by an amount that scales with level.\n\n- Spell Vamp Ratio: 50%\n- Base Damage: 180 / 210 / 240 / 270 / 300 / 330\n- Base Healing: 175 / 185 / 195 / 205 / 215 / 225\n- Cooldown: 9.0 / 8.7 / 8.4 / 8.1 / 7.8 / 7.5 seconds\n- Mana Cost: 90 / 100 / 110 / 120 / 130 / 140\n\nNotes:\n- Healing Fruits range has the same range as the cast range of this skill.\n- Healing Fruits travel to the nearby allies in 0.6 seconds (ignores distance of its point of origin).\n- If the target enemy dies before the ability hits, no heal takes effect."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Sprout",
+        "cooldown": 13,
+        "cost": 100,
+        "role": "Control",
+        "details": {
+          "markdown": "Floryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing magic damage to nearby enemies and stunning them for 0.5 seconds (and revealing their positions briefly).\n\n- Spell Vamp Ratio: 50%\n- Base Damage: 175 / 210 / 245 / 280 / 315 / 350\n- Cooldown: 13.0 / 12.4 / 11.8 / 11.2 / 10.6 / 10.0 seconds\n- Mana Cost: 100 / 110 / 120 / 130 / 140 / 150\n- Crowd Control: Stun for 0.5 seconds\n\nAdditional note from source: duration details are needed for the reveal effect."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Bloom",
+        "cooldown": 70,
+        "cost": 150,
+        "role": "Heal",
+        "details": {
+          "markdown": "Floryn resonates with Dew's power, recovering HP to all allied heroes 2 times no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2 seconds.\n\n- Base Healing: 250 / 350 / 450\n- Cooldown: 70.0 seconds\n- Mana Cost: 150 / 175 / 200\n\nNotes:\n- Cannot affect ally inside certain isolation abilities nor allies outside if the ally is inside such abilities.\n- The effect only takes effect on allies alive at the time of casting."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Floryn was the 8th and is one of the heroes who was given to players for free on release. The other heroes who were given for free are:, , , , , , , and."
+      },
+      {
+        "markdown": "It's highly possible that Floryn was based off Flora, the Roman Goddess of flowers and spring."
+      },
+      {
+        "markdown": "Floryn's design and skillset reflect a nurturing, supportive role, which further ties her to the themes typically linked to a character inspired by flora or nature-based spirits."
+      },
+      {
+        "markdown": "Floryn is the first hero to heal allies anywhere on the map."
+      },
+      {
+        "markdown": "She is the only hero to buff another hero by placing another item on them."
+      },
+      {
+        "markdown": "Like, she can also create life, she created Dew."
+      },
+      {
+        "markdown": "Floryn's \"Yatai Waitress\" skin is inspired by the Japanese word \"Yatai\" (屋台), which refers to street food stalls in Japan that sell ramen, takoyaki, and other delicious treats. These stalls are often run by friendly vendors wearing traditional Japanese aprons and kimonos just like Floryn in this skin."
+      },
+      {
+        "markdown": "Floryn has similarities with Filipino \"Diwata\" (fairies/guardian spirits) and Southeast Asian folklore creatures. Diwatas are mythical nature spirits or deities in Filipino folklore, often compared to fairies, nymphs, or guardian deities in other cultures. They are known for protecting nature, bestowing blessings, and sometimes punishing those who harm the environment."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nShe was released as a part of the MLBB 5th Anniversary. Players had a chance to redeem the hero for free for a limited time.\n\n- Chinese name: 洛霖 (luòlín)\n- Alias: The Budding Hope\n- Born: The Oasis, Agelta Drylands\n- Species: Anthropomorphic plant\n- Gender: Female\n- Affiliation: The Oasis\n- Abilities: Healing abilities, Energy Seed\n- Relationships:\n  - Dew (companion)\n  - (creator/father)\n  - (companion)\n- Japanese voice actor: Goto Ayasa (後藤 彩佐)\n- Indonesian voice actor: Melati Pertiwi Putri\n\n# Story\n\nBelerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.\n\nThe despair and sorrow almost consumed him, when a blooming little flower suddenly broke into his sight.\n\n> \"There's still life!\"\n\nMoved by such tenacious vitality, the treant decided to create what was later known as the Oasis at the place.\n\nWhile creating the Oasis, Belerick unintentionally poured more power into the little flower, and the overflowing energy condensed into a glowing seed. The little flower, however, underwent an even more peculiar transition. It turned into a life form that had never appeared on the Land of Dawn–Floryn.\n\nSince the day she was born, Floryn had never stepped out of the Oasis. The latter isolated her from the harsh environment of the desert, allowing her to live a life carefree. To Floryn, that glowing seed was the only mystery in her peaceful life. She spent the days contemplating the secret of the seed and the nights sleeping in the shade of the leaves. Only explorers and caravans would occasionally visit this undisturbed little world.\n\nAmong the caravans that frequented the Oasis, Floryn met a young man with a dazzling smile. He'd tell Floryn fun stories he'd seen or heard on his journey whenever he came to lodge at the Oasis. As their friendship gradually deepened, Floryn's trust in the young man also grew. She showed the young man the glowing seed, hoping the latter could help her solve the puzzle.\n\nAt first, the young man helped Floryn look for info about the seed wholeheartedly. As time went by, however, Floryn found the young man was always avoiding her eyes, and he'd change the subject whenever the seed was brought up. Floryn began to worry about the young man's state.\n\nOne night, Floryn woke up with a start. She was shocked to find the seed she'd always carried with her had disappeared!\n\nFloryn searched everywhere in the Oasis but to no avail. Torn with anxiety, Floryn went to ask the young man for help, only to discover he'd already left the Oasis with his camel.\n\nA thought that Floryn dreaded to believe came to her mind – could it be him?\n\nFloryn followed the young man's trail out of the Oasis. She wanted to find out the truth.\n\nHowever, what awaited her was a silent answer from what she saw and heard along the way. It was the first time Floryn had stepped into the desert, and also the first time she'd seen the howling sandstorms and the look of despair on people's faces. Before that, she'd never understood what kind of suffering people outside the Oasis were going through.\n\nWhen Floryn caught up with the young man in his village, what came into view were cracked farmland, dried wells, famished kids… and those desperate ones who'd stop at nothing to survive.\n\nThe young man was slumped in a corner. He'd wanted to sell the seed to feed his family, but he'd never expected that the seed would wither the moment it left Floryn. As a result, those who'd been willing to bid would pay not a single penny.\n\nThe young man returned the withered seed to Floryn, ready to take the blame for betraying their friendship.\n\nFloryn, however, didn't say a word.\n\nThe experience along the way had given Floryn a glimpse of the young man's predicament. Compared to the sadness of being betrayed by her friend, another even stronger and more complicated emotion was churning in her heart. Driven by this emotion, Floryn wanted badly to do something for the land, to save the people who lived in extreme misery as the young man did.\n\nA surge of magic power swelled from the bottom of Floryn's heart. It flowed through her arm and poured into the seed in her hand. feeling the power, the once withered seed shone again, and from the light that was a hundred times more dazzling than before popped out a cute and lively little creature!\n\nThis little creature leaped out into the air and eagerly showed off its miraculous powers; it summoned rain with just a wave of its tail, and new shoots gradually sprouted from where the rain fell. The once lifeless village was surrounded by greenery in mere minutes.\n\nFloryn's was stunned by the sight in front of her. She'd never imagined the seed could give birth to such a magical creature, just as she'd never thought she'd ever leave the Oasis. It was only when Floryn's resolve to change the desert resonated with Belerick's will inside the seed did the latter awakened its true power.\n\nAlthough the little creature born from the seed was still very young, from its limited power Floryn saw infinite possibilities of changing the desert.\n\n> \"You look like a round drop of dew. I should just call you Dew!\"\n\nDew circled Floryn excitedly, as if it also liked the name. The changes in the environment brought light back to the villager's eyes. The young man also promised Floryn he'd never again err from the right path. Biding the young man farewell, Floryn and Dew moved on to their next stop.\n\nNow, thanks to Floryn and Dew's unremitting efforts, the Oasis is expanding at a considerable speed. And this greenery will eventually spread across the entire desert, dispersing all desolation and despair.\n\n# Abilities\n\n## Dew\n\nDew's Lantern will permanently increase Floryn's attributes by a small amount. After leaving combat for 5 seconds, Floryn can share the Flower of Hope with an allied hero (30 seconds cooldown), which will grant them a shield each time they are healed by Floryn. Floryn will never sell the Lantern.\n\nNotes:\n- Does not affect target ally's networth.\n- The Lantern can be cast regardless of distance or even when death.\n\nAdditional skill:\n- Share (from Shimmering Lantern / Lantern of Hope): Floryn shares the Lantern's power with an allied hero, slightly increasing their attributes.\n  - Cooldown: 30.0 seconds\n  - Notes:\n    - Share's cooldown is not affected by Cooldown Reduction.\n    - Casting this skill does not give skill-based buffs like on Azure Blade and its successor items.\n    - The icon of this skill is based off of the now-removed Shimmering Lantern.\n\n## Sow\n\nFloryn tosses an Energy Seed at a target enemy, dealing magic damage based on level and stats. Healing Fruits will then spawn and bounce to nearby allied heroes, restoring their HP by an amount that scales with level.\n\n- Spell Vamp Ratio: 50%\n- Base Damage: 180 / 210 / 240 / 270 / 300 / 330\n- Base Healing: 175 / 185 / 195 / 205 / 215 / 225\n- Cooldown: 9.0 / 8.7 / 8.4 / 8.1 / 7.8 / 7.5 seconds\n- Mana Cost: 90 / 100 / 110 / 120 / 130 / 140\n\nNotes:\n- Healing Fruits range has the same range as the cast range of this skill.\n- Healing Fruits travel to the nearby allies in 0.6 seconds (ignores distance of its point of origin).\n- If the target enemy dies before the ability hits, no heal takes effect.\n\n## Sprout\n\nFloryn casts a blob of energy ahead that explodes upon hitting an enemy, dealing magic damage to nearby enemies and stunning them for 0.5 seconds (and revealing their positions briefly).\n\n- Spell Vamp Ratio: 50%\n- Base Damage: 175 / 210 / 245 / 280 / 315 / 350\n- Cooldown: 13.0 / 12.4 / 11.8 / 11.2 / 10.6 / 10.0 seconds\n- Mana Cost: 100 / 110 / 120 / 130 / 140 / 150\n- Crowd Control: Stun for 0.5 seconds\n\nAdditional note from source: duration details are needed for the reveal effect.\n\n## Bloom\n\nFloryn resonates with Dew's power, recovering HP to all allied heroes 2 times no matter where they are. This effect also increases their Shield and HP Regen effects by 12% for 2 seconds.\n\n- Base Healing: 250 / 350 / 450\n- Cooldown: 70.0 seconds\n- Mana Cost: 150 / 175 / 200\n\nNotes:\n- Cannot affect ally inside certain isolation abilities nor allies outside if the ally is inside such abilities.\n- The effect only takes effect on allies alive at the time of casting.\n\n# Trivia\n\n- Floryn was the 8th and is one of the heroes who was given to players for free on release. The other heroes who were given for free are:, , , , , , , and.\n- It's highly possible that Floryn was based off Flora, the Roman Goddess of flowers and spring.\n- Floryn's design and skillset reflect a nurturing, supportive role, which further ties her to the themes typically linked to a character inspired by flora or nature-based spirits.\n- Floryn is the first hero to heal allies anywhere on the map.\n- She is the only hero to buff another hero by placing another item on them.\n- Like, she can also create life, she created Dew.\n- Floryn's \"Yatai Waitress\" skin is inspired by the Japanese word \"Yatai\" (屋台), which refers to street food stalls in Japan that sell ramen, takoyaki, and other delicious treats. These stalls are often run by friendly vendors wearing traditional Japanese aprons and kimonos just like Floryn in this skin.\n- Floryn has similarities with Filipino \"Diwata\" (fairies/guardian spirits) and Southeast Asian folklore creatures. Diwatas are mythical nature spirits or deities in Filipino folklore, often compared to fairies, nymphs, or guardian deities in other cultures. They are known for protecting nature, bestowing blessings, and sometimes punishing those who harm the environment.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "belerick",
+        "yin"
+      ],
+      "faction": "Agelta Drylands",
+      "allies": [
+        "belerick"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [
+        "belerick"
+      ],
+      "factionRole": "Guardian",
+      "locationTies": [
+        {
+          "location": "The Oasis",
+          "relationship": "home"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "birthplace"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "sacrifice",
+      "destiny",
+      "freedom"
+    ],
+    "hook": "A single stolen seed drags Floryn out of her sheltered Oasis and into a dying desert, where betrayal, despair, and newfound magic awaken her true purpose.",
+    "teaser": "Born from a desert flower and sheltered in an Oasis, Floryn must face betrayal and a dying land to awaken the power that can turn desolation into life.",
+    "openingLine": "Belerick stumbled upon the decline of Agelta Drylands during a meander of his many ago.",
+    "dominantColor": "#4CAF50",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "desert",
+      "oasis",
+      "betrayal",
+      "creation of Dew",
+      "healing journey",
+      "expanding oasis"
+    ],
+    "characterTraits": [
+      "naive",
+      "compassionate",
+      "optimistic",
+      "determined"
+    ],
+    "locations": [
+      "The Oasis",
+      "Agelta Drylands"
+    ],
+    "wordCount": 1654,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 2,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647199193,
+    "updatedAt": 1764647199193
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,170 @@
+{
+  "hero": "angela",
+  "urlName": "angela",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Peace Android Prototype 1\n\n**Alias:** Bunnylove\n\n**Chinese Name:** 安卓儿 (ānzhuóer, \"android\")\n\n**Species:** Android\n\n**Gender:** Female\n\n**Affiliation:** Eruditio\n\n**Birthplace:** Laboratory 1718, Baker Island\n\n**Weapons:**\n- Angela's Doll\n- Puppet string\n\n**Abilities:**\n- Smart Heart\n- Releases Love Energy\n- Attaching to an ally\n\n**Relationships:**\n- Dr. Baker (creator)\n- (enemy)\n- (ally)\n- (confidant, adoptive sibling)\n\n\"Artificial human made in Laboratory 1718\""
+    },
+    "story": {
+      "markdown": "An android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.\n\nDr. Baker was one of the co-founders of Laboratory 1718, an institution created with the aim of bringing peace to the world. But as his colleagues, that is, the other scientists fell deeper and deeper into their depraved human weaponization experiments, Dr. Baker felt he had no choice but to leave all this behind and pursue a new project. Renouncing the questionable ethics of human experimentation, he endeavored to create a new kind of lifeform, solely from a mechanical skeleton, puppet strings, and synthetic skin. Finally, a new generation of artificial life was born.\n\nDr. Baker firmly believed that, love and hope were the greatest inventions of mankind. So, he programmed the world's most moving stories into the heart of his new creation, transforming her into an android-based robot, meant for helping others.\n\nOne bright morning, Peace Android Prototype 1 awakened from her bed, and Dr. Baker bestowed upon this adorable mechanical angel, the Name Angela. Angela followed Dr. Baker's tutelage, studying hard to understand the world, and hoping to meet the inventor's high expectations. However, their peaceful life together, was soon cut short.\n\nWhen the mad scientist of Lab 1718, heard rumors that Dr. Baker had created a living soul outside a human body, which didn't meet their ideas of creating flesh weapons, they couldn't bear to believe it. They were convinced among themselves that Baker had betrayed them, keeping this knowledge to himself before fleeing, and so they ordered Dr. Baker's past creations, and Beta to hunt down Dr. Baker and his creation.\n\nAs their pursuers were just about to close in on them, Dr. Baker placed Angela into a flight capsule, instructing her to seek out his good friend Rooney."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Artificial Soul — The Creation of Angela",
+          "content": {
+            "markdown": "Dr. Baker was one of the founders of Lab 1718, an institution created with the aim of bringing peace to the world. But as his co-founders fell deeper and deeper into their depraved human weaponization experiments, Dr. Baker felt he had no choice but to leave and pursue a new project.\n\nRenouncing the questionable ethics of human experimentation, he endeavored to create a new kind of life-form, solely from a mechanical skeleton, puppet strings, and synthetic skin, and finally, a new generation of artificial life was born. Dr. Baker firmly believed that love and hope were the greatest inventions of mankind, so he programmed the world's most moving stories into the heart of his new creation. One bright morning, Peace Android Prototype 1 awakened from her bed, and Dr. Baker bestowed upon this adorable mechanical angel, the name Angela.\n\nAngela followed Dr. Baker's tutelage, studying hard to understand the world, and hoping to meet the doctor's high expectations. However, their peaceful life together was soon cut short. When the mad scientists of Lab 1718 heard rumors that Dr. Baker had created a living soul outside of a human body, they couldn't believe it. They convinced themselves that Baker had betrayed them, keeping this knowledge to himself before fleeing, and so they ordered Dr. Baker's past creations, Alpha and Beta to hunt down Dr. Baker and his creation.\n\nAs their pursuers were just about to close in on them, Dr. Baker placed Angela into a flight capsule, instructing her to seek out his good friend Dr. Rooney. However, the flight capsule was struck down a terrible thunderstorm, and landed in a remote corner of the Land of Dawn. Emerging from the wreckage, Angela began her journey to find Dr. Rooney, and save her father."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Smart Heart",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Angela gains 7.5% extra Movement Speed for 4 seconds each time she casts a skill (up to 30%). When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.\n\n- Extra Movement Speed per stack: 7.5% / 15% / 22.5% / 30%"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Love Waves",
+        "cooldown": 2,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Angela sends Love Waves in the target direction, dealing magic damage based on level and total Magic Power to enemies hit, revealing their positions briefly and applying a stack of Lover's Mark to them (up to 5 stacks). Each stack of Lover's Mark increases the damage by 20% and slows enemies hit by 8% for 3 seconds.\n\nLove Waves also restore Health to allied heroes hit. Angela can store up to 5 charges of this skill and the recharge time is affected by Cooldown Reduction.\n\n- Base damage: 170 / 200 / 230 / 260 / 290 / 320\n- Healing bonus: 150 / 160 / 170 / 180 / 190 / 200\n- Damage increase per Lover's Mark stack: 20% / 40% / 60% / 80% / 100%\n- Slow effect per Lover's Mark stack: 8% / 16% / 24% / 32% / 40%\n- Mana cost: 60 / 70 / 80 / 90 / 100 / 110\n- Spell vamp ratio: 50%\n\nNotes:\n- With Assisted Aiming Mode enabled, Angela can cast Love Waves at nearby allied heroes if there's no enemy around her.\n- Lover's Mark cannot be applied to minions."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Puppet-on-a-String",
+        "cooldown": 13,
+        "cost": 90,
+        "role": "Control",
+        "details": {
+          "markdown": "Angela launches a puppet string at the target enemy, dealing magic damage based on level and total Magic Power and gradually slowing them up to 80%. If the enemy is still connected to the string after 3 seconds, they'll be immobilized for 1.5 seconds and dealt additional magic damage. Each stack of Lover's Mark on the target increases the final damage by 20%.\n\n- Base damage: 300 / 330 / 360 / 390 / 420 / 450\n- Extra damage: 450 / 495 / 540 / 585 / 630 / 675\n- Mana cost: 90 / 100 / 110 / 120 / 130 / 140\n\nBugs:\n- Slow effect from this skill cannot be interrupted by slaying Angela."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Heartguard",
+        "cooldown": 70,
+        "cost": 100,
+        "role": "Utility",
+        "details": {
+          "markdown": "Angela begins channeling for 2 seconds, applying a shield that lasts 6 seconds to the target allied hero regardless of distance. After the channeling is complete, she attaches herself to the allied hero for 12 seconds, during which she can cast skills at zero Mana cost. Angela can cast this skill again to cancel the channeling or detach herself from the allied hero. The attaching state will end early if the allied hero is killed.\n\n- Cast range: infinite\n- Base shield: 1000 / 1300 / 1600\n- Shield bonus: 200% / 250% / 300%\n- Mana cost: 100 / 150 / 200\n\nNotes:\n- During the attaching state, Angela can cast this skill again to detach herself from the allied hero by blinking to the designated location away from the attached hero.\n- Cooldown starts after casting the skill.\n- The channeling phase can be interrupted by crowd control that can interrupt skills and by displacement effects.\n- Angela is untargetable during the attaching state and cannot use any equipments or battle spells.\n- The effect persists if the target ally becomes untargetable, such as Ling, Lunox or Hanzo."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "She is the first hero who can be attached to a hero by using her Ultimate, the second is."
+      },
+      {
+        "markdown": "She carries a distinct doll for each skin that resembles her appearance on the hero selection screen. She used to toss the puppet as her basic attack when she was still in development, but the animation was eventually altered to simple heart-shaped projectiles. This doll can now only be visible in-game when she is using her to possess an ally. The doll will be seen above the ally hero's model."
+      },
+      {
+        "markdown": "Because some users found her former eyes unsettling and distressing, Angela's on her splash art was modified."
+      },
+      {
+        "markdown": "Her Starlight skin, was renamed from China Doll to Shanghai Maiden."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Peace Android Prototype 1\n\n**Alias:** Bunnylove\n\n**Chinese Name:** 安卓儿 (ānzhuóer, \"android\")\n\n**Species:** Android\n\n**Gender:** Female\n\n**Affiliation:** Eruditio\n\n**Birthplace:** Laboratory 1718, Baker Island\n\n**Weapons:**\n- Angela's Doll\n- Puppet string\n\n**Abilities:**\n- Smart Heart\n- Releases Love Energy\n- Attaching to an ally\n\n**Relationships:**\n- Dr. Baker (creator)\n- (enemy)\n- (ally)\n- (confidant, adoptive sibling)\n\n\"Artificial human made in Laboratory 1718\"\n\n# Story\n\nAn android created by the founder of Laboratory 1718, Dr. Baker. It was the first life form created without using human body or soul. In order to gain the knowledge of her, other scientists in the lab went after Dr. Baker. Before taken away, Dr. Baker stuffed her into a flight capsule to escape.\n\nDr. Baker was one of the co-founders of Laboratory 1718, an institution created with the aim of bringing peace to the world. But as his colleagues, that is, the other scientists fell deeper and deeper into their depraved human weaponization experiments, Dr. Baker felt he had no choice but to leave all this behind and pursue a new project. Renouncing the questionable ethics of human experimentation, he endeavored to create a new kind of lifeform, solely from a mechanical skeleton, puppet strings, and synthetic skin. Finally, a new generation of artificial life was born.\n\nDr. Baker firmly believed that, love and hope were the greatest inventions of mankind. So, he programmed the world's most moving stories into the heart of his new creation, transforming her into an android-based robot, meant for helping others.\n\nOne bright morning, Peace Android Prototype 1 awakened from her bed, and Dr. Baker bestowed upon this adorable mechanical angel, the Name Angela. Angela followed Dr. Baker's tutelage, studying hard to understand the world, and hoping to meet the inventor's high expectations. However, their peaceful life together, was soon cut short.\n\nWhen the mad scientist of Lab 1718, heard rumors that Dr. Baker had created a living soul outside a human body, which didn't meet their ideas of creating flesh weapons, they couldn't bear to believe it. They were convinced among themselves that Baker had betrayed them, keeping this knowledge to himself before fleeing, and so they ordered Dr. Baker's past creations, and Beta to hunt down Dr. Baker and his creation.\n\nAs their pursuers were just about to close in on them, Dr. Baker placed Angela into a flight capsule, instructing her to seek out his good friend Rooney.\n\n# Side Story\n\n## Artificial Soul — The Creation of Angela\n\nDr. Baker was one of the founders of Lab 1718, an institution created with the aim of bringing peace to the world. But as his co-founders fell deeper and deeper into their depraved human weaponization experiments, Dr. Baker felt he had no choice but to leave and pursue a new project.\n\nRenouncing the questionable ethics of human experimentation, he endeavored to create a new kind of life-form, solely from a mechanical skeleton, puppet strings, and synthetic skin, and finally, a new generation of artificial life was born. Dr. Baker firmly believed that love and hope were the greatest inventions of mankind, so he programmed the world's most moving stories into the heart of his new creation. One bright morning, Peace Android Prototype 1 awakened from her bed, and Dr. Baker bestowed upon this adorable mechanical angel, the name Angela.\n\nAngela followed Dr. Baker's tutelage, studying hard to understand the world, and hoping to meet the doctor's high expectations. However, their peaceful life together was soon cut short. When the mad scientists of Lab 1718 heard rumors that Dr. Baker had created a living soul outside of a human body, they couldn't believe it. They convinced themselves that Baker had betrayed them, keeping this knowledge to himself before fleeing, and so they ordered Dr. Baker's past creations, Alpha and Beta to hunt down Dr. Baker and his creation.\n\nAs their pursuers were just about to close in on them, Dr. Baker placed Angela into a flight capsule, instructing her to seek out his good friend Dr. Rooney. However, the flight capsule was struck down a terrible thunderstorm, and landed in a remote corner of the Land of Dawn. Emerging from the wreckage, Angela began her journey to find Dr. Rooney, and save her father.\n\n# Abilities\n\n## Smart Heart\n\nAngela gains 7.5% extra Movement Speed for 4 seconds each time she casts a skill (up to 30%). When she's attached to an allied hero, the Movement Speed boost is transferred to the allied hero.\n\n- Extra Movement Speed per stack: 7.5% / 15% / 22.5% / 30%\n\n## Love Waves\n\nAngela sends Love Waves in the target direction, dealing magic damage based on level and total Magic Power to enemies hit, revealing their positions briefly and applying a stack of Lover's Mark to them (up to 5 stacks). Each stack of Lover's Mark increases the damage by 20% and slows enemies hit by 8% for 3 seconds.\n\nLove Waves also restore Health to allied heroes hit. Angela can store up to 5 charges of this skill and the recharge time is affected by Cooldown Reduction.\n\n- Base damage: 170 / 200 / 230 / 260 / 290 / 320\n- Healing bonus: 150 / 160 / 170 / 180 / 190 / 200\n- Damage increase per Lover's Mark stack: 20% / 40% / 60% / 80% / 100%\n- Slow effect per Lover's Mark stack: 8% / 16% / 24% / 32% / 40%\n- Mana cost: 60 / 70 / 80 / 90 / 100 / 110\n- Spell vamp ratio: 50%\n\nNotes:\n- With Assisted Aiming Mode enabled, Angela can cast Love Waves at nearby allied heroes if there's no enemy around her.\n- Lover's Mark cannot be applied to minions.\n\n## Puppet-on-a-String\n\nAngela launches a puppet string at the target enemy, dealing magic damage based on level and total Magic Power and gradually slowing them up to 80%. If the enemy is still connected to the string after 3 seconds, they'll be immobilized for 1.5 seconds and dealt additional magic damage. Each stack of Lover's Mark on the target increases the final damage by 20%.\n\n- Base damage: 300 / 330 / 360 / 390 / 420 / 450\n- Extra damage: 450 / 495 / 540 / 585 / 630 / 675\n- Mana cost: 90 / 100 / 110 / 120 / 130 / 140\n\nBugs:\n- Slow effect from this skill cannot be interrupted by slaying Angela.\n\n## Heartguard\n\nAngela begins channeling for 2 seconds, applying a shield that lasts 6 seconds to the target allied hero regardless of distance. After the channeling is complete, she attaches herself to the allied hero for 12 seconds, during which she can cast skills at zero Mana cost. Angela can cast this skill again to cancel the channeling or detach herself from the allied hero. The attaching state will end early if the allied hero is killed.\n\n- Cast range: infinite\n- Base shield: 1000 / 1300 / 1600\n- Shield bonus: 200% / 250% / 300%\n- Mana cost: 100 / 150 / 200\n\nNotes:\n- During the attaching state, Angela can cast this skill again to detach herself from the allied hero by blinking to the designated location away from the attached hero.\n- Cooldown starts after casting the skill.\n- The channeling phase can be interrupted by crowd control that can interrupt skills and by displacement effects.\n- Angela is untargetable during the attaching state and cannot use any equipments or battle spells.\n- The effect persists if the target ally becomes untargetable, such as Ling, Lunox or Hanzo.\n\n# Trivia\n\n- She is the first hero who can be attached to a hero by using her Ultimate, the second is.\n- She carries a distinct doll for each skin that resembles her appearance on the hero selection screen. She used to toss the puppet as her basic attack when she was still in development, but the animation was eventually altered to simple heart-shaped projectiles. This doll can now only be visible in-game when she is using her to possess an ally. The doll will be seen above the ally hero's model.\n- Because some users found her former eyes unsettling and distressing, Angela's on her splash art was modified.\n- Her Starlight skin, was renamed from China Doll to Shanghai Maiden.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "alpha",
+        "beta",
+        "dr_rooney",
+        "rooney",
+        "yin",
+        "minsitthar",
+        "gloo"
+      ],
+      "faction": "Eruditio",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Laboratory 1718",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Baker Island",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "destiny",
+      "freedom",
+      "power"
+    ],
+    "hook": "Emerging from the wreckage of a fallen capsule, the artificial soul named Angela steps into the Land of Dawn, carrying only her father’s last command.",
+    "teaser": "Born from steel, stories, and a scientist’s hope, Angela escapes a corrupt laboratory and begins a journey across the Land of Dawn to save her creator.",
+    "openingLine": "An android created by the founder of Laboratory 1718, Dr. Baker.",
+    "dominantColor": "#FF9ECF",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Artificial Soul — The Creation of Angela"
+    ],
+    "plotKeywords": [
+      "artificial life",
+      "laboratory escape",
+      "mad scientists",
+      "flight capsule crash",
+      "search for Dr. Rooney",
+      "creator in danger"
+    ],
+    "characterTraits": [
+      "naive",
+      "hopeful",
+      "loyal",
+      "selfless"
+    ],
+    "locations": [
+      "Laboratory 1718",
+      "Baker Island",
+      "Land of Dawn"
+    ],
+    "wordCount": 1360,
+    "readingTimeMinutes": 10,
+    "connectionsCount": 7,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647035905,
+    "updatedAt": 1764647035905
+  },
+  "lastUpdated": null
+}

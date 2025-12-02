@@ -1,0 +1,188 @@
+{
+  "hero": "balmond",
+  "urlName": "balmond",
+  "sections": {
+    "profile": {
+      "markdown": "Balmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons.\n\n- Species: Orc\n- Gender: Male\n- Occupation: Leader of Orc Legion\n- Birthplace: Stormeye Wasteland, The Barren Lands\n- Affiliation: Orc Legion; The Abyss\n- Weapon: Battleaxe\n- Ability: Bloodthirst\n- Battles Fought: Invasion of Moonlit Forest\n- Religion: Lord of Abyss\n- Aliases: Bloody Beast; Berserker (former)\n\n> \"Leader of the Orc Legion\""
+    },
+    "story": {
+      "markdown": "The Orcs are a race with a long history and perhaps the most common of those in the Land of Dawn. Throughout the mists of time, they have served under Lord of Abyss as they fought throughout the fierce of Endless War; and also engaged mankind in savage battle during the Golden Era. A series of successive defeats left the once strong United Demi-humans divided instead into Orcs, Minotaurs, and Centaurs, among other peoples. It also left them bereft of their home, forced into exile, and the southern lands where they eked out a meagre sic existence.\n\nDespite all this, it seemed fate had not yet finished toying with this ancient race. As the Abyss encroach once more powerful demons emerged again from the south presenting a perilous threat to their declining Orc populations. Under the demons' oppression the Orcs were made to split into several small clans scattered throughout the vast expanse of the roaring wilderness, exploited to the utmost.\n\nBalmond was born in a traditional orc tribe within the Roaring Wilderness, and from a young age his father had always taught him all kinds of combat skills. Along with this, he would also regale him tiles of the Orcs' former glories; how they once resided in their homeland in the north of Lantis Mountains and their millennia of fierce battles waged against the elves and humans. He hoped that Balmond would, one day, be able to become a true Orc leader and return them to their former glory.\n\nOver twenty years later, Balmond had grown into a mighty Orc under his father's teaching. And during this time, the demons' brutality had instilled Balmond with deep, dark memories, only making him yearn even more for the day when the Orcs could return to power, bringing back their once-formidable kingdom. To this end the young Balmond not only trained relentlessly, but also dedicated himself to studying all kinds of ancient Orc tomes, which gifted him with an astute strategic knowledge.\n\nBut this was when the flames of war were just beginning to kindle. In order to amass the strength required to attack the Empire, the terrible demons invaded the Orc tribes tirelessly, plundering and pillaging their resources causing the Orcs unspeakable suffering. Prior to this the Orcs were powerless to resist the demon forces, and had no choice but to submit to preserve the peace, however short-lived it may be. But this time, Balmond led the warriors of his clan into battle and slayed the demon leader who had come to rob them of their resources, in doing so sparking the Orc rebellion. The Orc race had taken enough of the demons' oppression, and now each tribe lent Balmond their strength: they were no longer scattered clans, instead becoming a truly powerful force to be reckoned with. The rebellion spread throughout the Roaring Wilderness like wildfire.\n\nUnder Balmond's command, the fierce Orc warriors successfully fought back the demon armies that came to suppress them, dealing a heavy blow.\n\nThis gigantic counterattack launched by the Orcs shocked the demons, enraging Lord Lava, Thamuz. He dispatched numerous terrible troops formed of Blood Demons and Fiends to the Roaring Wilderness, as he would never stand for resistance against his demons within the Wretched Expanse.\n\nDespite the disparity in power, a relentless fight to the death between the Orcs and demons was raged, yet the latter surged like tidal waves and things began to take a turn for the worse for the Orcs. Their power waned by the day, their defensive lines shrinking until they were entirely surrounded.\n\nTo protect his race from extinction, Balmond decided he would fight right to the bitter end, and led an effort to break through their ranks. In this blazing battle the demons again flooded in, their numbers seemingly infinite, and the bodies of Orc warriors were strewn all around as they advanced. Balmond shook with fury: and cast aside his now-blunted battleax as he gripped a demon by the neck to bite at its throat, severing its head with his teeth.\n\nYet this attack sent copious amounts of demon blood flowing into Balmond's body, which resulted in an incredible transformation. It fueled him as he went utterly berserk, with unimaginable power that he wielded to break through the enemy lines. The Orcs were showered in demon blood, igniting a fearsome battle power within them that shook their demon oppressors to their core. New possibilities had presented themselves, and this caused them to change their plans on wiping out the Orcs.\n\nTo this end, the cunning Alice managed to track down Balmond and present him with an offer: once the Empire had been defeated, the entire Roaring Wilderness would be returned to the Orc peoples in exchange for Balmond's loyalty to the demons. In order to preserve the power of his Orc brethren, Balmond reached an agreement with Alice, and his forces swore loyalty to the Abyss. They would then serve as the demons' vanguard forces as they stormed Azrya.\n\nHowever, even Alice could never have imagined that an even greater plan had been brewing deep in Balmond's mind. First, he would command the demon forces to breach the Moonlit Forest and occupy the elven kingdom, where he would build his strength steadily.\n\nFollowing that, the union of the Orcs and the revival of their kingdom that they'd yearned for over millennia would finally come to be.\n\nBalmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons. During a battle, he consumed the blood of a Blood Demon and went into a rage. This aroused Alice's interest, so she signed a contract with Balmond on the condition of returning the Stormeye Wasteland. Balmond, and his Orc army have since fought for the Demons."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Bloodthirst",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Balmond recovers 5% of his Max HP after killing a Minion or Creep, and 20% of his Max HP after killing a hero."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Soul Lock",
+        "cooldown": 8,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Balmond charges to the target direction for a set distance or until he hits an enemy hero, dealing physical damage based on level and stats to enemies along the way. The enemy hero hit will be knocked back slightly, and will have their Movement Speed reduced by 40% and Physical Defense reduced by 40% for 3 seconds.\n\n- Cooldown: 8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0 seconds\n- Damage Type: Physical Damage Skill\n- Base Damage: 150 / 175 / 200 / 225 / 250 / 275"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Cyclone Sweep",
+        "cooldown": 6,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Balmond gains 15% Movement Speed that decays over time and spins his axe for 3 seconds, dealing physical damage per hit to nearby enemies up to 14 times. Each subsequent hit on the same enemy will deal 8.5% increased damage, up to a maximum of 68% increased damage. The Physical Attack bonus portion of the damage can Crit.\n\n- Cooldown: 6.0 seconds\n- Damage Type: Physical Damage Skill\n- Base Damage per Hit: 25 / 40 / 55 / 70 / 85 / 100\n- Max Total Damage: 350 / 560 / 770 / 980 / 1190 / 1400\n- Damage Increase per Subsequent Hit: 8.5%, stacking up to 68%\n\nNotes:\n- Cyclone Sweep can only be cancelled by using his other skills.\n- Cyclone Sweep cannot be interrupted by Crowd Control."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Lethal Counter",
+        "cooldown": 34,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Balmond unleashes a huge strike in the target direction (this skill can only be interrupted by Suppression), dealing true damage based on his Physical Attack and the target's Lost HP. This skill only deals up to 1000–2000 damage to non-hero units.\n\n- Cooldown: 34.0 / 29.0 / 24.0 seconds\n- Damage Type: True Damage Skill\n- Extra Damage (based on target's Lost HP): 30% / 37.5% / 45%\n- Non-Hero Unit Damage Cap: 1000 / 1500 / 2000\n\nNotes:\n- Does not show an area of effect pre-animation with the Savage Pointguard skin."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The old Balmond design can still be seen in his \"Bloodthirst\" skill icon."
+      },
+      {
+        "markdown": "The previous iteration of Balmond was probably inspired by the character Axe from Dota: Allstars, which itself is based on Grommash Hellscream in his current lore. His current voice actor in 2021, Patrick Seitz, is known for his voice acting as Garrosh Hellscream, Grommash's son."
+      },
+      {
+        "markdown": "In his old lore, he went from being a slave to being a mutually exploited ally in the new lore."
+      },
+      {
+        "markdown": "Balmond's \"Celestial General\" (now \"God of Mountains\") is the skin with the longest release postponement; it was supposed to be released at 2018 but the skin was released on August 2021 for the Grand Collection event."
+      },
+      {
+        "markdown": "Balmond is notorious within the community as he can be seen in almost every MLBB Google Ads."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nBalmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons.\n\n- Species: Orc\n- Gender: Male\n- Occupation: Leader of Orc Legion\n- Birthplace: Stormeye Wasteland, The Barren Lands\n- Affiliation: Orc Legion; The Abyss\n- Weapon: Battleaxe\n- Ability: Bloodthirst\n- Battles Fought: Invasion of Moonlit Forest\n- Religion: Lord of Abyss\n- Aliases: Bloody Beast; Berserker (former)\n\n> \"Leader of the Orc Legion\"\n\n# Story\n\nThe Orcs are a race with a long history and perhaps the most common of those in the Land of Dawn. Throughout the mists of time, they have served under Lord of Abyss as they fought throughout the fierce of Endless War; and also engaged mankind in savage battle during the Golden Era. A series of successive defeats left the once strong United Demi-humans divided instead into Orcs, Minotaurs, and Centaurs, among other peoples. It also left them bereft of their home, forced into exile, and the southern lands where they eked out a meagre sic existence.\n\nDespite all this, it seemed fate had not yet finished toying with this ancient race. As the Abyss encroach once more powerful demons emerged again from the south presenting a perilous threat to their declining Orc populations. Under the demons' oppression the Orcs were made to split into several small clans scattered throughout the vast expanse of the roaring wilderness, exploited to the utmost.\n\nBalmond was born in a traditional orc tribe within the Roaring Wilderness, and from a young age his father had always taught him all kinds of combat skills. Along with this, he would also regale him tiles of the Orcs' former glories; how they once resided in their homeland in the north of Lantis Mountains and their millennia of fierce battles waged against the elves and humans. He hoped that Balmond would, one day, be able to become a true Orc leader and return them to their former glory.\n\nOver twenty years later, Balmond had grown into a mighty Orc under his father's teaching. And during this time, the demons' brutality had instilled Balmond with deep, dark memories, only making him yearn even more for the day when the Orcs could return to power, bringing back their once-formidable kingdom. To this end the young Balmond not only trained relentlessly, but also dedicated himself to studying all kinds of ancient Orc tomes, which gifted him with an astute strategic knowledge.\n\nBut this was when the flames of war were just beginning to kindle. In order to amass the strength required to attack the Empire, the terrible demons invaded the Orc tribes tirelessly, plundering and pillaging their resources causing the Orcs unspeakable suffering. Prior to this the Orcs were powerless to resist the demon forces, and had no choice but to submit to preserve the peace, however short-lived it may be. But this time, Balmond led the warriors of his clan into battle and slayed the demon leader who had come to rob them of their resources, in doing so sparking the Orc rebellion. The Orc race had taken enough of the demons' oppression, and now each tribe lent Balmond their strength: they were no longer scattered clans, instead becoming a truly powerful force to be reckoned with. The rebellion spread throughout the Roaring Wilderness like wildfire.\n\nUnder Balmond's command, the fierce Orc warriors successfully fought back the demon armies that came to suppress them, dealing a heavy blow.\n\nThis gigantic counterattack launched by the Orcs shocked the demons, enraging Lord Lava, Thamuz. He dispatched numerous terrible troops formed of Blood Demons and Fiends to the Roaring Wilderness, as he would never stand for resistance against his demons within the Wretched Expanse.\n\nDespite the disparity in power, a relentless fight to the death between the Orcs and demons was raged, yet the latter surged like tidal waves and things began to take a turn for the worse for the Orcs. Their power waned by the day, their defensive lines shrinking until they were entirely surrounded.\n\nTo protect his race from extinction, Balmond decided he would fight right to the bitter end, and led an effort to break through their ranks. In this blazing battle the demons again flooded in, their numbers seemingly infinite, and the bodies of Orc warriors were strewn all around as they advanced. Balmond shook with fury: and cast aside his now-blunted battleax as he gripped a demon by the neck to bite at its throat, severing its head with his teeth.\n\nYet this attack sent copious amounts of demon blood flowing into Balmond's body, which resulted in an incredible transformation. It fueled him as he went utterly berserk, with unimaginable power that he wielded to break through the enemy lines. The Orcs were showered in demon blood, igniting a fearsome battle power within them that shook their demon oppressors to their core. New possibilities had presented themselves, and this caused them to change their plans on wiping out the Orcs.\n\nTo this end, the cunning Alice managed to track down Balmond and present him with an offer: once the Empire had been defeated, the entire Roaring Wilderness would be returned to the Orc peoples in exchange for Balmond's loyalty to the demons. In order to preserve the power of his Orc brethren, Balmond reached an agreement with Alice, and his forces swore loyalty to the Abyss. They would then serve as the demons' vanguard forces as they stormed Azrya.\n\nHowever, even Alice could never have imagined that an even greater plan had been brewing deep in Balmond's mind. First, he would command the demon forces to breach the Moonlit Forest and occupy the elven kingdom, where he would build his strength steadily.\n\nFollowing that, the union of the Orcs and the revival of their kingdom that they'd yearned for over millennia would finally come to be.\n\nBalmond is the leader of the Orcs, leading the Orc army against the invasion of the Demons. During a battle, he consumed the blood of a Blood Demon and went into a rage. This aroused Alice's interest, so she signed a contract with Balmond on the condition of returning the Stormeye Wasteland. Balmond, and his Orc army have since fought for the Demons.\n\n# Abilities\n\n## Bloodthirst\n\nBalmond recovers 5% of his Max HP after killing a Minion or Creep, and 20% of his Max HP after killing a hero.\n\n## Soul Lock\n\nBalmond charges to the target direction for a set distance or until he hits an enemy hero, dealing physical damage based on level and stats to enemies along the way. The enemy hero hit will be knocked back slightly, and will have their Movement Speed reduced by 40% and Physical Defense reduced by 40% for 3 seconds.\n\n- Cooldown: 8.0 / 7.4 / 6.8 / 6.2 / 5.6 / 5.0 seconds\n- Damage Type: Physical Damage Skill\n- Base Damage: 150 / 175 / 200 / 225 / 250 / 275\n\n## Cyclone Sweep\n\nBalmond gains 15% Movement Speed that decays over time and spins his axe for 3 seconds, dealing physical damage per hit to nearby enemies up to 14 times. Each subsequent hit on the same enemy will deal 8.5% increased damage, up to a maximum of 68% increased damage. The Physical Attack bonus portion of the damage can Crit.\n\n- Cooldown: 6.0 seconds\n- Damage Type: Physical Damage Skill\n- Base Damage per Hit: 25 / 40 / 55 / 70 / 85 / 100\n- Max Total Damage: 350 / 560 / 770 / 980 / 1190 / 1400\n- Damage Increase per Subsequent Hit: 8.5%, stacking up to 68%\n\nNotes:\n- Cyclone Sweep can only be cancelled by using his other skills.\n- Cyclone Sweep cannot be interrupted by Crowd Control.\n\n## Lethal Counter\n\nBalmond unleashes a huge strike in the target direction (this skill can only be interrupted by Suppression), dealing true damage based on his Physical Attack and the target's Lost HP. This skill only deals up to 1000–2000 damage to non-hero units.\n\n- Cooldown: 34.0 / 29.0 / 24.0 seconds\n- Damage Type: True Damage Skill\n- Extra Damage (based on target's Lost HP): 30% / 37.5% / 45%\n- Non-Hero Unit Damage Cap: 1000 / 1500 / 2000\n\nNotes:\n- Does not show an area of effect pre-animation with the Savage Pointguard skin.\n\n# Trivia\n\n- The old Balmond design can still be seen in his \"Bloodthirst\" skill icon.\n- The previous iteration of Balmond was probably inspired by the character Axe from Dota: Allstars, which itself is based on Grommash Hellscream in his current lore. His current voice actor in 2021, Patrick Seitz, is known for his voice acting as Garrosh Hellscream, Grommash's son.\n- In his old lore, he went from being a slave to being a mutually exploited ally in the new lore.\n- Balmond's \"Celestial General\" (now \"God of Mountains\") is the skin with the longest release postponement; it was supposed to be released at 2018 but the skin was released on August 2021 for the Grand Collection event.\n- Balmond is notorious within the community as he can be seen in almost every MLBB Google Ads.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "alice",
+        "thamuz",
+        "alucard",
+        "harith",
+        "estes",
+        "miya",
+        "dyrroth"
+      ],
+      "faction": "Abyssal Demons",
+      "allies": [
+        "alice"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Leader",
+      "locationTies": [
+        {
+          "location": "Stormeye Wasteland",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "The Barren Lands",
+          "relationship": "home"
+        },
+        {
+          "location": "Roaring Wilderness",
+          "relationship": "home"
+        },
+        {
+          "location": "Lantis Mountains",
+          "relationship": "lost_homeland"
+        },
+        {
+          "location": "Wretched Expanse",
+          "relationship": "enemy_territory"
+        },
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "invades"
+        },
+        {
+          "location": "Moonlit Forest",
+          "relationship": "invades"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "dark"
+    ],
+    "themes": [
+      "power",
+      "freedom",
+      "destiny"
+    ],
+    "hook": "Yet this attack sent copious amounts of demon blood flowing into Balmond's body, fueling him as he went utterly berserk with unimaginable power.",
+    "teaser": "Born from exile and forged in demon blood, Balmond turns an orc rebellion into a brutal rise to power, vowing to reclaim his people’s long-lost kingdom.",
+    "openingLine": "The Orcs are a race with a long history and perhaps the most common of those in the Land of Dawn.",
+    "dominantColor": "#7A2B1A",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "orc rebellion",
+      "demon oppression",
+      "blood transformation",
+      "abyss contract",
+      "lost homeland",
+      "endless war"
+    ],
+    "characterTraits": [
+      "determined",
+      "strategic",
+      "fierce",
+      "vengeful",
+      "ambitious"
+    ],
+    "locations": [
+      "Land of Dawn",
+      "Stormeye Wasteland",
+      "The Barren Lands",
+      "Roaring Wilderness",
+      "Lantis Mountains",
+      "Wretched Expanse",
+      "Azrya Woodlands",
+      "Moonlit Forest"
+    ],
+    "wordCount": 1504,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 7,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647027716,
+    "updatedAt": 1764647027716
+  },
+  "lastUpdated": null
+}

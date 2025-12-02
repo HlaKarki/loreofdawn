@@ -11,6 +11,7 @@ import wtf from "wtf_wikipedia";
 import type { WikiJSON } from "@/types/scraper.types";
 import { generateObject } from "ai";
 import { openai } from "@ai-sdk/openai";
+import type { WikiTableData } from "@repo/database";
 
 export const scrape = router({
 	getWikiValidPages: publicProcedure.query(async () => {
@@ -71,46 +72,6 @@ export const scrape = router({
 
 	batchAiMarkdownWrites: publicProcedure.query(async () => {
 		return await wikiScraper.batchAiMarkdownWrites();
-	}),
-
-	makeAiMarkdown: publicProcedure.query(async () => {
-		// const valid_pages_response = await fetch("http://localhost:1202/trpc/scrape.getWikiValidPages");
-		// const valid_pages = (await valid_pages_response.json()) as {
-		// 	result: { data: { id: number; name: string }[] };
-		// };
-		// const pageids = valid_pages.result.data;
-		// const normalizedName = pageids[10].name.replaceAll(" ", "_").toLowerCase();
-		// const randomPageid = String(pageids[10].id);
-		//
-		const pageid = "7897";
-		const normalizedName = "badang";
-		const query = wikiScraper.buildQueryByPageId(pageid);
-		const markup = await wikiScraper.fetchWikiMarkup(query);
-		const json = wtf(markup).json() as WikiJSON;
-		const sections = await wikiScraper.prepareSections(json);
-		const final_json = JSON.stringify(sections, null, 2);
-
-		const aiResponse = await wikiScraper.getAiMarkdown(final_json);
-
-		const [jsonDir, markdownDir] = [
-			path.join(process.cwd(), "src", "data", "wiki", "jsons"),
-			path.join(process.cwd(), "src", "data", "wiki", "markdowns"),
-		];
-
-		await Promise.all([
-			fs.promises.writeFile(
-				path.join(jsonDir, `${normalizedName}.json`),
-				JSON.stringify(sections, null, 2),
-				"utf-8",
-			),
-			fs.promises.writeFile(
-				path.join(markdownDir, `${normalizedName}.md`),
-				aiResponse.markdown,
-				"utf-8",
-			),
-		]);
-
-		return aiResponse;
 	}),
 
 	testZodSchemaOpenAi: publicProcedure.query(async () => {
@@ -287,5 +248,199 @@ export const scrape = router({
 
 	normalizedHeroList: publicProcedure.query(async () => {
 		return await mlTransformService.getNormalizedHeroList();
+	}),
+
+	sampleFullWikiData: publicProcedure.query(async () => {
+		const pageid = "7897";
+		const normalizedName = "badang";
+		const query = wikiScraper.buildQueryByPageId(pageid);
+		const { timestamp, markup } = await wikiScraper.fetchWikiMarkup(query);
+		const json = wtf(markup).json() as WikiJSON;
+		const sections = await wikiScraper.prepareSections(json);
+		const final_json = JSON.stringify(sections, null, 2);
+
+		const aiResponse = await wikiScraper.getAiMarkdown(final_json);
+		const wikiMetadata = wikiScraper.buildFullMetadata(
+			aiResponse.partialMetadata,
+			aiResponse.sections,
+		);
+		const fullWikiData: WikiTableData = {
+			hero: normalizedName,
+			urlName: normalizedName.toLowerCase().replaceAll(" ", "_"),
+			sections: aiResponse.sections,
+			markdown: aiResponse.markdown,
+			metadata: wikiMetadata,
+			lastUpdated: timestamp,
+		};
+
+		// ** Persist complete WikiTableData to batch_ai directory **
+		const batchAiDir = path.join(process.cwd(), "src", "data", "wiki", "batch_ai");
+		await fs.promises.mkdir(batchAiDir, { recursive: true });
+
+		const outputPath = path.join(batchAiDir, `${normalizedName}.json`);
+		await fs.promises.writeFile(outputPath, JSON.stringify(fullWikiData, null, 2), "utf-8");
+
+		return fullWikiData;
+	}),
+
+	batchPersistWikiDataLocal: publicProcedure.query(async () => {
+		const startTime = Date.now();
+
+		// Fetch valid pages
+		const valid_pages_response = await fetch("http://localhost:1202/trpc/scrape.getWikiValidPages");
+		const valid_pages = (await valid_pages_response.json()) as {
+			result: { data: { id: number; name: string }[] };
+		};
+		const pages = valid_pages.result.data;
+
+		// Setup output directory
+		const batchAiDir = path.join(process.cwd(), "src", "data", "wiki", "batch_ai");
+		await fs.promises.mkdir(batchAiDir, { recursive: true });
+
+		// Check for existing files to support resumability
+		const existingFiles = new Set(
+			(await fs.promises.readdir(batchAiDir)).map((f) => f.replace(".json", "")),
+		);
+
+		// Filter out already processed heroes
+		const pendingPages = pages.filter((page) => {
+			const urlName = page.name.replaceAll(" ", "_").toLowerCase();
+			return !existingFiles.has(urlName);
+		});
+
+		console.log(`Total heroes: ${pages.length}`);
+		console.log(`Already processed: ${pages.length - pendingPages.length}`);
+		console.log(`Remaining: ${pendingPages.length}`);
+
+		if (pendingPages.length === 0) {
+			return {
+				message: "All heroes already processed!",
+				total: pages.length,
+				skipped: pages.length,
+				processed: 0,
+				failed: 0,
+			};
+		}
+
+		// Results tracking
+		const results = {
+			success: [] as string[],
+			failed: [] as { hero: string; error: string }[],
+		};
+
+		// Concurrent processing with worker pool pattern
+		const CONCURRENCY_LIMIT = 15;
+		const queue = [...pendingPages];
+		let completed = 0;
+
+		const workers = Array.from({ length: CONCURRENCY_LIMIT }, async (_, workerId) => {
+			while (queue.length > 0) {
+				const page = queue.pop();
+				if (!page) break;
+
+				const urlName = page.name.replaceAll(" ", "_").toLowerCase();
+				const pageid = String(page.id);
+
+				try {
+					// Fetch and prepare data
+					const query = wikiScraper.buildQueryByPageId(pageid);
+					const { timestamp, markup } = await wikiScraper.fetchWikiMarkup(query);
+					const json = wtf(markup).json() as WikiJSON;
+					const sections = await wikiScraper.prepareSections(json);
+					const final_json = JSON.stringify(sections, null, 2);
+
+					// Generate AI content
+					const aiResponse = await wikiScraper.getAiMarkdown(final_json);
+					const wikiMetadata = wikiScraper.buildFullMetadata(
+						aiResponse.partialMetadata,
+						aiResponse.sections,
+					);
+
+					// Build complete wiki data
+					const fullWikiData: WikiTableData = {
+						hero: urlName,
+						urlName: urlName.toLowerCase().replaceAll(" ", "_"),
+						sections: aiResponse.sections,
+						markdown: aiResponse.markdown,
+						metadata: wikiMetadata,
+						lastUpdated: timestamp,
+					};
+
+					// Persist to file
+					const outputPath = path.join(batchAiDir, `${urlName}.json`);
+					await fs.promises.writeFile(outputPath, JSON.stringify(fullWikiData, null, 2), "utf-8");
+
+					results.success.push(urlName);
+					completed++;
+					console.log(`[Worker ${workerId}] ✓ ${urlName} (${completed}/${pendingPages.length})`);
+				} catch (error) {
+					const errorMessage = error instanceof Error ? error.message : String(error);
+					results.failed.push({ hero: urlName, error: errorMessage });
+					completed++;
+					console.error(
+						`[Worker ${workerId}] ✗ ${urlName} failed: ${errorMessage} (${completed}/${pendingPages.length})`,
+					);
+				}
+			}
+		});
+
+		// Wait for all workers to complete
+		await Promise.all(workers);
+
+		const duration = ((Date.now() - startTime) / 1000).toFixed(2);
+		console.log(`\n✅ Batch processing complete in ${duration}s`);
+		console.log(`Success: ${results.success.length}`);
+		console.log(`Failed: ${results.failed.length}`);
+
+		return {
+			total: pages.length,
+			skipped: pages.length - pendingPages.length,
+			processed: pendingPages.length,
+			succeeded: results.success.length,
+			failed: results.failed.length,
+			duration: `${duration}s`,
+			results,
+		};
+	}),
+
+	/**
+	 * Seed wikis table from batch_ai JSON files
+	 */
+	seedWikisFromBatchAi: publicProcedure.query(async () => {
+		const batchAiDir = path.join(process.cwd(), "src", "data", "wiki", "batch_ai");
+
+		// Read all JSON files from batch_ai directory
+		const files = await fs.promises.readdir(batchAiDir);
+		const jsonFiles = files.filter((file) => file.endsWith(".json"));
+
+		const results = {
+			success: [] as string[],
+			failed: [] as { hero: string; error: string }[],
+		};
+
+		for (const filename of jsonFiles) {
+			try {
+				const filePath = path.join(batchAiDir, filename);
+				const fileContent = await fs.promises.readFile(filePath, "utf-8");
+				const wikiData = JSON.parse(fileContent) as WikiTableData;
+
+				// Insert to database using dbService
+				await dbService.insertWiki(wikiData);
+
+				results.success.push(wikiData.hero);
+			} catch (error) {
+				results.failed.push({
+					hero: filename.replace(".json", ""),
+					error: error instanceof Error ? error.message : String(error),
+				});
+			}
+		}
+
+		return {
+			total: jsonFiles.length,
+			succeeded: results.success.length,
+			failed: results.failed.length,
+			results,
+		};
 	}),
 });

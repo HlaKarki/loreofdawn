@@ -1,0 +1,198 @@
+{
+  "hero": "franco",
+  "urlName": "franco",
+  "sections": {
+    "profile": {
+      "markdown": "**Chinese Name:** 佛朗哥 (fúlǎnggē)\n\n**Alias:** Frozen Warrior\n\n**Origin:** Northern Vale\n\n**Species:** Human\n\n**Gender:** Male\n\n**Occupation:** Unnamed tribe leader\n\n**Affiliation:** Black Shark Pirates (hostile)\n\n**Weapons:**\n- Iron hook\n- Hammer\n\n**Battles Fought:**\n- Battle of the Frozen Sea\n\n\"Brave permafrost warrior, Bane's sworn enemy\""
+    },
+    "story": {
+      "markdown": "\"Brave permafrost warrior, Bane's sworn enemy\"\n\nFranco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Frozen Warrior of the Northern Vale",
+          "content": {
+            "markdown": "The harsh natural environment of the distant and wintry Northern Vale shaped those who live there into a brave and martial people. They revered the strong, and took pride in their tall and rugged appearances. They believed that their robust physiques were inherited from their common ancestor ⁠— the Iceland Golem who once ruled these lands.\n\nTo the young Franco, however, this traditional way of thinking was nothing but oppressive. His tribe had lived on the coast of the Frozen Sea for generations, and relied on their large fleet of ships for trade and fishing to support their livelihoods. But the passing years did not make young Franco want to become a grown man. They only made him notice the strange way the others would look at him. Though his father was a harpooner famous throughout the coast, and his brothers were all tall and strong, Franco was small and unimpressive for a Northman. Some even said jokingly that, given Franco's stature, his ancestor was not the Iceland Golem, but the dwarves of legend.\n\nTo train strong warriors, the Northern Vale tribes on the coast of the Frozen Sea engaged in intensely competitive games from childhood, and received systematic combat training once they reached puberty, so that they would be ready to engage in long trading missions or fishing journeys upon reaching adulthood. To Franco's embarrassment, however, when the other boys had already started to wield battle axes, spears, and to rig sails, he could only handle much smaller weapons. In fact, the battle axes were even taller than he was.\n\nThough small in stature, Franco had a great ambition ⁠— to become the Northern Vale's greatest warrior, and to have his name remembered in the book of heroes, to be adulated by future generations. To achieve this ambition, Franco trained relentlessly day after day, increasing his strength and martial prowess. Yet, no matter how hard Franco trained, he was looked down upon by the others for his short stature. Even his father and brothers believed that little Franco was only suited to be a merchant, and never a warrior or sailor who could take on the cruel environment and ferocious enemies.\n\nFacing constant mockery and discrimination, Franco angrily decided to leave his tribe. He would prove to all of them that, even if he was little, he could still achieve his great things. Over the next few years, he hid away in the Northern Vale's endless mountains, surviving and training alone in that most extreme of environments. After many long years of fighting the bitter cold, terrible beasts, and ever-present threats, Franco developed a strength far exceeding an ordinary man's, as well as a firm and indomitable character."
+          }
+        },
+        {
+          "title": "War Against Bane",
+          "content": {
+            "markdown": "Whilst Franco was training alone in the mountains, the cruel and power-hungry Captain Bane descended upon the Frozen Sea. Breaking the long-respected rules of the Northern Vale's pirates and fishermen, he began to invade and annex the territory of other pirates as well as commoners, ruling them with an iron fist. Those facing Bane's powerful fleet and fearsome firepower had only two options: submit, or be annihilated.\n\nBane's cruelty drew fierce resistance from various forces, the fiercest of all coming from Franco's tribe. As a warning to those who would defy him, Bane sent a massive armada of pirate ships to blockade the surrounding sea, and sent constant raids on Franco's tribe, declaring he would sink all their ships, and raze their harbor to the ground.\n\nAfter ten years in the mountains, Franco returned to his tribe, full of confidence and strength. Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength. Only after the battle did his oppressed tribesmen make a surprising discovery: that the hero who had come to save them was none other than the once-mocked little Franco. After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen.\n\nFranco then led his tribesmen and their ships in resistance against Bane's cruel rule. They equipped old fishing ships with battering rams and cannons, and attacked Bane's pirate fleets wherever they were found, dealing a heavy blow against Bane's forces. In desperation, Bane gathered an enormous fleet to suppress Franco's resistance, but both sides remained in a deadlock after several battles, with Bane unable to force an advantage. Once, Bane managed to lead Franco into a trap, but only managed to wound him, and Franco managed to escape with his life. Furthermore, more and more people of the Northern Vale, inspired by Franco's courage and strength, united around him to fight Bane."
+          }
+        },
+        {
+          "title": "Twilight Orb and the Behemoth",
+          "content": {
+            "markdown": "Seeing Franco's strength grow steadily by the day, the cunning Captain Bane came up with a plan: he would sue for peace with Franco, suggesting that they search for the Twilight Orb of legend together, while secretly drawing the Moniyan Empire's navy to the Frozen Sea. This would allow him to kill two birds with one stone: find the Twilight Orb, and defeat Franco for good. Suspicious of Bane's sudden goodwill, Franco pretended to take the bait, ordering his men to search for the Twilight Orb, while secretly leading a contingent of warriors to seize control of a pirate ship among the Black Sharks fleet.\n\nBane instigated a battle between the two navies, preparing to reap the benefits for himself in the aftermath. However, Franco, hidden within the Black Sharks, ordered his men to open fire from behind Bane, making a direct hit on the Behemoth. In his most exultant moment, Bane and his flagship received a deadly blow from the defiant lord, and sank to the bottom of the sea.\n\nWith Bane drowned, Franco became ruler of the entire coast of the Northern Vale. He led his people to drive out the remnants of Bane's forces, rebuild the harbor, and restart trade, bringing a renaissance to the entire Northern Vale.\n\nOut of respect for Franco's glorious achievements, the people of the Northern Vale titled him the Frozen Warrior. But to Franco, all that he had done so far was still not worthy of such praise. Not long after, Franco learned that Bane not only had not perished, but had gained a new power, and was gathering his men to make his return."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Wasteland Force",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "If no damage is taken within 5 seconds, Franco gains 10% Movement Speed, recovers 1% Max HP per second, and begins accumulating Wasteland Force stacks (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase the skill's damage by up to 150%.\n\n- Damage increase per stack: 5%, 10%, 15%, 20%, 25%, 30%, 35%, 40%, 45%, 50%\n\nNotes:\n- If the stack has been consumed while the passive is active, Franco has to receive damage or the stack won't start accumulating again."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Iron Hook",
+        "cooldown": 15,
+        "cost": 135,
+        "role": "Control",
+        "details": {
+          "markdown": "Franco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing physical damage and dragging them to Franco.\n\n- Base damage: 400 / 450 / 500 / 550 / 600 / 650\n- Cooldown: 15.0 / 14.2 / 13.4 / 12.6 / 11.8 / 11.0 seconds\n- Mana cost: 135 / 140 / 145 / 150 / 155 / 160\n\nNotes:\n- The hook will pull the target to Franco's current position, which can be extended or repositioned by movement or teleport skills.\n- The hook first applies stun, then the pulling effect.\n- When the hook hits a target, it plays a different sound and lingers briefly before returning.\n- Some abilities providing crowd control immunity may fail to remove the pulling effect.\n- Fully affects invisible and concealed enemies."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Fury Shock",
+        "cooldown": 7,
+        "cost": 40,
+        "role": "Damage",
+        "details": {
+          "markdown": "Franco lashes out, dealing physical damage equal to 300–450 plus 4% of his Max HP to nearby enemies and slowing them by 70% for 1.5 seconds.\n\n- Base damage: 300 / 330 / 360 / 390 / 420 / 450\n- Cooldown: 7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5 seconds\n- Mana cost: 40 / 45 / 50 / 55 / 60 / 65"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Bloody Hunt",
+        "cooldown": 62,
+        "cost": 110,
+        "role": "Control",
+        "details": {
+          "markdown": "Franco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing physical damage.\n\n- Damage per hit: 50 / 60 / 70\n- Cooldown: 62.0 / 55.0 / 45.0 seconds\n- Mana cost: 110 / 125 / 140\n\nNotes:\n- Ability ends prematurely when Franco is affected by crowd control."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Franco is based on a real-life, historical viking warrior."
+      },
+      {
+        "markdown": "Both Franco and another hero have the same quote: *One shot, one kill*."
+      },
+      {
+        "markdown": "Another hero had the same quote but was removed due to being revamped for Project NEXT."
+      },
+      {
+        "markdown": "Most of Franco's quotes are directly taken from the character York from Magic Rush: Heroes, which he also shares the same voice acting with. This explains why some of them seem completely unrelated to him, such as: *I love the smell of gunpowder in the morning*."
+      },
+      {
+        "markdown": "Franco is currently the only hero whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced."
+      },
+      {
+        "markdown": "Franco was banned temporarily in the game on 29 December 2021 after an exploit had been discovered on the Serpent lair. The ban was lifted on 19 January 2022 which spans for 21 days and 3 hours, which is the longest recorded ban in MLBB history, before the Helcurt ban in 2023."
+      },
+      {
+        "markdown": "Franco is one of three heroes that can apply the Suppression crowd control."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Chinese Name:** 佛朗哥 (fúlǎnggē)\n\n**Alias:** Frozen Warrior\n\n**Origin:** Northern Vale\n\n**Species:** Human\n\n**Gender:** Male\n\n**Occupation:** Unnamed tribe leader\n\n**Affiliation:** Black Shark Pirates (hostile)\n\n**Weapons:**\n- Iron hook\n- Hammer\n\n**Battles Fought:**\n- Battle of the Frozen Sea\n\n\"Brave permafrost warrior, Bane's sworn enemy\"\n\n# Story\n\n\"Brave permafrost warrior, Bane's sworn enemy\"\n\nFranco is the only warrior on the Frozen Ocean who can lead people in the fighter against Bane. In one battle, Franco saw through Bane's tricks and finally defeated him. Life was brought back to the Northern Vale under his leadership.\n\n# Side Story\n\n## Frozen Warrior of the Northern Vale\n\nThe harsh natural environment of the distant and wintry Northern Vale shaped those who live there into a brave and martial people. They revered the strong, and took pride in their tall and rugged appearances. They believed that their robust physiques were inherited from their common ancestor ⁠— the Iceland Golem who once ruled these lands.\n\nTo the young Franco, however, this traditional way of thinking was nothing but oppressive. His tribe had lived on the coast of the Frozen Sea for generations, and relied on their large fleet of ships for trade and fishing to support their livelihoods. But the passing years did not make young Franco want to become a grown man. They only made him notice the strange way the others would look at him. Though his father was a harpooner famous throughout the coast, and his brothers were all tall and strong, Franco was small and unimpressive for a Northman. Some even said jokingly that, given Franco's stature, his ancestor was not the Iceland Golem, but the dwarves of legend.\n\nTo train strong warriors, the Northern Vale tribes on the coast of the Frozen Sea engaged in intensely competitive games from childhood, and received systematic combat training once they reached puberty, so that they would be ready to engage in long trading missions or fishing journeys upon reaching adulthood. To Franco's embarrassment, however, when the other boys had already started to wield battle axes, spears, and to rig sails, he could only handle much smaller weapons. In fact, the battle axes were even taller than he was.\n\nThough small in stature, Franco had a great ambition ⁠— to become the Northern Vale's greatest warrior, and to have his name remembered in the book of heroes, to be adulated by future generations. To achieve this ambition, Franco trained relentlessly day after day, increasing his strength and martial prowess. Yet, no matter how hard Franco trained, he was looked down upon by the others for his short stature. Even his father and brothers believed that little Franco was only suited to be a merchant, and never a warrior or sailor who could take on the cruel environment and ferocious enemies.\n\nFacing constant mockery and discrimination, Franco angrily decided to leave his tribe. He would prove to all of them that, even if he was little, he could still achieve his great things. Over the next few years, he hid away in the Northern Vale's endless mountains, surviving and training alone in that most extreme of environments. After many long years of fighting the bitter cold, terrible beasts, and ever-present threats, Franco developed a strength far exceeding an ordinary man's, as well as a firm and indomitable character.\n\n## War Against Bane\n\nWhilst Franco was training alone in the mountains, the cruel and power-hungry Captain Bane descended upon the Frozen Sea. Breaking the long-respected rules of the Northern Vale's pirates and fishermen, he began to invade and annex the territory of other pirates as well as commoners, ruling them with an iron fist. Those facing Bane's powerful fleet and fearsome firepower had only two options: submit, or be annihilated.\n\nBane's cruelty drew fierce resistance from various forces, the fiercest of all coming from Franco's tribe. As a warning to those who would defy him, Bane sent a massive armada of pirate ships to blockade the surrounding sea, and sent constant raids on Franco's tribe, declaring he would sink all their ships, and raze their harbor to the ground.\n\nAfter ten years in the mountains, Franco returned to his tribe, full of confidence and strength. Descending upon the ferocious battle, he crushed Bane's henchmen with his anchor and god-like strength. Only after the battle did his oppressed tribesmen make a surprising discovery: that the hero who had come to save them was none other than the once-mocked little Franco. After learning of Bane's treacherous actions, Franco angrily swore to annihilate him and all his henchmen.\n\nFranco then led his tribesmen and their ships in resistance against Bane's cruel rule. They equipped old fishing ships with battering rams and cannons, and attacked Bane's pirate fleets wherever they were found, dealing a heavy blow against Bane's forces. In desperation, Bane gathered an enormous fleet to suppress Franco's resistance, but both sides remained in a deadlock after several battles, with Bane unable to force an advantage. Once, Bane managed to lead Franco into a trap, but only managed to wound him, and Franco managed to escape with his life. Furthermore, more and more people of the Northern Vale, inspired by Franco's courage and strength, united around him to fight Bane.\n\n## Twilight Orb and the Behemoth\n\nSeeing Franco's strength grow steadily by the day, the cunning Captain Bane came up with a plan: he would sue for peace with Franco, suggesting that they search for the Twilight Orb of legend together, while secretly drawing the Moniyan Empire's navy to the Frozen Sea. This would allow him to kill two birds with one stone: find the Twilight Orb, and defeat Franco for good. Suspicious of Bane's sudden goodwill, Franco pretended to take the bait, ordering his men to search for the Twilight Orb, while secretly leading a contingent of warriors to seize control of a pirate ship among the Black Sharks fleet.\n\nBane instigated a battle between the two navies, preparing to reap the benefits for himself in the aftermath. However, Franco, hidden within the Black Sharks, ordered his men to open fire from behind Bane, making a direct hit on the Behemoth. In his most exultant moment, Bane and his flagship received a deadly blow from the defiant lord, and sank to the bottom of the sea.\n\nWith Bane drowned, Franco became ruler of the entire coast of the Northern Vale. He led his people to drive out the remnants of Bane's forces, rebuild the harbor, and restart trade, bringing a renaissance to the entire Northern Vale.\n\nOut of respect for Franco's glorious achievements, the people of the Northern Vale titled him the Frozen Warrior. But to Franco, all that he had done so far was still not worthy of such praise. Not long after, Franco learned that Bane not only had not perished, but had gained a new power, and was gathering his men to make his return.\n\n# Abilities\n\n## Wasteland Force\n\nIf no damage is taken within 5 seconds, Franco gains 10% Movement Speed, recovers 1% Max HP per second, and begins accumulating Wasteland Force stacks (up to 10 stacks). Franco will consume all Wasteland Force stacks on his next skill cast to increase the skill's damage by up to 150%.\n\n- Damage increase per stack: 5%, 10%, 15%, 20%, 25%, 30%, 35%, 40%, 45%, 50%\n\nNotes:\n- If the stack has been consumed while the passive is active, Franco has to receive damage or the stack won't start accumulating again.\n\n## Iron Hook\n\nFranco launches an iron hook in the target direction. The hook will snag the first enemy unit hit, dealing physical damage and dragging them to Franco.\n\n- Base damage: 400 / 450 / 500 / 550 / 600 / 650\n- Cooldown: 15.0 / 14.2 / 13.4 / 12.6 / 11.8 / 11.0 seconds\n- Mana cost: 135 / 140 / 145 / 150 / 155 / 160\n\nNotes:\n- The hook will pull the target to Franco's current position, which can be extended or repositioned by movement or teleport skills.\n- The hook first applies stun, then the pulling effect.\n- When the hook hits a target, it plays a different sound and lingers briefly before returning.\n- Some abilities providing crowd control immunity may fail to remove the pulling effect.\n- Fully affects invisible and concealed enemies.\n\n## Fury Shock\n\nFranco lashes out, dealing physical damage equal to 300–450 plus 4% of his Max HP to nearby enemies and slowing them by 70% for 1.5 seconds.\n\n- Base damage: 300 / 330 / 360 / 390 / 420 / 450\n- Cooldown: 7.0 / 6.5 / 6.0 / 5.5 / 5.0 / 4.5 seconds\n- Mana cost: 40 / 45 / 50 / 55 / 60 / 65\n\n## Bloody Hunt\n\nFranco suppresses the target enemy hero for 1.8 seconds and strikes them 6 times over the duration, each time dealing physical damage.\n\n- Damage per hit: 50 / 60 / 70\n- Cooldown: 62.0 / 55.0 / 45.0 seconds\n- Mana cost: 110 / 125 / 140\n\nNotes:\n- Ability ends prematurely when Franco is affected by crowd control.\n\n# Trivia\n\n- Franco is based on a real-life, historical viking warrior.\n- Both Franco and another hero have the same quote: *One shot, one kill*.\n- Another hero had the same quote but was removed due to being revamped for Project NEXT.\n- Most of Franco's quotes are directly taken from the character York from Magic Rush: Heroes, which he also shares the same voice acting with. This explains why some of them seem completely unrelated to him, such as: *I love the smell of gunpowder in the morning*.\n- Franco is currently the only hero whose voice lines came from Magic Rush while the previous heroes with the same case got theirs replaced.\n- Franco was banned temporarily in the game on 29 December 2021 after an exploit had been discovered on the Serpent lair. The ban was lifted on 19 January 2022 which spans for 21 days and 3 hours, which is the longest recorded ban in MLBB history, before the Helcurt ban in 2023.\n- Franco is one of three heroes that can apply the Suppression crowd control.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "bane",
+        "freya",
+        "helcurt"
+      ],
+      "faction": "Northern Vale",
+      "allies": [
+        "freya"
+      ],
+      "rivals": [
+        "bane",
+        "helcurt"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Leader",
+      "locationTies": [
+        {
+          "location": "Northern Vale",
+          "relationship": "home"
+        },
+        {
+          "location": "Frozen Sea",
+          "relationship": "home"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "rival"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic"
+    ],
+    "themes": [
+      "honor",
+      "destiny",
+      "power"
+    ],
+    "hook": "After ten years in the mountains, the once-mocked little Franco returns as a god-like warrior, only to find Captain Bane ruling his homeland with an iron fist.",
+    "teaser": "Mocked for his small stature, Franco vanishes into the frozen mountains and returns a legend, leading a brutal naval war against the tyrant pirate Bane.",
+    "openingLine": "The harsh natural environment of the distant and wintry Northern Vale shaped those who live there into a brave and martial people.",
+    "dominantColor": "#1F4E78",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 3,
+    "chapterTitles": [
+      "Frozen Warrior of the Northern Vale",
+      "War Against Bane",
+      "Twilight Orb and the Behemoth"
+    ],
+    "plotKeywords": [
+      "Northern Vale traditions",
+      "mockery for small stature",
+      "mountain training",
+      "Bane's conquest",
+      "naval resistance",
+      "Twilight Orb scheme",
+      "ambush on Behemoth",
+      "renaissance of the harbor"
+    ],
+    "characterTraits": [
+      "ambitious",
+      "resilient",
+      "brave",
+      "stubborn",
+      "protective",
+      "indomitable"
+    ],
+    "locations": [
+      "Northern Vale",
+      "Frozen Sea",
+      "Moniyan Empire"
+    ],
+    "wordCount": 1655,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646992002,
+    "updatedAt": 1764646992002
+  },
+  "lastUpdated": null
+}

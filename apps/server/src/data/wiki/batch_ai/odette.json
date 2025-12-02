@@ -1,0 +1,251 @@
+{
+  "hero": "odette",
+  "urlName": "odette",
+  "sections": {
+    "profile": {
+      "markdown": "Princess Odette of House Alvin, also known as the Swan Princess, is an innocent princess that grew up in the Swan Castle and a genius mage that excels in sword and scepter."
+    },
+    "story": {
+      "markdown": "> \"Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.\"\n\nAs the daughter of Prince Alvin, Princess Odette was a romantic that seemed a well-behaved, obedient lady but actually yearned for adventures instead. After she became acquainted with Lancelot and rescued him in a duel ruckus, Odette slowly became aware of her own feelings towards Lancelot. Finally, she made the decision to leave the Swan Castle and set out on an adventure in search of her loved one."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Legacy of House Alvin",
+          "content": {
+            "markdown": "The Swan Castle located near the Azure Lake was the fief of Prince Alvin of the Moniyan Empire. The first liege of this land—Prince Alvin I was a desperately romantic crown prince. To marry a woman of humble birth, he resigned and gave up the throne to his brother—Sirius IV, leaving the Lumina City and settling down in the countryside now known as the Swan Castle.\n\nHouse Alvin and their romanticism were then passed down through generations. Prince Alvin II also assumed his royal title at a young age—his brother and the eldest son of Prince Alvin I focused on religious endeavors and later became the archbishop of the Church of Light. Princess Odette was the third-generation scion of the family, and this elegant, lovable Swan Princess's love story perfectly attested to the romantic nature of House Alvin's descendants."
+          }
+        },
+        {
+          "title": "Sheltered Curiosity",
+          "content": {
+            "markdown": "Owning right to the throne, Prince Alvin and his family understood the tricky situation they were in and rarely got involved in domestic politics or had much contact with the other nobles. Since childhood, Odette had been leading a peaceful, tranquil life within the Swan Castle, without ever setting foot out of their territory. But the seemingly quiet girl had been filled with curiosity and longing for the outside world.\n\nBy the time she reached adolescence, she worked up the courage to conceal herself under a mantle and sneak out to visit the market nearby without her parents' permission. The naive princess once tried to pay for bread with a whole bag of gold coins and offered a beggar all the jewelry she had on her after hearing his routine tear-jerking story, but these little delinquencies just outside her home were enough for Odette to feel adventurous."
+          }
+        },
+        {
+          "title": "Rescued Knight",
+          "content": {
+            "markdown": "But eventually her adventures brought her trouble—this clueless young princess only learned what powerless felt like when she was harassed by a few thugs in a tavern... Thankfully in a drunken stupor, drew his sword and drove those men away. But Odette felt at a loss of what to do seeing her rescuer get injured and fall on the ground, her eyes brimming with tears. So, she made a decision that went against her family rules—to bring the unconscious Lancelot back to the Swan Castle.\n\nIn a room atop their castle tower, Odette dressed Lancelot's wound and casted her family's healing spell with a scepter to treat him with the help of a young maid. She spent the whole day and night watching over Lancelot who was on the verge of death, and only let out a sigh of relief and smiled wearily when the man finally opened his eyes again…"
+          }
+        },
+        {
+          "title": "Songs of Distant Lands",
+          "content": {
+            "markdown": "For the following days, Odette hid Lancelot inside the Swan Castle so that he could recover, and she would bring food to him every day with the maid and listen to the interesting romantic knight of Castle Gorge as he played the harp and sang songs about the adventures he'd had throughout the land. These songs were fun melodies Odette had never heard as she'd only known royal music, and the lyrics once again piqued her strong curiosity and yearning for the outside world.\n\nOdette's meetings with Lancelot became the greatest fun of her days. As she gradually opened up to this new friend of hers, she would also tell him about her little adventures of rebellious delinquencies and even learned from him a few sword fighting techniques for self-defense."
+          }
+        },
+        {
+          "title": "A Subtle Courtship",
+          "content": {
+            "markdown": "As they bounded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the hero Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.\n\nThe innocent Odette didn't understand the reason behind his change, until the sneaky maid suddenly asked her in a whisper,\n\n> \"Who do you think Lancelot is playing these songs to, Your Grace?\"\n\nThe maid's words awoke the blind princess. Odette finally came to realize that someone was subtly courting her!\n\nIt was once again the mischievous young maid persuading Odette to not run away or ignore his courtship that the princess had the courage to face Lancelot's feelings. But she still hadn't worked out whether she was also in love with him."
+          }
+        },
+        {
+          "title": "Unwanted Proposal",
+          "content": {
+            "markdown": "As Lancelot's injury healed with each day, Odette knew that the day of his departure was nearing. Her spirits sank low, and one day a letter delivered by his father disturbed her mind even more—\n\n> \"Duke Baroque was proposing to me on behalf of his son? What an annoying suitor!\"\n\nBut Odette suddenly came to a realization: wasn't the romantic knight of Castle Gorge from House Baroque's fief? So, the duke's son must be..."
+          }
+        },
+        {
+          "title": "Realization and Parting",
+          "content": {
+            "markdown": "Despite her heart beating out of her chest, Odette had to feign calmness before her parents. But when she returned to her bedchamber, she couldn't help but giggle to herself and even danced cheerfully with the maid. But unsure how to face Lancelot, Odette realized that she couldn't bring herself to see him now.\n\nBut unexpectedly, Lancelot left a letter and went away without a farewell a few days later. Feeling dejected, Odette finally realized how much she'd adored him…"
+          }
+        },
+        {
+          "title": "Leaving Swan Castle",
+          "content": {
+            "markdown": "Until one night, having made up her mind, Odette wrote a letter to her parents before quietly leaving the Swan Castle. She would follow the traces Lancelot left behind and search for the love of her life…"
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Lakeshore Ambience",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "After each skill cast, Odette's next Basic Attack or skill will cast a sound wave that rebounds between her and enemies, each bounce dealing scaling magic damage based on level and stats.\n\nThe sound waves can bounce up to 4 times and can also bounce to or from turrets. They can still bounce to and from untargetable enemies but do not damage them.\n\nThis effect counts as a Magic Basic Attack and only benefits from skill effects.\n\n- Base Damage: 144 / 148 / 152 / 156 / 160 / 164 / 168 / 172 / 176 / 180 / 184 / 188 / 192 / 196 / 200\n- Only benefits 50% of Magic Lifesteal.\n- This effect stacks up to 3 times.\n- Stack duration: 8 seconds; duration resets when a stack is consumed.\n- Can trigger item effects.\n- Still bounces even when it does not deal damage to untargetable enemies."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Avian Authority",
+        "cooldown": 6,
+        "cost": 90,
+        "role": "Damage",
+        "details": {
+          "markdown": "Odette concentrates energy to summon a swan to attack enemies in an area, dealing magic damage and slowing them by 30%. The slow lasts for 2 seconds.\n\n- Type: Magic Skill, Area of Effect\n- Cooldown: 6.0 / 5.8 / 5.6 / 5.4 / 5.2 / 5.0 seconds\n- Mana Cost: 90 / 100 / 110 / 120 / 130 / 140\n- Base Damage: 300 / 350 / 400 / 450 / 500 / 550\n- Reduces Movement Speed by 30% for 2 seconds\n- Only benefits 50% of Magic Lifesteal."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Blue Nova",
+        "cooldown": 12,
+        "cost": 90,
+        "role": "Control",
+        "details": {
+          "markdown": "Odette releases a set of magic energy balls forward, dealing magic damage to the first enemy hit and immobilizing them for 1.5 seconds. After hitting the first target, another energy ball will then spawn and attack a nearby enemy (prioritizing enemy heroes), dealing the same magic damage and immobilizing them for 1.5 seconds.\n\n- Type: Magic Skill, Crowd Control, Damage\n- Cooldown: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds\n- Mana Cost: 90 / 95 / 100 / 105 / 100 / 115\n- Initial Hit Base Damage: 250 / 280 / 310 / 340 / 370 / 400\n- Diffusion Damage: 250 / 280 / 310 / 340 / 370 / 400\n- Immobilize Duration: 1.5 seconds on both hits\n- Only benefits 50% of Magic Lifesteal."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Swan Song",
+        "cooldown": 50,
+        "cost": 200,
+        "role": "Damage",
+        "details": {
+          "markdown": "Odette leaps in a designated direction, gains a shield, and begins gathering energy, dealing magic damage to enemies within the area every 0.5 seconds for 5 seconds. Odette greatly slows nearby enemies by 90% upon casting this skill; the slow effect decays over 2 seconds.\n\nWhen this skill is active, the rebounding speed and count of Lakeshore Ambience's sound wave in the area are also enhanced. This skill requires constant channeling and will be interrupted if Odette is controlled by strong crowd control effects or performs other actions.\n\n- Type: Magic Skill, Blink, Burst\n- Cooldown: 50.0 / 45.0 / 40.0 seconds\n- Mana Cost: 200 / 240 / 280\n- Base Shield: 1400 / 1600 / 1800\n- Base Damage per tick: 240 / 280 / 320\n- Duration: 5 seconds, dealing damage every 0.5 seconds\n- Slow: 90% Movement Speed reduction on nearby enemies (decays over 2 seconds)\n- Effect radius: 5.5 units\n- Sound waves rebound up to 7 times when the ultimate is active and travel in a straight line instead of the usual upward trajectory.\n- Only benefits 25% of Spell Vamp.\n- This skill gains full Spell Vamp without the usual reduction applied to magic lifesteal.\n- The shield lingers briefly after the ability ends.\n- Can use Battle Spells and items during the duration.\n- The ability is only interrupted by high crowd control effects such as airborne, frozen, transformed, petrified, or suppressed."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Odette full name is Princess Odette Alvin."
+      },
+      {
+        "markdown": "The sword Odette carries is used as a focus for her spells. She doesn't use the sword by conventional means."
+      },
+      {
+        "markdown": "Since the founding of the empire by Gaius, the ruling Monian dynasty has never changed, as Silvanna is a direct descendant of Gaius. This means that Odette and Silvanna and Dyrroth have a common ancestor."
+      },
+      {
+        "markdown": "The fact that the ruling dynasty has never changed shows us its connection to Vexana, who was also a princess of the Monian Empire."
+      },
+      {
+        "markdown": "It is hinted in one of her quotes that the sword is a gift. The sword gifted by Lancelot."
+      },
+      {
+        "markdown": "Lancelot is referenced in two of her quotes: \"Don't ask me why a mage is carrying a sword!\" \"This sword is a gift.\""
+      },
+      {
+        "markdown": "Odette is inspired by a character with the same name in Swan Lake."
+      },
+      {
+        "markdown": "Her Black Swan skin is also a reference to another character from the same opera."
+      },
+      {
+        "markdown": "The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite), Op. 20."
+      },
+      {
+        "markdown": "She was purchasable with Battle Points at first. Now, she can only be obtained by new players through quests, bought in the Fragment Shop using Hero Fragments, or in the Lucky Shop using Lucky Gems."
+      },
+      {
+        "markdown": "Odette is the only hero that cannot be purchased using Battle Points nor Diamonds."
+      },
+      {
+        "markdown": "The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite), Op. 20."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nPrincess Odette of House Alvin, also known as the Swan Princess, is an innocent princess that grew up in the Swan Castle and a genius mage that excels in sword and scepter.\n\n# Story\n\n> \"Innocent princess that grew up in the Swan Castle and genius mage that excels in sword and scepter.\"\n\nAs the daughter of Prince Alvin, Princess Odette was a romantic that seemed a well-behaved, obedient lady but actually yearned for adventures instead. After she became acquainted with Lancelot and rescued him in a duel ruckus, Odette slowly became aware of her own feelings towards Lancelot. Finally, she made the decision to leave the Swan Castle and set out on an adventure in search of her loved one.\n\n# Side Story\n\n## Legacy of House Alvin\n\nThe Swan Castle located near the Azure Lake was the fief of Prince Alvin of the Moniyan Empire. The first liege of this land—Prince Alvin I was a desperately romantic crown prince. To marry a woman of humble birth, he resigned and gave up the throne to his brother—Sirius IV, leaving the Lumina City and settling down in the countryside now known as the Swan Castle.\n\nHouse Alvin and their romanticism were then passed down through generations. Prince Alvin II also assumed his royal title at a young age—his brother and the eldest son of Prince Alvin I focused on religious endeavors and later became the archbishop of the Church of Light. Princess Odette was the third-generation scion of the family, and this elegant, lovable Swan Princess's love story perfectly attested to the romantic nature of House Alvin's descendants.\n\n## Sheltered Curiosity\n\nOwning right to the throne, Prince Alvin and his family understood the tricky situation they were in and rarely got involved in domestic politics or had much contact with the other nobles. Since childhood, Odette had been leading a peaceful, tranquil life within the Swan Castle, without ever setting foot out of their territory. But the seemingly quiet girl had been filled with curiosity and longing for the outside world.\n\nBy the time she reached adolescence, she worked up the courage to conceal herself under a mantle and sneak out to visit the market nearby without her parents' permission. The naive princess once tried to pay for bread with a whole bag of gold coins and offered a beggar all the jewelry she had on her after hearing his routine tear-jerking story, but these little delinquencies just outside her home were enough for Odette to feel adventurous.\n\n## Rescued Knight\n\nBut eventually her adventures brought her trouble—this clueless young princess only learned what powerless felt like when she was harassed by a few thugs in a tavern... Thankfully in a drunken stupor, drew his sword and drove those men away. But Odette felt at a loss of what to do seeing her rescuer get injured and fall on the ground, her eyes brimming with tears. So, she made a decision that went against her family rules—to bring the unconscious Lancelot back to the Swan Castle.\n\nIn a room atop their castle tower, Odette dressed Lancelot's wound and casted her family's healing spell with a scepter to treat him with the help of a young maid. She spent the whole day and night watching over Lancelot who was on the verge of death, and only let out a sigh of relief and smiled wearily when the man finally opened his eyes again…\n\n## Songs of Distant Lands\n\nFor the following days, Odette hid Lancelot inside the Swan Castle so that he could recover, and she would bring food to him every day with the maid and listen to the interesting romantic knight of Castle Gorge as he played the harp and sang songs about the adventures he'd had throughout the land. These songs were fun melodies Odette had never heard as she'd only known royal music, and the lyrics once again piqued her strong curiosity and yearning for the outside world.\n\nOdette's meetings with Lancelot became the greatest fun of her days. As she gradually opened up to this new friend of hers, she would also tell him about her little adventures of rebellious delinquencies and even learned from him a few sword fighting techniques for self-defense.\n\n## A Subtle Courtship\n\nAs they bounded over time, Lancelot slowly became reticent and withdrawn. He no longer played those funny songs in praise of the hero Lancelot, and yet often caroled about the love story between a knight and a young maiden, exalting a kind and beautiful princess.\n\nThe innocent Odette didn't understand the reason behind his change, until the sneaky maid suddenly asked her in a whisper,\n\n> \"Who do you think Lancelot is playing these songs to, Your Grace?\"\n\nThe maid's words awoke the blind princess. Odette finally came to realize that someone was subtly courting her!\n\nIt was once again the mischievous young maid persuading Odette to not run away or ignore his courtship that the princess had the courage to face Lancelot's feelings. But she still hadn't worked out whether she was also in love with him.\n\n## Unwanted Proposal\n\nAs Lancelot's injury healed with each day, Odette knew that the day of his departure was nearing. Her spirits sank low, and one day a letter delivered by his father disturbed her mind even more—\n\n> \"Duke Baroque was proposing to me on behalf of his son? What an annoying suitor!\"\n\nBut Odette suddenly came to a realization: wasn't the romantic knight of Castle Gorge from House Baroque's fief? So, the duke's son must be...\n\n## Realization and Parting\n\nDespite her heart beating out of her chest, Odette had to feign calmness before her parents. But when she returned to her bedchamber, she couldn't help but giggle to herself and even danced cheerfully with the maid. But unsure how to face Lancelot, Odette realized that she couldn't bring herself to see him now.\n\nBut unexpectedly, Lancelot left a letter and went away without a farewell a few days later. Feeling dejected, Odette finally realized how much she'd adored him…\n\n## Leaving Swan Castle\n\nUntil one night, having made up her mind, Odette wrote a letter to her parents before quietly leaving the Swan Castle. She would follow the traces Lancelot left behind and search for the love of her life…\n\n# Abilities\n\n## Lakeshore Ambience\n\nAfter each skill cast, Odette's next Basic Attack or skill will cast a sound wave that rebounds between her and enemies, each bounce dealing scaling magic damage based on level and stats.\n\nThe sound waves can bounce up to 4 times and can also bounce to or from turrets. They can still bounce to and from untargetable enemies but do not damage them.\n\nThis effect counts as a Magic Basic Attack and only benefits from skill effects.\n\n- Base Damage: 144 / 148 / 152 / 156 / 160 / 164 / 168 / 172 / 176 / 180 / 184 / 188 / 192 / 196 / 200\n- Only benefits 50% of Magic Lifesteal.\n- This effect stacks up to 3 times.\n- Stack duration: 8 seconds; duration resets when a stack is consumed.\n- Can trigger item effects.\n- Still bounces even when it does not deal damage to untargetable enemies.\n\n## Avian Authority\n\nOdette concentrates energy to summon a swan to attack enemies in an area, dealing magic damage and slowing them by 30%. The slow lasts for 2 seconds.\n\n- Type: Magic Skill, Area of Effect\n- Cooldown: 6.0 / 5.8 / 5.6 / 5.4 / 5.2 / 5.0 seconds\n- Mana Cost: 90 / 100 / 110 / 120 / 130 / 140\n- Base Damage: 300 / 350 / 400 / 450 / 500 / 550\n- Reduces Movement Speed by 30% for 2 seconds\n- Only benefits 50% of Magic Lifesteal.\n\n## Blue Nova\n\nOdette releases a set of magic energy balls forward, dealing magic damage to the first enemy hit and immobilizing them for 1.5 seconds. After hitting the first target, another energy ball will then spawn and attack a nearby enemy (prioritizing enemy heroes), dealing the same magic damage and immobilizing them for 1.5 seconds.\n\n- Type: Magic Skill, Crowd Control, Damage\n- Cooldown: 12.0 / 11.6 / 11.2 / 10.8 / 10.4 / 10.0 seconds\n- Mana Cost: 90 / 95 / 100 / 105 / 100 / 115\n- Initial Hit Base Damage: 250 / 280 / 310 / 340 / 370 / 400\n- Diffusion Damage: 250 / 280 / 310 / 340 / 370 / 400\n- Immobilize Duration: 1.5 seconds on both hits\n- Only benefits 50% of Magic Lifesteal.\n\n## Swan Song\n\nOdette leaps in a designated direction, gains a shield, and begins gathering energy, dealing magic damage to enemies within the area every 0.5 seconds for 5 seconds. Odette greatly slows nearby enemies by 90% upon casting this skill; the slow effect decays over 2 seconds.\n\nWhen this skill is active, the rebounding speed and count of Lakeshore Ambience's sound wave in the area are also enhanced. This skill requires constant channeling and will be interrupted if Odette is controlled by strong crowd control effects or performs other actions.\n\n- Type: Magic Skill, Blink, Burst\n- Cooldown: 50.0 / 45.0 / 40.0 seconds\n- Mana Cost: 200 / 240 / 280\n- Base Shield: 1400 / 1600 / 1800\n- Base Damage per tick: 240 / 280 / 320\n- Duration: 5 seconds, dealing damage every 0.5 seconds\n- Slow: 90% Movement Speed reduction on nearby enemies (decays over 2 seconds)\n- Effect radius: 5.5 units\n- Sound waves rebound up to 7 times when the ultimate is active and travel in a straight line instead of the usual upward trajectory.\n- Only benefits 25% of Spell Vamp.\n- This skill gains full Spell Vamp without the usual reduction applied to magic lifesteal.\n- The shield lingers briefly after the ability ends.\n- Can use Battle Spells and items during the duration.\n- The ability is only interrupted by high crowd control effects such as airborne, frozen, transformed, petrified, or suppressed.\n\n# Trivia\n\n- Odette full name is Princess Odette Alvin.\n- The sword Odette carries is used as a focus for her spells. She doesn't use the sword by conventional means.\n- Since the founding of the empire by Gaius, the ruling Monian dynasty has never changed, as Silvanna is a direct descendant of Gaius. This means that Odette and Silvanna and Dyrroth have a common ancestor.\n- The fact that the ruling dynasty has never changed shows us its connection to Vexana, who was also a princess of the Monian Empire.\n- It is hinted in one of her quotes that the sword is a gift. The sword gifted by Lancelot.\n- Lancelot is referenced in two of her quotes: \"Don't ask me why a mage is carrying a sword!\" \"This sword is a gift.\"\n- Odette is inspired by a character with the same name in Swan Lake.\n- Her Black Swan skin is also a reference to another character from the same opera.\n- The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite), Op. 20.\n- She was purchasable with Battle Points at first. Now, she can only be obtained by new players through quests, bought in the Fragment Shop using Hero Fragments, or in the Lucky Shop using Lucky Gems.\n- Odette is the only hero that cannot be purchased using Battle Points nor Diamonds.\n- The music from her Ultimate, Swan Song is from Tchaikovsky's Swan Lake (Ballet Suite), Op. 20.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "quest",
+    "relationships": {
+      "relatedHeroes": [
+        "lancelot",
+        "silvanna",
+        "dyrroth",
+        "vexana"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "lancelot"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Princess",
+      "locationTies": [
+        {
+          "location": "Swan Castle",
+          "relationship": "home"
+        },
+        {
+          "location": "Azure Lake",
+          "relationship": "nearby"
+        },
+        {
+          "location": "Lumina City",
+          "relationship": "left"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "homeland"
+        }
+      ]
+    },
+    "moods": [
+      "romantic",
+      "heroic"
+    ],
+    "themes": [
+      "love",
+      "destiny",
+      "freedom"
+    ],
+    "hook": "Until one night, having made up her mind, Odette wrote a letter to her parents before quietly leaving the Swan Castle to search for the love of her life.",
+    "teaser": "Sheltered in Swan Castle yet born of a romantic bloodline, Odette defies duty and safety to chase the wandering knight who stole her heart.",
+    "openingLine": "The Swan Castle located near the Azure Lake was the fief of Prince Alvin of the Moniyan Empire.",
+    "dominantColor": "#4B9CD3",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 8,
+    "chapterTitles": [
+      "Legacy of House Alvin",
+      "Sheltered Curiosity",
+      "Rescued Knight",
+      "Songs of Distant Lands",
+      "A Subtle Courtship",
+      "Unwanted Proposal",
+      "Realization and Parting",
+      "Leaving Swan Castle"
+    ],
+    "plotKeywords": [
+      "runaway princess",
+      "secretly sheltering a knight",
+      "tavern incident",
+      "forbidden courtship",
+      "duke’s proposal",
+      "unspoken love",
+      "leaving home",
+      "searching for Lancelot"
+    ],
+    "characterTraits": [
+      "romantic",
+      "curious",
+      "sheltered",
+      "kindhearted",
+      "brave",
+      "naive"
+    ],
+    "locations": [
+      "Swan Castle",
+      "Azure Lake",
+      "Lumina City",
+      "Moniyan Empire"
+    ],
+    "wordCount": 1872,
+    "readingTimeMinutes": 13,
+    "connectionsCount": 4,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646907153,
+    "updatedAt": 1764646907153
+  },
+  "lastUpdated": null
+}

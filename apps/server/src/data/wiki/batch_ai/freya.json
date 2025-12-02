@@ -1,0 +1,168 @@
+{
+  "hero": "freya",
+  "urlName": "freya",
+  "sections": {
+    "profile": {
+      "markdown": "- Chinese name: 芙蕾雅 (fúlěiyǎ)\n- Origin: Martyr Shrine, Northern Vale\n- Species: Human\n- Gender: Female\n- Title: Valkyrie\n- Affiliation:\n  - Frozen Sea warriors (allied)\n  - Black Shark Pirates (hostile)\n- Weapons: Sword and shield which can turn into a battleaxe\n- Abilities:\n  - Bringing fallen warriors to Valhalla\n  - Turns into Valkyrie mode\n- Battles fought: Fighters on the Stormy Sea\n- Relationships:\n  - Skuld (elder sister, fate unknown)\n- English voice actor: Aimee Smith\n\n> \"Valkyrie who guards the Northern Vale.\""
+    },
+    "story": {
+      "markdown": "Freya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Power of Einherjar",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Buff",
+        "details": {
+          "markdown": "Freya gains 1 Sacred Orb with each Basic Attack (up to 6 Sacred Orbs). Consuming 1 Sacred Orb grants Freya 100% Attack Speed for her next Basic Attack (max 6 stacks). Sacred Orbs gradually recover when out of combat."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Leap of Faith",
+        "cooldown": 8,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Freya leaps to the target area and strikes the ground with her shield, gaining a shield and dealing physical damage to enemies within while knocking them airborne for 0.4 seconds.\n\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Shield: 500 / 580 / 660 / 740 / 820 / 900 (+ scaling with physical attack)\n- Base damage: 200 / 220 / 240 / 260 / 280 / 300 physical damage\n- Crowd control: Airborne for 0.4 seconds"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Valkyrie Slash",
+        "cooldown": 0.4,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Freya charges forward and slashes, dealing physical damage and slowing enemies by 30% for 0.5 seconds. This skill has no base cooldown but consumes 2 Sacred Orbs per cast. This skill deals 50% damage to creeps.\n\n- Cooldown: 0.4 seconds (orb-gated)\n- Base damage: 150 / 180 / 210 / 240 / 270 / 300 physical damage\n- Slow: 30% for 0.5 seconds\n- Damage to creeps: 50% of normal damage\n- Resource: Consumes 2 Sacred Orbs per cast"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Valkyrie Descent",
+        "cooldown": 54,
+        "cost": null,
+        "role": "Morph",
+        "details": {
+          "markdown": "Freya selects a target area and dives down as a Valkyrie, dealing physical damage and inflicting a 40% slow to enemies in her path and at the landing point for 2 seconds. Upon landing, Freya enters the Valkyrie state for 12 seconds, during which her Basic Attacks deal extra damage and she recovers HP per Basic Attack, and her Basic Attacks deal splash damage.\n\n- Cooldown: 54.0 / 50.0 / 46.0 seconds\n- Base damage: 300 / 425 / 500 physical damage (+ scaling with physical attack)\n- Slow: 40% for 2 seconds\n- Valkyrie state duration: 12 seconds\n- Enhanced Basic Attack range: 3.5\n- Extra Basic Attack damage: 30 / 45 / 60 (cannot critically strike)\n- HP regeneration per Basic Attack: 60 / 90 / 120\n- Additional effect: Basic Attacks deal splash damage in Valkyrie state"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Freya is based on the goddess Freyja, a goddess in Norse mythology. She is associated with love, beauty, fertility, sex, war, death, and magic."
+      },
+      {
+        "markdown": "Freya's appearance in lore is based on a Valkyrie. Valkyries are female figures who guide the souls of the dead to the god Odin's hall Valhalla."
+      },
+      {
+        "markdown": "The first-generation Freya is a pay-to-win hero. Additionally, Freya is one of the two heroes, including Odette, that cannot be bought by Battle Points. However, Odette used to be bought by Battle Points back when she was released in 2017. Freya only stayed purchasable with Diamonds up until now. The reason for this is still unknown."
+      },
+      {
+        "markdown": "Freya's English voice actress also voiced some of the Battlefield Quick Chats."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Chinese name: 芙蕾雅 (fúlěiyǎ)\n- Origin: Martyr Shrine, Northern Vale\n- Species: Human\n- Gender: Female\n- Title: Valkyrie\n- Affiliation:\n  - Frozen Sea warriors (allied)\n  - Black Shark Pirates (hostile)\n- Weapons: Sword and shield which can turn into a battleaxe\n- Abilities:\n  - Bringing fallen warriors to Valhalla\n  - Turns into Valkyrie mode\n- Battles fought: Fighters on the Stormy Sea\n- Relationships:\n  - Skuld (elder sister, fate unknown)\n- English voice actor: Aimee Smith\n\n> \"Valkyrie who guards the Northern Vale.\"\n\n# Story\n\nFreya's sister Skuld was an excellent Valkyrie, but because of an accident caused by Freya, Skuld plunged into the Twilight Orb and disappeared with it. Freya has since taken over as a Valkyrie and assumed the responsibility of protecting the Northern Vale.\n\n# Abilities\n\n## Power of Einherjar\n\nFreya gains 1 Sacred Orb with each Basic Attack (up to 6 Sacred Orbs). Consuming 1 Sacred Orb grants Freya 100% Attack Speed for her next Basic Attack (max 6 stacks). Sacred Orbs gradually recover when out of combat.\n\n## Leap of Faith\n\nFreya leaps to the target area and strikes the ground with her shield, gaining a shield and dealing physical damage to enemies within while knocking them airborne for 0.4 seconds.\n\n- Cooldown: 8.0 / 7.6 / 7.2 / 6.8 / 6.4 / 6.0 seconds\n- Shield: 500 / 580 / 660 / 740 / 820 / 900 (+ scaling with physical attack)\n- Base damage: 200 / 220 / 240 / 260 / 280 / 300 physical damage\n- Crowd control: Airborne for 0.4 seconds\n\n## Valkyrie Slash\n\nFreya charges forward and slashes, dealing physical damage and slowing enemies by 30% for 0.5 seconds. This skill has no base cooldown but consumes 2 Sacred Orbs per cast. This skill deals 50% damage to creeps.\n\n- Cooldown: 0.4 seconds (orb-gated)\n- Base damage: 150 / 180 / 210 / 240 / 270 / 300 physical damage\n- Slow: 30% for 0.5 seconds\n- Damage to creeps: 50% of normal damage\n- Resource: Consumes 2 Sacred Orbs per cast\n\n## Valkyrie Descent\n\nFreya selects a target area and dives down as a Valkyrie, dealing physical damage and inflicting a 40% slow to enemies in her path and at the landing point for 2 seconds. Upon landing, Freya enters the Valkyrie state for 12 seconds, during which her Basic Attacks deal extra damage and she recovers HP per Basic Attack, and her Basic Attacks deal splash damage.\n\n- Cooldown: 54.0 / 50.0 / 46.0 seconds\n- Base damage: 300 / 425 / 500 physical damage (+ scaling with physical attack)\n- Slow: 40% for 2 seconds\n- Valkyrie state duration: 12 seconds\n- Enhanced Basic Attack range: 3.5\n- Extra Basic Attack damage: 30 / 45 / 60 (cannot critically strike)\n- HP regeneration per Basic Attack: 60 / 90 / 120\n- Additional effect: Basic Attacks deal splash damage in Valkyrie state\n\n# Trivia\n\n- Freya is based on the goddess Freyja, a goddess in Norse mythology. She is associated with love, beauty, fertility, sex, war, death, and magic.\n- Freya's appearance in lore is based on a Valkyrie. Valkyries are female figures who guide the souls of the dead to the god Odin's hall Valhalla.\n- The first-generation Freya is a pay-to-win hero. Additionally, Freya is one of the two heroes, including Odette, that cannot be bought by Battle Points. However, Odette used to be bought by Battle Points back when she was released in 2017. Freya only stayed purchasable with Diamonds up until now. The reason for this is still unknown.\n- Freya's English voice actress also voiced some of the Battlefield Quick Chats.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "bane",
+        "franco",
+        "odette"
+      ],
+      "faction": "Northern Vale",
+      "allies": [],
+      "rivals": [
+        "bane",
+        "franco"
+      ],
+      "family": [
+        "skuld"
+      ],
+      "mentors": [],
+      "factionRole": "Valkyrie",
+      "locationTies": [
+        {
+          "location": "Martyr Shrine",
+          "relationship": "home"
+        },
+        {
+          "location": "Northern Vale",
+          "relationship": "protects"
+        },
+        {
+          "location": "Fighters on the Stormy Sea",
+          "relationship": "battles"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "sacrifice",
+      "destiny",
+      "family"
+    ],
+    "hook": "Devastated by guilt over Skuld’s disappearance into the Twilight Orb, Freya takes up her sister’s weapons and fate, vowing to guard the frozen lands forever.",
+    "teaser": "Once a carefree girl, Freya inherits her vanished sister’s mantle as Valkyrie of Northern Vale, bearing the weight of prophecy, guilt, and a land in peril.",
+    "openingLine": "Valkyries were distinguished and revered fighters among the warlike Northern Vale folks.",
+    "dominantColor": "#2F5B8A",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "valkyries",
+      "prophecy",
+      "sister’s sacrifice",
+      "ancient relic",
+      "Heart of Aurora",
+      "Apocalypse Shard",
+      "guilt",
+      "training to become Valkyrie",
+      "pirate conflict"
+    ],
+    "characterTraits": [
+      "brave",
+      "dutiful",
+      "guilt-ridden",
+      "caring",
+      "resilient",
+      "self-sacrificing"
+    ],
+    "locations": [
+      "Northern Vale",
+      "Martyr Shrine",
+      "Valhalla",
+      "Fighters on the Stormy Sea"
+    ],
+    "wordCount": 588,
+    "readingTimeMinutes": 4,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647183395,
+    "updatedAt": 1764647183395
+  },
+  "lastUpdated": null
+}

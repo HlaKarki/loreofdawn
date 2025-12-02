@@ -18,6 +18,7 @@ export interface WikiResponseComplete {
 			ns: number;
 			title: string;
 			revisions: {
+				timestamp: string;
 				slots: {
 					main: {
 						contentmodel: string;

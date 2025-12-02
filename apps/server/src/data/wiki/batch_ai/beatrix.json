@@ -1,0 +1,158 @@
+{
+  "hero": "beatrix",
+  "urlName": "beatrix",
+  "sections": {
+    "profile": {
+      "markdown": "- **Name:** Beatrix  \n- **Species:** Human  \n- **Gender:** Female  \n- **Occupation:** Eruditio scholar, Scientist, Programmer of *Survival: Nexus*  \n- **Affiliation:** Eruditio, Scholar's Union, Eruditio Rangers, Leviathan Workshop (current residence)  \n- **Weapons:** Renner (sniper rifle), Bennett (rocket launcher), Nibiru (submachine), Wesker (shotgun)  \n- **Battles Fought:** Eruditio Crisis  \n- **Traits:** Conceited, playful, confident, never giving up  \n- **Likes:** Developing weird inventions  \n- **Relationships:** Unnamed parents, Morgan (butler), Dr. Rooney, Octavius (enemy)"
+    },
+    "story": {
+      "markdown": "A year and a half ago, the Scholars' Union of Eruditio welcomed a new student into their ranks. Unlike other newcomers, Beatrix possessed profound knowledge and an astonishing talent for science. She quickly stood out, becoming one of the most promising scholars. Even Dr. Rooney was impressed, believing she could become Eruditio's greatest scientist.\n\nHowever, Beatrix had no ambitions to be the best scientist. She was born in Castle Gorge in the Moniyan Empire to a family of merchants, and her parents often traveled, leaving her in the care of their butler, Morgan. Beatrix’s free-spirited childhood fostered a penchant for mischief, shaping her into a stubborn and capricious individual.\n\nHer interest in technology sparked when her parents brought back advanced gadgets from Eruditio. With Morgan's help, she studied these inventions passionately, quickly building a laboratory and researching technologies and weaponry.\n\nAfter her 16th birthday, Beatrix went to Eruditio to study Leviathan technologies, quickly absorbing knowledge. Her opinions clashed with the Union, and feeling unfairly treated, she left Eruditio, returning home to work on her inventions.\n\nHalf a year later, Beatrix created \"Survival: Nexus,\" a competition using terminals to control avatars with brainwaves. It took Eruditio by storm. However, Laboratory 1718 hacked it, causing chaos with robots in Eruditio.\n\nBeatrix returned to help, defeating the robots and restoring peace to Eruditio. Her efforts earned her a place with Dr. Rooney, and she continued her studies, with Leviathan Workshop no longer closed to her."
+    },
+    "bio": {
+      "markdown": "Beatrix is a brilliant scholar from Eruditio, thriving in her scientific pursuits. She has a playful and confident demeanor, never backing down from challenges. Despite her talent, she faced opposition due to her wild ideas but proved her worth during a crisis in Eruditio. Beatrix maintains close ties with Dr. Rooney and her trusted butler, Morgan, continuing to innovate within Eruditio."
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Mechanical Genius",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Beatrix's talent allows her to wield 4 different weapons, each with unique firing mechanics and damage scaling. The effectiveness scales with her level and stats."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Masterful Gunner",
+        "cooldown": 12,
+        "cost": null,
+        "role": "Morph",
+        "details": {
+          "markdown": "Beatrix can carry 2 weapons and swap between them, altering her attack style and Ultimate based on the equipped weapon."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Tactical Reposition",
+        "cooldown": 8,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Beatrix performs a quick maneuver, repositioning to a better location while reloading her current weapon seamlessly."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Renner's Apathy",
+        "cooldown": 24,
+        "cost": null,
+        "role": "Burst",
+        "details": {
+          "markdown": "Beatrix takes aim with Renner, delivering a powerful shot that can penetrate through targets, dealing significant damage but requiring careful timing."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Beatrix originated from Viatrix, meaning \"Voyager\" or \"Traveler.\""
+      },
+      {
+        "markdown": "Beatrix is said to develop weird inventions as a hobby and is known for being a gifted crack shot."
+      },
+      {
+        "markdown": "Beatrix was born in Castle Gorge within the Moniyan Empire but currently resides in Eruditio."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- **Name:** Beatrix  \n- **Species:** Human  \n- **Gender:** Female  \n- **Occupation:** Eruditio scholar, Scientist, Programmer of *Survival: Nexus*  \n- **Affiliation:** Eruditio, Scholar's Union, Eruditio Rangers, Leviathan Workshop (current residence)  \n- **Weapons:** Renner (sniper rifle), Bennett (rocket launcher), Nibiru (submachine), Wesker (shotgun)  \n- **Battles Fought:** Eruditio Crisis  \n- **Traits:** Conceited, playful, confident, never giving up  \n- **Likes:** Developing weird inventions  \n- **Relationships:** Unnamed parents, Morgan (butler), Dr. Rooney, Octavius (enemy)\n\n# Bio\n\nBeatrix is a brilliant scholar from Eruditio, thriving in her scientific pursuits. She has a playful and confident demeanor, never backing down from challenges. Despite her talent, she faced opposition due to her wild ideas but proved her worth during a crisis in Eruditio. Beatrix maintains close ties with Dr. Rooney and her trusted butler, Morgan, continuing to innovate within Eruditio.\n\n# Story\n\nA year and a half ago, the Scholars' Union of Eruditio welcomed a new student into their ranks. Unlike other newcomers, Beatrix possessed profound knowledge and an astonishing talent for science. She quickly stood out, becoming one of the most promising scholars. Even Dr. Rooney was impressed, believing she could become Eruditio's greatest scientist.\n\nHowever, Beatrix had no ambitions to be the best scientist. She was born in Castle Gorge in the Moniyan Empire to a family of merchants, and her parents often traveled, leaving her in the care of their butler, Morgan. Beatrix’s free-spirited childhood fostered a penchant for mischief, shaping her into a stubborn and capricious individual.\n\nHer interest in technology sparked when her parents brought back advanced gadgets from Eruditio. With Morgan's help, she studied these inventions passionately, quickly building a laboratory and researching technologies and weaponry.\n\nAfter her 16th birthday, Beatrix went to Eruditio to study Leviathan technologies, quickly absorbing knowledge. Her opinions clashed with the Union, and feeling unfairly treated, she left Eruditio, returning home to work on her inventions.\n\nHalf a year later, Beatrix created \"Survival: Nexus,\" a competition using terminals to control avatars with brainwaves. It took Eruditio by storm. However, Laboratory 1718 hacked it, causing chaos with robots in Eruditio.\n\nBeatrix returned to help, defeating the robots and restoring peace to Eruditio. Her efforts earned her a place with Dr. Rooney, and she continued her studies, with Leviathan Workshop no longer closed to her.\n\n# Abilities\n\n## Mechanical Genius\n\nBeatrix's talent allows her to wield 4 different weapons, each with unique firing mechanics and damage scaling. The effectiveness scales with her level and stats.\n\n## Masterful Gunner\n\nBeatrix can carry 2 weapons and swap between them, altering her attack style and Ultimate based on the equipped weapon.\n\n## Tactical Reposition\n\nBeatrix performs a quick maneuver, repositioning to a better location while reloading her current weapon seamlessly.\n\n## Renner's Apathy\n\nBeatrix takes aim with Renner, delivering a powerful shot that can penetrate through targets, dealing significant damage but requiring careful timing.\n\n# Trivia\n\n- The name Beatrix originated from Viatrix, meaning \"Voyager\" or \"Traveler.\"\n- Beatrix is said to develop weird inventions as a hobby and is known for being a gifted crack shot.\n- Beatrix was born in Castle Gorge within the Moniyan Empire but currently resides in Eruditio.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "diggie",
+        "johnson",
+        "layla",
+        "chou",
+        "bruno",
+        "kimmy",
+        "x_borg",
+        "alpha"
+      ],
+      "faction": "Eruditio",
+      "allies": [
+        "dr_rooney"
+      ],
+      "rivals": [
+        "octavius"
+      ],
+      "family": [
+        "morgan"
+      ],
+      "mentors": [],
+      "factionRole": "Programmer",
+      "locationTies": [
+        {
+          "location": "Moniyan Empire",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Eruditio",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic"
+    ],
+    "themes": [
+      "innovation",
+      "conflict"
+    ],
+    "hook": "Beatrix watched on with glee as her prized project dominated over the conservative thinkers of the Scholars' Union. But then, disaster struck.",
+    "teaser": "Brilliant yet capricious, Beatrix's obsession with technology leads her to both revolutionize and imperil the city of Eruditio.",
+    "openingLine": "A year and a half ago, the Scholars' Union of Eruditio welcomed a new student into their ranks.",
+    "dominantColor": "#FFD700",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "scientific talent",
+      "rival faction",
+      "virtual realm",
+      "robot invasion",
+      "city defense"
+    ],
+    "characterTraits": [
+      "playful",
+      "confident",
+      "stubborn",
+      "innovative"
+    ],
+    "locations": [
+      "Eruditio",
+      "Moniyan Empire"
+    ],
+    "wordCount": 498,
+    "readingTimeMinutes": 4,
+    "connectionsCount": 8,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647689424,
+    "updatedAt": 1764647689424
+  },
+  "lastUpdated": null
+}

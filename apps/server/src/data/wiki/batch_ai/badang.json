@@ -1,0 +1,157 @@
+{
+  "hero": "badang",
+  "urlName": "badang",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Tribal Warrior\n\n**Chinese Name:** 巴当 (Bādāng)\n\n**Birthplace:** Solari, Vonetis Islands\n\n**Species:** Human\n\n**Gender:** Male\n\n**Weapons:** Iron fists\n\n**Abilities:** Enhanced fists\n\n**Relationships:** * (companion)\n\n**English VA:** James Flynn\n\n**Japanese VA:** Koji Asano\n\nIsland hero who gained supernatural power after defeating the water monster."
+    },
+    "story": {
+      "markdown": "> \"Island hero who gained supernatural power after defeating the water monster.\"\n\nBorn in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.\n\nLong ago there was a small village, surrounded on all sides by water, which was resting in the southern regions of the Land of Dawn. The villagers were very hardworking, fishing day and night for a living. Among them was a strong man, a mighty warrior, named Badang. It was said that Badang could lift a kart full of firewood, with just one arm. He has a great sense of justice and a heart full of courage.\n\nBadang was known for fighting beasts who seemed a threat to his village. Enthusiastic and brave, he tirelessly helped everyone solve their difficulties in life.\n\nOne day, a strange thing happened in the peaceful village, not long after. The villagers got up early on the day to catch loads of fish. However, in the evening, they returned empty-handed, and even the tools for fishing were broken. Everyone was upset and overcome with panic, thinking it was the curse of a mystical water monster. As food supplies ran low, Badang decided to give them a hand to find out the truth, since he did not believe in the stories of the water monster.\n\nIn the early morning, Badang went out to fish, as usual. He came to the river near the village to set up a fishing trap. He not only placed a lot of fish, but also hid it with a giant fishing net, prepared in advance, trying to find out who or what was causing all this trouble. Shortly after, the river suddenly began to roll, a strange creature lurking within the river appeared next to his trap. Devil-like and fearsome, it began to gobble the fish and destroy his trap. Its eyes were fierce, with long hair and a slimy octopus structure. Badang decisively threw a giant fishing net, trying to trap the monster. However, the monster pierced the fishing net with its giant blade-like teeth and broke free. It constantly attacked him, but the fearless Badang jumped into a battle against this fearsome beast, without any hesitation. The power of this monster was surprisingly strong and Badang's arms were severely injured in the bloody battle. When the beast was about to devour Badang, he used his all his remaining strength and pierced a fishing spear into its eye, and then dragged the monster to the river shore. After leaving the river, the monster gradually lost its moisture and began to dry. It was struggling to breathe. Badang had never seen such a creature and was somewhat surprised at it.\n\nHe noticed a magical gem sparkling within its body. Struggling to speak, the water monster begged Badang to let it go, swearing it was an elf who lived within the river but had suffered a horrible transformation. Once the beast headed to the southern mountains to prey on fishes, it accidentally ate fishes caught by the fisherman, corrupted by hunger and evil energy. As it spoke, Badang kindly freed it off the spear's pain, advising it to seek a pure life. Touched by this kindness, the beast’s body gradually began to change. The water beast began to regurgitate all the fish it had consumed, along with the evil energy. Having returned to its natural state, the water elf deeply appreciated Badang.\n\nAfter that, he blessed Badang with a stream of powerful energy and not only was his injured arms restored but they had become way more overwhelmingly powerful than before. Badang's kind heart drove him to finally let go of the monster. Badang started helping the villagers day and night, whose lives slowly returned to normal. However, Badang couldn't let go of the southern mountains that the monster spoke of. For the safety of his village, Badang was determined to find the source of this evil energy, within the mountains and traveled across the islands, and into the Land of Dawn."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Chivalry Fist",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "After every 4 Basic Attacks, Badang's next Basic Attack deals bonus physical damage to enemies hit and knocks them back. Enemies that are knocked into obstacles will be stunned for 0.6 seconds, while minions and creeps are stunned directly. The fist winds generated by Badang's skills can also trigger this effect.\n\nThis enhanced hit is considered a separate physical basic attack and displacement effect. It can trigger attack effects and benefit from Lifesteal as it is separate from the original Basic Attack, but it cannot critically strike and cannot be triggered twice by the same Basic Attack. Heroes knocked back to a wall are actually stunned for 2 seconds, which is also the case for minions and creeps hit. The dashing speed of the 5th empowered Basic Attack scales with Badang's Attack Speed. Heroes knocked back are moved a distance equal to the position of Badang and the edge of his attack range."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Fist Wind",
+        "cooldown": 10.4,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Badang unleashes a gust of fist wind in the target direction, dealing physical damage to enemies hit, slowing them by 30% for 1.5 seconds, and knocking them back. The fist wind will explode upon hitting an obstacle, dealing additional physical damage to nearby enemies. This attack can trigger attack effects and grants Badang 1 passive stack upon cast. Badang stores up to 2 Fist Wind charges and restores 1 charge periodically.\n\n- Base Damage: 125 / 145 / 165 / 185 / 205 / 225\n- Explosion Damage: 100 / 115 / 130 / 145 / 160 / 175\n- Skill Recharge Time: 10.4 / 9.8 / 9.2 / 8.6 / 8.0 / 7.2\n- Attack Effects: 100%\n\nThe projectile cannot critically strike or benefit from Spell Vamp directly, but it will trigger other Basic Attack effects. The explosion damage, however, can trigger Spell Vamp. The skill can trigger on-hit effects such as Ambush and Divine Justice on cast. The explosion effect is regarded as skill damage and can trigger effects like Deter and benefits from Spell Vamp.\n\nHeroes knocked back to a wall are actually stunned for 2 seconds, including minions and creeps. It can damage turrets if cast inside their range, but the damage dealt is based on the skill's stats, not Badang's Basic Attack stats. Heroes knocked back are moved a distance equal to the position of Badang and the edge of his skill range. The projectile only explodes once even if passing through multiple obstacles. Targets hit by the projectile right before it dissipates only take damage and slow, but are not knocked back nor inflicted with explosion damage."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Fist Break",
+        "cooldown": 9,
+        "cost": null,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Badang dashes in the target direction, dealing physical damage to enemies in his path while gaining a shield that lasts 5 seconds. He stops immediately upon hitting an enemy hero, slightly knocking them back while creating an obstacle that lasts 4 seconds behind them. Enemies hit by the obstacle are dealt additional physical damage.\n\n- Base Shield: 350 / 400 / 450 / 500 / 550 / 600\n- Base Damage: 230 / 250 / 270 / 290 / 310 / 330\n- Explosion Damage: 130 / 140 / 150 / 160 / 170 / 180\n\nBadang will only create an obstacle if he encounters heroes on his way. He will pass through certain displacement or body-swap effects when they are active. Heroes knocked back are moved a distance equal to the position of Badang and the edge of his dash range, but a bit farther than usual. The skill is treated as a physical damage skill, displacement, and has a fixed cooldown."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Fist Crack",
+        "cooldown": 30,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "> \"Fight to protect and persist for benevolence.\"\n\nBadang throws a flurry of punches in the target direction, dealing physical damage to enemies hit 9 times over 2.5 seconds. These hits can trigger attack effects. The fist winds generated by the punches will explode upon hitting an obstacle, dealing additional physical damage to nearby enemies. For the duration, Badang is immune to control effects.\n\n- Base Damage per hit: 60 / 90 / 120\n- Explosion Damage: 30 / 45 / 60\n- Attack Effects: 100%\n\nThe Unique Passive Ambush of certain items triggers on the first hit of this skill. Divine Justice and similar passive effects will trigger on the first hit of this skill only if Badang has already cast another skill prior. This skill can only be cancelled or interrupted by Suppression during the punching sequence.\n\nThe explosion effect is regarded as skill damage and can trigger effects like Deter while benefiting from Spell Vamp. Heroes knocked back to a wall are actually stunned for 2 seconds, which also applies to minions and creeps. It can damage turrets once if cast inside their range, but the damage dealt is based on the skill's stats, not Badang's Basic Attack stats.\n\nHeroes knocked back are moved to the edge of the skill range rather than a set distance. Heroes, minions, and creeps are only knocked back and stunned at the start of the punches. The fist winds only explode once even if passing through multiple obstacles. Targets hit by the fist winds at their very edge only take damage, but are not knocked back, stunned, nor inflicted with explosion damage."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "He is based on Badang, a legendary strongman in Malay legend."
+      },
+      {
+        "markdown": "Badang is the second hero in the game that can manipulate the map's layout, being able to create walls with his skills."
+      },
+      {
+        "markdown": "His Susanoo skin is based on Susanoo-no-Mikoto, a kami who is associated with sea, storms, field, harvest, marriage and love in Japanese mythology."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Tribal Warrior\n\n**Chinese Name:** 巴当 (Bādāng)\n\n**Birthplace:** Solari, Vonetis Islands\n\n**Species:** Human\n\n**Gender:** Male\n\n**Weapons:** Iron fists\n\n**Abilities:** Enhanced fists\n\n**Relationships:** * (companion)\n\n**English VA:** James Flynn\n\n**Japanese VA:** Koji Asano\n\nIsland hero who gained supernatural power after defeating the water monster.\n\n# Story\n\n> \"Island hero who gained supernatural power after defeating the water monster.\"\n\nBorn in the Vonetis Islands off the southern part of the mainland. Originally just an ordinary villager, after defeating the water monster that was harassing the village, he gained huge power from the water monster. After that, Badang set out to the mountains of the southern Moniyan Empire where the Abyss was entrenched, hoping to completely solve the problem of the water source being contaminated by the Abyss.\n\nLong ago there was a small village, surrounded on all sides by water, which was resting in the southern regions of the Land of Dawn. The villagers were very hardworking, fishing day and night for a living. Among them was a strong man, a mighty warrior, named Badang. It was said that Badang could lift a kart full of firewood, with just one arm. He has a great sense of justice and a heart full of courage.\n\nBadang was known for fighting beasts who seemed a threat to his village. Enthusiastic and brave, he tirelessly helped everyone solve their difficulties in life.\n\nOne day, a strange thing happened in the peaceful village, not long after. The villagers got up early on the day to catch loads of fish. However, in the evening, they returned empty-handed, and even the tools for fishing were broken. Everyone was upset and overcome with panic, thinking it was the curse of a mystical water monster. As food supplies ran low, Badang decided to give them a hand to find out the truth, since he did not believe in the stories of the water monster.\n\nIn the early morning, Badang went out to fish, as usual. He came to the river near the village to set up a fishing trap. He not only placed a lot of fish, but also hid it with a giant fishing net, prepared in advance, trying to find out who or what was causing all this trouble. Shortly after, the river suddenly began to roll, a strange creature lurking within the river appeared next to his trap. Devil-like and fearsome, it began to gobble the fish and destroy his trap. Its eyes were fierce, with long hair and a slimy octopus structure. Badang decisively threw a giant fishing net, trying to trap the monster. However, the monster pierced the fishing net with its giant blade-like teeth and broke free. It constantly attacked him, but the fearless Badang jumped into a battle against this fearsome beast, without any hesitation. The power of this monster was surprisingly strong and Badang's arms were severely injured in the bloody battle. When the beast was about to devour Badang, he used his all his remaining strength and pierced a fishing spear into its eye, and then dragged the monster to the river shore. After leaving the river, the monster gradually lost its moisture and began to dry. It was struggling to breathe. Badang had never seen such a creature and was somewhat surprised at it.\n\nHe noticed a magical gem sparkling within its body. Struggling to speak, the water monster begged Badang to let it go, swearing it was an elf who lived within the river but had suffered a horrible transformation. Once the beast headed to the southern mountains to prey on fishes, it accidentally ate fishes caught by the fisherman, corrupted by hunger and evil energy. As it spoke, Badang kindly freed it off the spear's pain, advising it to seek a pure life. Touched by this kindness, the beast’s body gradually began to change. The water beast began to regurgitate all the fish it had consumed, along with the evil energy. Having returned to its natural state, the water elf deeply appreciated Badang.\n\nAfter that, he blessed Badang with a stream of powerful energy and not only was his injured arms restored but they had become way more overwhelmingly powerful than before. Badang's kind heart drove him to finally let go of the monster. Badang started helping the villagers day and night, whose lives slowly returned to normal. However, Badang couldn't let go of the southern mountains that the monster spoke of. For the safety of his village, Badang was determined to find the source of this evil energy, within the mountains and traveled across the islands, and into the Land of Dawn.\n\n# Abilities\n\n## Chivalry Fist\n\nAfter every 4 Basic Attacks, Badang's next Basic Attack deals bonus physical damage to enemies hit and knocks them back. Enemies that are knocked into obstacles will be stunned for 0.6 seconds, while minions and creeps are stunned directly. The fist winds generated by Badang's skills can also trigger this effect.\n\nThis enhanced hit is considered a separate physical basic attack and displacement effect. It can trigger attack effects and benefit from Lifesteal as it is separate from the original Basic Attack, but it cannot critically strike and cannot be triggered twice by the same Basic Attack. Heroes knocked back to a wall are actually stunned for 2 seconds, which is also the case for minions and creeps hit. The dashing speed of the 5th empowered Basic Attack scales with Badang's Attack Speed. Heroes knocked back are moved a distance equal to the position of Badang and the edge of his attack range.\n\n## Fist Wind\n\nBadang unleashes a gust of fist wind in the target direction, dealing physical damage to enemies hit, slowing them by 30% for 1.5 seconds, and knocking them back. The fist wind will explode upon hitting an obstacle, dealing additional physical damage to nearby enemies. This attack can trigger attack effects and grants Badang 1 passive stack upon cast. Badang stores up to 2 Fist Wind charges and restores 1 charge periodically.\n\n- Base Damage: 125 / 145 / 165 / 185 / 205 / 225\n- Explosion Damage: 100 / 115 / 130 / 145 / 160 / 175\n- Skill Recharge Time: 10.4 / 9.8 / 9.2 / 8.6 / 8.0 / 7.2\n- Attack Effects: 100%\n\nThe projectile cannot critically strike or benefit from Spell Vamp directly, but it will trigger other Basic Attack effects. The explosion damage, however, can trigger Spell Vamp. The skill can trigger on-hit effects such as Ambush and Divine Justice on cast. The explosion effect is regarded as skill damage and can trigger effects like Deter and benefits from Spell Vamp.\n\nHeroes knocked back to a wall are actually stunned for 2 seconds, including minions and creeps. It can damage turrets if cast inside their range, but the damage dealt is based on the skill's stats, not Badang's Basic Attack stats. Heroes knocked back are moved a distance equal to the position of Badang and the edge of his skill range. The projectile only explodes once even if passing through multiple obstacles. Targets hit by the projectile right before it dissipates only take damage and slow, but are not knocked back nor inflicted with explosion damage.\n\n## Fist Break\n\nBadang dashes in the target direction, dealing physical damage to enemies in his path while gaining a shield that lasts 5 seconds. He stops immediately upon hitting an enemy hero, slightly knocking them back while creating an obstacle that lasts 4 seconds behind them. Enemies hit by the obstacle are dealt additional physical damage.\n\n- Base Shield: 350 / 400 / 450 / 500 / 550 / 600\n- Base Damage: 230 / 250 / 270 / 290 / 310 / 330\n- Explosion Damage: 130 / 140 / 150 / 160 / 170 / 180\n\nBadang will only create an obstacle if he encounters heroes on his way. He will pass through certain displacement or body-swap effects when they are active. Heroes knocked back are moved a distance equal to the position of Badang and the edge of his dash range, but a bit farther than usual. The skill is treated as a physical damage skill, displacement, and has a fixed cooldown.\n\n## Fist Crack\n\n> \"Fight to protect and persist for benevolence.\"\n\nBadang throws a flurry of punches in the target direction, dealing physical damage to enemies hit 9 times over 2.5 seconds. These hits can trigger attack effects. The fist winds generated by the punches will explode upon hitting an obstacle, dealing additional physical damage to nearby enemies. For the duration, Badang is immune to control effects.\n\n- Base Damage per hit: 60 / 90 / 120\n- Explosion Damage: 30 / 45 / 60\n- Attack Effects: 100%\n\nThe Unique Passive Ambush of certain items triggers on the first hit of this skill. Divine Justice and similar passive effects will trigger on the first hit of this skill only if Badang has already cast another skill prior. This skill can only be cancelled or interrupted by Suppression during the punching sequence.\n\nThe explosion effect is regarded as skill damage and can trigger effects like Deter while benefiting from Spell Vamp. Heroes knocked back to a wall are actually stunned for 2 seconds, which also applies to minions and creeps. It can damage turrets once if cast inside their range, but the damage dealt is based on the skill's stats, not Badang's Basic Attack stats.\n\nHeroes knocked back are moved to the edge of the skill range rather than a set distance. Heroes, minions, and creeps are only knocked back and stunned at the start of the punches. The fist winds only explode once even if passing through multiple obstacles. Targets hit by the fist winds at their very edge only take damage, but are not knocked back, stunned, nor inflicted with explosion damage.\n\n# Trivia\n\n- He is based on Badang, a legendary strongman in Malay legend.\n- Badang is the second hero in the game that can manipulate the map's layout, being able to create walls with his skills.\n- His Susanoo skin is based on Susanoo-no-Mikoto, a kami who is associated with sea, storms, field, harvest, marriage and love in Japanese mythology.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "grock",
+        "guinevere",
+        "sun",
+        "hanzo"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Warrior",
+      "locationTies": [
+        {
+          "location": "Vonetis Islands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic"
+    ],
+    "themes": [
+      "power",
+      "justice"
+    ],
+    "hook": "Born an ordinary island villager, Badang gained overwhelming power from a cursed water monster and now hunts the source of the evil tainting his homeland.",
+    "teaser": "A village’s last hope defeats a corrupted river beast and gains its might, then journeys into the southern mountains to confront the Abyss poisoning his world.",
+    "openingLine": "Long ago there was a small village, surrounded on all sides by water, which was resting in the southern regions of the Land of Dawn.",
+    "dominantColor": "#0F7EB3",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "island village",
+      "water monster",
+      "cursed transformation",
+      "magical gem",
+      "gifted strength",
+      "abyssal corruption",
+      "journey into mountains"
+    ],
+    "characterTraits": [
+      "brave",
+      "just",
+      "kind",
+      "selfless",
+      "determined"
+    ],
+    "locations": [
+      "Vonetis Islands",
+      "Land of Dawn",
+      "Moniyan Empire",
+      "southern mountains"
+    ],
+    "wordCount": 1679,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 4,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647032669,
+    "updatedAt": 1764647032669
+  },
+  "lastUpdated": null
+}

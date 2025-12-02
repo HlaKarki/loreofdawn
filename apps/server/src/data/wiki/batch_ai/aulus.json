@@ -1,0 +1,198 @@
+{
+  "hero": "aulus",
+  "urlName": "aulus",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Warrior of Ferocity\n\n**Origin:** Lantis Mountain, The Barren Lands\n\n**Species:** Leonin\n\n**Gender:** Male\n\n**Weapon:** War Axe\n\n> \"A Leonin warrior that fights to prove himself.\""
+    },
+    "story": {
+      "markdown": "Aulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe. To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats. But as a Leonin, all he ever faced was prejudice and injustice from the world.\n\nNo longer able to bear it, Aulus headed toward the Lantis Mountains alone to hunt demons. Here, his strong rage awoke the slumbering battleaxe and henceforth they fought side by side to prove themselves, and the power of Leonins."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Forgotten Battleaxe",
+          "content": {
+            "markdown": "In Aulus’ home stored a powerful battleaxe long forgotten by the Leonins. Legend has it that this battleaxe had fought alongside their ancestors and achieved countless feats, and within it lied great power. But after a century of peace and security, this weapon of war was gradually ignored and despised by the Leonins, and even worse, it became a farming tool used to chop firewood.\n\nBut unlike his people, Aulus had been wishing that one day he’d become a respected warrior, like his ancestors as they held their battleaxe and fought valiantly on the battlefield. And yet the battleaxe in his home was no different than an ordinary axe, and holding it felt like holding a large chunk of iron with its unusually heavy weight.\n\nEven so, Aulus firmly believed in the legend of the battleaxe and carried it with him wherever he went. Every time he patrolled the Leonins’ territory with his battleaxe, he felt the axe looked a bit mightier and he was one step closer to achieving his dream. Therefore, Aulus patrolled like a warrior every day without failing, come what may.\n\nHowever, the other Leonins laughed at him for his daily patrol, saying that Aulus was as plain ordinary as his axe and yet always daydreaming of being a legendary hero, only it was under the protection of the magic barrier. Seeing that his dream and ancestors’ honor was brought down and crushed, Aulus could bear no more and beat the Leonin who humiliated him, and his own people had since feared and alienated him.\n\nAulus saw that instead of solving the problem, his rage further aggravated their misunderstandings, so he made the decision to leave the forest and go on an adventure with his battleaxe, to prove himself with great feats."
+          }
+        },
+        {
+          "title": "Prejudice of the Outside World",
+          "content": {
+            "markdown": "Aulus suppressed his hot temper, trying to blend into the human society and look for opportunities to achieve his dream. But to his surprise, the outside world had lots of prejudices against the Leonins.\n\nOnce Aulus wanted to follow the caravans to the Moniyan Empire and join the army, but the caravan leader said the small Leonins were better suited being jesters in the palace, instead of going to the battles. Aulus thus went north to Northern Vale, but they only hire him to clean up the battlefield. And when he finally had a chance to fight with the army, another soldier rubbed Aulus’ ear and said he reminded him of his cute kitten at home…\n\nAll of this enraged Aulus, but he put up with it. He kept honing his battle skills and rushed to the frontline without fear, hoping that he’d one day be recognized at the triumphant ceremony. Yet on the ceremony he’d long been waiting for, the general gave the honor that should belong to Aulus to a rookie soldier. Aulus could bear it no longer and questioned him, and to his surprise, the drunk general answered honestly that he didn’t think a Leonin deserved to lead humans.\n\nNo longer could Aulus tolerate all these prejudices. He left the camp overnight and headed to the Lantis Mountains with only one goal in mind – he would fight the demons to prove that a Leonin could become a great warrior too."
+          }
+        },
+        {
+          "title": "Awakening of the Axe",
+          "content": {
+            "markdown": "Alone on the Lantis Mountains, Aulus faced a much more dangerous challenge than ever before. Standing in front of swarms of evil demons, he could no longer hold back the burning rage inside. After the lonesome, persistent journey full of his own people’s taunts, other races’ prejudices and the unfairness of the world, all the emotions he’d suppressed poured out into his battle with the demons.\n\nStrike after strike, the dark and dull battleaxe began to emit a glowing light as written in the legend – Aulus’ indomitable rage awoke the battleaxe that had been in slumber for a century!\n\nAt that moment, Aulus felt power surging into both of his hands and the battleaxe was no longer heavy like iron. Surprised, he found the battleaxe alive and could keep enhancing as his rage increased. Aulus was beyond elated, and as if responding to his emotions, the battleaxe grew even brighter. They fought side by side and faced no opponent, the demons all turning into dust under the powerful axe before they could even flee.\n\nOn the Lantis Mountains, another group were also fighting to prove their powers – Benedetta and her ranger squad, and Aulus joined them without much hesitation. He believed that through battles, he’d become a respected warrior one day. At this time, he’d no longer be fighting for himself, but to prove his strength to the whole Land of Dawn and to crush people’s prejudices against the Leonins."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Fighting Spirit",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "A war axe that fights more fiercely as the battle continues.\n\nAulus adds a stack of Fighting Spirit to his axe per second for 3 seconds after dealing damage to any enemy, up to 4 stacks. Each stack grants 9-15% extra Attack Speed and 1-4 Physical Penetration, scaling with level.\n\nAt max Fighting Spirit stacks, Aulus also gains:\n\n- 10% extra Movement Speed\n- 42-210 extra Basic Attack Damage, scaling with level\n\nLevel scaling details:\n\n- Extra Physical Attack: 3 / 6 / 9 / 12\n- Physical Penetration: 1 / 2 / 3 / 4"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Aulus, Charge!",
+        "cooldown": 16,
+        "cost": 50,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Aulus removes all slow effects and gains extra durability while charging into battle.\n\nHe removes all slow effects and gains 30-50% extra Movement Speed and 20-50% Damage Reduction against attacks from the front for 5 seconds.\n\nCooldown by level: 16.0 / 15.6 / 15.2 / 14.8 / 14.4 / 14.0 seconds\n\nMana cost by level: 50 / 55 / 60 / 65 / 70 / 75\n\nMovement Speed bonus by level:\n\n- 30% / 34% / 38% / 42% / 46% / 50%\n\nDamage Reduction by level:\n\n- 30% / 34% / 38% / 42% / 46% / 50%"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "The Power of Axe",
+        "cooldown": 5,
+        "cost": 40,
+        "role": "Damage",
+        "details": {
+          "markdown": "Aulus brandishes his axe, dealing damage to enemies in a fan-shaped area and empowering his Basic Attacks.\n\nHe swings his axe in a fan-shaped area, dealing physical damage based on level and Physical Attack to all enemies hit. After hitting enemy heroes or Creeps, his next Basic Attacks are enhanced for 3 seconds. Aulus recovers HP by 50-100 per enhanced Basic Attack.\n\nCooldown: 5.0 seconds\n\nMana cost by level: 40 / 46 / 52 / 58 / 64 / 70\n\nBase damage by level:\n\n- 150 / 230 / 310 / 390 / 470 / 550\n\nAttack Speed boost by level:\n\n- 100% / 120% / 140% / 160% / 180% / 200%"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Undying Fury",
+        "cooldown": 50,
+        "cost": 150,
+        "role": "Damage",
+        "details": {
+          "markdown": "Every time Undying Fury is upgraded, Aulus crafts a part for his axe in order.\n\n- Permanently increases his Basic Attacks' Physical Damage by 50.\n- Permanently increases his Attack Range by 65% and the range of The Power of Axe.\n- Permanently increases his Physical Penetration by 20%.\n\nActive: Aulus raises his axe and smashes it to the ground, dealing physical damage in a line and slowing enemies by 90% for 0.5 seconds. A burning trail that lasts for 5 seconds is left on the ground, dealing sustained physical damage to enemies who walk on it every 0.5 seconds and slowing them by 70%.\n\nCooldown by level: 50.0 / 45.0 / 40.0 seconds\n\nMana cost by level: 150 / 180 / 210\n\nBase damage by level:\n\n- 210 / 250 / 290\n\nSustained damage by level:\n\n- 90 / 110 / 130"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "He is the 3rd Leonin to be introduced in the game along with Nana and Harith."
+      },
+      {
+        "markdown": "He speaks in a Scottish accent."
+      },
+      {
+        "markdown": "The item War Axe is his weapon. If you sell War Axe in game, he will quote *\"Goodbye old friend\"*."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Warrior of Ferocity\n\n**Origin:** Lantis Mountain, The Barren Lands\n\n**Species:** Leonin\n\n**Gender:** Male\n\n**Weapon:** War Axe\n\n> \"A Leonin warrior that fights to prove himself.\"\n\n# Story\n\nAulus longed to become a warrior, and for that, the other Leonins had taunted him and his battleaxe. To prove his powers, Aulus held back his rage, left his clan, and went on a journey to achieve great feats. But as a Leonin, all he ever faced was prejudice and injustice from the world.\n\nNo longer able to bear it, Aulus headed toward the Lantis Mountains alone to hunt demons. Here, his strong rage awoke the slumbering battleaxe and henceforth they fought side by side to prove themselves, and the power of Leonins.\n\n# Side Story\n\n## Forgotten Battleaxe\n\nIn Aulus’ home stored a powerful battleaxe long forgotten by the Leonins. Legend has it that this battleaxe had fought alongside their ancestors and achieved countless feats, and within it lied great power. But after a century of peace and security, this weapon of war was gradually ignored and despised by the Leonins, and even worse, it became a farming tool used to chop firewood.\n\nBut unlike his people, Aulus had been wishing that one day he’d become a respected warrior, like his ancestors as they held their battleaxe and fought valiantly on the battlefield. And yet the battleaxe in his home was no different than an ordinary axe, and holding it felt like holding a large chunk of iron with its unusually heavy weight.\n\nEven so, Aulus firmly believed in the legend of the battleaxe and carried it with him wherever he went. Every time he patrolled the Leonins’ territory with his battleaxe, he felt the axe looked a bit mightier and he was one step closer to achieving his dream. Therefore, Aulus patrolled like a warrior every day without failing, come what may.\n\nHowever, the other Leonins laughed at him for his daily patrol, saying that Aulus was as plain ordinary as his axe and yet always daydreaming of being a legendary hero, only it was under the protection of the magic barrier. Seeing that his dream and ancestors’ honor was brought down and crushed, Aulus could bear no more and beat the Leonin who humiliated him, and his own people had since feared and alienated him.\n\nAulus saw that instead of solving the problem, his rage further aggravated their misunderstandings, so he made the decision to leave the forest and go on an adventure with his battleaxe, to prove himself with great feats.\n\n## Prejudice of the Outside World\n\nAulus suppressed his hot temper, trying to blend into the human society and look for opportunities to achieve his dream. But to his surprise, the outside world had lots of prejudices against the Leonins.\n\nOnce Aulus wanted to follow the caravans to the Moniyan Empire and join the army, but the caravan leader said the small Leonins were better suited being jesters in the palace, instead of going to the battles. Aulus thus went north to Northern Vale, but they only hire him to clean up the battlefield. And when he finally had a chance to fight with the army, another soldier rubbed Aulus’ ear and said he reminded him of his cute kitten at home…\n\nAll of this enraged Aulus, but he put up with it. He kept honing his battle skills and rushed to the frontline without fear, hoping that he’d one day be recognized at the triumphant ceremony. Yet on the ceremony he’d long been waiting for, the general gave the honor that should belong to Aulus to a rookie soldier. Aulus could bear it no longer and questioned him, and to his surprise, the drunk general answered honestly that he didn’t think a Leonin deserved to lead humans.\n\nNo longer could Aulus tolerate all these prejudices. He left the camp overnight and headed to the Lantis Mountains with only one goal in mind – he would fight the demons to prove that a Leonin could become a great warrior too.\n\n## Awakening of the Axe\n\nAlone on the Lantis Mountains, Aulus faced a much more dangerous challenge than ever before. Standing in front of swarms of evil demons, he could no longer hold back the burning rage inside. After the lonesome, persistent journey full of his own people’s taunts, other races’ prejudices and the unfairness of the world, all the emotions he’d suppressed poured out into his battle with the demons.\n\nStrike after strike, the dark and dull battleaxe began to emit a glowing light as written in the legend – Aulus’ indomitable rage awoke the battleaxe that had been in slumber for a century!\n\nAt that moment, Aulus felt power surging into both of his hands and the battleaxe was no longer heavy like iron. Surprised, he found the battleaxe alive and could keep enhancing as his rage increased. Aulus was beyond elated, and as if responding to his emotions, the battleaxe grew even brighter. They fought side by side and faced no opponent, the demons all turning into dust under the powerful axe before they could even flee.\n\nOn the Lantis Mountains, another group were also fighting to prove their powers – Benedetta and her ranger squad, and Aulus joined them without much hesitation. He believed that through battles, he’d become a respected warrior one day. At this time, he’d no longer be fighting for himself, but to prove his strength to the whole Land of Dawn and to crush people’s prejudices against the Leonins.\n\n# Abilities\n\n## Fighting Spirit\n\nA war axe that fights more fiercely as the battle continues.\n\nAulus adds a stack of Fighting Spirit to his axe per second for 3 seconds after dealing damage to any enemy, up to 4 stacks. Each stack grants 9-15% extra Attack Speed and 1-4 Physical Penetration, scaling with level.\n\nAt max Fighting Spirit stacks, Aulus also gains:\n\n- 10% extra Movement Speed\n- 42-210 extra Basic Attack Damage, scaling with level\n\nLevel scaling details:\n\n- Extra Physical Attack: 3 / 6 / 9 / 12\n- Physical Penetration: 1 / 2 / 3 / 4\n\n## Aulus, Charge!\n\nAulus removes all slow effects and gains extra durability while charging into battle.\n\nHe removes all slow effects and gains 30-50% extra Movement Speed and 20-50% Damage Reduction against attacks from the front for 5 seconds.\n\nCooldown by level: 16.0 / 15.6 / 15.2 / 14.8 / 14.4 / 14.0 seconds\n\nMana cost by level: 50 / 55 / 60 / 65 / 70 / 75\n\nMovement Speed bonus by level:\n\n- 30% / 34% / 38% / 42% / 46% / 50%\n\nDamage Reduction by level:\n\n- 30% / 34% / 38% / 42% / 46% / 50%\n\n## The Power of Axe\n\nAulus brandishes his axe, dealing damage to enemies in a fan-shaped area and empowering his Basic Attacks.\n\nHe swings his axe in a fan-shaped area, dealing physical damage based on level and Physical Attack to all enemies hit. After hitting enemy heroes or Creeps, his next Basic Attacks are enhanced for 3 seconds. Aulus recovers HP by 50-100 per enhanced Basic Attack.\n\nCooldown: 5.0 seconds\n\nMana cost by level: 40 / 46 / 52 / 58 / 64 / 70\n\nBase damage by level:\n\n- 150 / 230 / 310 / 390 / 470 / 550\n\nAttack Speed boost by level:\n\n- 100% / 120% / 140% / 160% / 180% / 200%\n\n## Undying Fury\n\nEvery time Undying Fury is upgraded, Aulus crafts a part for his axe in order.\n\n- Permanently increases his Basic Attacks' Physical Damage by 50.\n- Permanently increases his Attack Range by 65% and the range of The Power of Axe.\n- Permanently increases his Physical Penetration by 20%.\n\nActive: Aulus raises his axe and smashes it to the ground, dealing physical damage in a line and slowing enemies by 90% for 0.5 seconds. A burning trail that lasts for 5 seconds is left on the ground, dealing sustained physical damage to enemies who walk on it every 0.5 seconds and slowing them by 70%.\n\nCooldown by level: 50.0 / 45.0 / 40.0 seconds\n\nMana cost by level: 150 / 180 / 210\n\nBase damage by level:\n\n- 210 / 250 / 290\n\nSustained damage by level:\n\n- 90 / 110 / 130\n\n# Trivia\n\n- He is the 3rd Leonin to be introduced in the game along with Nana and Harith.\n- He speaks in a Scottish accent.\n- The item War Axe is his weapon. If you sell War Axe in game, he will quote *\"Goodbye old friend\"*.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "benedetta",
+        "nana",
+        "harith",
+        "brody",
+        "phoveus",
+        "thamuz"
+      ],
+      "faction": null,
+      "allies": [
+        "benedetta"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Lantis Mountain",
+          "relationship": "home"
+        },
+        {
+          "location": "The Barren Lands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "visited"
+        },
+        {
+          "location": "Northern Vale",
+          "relationship": "visited"
+        },
+        {
+          "location": "Lantis Mountains",
+          "relationship": "protects"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "protects"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "triumphant"
+    ],
+    "themes": [
+      "prejudice",
+      "power",
+      "destiny"
+    ],
+    "hook": "After a lifetime of taunts and prejudice, Aulus’ suppressed rage finally awakens the legendary axe of his ancestors, turning a despised Leonin into a living storm of war.",
+    "teaser": "Mocked by his own kind and scorned by humans, Aulus walks alone into demon-infested mountains, where his boundless fury stirs an ancestral weapon back to life.",
+    "openingLine": "In Aulus’ home stored a powerful battleaxe long forgotten by the Leonins.",
+    "dominantColor": "#C06030",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 3,
+    "chapterTitles": [
+      "Forgotten Battleaxe",
+      "Prejudice of the Outside World",
+      "Awakening of the Axe"
+    ],
+    "plotKeywords": [
+      "ancestral weapon",
+      "racial prejudice",
+      "quest for recognition",
+      "demon hunting",
+      "weapon awakening",
+      "Leonin discrimination"
+    ],
+    "characterTraits": [
+      "determined",
+      "hot-tempered",
+      "proud",
+      "resilient",
+      "idealistic"
+    ],
+    "locations": [
+      "Lantis Mountain",
+      "The Barren Lands",
+      "Moniyan Empire",
+      "Northern Vale",
+      "Lantis Mountains",
+      "Land of Dawn"
+    ],
+    "wordCount": 1394,
+    "readingTimeMinutes": 10,
+    "connectionsCount": 6,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647033120,
+    "updatedAt": 1764647033120
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,151 @@
+{
+  "hero": "cyclops",
+  "urlName": "cyclops",
+  "sections": {
+    "profile": {
+      "markdown": "- Chinese name: 奇乐乐 (qílèlè)\n- Alias: Starsoul Magician\n- Species: Cyclops\n- Gender: Male"
+    },
+    "story": {
+      "markdown": "To the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame. As Cyclops grew up, he turned out to be much different from other Giants, not only was he small in proportion, but also was he unique. As such, unlike the other Giants, he couldn't really rely on brute force.\n\nHowever, Cyclops was obsessed with stars and skies since he was little. He would gaze at the skies all day and night and consequently, he discovered the truth, that planets were always under orbital motion. And he also realized that this kind of movements contained unbelievable magical power. With an hourglass to load and control this kind of power, he became the famous \"Starsoul Magician\" of his homeland, granting him the ability to travel between space. Planetary motion would never stop, hence making Cyclops extremely powerful and invincible. Unfortunately, this realization made him feel quite lonely.\n\nOne day, during one of Cyclops's space travels, he arrived at the Land of Dawn and found, much to his surprise, that there were many strong opponents, waiting for him to defeat. Cyclops believed that where he went and what he saw, he would conquer. With the powerful magical powers of planetary motion, by his side, Cyclops ventured into the Land of Dawn, deciding that he'd bring down his name as one of the greatest heroes, that there ever was."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Starlit Hourglass",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Each time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5 seconds."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Stardust Shock",
+        "cooldown": 9,
+        "cost": 100,
+        "role": "Damage",
+        "details": {
+          "markdown": "Cyclops casts two Stardust Disks, each dealing magic damage to enemies in its path.\n\n- Base magic damage: 275 / 300 / 325 / 350 / 375 / 400\n- Spell vamp ratio: 50%\n- Mana cost: 100\n- Cooldown: 9 seconds"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Planets Attack",
+        "cooldown": 14,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Cyclops conjures Starlit Spheres around himself while gaining 30% Movement Speed for 2 seconds. The spheres will automatically seek and attack nearby enemies (prioritizes enemy heroes), exploding on collision and dealing magic damage to the enemy. Enemies hit by multiple spheres will take reduced damage after the first hit.\n\n- Base magic damage per sphere: 200 / 230 / 260 / 290 / 320 / 350\n- Movement Speed bonus: 30% for 2 seconds\n- Cooldown: 14 / 13.5 / 13 / 12.5 / 11 / 10.5 seconds\n- Mana cost: 60 / 66 / 72 / 78 / 84 / 90\n- Spell vamp ratio: 125%"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Star Power Lockdown",
+        "cooldown": 43,
+        "cost": 160,
+        "role": "Control",
+        "details": {
+          "markdown": "Cyclops creates a Planetary Sphere and sends it after target enemy hero or Creep, dealing magic damage and immobilizing them for 1–2 seconds (duration increases with travel distance).\n\n- Base magic damage: 500 / 715 / 880\n- Immobilize duration: 1–2 seconds, based on travel distance\n- Cooldown: 43 seconds\n- Mana cost: 160 / 180 / 200"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Cyclops is named after the one-eyed giants from Greek mythology."
+      },
+      {
+        "markdown": "The term \"Dwarf-Giant\" is a size description used in astronomy to describe the size of a star. \"Dwarf-Giant\" refers to a star that is small compared to a normal star. This term can be used metaphorically to describe Cyclops as a dwarf, indicating that he is small compared to a normal Cyclops."
+      },
+      {
+        "markdown": "The item \"Concentrated Energy\" used to be related to Cyclops' lore. In his splash art, you can see Cyclops holding this swirling energy, which is actually a gem causing destruction. After sealing it, the gem is now contained and called \"Concentrated Energy\"."
+      },
+      {
+        "markdown": "He is the only mage in MLBB who doesn’t rely on mana management, as his passive reduces cooldowns instead of using energy."
+      },
+      {
+        "markdown": "His skill names (Stardust Shock, Planets Attack, Star Power Lockdown) all relate to space and celestial bodies."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Chinese name: 奇乐乐 (qílèlè)\n- Alias: Starsoul Magician\n- Species: Cyclops\n- Gender: Male\n\n# Story\n\nTo the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame. As Cyclops grew up, he turned out to be much different from other Giants, not only was he small in proportion, but also was he unique. As such, unlike the other Giants, he couldn't really rely on brute force.\n\nHowever, Cyclops was obsessed with stars and skies since he was little. He would gaze at the skies all day and night and consequently, he discovered the truth, that planets were always under orbital motion. And he also realized that this kind of movements contained unbelievable magical power. With an hourglass to load and control this kind of power, he became the famous \"Starsoul Magician\" of his homeland, granting him the ability to travel between space. Planetary motion would never stop, hence making Cyclops extremely powerful and invincible. Unfortunately, this realization made him feel quite lonely.\n\nOne day, during one of Cyclops's space travels, he arrived at the Land of Dawn and found, much to his surprise, that there were many strong opponents, waiting for him to defeat. Cyclops believed that where he went and what he saw, he would conquer. With the powerful magical powers of planetary motion, by his side, Cyclops ventured into the Land of Dawn, deciding that he'd bring down his name as one of the greatest heroes, that there ever was.\n\n# Abilities\n\n## Starlit Hourglass\n\nEach time Cyclops hits an enemy with his skills, all his skill cooldowns are reduced by 0.5 seconds.\n\n## Stardust Shock\n\nCyclops casts two Stardust Disks, each dealing magic damage to enemies in its path.\n\n- Base magic damage: 275 / 300 / 325 / 350 / 375 / 400\n- Spell vamp ratio: 50%\n- Mana cost: 100\n- Cooldown: 9 seconds\n\n## Planets Attack\n\nCyclops conjures Starlit Spheres around himself while gaining 30% Movement Speed for 2 seconds. The spheres will automatically seek and attack nearby enemies (prioritizes enemy heroes), exploding on collision and dealing magic damage to the enemy. Enemies hit by multiple spheres will take reduced damage after the first hit.\n\n- Base magic damage per sphere: 200 / 230 / 260 / 290 / 320 / 350\n- Movement Speed bonus: 30% for 2 seconds\n- Cooldown: 14 / 13.5 / 13 / 12.5 / 11 / 10.5 seconds\n- Mana cost: 60 / 66 / 72 / 78 / 84 / 90\n- Spell vamp ratio: 125%\n\n## Star Power Lockdown\n\nCyclops creates a Planetary Sphere and sends it after target enemy hero or Creep, dealing magic damage and immobilizing them for 1–2 seconds (duration increases with travel distance).\n\n- Base magic damage: 500 / 715 / 880\n- Immobilize duration: 1–2 seconds, based on travel distance\n- Cooldown: 43 seconds\n- Mana cost: 160 / 180 / 200\n\n# Trivia\n\n- Cyclops is named after the one-eyed giants from Greek mythology.\n- The term \"Dwarf-Giant\" is a size description used in astronomy to describe the size of a star. \"Dwarf-Giant\" refers to a star that is small compared to a normal star. This term can be used metaphorically to describe Cyclops as a dwarf, indicating that he is small compared to a normal Cyclops.\n- The item \"Concentrated Energy\" used to be related to Cyclops' lore. In his splash art, you can see Cyclops holding this swirling energy, which is actually a gem causing destruction. After sealing it, the gem is now contained and called \"Concentrated Energy\".\n- He is the only mage in MLBB who doesn’t rely on mana management, as his passive reduces cooldowns instead of using energy.\n- His skill names (Stardust Shock, Planets Attack, Star Power Lockdown) all relate to space and celestial bodies.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [],
+      "faction": null,
+      "allies": [],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        },
+        {
+          "location": "Land of the Giants",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "power",
+      "loneliness",
+      "destiny"
+    ],
+    "hook": "With the endless motion of the planets fueling his magic, Cyclops became nearly invincible—yet the power that set him apart left him utterly alone.",
+    "teaser": "A one-eyed dwarf-giant harnesses the endless motion of the stars to roam space, seeking worthy foes in the Land of Dawn to etch his name into legend.",
+    "openingLine": "To the far east of the Land of Dawn, lies the unexplored Land of the Giants, home to Cyclops, a one-eyed dwarf-giant, with a surprisingly tiny frame.",
+    "dominantColor": "#3B4A93",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "Land of the Giants",
+      "space travel",
+      "planetary magic",
+      "search for strong opponents",
+      "Starsoul Magician"
+    ],
+    "characterTraits": [
+      "curious",
+      "ambitious",
+      "lonely",
+      "confident",
+      "unique"
+    ],
+    "locations": [
+      "Land of Dawn",
+      "Land of the Giants"
+    ],
+    "wordCount": 625,
+    "readingTimeMinutes": 5,
+    "connectionsCount": 0,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646992035,
+    "updatedAt": 1764646992035
+  },
+  "lastUpdated": null
+}

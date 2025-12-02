@@ -1,0 +1,198 @@
+{
+  "hero": "mathilda",
+  "urlName": "mathilda",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Swift Plume\n\n**Origin:** Los Pecados, Agelta Drylands\n\n**Species:** Human\n\n**Gender:** Female\n\nShe was released as a part of the Blazing Bounties event. Players had a chance to redeem the hero for free for a limited time."
+    },
+    "story": {
+      "markdown": "> \"A brave girl who stands up and doesn't fear power\"\n\nThe tribe where Mathilda lives has guarded the Holy Mountain for generations. Once, members of the tribe rescued a group of sand hunters under Kane, but unexpectedly they bit the hand that fed them by taking the Holy Mountain as their own.\n\nMathilda was unafraid of their power. She left her hometown and met Clint. In the end, with the help of Clint, she was able to get her vengeance and return to the Holy Mountain with her tribe, inheriting the Holy Mountain's mysterious power."
+    },
+    "bio": {
+      "markdown": "In the vast Western Desert, on a barren land with its back facing the mountains, there lived an ancient and simple tribe. For generations, they had kept the traditions of their ancestors, guarded their sacred mountains, and lived hard but quiet lives. Mathilda and her family were members of this tribe.\n\nMathilda's father, Thasgard, was the leader of the entire tribe. He was brave, upright and responsible, and bore the burden of the tribe’s survival firmly on his shoulders. Under his influence, little Mathilda had developed a similar personality to her father, and was deeply proud of him.\n\nOne day, a group of sand hunters from Los Pecados broke into this closed-off tribe and disrupted the peace they had maintained for hundreds of years. The group of sand hunters lost their way in the desert chasing giant beasts. They were discovered by Mathilda's tribesmen right as they were on the cusp of death. The tribesmen brought them back to the tribe.\n\nHowever, the expectations of the kind and innocent aboriginal tribesmen were shattered when their kind deeds were returned in the form of unforgivable atrocities. These were not ordinary sand hunters, but those of the \"iceberg sand hunting group\" under Waldo Kane, the most powerful boss in Los Pecados. These guys not only sought life in the desert, but also did a lot of dirty work and sinful deeds.\n\nDespite being in a state close to death, some veterans of the sand hunting group developed an idea in their minds as soon as they saw the mountains behind the tribe: under this seemingly ordinary mountain range there were countless gold mines that could bring them a steady stream of wealth.\n\nUnder the care of the aboriginal tribesmen, the sand hunters quickly recovered and left the tribe under their guidance. Before leaving, they promised to repay everyone.\n\nHowever, Mathilda’s tribesmen did not receive the reward they deserved, but were instead subject to a sinful invasion. The sand hunters who walked out of the desert quickly reported the news to Waldo Kane. On Kane's instruction, Kane’s nephew Blandy returned to Mathilda's tribe with a large number of thugs, preparing to take the entire mountain range by force.\n\nFor Mathilda’s tribesmen, this was the tribe’s sacred mountain range, and no one was allowed to tread on it. The tribe patriarch Thasgard sternly rejected Blandy's coercion and temptation, and asked him and his thugs to leave their homeland immediately.\n\nBlandy, who had always traversed Los Pecados without a care, became enraged. He drew a gun and shot Thasgard, wounding him. He then gave him an ultimatum: Either leave the tribe’s land within a month and give up the gold mine at the back of the mountain range, or be wiped out together with his tribe.\n\nTheir patriarch now injured, the tribesmen, having lost their leader, fell into panic and confusion. More and more people began to advocate leaving the village to avoid further loss. Facing the retreating tribe, little Mathilda stood up, denounced their weakness, and called on everyone to take up arms and use their own strength to defend their homeland.\n\nOn one side was the small, weak Mathilda, and on the other side was the powerful sand hunter group and their gang of thugs. The tribesmen chose to be silent one after another, and began to quietly pack their things and prepare to leave the tribe.\n\nLittle Mathilda left the tribe in disappointment. She firmly believed that justice must exist in this world. For this reason, she began to wander the vast west, looking for people who could truly help the tribe. While marching to a small town not far from Los Pecados, Mathilda’s sense of justice got the better of her and she ended up in a dispute. Mathilda stood up and resisted the bullying perpetrators in front of her. Mathilda was outnumbered, but then, an old cowboy with a stubbled face appeared and repelled the bandits. He then teamed up with Mathilda and went with her.\n\nIt was none other than Clint, an old cowboy who had come to seek Blandy for revenge. After learning about what happened to Mathilda and her people, Clint, also with a strong sense of justice, decided to help Mathilda and fought alongside her to defend their homeland.\n\nIn the battle to defend her homeland, Mathilda established a deep relationship with Clint, Claude and others. After a tough ordeal, the brutal Blandy was defeated, and the bandits' covetous hopes of gaining the sacred mountain range were shattered.\n\nThe tribe restored the peace it had held in the past and Mathilda was summoned by the sacred mountain range. Upon entering the sacred mountain, she inherited a mysterious power that no one had inherited for hundreds of years.\n\nFor Mathilda, a great adventure had only just begun. In the setting sun, she bid farewell to her family and chose to go on the road with Clint, because she firmly believed that in this world, there were even more oppressed people out there waiting for justice to come, and she would do all she could to help them get it."
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Blazing West",
+          "content": {
+            "markdown": ""
+          }
+        },
+        {
+          "title": "A Journey to Blacksnake Town",
+          "content": {
+            "markdown": ""
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Ancestral Guidance",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Mathilda gains a charge while moving. When it is fully charged, her next Basic Attack will be enhanced, dealing magic basic attack damage based on level and stats to the target and granting her 80 Movement Speed that decays over 2.5 seconds."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Soul Bloom",
+        "cooldown": 7.5,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Mathilda resonates with the power of her ancestors for 4 seconds, attracting wisps as her movement distance increases, up to 6 wisps. At the end of the skill's duration, or when Mathilda casts this skill again, the wisps will seek and attack nearby enemies, each dealing magic damage based on level and stats and revealing the enemies' positions briefly. Subsequent damage dealt by wisps to the same target decays to 40%.\n\n- Base Damage: 275 / 320 / 365 / 410 / 455 / 500\n- Mana Cost: 60 / 70 / 80 / 90 / 100 / 110\n\nNotes:\n\n- Has a radius of 5.3 unit.\n- Fully affects concealed, invisible and unsighted targetable enemies in range.\n- If the number of enemies in range is less than or equal to the number of attracted wisps, each enemy will be hit once, prioritizing unsighted enemy heroes.\n- If there are multiple enemies nearby, the wisps have a 20% chance of hitting the same target multiple times and guarantee to hit a new enemy hero target at least once each."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Guiding Wind",
+        "cooldown": 12,
+        "cost": 75,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Mathilda leaps in the target direction and creates a field around her, gaining a shield and 25% extra Movement Speed for 3 seconds. Allied heroes who come in contact with the field will receive 60% of the shield value and a Movement Speed boost. The first allied hero that triggers Guiding Wind will be guided to Mathilda, and both of them will gain the same Movement Speed boost. When casting this skill during certain other abilities, Mathilda will not change her position. Guiding Wind expires 2 seconds after the hero leaves Mathilda's field.\n\n- Base Shield: 500 / 600 / 700 / 800 / 900 / 1000\n- Cooldown: 12.0 / 11.8 / 11.6 / 11.4 / 11.2 / 11.0\n- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100\n\nNotes:\n\n- Allies' movement speed boost lasts 2 seconds.\n- The ability lasts 5 seconds.\n- The option to be guided is disabled if the ally is rooted."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Circling Eagle",
+        "cooldown": 40,
+        "cost": 150,
+        "role": "Control",
+        "details": {
+          "markdown": "Mathilda applies a Soul Mark to the target enemy hero and circles around them for up to 3.5 seconds, during which her wisps will fly toward nearby enemy heroes, each dealing magic damage based on level and stats. The wisps will prioritize the target with Soul Mark. Within the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with Soul Mark, dealing magic damage based on level and stats while knocking enemies in her path airborne for 0.6 seconds and transferring the Soul Mark to the first enemy hero that she knocks airborne. Mathilda gains control immunity and a shield for the skill duration.\n\n- Wisp Damage: 40\n- Knock Damage: 320 / 360 / 400\n- Shield: 400 / 500 / 600\n- Mana Cost: 150 / 180 / 210\n\nNotes:\n\n- Soul Mark reveals the target and maintains a distance of 3.5 around her target. This state lasts up to 4 seconds.\n- Circling Eagle will immediately stop circling and dash towards the location of the target if the target is too far away or it dies.\n- In certain linked abilities, she will circle around the center point instead but the damage and effect is still applied to the marked target.\n- Mathilda is not crowd-control immune during the dash animation."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Mathilda has Germanic origins and is derived from the words \"maht\" (meaning \"might\" or \"strength\") and \"hild\" (meaning \"battle\" or \"combat\"). So, the name Mathilda can be interpreted to mean \"mighty in battle\" or \"strength in battle\"."
+      },
+      {
+        "markdown": "Initially, Mathilda was conceptualized as a support hero with a focus on healing and providing utility to her team. She was not originally an assassin-support hybrid. Her abilities were centered around her role as a more traditional support, offering crowd control and healing."
+      },
+      {
+        "markdown": "During Mathilda's release, she was given out for free for a limited-time."
+      },
+      {
+        "markdown": "Mathilda is the first hero assigned as support and assassin."
+      },
+      {
+        "markdown": "Mathilda's appearance and her tribe appear to be based on the indigenous peoples of North America, particularly in the United States."
+      },
+      {
+        "markdown": "Swift Plume is a type of bird found in tropical moist lowland forest, which could be the inspiration of her design. The bird can be seen in her skill 1 icon."
+      },
+      {
+        "markdown": "The most unique feature is that if Mathilda is near an ally, the bird will carry that ally along with it, effectively allowing her to reposition allies quickly across the map."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Swift Plume\n\n**Origin:** Los Pecados, Agelta Drylands\n\n**Species:** Human\n\n**Gender:** Female\n\nShe was released as a part of the Blazing Bounties event. Players had a chance to redeem the hero for free for a limited time.\n\n# Bio\n\nIn the vast Western Desert, on a barren land with its back facing the mountains, there lived an ancient and simple tribe. For generations, they had kept the traditions of their ancestors, guarded their sacred mountains, and lived hard but quiet lives. Mathilda and her family were members of this tribe.\n\nMathilda's father, Thasgard, was the leader of the entire tribe. He was brave, upright and responsible, and bore the burden of the tribe’s survival firmly on his shoulders. Under his influence, little Mathilda had developed a similar personality to her father, and was deeply proud of him.\n\nOne day, a group of sand hunters from Los Pecados broke into this closed-off tribe and disrupted the peace they had maintained for hundreds of years. The group of sand hunters lost their way in the desert chasing giant beasts. They were discovered by Mathilda's tribesmen right as they were on the cusp of death. The tribesmen brought them back to the tribe.\n\nHowever, the expectations of the kind and innocent aboriginal tribesmen were shattered when their kind deeds were returned in the form of unforgivable atrocities. These were not ordinary sand hunters, but those of the \"iceberg sand hunting group\" under Waldo Kane, the most powerful boss in Los Pecados. These guys not only sought life in the desert, but also did a lot of dirty work and sinful deeds.\n\nDespite being in a state close to death, some veterans of the sand hunting group developed an idea in their minds as soon as they saw the mountains behind the tribe: under this seemingly ordinary mountain range there were countless gold mines that could bring them a steady stream of wealth.\n\nUnder the care of the aboriginal tribesmen, the sand hunters quickly recovered and left the tribe under their guidance. Before leaving, they promised to repay everyone.\n\nHowever, Mathilda’s tribesmen did not receive the reward they deserved, but were instead subject to a sinful invasion. The sand hunters who walked out of the desert quickly reported the news to Waldo Kane. On Kane's instruction, Kane’s nephew Blandy returned to Mathilda's tribe with a large number of thugs, preparing to take the entire mountain range by force.\n\nFor Mathilda’s tribesmen, this was the tribe’s sacred mountain range, and no one was allowed to tread on it. The tribe patriarch Thasgard sternly rejected Blandy's coercion and temptation, and asked him and his thugs to leave their homeland immediately.\n\nBlandy, who had always traversed Los Pecados without a care, became enraged. He drew a gun and shot Thasgard, wounding him. He then gave him an ultimatum: Either leave the tribe’s land within a month and give up the gold mine at the back of the mountain range, or be wiped out together with his tribe.\n\nTheir patriarch now injured, the tribesmen, having lost their leader, fell into panic and confusion. More and more people began to advocate leaving the village to avoid further loss. Facing the retreating tribe, little Mathilda stood up, denounced their weakness, and called on everyone to take up arms and use their own strength to defend their homeland.\n\nOn one side was the small, weak Mathilda, and on the other side was the powerful sand hunter group and their gang of thugs. The tribesmen chose to be silent one after another, and began to quietly pack their things and prepare to leave the tribe.\n\nLittle Mathilda left the tribe in disappointment. She firmly believed that justice must exist in this world. For this reason, she began to wander the vast west, looking for people who could truly help the tribe. While marching to a small town not far from Los Pecados, Mathilda’s sense of justice got the better of her and she ended up in a dispute. Mathilda stood up and resisted the bullying perpetrators in front of her. Mathilda was outnumbered, but then, an old cowboy with a stubbled face appeared and repelled the bandits. He then teamed up with Mathilda and went with her.\n\nIt was none other than Clint, an old cowboy who had come to seek Blandy for revenge. After learning about what happened to Mathilda and her people, Clint, also with a strong sense of justice, decided to help Mathilda and fought alongside her to defend their homeland.\n\nIn the battle to defend her homeland, Mathilda established a deep relationship with Clint, Claude and others. After a tough ordeal, the brutal Blandy was defeated, and the bandits' covetous hopes of gaining the sacred mountain range were shattered.\n\nThe tribe restored the peace it had held in the past and Mathilda was summoned by the sacred mountain range. Upon entering the sacred mountain, she inherited a mysterious power that no one had inherited for hundreds of years.\n\nFor Mathilda, a great adventure had only just begun. In the setting sun, she bid farewell to her family and chose to go on the road with Clint, because she firmly believed that in this world, there were even more oppressed people out there waiting for justice to come, and she would do all she could to help them get it.\n\n# Story\n\n> \"A brave girl who stands up and doesn't fear power\"\n\nThe tribe where Mathilda lives has guarded the Holy Mountain for generations. Once, members of the tribe rescued a group of sand hunters under Kane, but unexpectedly they bit the hand that fed them by taking the Holy Mountain as their own.\n\nMathilda was unafraid of their power. She left her hometown and met Clint. In the end, with the help of Clint, she was able to get her vengeance and return to the Holy Mountain with her tribe, inheriting the Holy Mountain's mysterious power.\n\n# Side Story\n\n## Blazing West\n\n\n\n## A Journey to Blacksnake Town\n\n\n\n# Abilities\n\n## Ancestral Guidance\n\nMathilda gains a charge while moving. When it is fully charged, her next Basic Attack will be enhanced, dealing magic basic attack damage based on level and stats to the target and granting her 80 Movement Speed that decays over 2.5 seconds.\n\n## Soul Bloom\n\nMathilda resonates with the power of her ancestors for 4 seconds, attracting wisps as her movement distance increases, up to 6 wisps. At the end of the skill's duration, or when Mathilda casts this skill again, the wisps will seek and attack nearby enemies, each dealing magic damage based on level and stats and revealing the enemies' positions briefly. Subsequent damage dealt by wisps to the same target decays to 40%.\n\n- Base Damage: 275 / 320 / 365 / 410 / 455 / 500\n- Mana Cost: 60 / 70 / 80 / 90 / 100 / 110\n\nNotes:\n\n- Has a radius of 5.3 unit.\n- Fully affects concealed, invisible and unsighted targetable enemies in range.\n- If the number of enemies in range is less than or equal to the number of attracted wisps, each enemy will be hit once, prioritizing unsighted enemy heroes.\n- If there are multiple enemies nearby, the wisps have a 20% chance of hitting the same target multiple times and guarantee to hit a new enemy hero target at least once each.\n\n## Guiding Wind\n\nMathilda leaps in the target direction and creates a field around her, gaining a shield and 25% extra Movement Speed for 3 seconds. Allied heroes who come in contact with the field will receive 60% of the shield value and a Movement Speed boost. The first allied hero that triggers Guiding Wind will be guided to Mathilda, and both of them will gain the same Movement Speed boost. When casting this skill during certain other abilities, Mathilda will not change her position. Guiding Wind expires 2 seconds after the hero leaves Mathilda's field.\n\n- Base Shield: 500 / 600 / 700 / 800 / 900 / 1000\n- Cooldown: 12.0 / 11.8 / 11.6 / 11.4 / 11.2 / 11.0\n- Mana Cost: 75 / 80 / 85 / 90 / 95 / 100\n\nNotes:\n\n- Allies' movement speed boost lasts 2 seconds.\n- The ability lasts 5 seconds.\n- The option to be guided is disabled if the ally is rooted.\n\n## Circling Eagle\n\nMathilda applies a Soul Mark to the target enemy hero and circles around them for up to 3.5 seconds, during which her wisps will fly toward nearby enemy heroes, each dealing magic damage based on level and stats. The wisps will prioritize the target with Soul Mark. Within the duration, Mathilda can select an area to dash to. At the end of the duration, she'll dash at the target with Soul Mark, dealing magic damage based on level and stats while knocking enemies in her path airborne for 0.6 seconds and transferring the Soul Mark to the first enemy hero that she knocks airborne. Mathilda gains control immunity and a shield for the skill duration.\n\n- Wisp Damage: 40\n- Knock Damage: 320 / 360 / 400\n- Shield: 400 / 500 / 600\n- Mana Cost: 150 / 180 / 210\n\nNotes:\n\n- Soul Mark reveals the target and maintains a distance of 3.5 around her target. This state lasts up to 4 seconds.\n- Circling Eagle will immediately stop circling and dash towards the location of the target if the target is too far away or it dies.\n- In certain linked abilities, she will circle around the center point instead but the damage and effect is still applied to the marked target.\n- Mathilda is not crowd-control immune during the dash animation.\n\n# Trivia\n\n- The name Mathilda has Germanic origins and is derived from the words \"maht\" (meaning \"might\" or \"strength\") and \"hild\" (meaning \"battle\" or \"combat\"). So, the name Mathilda can be interpreted to mean \"mighty in battle\" or \"strength in battle\".\n- Initially, Mathilda was conceptualized as a support hero with a focus on healing and providing utility to her team. She was not originally an assassin-support hybrid. Her abilities were centered around her role as a more traditional support, offering crowd control and healing.\n- During Mathilda's release, she was given out for free for a limited-time.\n- Mathilda is the first hero assigned as support and assassin.\n- Mathilda's appearance and her tribe appear to be based on the indigenous peoples of North America, particularly in the United States.\n- Swift Plume is a type of bird found in tropical moist lowland forest, which could be the inspiration of her design. The bird can be seen in her skill 1 icon.\n- The most unique feature is that if Mathilda is near an ally, the bird will carry that ally along with it, effectively allowing her to reposition allies quickly across the map.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "clint",
+        "claude",
+        "yin"
+      ],
+      "faction": "Los Pecados",
+      "allies": [
+        "clint",
+        "claude"
+      ],
+      "rivals": [
+        "waldo_kane"
+      ],
+      "family": [
+        "thasgard"
+      ],
+      "mentors": [],
+      "factionRole": "Guardian",
+      "locationTies": [
+        {
+          "location": "Los Pecados",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        },
+        {
+          "location": "Western Desert",
+          "relationship": "home"
+        },
+        {
+          "location": "Holy Mountain",
+          "relationship": "protects"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "justice",
+      "power",
+      "family"
+    ],
+    "hook": "For Mathilda, a great adventure had only just begun, as she left her restored homeland to seek justice for others still oppressed across the vast west.",
+    "teaser": "When bandits covet her tribe’s sacred mountain, Mathilda defies fear, finds unlikely allies in the west, and awakens an ancient power to fight for justice.",
+    "openingLine": "In the vast Western Desert, on a barren land with its back facing the mountains, there lived an ancient and simple tribe.",
+    "dominantColor": "#C0802C",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 2,
+    "chapterTitles": [
+      "Blazing West",
+      "A Journey to Blacksnake Town"
+    ],
+    "plotKeywords": [
+      "sacred mountain",
+      "tribe attacked",
+      "bandit invasion",
+      "search for justice",
+      "alliance with Clint",
+      "defeat of Blandy",
+      "inheritance of mysterious power",
+      "journey to help the oppressed"
+    ],
+    "characterTraits": [
+      "brave",
+      "upright",
+      "justice-driven",
+      "loyal",
+      "determined"
+    ],
+    "locations": [
+      "Los Pecados",
+      "Agelta Drylands",
+      "Western Desert",
+      "Holy Mountain",
+      "Blacksnake Town"
+    ],
+    "wordCount": 1781,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646913293,
+    "updatedAt": 1764646913293
+  },
+  "lastUpdated": null
+}

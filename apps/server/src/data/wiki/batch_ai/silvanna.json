@@ -1,0 +1,220 @@
+{
+  "hero": "silvanna",
+  "urlName": "silvanna",
+  "sections": {
+    "profile": {
+      "markdown": "A fighter that deals magic damage, she is the leader of the Lightborn Chevaliers, and she was released as a part of the Lightborn-related events.\n\nPlayers had a chance to redeem the hero for free for a limited time."
+    },
+    "story": {
+      "markdown": "\"Princess of the Moniyan Empire and queen regent.\"\n\nThe princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Lore",
+          "content": {
+            "markdown": "The prince had gone missing and no one knew if he were dead or alive. For the sake of the country and the safety of its people, King Aurelius II had decreed to expand the Imperial Knight's Order and set up fortresses within the outskirts of Moniyan, to reinforce the empire's defense. In the meantime, the Imperial Knights continued their search for any clues or whereabouts of the prince. The Imperial Knight's searched day after night. They had almost crossed the entire Land of Dawn, but all they could find was endless waiting. The Aurelius royal family was drowning in sorrow.\n\nTo young Silvanna, the tragic memory of that time was too heavy. As a princess, Silvanna had always had a heart of justice and compassion since she was little. After her brother's disappearance, she had been keeping the queen's company almost every day. For years, the two of them had been waiting for a miracle to happen in the Imperial castle. However, waiting, day after day, and year after year later the queen eventually became ill and bedridden from physical and mental exhaustion.\n\nTen years had passed after the tragic event. As the queen and the king got old, Princess Silvanna, who had grown into a fine adult, had always wanted to do something for her empire. She wanted to let go of the sorrow, but whenever she thought of her brother, the sadness and frustration always came back to her. Every night in her dream, Silvanna felt like her brother was within reach, but she just couldn't seem to hold him. Shortly afterward, on the day of Silvanna's coming-of-age ceremony, she decided to disregard her status as a princess and join the Imperial Knights. Perhaps this was the only way for her to bear the pain.\n\nIn the Knight’s Order, Silvanna would have to go through tough training. She would no longer be treated like a royal. Silvanna possessed strong faith and worked harder than the others. Her faith had made her more and more powerful. All the scars on her body were the best proof on her path to training. Before long, she had become the most powerful female knight among the Imperial Knights. But even then, Silvanna still couldn’t get Tigreal special approval. Tigreal knew the cruelty of the real battlefield and how there' was no room for any mistake. Deep down, Tigreal saw that Silvanna had already acquired all the skills of a knight. He could also see Silvanna's determination. But she was a royal of the empire after all. Tigreal didn't want another successor of the empire to be at any risk again.\n\nBut one day, all of a sudden, the Demon army had arrived on the outskirts of the empire… Moniyan was in the face of disaster and war. Tigreal ordered Silvanna to stay in the empire while he leads the whole Knight’s Order to battle.\n\nHalfway through, Tigreal received a report from the Knight’s Order that in order to prove herself, Silvanna had broken the forbidden area, the Imperial Sanctuary, where countless unknown creatures lurk. Even Tigreal himself didn't have the confidence to go through it unharmed. At this moment, a sharp cry came from a distance, making Tigreal shudder. He immediately leads the elites of the Knight’s Order back to the Imperial Sanctuary while the rest of the knights marched to the outskirts of the empire to fight the Demons. On his way, he prayed that he could make it in time. He prayed that his fear should not come true.\n\nIn front of the gods of the Imperial Sanctuary, a giant figure was slowly approaching the wounded knightess. The Seed of Light was glowing in the distance and her powerful opponent was approaching. In the imperial records, Silvanna once read about a legend about the Seed of Light in the Imperial Sanctuary. But the powerful creature that guards the Seed of Light in front of her has become an obstacle she couldn't overcome. But Silvanna knew that only when she was shielded by the Lord of Light could she truly become the Holy Knightess and lead the empire to victory in the battle. And for that reason, she was willing to sacrifice her life.\n\nBut that wasn't necessary, Silvanna's determination impressed the God of Light and he passed down some of his magical powers to Silvanna. With this power in hand, she broke past the Guard and brought the chaotic army to an end. With the battle won and peace returned, Silvanna's courage brought her great fame.\n\nWith power, courage, and royalty in her blood, she took over as the Princess of the Moniyan Empire and perhaps… also as its protector."
+          }
+        },
+        {
+          "title": "Song of the Old Days",
+          "content": {
+            "markdown": ""
+          }
+        },
+        {
+          "title": "Glimmer Amidst the Icy Night",
+          "content": {
+            "markdown": ""
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Knightess' Resolve",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Silvanna's Basic Attacks deal additional magic damage based on level and stats. Silvanna's attacks apply a mark on enemy heroes for 5 seconds on hit, each mark reducing their Physical and Magic Defense by 3–6 (up to 5 stacks). Silvanna deals 30% extra damage to enemy heroes with the max number of marks.\n\nApproximate defense reduction per stack by level: 3 / 3.21 / 3.43 / 3.64 / 3.86 / 4.07 / 4.29 / 4.5 / 4.71 / 4.93 / 5.14 / 5.36 / 5.57 / 5.79 / 6.\n\nApproximate total defense reduction at level 1: 3 / 6 / 9 / 12 / 15.\nApproximate total defense reduction at level 15: 6 / 12 / 18 / 24 / 30.\n\nNotes:\n- Extra damage to enemy heroes only includes damage from skills and empowered Basic Attacks.\n- Visual marks do not display on minions and creeps, despite the fact that they can receive debuffs from this skill."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Cometic Lance",
+        "cooldown": 11,
+        "cost": 70,
+        "role": "Control",
+        "details": {
+          "markdown": "Silvanna dashes forward. Upon reaching the max range or hitting a non-minion enemy, she swings her lance, dealing magic damage to nearby enemies and stunning them for 1 second.\n\nBase Damage by level: 250 / 280 / 310 / 340 / 370 / 400.\n\nCooldown by level (seconds): 11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0.\nMana cost by level: 70 / 78 / 86 / 94 / 102 / 110."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Spiral Strangling",
+        "cooldown": 5.5,
+        "cost": 35,
+        "role": "Damage",
+        "details": {
+          "markdown": "Silvanna thrusts her lance in the target direction and spins it 6 times while gaining a shield. Each spin deals magic damage and slightly pulls targets toward the center. Silvanna spins 1 additional time for every 55% of Total Attack Speed she possesses above 100%. The skill deals only 50% damage against Minions. Spiral Strangling counts as a Magic Basic Attack but cannot Crit.\n\nApproximate total spins: 6 plus the floor of Total Attack Speed minus 1 divided by 0.55.\n\nBase Damage by level: 165 / 183 / 201 / 219 / 237 / 255.\nShield value by level: 350 / 380 / 410 / 440 / 470 / 500.\n\nCooldown by level (seconds): 5.5 / 5.3 / 5.1 / 4.9 / 4.7 / 4.5.\nMana cost by level: 35 / 40 / 45 / 50 / 55 / 60.\n\nNotes:\n- There is a mistake in the in-game skill description; it does not spin 1 additional time for every 50% of Extra Attack Speed. Instead, it spins 1 additional time for every 55% of Total Attack Speed above 100% or 1.00. Theoretically it will spin 1 / 2 / 3 / 4 / 5 / 6 / 7 additional times for a Total Attack Speed of 1.55 / 2.1 / 2.65 / 3.2 / 3.75 / 4.3 / 4.85.\n- Additional spins above 3 are not possible unless with modifiers that can increase the Attack Speed cap. Even so, the max number of spins is 11, not 13, because the increase in the Attack Speed cap effect is very brief.\n- Despite the skill counting as a non-Crit Basic Attack, it doesn't benefit from Endless Battle's passive – Endless Strike.\n- This skill can be canceled manually by moving the joystick.\n- Spiral Strangling is not visible while Silvanna is invisible in a bush."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Imperial Justice",
+        "cooldown": 52,
+        "cost": 130,
+        "role": "Control",
+        "details": {
+          "markdown": "Silvanna leaps to the target location and creates a Circle of Light upon landing, dealing magic damage to enemies in the area, slowing them by 40% for 1.5 seconds, and restraining the closest enemy hero in the area for 3.5 seconds. This skill cannot be interrupted. Silvanna gains 100% extra Attack Speed and 40% extra Lifesteal when in the Circle.\n\nBase Damage by level: 350 / 500 / 650.\n\nCooldown by level (seconds): 52.0 / 48.0 / 44.0.\nMana cost by level: 130 / 140 / 150.\n\nBugs:\n- Camera Shift does not function on this skill."
+        }
+      },
+      {
+        "slot": "Skill 3",
+        "name": "Silvanna BUFF",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "If Dyrroth is in the enemy's team, increases self's attack speed by 1%."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name \"Silvanna\" is a variation of the feminine \"Silvana\" or \"Sylvana\", meaning the \"one who lives in the forest\" in Latin."
+      },
+      {
+        "markdown": "Alternatively, Silvana is also an Italian female name as a feminine counterpart to Silvano, an Italian male name."
+      },
+      {
+        "markdown": "Silvanna is only hero capable of inflicting the Restrain status."
+      },
+      {
+        "markdown": "Silvanna is the first hero to have a skin based on a player's Credit Score."
+      },
+      {
+        "markdown": "In her early development, Silvanna was meant to be a tank-fighter mix, but developers decided to focus more on her magic fighter identity instead."
+      },
+      {
+        "markdown": "Silvanna’s armor and lance weapon resemble European medieval knights, blending holy warrior aesthetics with magic power. Her design is inspired by medieval knight culture."
+      },
+      {
+        "markdown": "Her in-game quote \"Moniyan warriors, show your teeth\" is an idiomatic expression meaning show your strength or readiness to fight, like an animal baring its teeth. The phrase is British English usually used in Europe, as Moniyan Empire is based in Europe."
+      },
+      {
+        "markdown": "The fact that the ruling dynasty has never changed shows its kinship with Odette and Vexana."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\nA fighter that deals magic damage, she is the leader of the Lightborn Chevaliers, and she was released as a part of the Lightborn-related events.\n\nPlayers had a chance to redeem the hero for free for a limited time.\n\n# Story\n\n\"Princess of the Moniyan Empire and queen regent.\"\n\nThe princess of the Moniyan Empire. After her younger brother disappeared, she took up the burden of the country and joined the Empire Chevaliers, becoming the best female knight of the Empire Chevaliers.\n\n# Side Story\n\n## Lore\n\nThe prince had gone missing and no one knew if he were dead or alive. For the sake of the country and the safety of its people, King Aurelius II had decreed to expand the Imperial Knight's Order and set up fortresses within the outskirts of Moniyan, to reinforce the empire's defense. In the meantime, the Imperial Knights continued their search for any clues or whereabouts of the prince. The Imperial Knight's searched day after night. They had almost crossed the entire Land of Dawn, but all they could find was endless waiting. The Aurelius royal family was drowning in sorrow.\n\nTo young Silvanna, the tragic memory of that time was too heavy. As a princess, Silvanna had always had a heart of justice and compassion since she was little. After her brother's disappearance, she had been keeping the queen's company almost every day. For years, the two of them had been waiting for a miracle to happen in the Imperial castle. However, waiting, day after day, and year after year later the queen eventually became ill and bedridden from physical and mental exhaustion.\n\nTen years had passed after the tragic event. As the queen and the king got old, Princess Silvanna, who had grown into a fine adult, had always wanted to do something for her empire. She wanted to let go of the sorrow, but whenever she thought of her brother, the sadness and frustration always came back to her. Every night in her dream, Silvanna felt like her brother was within reach, but she just couldn't seem to hold him. Shortly afterward, on the day of Silvanna's coming-of-age ceremony, she decided to disregard her status as a princess and join the Imperial Knights. Perhaps this was the only way for her to bear the pain.\n\nIn the Knight’s Order, Silvanna would have to go through tough training. She would no longer be treated like a royal. Silvanna possessed strong faith and worked harder than the others. Her faith had made her more and more powerful. All the scars on her body were the best proof on her path to training. Before long, she had become the most powerful female knight among the Imperial Knights. But even then, Silvanna still couldn’t get Tigreal special approval. Tigreal knew the cruelty of the real battlefield and how there' was no room for any mistake. Deep down, Tigreal saw that Silvanna had already acquired all the skills of a knight. He could also see Silvanna's determination. But she was a royal of the empire after all. Tigreal didn't want another successor of the empire to be at any risk again.\n\nBut one day, all of a sudden, the Demon army had arrived on the outskirts of the empire… Moniyan was in the face of disaster and war. Tigreal ordered Silvanna to stay in the empire while he leads the whole Knight’s Order to battle.\n\nHalfway through, Tigreal received a report from the Knight’s Order that in order to prove herself, Silvanna had broken the forbidden area, the Imperial Sanctuary, where countless unknown creatures lurk. Even Tigreal himself didn't have the confidence to go through it unharmed. At this moment, a sharp cry came from a distance, making Tigreal shudder. He immediately leads the elites of the Knight’s Order back to the Imperial Sanctuary while the rest of the knights marched to the outskirts of the empire to fight the Demons. On his way, he prayed that he could make it in time. He prayed that his fear should not come true.\n\nIn front of the gods of the Imperial Sanctuary, a giant figure was slowly approaching the wounded knightess. The Seed of Light was glowing in the distance and her powerful opponent was approaching. In the imperial records, Silvanna once read about a legend about the Seed of Light in the Imperial Sanctuary. But the powerful creature that guards the Seed of Light in front of her has become an obstacle she couldn't overcome. But Silvanna knew that only when she was shielded by the Lord of Light could she truly become the Holy Knightess and lead the empire to victory in the battle. And for that reason, she was willing to sacrifice her life.\n\nBut that wasn't necessary, Silvanna's determination impressed the God of Light and he passed down some of his magical powers to Silvanna. With this power in hand, she broke past the Guard and brought the chaotic army to an end. With the battle won and peace returned, Silvanna's courage brought her great fame.\n\nWith power, courage, and royalty in her blood, she took over as the Princess of the Moniyan Empire and perhaps… also as its protector.\n\n## Song of the Old Days\n\n\n\n## Glimmer Amidst the Icy Night\n\n\n\n# Abilities\n\n## Knightess' Resolve\n\nSilvanna's Basic Attacks deal additional magic damage based on level and stats. Silvanna's attacks apply a mark on enemy heroes for 5 seconds on hit, each mark reducing their Physical and Magic Defense by 3–6 (up to 5 stacks). Silvanna deals 30% extra damage to enemy heroes with the max number of marks.\n\nApproximate defense reduction per stack by level: 3 / 3.21 / 3.43 / 3.64 / 3.86 / 4.07 / 4.29 / 4.5 / 4.71 / 4.93 / 5.14 / 5.36 / 5.57 / 5.79 / 6.\n\nApproximate total defense reduction at level 1: 3 / 6 / 9 / 12 / 15.\nApproximate total defense reduction at level 15: 6 / 12 / 18 / 24 / 30.\n\nNotes:\n- Extra damage to enemy heroes only includes damage from skills and empowered Basic Attacks.\n- Visual marks do not display on minions and creeps, despite the fact that they can receive debuffs from this skill.\n\n## Cometic Lance\n\nSilvanna dashes forward. Upon reaching the max range or hitting a non-minion enemy, she swings her lance, dealing magic damage to nearby enemies and stunning them for 1 second.\n\nBase Damage by level: 250 / 280 / 310 / 340 / 370 / 400.\n\nCooldown by level (seconds): 11.0 / 10.6 / 10.2 / 9.8 / 9.4 / 9.0.\nMana cost by level: 70 / 78 / 86 / 94 / 102 / 110.\n\n## Spiral Strangling\n\nSilvanna thrusts her lance in the target direction and spins it 6 times while gaining a shield. Each spin deals magic damage and slightly pulls targets toward the center. Silvanna spins 1 additional time for every 55% of Total Attack Speed she possesses above 100%. The skill deals only 50% damage against Minions. Spiral Strangling counts as a Magic Basic Attack but cannot Crit.\n\nApproximate total spins: 6 plus the floor of Total Attack Speed minus 1 divided by 0.55.\n\nBase Damage by level: 165 / 183 / 201 / 219 / 237 / 255.\nShield value by level: 350 / 380 / 410 / 440 / 470 / 500.\n\nCooldown by level (seconds): 5.5 / 5.3 / 5.1 / 4.9 / 4.7 / 4.5.\nMana cost by level: 35 / 40 / 45 / 50 / 55 / 60.\n\nNotes:\n- There is a mistake in the in-game skill description; it does not spin 1 additional time for every 50% of Extra Attack Speed. Instead, it spins 1 additional time for every 55% of Total Attack Speed above 100% or 1.00. Theoretically it will spin 1 / 2 / 3 / 4 / 5 / 6 / 7 additional times for a Total Attack Speed of 1.55 / 2.1 / 2.65 / 3.2 / 3.75 / 4.3 / 4.85.\n- Additional spins above 3 are not possible unless with modifiers that can increase the Attack Speed cap. Even so, the max number of spins is 11, not 13, because the increase in the Attack Speed cap effect is very brief.\n- Despite the skill counting as a non-Crit Basic Attack, it doesn't benefit from Endless Battle's passive – Endless Strike.\n- This skill can be canceled manually by moving the joystick.\n- Spiral Strangling is not visible while Silvanna is invisible in a bush.\n\n## Imperial Justice\n\nSilvanna leaps to the target location and creates a Circle of Light upon landing, dealing magic damage to enemies in the area, slowing them by 40% for 1.5 seconds, and restraining the closest enemy hero in the area for 3.5 seconds. This skill cannot be interrupted. Silvanna gains 100% extra Attack Speed and 40% extra Lifesteal when in the Circle.\n\nBase Damage by level: 350 / 500 / 650.\n\nCooldown by level (seconds): 52.0 / 48.0 / 44.0.\nMana cost by level: 130 / 140 / 150.\n\nBugs:\n- Camera Shift does not function on this skill.\n\n## Silvanna BUFF\n\nIf Dyrroth is in the enemy's team, increases self's attack speed by 1%.\n\n# Trivia\n\n- The name \"Silvanna\" is a variation of the feminine \"Silvana\" or \"Sylvana\", meaning the \"one who lives in the forest\" in Latin.\n- Alternatively, Silvana is also an Italian female name as a feminine counterpart to Silvano, an Italian male name.\n- Silvanna is only hero capable of inflicting the Restrain status.\n- Silvanna is the first hero to have a skin based on a player's Credit Score.\n- In her early development, Silvanna was meant to be a tank-fighter mix, but developers decided to focus more on her magic fighter identity instead.\n- Silvanna’s armor and lance weapon resemble European medieval knights, blending holy warrior aesthetics with magic power. Her design is inspired by medieval knight culture.\n- Her in-game quote \"Moniyan warriors, show your teeth\" is an idiomatic expression meaning show your strength or readiness to fight, like an animal baring its teeth. The phrase is British English usually used in Europe, as Moniyan Empire is based in Europe.\n- The fact that the ruling dynasty has never changed shows its kinship with Odette and Vexana.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "dyrroth",
+        "tigreal",
+        "odette",
+        "vexana",
+        "alice"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "tigreal",
+        "odette"
+      ],
+      "rivals": [
+        "dyrroth",
+        "vexana",
+        "alice"
+      ],
+      "family": [
+        "dyrroth",
+        "odette",
+        "vexana"
+      ],
+      "mentors": [],
+      "factionRole": "Princess",
+      "locationTies": [
+        {
+          "location": "Moniyan Empire",
+          "relationship": "home"
+        },
+        {
+          "location": "Imperial Sanctuary",
+          "relationship": "visited"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "family",
+      "sacrifice",
+      "destiny"
+    ],
+    "hook": "With her brother lost and her empire on the brink of ruin, Silvanna throws away her royal privilege to face forbidden horrors and claim the Seed of Light.",
+    "teaser": "When demons besiege Moniyan and a lost prince haunts her dreams, Silvanna defies her royal fate, braves a forbidden sanctuary, and bargains with the God of Light.",
+    "openingLine": "The prince had gone missing and no one knew if he were dead or alive.",
+    "dominantColor": "#1E4BA3",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 3,
+    "chapterTitles": [
+      "Lore",
+      "Song of the Old Days",
+      "Glimmer Amidst the Icy Night"
+    ],
+    "plotKeywords": [
+      "lost prince",
+      "royal family tragedy",
+      "joining the Imperial Knights",
+      "harsh training",
+      "demon invasion",
+      "forbidden sanctuary",
+      "Seed of Light",
+      "divine empowerment"
+    ],
+    "characterTraits": [
+      "just",
+      "determined",
+      "dutiful",
+      "courageous",
+      "self-sacrificing",
+      "disciplined"
+    ],
+    "locations": [
+      "Moniyan Empire",
+      "Moniyan",
+      "Land of Dawn",
+      "Imperial Sanctuary"
+    ],
+    "wordCount": 1679,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646883634,
+    "updatedAt": 1764646883634
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,191 @@
+{
+  "hero": "moskov",
+  "urlName": "moskov",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Spear of Quiescence\n\n**Title:** Prince of the Wildsand Clan\n\n**Species:** Human (Corrupted)\n\n**Gender:** Male\n\n**Affiliation:** Wildsand Clan (extinct)\n\n**Weapon:** Spear of Quiescence\n\n**Birthplace:** Emerald Road, Agelta Drylands\n\n**Height:** 185cm\n\n**Weight:** 80kg\n\n**Traits:**\n- Scars that exude the power of darkness\n- A body carrying the burden of his people's glory\n- The weapon from the great vortex of darkness"
+    },
+    "story": {
+      "markdown": "> \"A warrior of the desert that embraced the darkness to seek his revenge.\"\n\nOnce a valiant and fearless desert warrior, Moskov met his end on the battlefield against his rival Khaleed. But in death, his soul encountered a great vortex of darkness buried beneath the sand by the desert tyrant Khufra. For centuries, the Vortex incited discord among the desert tribes and harvested the dark energy borne from their bloodshed.\n\nThough the Vortex's insidious influence trapped the desert in a cycle of strife and anguish, the Vortex itself sought to be freed. Tempted with the promise of revenge, Moskov extracted the core of the vortex, the Spear of Quiescence, and was reborn in the power of the darkness. Now he roams the sands, seeking revenge upon Khufra in the name of the desert."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Awakening in the Vortex",
+          "content": {
+            "markdown": "> \"Are you awake, lamb?\"\n\n> \"I guess you are an exception among this pitiful flock.\"\n\n> \"Do you wish to know why you're here?\"\n\n> \"Then remain silent and listen...\"\n\nWhen you were still among the living, your name was Moskov, though it hardly matters now.\n\nYes, you're dead. Countless spears pierced your innards as your enemies pinned you to the sand. Your blood flowed freely, seeping into the earth and staining the sands a dark crimson. But there was defiance in your bones. Even in death, you refused to crumble; unwilling to admit failure.\n\nYes, you failed. That battle was the end of your tribe. Your rival, Khaleed, brought a force three times your own, if not more. Yet you did not flee, for the blood feud between your two tribes had reached a point of no return. Quite the tragic hero you are.\n\nIn your final moments, you must have thought that this death was befitting of a desert warrior. You fought for your tribe with your life. Surely the golden sands will carry you to the halls of glory and etch your name in the annals of history...\n\nPathetic.\n\nLook around you. This is your so-called golden halls of glory. There is nothing here but a great vortex of darkness. It lurks under the desert's surface, voraciously corrupting every single grain of sand, turning everything profane. Beneath your feet lies a mountain of bones, the countless remains of your ancestors. Above you, their tortured spirits wail in agony, filled with pain, despair, and resentment. Yet, they can never escape this all-consuming vortex. They are doomed to be devoured by the darkness; to be sustenance for the insatiable.\n\nIn the end, they become a part of me.\n\n> \"Who am I?\"\n\n> \"I am a weapon.\"\n\n> \"A weapon of pure darkness.\"\n\nIt is not difficult to explain. In this world, where there is birth, there is death; where there is light, there is darkness. I am the core of this vortex of darkness. War, death, and anguish are what I feed upon. Deep down, you have already known this for quite some time. Due to the incessant feuds between the desert tribes, you were taught from a young age to be a fearless warrior. Everything you knew pertained to battle, and you and Khaleed were destined to fight to the death — but have you ever wondered why?\n\nI can see the rage in your eyes. It's all dawning on you now, isn't it.\n\nYes, you are all nothing but fodder to me. Mere lambs, born to be slaughtered. And I grow stronger with every offering, spreading my influence to more and more tribes, and plunging them into war and chaos. All to ensure that this cycle of violence is passed down through the generations.\n\nSave your strength. Your once hot blood has long since cooled. Your mighty body has stiffened, and your rage is now nothing more than the lament of a helpless soul. I am right here before you, yet you can do nothing."
+          }
+        },
+        {
+          "title": "The Desert Tyrant’s Design",
+          "content": {
+            "markdown": "But do not be mistaken. I am not the mastermind of your fate. While you mindlessly killed each other in your pens, the shepherd remained afar, drinking your blood and harvesting your flesh. He was once the king of the desert, a ruthless tyrant, but now slumbers far, far away under the Ruins of Tivacan. Before he went into slumber, he buried me here to gather power for his return.\n\nThe world should have been mine to conquer. I should be the one to plunge this world into darkness. Yet, here I am, trapped in this desert, like a caged beast being fattened up. I suppose our fates are not so different. No matter how powerful I become, I remain but a pawn. The vessel of another. And now, he is about to awaken...\n\nCurse him!\n\nYou wish to seek revenge, do you not?\n\nVery well, your anger is admirable, and your blood is starting to boil once more. You are the first to desire to escape your pen after learning the truth. I see your soul searing with fury. Your pride, your pain, your hatred... they are trying to awaken your body. With such a remarkable determination, you will surely bring eternal silence to this noisy desert..."
+          }
+        },
+        {
+          "title": "Spear of Quiescence",
+          "content": {
+            "markdown": "> \"Come!\"\n\n> \"Come before me.\"\n\n> \"Extricate me from this damned vortex.\"\n\n> \"Set me free, and let me see the light once more.\"\n\nHate! For being forgotten by history. For the humiliation of being someone's pawn. For your sullied honor. Let all the hatred of the desert flow into you.\n\nBurn! A vengeful soul burns the brightest. Return to the battlefield once more. With the darkness, I will reshape your body. I will grant you limitless power. I will give you your revenge!\n\nGo! Embrace the darkness and silence this desert for eternity."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Spear of Quiescence",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Moskov's Basic Attacks can penetrate the target and deal bonus damage to enemies behind them while inheriting all Attack Effects.\n\nEach Basic Attack hit reduces the cooldowns of his other skills by 0.5 seconds.\n\n- Attack Effects inheritance: 100%\n- Physical Attack bonus (by level): 68% / 71% / 74% / 77% / 80% / 83% / 86% / 89% / 92% / 95% / 98% / 101% / 104% / 107% / 110%\n\nThis passive turns Moskov's Basic Attacks into piercing strikes that also accelerate his skill rotation."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Abyss Walker",
+        "cooldown": 10,
+        "cost": 45,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Moskov teleports to the target location and greatly increases his Attack Speed for a short duration. During this time, his Basic Attacks deal increased damage to enemies behind the primary target.\n\n- Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds\n- Mana cost: 45 / 50 / 55 / 60 / 65 / 70\n- Duration: 3 seconds\n- Attack Speed multiplier: 1.15 / 1.22 / 1.29 / 1.36 / 1.43 / 1.5 times\n- Additional damage to enemies behind primary target: 10%\n\nThis skill functions as a blink, repositioning Moskov while temporarily boosting his attack speed and enhancing his piercing damage."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Spear of Misery",
+        "cooldown": 12,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Moskov launches a powerful strike at the target enemy hero or Creep, dealing physical damage, knocking them back, and revealing their position for 5 seconds.\n\nIf the target collides with an enemy hero when knocked back, both take additional physical damage and are stunned for 1.5 seconds. If the enemy is knocked into a wall, they are also stunned for 1.5 seconds.\n\n- Cooldown: 12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5 seconds\n- Mana cost: 80 / 90 / 100 / 110 / 120 / 130\n- Cast range: 4.5\n- Base damage: 300 / 330 / 360 / 390 / 420 / 450 physical damage\n- Extra collision damage: 200 / 215 / 230 / 245 / 260 / 275 physical damage\n\nThis skill provides strong displacement and crowd control, allowing Moskov to pin enemies into other heroes or terrain for a stun."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Spear of Destruction",
+        "cooldown": 55,
+        "cost": 130,
+        "role": "Damage",
+        "details": {
+          "markdown": "After a short delay, Moskov throws his spear in the target direction, dealing physical damage to enemies in its path and additional physical damage to the first enemy hero hit.\n\nUpon hitting an enemy hero, the spear pierces them, dealing further physical damage to enemies behind them. The primary target and enemies hit by the piercing damage are slowed by 50% for 1 second, with the slow duration scaling with the spear's travel time, up to 3 seconds.\n\nWhen the Spear of Destruction hits the first enemy hero, it creates a shadow behind them and refreshes the cooldown of Abyss Walker. Moskov can then cast Abyss Walker from the shadow's location, sharing the same properties and cooldown as his normal Skill 1.\n\n- Cooldown: 55.0 / 50.0 / 45.0 seconds\n- Mana cost: 130 / 150 / 170\n- Base damage: 340 / 420 / 500 physical damage\n- Additional scaling: high bonus based on Physical Attack\n- Slow: 50% for 1 to 3 seconds, depending on travel time\n\nThe second phase of this Ultimate's Abyss Walker effect uses the same attack speed boost values as the normal Skill 1, making it possible to use the Ultimate's dash even without having learned Skill 1. An overlay camera tracks the spear and its shadow when cast."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Moskov's name is derived from the Moskva River in Russia, from which its capital, Moscow, is also derived."
+      },
+      {
+        "markdown": "Also his name is Russian descent, along with other Russian-descended heroes."
+      },
+      {
+        "markdown": "Moskov throws his spear using his left hand, making him the only left-handed, single-wielding marksman."
+      },
+      {
+        "markdown": "Moskov's skin Javelin Champion has the number on his shirt \"1718\" which relates to the lore Laboratory 1718."
+      },
+      {
+        "markdown": "Moskov's skin Infernal Wyrmlord skin is first ever skin to receive \"Stunning Special Effects\"."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Spear of Quiescence\n\n**Title:** Prince of the Wildsand Clan\n\n**Species:** Human (Corrupted)\n\n**Gender:** Male\n\n**Affiliation:** Wildsand Clan (extinct)\n\n**Weapon:** Spear of Quiescence\n\n**Birthplace:** Emerald Road, Agelta Drylands\n\n**Height:** 185cm\n\n**Weight:** 80kg\n\n**Traits:**\n- Scars that exude the power of darkness\n- A body carrying the burden of his people's glory\n- The weapon from the great vortex of darkness\n\n# Story\n\n> \"A warrior of the desert that embraced the darkness to seek his revenge.\"\n\nOnce a valiant and fearless desert warrior, Moskov met his end on the battlefield against his rival Khaleed. But in death, his soul encountered a great vortex of darkness buried beneath the sand by the desert tyrant Khufra. For centuries, the Vortex incited discord among the desert tribes and harvested the dark energy borne from their bloodshed.\n\nThough the Vortex's insidious influence trapped the desert in a cycle of strife and anguish, the Vortex itself sought to be freed. Tempted with the promise of revenge, Moskov extracted the core of the vortex, the Spear of Quiescence, and was reborn in the power of the darkness. Now he roams the sands, seeking revenge upon Khufra in the name of the desert.\n\n# Side Story\n\n## Awakening in the Vortex\n\n> \"Are you awake, lamb?\"\n\n> \"I guess you are an exception among this pitiful flock.\"\n\n> \"Do you wish to know why you're here?\"\n\n> \"Then remain silent and listen...\"\n\nWhen you were still among the living, your name was Moskov, though it hardly matters now.\n\nYes, you're dead. Countless spears pierced your innards as your enemies pinned you to the sand. Your blood flowed freely, seeping into the earth and staining the sands a dark crimson. But there was defiance in your bones. Even in death, you refused to crumble; unwilling to admit failure.\n\nYes, you failed. That battle was the end of your tribe. Your rival, Khaleed, brought a force three times your own, if not more. Yet you did not flee, for the blood feud between your two tribes had reached a point of no return. Quite the tragic hero you are.\n\nIn your final moments, you must have thought that this death was befitting of a desert warrior. You fought for your tribe with your life. Surely the golden sands will carry you to the halls of glory and etch your name in the annals of history...\n\nPathetic.\n\nLook around you. This is your so-called golden halls of glory. There is nothing here but a great vortex of darkness. It lurks under the desert's surface, voraciously corrupting every single grain of sand, turning everything profane. Beneath your feet lies a mountain of bones, the countless remains of your ancestors. Above you, their tortured spirits wail in agony, filled with pain, despair, and resentment. Yet, they can never escape this all-consuming vortex. They are doomed to be devoured by the darkness; to be sustenance for the insatiable.\n\nIn the end, they become a part of me.\n\n> \"Who am I?\"\n\n> \"I am a weapon.\"\n\n> \"A weapon of pure darkness.\"\n\nIt is not difficult to explain. In this world, where there is birth, there is death; where there is light, there is darkness. I am the core of this vortex of darkness. War, death, and anguish are what I feed upon. Deep down, you have already known this for quite some time. Due to the incessant feuds between the desert tribes, you were taught from a young age to be a fearless warrior. Everything you knew pertained to battle, and you and Khaleed were destined to fight to the death — but have you ever wondered why?\n\nI can see the rage in your eyes. It's all dawning on you now, isn't it.\n\nYes, you are all nothing but fodder to me. Mere lambs, born to be slaughtered. And I grow stronger with every offering, spreading my influence to more and more tribes, and plunging them into war and chaos. All to ensure that this cycle of violence is passed down through the generations.\n\nSave your strength. Your once hot blood has long since cooled. Your mighty body has stiffened, and your rage is now nothing more than the lament of a helpless soul. I am right here before you, yet you can do nothing.\n\n## The Desert Tyrant’s Design\n\nBut do not be mistaken. I am not the mastermind of your fate. While you mindlessly killed each other in your pens, the shepherd remained afar, drinking your blood and harvesting your flesh. He was once the king of the desert, a ruthless tyrant, but now slumbers far, far away under the Ruins of Tivacan. Before he went into slumber, he buried me here to gather power for his return.\n\nThe world should have been mine to conquer. I should be the one to plunge this world into darkness. Yet, here I am, trapped in this desert, like a caged beast being fattened up. I suppose our fates are not so different. No matter how powerful I become, I remain but a pawn. The vessel of another. And now, he is about to awaken...\n\nCurse him!\n\nYou wish to seek revenge, do you not?\n\nVery well, your anger is admirable, and your blood is starting to boil once more. You are the first to desire to escape your pen after learning the truth. I see your soul searing with fury. Your pride, your pain, your hatred... they are trying to awaken your body. With such a remarkable determination, you will surely bring eternal silence to this noisy desert...\n\n## Spear of Quiescence\n\n> \"Come!\"\n\n> \"Come before me.\"\n\n> \"Extricate me from this damned vortex.\"\n\n> \"Set me free, and let me see the light once more.\"\n\nHate! For being forgotten by history. For the humiliation of being someone's pawn. For your sullied honor. Let all the hatred of the desert flow into you.\n\nBurn! A vengeful soul burns the brightest. Return to the battlefield once more. With the darkness, I will reshape your body. I will grant you limitless power. I will give you your revenge!\n\nGo! Embrace the darkness and silence this desert for eternity.\n\n# Abilities\n\n## Spear of Quiescence\n\nMoskov's Basic Attacks can penetrate the target and deal bonus damage to enemies behind them while inheriting all Attack Effects.\n\nEach Basic Attack hit reduces the cooldowns of his other skills by 0.5 seconds.\n\n- Attack Effects inheritance: 100%\n- Physical Attack bonus (by level): 68% / 71% / 74% / 77% / 80% / 83% / 86% / 89% / 92% / 95% / 98% / 101% / 104% / 107% / 110%\n\nThis passive turns Moskov's Basic Attacks into piercing strikes that also accelerate his skill rotation.\n\n## Abyss Walker\n\nMoskov teleports to the target location and greatly increases his Attack Speed for a short duration. During this time, his Basic Attacks deal increased damage to enemies behind the primary target.\n\n- Cooldown: 10.0 / 9.6 / 9.2 / 8.8 / 8.4 / 8.0 seconds\n- Mana cost: 45 / 50 / 55 / 60 / 65 / 70\n- Duration: 3 seconds\n- Attack Speed multiplier: 1.15 / 1.22 / 1.29 / 1.36 / 1.43 / 1.5 times\n- Additional damage to enemies behind primary target: 10%\n\nThis skill functions as a blink, repositioning Moskov while temporarily boosting his attack speed and enhancing his piercing damage.\n\n## Spear of Misery\n\nMoskov launches a powerful strike at the target enemy hero or Creep, dealing physical damage, knocking them back, and revealing their position for 5 seconds.\n\nIf the target collides with an enemy hero when knocked back, both take additional physical damage and are stunned for 1.5 seconds. If the enemy is knocked into a wall, they are also stunned for 1.5 seconds.\n\n- Cooldown: 12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5 seconds\n- Mana cost: 80 / 90 / 100 / 110 / 120 / 130\n- Cast range: 4.5\n- Base damage: 300 / 330 / 360 / 390 / 420 / 450 physical damage\n- Extra collision damage: 200 / 215 / 230 / 245 / 260 / 275 physical damage\n\nThis skill provides strong displacement and crowd control, allowing Moskov to pin enemies into other heroes or terrain for a stun.\n\n## Spear of Destruction\n\nAfter a short delay, Moskov throws his spear in the target direction, dealing physical damage to enemies in its path and additional physical damage to the first enemy hero hit.\n\nUpon hitting an enemy hero, the spear pierces them, dealing further physical damage to enemies behind them. The primary target and enemies hit by the piercing damage are slowed by 50% for 1 second, with the slow duration scaling with the spear's travel time, up to 3 seconds.\n\nWhen the Spear of Destruction hits the first enemy hero, it creates a shadow behind them and refreshes the cooldown of Abyss Walker. Moskov can then cast Abyss Walker from the shadow's location, sharing the same properties and cooldown as his normal Skill 1.\n\n- Cooldown: 55.0 / 50.0 / 45.0 seconds\n- Mana cost: 130 / 150 / 170\n- Base damage: 340 / 420 / 500 physical damage\n- Additional scaling: high bonus based on Physical Attack\n- Slow: 50% for 1 to 3 seconds, depending on travel time\n\nThe second phase of this Ultimate's Abyss Walker effect uses the same attack speed boost values as the normal Skill 1, making it possible to use the Ultimate's dash even without having learned Skill 1. An overlay camera tracks the spear and its shadow when cast.\n\n# Trivia\n\n- Moskov's name is derived from the Moskva River in Russia, from which its capital, Moscow, is also derived.\n- Also his name is Russian descent, along with other Russian-descended heroes.\n- Moskov throws his spear using his left hand, making him the only left-handed, single-wielding marksman.\n- Moskov's skin Javelin Champion has the number on his shirt \"1718\" which relates to the lore Laboratory 1718.\n- Moskov's skin Infernal Wyrmlord skin is first ever skin to receive \"Stunning Special Effects\".\n",
+  "metadata": {
+    "storyType": "multi_chapter",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "khaleed",
+        "khufra",
+        "natalia",
+        "masha"
+      ],
+      "faction": "Agelta Drylands",
+      "allies": [],
+      "rivals": [
+        "khaleed",
+        "khufra"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Prince",
+      "locationTies": [
+        {
+          "location": "Emerald Road",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        },
+        {
+          "location": "Ruins of Tivacan",
+          "relationship": "lore"
+        }
+      ]
+    },
+    "moods": [
+      "dark",
+      "vengeful",
+      "tragic"
+    ],
+    "themes": [
+      "revenge",
+      "power",
+      "destiny"
+    ],
+    "hook": "Tempted by a vortex of darkness beneath the desert sands, the fallen prince Moskov seizes a cursed spear and returns from death, bent on silent vengeance.",
+    "teaser": "Pinned to the desert and left for dead, Moskov awakens in a vortex of bones and shadows. A weapon of pure darkness offers him a single bargain: embrace revenge.",
+    "openingLine": "Are you awake, lamb?",
+    "dominantColor": "#3A1A4F",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 3,
+    "chapterTitles": [
+      "Awakening in the Vortex",
+      "The Desert Tyrant’s Design",
+      "Spear of Quiescence"
+    ],
+    "plotKeywords": [
+      "desert warrior",
+      "death and rebirth",
+      "cursed weapon",
+      "vortex of darkness",
+      "tribal war",
+      "tyrant’s scheme",
+      "revenge pact"
+    ],
+    "characterTraits": [
+      "vengeful",
+      "defiant",
+      "tragic",
+      "proud",
+      "relentless"
+    ],
+    "locations": [
+      "Emerald Road",
+      "Agelta Drylands",
+      "Ruins of Tivacan",
+      "desert vortex"
+    ],
+    "wordCount": 1642,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 4,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646910132,
+    "updatedAt": 1764646910132
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,134 @@
+{
+  "hero": "kaja",
+  "urlName": "kaja",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Nazar King\n\n**Origin:** Celestial Palace\n\n**Species:** Nazar\n\n**Gender:** Male\n\n**Occupation:** Leader of Nazar guardians\n\n**Affiliation:**\n- Lord of Light\n- Celestial Palace (previously)\n\n**Weapons:**\n- Electricity-infused whip\n- Ringed Electric Blade\n- Lightning Bombs\n\n**Abilities:**\n- Coils, suppresses and drags target\n\n**Relationships:**\n- Lord of Light (Overlord)\n- Companions (unspecified)\n\n**Voice Actors:**\n- English: Cian Hoyne\n- Japanese: Yano Ryota (矢野 龍太)"
+    },
+    "story": {
+      "markdown": "> \"Leader of Nazar who guards the Celestial Palace\"\n\nLiving in the Celestial Palace where the gods inhabit, he is the leader of the Nazar who is responsible for guarding the Celestial Palace. Being the incarnation of the Eagle Angel, he resists the Empire's invasion of the Celestial Palace holding a divine whip."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Wrath Sanction",
+        "cooldown": 6,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "Kaja achieves Wrath Sanction every 6 seconds. His next basic attack will send lightning to enemies, dealing scaling magic damage and paralyzing them. The lightning will hit enemies nearby as well, up to 3 times.\n\nThis attack increases damage by a percentage of the target's Max HP on minions and creeps.\n\nParalyzing: Slows enemies by approximately 90% for approximately 0.4 second and reduces their damage by 8% (up to 4 stacks) for 4 seconds.\n\nDamage Dealt Reduction to Enemies: 8% / 16% / 24% / 32%."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Ring of Order",
+        "cooldown": 4.5,
+        "cost": 75,
+        "role": "Damage",
+        "details": {
+          "markdown": "Kaja releases a Ringed Electric Blade that quickly expands and contracts, dealing magic damage to enemies hit on its way out and back and paralyzing them. Each time an enemy is hit by the Electric Blade, Kaja's Movement Speed is restored by 100, reduced to 30% effectiveness after multiple hits.\n\nBase Damage: 135 / 165 / 195 / 225 / 255 / 285.\n\nCooldown: 6.5 / 6.3 / 6.1 / 4.9 / 4.7 / 4.5 seconds.\n\nMana Cost: 50 / 55 / 60 / 65 / 70 / 75."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Lightning Bomb",
+        "cooldown": 10,
+        "cost": 90,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Kaja dashes in the target direction while leaving 3 Lightning Bombs along the way. The Bombs will explode upon enemy contact, dealing magic damage to the enemy and paralyzing them.\n\nBase Damage: 200 / 230 / 260 / 290 / 320 / 350.\n\nCooldown: 13.0 / 12.4 / 11.8 / 11.2 / 10.6 / 10.0 seconds.\n\nMana Cost: 65 / 70 / 75 / 80 / 85 / 90."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Divine Judgement",
+        "cooldown": 60,
+        "cost": 0,
+        "role": "Control",
+        "details": {
+          "markdown": "Kaja deals magic damage to a designated enemy hero, suppresses and paralyzes them for 1.5 seconds. During the suppression, Kaja can drag the enemy hero along with him.\n\nBase Damage: 300 / 450 / 600."
+        }
+      }
+    ],
+    "trivia": []
+  },
+  "markdown": "# Profile\n\n**Alias:** Nazar King\n\n**Origin:** Celestial Palace\n\n**Species:** Nazar\n\n**Gender:** Male\n\n**Occupation:** Leader of Nazar guardians\n\n**Affiliation:**\n- Lord of Light\n- Celestial Palace (previously)\n\n**Weapons:**\n- Electricity-infused whip\n- Ringed Electric Blade\n- Lightning Bombs\n\n**Abilities:**\n- Coils, suppresses and drags target\n\n**Relationships:**\n- Lord of Light (Overlord)\n- Companions (unspecified)\n\n**Voice Actors:**\n- English: Cian Hoyne\n- Japanese: Yano Ryota (矢野 龍太)\n\n# Story\n\n> \"Leader of Nazar who guards the Celestial Palace\"\n\nLiving in the Celestial Palace where the gods inhabit, he is the leader of the Nazar who is responsible for guarding the Celestial Palace. Being the incarnation of the Eagle Angel, he resists the Empire's invasion of the Celestial Palace holding a divine whip.\n\n# Abilities\n\n## Wrath Sanction\n\nKaja achieves Wrath Sanction every 6 seconds. His next basic attack will send lightning to enemies, dealing scaling magic damage and paralyzing them. The lightning will hit enemies nearby as well, up to 3 times.\n\nThis attack increases damage by a percentage of the target's Max HP on minions and creeps.\n\nParalyzing: Slows enemies by approximately 90% for approximately 0.4 second and reduces their damage by 8% (up to 4 stacks) for 4 seconds.\n\nDamage Dealt Reduction to Enemies: 8% / 16% / 24% / 32%.\n\n## Ring of Order\n\nKaja releases a Ringed Electric Blade that quickly expands and contracts, dealing magic damage to enemies hit on its way out and back and paralyzing them. Each time an enemy is hit by the Electric Blade, Kaja's Movement Speed is restored by 100, reduced to 30% effectiveness after multiple hits.\n\nBase Damage: 135 / 165 / 195 / 225 / 255 / 285.\n\nCooldown: 6.5 / 6.3 / 6.1 / 4.9 / 4.7 / 4.5 seconds.\n\nMana Cost: 50 / 55 / 60 / 65 / 70 / 75.\n\n## Lightning Bomb\n\nKaja dashes in the target direction while leaving 3 Lightning Bombs along the way. The Bombs will explode upon enemy contact, dealing magic damage to the enemy and paralyzing them.\n\nBase Damage: 200 / 230 / 260 / 290 / 320 / 350.\n\nCooldown: 13.0 / 12.4 / 11.8 / 11.2 / 10.6 / 10.0 seconds.\n\nMana Cost: 65 / 70 / 75 / 80 / 85 / 90.\n\n## Divine Judgement\n\nKaja deals magic damage to a designated enemy hero, suppresses and paralyzes them for 1.5 seconds. During the suppression, Kaja can drag the enemy hero along with him.\n\nBase Damage: 300 / 450 / 600.\n\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "ongoing",
+    "relationships": {
+      "relatedHeroes": [
+        "uranus",
+        "rafaela",
+        "edith"
+      ],
+      "faction": "Celestial Palace",
+      "allies": [
+        "uranus",
+        "rafaela",
+        "edith"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Leader",
+      "locationTies": [
+        {
+          "location": "Celestial Palace",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic"
+    ],
+    "themes": [
+      "duty",
+      "power"
+    ],
+    "hook": "Living in the Celestial Palace where the gods inhabit, he is the leader of the Nazar who is responsible for guarding the Celestial Palace.",
+    "teaser": "Leader of the Nazar and incarnation of the Eagle Angel, Kaja guards the ruined Celestial Palace with divine lightning, awaiting his master's return.",
+    "openingLine": "The Celestial Palace, home of the gods, was once a bustling city patrolled by innumerable Nazar guardians.",
+    "dominantColor": "#f4d03f",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": false,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "celestial palace",
+      "nazar guardians",
+      "divine lightning",
+      "demon invasion",
+      "rebuilding a ruined city"
+    ],
+    "characterTraits": [
+      "dutiful",
+      "powerful",
+      "steadfast"
+    ],
+    "locations": [
+      "Celestial Palace"
+    ],
+    "wordCount": 395,
+    "readingTimeMinutes": 3,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646938638,
+    "updatedAt": 1764646938638
+  },
+  "lastUpdated": null
+}

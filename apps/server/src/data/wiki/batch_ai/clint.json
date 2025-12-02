@@ -1,0 +1,226 @@
+{
+  "hero": "clint",
+  "urlName": "clint",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** West Justice\n\n**Origin:** Los Pecados, Agelta Drylands\n\n**Occupation:** Town sheriff\n\n**Affiliation:**\n- Los Pecados indigenous peoples\n- Iceberg Sand Hunters (hostile)\n\n**Weapons:**\n- Direwolf (Shotgun)\n- Falcon (Revolver)\n\n**Chinese Name:** 克林特 (kèlíntè)\n\n> \"A sharpshooter full of righteousness and justice.\""
+    },
+    "story": {
+      "markdown": "Clint is a sheriff in a small western town. He ordered the execution of Kane's nephew Blandy. The residents were afraid of Kane so they had ended Blandy over to a gang and expelled Clint. But Blandy still didn't let the town go. Clint came out to guard the town and his time of crisis. After the matter was over, he went to Los Pecados to completely eradicate Kane's evil forces."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Frontier Sheriff",
+          "content": {
+            "markdown": "On the desolate frontier of Moniyan, the border with Agelta, there was an ordinary town. The residents here lived a peaceful and stable life away from the hustle and bustle of human society. They worked during the day, and at night they go to the tavern in the town for few drinks to relax.\n\nSuch an orderly and stable life was all due to Clint, the Sheriff of the town. Clint was a famous fast gunner, with unmatched good marksmanship, and was known for his fastest speed of drawing gun. The dutiful Clint always took maintaining the security of the town as his duty. He loved his job and duty, and believed in the fairness and justice of the law. He hated evil as his enemy, and had been protecting the town from all kinds of robbers and bandits for many years. Therefore, he was loved by the residents of the town."
+          }
+        },
+        {
+          "title": "The Tavern Incident",
+          "content": {
+            "markdown": "On an ordinary night, Clint went on his daily patrol with his gun as usual. In the middle of his patrol, he suddenly heard the gunshots and disgusting shouts from the tavern. Clint knew instinctively that a group of uninvited guests broke into the peaceful town.\n\nClint immediately rushed to the tavern, where a group of weirdly dressed drunkards were smashing wildly. Many residents were beaten to death by them, while the owner of the tavern was shot and killed by the gangster leader. In the face of Clint’s warning, the gangsters were not frightened, but blatantly declared that the town would soon be taken over by them, and advised Clint not to meddle.\n\nWhat the gangsters did angered Clint, so he drew out his gun and fought a fierce battle with them. Finally, except for a minion who escaped by chance, the rest of the gangsters were either killed by Clint’s gun or lost their combat effectiveness and were captured without any resistance."
+          }
+        },
+        {
+          "title": "Blandy’s Threat",
+          "content": {
+            "markdown": "At noon the next day, Clint took the captured villains to the center of the town, preparing to give the criminals a just punishment under the witness of all the residents. The angry people also demanded the severe punishment of these outsiders. But just then, the villain leader suddenly revealed his identity: he was Blandy, the nephew of Waldo Kane, the most powerful boss in Los Pecados. His men had fled back to Los Pecados last night to deliver a message that if anything happened to him, his uncle would definitely raze this small town, and everyone would be buried with him.\n\nBlandy had just finished his words, the angry crowd suddenly quieted down. They knew the City of Sin and Waldo Kane, and they knew their ways of doing things better. Soon, the residents wavered. They advocated the release of Blandy and hoped that Blandy would “forget” his unpleasant experience in the town.\n\nIn the eyes of Clint, who hated evil most, it was nothing more than a compromise to criminals and trampling on justice. Regardless of residents’ opposition, he threw Blandy into prison and announced that he would hang him three days later to comfort the tavern owner who had been shot by him."
+          }
+        },
+        {
+          "title": "Betrayal of the Town",
+          "content": {
+            "markdown": "After no more than three days, a large number of gangsters had come to the outskirts of the town. They brought lots of weapons, demanding that the residents immediately hand over Blandy, and offer a large ransom to apologize.\n\nThe safety of the town was greatly threatened by those criminals. Clint came out boldly and called on everyone to take up arms to fight back the gangs and defend their homeland. But what Clint didn’t expect was that the residents and colleagues he had tried to protect in the past did not intend to live and die with him. Instead, they blamed Clint for his stubbornness and inflexibility, which brought disaster to the town. After a hasty vote, the residents relieve Clint of his post as Sheriff and drove him out of town.\n\nThe residents then released Blandy and handed in a large ransom. But even so, the ferocious Blandy still chose the treachery, leading the gangs to occupy the town, and preparing to burn the town."
+          }
+        },
+        {
+          "title": "Return to a Burning Town",
+          "content": {
+            "markdown": "By this time, Clint had carried his bags and walked far out of the town. However, when the fire in the small town was soaring into the sky, Clint could not ignore it. Even if those people he had protected with his life and blood betrayed him, the law of justice in his mind could not be erased by this, let alone standing by and watching the gangsters slaughtering the town. Even if he was alone, Clint would fight crime to the end.\n\nAt the time when the gangsters were unscrupulously destroying the town, Clint appeared in the town as if a soldier came from heaven. His invincible marksmanship and amazing speed of drawing gun became the most terrible nightmare of criminals on the night. After a fierce battle, Clint was scarred, and the gangsters also suffered heavy casualties, protecting Blandy, who was wounded by Clint, to escape.\n\nThe survived residents realized their mistakes and begged Clint for forgiveness, hoping that Clint would stay and protect the town. But Clint only smiled and didn’t answered. That night, Clint rode on his old donkey, left the town quietly, and set foot on the road to the City of Sin.\n\nHe knew that if he wouldn’t go to find Kane, Kane would come to find him."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Double Shot",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "After each skill cast, Clint's next Basic Attack within 4 seconds penetrates a line of enemies, dealing enhanced physical damage based on level and Physical Attack. This damage can trigger attack effects, and the part affected by Physical Attack can critically strike.\n\n- Enhanced Basic Attack Range: 7.\n- Single-target attack effects such as certain equipment unique passives or marksman talents prioritize the targeted enemy of this enhanced basic attack.\n- The enhanced basic attack can stack multiple Thunder Belt unique passive stacks within a single attack."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Quick Draw",
+        "cooldown": 8,
+        "cost": 50,
+        "role": "Damage",
+        "details": {
+          "markdown": "Clint fires 5 bullets in quick succession in the target direction, each dealing physical damage to the enemy hit. The bullets will spread evenly across enemies in a fan-shaped area. Enemies hit by multiple bullets will take 30%–50% damage after the first bullet.\n\n- Base Damage: 250 / 280 / 310 / 340 / 370 / 400\n- Damage of the second bullet hit on the same target: 30% / 34% / 38% / 42% / 46% / 50%\n- Decay ratio per bullet received (level 1): 100% / 30% / 5% / 5% / 5%\n- Decay ratio per bullet received (level 6): 100% / 50% / 5% / 5% / 5%\n\nNotes:\n- This skill has reduced foreswing time by 50% and reduced backswing time by 20% (Patch Notes 1.9.32).\n- The 3rd to 5th bullets deal 5% of the initial damage.\n- This skill's attacks prioritize enemy heroes the most."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Trapping Recoil",
+        "cooldown": 10,
+        "cost": 65,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Clint shoots a trap net in the target direction, slightly jumping back while dealing physical damage to the first enemy hit and immobilizing them for 1.2 seconds. Successfully hitting an enemy reduces the cooldown of this skill by 40%.\n\n- Skill range (Patch Notes 1.9.32): 3.8\n- Dash distance (Patch Notes 1.9.32): 3\n- Base Damage: 140 / 160 / 180 / 200 / 220 / 240\n- Mana Cost: 65 / 75 / 85 / 95 / 105 / 115\n\nNotes:\n- The dashing speed is increased by 20% (Patch Notes 1.9.32)."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Grenade Bombardment",
+        "cooldown": 3,
+        "cost": 50,
+        "role": "Damage",
+        "details": {
+          "markdown": "Clint launches a grenade in the target direction that explodes on the first enemy hit, dealing physical damage and slowing them by 25% for 1.2 seconds. Clint gains a grenade recharge every 12–10 seconds (up to 5).\n\n- Skill range (Patch Notes 1.9.32): 7\n- Base Damage: 280 / 340 / 400\n- Cooldown per cast: 3 seconds\n- Recharge time: 12 / 11 / 10 seconds\n- Mana Cost: 50 / 55 / 60\n\nNotes:\n- This skill has reduced foreswing time and backswing time by 33% (Patch Notes 1.9.32)."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Clint was the very first hero to be reworked. He's also the only one whose rework was aimed to nerf him, as he was intended to be \"a marksman who's good at poking and consuming enemies from distance, rather than a hero who charges up and deals crowd damage like an assassin\" (see Patch Notes 1.1.50)."
+      },
+      {
+        "markdown": "All of his old skills were reused or repurposed for other heroes with some changes."
+      },
+      {
+        "markdown": "Clint has the most redesign out of all of the heroes in the game and currently has 6 redesigns."
+      },
+      {
+        "markdown": "Clint's name is presumably referenced from Clint Eastwood, who is known for starring and directing Western-style films and television series."
+      },
+      {
+        "markdown": "Despite having a double-barreled shotgun by design, it behaves as a rifle that deals damage in a straight line, instead of a spread shot of a typical shotgun."
+      },
+      {
+        "markdown": "Before revamp, his first skill was the first skill in the game that can blind enemies, which would reduce the enemies' hit rate. After he was revamped, this mechanic was removed from the game as the game removed this skill."
+      },
+      {
+        "markdown": "His ultimate is one of the few skills in the game that can stack up uses."
+      },
+      {
+        "markdown": "Clint's Valentine skin refers to the American hard rock band Guns N' Roses."
+      },
+      {
+        "markdown": "Clint is one of the heroes who doesn't have a basic skin."
+      },
+      {
+        "markdown": "He's the first hero to have 2 Starlight skins: \"Rock and Roll\" and \"Operator CL\"."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** West Justice\n\n**Origin:** Los Pecados, Agelta Drylands\n\n**Occupation:** Town sheriff\n\n**Affiliation:**\n- Los Pecados indigenous peoples\n- Iceberg Sand Hunters (hostile)\n\n**Weapons:**\n- Direwolf (Shotgun)\n- Falcon (Revolver)\n\n**Chinese Name:** 克林特 (kèlíntè)\n\n> \"A sharpshooter full of righteousness and justice.\"\n\n# Story\n\nClint is a sheriff in a small western town. He ordered the execution of Kane's nephew Blandy. The residents were afraid of Kane so they had ended Blandy over to a gang and expelled Clint. But Blandy still didn't let the town go. Clint came out to guard the town and his time of crisis. After the matter was over, he went to Los Pecados to completely eradicate Kane's evil forces.\n\n# Side Story\n\n## Frontier Sheriff\n\nOn the desolate frontier of Moniyan, the border with Agelta, there was an ordinary town. The residents here lived a peaceful and stable life away from the hustle and bustle of human society. They worked during the day, and at night they go to the tavern in the town for few drinks to relax.\n\nSuch an orderly and stable life was all due to Clint, the Sheriff of the town. Clint was a famous fast gunner, with unmatched good marksmanship, and was known for his fastest speed of drawing gun. The dutiful Clint always took maintaining the security of the town as his duty. He loved his job and duty, and believed in the fairness and justice of the law. He hated evil as his enemy, and had been protecting the town from all kinds of robbers and bandits for many years. Therefore, he was loved by the residents of the town.\n\n## The Tavern Incident\n\nOn an ordinary night, Clint went on his daily patrol with his gun as usual. In the middle of his patrol, he suddenly heard the gunshots and disgusting shouts from the tavern. Clint knew instinctively that a group of uninvited guests broke into the peaceful town.\n\nClint immediately rushed to the tavern, where a group of weirdly dressed drunkards were smashing wildly. Many residents were beaten to death by them, while the owner of the tavern was shot and killed by the gangster leader. In the face of Clint’s warning, the gangsters were not frightened, but blatantly declared that the town would soon be taken over by them, and advised Clint not to meddle.\n\nWhat the gangsters did angered Clint, so he drew out his gun and fought a fierce battle with them. Finally, except for a minion who escaped by chance, the rest of the gangsters were either killed by Clint’s gun or lost their combat effectiveness and were captured without any resistance.\n\n## Blandy’s Threat\n\nAt noon the next day, Clint took the captured villains to the center of the town, preparing to give the criminals a just punishment under the witness of all the residents. The angry people also demanded the severe punishment of these outsiders. But just then, the villain leader suddenly revealed his identity: he was Blandy, the nephew of Waldo Kane, the most powerful boss in Los Pecados. His men had fled back to Los Pecados last night to deliver a message that if anything happened to him, his uncle would definitely raze this small town, and everyone would be buried with him.\n\nBlandy had just finished his words, the angry crowd suddenly quieted down. They knew the City of Sin and Waldo Kane, and they knew their ways of doing things better. Soon, the residents wavered. They advocated the release of Blandy and hoped that Blandy would “forget” his unpleasant experience in the town.\n\nIn the eyes of Clint, who hated evil most, it was nothing more than a compromise to criminals and trampling on justice. Regardless of residents’ opposition, he threw Blandy into prison and announced that he would hang him three days later to comfort the tavern owner who had been shot by him.\n\n## Betrayal of the Town\n\nAfter no more than three days, a large number of gangsters had come to the outskirts of the town. They brought lots of weapons, demanding that the residents immediately hand over Blandy, and offer a large ransom to apologize.\n\nThe safety of the town was greatly threatened by those criminals. Clint came out boldly and called on everyone to take up arms to fight back the gangs and defend their homeland. But what Clint didn’t expect was that the residents and colleagues he had tried to protect in the past did not intend to live and die with him. Instead, they blamed Clint for his stubbornness and inflexibility, which brought disaster to the town. After a hasty vote, the residents relieve Clint of his post as Sheriff and drove him out of town.\n\nThe residents then released Blandy and handed in a large ransom. But even so, the ferocious Blandy still chose the treachery, leading the gangs to occupy the town, and preparing to burn the town.\n\n## Return to a Burning Town\n\nBy this time, Clint had carried his bags and walked far out of the town. However, when the fire in the small town was soaring into the sky, Clint could not ignore it. Even if those people he had protected with his life and blood betrayed him, the law of justice in his mind could not be erased by this, let alone standing by and watching the gangsters slaughtering the town. Even if he was alone, Clint would fight crime to the end.\n\nAt the time when the gangsters were unscrupulously destroying the town, Clint appeared in the town as if a soldier came from heaven. His invincible marksmanship and amazing speed of drawing gun became the most terrible nightmare of criminals on the night. After a fierce battle, Clint was scarred, and the gangsters also suffered heavy casualties, protecting Blandy, who was wounded by Clint, to escape.\n\nThe survived residents realized their mistakes and begged Clint for forgiveness, hoping that Clint would stay and protect the town. But Clint only smiled and didn’t answered. That night, Clint rode on his old donkey, left the town quietly, and set foot on the road to the City of Sin.\n\nHe knew that if he wouldn’t go to find Kane, Kane would come to find him.\n\n# Abilities\n\n## Double Shot\n\nAfter each skill cast, Clint's next Basic Attack within 4 seconds penetrates a line of enemies, dealing enhanced physical damage based on level and Physical Attack. This damage can trigger attack effects, and the part affected by Physical Attack can critically strike.\n\n- Enhanced Basic Attack Range: 7.\n- Single-target attack effects such as certain equipment unique passives or marksman talents prioritize the targeted enemy of this enhanced basic attack.\n- The enhanced basic attack can stack multiple Thunder Belt unique passive stacks within a single attack.\n\n## Quick Draw\n\nClint fires 5 bullets in quick succession in the target direction, each dealing physical damage to the enemy hit. The bullets will spread evenly across enemies in a fan-shaped area. Enemies hit by multiple bullets will take 30%–50% damage after the first bullet.\n\n- Base Damage: 250 / 280 / 310 / 340 / 370 / 400\n- Damage of the second bullet hit on the same target: 30% / 34% / 38% / 42% / 46% / 50%\n- Decay ratio per bullet received (level 1): 100% / 30% / 5% / 5% / 5%\n- Decay ratio per bullet received (level 6): 100% / 50% / 5% / 5% / 5%\n\nNotes:\n- This skill has reduced foreswing time by 50% and reduced backswing time by 20% (Patch Notes 1.9.32).\n- The 3rd to 5th bullets deal 5% of the initial damage.\n- This skill's attacks prioritize enemy heroes the most.\n\n## Trapping Recoil\n\nClint shoots a trap net in the target direction, slightly jumping back while dealing physical damage to the first enemy hit and immobilizing them for 1.2 seconds. Successfully hitting an enemy reduces the cooldown of this skill by 40%.\n\n- Skill range (Patch Notes 1.9.32): 3.8\n- Dash distance (Patch Notes 1.9.32): 3\n- Base Damage: 140 / 160 / 180 / 200 / 220 / 240\n- Mana Cost: 65 / 75 / 85 / 95 / 105 / 115\n\nNotes:\n- The dashing speed is increased by 20% (Patch Notes 1.9.32).\n\n## Grenade Bombardment\n\nClint launches a grenade in the target direction that explodes on the first enemy hit, dealing physical damage and slowing them by 25% for 1.2 seconds. Clint gains a grenade recharge every 12–10 seconds (up to 5).\n\n- Skill range (Patch Notes 1.9.32): 7\n- Base Damage: 280 / 340 / 400\n- Cooldown per cast: 3 seconds\n- Recharge time: 12 / 11 / 10 seconds\n- Mana Cost: 50 / 55 / 60\n\nNotes:\n- This skill has reduced foreswing time and backswing time by 33% (Patch Notes 1.9.32).\n\n# Trivia\n\n- Clint was the very first hero to be reworked. He's also the only one whose rework was aimed to nerf him, as he was intended to be \"a marksman who's good at poking and consuming enemies from distance, rather than a hero who charges up and deals crowd damage like an assassin\" (see Patch Notes 1.1.50).\n- All of his old skills were reused or repurposed for other heroes with some changes.\n- Clint has the most redesign out of all of the heroes in the game and currently has 6 redesigns.\n- Clint's name is presumably referenced from Clint Eastwood, who is known for starring and directing Western-style films and television series.\n- Despite having a double-barreled shotgun by design, it behaves as a rifle that deals damage in a straight line, instead of a spread shot of a typical shotgun.\n- Before revamp, his first skill was the first skill in the game that can blind enemies, which would reduce the enemies' hit rate. After he was revamped, this mechanic was removed from the game as the game removed this skill.\n- His ultimate is one of the few skills in the game that can stack up uses.\n- Clint's Valentine skin refers to the American hard rock band Guns N' Roses.\n- Clint is one of the heroes who doesn't have a basic skin.\n- He's the first hero to have 2 Starlight skins: \"Rock and Roll\" and \"Operator CL\".\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "quest",
+    "relationships": {
+      "relatedHeroes": [
+        "claude",
+        "mathilda",
+        "fanny",
+        "tigreal",
+        "alucard",
+        "harith",
+        "alice",
+        "granger",
+        "karrie"
+      ],
+      "faction": "Agelta Drylands",
+      "allies": [],
+      "rivals": [
+        "waldo_kane",
+        "blandy"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Sheriff",
+      "locationTies": [
+        {
+          "location": "Los Pecados",
+          "relationship": "home"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "region"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "border"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "justice",
+      "betrayal",
+      "revenge"
+    ],
+    "hook": "Even after the town he bled to protect betrayed and exiled him, Clint turned back alone into the flames, choosing justice over survival or forgiveness.",
+    "teaser": "Exiled by the very town he swore to protect, frontier sheriff Clint rides toward the City of Sin, hunting the crime boss whose shadow burned his home.",
+    "openingLine": "On the desolate frontier of Moniyan, the border with Agelta, there was an ordinary town.",
+    "dominantColor": "#C98A3D",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 4,
+    "chapterTitles": [
+      "Frontier Sheriff",
+      "The Tavern Incident",
+      "Blandy’s Threat",
+      "Betrayal of the Town",
+      "Return to a Burning Town"
+    ],
+    "plotKeywords": [
+      "frontier town",
+      "gang attack",
+      "crime boss’s nephew",
+      "public execution",
+      "townsfolk betrayal",
+      "exile",
+      "burning town",
+      "lone stand",
+      "hunt for Waldo Kane"
+    ],
+    "characterTraits": [
+      "righteous",
+      "stubborn",
+      "dutiful",
+      "courageous",
+      "principled",
+      "vengeful"
+    ],
+    "locations": [
+      "Moniyan Empire",
+      "Agelta Drylands",
+      "Los Pecados"
+    ],
+    "wordCount": 1673,
+    "readingTimeMinutes": 12,
+    "connectionsCount": 9,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647002811,
+    "updatedAt": 1764647002811
+  },
+  "lastUpdated": null
+}

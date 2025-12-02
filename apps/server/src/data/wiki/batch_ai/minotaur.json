@@ -1,0 +1,178 @@
+{
+  "hero": "minotaur",
+  "urlName": "minotaur",
+  "sections": {
+    "profile": {
+      "markdown": "**Full Name:** Prince Minotaur of Minoa (formerly)\n\n**Alias:** Son of Minos\n\n**Chinese Name:** 蛮牛 (Mán niú)\n\n**Gender:** Male\n\n**Title:** Prince of Minoa (formerly)\n\n**Weapon:** Hammer\n\n**Abilities:** Induced rage to enhance abilities\n\n**Nationality:** Minoan (formerly)\n\n**Affiliation:** Minoa (formerly)\n\n**Birthplace:** Minoa, Agelta Drylands\n\n**Relationships:**\n- King of Minoa (father, killed by Minotaur)\n\n**Voice (Japanese):** Mineta Hiromu (峯田 大夢)\n\nMinoan prince determined to restore his homeland."
+    },
+    "story": {
+      "markdown": "> \"Minoan prince determined to restore his homeland.\"\n\nIn olden times, there was once a state named Minoa in Agelta Drylands. The prince in the state, Minotaur fatally injured his father in a fit of rage, after which he exiled himself to the Minoan Labyrinth in shame and regret. When he stepped out of the Labyrinth again, he found his state had long perished, his kin long gone. With his teeth set, Monitor embark on the path to restoring his homeland to its former glory.\n\nIn olden times, the Minoans founded a mysterious and prosperous state named Minoa in Agelta Drylands. The once-bustling Emerald Road connected Minoa with other western cities, creating a network of trade routes, while Minoa stood tall among all others with its advanced civilization and martial traditions.\n\nPrince Minotaur of Minoa was the most esteemed warrior back then. Passionate about fighting and often fueled by his rage, Minotaur would demonstrate terrifying bursts of strength in battle. Few were those who could even hope to last more than a few rounds against him.\n\nThe people grew to worship Minotaur, yet his father was deeply concerned about him. While reaping great success on the battlefield, Minotaur's savagery and impulsive behavior was unbecoming of the successor of the state.\n\nTo forge Minotaur into a suitable heir to the throne, the old king arranged for a special trial-one in which the prince must defeat a mysterious figure from foreign lands to qualify for the throne of Minoa.\n\nMinotaur accepted this unarmed duel without hesitation. He stepped onto the arena with his head held high and attempted to crush his opponent with brute force as he'd always done. However, his opponent this time was much tougher, and Minotaur had soon exhausted himself, losing his advantage.\n\nIn the end, the mysterious figure defeated the \"invincible\" Minotaur with measured counterattacks. The crowd cheered for the strong and graceful victor, yet Minotaur was overwhelmed by rage and shame.\n\nAnd when the mysterious figure stretched out his hand to help Minotaur get back to his feet, Minotaur grabbed the unsuspecting hand and pinned the grabbed the unsuspecting hand and pinned the mysterious figure to the ground, before throwing a series of vicious punches at him.\n\nAs his fists were covered in blood and the mysterious figure stopped struggling, Minotaur tore off the latter's mask amidst the boos of the crowd-and that was when his whole body stiffened. The severely injured figure on the ground was actually his father!\n\nThe old king grasped Minotaur's hand with his last strength and uttered his final words of instruction to his son,\n\n> \"You must learn to shoulder the responsibility as a king and continue the glory of Minoa...\"\n\nConsumed by shame and regret, Minotaur headed to the Minoan Labyrinth-the burial ground of the Minoan ancestors-and began his training and repentance. Over time, Minotaur gradually gained control over his rage and became able to tap into his raging powers at will.\n\nAs Minotaur thrust himself into this arduous training, an unexpected catastrophe struck. The entire Minoa. was flattened by the explosion of the Twilight Orb, and only Minotaur was left unharmed under the protection of the Labyrinth. Minotaur rushed toward the state amidst the tremors, wanting to find out what had happened, when a broken piece from the Twilight Orb plummeted into the Labyrinth and sealed it whole. Minotaur, who was half a step out of the Labyrinth, was sealed altogether and put into a deep slumber.\n\nThe catastrophe erased all traces of the Minoan civilization, leaving only the Minoan Labyrinth half-hidden in the sand. After countless days and nights, the broken piece from the Twilight Orb turned into Lunox and left. The seal was then lifted. Time in the Labyrinth began to flow again, while Minotaur slowly opened his eyes....\n\nAldous, the guardian of the Labyrinth, told Minotaur his state had long turned into dust, and he and his memories were all that remained. Minotaur, however, would believe none of those.\n\nWith his father's final entrustment still fresh in his mind, the prince vowed to himself that he must find his lost kin and rebuild the Minoan civilization. In the boundless sands, a set of hoof-prints extended into the horizon..."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Scourge of the Gods Retcon Notes",
+          "content": {
+            "markdown": "There are notable deviations between the \"Scourge of the Gods\" comic (released 2018) and Minotaur's story (updated 2021):\n\n* In the 2018 comic, Minotaur rushed outside the briefly protected labyrinth and witnessed the aftermath of the divine punishment of Minoa and fled cowardly from the catastrophe. While the 2021 story, Minotaur cannot go outside the labyrinth as \"a broken piece from the Twilight Orb plummeted into the Labyrinth and sealed it whole,\" trapping him for, presumably, a long time.\n* Comic shows Minotaur meeting Aldous after coming back to the labyrinth. 2021 story suggests instead that Minotaur met Aldous after the seal within the labyrinth has been lifted. This is supported by the fact that Minotaur was the only one trapped inside the Labyrinth, and Aldous is not even mentioned"
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Rage Incarnate",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "When Minotaur uses a skill, he will gain a temporary buff for 3 seconds and heal himself for a percentage of damage dealt by enemy heroes. These effects are doubled in Enraged state."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Despair Stomp",
+        "cooldown": 12,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Minotaur jumps to the target location, dealing physical damage scaling with base damage and his max HP to enemies in the area and briefly knocking them airborne. Enemies hit will be slowed by 40% while Minotaur's Basic Attacks are enhanced for 2 seconds to deal additional physical damage.\n\nIn Enraged state, this skill's area of effect range and damage are increased.\n\n- Type: Physical Skill, Blink\n- Base Damage: 280 / 295 / 310 / 325 / 340 / 355\n- Scaling: additional damage based on total physical attack and max HP\n- Cooldown: 12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5 seconds"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Motivation Roar",
+        "cooldown": 10,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Minotaur motivates himself and the nearby most wounded hero, restoring HP for them and healing himself based on a percentage of his lost HP. In Enraged state, Minotaur heals himself and nearby allies.\n\n- Effect: HP regeneration over a short duration for Minotaur and allies\n- HP Regen: 220 / 240 / 260 / 280 / 300 / 320\n- Scaling: additional healing based on lost HP and healing effects\n- Cooldown: 10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5 seconds"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Minoan Fury",
+        "cooldown": 60,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Minotaur enters Enraged state and smashes the ground 3 times. The first 2 hits deal physical damage to nearby enemies and slow them by 60%, while the final hit deals true damage and knocks targets airborne for 0.8 seconds. Minotaur is immune to control effects during this attack. The Enraged state lasts 12 seconds and enhances Minotaur's skills for the duration.\n\n- Base Damage: 180 / 240 / 300\n- True Damage: 200 / 250 / 300\n- Effects: Slow, Airborne, CC immunity while casting\n- Cooldown: 60.0 / 55.0 / 50.0 seconds\n\nQuote:\n\n> Rage grants me the power of destruction!"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "His name comes from the Minotaur, a legendary creature in Greek mythology with the body of a man and the head of a bull."
+      },
+      {
+        "markdown": "Minotaur real name is Asterion, inspired and taken from Astraeus. His name Minotaur was given when he became the strongest Minotaur of Minoan."
+      },
+      {
+        "markdown": "The name Astraeus comes from Greek word \"Ἀστερίων\" meaning Starry One which suggests in association of the bull constellation Taurus thus his skin name."
+      },
+      {
+        "markdown": "Minotaur is the only tank to heal allies."
+      },
+      {
+        "markdown": "His skin Orbiter was originally called Taurus, but was later changed because it will be colliding with his Zodiac skin Taurus."
+      },
+      {
+        "markdown": "Early concept art showed a more primitive stone hammer, but later versions made it look more refined and enchanted, possibly hinting at a magical origin."
+      },
+      {
+        "markdown": "He is the first hero with a \"Rage Bar\" mechanic in MLBB. Unlike most heroes who have a mana or energy system, Minotaur's abilities become stronger when his Rage Bar is full, making him a unique tank. But this has been redone, So his skills are enhanced when he uses his previously enhanced Ultimate."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Full Name:** Prince Minotaur of Minoa (formerly)\n\n**Alias:** Son of Minos\n\n**Chinese Name:** 蛮牛 (Mán niú)\n\n**Gender:** Male\n\n**Title:** Prince of Minoa (formerly)\n\n**Weapon:** Hammer\n\n**Abilities:** Induced rage to enhance abilities\n\n**Nationality:** Minoan (formerly)\n\n**Affiliation:** Minoa (formerly)\n\n**Birthplace:** Minoa, Agelta Drylands\n\n**Relationships:**\n- King of Minoa (father, killed by Minotaur)\n\n**Voice (Japanese):** Mineta Hiromu (峯田 大夢)\n\nMinoan prince determined to restore his homeland.\n\n# Story\n\n> \"Minoan prince determined to restore his homeland.\"\n\nIn olden times, there was once a state named Minoa in Agelta Drylands. The prince in the state, Minotaur fatally injured his father in a fit of rage, after which he exiled himself to the Minoan Labyrinth in shame and regret. When he stepped out of the Labyrinth again, he found his state had long perished, his kin long gone. With his teeth set, Monitor embark on the path to restoring his homeland to its former glory.\n\nIn olden times, the Minoans founded a mysterious and prosperous state named Minoa in Agelta Drylands. The once-bustling Emerald Road connected Minoa with other western cities, creating a network of trade routes, while Minoa stood tall among all others with its advanced civilization and martial traditions.\n\nPrince Minotaur of Minoa was the most esteemed warrior back then. Passionate about fighting and often fueled by his rage, Minotaur would demonstrate terrifying bursts of strength in battle. Few were those who could even hope to last more than a few rounds against him.\n\nThe people grew to worship Minotaur, yet his father was deeply concerned about him. While reaping great success on the battlefield, Minotaur's savagery and impulsive behavior was unbecoming of the successor of the state.\n\nTo forge Minotaur into a suitable heir to the throne, the old king arranged for a special trial-one in which the prince must defeat a mysterious figure from foreign lands to qualify for the throne of Minoa.\n\nMinotaur accepted this unarmed duel without hesitation. He stepped onto the arena with his head held high and attempted to crush his opponent with brute force as he'd always done. However, his opponent this time was much tougher, and Minotaur had soon exhausted himself, losing his advantage.\n\nIn the end, the mysterious figure defeated the \"invincible\" Minotaur with measured counterattacks. The crowd cheered for the strong and graceful victor, yet Minotaur was overwhelmed by rage and shame.\n\nAnd when the mysterious figure stretched out his hand to help Minotaur get back to his feet, Minotaur grabbed the unsuspecting hand and pinned the grabbed the unsuspecting hand and pinned the mysterious figure to the ground, before throwing a series of vicious punches at him.\n\nAs his fists were covered in blood and the mysterious figure stopped struggling, Minotaur tore off the latter's mask amidst the boos of the crowd-and that was when his whole body stiffened. The severely injured figure on the ground was actually his father!\n\nThe old king grasped Minotaur's hand with his last strength and uttered his final words of instruction to his son,\n\n> \"You must learn to shoulder the responsibility as a king and continue the glory of Minoa...\"\n\nConsumed by shame and regret, Minotaur headed to the Minoan Labyrinth-the burial ground of the Minoan ancestors-and began his training and repentance. Over time, Minotaur gradually gained control over his rage and became able to tap into his raging powers at will.\n\nAs Minotaur thrust himself into this arduous training, an unexpected catastrophe struck. The entire Minoa. was flattened by the explosion of the Twilight Orb, and only Minotaur was left unharmed under the protection of the Labyrinth. Minotaur rushed toward the state amidst the tremors, wanting to find out what had happened, when a broken piece from the Twilight Orb plummeted into the Labyrinth and sealed it whole. Minotaur, who was half a step out of the Labyrinth, was sealed altogether and put into a deep slumber.\n\nThe catastrophe erased all traces of the Minoan civilization, leaving only the Minoan Labyrinth half-hidden in the sand. After countless days and nights, the broken piece from the Twilight Orb turned into Lunox and left. The seal was then lifted. Time in the Labyrinth began to flow again, while Minotaur slowly opened his eyes....\n\nAldous, the guardian of the Labyrinth, told Minotaur his state had long turned into dust, and he and his memories were all that remained. Minotaur, however, would believe none of those.\n\nWith his father's final entrustment still fresh in his mind, the prince vowed to himself that he must find his lost kin and rebuild the Minoan civilization. In the boundless sands, a set of hoof-prints extended into the horizon...\n\n# Side Story\n\n## Scourge of the Gods Retcon Notes\n\nThere are notable deviations between the \"Scourge of the Gods\" comic (released 2018) and Minotaur's story (updated 2021):\n\n* In the 2018 comic, Minotaur rushed outside the briefly protected labyrinth and witnessed the aftermath of the divine punishment of Minoa and fled cowardly from the catastrophe. While the 2021 story, Minotaur cannot go outside the labyrinth as \"a broken piece from the Twilight Orb plummeted into the Labyrinth and sealed it whole,\" trapping him for, presumably, a long time.\n* Comic shows Minotaur meeting Aldous after coming back to the labyrinth. 2021 story suggests instead that Minotaur met Aldous after the seal within the labyrinth has been lifted. This is supported by the fact that Minotaur was the only one trapped inside the Labyrinth, and Aldous is not even mentioned\n\n# Abilities\n\n## Rage Incarnate\n\nWhen Minotaur uses a skill, he will gain a temporary buff for 3 seconds and heal himself for a percentage of damage dealt by enemy heroes. These effects are doubled in Enraged state.\n\n## Despair Stomp\n\nMinotaur jumps to the target location, dealing physical damage scaling with base damage and his max HP to enemies in the area and briefly knocking them airborne. Enemies hit will be slowed by 40% while Minotaur's Basic Attacks are enhanced for 2 seconds to deal additional physical damage.\n\nIn Enraged state, this skill's area of effect range and damage are increased.\n\n- Type: Physical Skill, Blink\n- Base Damage: 280 / 295 / 310 / 325 / 340 / 355\n- Scaling: additional damage based on total physical attack and max HP\n- Cooldown: 12.0 / 11.5 / 11.0 / 10.5 / 10.0 / 9.5 seconds\n\n## Motivation Roar\n\nMinotaur motivates himself and the nearby most wounded hero, restoring HP for them and healing himself based on a percentage of his lost HP. In Enraged state, Minotaur heals himself and nearby allies.\n\n- Effect: HP regeneration over a short duration for Minotaur and allies\n- HP Regen: 220 / 240 / 260 / 280 / 300 / 320\n- Scaling: additional healing based on lost HP and healing effects\n- Cooldown: 10.0 / 9.5 / 9.0 / 8.5 / 8.0 / 7.5 seconds\n\n## Minoan Fury\n\nMinotaur enters Enraged state and smashes the ground 3 times. The first 2 hits deal physical damage to nearby enemies and slow them by 60%, while the final hit deals true damage and knocks targets airborne for 0.8 seconds. Minotaur is immune to control effects during this attack. The Enraged state lasts 12 seconds and enhances Minotaur's skills for the duration.\n\n- Base Damage: 180 / 240 / 300\n- True Damage: 200 / 250 / 300\n- Effects: Slow, Airborne, CC immunity while casting\n- Cooldown: 60.0 / 55.0 / 50.0 seconds\n\nQuote:\n\n> Rage grants me the power of destruction!\n\n# Trivia\n\n- His name comes from the Minotaur, a legendary creature in Greek mythology with the body of a man and the head of a bull.\n- Minotaur real name is Asterion, inspired and taken from Astraeus. His name Minotaur was given when he became the strongest Minotaur of Minoan.\n- The name Astraeus comes from Greek word \"Ἀστερίων\" meaning Starry One which suggests in association of the bull constellation Taurus thus his skin name.\n- Minotaur is the only tank to heal allies.\n- His skin Orbiter was originally called Taurus, but was later changed because it will be colliding with his Zodiac skin Taurus.\n- Early concept art showed a more primitive stone hammer, but later versions made it look more refined and enchanted, possibly hinting at a magical origin.\n- He is the first hero with a \"Rage Bar\" mechanic in MLBB. Unlike most heroes who have a mana or energy system, Minotaur's abilities become stronger when his Rage Bar is full, making him a unique tank. But this has been redone, So his skills are enhanced when he uses his previously enhanced Ultimate.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "lunox",
+        "aldous"
+      ],
+      "faction": "Agelta Drylands",
+      "allies": [
+        "aldous"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Prince",
+      "locationTies": [
+        {
+          "location": "Minoa",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        },
+        {
+          "location": "Minoan Labyrinth",
+          "relationship": "exile"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "redemption",
+      "destiny",
+      "loss"
+    ],
+    "hook": "Consumed by shame after fatally injuring his own father, Minotaur awakens in a ruined world where only his memories and a buried labyrinth remain.",
+    "teaser": "Trapped in a timeless labyrinth and haunted by patricide, Minotaur awakens to a vanished kingdom and vows to rebuild the lost glory of Minoa.",
+    "openingLine": "In olden times, the Minoans founded a mysterious and prosperous state named Minoa in Agelta Drylands.",
+    "dominantColor": "#B5651D",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Scourge of the Gods Retcon Notes"
+    ],
+    "plotKeywords": [
+      "trial by combat",
+      "patricide",
+      "labyrinth training",
+      "twilight orb explosion",
+      "civilization wiped out",
+      "long slumber",
+      "search for lost kin"
+    ],
+    "characterTraits": [
+      "impulsive",
+      "powerful",
+      "remorseful",
+      "determined",
+      "proud"
+    ],
+    "locations": [
+      "Minoa",
+      "Agelta Drylands",
+      "Minoan Labyrinth"
+    ],
+    "wordCount": 1399,
+    "readingTimeMinutes": 10,
+    "connectionsCount": 2,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646909018,
+    "updatedAt": 1764646909018
+  },
+  "lastUpdated": null
+}

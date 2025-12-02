@@ -1,0 +1,156 @@
+{
+  "hero": "vale",
+  "urlName": "vale",
+  "sections": {
+    "profile": {
+      "markdown": "**Title:** Heir to Wind Fort\n\n**Origin:** Wind Fort, Agelta Drylands\n\n**Species:** Human\n\n**Gender:** Male\n\n**Affiliation:** Fire Throat\n\n**Weapons:** Floating Ritual Instrument\n\n**Abilities:** Wind magic\n\nA magician of Wind Fort and the only genius in the entire family who can change the form of wind magic at will. Once a close friend of Valir of Fire Throat. After the changes in the Land of Fire and Valir left his hometown, Vale has always adhered to the agreement he made with him, waiting for his return."
+    },
+    "story": {
+      "markdown": "> \"Heir to Wind Fort, wind mage\"\n\n[“]Valir, my beloved brother. You lost everything the day we made The pact. I'll see to it that the Fire Kingdom restores everything to the way it once was. Even if you still wish to avenge your cruel father, I do not blame you as long as you can cast away the storm within your heart. Nothing is as important as your happiness, not even my life.[”]\n\nVale fell into deep contemplation as he wrote his letter to Valir. Those first few lines brought Vale back to the days of his youth, when he and Valir were the closest of friends.\n\nAs Vale fell further into nostalgia, he remembered the day they met at a royal party. Ever since then, they both felt a strong affinity towards each other's magic. For a long time, Vale and Valir were inseparable. Together they left many memories in the Valley of the Winds, the Fire Kingdom and many other exotic lands. When unrest flooded the Fire Kingdom, Valir quickly made his leave. Only Vale knows exactly how much Valir sacrificed that day.\n\nAs time went on, the day of The pact was coming soon. Vale's magical abilities to control winds had grown more sophisticated over the years. In fact, he was the only member of his family who could change the winds with magic. Yet, Vale had never shown his magic to anyone before. Vale waited and waited for the day of The pact to come. On that day, he would put on a spectacular display of wind magic for Valir. Vale believes that Valir will see his magic, remember the precious times they had together, and return how things were in their youth."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Windtalk",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Vale gains 1 stack each time he gets a kill or an assist, increasing his Movement Speed by 8. This effect can stack up to 10 times.\n\nExtra Movement Speed per stack:\n- 1 stack: 8\n- 2 stacks: 16\n- 3 stacks: 24\n- 4 stacks: 32\n- 5 stacks: 40\n- 6 stacks: 48\n- 7 stacks: 56\n- 8 stacks: 64\n- 9 stacks: 72\n- 10 stacks: 80"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Wind Blade",
+        "cooldown": 6,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Cooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0 seconds\n\nMana Cost: 60 / 65 / 70 / 75 / 80 / 85\n\nVale unleashes two wind blades toward the left and right of a target area, each dealing magic damage based on level.\n\nBase Damage:\n- 250 / 290 / 330 / 370 / 410 / 450\n\nAdditional notes:\n- This is a magic damage skill.\n- Has 50% spell vamp ratio on its damage."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Windblow",
+        "cooldown": 10,
+        "cost": 90,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 10.0 seconds\n\nMana Cost: 90 / 95 / 100 / 105 / 110 / 115\n\nVale sends a whirlwind in the target direction, dealing initial magic damage to enemies hit and knocking them airborne for 1 second (each enemy can only be knocked airborne 1 time).\n\nWhen the whirlwind reaches its destination, it will remain for 1.6 seconds while continuously dealing sustained magic damage to enemies in range.\n\nDamage values by level:\n- Base Damage: 300 / 320 / 340 / 360 / 380 / 400\n- Sustained Damage (total over duration): 200 / 240 / 280 / 320 / 360 / 400\n\nAdditional notes:\n- The sustained damage is divided across multiple hits and can hit up to 4 times.\n- The sustained damage does not trigger damage effects.\n- During the cast delay, you can use Flicker to reposition the source of the whirlwind.\n- This skill can knock enemies airborne and affects Movement Speed through its control effects.\n- Has 50% spell vamp ratio on its damage."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Windstorm",
+        "cooldown": 40,
+        "cost": 150,
+        "role": "Control",
+        "details": {
+          "markdown": "Cooldown: 40.0 / 36.0 / 32.0 seconds\n\nMana Cost: 150 / 200 / 250\n\nVale summons a windstorm at the target location, dealing sustained magic damage over time to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1.6 seconds, the windstorm will explode, dealing a large burst of magic damage. The remaining whirlwinds will also be pulled into the center.\n\nDamage values by level:\n- Sustained Damage (total over duration): 150 / 225 / 300\n- Base Damage (explosion): 1000 / 1200 / 1400\n\nAdditional notes:\n- The sustained damage is divided across multiple hits and can hit up to 6 times.\n- This is a magic damage skill.\n- The pull effect continuously drags enemies toward the center of the storm.\n- Has 50% spell vamp ratio on its damage."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Despite being developed before several other heroes, Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other hero. If you sort the heroes in the Heroes page by Sale Time, Vale will appear between Claude and Leomord, instead of being after Badang. The hero order is due to his earlier introduction in Advanced Servers."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Title:** Heir to Wind Fort\n\n**Origin:** Wind Fort, Agelta Drylands\n\n**Species:** Human\n\n**Gender:** Male\n\n**Affiliation:** Fire Throat\n\n**Weapons:** Floating Ritual Instrument\n\n**Abilities:** Wind magic\n\nA magician of Wind Fort and the only genius in the entire family who can change the form of wind magic at will. Once a close friend of Valir of Fire Throat. After the changes in the Land of Fire and Valir left his hometown, Vale has always adhered to the agreement he made with him, waiting for his return.\n\n# Story\n\n> \"Heir to Wind Fort, wind mage\"\n\n[“]Valir, my beloved brother. You lost everything the day we made The pact. I'll see to it that the Fire Kingdom restores everything to the way it once was. Even if you still wish to avenge your cruel father, I do not blame you as long as you can cast away the storm within your heart. Nothing is as important as your happiness, not even my life.[”]\n\nVale fell into deep contemplation as he wrote his letter to Valir. Those first few lines brought Vale back to the days of his youth, when he and Valir were the closest of friends.\n\nAs Vale fell further into nostalgia, he remembered the day they met at a royal party. Ever since then, they both felt a strong affinity towards each other's magic. For a long time, Vale and Valir were inseparable. Together they left many memories in the Valley of the Winds, the Fire Kingdom and many other exotic lands. When unrest flooded the Fire Kingdom, Valir quickly made his leave. Only Vale knows exactly how much Valir sacrificed that day.\n\nAs time went on, the day of The pact was coming soon. Vale's magical abilities to control winds had grown more sophisticated over the years. In fact, he was the only member of his family who could change the winds with magic. Yet, Vale had never shown his magic to anyone before. Vale waited and waited for the day of The pact to come. On that day, he would put on a spectacular display of wind magic for Valir. Vale believes that Valir will see his magic, remember the precious times they had together, and return how things were in their youth.\n\n# Abilities\n\n## Windtalk\n\nVale gains 1 stack each time he gets a kill or an assist, increasing his Movement Speed by 8. This effect can stack up to 10 times.\n\nExtra Movement Speed per stack:\n- 1 stack: 8\n- 2 stacks: 16\n- 3 stacks: 24\n- 4 stacks: 32\n- 5 stacks: 40\n- 6 stacks: 48\n- 7 stacks: 56\n- 8 stacks: 64\n- 9 stacks: 72\n- 10 stacks: 80\n\n## Wind Blade\n\nCooldown: 6.0 / 5.6 / 5.2 / 4.8 / 4.4 / 4.0 seconds\n\nMana Cost: 60 / 65 / 70 / 75 / 80 / 85\n\nVale unleashes two wind blades toward the left and right of a target area, each dealing magic damage based on level.\n\nBase Damage:\n- 250 / 290 / 330 / 370 / 410 / 450\n\nAdditional notes:\n- This is a magic damage skill.\n- Has 50% spell vamp ratio on its damage.\n\n## Windblow\n\nCooldown: 10.0 seconds\n\nMana Cost: 90 / 95 / 100 / 105 / 110 / 115\n\nVale sends a whirlwind in the target direction, dealing initial magic damage to enemies hit and knocking them airborne for 1 second (each enemy can only be knocked airborne 1 time).\n\nWhen the whirlwind reaches its destination, it will remain for 1.6 seconds while continuously dealing sustained magic damage to enemies in range.\n\nDamage values by level:\n- Base Damage: 300 / 320 / 340 / 360 / 380 / 400\n- Sustained Damage (total over duration): 200 / 240 / 280 / 320 / 360 / 400\n\nAdditional notes:\n- The sustained damage is divided across multiple hits and can hit up to 4 times.\n- The sustained damage does not trigger damage effects.\n- During the cast delay, you can use Flicker to reposition the source of the whirlwind.\n- This skill can knock enemies airborne and affects Movement Speed through its control effects.\n- Has 50% spell vamp ratio on its damage.\n\n## Windstorm\n\nCooldown: 40.0 / 36.0 / 32.0 seconds\n\nMana Cost: 150 / 200 / 250\n\nVale summons a windstorm at the target location, dealing sustained magic damage over time to enemies in the area and slowing them by 20% while continuously pulling them into its center. After 1.6 seconds, the windstorm will explode, dealing a large burst of magic damage. The remaining whirlwinds will also be pulled into the center.\n\nDamage values by level:\n- Sustained Damage (total over duration): 150 / 225 / 300\n- Base Damage (explosion): 1000 / 1200 / 1400\n\nAdditional notes:\n- The sustained damage is divided across multiple hits and can hit up to 6 times.\n- This is a magic damage skill.\n- The pull effect continuously drags enemies toward the center of the storm.\n- Has 50% spell vamp ratio on its damage.\n\n# Trivia\n\n- Despite being developed before several other heroes, Vale was released in Original servers only after all of them. Having been locked in Test servers for almost an entire year, he took the longest time to be released than any other hero. If you sort the heroes in the Heroes page by Sale Time, Vale will appear between Claude and Leomord, instead of being after Badang. The hero order is due to his earlier introduction in Advanced Servers.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "ongoing",
+    "relationships": {
+      "relatedHeroes": [
+        "valir",
+        "claude",
+        "leomord",
+        "badang"
+      ],
+      "faction": "Agelta Drylands",
+      "allies": [
+        "valir"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Heir",
+      "locationTies": [
+        {
+          "location": "Wind Fort",
+          "relationship": "home"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        },
+        {
+          "location": "Fire Kingdom",
+          "relationship": "visited"
+        },
+        {
+          "location": "Valley of the Winds",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "melancholic",
+      "heroic"
+    ],
+    "themes": [
+      "friendship",
+      "loyalty"
+    ],
+    "hook": "Vale writes to his lost brother-in-arms, vowing to restore the Fire Kingdom and sacrifice everything, if only Valir can cast away the storm in his heart.",
+    "teaser": "As the day of their pact nears, wind mage Vale perfects his secret art, hoping one breathtaking display will bring Valir back and mend a broken past.",
+    "openingLine": "[“]Valir, my beloved brother.",
+    "dominantColor": "#4BA3FF",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "letter to Valir",
+      "childhood friendship",
+      "royal party meeting",
+      "Fire Kingdom unrest",
+      "magical pact",
+      "hidden wind magic"
+    ],
+    "characterTraits": [
+      "loyal",
+      "nostalgic",
+      "devoted",
+      "patient",
+      "self-sacrificing"
+    ],
+    "locations": [
+      "Wind Fort",
+      "Agelta Drylands",
+      "Valley of the Winds",
+      "Fire Kingdom"
+    ],
+    "wordCount": 911,
+    "readingTimeMinutes": 7,
+    "connectionsCount": 4,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646852553,
+    "updatedAt": 1764646852553
+  },
+  "lastUpdated": null
+}

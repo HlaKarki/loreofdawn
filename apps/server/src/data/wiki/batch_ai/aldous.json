@@ -1,0 +1,170 @@
+{
+  "hero": "aldous",
+  "urlName": "aldous",
+  "sections": {
+    "profile": {
+      "markdown": "- Alias: *The Contractor*\n- Origin: Minoan Maze, Agelta Drylands\n- Species: DemiGod\n- Gender: Male\n- Occupation: Mercenary\n- Affiliation: \n  - Minoan Maze\n  - The Abyss (enemies)\n- Chinese name: 毅拳 (yìquán, \"Decisive Fist\" )\n\n\"Guardian of the Minoan Maze\"\n\nA guard of the Minos Labyrinth, who kept his pledge even after the kingdoms fall. He has blocked off intruders who covered the kingdoms heritage for a century with an unusually huge arm."
+    },
+    "story": {
+      "markdown": "Legends from the Land of Dawn say that the Western Desert's Minoan Kingdom possesses a mysterious labyrinth. In the maze is a statue of giant minotaur, which the people consider to be the mecca of the Minoan Kingdom. Some say that there is a group of mercenaries who guard the entire maze.\n\nThe Kingdom produced a lot of precious jade, which brought the Minoan people great wealth. Very quickly, the entire kingdom was lost in the intoxicating allure of gems. Even many mercenaries, tasked with guarding the sacred maze become corrupted, abandoning their duty. Only one stayed―Aldous, who had never forgotten his duty and guard the Minoan Labyrinth.\n\nUntil one day, a god came from the heavens to punish these lands. The powers of light and dark decimated the entire Minoan Kingdom, which even Aldous could not escape. The two streams dark and light energy surged into his body. Aldous thought he was about to die. However, the two streams of energy collided, causing great changes to his body. His skin grew long-black scales that could resist most attacks and monstrously large arms that could easily strike fear into people's hearts.\n\nWhen Aldous awoke from his daze, he found his people's kingdom all gone and the mysterious maze was now sealed by some unknown force. The remaining minotaurs decided that Aldous would stay to defend the maze, while the others travel across the Land of Dawn to find answers.\n\nNews of a mysterious force sealing the Minoan Maze spread quickly to the Abyssal Kingdom. To gather this strange energy, Selena decided to bring her Abyssal Demons with her to the entrance of the Minoan Maze―A huge battle was about to begin."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": []
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Contract: Transform",
+        "cooldown": 5,
+        "cost": null,
+        "role": "Defense",
+        "details": {
+          "markdown": "After every 2 Basic Attacks, Aldous gains a shield for 3 seconds on his next Physical Basic Attack. The shield value is 500 plus 3 times his current Soul Steal stack count. This effect can only be triggered once every 5 seconds.\n\n- Shield value scales with stacks: 503 / 506 / 509 / … / 2000\n- Trigger condition: after every 2 Basic Attacks\n- Duration: 3 seconds on the next Basic Attack\n- Internal cooldown: 5 seconds"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Contract: Soul Steal",
+        "cooldown": 4,
+        "cost": 60,
+        "role": "Damage",
+        "details": {
+          "markdown": "Aldous unleashes his inner energy to enhance his next Basic Attack to kill enemies and absorb their soul. Each stack gives extra damage, dealing damage equal to the skill's base damage plus 5 times the number of Soul Steal stacks.\n\nIf this attack kills an enemy hero, Lord, Turtle, enemy turret, Siege Minion, or other non-hero unit, Aldous will gain 12 / 12 / 10 / 10 / 10 / 4 stacks of Soul Steal (up to 650 stacks). The enhanced Basic Attack deals 300% extra base damage to Minions and Creeps. Aldous gets extra stacks (5 or 2, depending on the unit type) when a nearby enemy Siege Minion or other non-hero unit dies.\n\n- Skill type: Physical Basic Attack enhancement\n- Cooldown: 4 / 4 / 4 / 4 / 4 / 4 seconds\n- Mana cost: 60 / 65 / 70 / 75 / 80 / 85\n- Base Damage: 200 / 250 / 300 / 350 / 400 / 450\n- Extra Damage from stacks: scales from 5 up to 2500 based on Soul Steal stacks\n- Enhanced Basic Attack lasts for 5 seconds or until consumed\n- Cooldown starts upon casting the skill, but the skill cannot be used again until the enhanced Basic Attack is consumed or expired\n- Aldous charges toward a target when attacking using his enhanced Basic Attack\n- The enhanced Basic Attack's base damage and extra damage do not critically strike\n- Gains Soul Steal stacks when dying enemies have available souls to absorb"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Contract: Explosion",
+        "cooldown": 12,
+        "cost": 80,
+        "role": "Control",
+        "details": {
+          "markdown": "Aldous assumes a defensive stance, gaining 30% Damage Reduction and 20% extra Movement Speed for up to 2 seconds or until manual cancellation. When the stance ends, he deals Physical Damage to nearby enemies and stuns them, with both damage and stun duration scaling with how long he maintained the stance.\n\n- Skill type: Physical Skill\n- Cooldown: 12 / 11.5 / 11 / 10.5 / 10 / 9.5 seconds\n- Mana cost: 80 / 90 / 100 / 110 / 120 / 130\n- Defensive stance: 30% Damage Reduction, 20% Movement Speed, up to 2 seconds\n- Minimum Damage: 100 / 120 / 140 / 160 / 180 / 200\n- Maximum Damage: 200 / 240 / 280 / 320 / 360 / 400\n- Stun duration scales from 0.5 to 1 second based on stance duration\n\nThe skill provides both defensive utility and crowd control through Damage Reduction, Movement Speed, and an area stun."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Contract: Chase Fate",
+        "cooldown": 60,
+        "cost": 150,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Aldous gains vision of all enemy heroes for 5 seconds. During this time, if Aldous uses this skill again, he can dash toward an enemy hero of choice. When Aldous hits that enemy hero, he will deal Physical Damage based on skill level and the target's Max HP and knock back the target for 1 second.\n\nAldous can interrupt the target's movement and certain channeling abilities during the dash. Using this skill once again can cancel the dash, causing Aldous to blink to the designated direction instead.\n\n- Cooldown: 60 / 55 / 50 seconds\n- Mana cost: 150 / 200 / 250\n- Base Damage: 250 / 325 / 400, plus additional damage based on the target's Max HP\n- Effects: global vision on enemy heroes, long-range dash, knockback for 1 second, displacement and interruption potential\n\nNotes:\n- With perfect timing, it is possible to interrupt Aldous from dashing using strong control effects\n- The dash can only be interrupted by suppression-type control\n- He can freely use equipment actives and battle spells during the effect\n- Inside Yin's domain, he cannot lock on enemies outside and ongoing travel is cancelled\n- Likewise, he cannot select targets inside the domain, and does not pursue further when arriving in the target's last location"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Aldous is a boy's name of English origin meaning \"old.\" Aldous has long been associated with British writer Huxley, author of Brave New World."
+      },
+      {
+        "markdown": "His voice line \"Abandon hope, all ye who enter here.\" is a direct reference to Dante's quote in Inferno."
+      },
+      {
+        "markdown": "While still in development Aldous' first given name and hero title was Armstrong, Gravekeeper. It was later changed to Aulrad, Contractor. However, in Patch 1.2.78, his name was changed again to Aldous."
+      },
+      {
+        "markdown": "Aldous \"Red Mantle\" refers to his former appearance without his damaged body."
+      },
+      {
+        "markdown": "Aldous is the sole survivor of the divine punishment that devastated the Agelta Drylands. He was blessed by the Twilight Orb, which not only saved his life but also granted him immense power, granting him strength nearly equal to that of Gods or Supreme beings."
+      },
+      {
+        "markdown": "Aldous is one of only two heroes capable of harnessing the power of the Twilight Orb, the other being is."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Alias: *The Contractor*\n- Origin: Minoan Maze, Agelta Drylands\n- Species: DemiGod\n- Gender: Male\n- Occupation: Mercenary\n- Affiliation: \n  - Minoan Maze\n  - The Abyss (enemies)\n- Chinese name: 毅拳 (yìquán, \"Decisive Fist\" )\n\n\"Guardian of the Minoan Maze\"\n\nA guard of the Minos Labyrinth, who kept his pledge even after the kingdoms fall. He has blocked off intruders who covered the kingdoms heritage for a century with an unusually huge arm.\n\n# Story\n\nLegends from the Land of Dawn say that the Western Desert's Minoan Kingdom possesses a mysterious labyrinth. In the maze is a statue of giant minotaur, which the people consider to be the mecca of the Minoan Kingdom. Some say that there is a group of mercenaries who guard the entire maze.\n\nThe Kingdom produced a lot of precious jade, which brought the Minoan people great wealth. Very quickly, the entire kingdom was lost in the intoxicating allure of gems. Even many mercenaries, tasked with guarding the sacred maze become corrupted, abandoning their duty. Only one stayed―Aldous, who had never forgotten his duty and guard the Minoan Labyrinth.\n\nUntil one day, a god came from the heavens to punish these lands. The powers of light and dark decimated the entire Minoan Kingdom, which even Aldous could not escape. The two streams dark and light energy surged into his body. Aldous thought he was about to die. However, the two streams of energy collided, causing great changes to his body. His skin grew long-black scales that could resist most attacks and monstrously large arms that could easily strike fear into people's hearts.\n\nWhen Aldous awoke from his daze, he found his people's kingdom all gone and the mysterious maze was now sealed by some unknown force. The remaining minotaurs decided that Aldous would stay to defend the maze, while the others travel across the Land of Dawn to find answers.\n\nNews of a mysterious force sealing the Minoan Maze spread quickly to the Abyssal Kingdom. To gather this strange energy, Selena decided to bring her Abyssal Demons with her to the entrance of the Minoan Maze―A huge battle was about to begin.\n\n# Abilities\n\n## Contract: Transform\n\nAfter every 2 Basic Attacks, Aldous gains a shield for 3 seconds on his next Physical Basic Attack. The shield value is 500 plus 3 times his current Soul Steal stack count. This effect can only be triggered once every 5 seconds.\n\n- Shield value scales with stacks: 503 / 506 / 509 / … / 2000\n- Trigger condition: after every 2 Basic Attacks\n- Duration: 3 seconds on the next Basic Attack\n- Internal cooldown: 5 seconds\n\n## Contract: Soul Steal\n\nAldous unleashes his inner energy to enhance his next Basic Attack to kill enemies and absorb their soul. Each stack gives extra damage, dealing damage equal to the skill's base damage plus 5 times the number of Soul Steal stacks.\n\nIf this attack kills an enemy hero, Lord, Turtle, enemy turret, Siege Minion, or other non-hero unit, Aldous will gain 12 / 12 / 10 / 10 / 10 / 4 stacks of Soul Steal (up to 650 stacks). The enhanced Basic Attack deals 300% extra base damage to Minions and Creeps. Aldous gets extra stacks (5 or 2, depending on the unit type) when a nearby enemy Siege Minion or other non-hero unit dies.\n\n- Skill type: Physical Basic Attack enhancement\n- Cooldown: 4 / 4 / 4 / 4 / 4 / 4 seconds\n- Mana cost: 60 / 65 / 70 / 75 / 80 / 85\n- Base Damage: 200 / 250 / 300 / 350 / 400 / 450\n- Extra Damage from stacks: scales from 5 up to 2500 based on Soul Steal stacks\n- Enhanced Basic Attack lasts for 5 seconds or until consumed\n- Cooldown starts upon casting the skill, but the skill cannot be used again until the enhanced Basic Attack is consumed or expired\n- Aldous charges toward a target when attacking using his enhanced Basic Attack\n- The enhanced Basic Attack's base damage and extra damage do not critically strike\n- Gains Soul Steal stacks when dying enemies have available souls to absorb\n\n## Contract: Explosion\n\nAldous assumes a defensive stance, gaining 30% Damage Reduction and 20% extra Movement Speed for up to 2 seconds or until manual cancellation. When the stance ends, he deals Physical Damage to nearby enemies and stuns them, with both damage and stun duration scaling with how long he maintained the stance.\n\n- Skill type: Physical Skill\n- Cooldown: 12 / 11.5 / 11 / 10.5 / 10 / 9.5 seconds\n- Mana cost: 80 / 90 / 100 / 110 / 120 / 130\n- Defensive stance: 30% Damage Reduction, 20% Movement Speed, up to 2 seconds\n- Minimum Damage: 100 / 120 / 140 / 160 / 180 / 200\n- Maximum Damage: 200 / 240 / 280 / 320 / 360 / 400\n- Stun duration scales from 0.5 to 1 second based on stance duration\n\nThe skill provides both defensive utility and crowd control through Damage Reduction, Movement Speed, and an area stun.\n\n## Contract: Chase Fate\n\nAldous gains vision of all enemy heroes for 5 seconds. During this time, if Aldous uses this skill again, he can dash toward an enemy hero of choice. When Aldous hits that enemy hero, he will deal Physical Damage based on skill level and the target's Max HP and knock back the target for 1 second.\n\nAldous can interrupt the target's movement and certain channeling abilities during the dash. Using this skill once again can cancel the dash, causing Aldous to blink to the designated direction instead.\n\n- Cooldown: 60 / 55 / 50 seconds\n- Mana cost: 150 / 200 / 250\n- Base Damage: 250 / 325 / 400, plus additional damage based on the target's Max HP\n- Effects: global vision on enemy heroes, long-range dash, knockback for 1 second, displacement and interruption potential\n\nNotes:\n- With perfect timing, it is possible to interrupt Aldous from dashing using strong control effects\n- The dash can only be interrupted by suppression-type control\n- He can freely use equipment actives and battle spells during the effect\n- Inside Yin's domain, he cannot lock on enemies outside and ongoing travel is cancelled\n- Likewise, he cannot select targets inside the domain, and does not pursue further when arriving in the target's last location\n\n# Trivia\n\n- The name Aldous is a boy's name of English origin meaning \"old.\" Aldous has long been associated with British writer Huxley, author of Brave New World.\n- His voice line \"Abandon hope, all ye who enter here.\" is a direct reference to Dante's quote in Inferno.\n- While still in development Aldous' first given name and hero title was Armstrong, Gravekeeper. It was later changed to Aulrad, Contractor. However, in Patch 1.2.78, his name was changed again to Aldous.\n- Aldous \"Red Mantle\" refers to his former appearance without his damaged body.\n- Aldous is the sole survivor of the divine punishment that devastated the Agelta Drylands. He was blessed by the Twilight Orb, which not only saved his life but also granted him immense power, granting him strength nearly equal to that of Gods or Supreme beings.\n- Aldous is one of only two heroes capable of harnessing the power of the Twilight Orb, the other being is.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "selena"
+      ],
+      "faction": "Minoan Maze",
+      "allies": [],
+      "rivals": [
+        "selena"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Guardian",
+      "locationTies": [
+        {
+          "location": "Minoan Maze",
+          "relationship": "home"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        },
+        {
+          "location": "Abyssal Kingdom",
+          "relationship": "rival"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "duty",
+      "power",
+      "corruption"
+    ],
+    "hook": "The powers of light and dark decimated the entire Minoan Kingdom, but when the twin energies collided within Aldous, they twisted his body instead of ending his life.",
+    "teaser": "When divine punishment wipes out the Minoan Kingdom, a lone mercenary survives, reborn in scales and monstrous power to guard a sealed maze against the Abyss.",
+    "openingLine": "Legends from the Land of Dawn say that the Western Desert's Minoan Kingdom possesses a mysterious labyrinth.",
+    "dominantColor": "#3A1A0B",
+    "hasBackstory": true,
+    "hasSideStory": false,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": false,
+    "chapterCount": 0,
+    "chapterTitles": [],
+    "plotKeywords": [
+      "mysterious labyrinth",
+      "jade wealth",
+      "corrupted guardians",
+      "divine punishment",
+      "light and dark power",
+      "transformation",
+      "sealed maze",
+      " impending battle"
+    ],
+    "characterTraits": [
+      "dutiful",
+      "resolute",
+      "stoic",
+      "unyielding"
+    ],
+    "locations": [
+      "Land of Dawn",
+      "Minoan Maze",
+      "Agelta Drylands",
+      "Abyssal Kingdom"
+    ],
+    "wordCount": 1211,
+    "readingTimeMinutes": 9,
+    "connectionsCount": 1,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647047125,
+    "updatedAt": 1764647047125
+  },
+  "lastUpdated": null
+}

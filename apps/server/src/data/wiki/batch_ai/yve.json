@@ -1,0 +1,186 @@
+{
+  "hero": "yve",
+  "urlName": "yve",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Astrowarden\n\n**Origin:** Mithlora\n\n**Species:** Extraterrestrial\n\n**Gender:** Female\n\n**Unique God:** Unique God\n\n**Abilities:**\n- Galactic Power\n- Void Blast\n- Void Crystal\n- Starfield"
+    },
+    "story": {
+      "markdown": ""
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Lore",
+          "content": {
+            "markdown": "Aurora was the first person to discover Yve. This was the first time such a mysterious, cold, and emotionless creature had appeared in the Land of Dawn.\n\nMassive energy fluctuations came from the time rift. Aurora thought that Zhask had returned and that she would finally have the chance to avenge her beloved. But as it turned out, she saw someone who seemed to be even more powerful.\n\nYve came down from the sky above the Frozen Ocean. She considered everything and everyone beneath her notice and was only interested in finding Zhask. Her instincts told her that her old nemesis had once appeared here.\n\nYve simply glanced at Aurora with indifference, then turned and left. Just as Aurora was hesitating about whether to chase down this mysterious visitor, Yve released an explosion of tremendous energy, closing the time rift temporarily. She then turned and left.\n\nThis time rift has torn open by Yve has existed for thousands of years since the Ancient Ones triggered the great explosion using the Twilight Orb. Nobody can get near it, and nobody knows where it leads. Only Aurora watches it closely at all times, waiting to take revenge on her nemesis Zhask for her lover Tobias.\n\nAurora clearly understands what sort of powerful energy it would take to close the time rift: For this reason, she has had a premonition: Perhaps both Zhask and Tobias are coming back.\n\nYve comes from Mithlora, a mysterious region of the galaxy. Her people are few in number but possess immense strength. However, they also have an arch-enemy - the Swarm. As some of the most proficient hunters in the universe who are born with great power, Yve's race must find and deal with the Swarm wherever they appear. Their endless multiplying means destruction and destruction means imbalance.\n\nZhask and Yve, just like their races, are natural enemies. With great force comes great responsibilities. As the most powerful dominator amongst the thousands of Swarms, Zhask wishes to lead his Swarm to invade and multiply ceaselessly, and thereby spread it across the galaxy. And only by killing Zhask can Yve prove her strength and gain the acknowledgment of her people.\n\nThey have been destined enemies since time immemorial.\n\nFrom as far back as she can remember, Yve has known her mission. She is confident in her strength, which she has relied on to eliminate many threats to the plane balance. But her frustrations began when she encountered Zhask. Even with her great power and having fought Zhask on multiple occasions in different parts of the universe, and even though she was so close to success, Yve still hasn't managed to eliminated Zhask's swarm.\n\nThe story that follows is that of a drawn-out chase. The devious Zhask skips from one planet to another. The creatures on these planets can offer no resistance against Zhask, so the rapidly multiplying Swarm destroys their homes one after another. And each time Yve makes it to these devastated planets, her innate sense of responsibility as a Mithloran and her feelings of self-doubt will arouse turmoil in her heart.\n\nChasing after Zhask has become Yve's obsession. She tracked down Zhask to the Land of Dawn. She expected to have been too late, and that it too would be nothing but ruins. But she was surprised to find that the heroes of the Land of Dawn are strong and courageous, who vow to protect their homelands with their lives. This made it difficult for Zhask to achieve his plans and bought her time.\n\nThe hunters of Mithlora won't allow every destroyer of harmony in the universe to run rampant. Yve will eventually fight against Zhask in a duel here. She knows that she and her destined nemesis will fight their final battle here."
+          }
+        },
+        {
+          "title": "Across the Galaxy",
+          "content": {
+            "markdown": ""
+          }
+        },
+        {
+          "title": "Eternal Battle",
+          "content": {
+            "markdown": ""
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Galactic Power",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Yve gains a stack each time she hits an enemy hero with her basic damaging abilities (Void Blast or Void Crystal), up to 10 stacks. Each stack of Galactic Power allows Yve to launch an extra attack on the next Void Blast cast and increases the amount of shield gained by 5%. (Listed as outdated in the source.)"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Void Blast",
+        "cooldown": 5,
+        "cost": 65,
+        "role": "Damage",
+        "details": {
+          "markdown": "Yve detonates energy at the target location, dealing magic damage to enemies in the area.\n\nSuccessfully hitting an enemy grants Yve 55% extra Movement Speed (halved if a non-hero enemy is hit) that decays over 1 second.\n\n- Type: Magic Skill, AoE\n- Cooldown: 5.0 / 4.5 / 4.0 / 3.5 / 3.0 / 2.5 seconds\n- Mana Cost: 65 / 70 / 75 / 80 / 85 / 90\n- Base Damage: 350 / 400 / 450 / 500 / 550 / 600 magic damage"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Void Crystal",
+        "cooldown": 14,
+        "cost": null,
+        "role": "Control",
+        "details": {
+          "markdown": "Yve summons a crystal at the target location, dealing magic damage to nearby enemies.\n\nUse Again: Yve commands the Crystal to fire materialized energy in the target direction for 2.7 seconds, dealing continuous magic damage every 0.45 seconds to enemies hit and slowing them by 30%. Enemies hit multiple times are slowed by an extra 6% for each hit after the first, up to 60% total.\n\n- Type: Magic Skill, AoE, Slow\n- Cooldown: 14.0 / 13.6 / 13.2 / 12.8 / 12.4 / 12.0 seconds\n- Initial Hit Base Damage: 220 / 260 / 300 / 340 / 380 / 420 magic damage\n- Continuous Damage per tick: 105 / 120 / 135 / 150 / 165 / 180 magic damage\n- Slow: 30%, plus 6% per additional hit after the first (up to 60%)\n\nNotes:\n- The window time for the second cast lasts up to 5 seconds.\n- Void Crystal lasts 3 seconds after the direction is set.\n- The beam length is 5.5 units."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Real World Manipulation",
+        "cooldown": 60,
+        "cost": 180,
+        "role": "Damage",
+        "details": {
+          "markdown": "Yve creates a Starfield that lasts for 15 seconds, gaining Displacement Immunity and a shield. Within the duration, you can Tap or Slide the screen to launch up to 15 attacks.\n\nTap: Deals burst magic damage to enemies in the target area.\n\nSlide: Deals continuous magic damage every 0.45 seconds to enemies in the target area for 2.7 seconds and slows them by 50%.\n\nEnemies leaving or entering the Starfield are immobilized for 0.8 seconds (only once against the same target). The Starfield will remain if Yve is controlled, except for suppression.\n\n- Cooldown: 60 seconds\n- Mana Cost: 180 / 220 / 260\n- Shield: 400 / 550 / 800\n- Tap Damage: 340 / 440 / 540 magic damage\n- Slide Damage per tick: 65 / 95 / 125 magic damage\n\nNotes:\n- The board has the size of 8x8 units.\n- Yve does not lose the ability when being crowd controlled, but tap/slide commands are not enacted during the control.\n- Entering or leaving the specified area immediately cancels this ability for affected enemies.\n- The shield lingers shortly after the ability ends."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Early concepts of Yve’s design showed her as a celestial mage with star-based powers, but her initial designs were more grounded and simpler, focusing more on magical robes and basic energy effects. However, as her design was refined, she evolved into a more grandiose, space-themed character, with her final design incorporating celestial and cosmic motifs that fit her role as a Protector of the Stars."
+      },
+      {
+        "markdown": "Yve is certainly one of the most powerful beings in lore, particularly in the context of the Cosmic World. As the Protector of the Stars, she has immense control over cosmic energy and the manipulation of space, which positions her as a force to be reckoned with."
+      },
+      {
+        "markdown": "One of Yves' quotes, \"great power comes with great responsibility\" is a variation of a quote popularized in the Spider-Man comics created by Stan Lee."
+      },
+      {
+        "markdown": "Yve's ultimate creates an optical illusion where if you compare her ultimate together, you will notice that one is bigger and other is smaller even though they are just the same size in comparison."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Astrowarden\n\n**Origin:** Mithlora\n\n**Species:** Extraterrestrial\n\n**Gender:** Female\n\n**Unique God:** Unique God\n\n**Abilities:**\n- Galactic Power\n- Void Blast\n- Void Crystal\n- Starfield\n\n# Side Story\n\n## Lore\n\nAurora was the first person to discover Yve. This was the first time such a mysterious, cold, and emotionless creature had appeared in the Land of Dawn.\n\nMassive energy fluctuations came from the time rift. Aurora thought that Zhask had returned and that she would finally have the chance to avenge her beloved. But as it turned out, she saw someone who seemed to be even more powerful.\n\nYve came down from the sky above the Frozen Ocean. She considered everything and everyone beneath her notice and was only interested in finding Zhask. Her instincts told her that her old nemesis had once appeared here.\n\nYve simply glanced at Aurora with indifference, then turned and left. Just as Aurora was hesitating about whether to chase down this mysterious visitor, Yve released an explosion of tremendous energy, closing the time rift temporarily. She then turned and left.\n\nThis time rift has torn open by Yve has existed for thousands of years since the Ancient Ones triggered the great explosion using the Twilight Orb. Nobody can get near it, and nobody knows where it leads. Only Aurora watches it closely at all times, waiting to take revenge on her nemesis Zhask for her lover Tobias.\n\nAurora clearly understands what sort of powerful energy it would take to close the time rift: For this reason, she has had a premonition: Perhaps both Zhask and Tobias are coming back.\n\nYve comes from Mithlora, a mysterious region of the galaxy. Her people are few in number but possess immense strength. However, they also have an arch-enemy - the Swarm. As some of the most proficient hunters in the universe who are born with great power, Yve's race must find and deal with the Swarm wherever they appear. Their endless multiplying means destruction and destruction means imbalance.\n\nZhask and Yve, just like their races, are natural enemies. With great force comes great responsibilities. As the most powerful dominator amongst the thousands of Swarms, Zhask wishes to lead his Swarm to invade and multiply ceaselessly, and thereby spread it across the galaxy. And only by killing Zhask can Yve prove her strength and gain the acknowledgment of her people.\n\nThey have been destined enemies since time immemorial.\n\nFrom as far back as she can remember, Yve has known her mission. She is confident in her strength, which she has relied on to eliminate many threats to the plane balance. But her frustrations began when she encountered Zhask. Even with her great power and having fought Zhask on multiple occasions in different parts of the universe, and even though she was so close to success, Yve still hasn't managed to eliminated Zhask's swarm.\n\nThe story that follows is that of a drawn-out chase. The devious Zhask skips from one planet to another. The creatures on these planets can offer no resistance against Zhask, so the rapidly multiplying Swarm destroys their homes one after another. And each time Yve makes it to these devastated planets, her innate sense of responsibility as a Mithloran and her feelings of self-doubt will arouse turmoil in her heart.\n\nChasing after Zhask has become Yve's obsession. She tracked down Zhask to the Land of Dawn. She expected to have been too late, and that it too would be nothing but ruins. But she was surprised to find that the heroes of the Land of Dawn are strong and courageous, who vow to protect their homelands with their lives. This made it difficult for Zhask to achieve his plans and bought her time.\n\nThe hunters of Mithlora won't allow every destroyer of harmony in the universe to run rampant. Yve will eventually fight against Zhask in a duel here. She knows that she and her destined nemesis will fight their final battle here.\n\n## Across the Galaxy\n\n\n\n## Eternal Battle\n\n\n\n# Abilities\n\n## Galactic Power\n\nYve gains a stack each time she hits an enemy hero with her basic damaging abilities (Void Blast or Void Crystal), up to 10 stacks. Each stack of Galactic Power allows Yve to launch an extra attack on the next Void Blast cast and increases the amount of shield gained by 5%. (Listed as outdated in the source.)\n\n## Void Blast\n\nYve detonates energy at the target location, dealing magic damage to enemies in the area.\n\nSuccessfully hitting an enemy grants Yve 55% extra Movement Speed (halved if a non-hero enemy is hit) that decays over 1 second.\n\n- Type: Magic Skill, AoE\n- Cooldown: 5.0 / 4.5 / 4.0 / 3.5 / 3.0 / 2.5 seconds\n- Mana Cost: 65 / 70 / 75 / 80 / 85 / 90\n- Base Damage: 350 / 400 / 450 / 500 / 550 / 600 magic damage\n\n## Void Crystal\n\nYve summons a crystal at the target location, dealing magic damage to nearby enemies.\n\nUse Again: Yve commands the Crystal to fire materialized energy in the target direction for 2.7 seconds, dealing continuous magic damage every 0.45 seconds to enemies hit and slowing them by 30%. Enemies hit multiple times are slowed by an extra 6% for each hit after the first, up to 60% total.\n\n- Type: Magic Skill, AoE, Slow\n- Cooldown: 14.0 / 13.6 / 13.2 / 12.8 / 12.4 / 12.0 seconds\n- Initial Hit Base Damage: 220 / 260 / 300 / 340 / 380 / 420 magic damage\n- Continuous Damage per tick: 105 / 120 / 135 / 150 / 165 / 180 magic damage\n- Slow: 30%, plus 6% per additional hit after the first (up to 60%)\n\nNotes:\n- The window time for the second cast lasts up to 5 seconds.\n- Void Crystal lasts 3 seconds after the direction is set.\n- The beam length is 5.5 units.\n\n## Real World Manipulation\n\nYve creates a Starfield that lasts for 15 seconds, gaining Displacement Immunity and a shield. Within the duration, you can Tap or Slide the screen to launch up to 15 attacks.\n\nTap: Deals burst magic damage to enemies in the target area.\n\nSlide: Deals continuous magic damage every 0.45 seconds to enemies in the target area for 2.7 seconds and slows them by 50%.\n\nEnemies leaving or entering the Starfield are immobilized for 0.8 seconds (only once against the same target). The Starfield will remain if Yve is controlled, except for suppression.\n\n- Cooldown: 60 seconds\n- Mana Cost: 180 / 220 / 260\n- Shield: 400 / 550 / 800\n- Tap Damage: 340 / 440 / 540 magic damage\n- Slide Damage per tick: 65 / 95 / 125 magic damage\n\nNotes:\n- The board has the size of 8x8 units.\n- Yve does not lose the ability when being crowd controlled, but tap/slide commands are not enacted during the control.\n- Entering or leaving the specified area immediately cancels this ability for affected enemies.\n- The shield lingers shortly after the ability ends.\n\n# Trivia\n\n- Early concepts of Yve’s design showed her as a celestial mage with star-based powers, but her initial designs were more grounded and simpler, focusing more on magical robes and basic energy effects. However, as her design was refined, she evolved into a more grandiose, space-themed character, with her final design incorporating celestial and cosmic motifs that fit her role as a Protector of the Stars.\n- Yve is certainly one of the most powerful beings in lore, particularly in the context of the Cosmic World. As the Protector of the Stars, she has immense control over cosmic energy and the manipulation of space, which positions her as a force to be reckoned with.\n- One of Yves' quotes, \"great power comes with great responsibility\" is a variation of a quote popularized in the Spider-Man comics created by Stan Lee.\n- Yve's ultimate creates an optical illusion where if you compare her ultimate together, you will notice that one is bigger and other is smaller even though they are just the same size in comparison.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "ongoing",
+    "relationships": {
+      "relatedHeroes": [
+        "zhask",
+        "aurora",
+        "yin"
+      ],
+      "faction": null,
+      "allies": [],
+      "rivals": [
+        "zhask"
+      ],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Mithlora",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        },
+        {
+          "location": "Frozen Sea",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "epic"
+    ],
+    "themes": [
+      "destiny",
+      "responsibility",
+      "power"
+    ],
+    "hook": "Chasing Zhask across ruined worlds, Yve finds a land that still resists the Swarm—and knows her final battle with her destined nemesis will be fought there.",
+    "teaser": "From distant Mithlora, Yve hunts the Swarm’s master across shattered worlds, drawn at last to the Land of Dawn for a final, fated confrontation.",
+    "openingLine": "Aurora was the first person to discover Yve.",
+    "dominantColor": "#5b35b1",
+    "hasBackstory": false,
+    "hasSideStory": true,
+    "hasAbilityLore": false,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 3,
+    "chapterTitles": [
+      "Lore",
+      "Across the Galaxy",
+      "Eternal Battle"
+    ],
+    "plotKeywords": [
+      "time rift",
+      "cosmic hunter",
+      "ancient nemesis",
+      "swarm invasion",
+      "planetary devastation",
+      "final duel",
+      "Land of Dawn",
+      "Twilight Orb"
+    ],
+    "characterTraits": [
+      "cold",
+      "dutiful",
+      "obsessive",
+      "powerful",
+      "determined",
+      "stoic"
+    ],
+    "locations": [
+      "Mithlora",
+      "Land of Dawn",
+      "Frozen Sea"
+    ],
+    "wordCount": 1321,
+    "readingTimeMinutes": 9,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646856781,
+    "updatedAt": 1764646856781
+  },
+  "lastUpdated": null
+}

@@ -1,0 +1,194 @@
+{
+  "hero": "dyrroth",
+  "urlName": "dyrroth",
+  "sections": {
+    "profile": {
+      "markdown": ""
+    },
+    "story": {
+      "markdown": "Once a noble prince of the Moniyan Empire, he was abducted by Alice, the Queen of the Blood Demons and transformed into the Prince of The Abyss.\n\nDyrroth, once the Prince of Light from the Moniyan Empire, has become the Abyss's most defiant Son of Darkness. Bound by blood, his sister Silvanna never gave up her vigilant search for him, while Alice, his abductor, meticulously shaped him into the Abyss's fiercest and most loyal companion. Though not born of demon blood, Dyrroth flourished in the depths of the Abyss by embracing it's savage nature. In a realm where power is revered above all, he willfully hastened his own corruption to prove his allegiance, reforging his flesh in the darkness and severing all bonds with the light."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Blood and Birth",
+          "content": {
+            "markdown": "Blood, everything in sight was bathed in crimson. At the highest point of the Sanguine Lair, an enormous blood droplet hung, suspended in the air like an ever-beating heart. Drawing in and Pumping forth, drop by drop, until the flowing blood gathered into a pool, flooding everything in sight—this was Alice's pool for nurturing Blood Demons.\n\nYears later, Dyrroth returned here for the first time.\n\nAs he stepped into the pool, the crimson within resonated with the blood of his body, drawing him back to the recent \"Dawnbreak\" plan—what should have been the perfect invasion. Leading the Abyssal forces as their vanguard, Dyrroth had nearly submerged the entire Moniyan Empire into darkness on that moonless. starless night.\n\nUntil she appeared, Princess Silvanna of the Empire, whose features bore a subtle resemblance to his own, emerged amidst the terrified prayers of countless citizens. Wielding her holy spear, she called him \"brother\"....\n\nBrother—a completely foreign word, yet like a spell woven by fate, it made Dyrroth hesitate. It was just for a fleeting moment, but Silvanna did not hesitate. Victory was decided in that instant, as foreign as that word was the dull pain of cold steel piercing his chest.\n\nHow laughable. This so-called bond of blood... the first thing it brought Dyrroth was spilled blood.\n\nThe blood flowed past his ankles, Dyrroth looked down at his legs, now twisted masses of grotesque muscle and jutting bone. Legs that could never belong to a human.\n\nHis body had long since completed it's transformation, yet the wound from the holy spear in his chest refused to heal.... He had been gravely wounded and was still alive only because Alice had carried him away from the battlefield. She had left him to recover alone in the Sanguine Lair, her stronghold in the Abyss where she nurtured the Blood Demons—the very place where he had grown up.\n\nYears ago, Alice had snatched him from the Empire while he was still an infant, and in doing so, she also laid all of the Abyss before him as his birthright.\n\n‎The past in Dyrroth's memories wasn't the justice his \"sister\" proclaimed while brandishing her holy spear; what he remembered was Alice's constant companionship, Thamuz's teachings and all of the Abyss rejoicing at the birth of the \"Son of Darkness\"—and everything that had been destined since.\n\nDyrroth would fight for the Abyss.\n\nHe wasn't born a Demon but those Moniyans who claimed to yearn for his return have already revealed through their looks of terror and hatred. The Empire could never be his home. He had grown up in the Abyss and long since embraced it's savage ways. The child of the Abyss was destined to fight for it.\n\nDyrroth threw his wrist blades into the pool of demon blood. ‎The pool's transformation was meant to be irreversible—it was birth, and it was death. Blood Demons who had already been transformed had no reason to return, yet Dyrroth craved power. Whether to exact vengeance upon his \"sister\" or to return to the Abyss... The Abyss revered strength, and he knew he must become stronger.\n\nDyrroth descended into the pool.\n\nThe crimson liquid surged, engulfing his body. His wrist blades, now gorged with the power of the Abyss, pierced through his still-wounded chest. Suspended between life and death, the light of the Empire and the darkness of the Abyss clashed within him, ripping and tearing at each other before finally merging into one. The boundary between death and rebirth resolved and the light and darkness within him became forever inseparable.\n\nDrop by drop, the suspended blood orb pulsed its crimson essence into the pool, gradually synchronizing with Dyrroth's heartbeat.\n\nBefore the dawn could break, Dyrroth opened his eyes and gazed towards the Empire—Soon he would return to the Moniyan Empire and show the world the power of the \"Prince of the Abyss\" through overwhelming power. No longer hesitant, he would sever the blood ties that shackled him with his own hands, with blood as a tribute to complete this grand reunion.\n\n*\"I awoke from the Abyss to extinguish the Light\"*"
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Wrath of the Abyss",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "When Dyrroth's Rage reaches 50%, he will enhance Burst Strike and Spectre Step.\n\nAfter each 2 basic attacks, Dyrroth will release Circle Strike, dealing scaling damage to enemies in the circle and regenerating 50 plus additional healing based on his physical attack (Circle Strike doesn't have attack effects). Each time he hits an enemy hero, the cooldown of Burst Strike and Spectre Step will be decreased by 1 second.\n\nCircle Strike can critically strike and benefits from Physical Lifesteal. It counts as a skill and can benefit from skill effects. Circle Strike HP regeneration is halved against minions. Circle Strike deals the same damage as a regular basic attack against turrets."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Burst Strike",
+        "cooldown": 5,
+        "cost": 50,
+        "role": "Damage",
+        "details": {
+          "markdown": "Dyrroth releases a burst strike in a designated direction. Each burst deals physical damage based on level and physical attack to enemies and slows them by 25% for 1.5 seconds. The damage decays against the same target and decreases to a lower amount on minions.\n\nAbyss Enhanced: Burst Strike has a longer range, deals increased damage (about 140% of the original damage) and its slow effect is doubled.\n\nBase damage by level: 200 / 250 / 300 / 350 / 400 / 450.\n\nNotes:\n- Costs 50 Rage.\n- Dyrroth regens 10 Rage for each enemy hit by this skill."
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Spectre Step",
+        "cooldown": 8,
+        "cost": 50,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Dyrroth dashes in the designated direction. He will stop when he hits a non-minion target, dealing physical damage based on level and physical attack to enemies.\n\nWhen he uses this skill again, he will lock onto a target and release a Fatal Strike, dealing a total of higher physical damage. Enemy heroes or creeps hit by Fatal Strike will have their Physical Defense reduced by 40% for 4 seconds.\n\nAbyss Enhanced: Fatal Strike will deal increased damage (about 150% of the original damage), slow the target by an extra 90% for 1 second and reduce the target's Physical Defense by 60% instead for 4 seconds.\n\nThe skill goes into cooldown on the first cast.\n\nNotes:\n- Costs 50 Rage.\n- Bumping into an enemy hero with the first phase of this skill applies a mini knockback effect.\n- Phase 2 of this skill deals damage 3 times, each instance dealing a portion of the total damage."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Abysm Strike",
+        "cooldown": 36,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "After a short delay, Dyrroth launches a destructive strike in the target direction (cannot be interrupted), dealing massive physical damage based on level, physical attack, and a portion of enemies' lost HP to enemies along the way and slowing them by 55% for 0.8 seconds.\n\nBase damage by level: 650 / 950 / 1250.\n\nAbysm Strike deals up to 1500 / 2000 / 2500 damage to non-hero units."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Dyrroth's English voice actor, Joe Goffeney, reprises his role as late as February 2023 for providing exclusive voices of Dyrroth's Collector skin, making him the longest recurring voice actor of a single character for almost five years."
+      },
+      {
+        "markdown": "Dyrroth is one of the only heroes in the game to have a Siblings buff shared with a specific opposing hero."
+      },
+      {
+        "markdown": "According to a Facebook post by MLBB, Dyrroth conquered and defeated Balmond and the orcs. Balmond surrendered to him, causing Balmond to fall to Dyrroth’s power. Balmond and the orcs have been dominated, tormented and tyrannized by Dyrroth."
+      },
+      {
+        "markdown": "Dyrroth was named Dyrus, then Darius when he was first released in the Advanced Server."
+      },
+      {
+        "markdown": "His entrance voice was changed before it was released in the Original Server."
+      },
+      {
+        "markdown": "His 2nd skill previously could knock up enemy, but it was changed to a different effect."
+      },
+      {
+        "markdown": "His Ultimate was called Destruction Rush before being changed to Abysm Strike. Likely because the name was already used for another skill."
+      },
+      {
+        "markdown": "Since Dyrroth is Silvanna’s own younger brother, all her relatives are his relatives too."
+      }
+    ]
+  },
+  "markdown": "# Story\n\nOnce a noble prince of the Moniyan Empire, he was abducted by Alice, the Queen of the Blood Demons and transformed into the Prince of The Abyss.\n\nDyrroth, once the Prince of Light from the Moniyan Empire, has become the Abyss's most defiant Son of Darkness. Bound by blood, his sister Silvanna never gave up her vigilant search for him, while Alice, his abductor, meticulously shaped him into the Abyss's fiercest and most loyal companion. Though not born of demon blood, Dyrroth flourished in the depths of the Abyss by embracing it's savage nature. In a realm where power is revered above all, he willfully hastened his own corruption to prove his allegiance, reforging his flesh in the darkness and severing all bonds with the light.\n\n# Side Story\n\n## Blood and Birth\n\nBlood, everything in sight was bathed in crimson. At the highest point of the Sanguine Lair, an enormous blood droplet hung, suspended in the air like an ever-beating heart. Drawing in and Pumping forth, drop by drop, until the flowing blood gathered into a pool, flooding everything in sight—this was Alice's pool for nurturing Blood Demons.\n\nYears later, Dyrroth returned here for the first time.\n\nAs he stepped into the pool, the crimson within resonated with the blood of his body, drawing him back to the recent \"Dawnbreak\" plan—what should have been the perfect invasion. Leading the Abyssal forces as their vanguard, Dyrroth had nearly submerged the entire Moniyan Empire into darkness on that moonless. starless night.\n\nUntil she appeared, Princess Silvanna of the Empire, whose features bore a subtle resemblance to his own, emerged amidst the terrified prayers of countless citizens. Wielding her holy spear, she called him \"brother\"....\n\nBrother—a completely foreign word, yet like a spell woven by fate, it made Dyrroth hesitate. It was just for a fleeting moment, but Silvanna did not hesitate. Victory was decided in that instant, as foreign as that word was the dull pain of cold steel piercing his chest.\n\nHow laughable. This so-called bond of blood... the first thing it brought Dyrroth was spilled blood.\n\nThe blood flowed past his ankles, Dyrroth looked down at his legs, now twisted masses of grotesque muscle and jutting bone. Legs that could never belong to a human.\n\nHis body had long since completed it's transformation, yet the wound from the holy spear in his chest refused to heal.... He had been gravely wounded and was still alive only because Alice had carried him away from the battlefield. She had left him to recover alone in the Sanguine Lair, her stronghold in the Abyss where she nurtured the Blood Demons—the very place where he had grown up.\n\nYears ago, Alice had snatched him from the Empire while he was still an infant, and in doing so, she also laid all of the Abyss before him as his birthright.\n\n‎The past in Dyrroth's memories wasn't the justice his \"sister\" proclaimed while brandishing her holy spear; what he remembered was Alice's constant companionship, Thamuz's teachings and all of the Abyss rejoicing at the birth of the \"Son of Darkness\"—and everything that had been destined since.\n\nDyrroth would fight for the Abyss.\n\nHe wasn't born a Demon but those Moniyans who claimed to yearn for his return have already revealed through their looks of terror and hatred. The Empire could never be his home. He had grown up in the Abyss and long since embraced it's savage ways. The child of the Abyss was destined to fight for it.\n\nDyrroth threw his wrist blades into the pool of demon blood. ‎The pool's transformation was meant to be irreversible—it was birth, and it was death. Blood Demons who had already been transformed had no reason to return, yet Dyrroth craved power. Whether to exact vengeance upon his \"sister\" or to return to the Abyss... The Abyss revered strength, and he knew he must become stronger.\n\nDyrroth descended into the pool.\n\nThe crimson liquid surged, engulfing his body. His wrist blades, now gorged with the power of the Abyss, pierced through his still-wounded chest. Suspended between life and death, the light of the Empire and the darkness of the Abyss clashed within him, ripping and tearing at each other before finally merging into one. The boundary between death and rebirth resolved and the light and darkness within him became forever inseparable.\n\nDrop by drop, the suspended blood orb pulsed its crimson essence into the pool, gradually synchronizing with Dyrroth's heartbeat.\n\nBefore the dawn could break, Dyrroth opened his eyes and gazed towards the Empire—Soon he would return to the Moniyan Empire and show the world the power of the \"Prince of the Abyss\" through overwhelming power. No longer hesitant, he would sever the blood ties that shackled him with his own hands, with blood as a tribute to complete this grand reunion.\n\n*\"I awoke from the Abyss to extinguish the Light\"*\n\n# Abilities\n\n## Wrath of the Abyss\n\nWhen Dyrroth's Rage reaches 50%, he will enhance Burst Strike and Spectre Step.\n\nAfter each 2 basic attacks, Dyrroth will release Circle Strike, dealing scaling damage to enemies in the circle and regenerating 50 plus additional healing based on his physical attack (Circle Strike doesn't have attack effects). Each time he hits an enemy hero, the cooldown of Burst Strike and Spectre Step will be decreased by 1 second.\n\nCircle Strike can critically strike and benefits from Physical Lifesteal. It counts as a skill and can benefit from skill effects. Circle Strike HP regeneration is halved against minions. Circle Strike deals the same damage as a regular basic attack against turrets.\n\n## Burst Strike\n\nDyrroth releases a burst strike in a designated direction. Each burst deals physical damage based on level and physical attack to enemies and slows them by 25% for 1.5 seconds. The damage decays against the same target and decreases to a lower amount on minions.\n\nAbyss Enhanced: Burst Strike has a longer range, deals increased damage (about 140% of the original damage) and its slow effect is doubled.\n\nBase damage by level: 200 / 250 / 300 / 350 / 400 / 450.\n\nNotes:\n- Costs 50 Rage.\n- Dyrroth regens 10 Rage for each enemy hit by this skill.\n\n## Spectre Step\n\nDyrroth dashes in the designated direction. He will stop when he hits a non-minion target, dealing physical damage based on level and physical attack to enemies.\n\nWhen he uses this skill again, he will lock onto a target and release a Fatal Strike, dealing a total of higher physical damage. Enemy heroes or creeps hit by Fatal Strike will have their Physical Defense reduced by 40% for 4 seconds.\n\nAbyss Enhanced: Fatal Strike will deal increased damage (about 150% of the original damage), slow the target by an extra 90% for 1 second and reduce the target's Physical Defense by 60% instead for 4 seconds.\n\nThe skill goes into cooldown on the first cast.\n\nNotes:\n- Costs 50 Rage.\n- Bumping into an enemy hero with the first phase of this skill applies a mini knockback effect.\n- Phase 2 of this skill deals damage 3 times, each instance dealing a portion of the total damage.\n\n## Abysm Strike\n\nAfter a short delay, Dyrroth launches a destructive strike in the target direction (cannot be interrupted), dealing massive physical damage based on level, physical attack, and a portion of enemies' lost HP to enemies along the way and slowing them by 55% for 0.8 seconds.\n\nBase damage by level: 650 / 950 / 1250.\n\nAbysm Strike deals up to 1500 / 2000 / 2500 damage to non-hero units.\n\n# Trivia\n\n- Dyrroth's English voice actor, Joe Goffeney, reprises his role as late as February 2023 for providing exclusive voices of Dyrroth's Collector skin, making him the longest recurring voice actor of a single character for almost five years.\n- Dyrroth is one of the only heroes in the game to have a Siblings buff shared with a specific opposing hero.\n- According to a Facebook post by MLBB, Dyrroth conquered and defeated Balmond and the orcs. Balmond surrendered to him, causing Balmond to fall to Dyrroth’s power. Balmond and the orcs have been dominated, tormented and tyrannized by Dyrroth.\n- Dyrroth was named Dyrus, then Darius when he was first released in the Advanced Server.\n- His entrance voice was changed before it was released in the Original Server.\n- His 2nd skill previously could knock up enemy, but it was changed to a different effect.\n- His Ultimate was called Destruction Rush before being changed to Abysm Strike. Likely because the name was already used for another skill.\n- Since Dyrroth is Silvanna’s own younger brother, all her relatives are his relatives too.\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "fall_from_grace",
+    "relationships": {
+      "relatedHeroes": [
+        "alice",
+        "silvanna",
+        "thamuz",
+        "balmond",
+        "odette"
+      ],
+      "faction": "Abyssal Demons",
+      "allies": [
+        "alice",
+        "thamuz",
+        "balmond"
+      ],
+      "rivals": [
+        "silvanna"
+      ],
+      "family": [
+        "silvanna",
+        "odette"
+      ],
+      "mentors": [
+        "thamuz"
+      ],
+      "factionRole": "Prince",
+      "locationTies": [
+        {
+          "location": "Moniyan Empire",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Abyss",
+          "relationship": "home"
+        },
+        {
+          "location": "Sanguine Lair",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "dark",
+      "tragic",
+      "vengeful"
+    ],
+    "themes": [
+      "family",
+      "power",
+      "loss"
+    ],
+    "hook": "Suspended between life and death, the light of the Empire and the darkness of the Abyss clashed within him before finally merging into one.",
+    "teaser": "Stolen from the Moniyan throne and forged in Alice’s blood-soaked lair, Dyrroth returns as the Prince of the Abyss to sever every bond of light with blood.",
+    "openingLine": "Blood, everything in sight was bathed in crimson.",
+    "dominantColor": "#8B0000",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Blood and Birth"
+    ],
+    "plotKeywords": [
+      "abduction",
+      "sanguine lair",
+      "dawnbreak invasion",
+      "duel with Silvanna",
+      "abyssal transformation",
+      "return to Moniyan",
+      "prince of the abyss"
+    ],
+    "characterTraits": [
+      "defiant",
+      "vengeful",
+      "loyal",
+      "ruthless",
+      "conflicted"
+    ],
+    "locations": [
+      "Moniyan Empire",
+      "Abyss",
+      "Sanguine Lair"
+    ],
+    "wordCount": 1418,
+    "readingTimeMinutes": 10,
+    "connectionsCount": 5,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646999417,
+    "updatedAt": 1764646999417
+  },
+  "lastUpdated": null
+}

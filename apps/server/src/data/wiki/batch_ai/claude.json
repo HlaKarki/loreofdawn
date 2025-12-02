@@ -1,0 +1,234 @@
+{
+  "hero": "claude",
+  "urlName": "claude",
+  "sections": {
+    "profile": {
+      "markdown": "- Name: Claude\n- Chinese Name: 克劳德 (kèláodé)\n- Species: Human\n- Gender: Male\n- Age: 23\n- Origin: Los Pecados, Agelta Drylands\n- Occupation: Thief\n- Affiliation: Los Pecados\n- Aliases:\n  - Master Thief\n  - Partners in Crime (former)\n  - Lord of Thieves\n- Weapons:\n  - Arm blaster\n  - Holographic mirror device\n- Abilities:\n  - Art of Thievery\n- Relationships:\n  - Dexter (sidekick)\n  - Merlin (companion)\n  - Waldo Kane (enemy)\n  - Blandy (enemy, deceased)\n- English VA: Tony Waldman\n- Japanese VA: Zaima Kenta (財満 健太)\n- Indonesian VA: Ferry Kurniawan"
+    },
+    "story": {
+      "markdown": "> \"Excellent thief who comes and gies without a trace\"\n\nClaude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Origin of a Master Thief",
+          "content": {
+            "markdown": "Claude was born in Los Pecados, a western city in the Land of Dawn. An infamous city of sins without a ruler or order, lawless and ravaged by crime.\n\nGrowing up in such a place as an orphan, Claude soon learned how to fight, lie, gamble and steal: tricks of the trade he had to rely upon to survive. He was especially talented in the latter, and no cutpurse he'd ever met matched him when it came to his sharp eye and nimble fingers.\n\nIt wasn't long until he became leader of a vagrant band, relying upon his \"skills\", and making a name for himself in Los Pecados. He found one who would offer him and his gang protection—Waldo Kane. Kane was yet to achieve the monopoly over Los Pecados that he'd dreamed of. Wild ambition and conspiracy brewed deep within him. To him, this motley crew of street roamers with no place to call home were the perfect tools to achieve his goals. Behind a mask of benevolence, he manipulated these kids, with smooth lies and false compassion leading them down a dark path. He molded them into becoming members of his criminal group, each misguided child referring to him as \"Father\"."
+          }
+        },
+        {
+          "title": "Betrayal at Castle Grandrock",
+          "content": {
+            "markdown": "At the age of 18, Claude was given a monumental task: he was to head to Castle Grandrock in northern Moniyan, sneak into the Duke of Vance's home. Then, he would feign stealing secret accounts, while actually casting the blame on another gang. Kane promised Claude that he'd have people waiting for him once he was inside. Once he'd completed his mission Claude and his team would be rewarded with a place to live of their own. No longer would they need to live in the slums.\n\nThe truth, however, was nothing Claude could have ever imagined. There was nobody waiting for him: he was but a mere pawn, and neither he nor his brothers would be receiving any kind of reward. Like Claude, they were just stepping stones for their \"Father\" to become king of Los Pecados.\n\nAnd so, when he slipped into the Duke's mansion, he found an inescapable trap awaiting him. All Claude could do was accept his fate, and he was taken into custody. Following a hasty trial he was soon pronounced guilty of all charges, and thrown into a cold, dark cell.\n\nLocked up in chains, Claude burned with regret. The only thing in his mind that kept him going was his gang of brothers, lost with nowhere to go."
+          }
+        },
+        {
+          "title": "Meeting Merlin",
+          "content": {
+            "markdown": "The days passed slowly. One day, Claude was made to switch cells, his new cell shared with an old man with a beard and hair as white as snow. That peculiar old fellow was none other than the master thief of legend—Merlin. The powerful and incredibly resourceful Merlin had a reason for being locked up in a cell. A reason that left Claude dumbstruck: he just wanted a quiet place to retire.\n\nThe cunning Claude reminded Merlin of his younger self. Hence, he decided to pass on to him his legacy. Yet, in return, Claude would need to acquiesce to a most peculiar request of Merlin's. Once out of prison, he must loot each city across the Land of Dawn, leaving behind his name as a calling card.\n\nIn the two years that followed, Claude inherited each of Merlin's wondrous techniques of deceit, escape and combat among others. His abilities grew until he was ready to steal anything he could imagine. One night, Claude enacted upon his perfect prison break plan, stealing back his freedom."
+          }
+        },
+        {
+          "title": "A Promise Across the Land of Dawn",
+          "content": {
+            "markdown": "To make good on his promise, Claude traveled throughout the Land of Dawn in the several years that followed. The streets bristled with whispers of the master thief Claude, his charm and his incredible skill. With his trademark carefree smile, Claude was your man if you ever needed something stolen, no matter what. All he asked is that the pay be generous, and the one to be stolen from, evil.\n\nAs this continued, Claude came to be joined by the perfect partner—the mysterious Dexter. This mischievous little monkey first met Claude in Moniyan, when he stole a lucky gold coin straight from under his nose. After a brief pursuit, their friendship blossomed, and Claude took Dexter on as his partner-in-crime. And so their adventures began.\n\nOn the fifth year of his departure from Los Pecados, Claude finally completed the promise he'd made to Merlin. He'd left his traces in every city in the Land of Dawn."
+          }
+        },
+        {
+          "title": "Return to Los Pecados",
+          "content": {
+            "markdown": "Next, he would return to Los Pecados. Yet nothing could have prepared Claude for what he saw when he returned after those five years away. His brethren of old hadn't risen up the underworld ranks, escaped from poverty with their manipulative \"Father\". No, a fate quite different had befallen them. Instead, he saw that not only were there still pitiable street kids around every corner of this run-down city, ones like Claude of the past; there were even more than before.\n\nClaude had been deceived and it filled him with a violent rage. He began to plan his revenge as it swirled up inside him. Waldo Kane had achieved his monopoly over the city, becoming the kingpin of Los Pecados.\n\nIn order to exact his revenge, Claude slipped into Eruditio and with Dexter's aid feigned capture, entering prison. He then stole Dr. Rooney's latest invention—a most odd holographic mirror device.\n\nPleased with his success, it was then that Claude noticed a line of text upon the device: \"I hope this device serves you well. If you've any ideas or suggestions on how to improve it, contact me immediately!—Rooney.\"\n\nWith this \"gift\" from Dr. Rooney, Claude and Dexter made tracks for Los Pecados. In this chaotic city of nefarious deals outside of the law, he would make he who had deceived him in the past pay the price."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Battle Side-by-side",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Damage",
+        "details": {
+          "markdown": "Dexter launches an extra attack each time Claude's Physical Basic Attack lands, dealing scaling damage to the same target. Dexter's attacks can also trigger Claude's attack effects with 30% effectiveness."
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Art of Thievery",
+        "cooldown": 5,
+        "cost": 65,
+        "role": "Damage",
+        "details": {
+          "markdown": "Claude attacks enemies in a fan-shaped area ahead, dealing physical damage and reducing their Movement Speed by 20% to 30% and Attack Speed by 10% to 20% depending on skill level.\n\nFor each target hit, Claude gains extra Movement Speed and Attack Speed for 6 seconds (doubled if the target is an enemy hero, up to 5 stacks).\n\n- Base Damage: 160 / 185 / 210 / 235 / 260 / 285\n- Movement Speed Reduction: 20% / 20% / 25% / 25% / 30% / 30%\n- Attack Speed Reduction: 10% / 12% / 14% / 16% / 18% / 20%\n- Movement and Attack Speed Bonus: 4% / 4.6% / 5.2% / 5.8% / 6.4% / 7%\n- Mana Cost: 65 / 70 / 75 / 80 / 85 / 90"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Battle Mirror Image",
+        "cooldown": 11,
+        "cost": 70,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Claude leaves a mirror image of Dexter at a designated location. Dexter’s mirror image automatically attacks enemies for 5.5 seconds. Claude can activate this skill again to switch places with the mirror image.\n\nDexter's attacks deal scaling physical damage and can trigger Claude's attack effects.\n\nNotes:\n\n- Cooldown starts after summoning the mirror image.\n- Claude can switch places with the mirror image within 3 seconds."
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Blazing Duet",
+        "cooldown": 50,
+        "cost": 150,
+        "role": "Damage",
+        "details": {
+          "markdown": "Claude and Dexter rapidly fire at the enemies nearby over 3 seconds, dealing scaling physical damage to up to two targets each time they shoot. This skill benefits from Claude's Basic Attack effects and grants him a shield that can absorb scaling damage.\n\n- Base Damage per hit: 100 / 115 / 130\n- Cooldown: 50 / 45 / 40 seconds\n- Mana Cost: 150 / 175 / 200\n\nNotes:\n\n- This skill can only be interrupted by powerful crowd control effects such as airborne, suppressed, frozen, or transformed."
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Claude somewhat resembles Aladdin: they are both thieves and have a monkey by their side."
+      },
+      {
+        "markdown": "Claude's pal, Dexter, was named after the monkey on the movie Night at The Museum (2006) who stole the security keys."
+      },
+      {
+        "markdown": "His ultimate skill reuses another hero's old ultimate or skill effects."
+      },
+      {
+        "markdown": "Claude is the main character in the story of the Jade Path: Claude's Grand Heist."
+      },
+      {
+        "markdown": "Claude's ultimate was called Open Fire before it was changed to Blazing Duet. It was likely changed because the name is already used for another hero's skill."
+      },
+      {
+        "markdown": "Claude is one of the few heroes to break the fourth wall in two of his old quotes."
+      },
+      {
+        "markdown": "> *Sshh, why don't we go steal the enemy base next?*"
+      },
+      {
+        "markdown": "> *yawn* I'm tired of farming, let's go fight some enemies!"
+      },
+      {
+        "markdown": "Claude was originally going to have a tournament special skin for MSC 2020 along with other heroes (2018: Space Explorer) and another hero (2019: Triumph - Eagle), but the skin was delayed along with the tournament due to the COVID-19 Pandemic and ended up released on 2021."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n- Name: Claude\n- Chinese Name: 克劳德 (kèláodé)\n- Species: Human\n- Gender: Male\n- Age: 23\n- Origin: Los Pecados, Agelta Drylands\n- Occupation: Thief\n- Affiliation: Los Pecados\n- Aliases:\n  - Master Thief\n  - Partners in Crime (former)\n  - Lord of Thieves\n- Weapons:\n  - Arm blaster\n  - Holographic mirror device\n- Abilities:\n  - Art of Thievery\n- Relationships:\n  - Dexter (sidekick)\n  - Merlin (companion)\n  - Waldo Kane (enemy)\n  - Blandy (enemy, deceased)\n- English VA: Tony Waldman\n- Japanese VA: Zaima Kenta (財満 健太)\n- Indonesian VA: Ferry Kurniawan\n\n# Story\n\n> \"Excellent thief who comes and gies without a trace\"\n\nClaude grew up living in Los Pecados. The circumstances in his life forced him into becoming an incredible thief. But he was used by Kane and went to prison and chains. In prison, he met Merlin, the god of thieves, and inherited his mantle, successfully escaping from prison. After completing an agreement with Merlin, Claude returned to Los Pecados with his new partner Dexter, ready to take revenge on Kane.\n\n# Side Story\n\n## Origin of a Master Thief\n\nClaude was born in Los Pecados, a western city in the Land of Dawn. An infamous city of sins without a ruler or order, lawless and ravaged by crime.\n\nGrowing up in such a place as an orphan, Claude soon learned how to fight, lie, gamble and steal: tricks of the trade he had to rely upon to survive. He was especially talented in the latter, and no cutpurse he'd ever met matched him when it came to his sharp eye and nimble fingers.\n\nIt wasn't long until he became leader of a vagrant band, relying upon his \"skills\", and making a name for himself in Los Pecados. He found one who would offer him and his gang protection—Waldo Kane. Kane was yet to achieve the monopoly over Los Pecados that he'd dreamed of. Wild ambition and conspiracy brewed deep within him. To him, this motley crew of street roamers with no place to call home were the perfect tools to achieve his goals. Behind a mask of benevolence, he manipulated these kids, with smooth lies and false compassion leading them down a dark path. He molded them into becoming members of his criminal group, each misguided child referring to him as \"Father\".\n\n## Betrayal at Castle Grandrock\n\nAt the age of 18, Claude was given a monumental task: he was to head to Castle Grandrock in northern Moniyan, sneak into the Duke of Vance's home. Then, he would feign stealing secret accounts, while actually casting the blame on another gang. Kane promised Claude that he'd have people waiting for him once he was inside. Once he'd completed his mission Claude and his team would be rewarded with a place to live of their own. No longer would they need to live in the slums.\n\nThe truth, however, was nothing Claude could have ever imagined. There was nobody waiting for him: he was but a mere pawn, and neither he nor his brothers would be receiving any kind of reward. Like Claude, they were just stepping stones for their \"Father\" to become king of Los Pecados.\n\nAnd so, when he slipped into the Duke's mansion, he found an inescapable trap awaiting him. All Claude could do was accept his fate, and he was taken into custody. Following a hasty trial he was soon pronounced guilty of all charges, and thrown into a cold, dark cell.\n\nLocked up in chains, Claude burned with regret. The only thing in his mind that kept him going was his gang of brothers, lost with nowhere to go.\n\n## Meeting Merlin\n\nThe days passed slowly. One day, Claude was made to switch cells, his new cell shared with an old man with a beard and hair as white as snow. That peculiar old fellow was none other than the master thief of legend—Merlin. The powerful and incredibly resourceful Merlin had a reason for being locked up in a cell. A reason that left Claude dumbstruck: he just wanted a quiet place to retire.\n\nThe cunning Claude reminded Merlin of his younger self. Hence, he decided to pass on to him his legacy. Yet, in return, Claude would need to acquiesce to a most peculiar request of Merlin's. Once out of prison, he must loot each city across the Land of Dawn, leaving behind his name as a calling card.\n\nIn the two years that followed, Claude inherited each of Merlin's wondrous techniques of deceit, escape and combat among others. His abilities grew until he was ready to steal anything he could imagine. One night, Claude enacted upon his perfect prison break plan, stealing back his freedom.\n\n## A Promise Across the Land of Dawn\n\nTo make good on his promise, Claude traveled throughout the Land of Dawn in the several years that followed. The streets bristled with whispers of the master thief Claude, his charm and his incredible skill. With his trademark carefree smile, Claude was your man if you ever needed something stolen, no matter what. All he asked is that the pay be generous, and the one to be stolen from, evil.\n\nAs this continued, Claude came to be joined by the perfect partner—the mysterious Dexter. This mischievous little monkey first met Claude in Moniyan, when he stole a lucky gold coin straight from under his nose. After a brief pursuit, their friendship blossomed, and Claude took Dexter on as his partner-in-crime. And so their adventures began.\n\nOn the fifth year of his departure from Los Pecados, Claude finally completed the promise he'd made to Merlin. He'd left his traces in every city in the Land of Dawn.\n\n## Return to Los Pecados\n\nNext, he would return to Los Pecados. Yet nothing could have prepared Claude for what he saw when he returned after those five years away. His brethren of old hadn't risen up the underworld ranks, escaped from poverty with their manipulative \"Father\". No, a fate quite different had befallen them. Instead, he saw that not only were there still pitiable street kids around every corner of this run-down city, ones like Claude of the past; there were even more than before.\n\nClaude had been deceived and it filled him with a violent rage. He began to plan his revenge as it swirled up inside him. Waldo Kane had achieved his monopoly over the city, becoming the kingpin of Los Pecados.\n\nIn order to exact his revenge, Claude slipped into Eruditio and with Dexter's aid feigned capture, entering prison. He then stole Dr. Rooney's latest invention—a most odd holographic mirror device.\n\nPleased with his success, it was then that Claude noticed a line of text upon the device: \"I hope this device serves you well. If you've any ideas or suggestions on how to improve it, contact me immediately!—Rooney.\"\n\nWith this \"gift\" from Dr. Rooney, Claude and Dexter made tracks for Los Pecados. In this chaotic city of nefarious deals outside of the law, he would make he who had deceived him in the past pay the price.\n\n# Abilities\n\n## Battle Side-by-side\n\nDexter launches an extra attack each time Claude's Physical Basic Attack lands, dealing scaling damage to the same target. Dexter's attacks can also trigger Claude's attack effects with 30% effectiveness.\n\n## Art of Thievery\n\nClaude attacks enemies in a fan-shaped area ahead, dealing physical damage and reducing their Movement Speed by 20% to 30% and Attack Speed by 10% to 20% depending on skill level.\n\nFor each target hit, Claude gains extra Movement Speed and Attack Speed for 6 seconds (doubled if the target is an enemy hero, up to 5 stacks).\n\n- Base Damage: 160 / 185 / 210 / 235 / 260 / 285\n- Movement Speed Reduction: 20% / 20% / 25% / 25% / 30% / 30%\n- Attack Speed Reduction: 10% / 12% / 14% / 16% / 18% / 20%\n- Movement and Attack Speed Bonus: 4% / 4.6% / 5.2% / 5.8% / 6.4% / 7%\n- Mana Cost: 65 / 70 / 75 / 80 / 85 / 90\n\n## Battle Mirror Image\n\nClaude leaves a mirror image of Dexter at a designated location. Dexter’s mirror image automatically attacks enemies for 5.5 seconds. Claude can activate this skill again to switch places with the mirror image.\n\nDexter's attacks deal scaling physical damage and can trigger Claude's attack effects.\n\nNotes:\n\n- Cooldown starts after summoning the mirror image.\n- Claude can switch places with the mirror image within 3 seconds.\n\n## Blazing Duet\n\nClaude and Dexter rapidly fire at the enemies nearby over 3 seconds, dealing scaling physical damage to up to two targets each time they shoot. This skill benefits from Claude's Basic Attack effects and grants him a shield that can absorb scaling damage.\n\n- Base Damage per hit: 100 / 115 / 130\n- Cooldown: 50 / 45 / 40 seconds\n- Mana Cost: 150 / 175 / 200\n\nNotes:\n\n- This skill can only be interrupted by powerful crowd control effects such as airborne, suppressed, frozen, or transformed.\n\n# Trivia\n\n- Claude somewhat resembles Aladdin: they are both thieves and have a monkey by their side.\n- Claude's pal, Dexter, was named after the monkey on the movie Night at The Museum (2006) who stole the security keys.\n- His ultimate skill reuses another hero's old ultimate or skill effects.\n- Claude is the main character in the story of the Jade Path: Claude's Grand Heist.\n- Claude's ultimate was called Open Fire before it was changed to Blazing Duet. It was likely changed because the name is already used for another hero's skill.\n- Claude is one of the few heroes to break the fourth wall in two of his old quotes.\n- > *Sshh, why don't we go steal the enemy base next?*\n- > *yawn* I'm tired of farming, let's go fight some enemies!\n- Claude was originally going to have a tournament special skin for MSC 2020 along with other heroes (2018: Space Explorer) and another hero (2019: Triumph - Eagle), but the skin was delayed along with the tournament due to the COVID-19 Pandemic and ended up released on 2021.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "waldo_kane",
+        "merlin",
+        "rooney"
+      ],
+      "faction": "Los Pecados",
+      "allies": [
+        "merlin"
+      ],
+      "rivals": [
+        "waldo_kane"
+      ],
+      "family": [],
+      "mentors": [
+        "merlin"
+      ],
+      "factionRole": "Member",
+      "locationTies": [
+        {
+          "location": "Los Pecados",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Agelta Drylands",
+          "relationship": "home"
+        },
+        {
+          "location": "Castle Grandrock",
+          "relationship": "visited"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "visited"
+        },
+        {
+          "location": "Land of Dawn",
+          "relationship": "visited"
+        },
+        {
+          "location": "Eruditio",
+          "relationship": "visited"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "vengeful"
+    ],
+    "themes": [
+      "revenge",
+      "betrayal",
+      "freedom"
+    ],
+    "hook": "Locked in chains after a brutal betrayal, Claude learns the secrets of a legendary thief, then returns to a city of lies with a monkey partner and a score to settle.",
+    "teaser": "Betrayed by his \"Father\" and forged in a prison of legends, Claude crosses the Land of Dawn as a master thief, returning home with Dexter to topple a crime king.",
+    "openingLine": "Claude was born in Los Pecados, a western city in the Land of Dawn.",
+    "dominantColor": "#C68A3A",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 5,
+    "chapterTitles": [
+      "Origin of a Master Thief",
+      "Betrayal at Castle Grandrock",
+      "Meeting Merlin",
+      "A Promise Across the Land of Dawn",
+      "Return to Los Pecados"
+    ],
+    "plotKeywords": [
+      "orphan thief",
+      "criminal mentor",
+      "betrayal and imprisonment",
+      "legendary master thief",
+      "vow across all cities",
+      "monkey partner",
+      "return to corrupt hometown",
+      "revenge plot"
+    ],
+    "characterTraits": [
+      "cunning",
+      "charismatic",
+      "vengeful",
+      "resourceful",
+      "daring",
+      "loyal"
+    ],
+    "locations": [
+      "Los Pecados",
+      "Agelta Drylands",
+      "Land of Dawn",
+      "Castle Grandrock",
+      "Moniyan Empire",
+      "Eruditio"
+    ],
+    "wordCount": 1642,
+    "readingTimeMinutes": 11,
+    "connectionsCount": 3,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764647005406,
+    "updatedAt": 1764647005406
+  },
+  "lastUpdated": null
+}

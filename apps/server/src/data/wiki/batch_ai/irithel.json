@@ -1,0 +1,178 @@
+{
+  "hero": "irithel",
+  "urlName": "irithel",
+  "sections": {
+    "profile": {
+      "markdown": "**Alias:** Jungle Heart\n\n**Chinese Name:** 黎希尔 (Líxīěr)\n\n**Origin:** Azrya Woodlands\n\n**Species:** Moon Elf\n\n**Gender:** Female\n\n**Affiliation:** Human (hostile)\n\n**Weapons:**\n- Crossbow\n- Heavy crossbow\n\n**Traits:** Wild-natured and a savaged valiant, Bravely Outspoken\n\n**Relationships:**\n- Unnamed smilodon (foster mother)\n- Leo (foster brother, companion)\n- Nana (companion)\n\n**English Voice Actor:** Feena Glynn\n\n**Japanese Voice Actor:** Kameyama Maki (亀山 雅妃)\n\n\"Forest hunter with a Smilodon\""
+    },
+    "story": {
+      "markdown": "A jungle orphan raised by a smilodon, was rescued by Leonin Nana when she was almost caught by a human slave trader. With the help of Nana, she learned the human language and fighting skills, but she still didn't trust humans and only trusted her friend, a little tiger named Leo."
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Lore",
+          "content": {
+            "markdown": "Irithel was abandoned in the jungle by her parents when she was a little girl. Under the guidance of the God of Jungle, a female smilodon that had just given birth adopted her. Being protected by the mother smilodon, the little smilodon Leo and Irithel learned to hunt, survive, and grew up like an animal.\n\nDuring a territory fight, the mother smilodon was badly injured. When Irithel and her \"brother\" Leo went to a town for help, they were captured as \"smilodon children\" by a slaveholder. When the cat elf mage - Nana - passed by and couldn't watch them get beaten to death, she suddenly had the super power inside her that allowed her to save these two poor children.\n\nWith the help of Nana, Irithel was able to understand human languages and combat skills while Leo grew up to become a strong adult smilodon. But Irithel still hates humans and trusts her only friend - Leo."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Jungle Heart",
+        "cooldown": 0,
+        "cost": 100,
+        "role": "Damage",
+        "details": {
+          "markdown": "Irithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal damage per bolt based on level and stats (inherits a portion 55% of Attack Effects). Moving will build up Jungle Heart, up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt.\n\n- Attack Effects: 55%\n- Energy Gain: 5 energy / 0.5 units\n\nSkill type: Physical Basic Attack\nRelated term: Attack Effect"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Strafe",
+        "cooldown": 10,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "Irithel launches a volley of arrows on the target area, dealing physical damage in an area based on level and stats to enemies within and reducing their Physical Defense by 15–40 for 3 seconds.\n\n- Base Damage: 330 / 370 / 410 / 450 / 490 / 530\n- Physical Defense Reduction: 15 / 20 / 25 / 30 / 35 / 40\n- Debuff only applies to non-minion enemies.\n\nSkill type: Physical Damage Skill\nRelated term: Physical Defense"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Force of the Queen",
+        "cooldown": 10,
+        "cost": 0,
+        "role": "Control",
+        "details": {
+          "markdown": "Leo lets out a piercing roar, dealing physical damage in an area based on level and stats to nearby enemies and slowing them by 40% for 2 seconds.\n\n- Base Damage: 200 / 230 / 260 / 260 / 320 / 350\n- Cooldown: 10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0\n\nSkill type: Physical Damage Skill\nRelated term: Movement Speed"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Heavy Crossbow",
+        "cooldown": 0,
+        "cost": 0,
+        "role": "Damage",
+        "details": {
+          "markdown": "> \"No arrow is shot in vain.\"\n\nIrithel order Leo to leap in the target direction and empowers her crossbow for 10 seconds. For the duration, she gains 30 extra Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing physical damage based on level and stats to the target and nearby units. Jungle Heart also accumulates faster for the duration.\n\n- Attack Effects: 100%\n- Physical Attack Bonus: 60% / 70% / 80%\n\nNotes:\n- Triggers basic attack effects on each enemy hero hit by the explosion.\n\nSkill type: Physical Basic Attack, Blink\nRelated term: Attack Effect"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "The name Irithel is of Turkish origin and means \"Goddess of hunt and pray. Strong bow and arch\"."
+      },
+      {
+        "markdown": "When Irithel was first released she was called Mona and hero title \"Descendant of the Forest.\""
+      },
+      {
+        "markdown": "Irithel is the first rider heroes."
+      },
+      {
+        "markdown": "Irithel referred Leo as a \"tiger\" in one of her quotes, but he is biologically a smilodon."
+      },
+      {
+        "markdown": "Irithel is the first hero who can do Basic Attacks while moving."
+      },
+      {
+        "markdown": "Irithel is the only ranged hero with an explosive Basic Attack, where the damage of her Basic Attack during can hit multiple enemies in a small AoE at once."
+      },
+      {
+        "markdown": "She is also the first and the only hero that have and has a unique background."
+      },
+      {
+        "markdown": "Currently, she is also the hero that has never been remodel since her release and is still using the same model without any changes."
+      },
+      {
+        "markdown": "When her \"Night Arrow\" skin was released, Leo's appearance closely resembled Toothless from How To Train Your Dragon; it was later changed to have a more feline look, likely to avoid copyright issues."
+      },
+      {
+        "markdown": "She is the fourth hero to have two StarLight skins (\"Nightarrow\" and \"Checkered Knight\")."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Alias:** Jungle Heart\n\n**Chinese Name:** 黎希尔 (Líxīěr)\n\n**Origin:** Azrya Woodlands\n\n**Species:** Moon Elf\n\n**Gender:** Female\n\n**Affiliation:** Human (hostile)\n\n**Weapons:**\n- Crossbow\n- Heavy crossbow\n\n**Traits:** Wild-natured and a savaged valiant, Bravely Outspoken\n\n**Relationships:**\n- Unnamed smilodon (foster mother)\n- Leo (foster brother, companion)\n- Nana (companion)\n\n**English Voice Actor:** Feena Glynn\n\n**Japanese Voice Actor:** Kameyama Maki (亀山 雅妃)\n\n\"Forest hunter with a Smilodon\"\n\n# Story\n\nA jungle orphan raised by a smilodon, was rescued by Leonin Nana when she was almost caught by a human slave trader. With the help of Nana, she learned the human language and fighting skills, but she still didn't trust humans and only trusted her friend, a little tiger named Leo.\n\n# Side Story\n\n## Lore\n\nIrithel was abandoned in the jungle by her parents when she was a little girl. Under the guidance of the God of Jungle, a female smilodon that had just given birth adopted her. Being protected by the mother smilodon, the little smilodon Leo and Irithel learned to hunt, survive, and grew up like an animal.\n\nDuring a territory fight, the mother smilodon was badly injured. When Irithel and her \"brother\" Leo went to a town for help, they were captured as \"smilodon children\" by a slaveholder. When the cat elf mage - Nana - passed by and couldn't watch them get beaten to death, she suddenly had the super power inside her that allowed her to save these two poor children.\n\nWith the help of Nana, Irithel was able to understand human languages and combat skills while Leo grew up to become a strong adult smilodon. But Irithel still hates humans and trusts her only friend - Leo.\n\n# Abilities\n\n## Jungle Heart\n\nIrithel and Leo's immaculate teamwork allows her to shoot while moving. Each Basic Attack will shoot 2 crossbow bolt(s) (but takes longer to refill) that deal damage per bolt based on level and stats (inherits a portion 55% of Attack Effects). Moving will build up Jungle Heart, up to a maximum of 10 units, and cause the next Basic Attack to unleash 1 additional bolt.\n\n- Attack Effects: 55%\n- Energy Gain: 5 energy / 0.5 units\n\nSkill type: Physical Basic Attack\nRelated term: Attack Effect\n\n## Strafe\n\nIrithel launches a volley of arrows on the target area, dealing physical damage in an area based on level and stats to enemies within and reducing their Physical Defense by 15–40 for 3 seconds.\n\n- Base Damage: 330 / 370 / 410 / 450 / 490 / 530\n- Physical Defense Reduction: 15 / 20 / 25 / 30 / 35 / 40\n- Debuff only applies to non-minion enemies.\n\nSkill type: Physical Damage Skill\nRelated term: Physical Defense\n\n## Force of the Queen\n\nLeo lets out a piercing roar, dealing physical damage in an area based on level and stats to nearby enemies and slowing them by 40% for 2 seconds.\n\n- Base Damage: 200 / 230 / 260 / 260 / 320 / 350\n- Cooldown: 10.0 / 9.4 / 8.8 / 8.2 / 7.6 / 7.0\n\nSkill type: Physical Damage Skill\nRelated term: Movement Speed\n\n## Heavy Crossbow\n\n> \"No arrow is shot in vain.\"\n\nIrithel order Leo to leap in the target direction and empowers her crossbow for 10 seconds. For the duration, she gains 30 extra Movement Speed and her Basic Attacks shoot enhanced crossbow bolts, dealing physical damage based on level and stats to the target and nearby units. Jungle Heart also accumulates faster for the duration.\n\n- Attack Effects: 100%\n- Physical Attack Bonus: 60% / 70% / 80%\n\nNotes:\n- Triggers basic attack effects on each enemy hero hit by the explosion.\n\nSkill type: Physical Basic Attack, Blink\nRelated term: Attack Effect\n\n# Trivia\n\n- The name Irithel is of Turkish origin and means \"Goddess of hunt and pray. Strong bow and arch\".\n- When Irithel was first released she was called Mona and hero title \"Descendant of the Forest.\"\n- Irithel is the first rider heroes.\n- Irithel referred Leo as a \"tiger\" in one of her quotes, but he is biologically a smilodon.\n- Irithel is the first hero who can do Basic Attacks while moving.\n- Irithel is the only ranged hero with an explosive Basic Attack, where the damage of her Basic Attack during can hit multiple enemies in a small AoE at once.\n- She is also the first and the only hero that have and has a unique background.\n- Currently, she is also the hero that has never been remodel since her release and is still using the same model without any changes.\n- When her \"Night Arrow\" skin was released, Leo's appearance closely resembled Toothless from How To Train Your Dragon; it was later changed to have a more feline look, likely to avoid copyright issues.\n- She is the fourth hero to have two StarLight skins (\"Nightarrow\" and \"Checkered Knight\").\n",
+  "metadata": {
+    "storyType": "mixed",
+    "storyArc": "origin",
+    "relationships": {
+      "relatedHeroes": [
+        "nana"
+      ],
+      "faction": "Moon Elves",
+      "allies": [
+        "nana"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": null,
+      "locationTies": [
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "home"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "tragic"
+    ],
+    "themes": [
+      "family",
+      "trust"
+    ],
+    "hook": "With the help of Nana, Irithel was able to understand human languages and combat skills while Leo grew up to become a strong adult smilodon.",
+    "teaser": "Abandoned in the jungle and raised by a smilodon, Irithel learns to fight like a beast and speak like a human, but her heart still only trusts Leo.",
+    "openingLine": "Irithel was abandoned in the jungle by her parents when she was a little girl.",
+    "dominantColor": "#2F4F4F",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 1,
+    "chapterTitles": [
+      "Lore"
+    ],
+    "plotKeywords": [
+      "abandonment in jungle",
+      "raised by smilodon",
+      "slaveholder capture",
+      "rescue by Nana",
+      "distrust of humans",
+      "bond with Leo"
+    ],
+    "characterTraits": [
+      "wild",
+      "valiant",
+      "outspoken",
+      "distrustful",
+      "loyal"
+    ],
+    "locations": [
+      "Azrya Woodlands"
+    ],
+    "wordCount": 785,
+    "readingTimeMinutes": 6,
+    "connectionsCount": 1,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646954378,
+    "updatedAt": 1764646954378
+  },
+  "lastUpdated": null
+}

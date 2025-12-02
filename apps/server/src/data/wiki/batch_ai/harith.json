@@ -1,0 +1,230 @@
+{
+  "hero": "harith",
+  "urlName": "harith",
+  "sections": {
+    "profile": {
+      "markdown": "**Title:** Time Traveler\n\n**Chinese Name:** 哈里斯 (hālǐsī)\n\n**Age:** 15\n\n**Gender:** Male\n\n**Species:** Leonin\n\n**Born:** Enchanted Forest, Azrya Woodlands\n\n**Origin:** Monastery of Light, Moniyan Empire\n\n**Affiliation:** Moniyan Empire\n\n**Weapons:** Magical Orb\n\n**Abilities:** Space and Time Control\n\n**Aliases:** Time Traveler, Imperial Master of Magic, Master of Magic, Inspirer of Lightborn Chevaliers\n\n**English Voice Actor:** Feena Glynn\n\n**Japanese Voice Actor:** Itō Kanako"
+    },
+    "story": {
+      "markdown": ""
+    },
+    "bio": {
+      "markdown": ""
+    },
+    "side_story": {
+      "chapters": [
+        {
+          "title": "Ancient Leonin and Moon Elf Alliance",
+          "content": {
+            "markdown": "Legends say that an ancient race of elves reside in the Land of Dawn's Enchanted Forest. The stories often depict this cat-like race as small in stature, agile, playful, independent, and highly intelligent. However, few are aware of the longstanding alliance between the Leonin Elves and the Moon Elves."
+          }
+        },
+        {
+          "title": "Prodigy of the Leonins",
+          "content": {
+            "markdown": "From a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic."
+          }
+        },
+        {
+          "title": "Service to the Moniyan Empire",
+          "content": {
+            "markdown": "Harith arrived at the Moniyan Empire, where he joined armies to fight off the invading orc tribes. Proving himself in battle, Harith gained the recognition of Tigreal, who came to appreciate Harith's lovely spirit and strong abilities. People say, Harith was given the rank of lieutenant and will soon be appointed as an Imperial Master of Magic of the Moniyan Empire. With that said, Harith has imperial authorization to use magic to control space and time to unlock the Secrets of Dawn to seal away evil and protect justice."
+          }
+        },
+        {
+          "title": "Burden of the Master of Magic",
+          "content": {
+            "markdown": "Full of excitement and fervor, Harith also knew that once he is appointed the title of Master of Magic that he will become a target of public criticism. Committed to his dream of becoming his people's leader in magic, Harith fearlessly marched forward alone. Over time, Harith discovered that his life was consumed by his mission and by the empire. Harith slowly grew lonely and reclusive. Even when he met his fellow Leonin, Nana, he was unable to maintain a normal conversation. Despite Nana showing signs of affection towards him, he could not express his feelings, believing that the best way to protect her from criticism was for him be alone. After all, whenever the empire needed magical assistance, the Master of Magic was on the job to seal away the dangers of evil."
+          }
+        }
+      ]
+    },
+    "abilities": [
+      {
+        "slot": "Passive",
+        "name": "Key Insight",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Harith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.\n\n- Effect type: Buff\n- Scaling: Hybrid Lifesteal increases based on the number of nearby enemy heroes (up to 5)"
+        }
+      },
+      {
+        "slot": "Skill 1",
+        "name": "Synchro Fission",
+        "cooldown": 5,
+        "cost": 50,
+        "role": "Damage",
+        "details": {
+          "markdown": "Harith creates a phantom of himself in a distant location. Harith and his phantom will then release energy waves toward each other, dealing magic damage to all enemy units on the path. When the 2 energy waves collide, an explosion occurs, dealing additional magic damage to all enemies in the explosion area.\n\n- Effect type: Area of Effect, Magic Damage\n- Base Damage: 236 / 264 / 292 / 320 / 348 / 376 magic damage\n- Explosion Damage: 590 / 660 / 730 / 800 / 870 / 940 magic damage\n- Spell Vamp Ratio: 50%\n- Cooldown: 5.0 seconds\n- Mana Cost: 50 / 55 / 60 / 65 / 70 / 75"
+        }
+      },
+      {
+        "slot": "Skill 2",
+        "name": "Chrono Dash",
+        "cooldown": 9.3,
+        "cost": 40,
+        "role": "Mobility",
+        "details": {
+          "markdown": "Harith dashes towards the target direction. When he arrives, he steals Magic Power from enemy heroes, generates a shield that absorbs a certain amount of damage and enhances his next Basic Attack. Harith's enhanced Basic Attack deals additional magic damage and slows enemies by 40%. Hitting an enemy with Harith's enhanced Basic Attack reduces the cooldown of Chrono Dash by 3 seconds.\n\n- Effect types: Blink, Buff, Shield, Slow\n- Cooldown: 9.3 seconds\n- Mana Cost: 40 / 43 / 46 / 49 / 52 / 55\n- Shield: Generates a shield that absorbs at least a fixed amount of damage (scales with level and Magic Power)\n- Enhanced Basic Attack: Deals bonus magic damage and applies a 40% slow\n- Cooldown Reduction: Hitting an enemy with the enhanced Basic Attack reduces Chrono Dash's cooldown by 3 seconds"
+        }
+      },
+      {
+        "slot": "Ultimate",
+        "name": "Zaman Force",
+        "cooldown": 40,
+        "cost": 120,
+        "role": "Control",
+        "details": {
+          "markdown": "Harith uses his Key to summon the Zaman Force. When the multidimensional rift appears, the cooldown of his skills is reduced by 4 seconds. The rift initially slows enemy heroes in the area by 70% and will continuously slow enemy heroes by 35% afterwards. If Harith comes into contact with the rift using his skills, he will absorb the energy within and further reduce the cooldown of Synchro Fission by 1 second and Chrono Dash by 3 seconds. Harith gains 15% Resilience while on the rift.\n\n- Effect types: Buff, Slow, Cooldown Reduction\n- Initial Slow: 70% on enemy heroes in the area\n- Continuous Slow: 35% on enemy heroes remaining in the area\n- Global Cooldown Reduction on cast: reduces his skill cooldowns by 4 seconds\n- Additional Cooldown Reduction: contacting the rift reduces Synchro Fission cooldown by 1 second and Chrono Dash cooldown by 3 seconds\n- Resilience: Harith gains 15% Resilience while within the rift area\n- Rift Length: 12 units\n- Cooldown: 40.0 / 35.0 / 30.0 seconds\n- Mana Cost: 120 / 160 / 200\n\n> \"They say geniuses recognize one another!, a quote from.\""
+        }
+      },
+      {
+        "slot": "Passive",
+        "name": "Scaling Data: Synchro Fission",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Additional scaling information for Synchro Fission.\n\n- Base Damage scaling: 236-376 magic damage, total mana cost 84\n- Explosion Damage scaling: 590-940 magic damage, total mana cost 210"
+        }
+      },
+      {
+        "slot": "Passive",
+        "name": "Scaling Data: Chrono Dash",
+        "cooldown": 0,
+        "cost": null,
+        "role": "Utility",
+        "details": {
+          "markdown": "Additional scaling information for Chrono Dash and its enhanced Basic Attack.\n\n- Dash Damage: 185-310 magic damage, total mana cost 140\n- Enhanced Basic Attack Damage: 225-350 magic damage, scales with 100% Physical Attack and 100% Magic Power"
+        }
+      }
+    ],
+    "trivia": [
+      {
+        "markdown": "Harith's Passive \"Key Insight\" used to be able to increase his Resilience."
+      },
+      {
+        "markdown": "Although Harith is a mage, his main role is often played in the Gold Lane rather than the Mid Lane."
+      },
+      {
+        "markdown": "Harith is the first hero to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include, , , and."
+      }
+    ]
+  },
+  "markdown": "# Profile\n\n**Title:** Time Traveler\n\n**Chinese Name:** 哈里斯 (hālǐsī)\n\n**Age:** 15\n\n**Gender:** Male\n\n**Species:** Leonin\n\n**Born:** Enchanted Forest, Azrya Woodlands\n\n**Origin:** Monastery of Light, Moniyan Empire\n\n**Affiliation:** Moniyan Empire\n\n**Weapons:** Magical Orb\n\n**Abilities:** Space and Time Control\n\n**Aliases:** Time Traveler, Imperial Master of Magic, Master of Magic, Inspirer of Lightborn Chevaliers\n\n**English Voice Actor:** Feena Glynn\n\n**Japanese Voice Actor:** Itō Kanako\n\n# Side Story\n\n## Ancient Leonin and Moon Elf Alliance\n\nLegends say that an ancient race of elves reside in the Land of Dawn's Enchanted Forest. The stories often depict this cat-like race as small in stature, agile, playful, independent, and highly intelligent. However, few are aware of the longstanding alliance between the Leonin Elves and the Moon Elves.\n\n## Prodigy of the Leonins\n\nFrom a young age, Harith surpassed his peers in talent and wisdom. He quickly became the strongest mage among the Leonins, perhaps as strong as other in the Land of Dawn. Although, the Leonins never step foot outside of the Enchanted Forest, living a peaceful and safe life on their own. The Leonins became so complacent with their blissful existence that they no longer pursed the magic arts, a hallmark of their people. Harith became very discontent with this trend and confidently set out of the Enchanted Forest to see the outside world at the young age of 15. Harith was driven by his and passion for the magic arts, aspiring to become his people's leader in magic.\n\n## Service to the Moniyan Empire\n\nHarith arrived at the Moniyan Empire, where he joined armies to fight off the invading orc tribes. Proving himself in battle, Harith gained the recognition of Tigreal, who came to appreciate Harith's lovely spirit and strong abilities. People say, Harith was given the rank of lieutenant and will soon be appointed as an Imperial Master of Magic of the Moniyan Empire. With that said, Harith has imperial authorization to use magic to control space and time to unlock the Secrets of Dawn to seal away evil and protect justice.\n\n## Burden of the Master of Magic\n\nFull of excitement and fervor, Harith also knew that once he is appointed the title of Master of Magic that he will become a target of public criticism. Committed to his dream of becoming his people's leader in magic, Harith fearlessly marched forward alone. Over time, Harith discovered that his life was consumed by his mission and by the empire. Harith slowly grew lonely and reclusive. Even when he met his fellow Leonin, Nana, he was unable to maintain a normal conversation. Despite Nana showing signs of affection towards him, he could not express his feelings, believing that the best way to protect her from criticism was for him be alone. After all, whenever the empire needed magical assistance, the Master of Magic was on the job to seal away the dangers of evil.\n\n# Abilities\n\n## Key Insight\n\nHarith gains insight from his Key. He gains 7% Hybrid Lifesteal for each nearby enemy hero, stacking up to 35%.\n\n- Effect type: Buff\n- Scaling: Hybrid Lifesteal increases based on the number of nearby enemy heroes (up to 5)\n\n## Synchro Fission\n\nHarith creates a phantom of himself in a distant location. Harith and his phantom will then release energy waves toward each other, dealing magic damage to all enemy units on the path. When the 2 energy waves collide, an explosion occurs, dealing additional magic damage to all enemies in the explosion area.\n\n- Effect type: Area of Effect, Magic Damage\n- Base Damage: 236 / 264 / 292 / 320 / 348 / 376 magic damage\n- Explosion Damage: 590 / 660 / 730 / 800 / 870 / 940 magic damage\n- Spell Vamp Ratio: 50%\n- Cooldown: 5.0 seconds\n- Mana Cost: 50 / 55 / 60 / 65 / 70 / 75\n\n## Chrono Dash\n\nHarith dashes towards the target direction. When he arrives, he steals Magic Power from enemy heroes, generates a shield that absorbs a certain amount of damage and enhances his next Basic Attack. Harith's enhanced Basic Attack deals additional magic damage and slows enemies by 40%. Hitting an enemy with Harith's enhanced Basic Attack reduces the cooldown of Chrono Dash by 3 seconds.\n\n- Effect types: Blink, Buff, Shield, Slow\n- Cooldown: 9.3 seconds\n- Mana Cost: 40 / 43 / 46 / 49 / 52 / 55\n- Shield: Generates a shield that absorbs at least a fixed amount of damage (scales with level and Magic Power)\n- Enhanced Basic Attack: Deals bonus magic damage and applies a 40% slow\n- Cooldown Reduction: Hitting an enemy with the enhanced Basic Attack reduces Chrono Dash's cooldown by 3 seconds\n\n## Zaman Force\n\nHarith uses his Key to summon the Zaman Force. When the multidimensional rift appears, the cooldown of his skills is reduced by 4 seconds. The rift initially slows enemy heroes in the area by 70% and will continuously slow enemy heroes by 35% afterwards. If Harith comes into contact with the rift using his skills, he will absorb the energy within and further reduce the cooldown of Synchro Fission by 1 second and Chrono Dash by 3 seconds. Harith gains 15% Resilience while on the rift.\n\n- Effect types: Buff, Slow, Cooldown Reduction\n- Initial Slow: 70% on enemy heroes in the area\n- Continuous Slow: 35% on enemy heroes remaining in the area\n- Global Cooldown Reduction on cast: reduces his skill cooldowns by 4 seconds\n- Additional Cooldown Reduction: contacting the rift reduces Synchro Fission cooldown by 1 second and Chrono Dash cooldown by 3 seconds\n- Resilience: Harith gains 15% Resilience while within the rift area\n- Rift Length: 12 units\n- Cooldown: 40.0 / 35.0 / 30.0 seconds\n- Mana Cost: 120 / 160 / 200\n\n> \"They say geniuses recognize one another!, a quote from.\"\n\n## Scaling Data: Synchro Fission\n\nAdditional scaling information for Synchro Fission.\n\n- Base Damage scaling: 236-376 magic damage, total mana cost 84\n- Explosion Damage scaling: 590-940 magic damage, total mana cost 210\n\n## Scaling Data: Chrono Dash\n\nAdditional scaling information for Chrono Dash and its enhanced Basic Attack.\n\n- Dash Damage: 185-310 magic damage, total mana cost 140\n- Enhanced Basic Attack Damage: 225-350 magic damage, scales with 100% Physical Attack and 100% Magic Power\n\n# Trivia\n\n- Harith's Passive \"Key Insight\" used to be able to increase his Resilience.\n- Although Harith is a mage, his main role is often played in the Gold Lane rather than the Mid Lane.\n- Harith is the first hero to receive an exclusive M-Series Champion Skin when EVOS Legends won the M1 World Championship. Other heroes with M-Series skin include, , , and.\n",
+  "metadata": {
+    "storyType": "full_backstory",
+    "storyArc": "rise_to_power",
+    "relationships": {
+      "relatedHeroes": [
+        "nana",
+        "tigreal",
+        "silvanna",
+        "joy",
+        "fanny",
+        "granger",
+        "alucard",
+        "claude",
+        "clint",
+        "alice",
+        "dyrroth",
+        "thamuz",
+        "balmond",
+        "helcurt",
+        "harley"
+      ],
+      "faction": "Moniyan Empire",
+      "allies": [
+        "tigreal",
+        "nana"
+      ],
+      "rivals": [],
+      "family": [],
+      "mentors": [],
+      "factionRole": "Imperial Master of Magic",
+      "locationTies": [
+        {
+          "location": "Enchanted Forest",
+          "relationship": "birthplace"
+        },
+        {
+          "location": "Azrya Woodlands",
+          "relationship": "home"
+        },
+        {
+          "location": "Moniyan Empire",
+          "relationship": "origin"
+        },
+        {
+          "location": "Monastery of Light",
+          "relationship": "origin"
+        }
+      ]
+    },
+    "moods": [
+      "heroic",
+      "melancholic"
+    ],
+    "themes": [
+      "power",
+      "sacrifice",
+      "loneliness"
+    ],
+    "hook": "Committed to his dream of leading his people in magic, Harith lets the empire consume his life, choosing loneliness and criticism over the love he cannot express.",
+    "teaser": "A Leonin prodigy leaves his enchanted home to master time itself, only to find that the greatest price of power is loneliness in the heart of an empire.",
+    "openingLine": "Legends say that an ancient race of elves reside in the Land of Dawn's Enchanted Forest.",
+    "dominantColor": "#3B7BD9",
+    "hasBackstory": true,
+    "hasSideStory": true,
+    "hasAbilityLore": true,
+    "hasTrivia": true,
+    "hasChapters": true,
+    "chapterCount": 4,
+    "chapterTitles": [
+      "Ancient Leonin and Moon Elf Alliance",
+      "Prodigy of the Leonins",
+      "Service to the Moniyan Empire",
+      "Burden of the Master of Magic"
+    ],
+    "plotKeywords": [
+      "enchanted forest",
+      "leonin elves",
+      "moon elves alliance",
+      "magical prodigy",
+      "moniyan empire army",
+      "imperial master of magic",
+      "space-time control",
+      "loneliness",
+      "unspoken affection for nana"
+    ],
+    "characterTraits": [
+      "intelligent",
+      "ambitious",
+      "dutiful",
+      "lonely",
+      "dedicated",
+      "reserved"
+    ],
+    "locations": [
+      "Land of Dawn",
+      "Enchanted Forest",
+      "Azrya Woodlands",
+      "Moniyan Empire",
+      "Monastery of Light"
+    ],
+    "wordCount": 1059,
+    "readingTimeMinutes": 8,
+    "connectionsCount": 15,
+    "coverImage": null,
+    "artworkCount": 0,
+    "hasVoiceLines": false,
+    "rarityScore": 0,
+    "epicnessScore": 0,
+    "mysteryLevel": 0,
+    "createdAt": 1764646965457,
+    "updatedAt": 1764646965457
+  },
+  "lastUpdated": null
+}
