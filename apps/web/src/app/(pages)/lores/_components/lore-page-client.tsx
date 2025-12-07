@@ -192,7 +192,7 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 									onClick={() => handleMoodToggle(mood)}
 									className={cn(
 										"h-8 rounded-full px-3 text-xs",
-										selectedMoods.includes(mood) && "bg-amber-500 text-white hover:bg-amber-600",
+										selectedMoods.includes(mood) && "bg-amber-500 text-amber-950 hover:bg-amber-600",
 									)}
 								>
 									{tidyLabel(mood)}
@@ -213,7 +213,7 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 									onClick={() => handleThemeToggle(theme)}
 									className={cn(
 										"h-8 rounded-full px-3 text-xs",
-										selectedThemes.includes(theme) && "bg-amber-500 text-white hover:bg-amber-600",
+										selectedThemes.includes(theme) && "bg-amber-500 text-amber-950 hover:bg-amber-600",
 									)}
 								>
 									{tidyLabel(theme)}
@@ -322,7 +322,7 @@ const LoreCard = ({ wiki }: { wiki: WikiListing }) => {
 					{tidyLabel(wiki.hero)}
 				</h3>
 				{wiki.metadata.epicnessScore > 70 && (
-					<Badge className="shrink-0 bg-amber-500 text-white text-xs">Epic</Badge>
+					<Badge className="shrink-0 bg-amber-500 text-amber-950 text-xs">Epic</Badge>
 				)}
 			</div>
 
@@ -378,7 +378,7 @@ const FeaturedLoreCard = ({ wiki }: { wiki: WikiListing }) => {
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
 				<div className="flex-1 space-y-3">
 					<div className="flex flex-wrap items-center gap-2">
-						<Badge className="bg-amber-500 text-white">
+						<Badge className="bg-amber-500 text-amber-950">
 							<StarIcon className="mr-1 h-3 w-3" />
 							Featured
 						</Badge>

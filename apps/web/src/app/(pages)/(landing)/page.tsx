@@ -85,7 +85,7 @@ export default async function Home() {
 							<Button
 								asChild
 								size="lg"
-								className="gap-2 bg-amber-500 text-foreground hover:bg-amber-600"
+								className="gap-2 bg-amber-500 text-amber-950 hover:bg-amber-600"
 							>
 								<Link href="/meta">
 									<TrendingUp className="h-4 w-4" />

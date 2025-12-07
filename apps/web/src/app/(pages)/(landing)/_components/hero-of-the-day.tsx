@@ -34,7 +34,7 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 			<div className="relative flex h-full flex-col justify-end p-5 sm:p-6">
 				{/* Badge */}
 				<div className="mb-auto flex items-center gap-2">
-					<Badge className="gap-1.5 bg-amber-500 text-foreground hover:bg-amber-500">
+					<Badge className="gap-1.5 bg-amber-500 text-amber-950 hover:bg-amber-500">
 						<Star className="h-3 w-3" />
 						Hero of the Day
 					</Badge>
@@ -74,7 +74,7 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 
 					{/* Actions */}
 					<div className="flex flex-wrap gap-2">
-						<Button asChild size="sm" className="gap-1.5 bg-amber-500 text-foreground hover:bg-amber-600">
+						<Button asChild size="sm" className="gap-1.5 bg-amber-500 text-amber-950 hover:bg-amber-600">
 							<Link href={`/lores/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
 								<BookOpen className="h-3.5 w-3.5" />
 								Read lore

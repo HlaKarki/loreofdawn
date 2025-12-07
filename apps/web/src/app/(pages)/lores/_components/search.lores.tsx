@@ -590,7 +590,7 @@ const FeaturedLoreCard = ({ hero }: { hero: ConsolidatedHeroOptional }) => {
 			{loreExcerpt && <p className="text-sm leading-relaxed text-foreground/90">{loreExcerpt}</p>}
 			<div className="flex flex-wrap gap-2">
 				<Link href={`/wiki/${hero.profile.url_name}`} className="flex-1">
-					<Button className="w-full bg-amber-600 text-white hover:bg-amber-600/90">
+					<Button className="w-full bg-amber-600 text-amber-950 hover:bg-amber-600/90">
 						<BookOpenIcon className="mr-2 h-4 w-4" />
 						Read full lore
 					</Button>

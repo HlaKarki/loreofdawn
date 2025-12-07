@@ -36,7 +36,7 @@ export function HeroRankSelector({ heroName }: HeroRankSelectorProps) {
 						onClick={() => handleRankChange(rank.value)}
 						className={
 							currentRank === rank.value
-								? "bg-amber-500 text-foreground hover:bg-amber-600"
+								? "bg-amber-500 text-amber-950 hover:bg-amber-600"
 								: "border-border/60"
 						}
 					>

@@ -144,7 +144,7 @@ export default function HeroesPage() {
 							onClick={() => setSelectedRole(role)}
 							className={
 								selectedRole === role
-									? "bg-amber-500 text-foreground hover:bg-amber-600"
+									? "bg-amber-500 text-amber-950 hover:bg-amber-600"
 									: ""
 							}
 						>

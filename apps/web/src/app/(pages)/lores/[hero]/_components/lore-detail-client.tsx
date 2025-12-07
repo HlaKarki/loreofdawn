@@ -56,7 +56,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 						</Badge>
 					)}
 					{metadata.epicnessScore > 70 && (
-						<Badge className="bg-amber-500 text-white">Epic Tale</Badge>
+						<Badge className="bg-amber-500 text-amber-950">Epic Tale</Badge>
 					)}
 				</div>
 

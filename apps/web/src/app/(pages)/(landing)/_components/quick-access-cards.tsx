@@ -1,6 +1,6 @@
 import type { Route } from "next";
 import Link from "next/link";
-import { ArrowRight, BarChart3, BookOpen, Swords, TrendingUp } from "lucide-react";
+import { ArrowRight, Flame, Gem, Scroll, Trophy } from "lucide-react";
 
 type QuickAccessCard = {
 	title: string;
@@ -21,7 +21,7 @@ export const QuickAccessCards = ({ heroCount = 130 }: QuickAccessCardsProps) => 
 			title: "Hero Lores",
 			description: "Discover the stories behind each hero",
 			href: "/lores",
-			icon: <BookOpen className="h-5 w-5" />,
+			icon: <Scroll className="h-5 w-5" />,
 			iconBg: "bg-amber-500/10",
 			iconColor: "text-amber-600 dark:text-amber-400",
 		},
@@ -29,25 +29,25 @@ export const QuickAccessCards = ({ heroCount = 130 }: QuickAccessCardsProps) => 
 			title: "Hero Directory",
 			description: "Browse all heroes with stats and abilities",
 			href: "/heroes",
-			icon: <Swords className="h-5 w-5" />,
-			iconBg: "bg-sky-500/10",
-			iconColor: "text-sky-600 dark:text-sky-400",
+			icon: <Gem className="h-5 w-5" />,
+			iconBg: "bg-orange-500/10",
+			iconColor: "text-orange-600 dark:text-orange-400",
 		},
 		{
 			title: "Statistics",
 			description: "Detailed performance data and trends",
 			href: "/stats",
-			icon: <BarChart3 className="h-5 w-5" />,
-			iconBg: "bg-emerald-500/10",
-			iconColor: "text-emerald-600 dark:text-emerald-400",
+			icon: <Flame className="h-5 w-5" />,
+			iconBg: "bg-rose-500/10",
+			iconColor: "text-rose-600 dark:text-rose-400",
 		},
 		{
 			title: "Meta Report",
 			description: "Current tier lists and competitive picks",
 			href: "/meta",
-			icon: <TrendingUp className="h-5 w-5" />,
-			iconBg: "bg-violet-500/10",
-			iconColor: "text-violet-600 dark:text-violet-400",
+			icon: <Trophy className="h-5 w-5" />,
+			iconBg: "bg-yellow-500/10",
+			iconColor: "text-yellow-600 dark:text-yellow-400",
 		},
 	];
 
@@ -65,7 +65,9 @@ export const QuickAccessCards = ({ heroCount = 130 }: QuickAccessCardsProps) => 
 						href={card.href}
 						className="group flex flex-col rounded-xl border border-border/60 bg-card p-4 transition-colors hover:border-border hover:bg-accent/30"
 					>
-						<div className={`mb-3 flex h-10 w-10 items-center justify-center rounded-lg ${card.iconBg} ${card.iconColor}`}>
+						<div
+							className={`mb-3 flex h-10 w-10 items-center justify-center rounded-lg ${card.iconBg} ${card.iconColor}`}
+						>
 							{card.icon}
 						</div>
 						<div className="flex-1">
