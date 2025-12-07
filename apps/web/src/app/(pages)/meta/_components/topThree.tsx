@@ -1,4 +1,4 @@
-import { resolveImageSrc } from "../../hero/_components/header.hero";
+import { resolveImageSrc } from "../../heroes/_components/header.hero";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import type { ConsolidatedHeroOptional } from "@repo/database";

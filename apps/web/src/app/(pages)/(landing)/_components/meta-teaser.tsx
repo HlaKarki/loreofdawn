@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { ArrowRight, Flame } from "lucide-react";
-import { resolveImageSrc } from "../../hero/_components/header.hero";
+import { resolveImageSrc } from "../../heroes/_components/header.hero";
 
 const formatPercent = (value?: number, digits = 1) =>
 	value === undefined ? "—" : `${(value * 100).toFixed(digits)}%`;
@@ -47,7 +47,7 @@ export const MetaTeaser = ({ metaKings }: MetaTeaserProps) => {
 					return (
 						<Link
 							key={hero.profile.id}
-							href={`/hero/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}
+							href={`/heroes/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}
 							className="group flex items-center gap-3 rounded-xl border border-border/40 bg-background/50 p-3 transition-colors hover:border-border hover:bg-background"
 						>
 							{/* Rank */}

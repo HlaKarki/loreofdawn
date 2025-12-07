@@ -12,7 +12,7 @@ import {
 } from "../_config/table-styles";
 import { getRoleIcon, getLaneIcon } from "@/lib/get-game-assets";
 import { cn, tidyLabel } from "@/lib/utils";
-import { resolveImageSrc } from "../../hero/_components/header.hero";
+import { resolveImageSrc } from "../../heroes/_components/header.hero";
 import type { TableDensity } from "./density-toggle";
 
 /**
@@ -137,7 +137,7 @@ export const createColumns = (
 			if (!densityConfig.showHeroImage) {
 				return (
 					<a
-						href={`/hero/${encodeURIComponent(urlName)}?rank=overall`}
+						href={`/heroes/${encodeURIComponent(urlName)}?rank=overall`}
 						className="flex items-center justify-center py-1 cursor-pointer transition-opacity hover:opacity-80 group"
 					>
 						<span
@@ -156,7 +156,7 @@ export const createColumns = (
 			// Normal/Comfortable mode: show image
 			return (
 				<a
-					href={`/hero/${encodeURIComponent(urlName)}?rank=overall`}
+					href={`/heroes/${encodeURIComponent(urlName)}?rank=overall`}
 					className="flex flex-col items-center gap-1.5 py-1 cursor-pointer transition-opacity hover:opacity-80 group"
 				>
 					<div

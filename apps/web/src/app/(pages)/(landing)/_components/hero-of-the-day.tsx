@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { tidyLabel } from "@/lib/utils";
 import { BookOpen, BarChart3, Star } from "lucide-react";
-import { resolveImageSrc } from "../../hero/_components/header.hero";
+import { resolveImageSrc } from "../../heroes/_components/header.hero";
 
 type HeroOfTheDayProps = {
 	hero: ConsolidatedHeroOptional | null;
@@ -81,7 +81,7 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 							</Link>
 						</Button>
 						<Button asChild variant="secondary" size="sm" className="gap-1.5 bg-background/60 backdrop-blur-sm">
-							<Link href={`/hero/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
+							<Link href={`/heroes/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
 								<BarChart3 className="h-3.5 w-3.5" />
 								View profile
 							</Link>

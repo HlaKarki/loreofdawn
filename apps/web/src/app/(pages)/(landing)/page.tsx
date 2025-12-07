@@ -8,7 +8,7 @@ import { MetaTeaser } from "./_components/meta-teaser";
 import { Button } from "@/components/ui/button";
 import { UpdatedAtLabel } from "./_utils";
 import { tidyLabel } from "@/lib/utils";
-import { resolveImageSrc } from "../hero/_components/header.hero";
+import { resolveImageSrc } from "../heroes/_components/header.hero";
 import { ArrowRight, Sparkles, Target, Crown, TrendingUp } from "lucide-react";
 
 const heroOfTheDayQuery = `/v1/heroes?limit=100&include=meta`;
@@ -95,7 +95,7 @@ export default async function Home() {
 								</Link>
 							</Button>
 							<Button asChild variant="outline" size="lg" className="gap-2">
-								<Link href="/hero">
+								<Link href="/heroes">
 									<Target className="h-4 w-4" />
 									Browse heroes
 								</Link>
@@ -131,7 +131,7 @@ export default async function Home() {
 							<div className="flex flex-wrap items-center gap-6">
 								{topBanHero && (
 									<Link
-										href={`/hero/${topBanHero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}
+										href={`/heroes/${topBanHero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}
 										className="group flex items-center gap-3"
 									>
 										<div className="h-10 w-10 overflow-hidden rounded-lg border border-border/60">
@@ -157,7 +157,7 @@ export default async function Home() {
 
 								{topWinHero && (
 									<Link
-										href={`/hero/${topWinHero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}
+										href={`/heroes/${topWinHero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}
 										className="group flex items-center gap-3"
 									>
 										<div className="h-10 w-10 overflow-hidden rounded-lg border border-border/60">

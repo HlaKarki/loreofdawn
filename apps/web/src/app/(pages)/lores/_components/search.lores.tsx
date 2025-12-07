@@ -18,7 +18,7 @@ import {
 	SparklesIcon,
 	Wand2Icon,
 } from "lucide-react";
-import { resolveImageSrc } from "../../hero/_components/header.hero";
+import { resolveImageSrc } from "../../heroes/_components/header.hero";
 
 type LoreSearchProps = {
 	heroes: ConsolidatedHeroOptional[];

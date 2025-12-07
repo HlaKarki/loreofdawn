@@ -87,7 +87,7 @@ export function HeroSearch() {
 
 	// Navigate to hero
 	const navigateToHero = (hero: MlMetaSummary) => {
-		router.push(`/hero/${encodeURIComponent(hero.url_name)}?rank=overall`);
+		router.push(`/heroes/${encodeURIComponent(hero.url_name)}?rank=overall`);
 		setSearchQuery("");
 		setIsOpen(false);
 		inputRef.current?.blur();

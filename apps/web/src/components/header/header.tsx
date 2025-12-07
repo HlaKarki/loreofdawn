@@ -9,7 +9,7 @@ const links = [
 	{ to: "/", label: "Home" },
 	// { to: "/wiki", label: "Wikis" },
 	{ to: "/lores", label: "Lores" },
-	{ to: "/hero", label: "Heroes" },
+	{ to: "/heroes", label: "Heroes" },
 	{ to: "/stats", label: "Stats" },
 	{ to: "/meta", label: "Meta" },
 ];

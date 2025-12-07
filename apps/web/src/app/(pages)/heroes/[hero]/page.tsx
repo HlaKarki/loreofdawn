@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import type { ConsolidatedHero } from "@repo/database";
 import { makeUrl } from "@/lib/utils.api";
 import { HeroGraph } from "../_components/graph.hero";
@@ -6,6 +7,7 @@ import { HeroMatchup } from "../_components/matchup.hero";
 import { HeroRelationship } from "../_components/relationship.hero";
 import { HeroSkills } from "../_components/skills.hero";
 import { HeroTale } from "../_components/tale.hero";
+import { HeroRankSelector } from "../_components/rank-selector.hero";
 
 interface HeroPageProps {
 	params: Promise<{
@@ -37,7 +39,10 @@ export default async function HeroPage({ params, searchParams }: HeroPageProps) 
 	const { profile, matchups, meta, graph } = (await response.json()) satisfies ConsolidatedHero;
 
 	return (
-		<div className="mx-auto w-full max-w-6xl px-4 pb-16 sm:px-6 lg:px-8">
+		<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-6 sm:px-6 lg:px-8">
+			<Suspense fallback={null}>
+				<HeroRankSelector heroName={hero_name} />
+			</Suspense>
 			<HeroHeader data={profile} metadata={meta} />
 			<HeroTale data={profile} />
 			<HeroSkills data={profile} />

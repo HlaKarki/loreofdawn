@@ -28,7 +28,7 @@ export const QuickAccessCards = ({ heroCount = 130 }: QuickAccessCardsProps) => 
 		{
 			title: "Hero Directory",
 			description: "Browse all heroes with stats and abilities",
-			href: "/hero",
+			href: "/heroes",
 			icon: <Swords className="h-5 w-5" />,
 			iconBg: "bg-sky-500/10",
 			iconColor: "text-sky-600 dark:text-sky-400",
