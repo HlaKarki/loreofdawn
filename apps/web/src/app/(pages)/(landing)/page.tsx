@@ -1,76 +1,52 @@
 import { makeUrl } from "@/lib/utils.api";
-import type { ConsolidatedHeroOptional, QuadrantDataType, StatsByRolesType } from "@repo/database";
-import type { RedditPostType } from "@repo/utils";
-import { TopThree } from "./_components/topThree";
-import { StatsByRoles } from "./_components/statsByRoles";
-import { QuadrantChart } from "./_components/quadrantChart";
-import { CommunityPosts } from "./_components/communityPosts";
+import type { ConsolidatedHeroOptional } from "@repo/database";
 import { HeroSearch } from "./_components/heroSearch";
+import { HeroOfTheDay } from "./_components/hero-of-the-day";
+import { QuickAccessCards } from "./_components/quick-access-cards";
+import { MetaTeaser } from "./_components/meta-teaser";
+import { Scroll } from "lucide-react";
 
-export type StatsByRolesResponse = {
-	rank: string;
-	lastUpdated: number;
-	data: StatsByRolesType[];
-};
+const heroOfTheDayQuery = `/v1/heroes?limit=100&include=meta`;
+const metaTeaserQuery = `/v1/heroes?limit=3&sort=-ban_rate&include=meta&rank=overall`;
 
-const topThreeQuery = (rank: string) =>
-	`/v1/heroes?limit=3&sort=-ban_rate,-win_rate,-pick_rate&include=meta&rank=${rank}`;
-const hiddenGemQuery = (rank: string) =>
-	`/v1/heroes?limit=3&sort=-win_rate,pick_rate&filter.min_ban_rate=0.01&filter.max_ban_rate=0.08&filter.max_pick_rate=0.05&filter.min_win_rate=0.52&include=meta&rank=${rank}`;
-const quadrantQuery = (rank: string) => `/v1/heroes/quadrant_data?rank=${rank}`;
-const statsByRoleQuery = (rank: string) => `/v1/heroes/stats_by_role?rank=${rank}`;
-const communityPostsQuery = `/v1/community/posts?type=hot`;
-
-export const dynamic = "force-dynamic"; // TODO
+export const dynamic = "force-dynamic";
 
 export default async function Home() {
-	const rank = "glory"; // TODO: need to get this from the store
+	const [allHeroes, metaKings] = await Promise.all([
+		fetch(makeUrl(heroOfTheDayQuery)).then((r) => r.json() as Promise<ConsolidatedHeroOptional[]>),
+		fetch(makeUrl(metaTeaserQuery)).then((r) => r.json() as Promise<ConsolidatedHeroOptional[]>),
+	]);
 
-	const [topThreeData, statsByRoleData, hiddenGemData, quadrantData, communityPostsData] =
-		await Promise.all([
-			fetch(makeUrl(topThreeQuery(rank))).then(
-				(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
-			),
-			fetch(makeUrl(statsByRoleQuery(rank))).then((r) => r.json() as Promise<StatsByRolesResponse>),
-			fetch(makeUrl(hiddenGemQuery(rank))).then(
-				(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
-			),
-			fetch(makeUrl(quadrantQuery(rank))).then((r) => r.json() as Promise<QuadrantDataType[]>),
-			fetch(makeUrl(communityPostsQuery)).then(
-				(r) => r.json() as Promise<{ posts: RedditPostType[] }>,
-			),
-		]);
+	const heroCount = allHeroes.length;
 
 	return (
-		<div className="container mx-auto max-w-3xl px-4 py-6 sm:py-8">
-			{/* Search input */}
+		<div className="container mx-auto max-w-6xl px-4 py-6 sm:py-8">
+			{/* Welcome Section */}
+			<section className="mb-12 text-center">
+				<div className="mb-4 inline-flex items-center gap-2 rounded-full bg-amber-500/15 px-4 py-1.5 text-sm text-amber-800 dark:text-amber-400">
+					<Scroll className="h-4 w-4" />
+					<span className="font-medium">Welcome to Lore of Dawn</span>
+				</div>
+				<h1 className="mb-3 text-4xl font-bold tracking-tight sm:text-5xl md:text-6xl">
+					Master the Meta, Explore the Lore
+				</h1>
+				<p className="mx-auto max-w-2xl text-base text-muted-foreground sm:text-lg">
+					Your complete Mobile Legends companion with {heroCount}+ heroes, competitive insights, and
+					epic stories
+				</p>
+			</section>
+
+			{/* Search Bar */}
 			<HeroSearch />
 
-			{/* Three Top Heroes */}
-			<TopThree
-				data={topThreeData}
-				title="Meta Picks"
-				description="Heroes popping off in the current meta."
-			/>
+			{/* Hero of the Day */}
+			<HeroOfTheDay heroes={allHeroes} />
 
-			{/* Stats by Role */}
-			<StatsByRoles
-				data={statsByRoleData.data}
-				lastUpdated={topThreeData[0].meta.updatedAt}
-				rank={rank}
-			/>
+			{/* Quick Access Cards */}
+			<QuickAccessCards heroCount={heroCount} />
 
-			<TopThree
-				data={hiddenGemData}
-				title="Hidden Gems"
-				description="Underplayed heroes with standout win rates worth trying."
-			/>
-
-			{/* Quadrant Chart */}
-			<QuadrantChart data={quadrantData} rank={rank} />
-
-			{/* Latest */}
-			<CommunityPosts data={communityPostsData.posts} />
+			{/* Meta Snapshot Teaser */}
+			<MetaTeaser metaKings={metaKings} />
 		</div>
 	);
 }

@@ -11,6 +11,7 @@ const links = [
 	{ to: "/lores", label: "Lores" },
 	{ to: "/hero", label: "Heroes" },
 	{ to: "/stats", label: "Stats" },
+	{ to: "/meta", label: "Meta" },
 ];
 
 export default function Header() {
