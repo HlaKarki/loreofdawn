@@ -6,11 +6,25 @@ import type { MlMetaSummary } from "@repo/database";
 import { Input } from "@/components/ui/input";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { SearchIcon, LoaderIcon } from "lucide-react";
+import { SearchIcon, LoaderIcon, TrendingUp, Target } from "lucide-react";
 import Fuse from "fuse.js";
 import { makeUrl } from "@/lib/utils.api";
 
-const MAX_RESULTS = 6;
+const MAX_RESULTS = 8;
+
+// Generate a consistent color based on hero name
+const getAvatarColor = (name: string) => {
+	const colors = [
+		"bg-amber-500/20 text-amber-700 dark:text-amber-300",
+		"bg-emerald-500/20 text-emerald-700 dark:text-emerald-300",
+		"bg-sky-500/20 text-sky-700 dark:text-sky-300",
+		"bg-violet-500/20 text-violet-700 dark:text-violet-300",
+		"bg-rose-500/20 text-rose-700 dark:text-rose-300",
+		"bg-cyan-500/20 text-cyan-700 dark:text-cyan-300",
+	];
+	const hash = name.split("").reduce((acc, char) => acc + char.charCodeAt(0), 0);
+	return colors[hash % colors.length];
+};
 
 export function HeroSearch() {
 	const [heroes, setHeroes] = useState<MlMetaSummary[]>([]);
@@ -46,8 +60,8 @@ export function HeroSearch() {
 		if (heroes.length === 0) return null;
 
 		return new Fuse(heroes, {
-			keys: ["display_name", "url_name"],
-			threshold: 0.3, // More lenient matching for typos
+			keys: ["display_name", "url_name", "name"],
+			threshold: 0.3,
 			distance: 100,
 			minMatchCharLength: 1,
 		});
@@ -61,7 +75,7 @@ export function HeroSearch() {
 		return searchResults.slice(0, MAX_RESULTS).map((result) => result.item);
 	}, [searchQuery, fuse]);
 
-	// Handle input change with debouncing
+	// Handle input change
 	useEffect(() => {
 		if (searchQuery.trim()) {
 			setIsOpen(true);
@@ -107,62 +121,90 @@ export function HeroSearch() {
 	};
 
 	return (
-		<div className="mb-12">
-			<Popover open={isOpen} onOpenChange={setIsOpen}>
-				<PopoverTrigger asChild>
-					<div className="relative">
-						<SearchIcon className="absolute left-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground pointer-events-none" />
-						<Input
-							ref={inputRef}
-							type="text"
-							placeholder="Search heroes..."
-							value={searchQuery}
-							onChange={(e) => setSearchQuery(e.target.value)}
-							onKeyDown={handleKeyDown}
-							onFocus={() => searchQuery.trim() && setIsOpen(true)}
-							className="pl-10 pr-10 h-12 text-base"
-							disabled={isLoading}
-						/>
-						{isLoading && (
-							<LoaderIcon className="absolute right-3 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground animate-spin" />
-						)}
-					</div>
-				</PopoverTrigger>
+		<Popover open={isOpen} onOpenChange={setIsOpen}>
+			<PopoverTrigger asChild>
+				<div className="relative">
+					<SearchIcon className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-muted-foreground" />
+					<Input
+						ref={inputRef}
+						type="text"
+						placeholder="Search heroes by name..."
+						value={searchQuery}
+						onChange={(e) => setSearchQuery(e.target.value)}
+						onKeyDown={handleKeyDown}
+						onFocus={() => searchQuery.trim() && setIsOpen(true)}
+						className="h-12 rounded-xl border-border/60 bg-background pl-11 pr-4 text-base shadow-sm transition-shadow focus:shadow-md"
+						disabled={isLoading}
+					/>
+					{isLoading && (
+						<LoaderIcon className="absolute right-4 top-1/2 h-5 w-5 -translate-y-1/2 animate-spin text-muted-foreground" />
+					)}
+				</div>
+			</PopoverTrigger>
 
-				<PopoverContent
-					className="p-0 w-[var(--radix-popover-trigger-width)]"
-					align="start"
-					onOpenAutoFocus={(e) => e.preventDefault()}
-				>
-					{results.length > 0 ? (
-						<ScrollArea className="max-h-[400px]">
-							<div className="py-2">
-								{results.map((hero, index) => (
+			<PopoverContent
+				className="w-[var(--radix-popover-trigger-width)] overflow-hidden rounded-xl border-border/60 p-0 shadow-lg"
+				align="start"
+				onOpenAutoFocus={(e) => e.preventDefault()}
+			>
+				{results.length > 0 ? (
+					<ScrollArea className="max-h-[360px]">
+						<div className="p-1">
+							{results.map((hero, index) => {
+								const winRate = hero.win_rate * 100;
+								const isHighWinRate = winRate >= 52;
+								const isHighBanRate = hero.ban_rate >= 0.15;
+
+								return (
 									<button
-										key={index}
+										key={hero.url_name}
 										onClick={() => navigateToHero(hero)}
-										className={`w-full px-4 py-3 text-left transition-colors ${
+										className={`flex w-full items-center gap-3 rounded-lg px-3 py-2.5 text-left transition-colors ${
 											index === selectedIndex
 												? "bg-accent text-accent-foreground"
 												: "hover:bg-accent/50"
 										}`}
 										onMouseEnter={() => setSelectedIndex(index)}
 									>
-										<div className="font-medium">{hero.name}</div>
-										<div className="flex gap-3 text-xs text-muted-foreground mt-0.5">
-											<span>WR: {(hero.win_rate * 100).toFixed(1)}%</span>
-											<span>PR: {(hero.pick_rate * 100).toFixed(1)}%</span>
-											<span>BR: {(hero.ban_rate * 100).toFixed(1)}%</span>
+										{/* Avatar with initial */}
+										<div
+											className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-lg text-sm font-semibold ${getAvatarColor(hero.name)}`}
+										>
+											{hero.name.charAt(0).toUpperCase()}
+										</div>
+
+										{/* Hero info */}
+										<div className="min-w-0 flex-1">
+											<div className="flex items-center gap-2">
+												<span className="truncate font-medium">{hero.name}</span>
+												{isHighBanRate && (
+													<TrendingUp className="h-3.5 w-3.5 shrink-0 text-amber-500" />
+												)}
+												{isHighWinRate && (
+													<Target className="h-3.5 w-3.5 shrink-0 text-emerald-500" />
+												)}
+											</div>
+											<div className="flex items-center gap-3 text-xs text-muted-foreground">
+												<span className={isHighWinRate ? "text-emerald-600 dark:text-emerald-400" : ""}>
+													{winRate.toFixed(1)}% WR
+												</span>
+												<span>{(hero.pick_rate * 100).toFixed(1)}% PR</span>
+												<span className={isHighBanRate ? "text-amber-600 dark:text-amber-400" : ""}>
+													{(hero.ban_rate * 100).toFixed(1)}% BR
+												</span>
+											</div>
 										</div>
 									</button>
-								))}
-							</div>
-						</ScrollArea>
-					) : (
-						<div className="py-8 text-center text-sm text-muted-foreground">No heroes found</div>
-					)}
-				</PopoverContent>
-			</Popover>
-		</div>
+								);
+							})}
+						</div>
+					</ScrollArea>
+				) : (
+					<div className="px-4 py-8 text-center text-sm text-muted-foreground">
+						No heroes found matching &quot;{searchQuery}&quot;
+					</div>
+				)}
+			</PopoverContent>
+		</Popover>
 	);
 }

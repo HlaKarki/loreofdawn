@@ -1,102 +1,94 @@
 import Link from "next/link";
-import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { tidyLabel } from "@/lib/utils";
-import { BookOpen, BarChart3 } from "lucide-react";
+import { BookOpen, BarChart3, Star } from "lucide-react";
 import { resolveImageSrc } from "../../hero/_components/header.hero";
 
 type HeroOfTheDayProps = {
-	heroes: ConsolidatedHeroOptional[];
+	hero: ConsolidatedHeroOptional | null;
 };
 
-export const HeroOfTheDay = ({ heroes }: HeroOfTheDayProps) => {
-	// Deterministic daily rotation based on days since epoch
-	const heroOfTheDay = (() => {
-		if (heroes.length === 0) return null;
-		const daysSinceEpoch = Math.floor(Date.now() / (1000 * 60 * 60 * 24));
-		return heroes[daysSinceEpoch % heroes.length];
-	})();
+const formatPercent = (value?: number, digits = 1) =>
+	value === undefined ? "—" : `${(value * 100).toFixed(digits)}%`;
 
-	if (!heroOfTheDay) return null;
+export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
+	if (!hero) return null;
 
 	const image = resolveImageSrc(
-		heroOfTheDay.profile.images.painting,
-		heroOfTheDay.profile.images.squarehead_big,
-		heroOfTheDay.profile.images.head_big,
+		hero.profile.images.painting,
+		hero.profile.images.squarehead_big,
+		hero.profile.images.head_big,
 	);
 
 	return (
-		<section className="mb-12">
-			<div className="mb-4 flex items-center gap-2">
-				<Badge variant="secondary" className="bg-amber-500/15 text-amber-800 dark:text-amber-400">
-					Hero of the Day
-				</Badge>
+		<section className="group relative h-full overflow-hidden rounded-2xl border border-border/60 bg-card">
+			{/* Background image with gradient overlay */}
+			<div className="absolute inset-0">
+				<img src={image} alt="" className="h-full w-full object-cover object-top" />
+				<div className="absolute inset-0 bg-gradient-to-t from-card via-card/90 to-card/40" />
 			</div>
 
-			<Card className="overflow-hidden border-border/70 bg-card/70">
-				<div className="relative h-64 sm:h-80">
-					<img
-						src={image}
-						alt={heroOfTheDay.profile.name}
-						className="h-full w-full object-cover object-top"
-					/>
-					<div className="absolute inset-0 bg-gradient-to-t from-background via-background/80 to-transparent" />
-					<div className="absolute bottom-4 left-4 right-4 sm:bottom-6 sm:left-6 sm:right-6">
-						<h2 className="mb-2 text-3xl font-bold sm:text-4xl">{heroOfTheDay.profile.name}</h2>
-						<div className="flex flex-wrap gap-2">
-							{heroOfTheDay.profile.roles.map((role) => (
-								<Badge key={role.title} variant="secondary">
+			{/* Content */}
+			<div className="relative flex h-full flex-col justify-end p-5 sm:p-6">
+				{/* Badge */}
+				<div className="mb-auto flex items-center gap-2">
+					<Badge className="gap-1.5 bg-amber-500 text-foreground hover:bg-amber-500">
+						<Star className="h-3 w-3" />
+						Hero of the Day
+					</Badge>
+				</div>
+
+				{/* Hero info */}
+				<div className="mt-32 space-y-4 sm:mt-40">
+					<div>
+						<div className="mb-2 flex flex-wrap gap-1.5">
+							{hero.profile.roles.map((role) => (
+								<Badge key={role.title} variant="outline" className="border-border/40 bg-background/60 backdrop-blur-sm text-xs">
 									{tidyLabel(role.title)}
 								</Badge>
 							))}
 						</div>
+						<h2 className="text-2xl font-bold sm:text-3xl">{hero.profile.name}</h2>
+						<p className="mt-1 line-clamp-2 text-sm text-muted-foreground">
+							{hero.profile.tagline || "Spotlighted for their performance and lore today."}
+						</p>
+					</div>
+
+					{/* Stats row */}
+					<div className="flex flex-wrap items-center gap-4 text-sm">
+						<div className="flex items-center gap-1.5">
+							<span className="font-semibold text-emerald-500">{formatPercent(hero.meta?.win_rate)}</span>
+							<span className="text-muted-foreground">WR</span>
+						</div>
+						<div className="flex items-center gap-1.5">
+							<span className="font-semibold text-sky-500">{formatPercent(hero.meta?.pick_rate, 2)}</span>
+							<span className="text-muted-foreground">PR</span>
+						</div>
+						<div className="flex items-center gap-1.5">
+							<span className="font-semibold text-amber-500">{formatPercent(hero.meta?.ban_rate)}</span>
+							<span className="text-muted-foreground">BR</span>
+						</div>
+					</div>
+
+					{/* Actions */}
+					<div className="flex flex-wrap gap-2">
+						<Button asChild size="sm" className="gap-1.5 bg-amber-500 text-foreground hover:bg-amber-600">
+							<Link href={`/lores/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
+								<BookOpen className="h-3.5 w-3.5" />
+								Read lore
+							</Link>
+						</Button>
+						<Button asChild variant="secondary" size="sm" className="gap-1.5 bg-background/60 backdrop-blur-sm">
+							<Link href={`/hero/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
+								<BarChart3 className="h-3.5 w-3.5" />
+								View profile
+							</Link>
+						</Button>
 					</div>
 				</div>
-
-				<CardContent className="p-4 sm:p-6">
-					{/* Stats Preview */}
-					{heroOfTheDay.meta && (
-						<div className="mb-4 grid grid-cols-3 gap-3 text-sm">
-							<div className="rounded-lg border border-border/70 bg-background/50 p-3">
-								<div className="text-xs text-muted-foreground">Win Rate</div>
-								<div className="text-lg font-semibold">
-									{(heroOfTheDay.meta.win_rate * 100).toFixed(1)}%
-								</div>
-							</div>
-							<div className="rounded-lg border border-border/70 bg-background/50 p-3">
-								<div className="text-xs text-muted-foreground">Pick Rate</div>
-								<div className="text-lg font-semibold">
-									{(heroOfTheDay.meta.pick_rate * 100).toFixed(1)}%
-								</div>
-							</div>
-							<div className="rounded-lg border border-border/70 bg-background/50 p-3">
-								<div className="text-xs text-muted-foreground">Ban Rate</div>
-								<div className="text-lg font-semibold">
-									{(heroOfTheDay.meta.ban_rate * 100).toFixed(1)}%
-								</div>
-							</div>
-						</div>
-					)}
-
-					{/* CTAs */}
-					<div className="flex flex-col gap-2 sm:flex-row">
-						<Button asChild className="flex-1 bg-amber-500 hover:bg-amber-600">
-							<Link href={`/lores/${heroOfTheDay.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
-								<BookOpen className="mr-2 h-4 w-4" />
-								Read Lore
-							</Link>
-						</Button>
-						<Button asChild variant="outline" className="flex-1 border-amber-500/30">
-							<Link href={`/hero/${heroOfTheDay.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
-								<BarChart3 className="mr-2 h-4 w-4" />
-								View Hero
-							</Link>
-						</Button>
-					</div>
-				</CardContent>
-			</Card>
+			</div>
 		</section>
 	);
 };
