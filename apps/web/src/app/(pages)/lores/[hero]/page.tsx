@@ -12,24 +12,37 @@ type LoreDetailPageProps = {
 	}>;
 };
 
+type HeroAssets = {
+	images: {
+		painting?: string;
+		head_big?: string;
+		squarehead_big?: string;
+	};
+};
+
 export async function generateMetadata({ params }: LoreDetailPageProps): Promise<Metadata> {
 	const resolvedParams = await params;
 	const heroName = resolvedParams.hero.toLowerCase();
 
 	try {
-		const response = await fetch(makeUrl(`/v1/wikis/${heroName}`), {
-			next: { revalidate: 3600 },
-		});
+		// Fetch wiki and hero assets in parallel
+		const [wikiResponse, assetsResponse] = await Promise.all([
+			fetch(makeUrl(`/v1/wikis/${heroName}`), { next: { revalidate: 3600 } }),
+			fetch(makeUrl(`/v1/heroes/assets/${heroName}`), { next: { revalidate: 3600 } }),
+		]);
 
-		if (!response.ok) {
+		if (!wikiResponse.ok) {
 			return {
 				title: "Lore Not Found",
 			};
 		}
 
-		const wiki = (await response.json()) as WikiTableData;
+		const wiki = (await wikiResponse.json()) as WikiTableData;
+		const assets = assetsResponse.ok ? ((await assetsResponse.json()) as HeroAssets) : null;
+
 		const displayName = tidyLabel(wiki.hero);
 		const metadata = wiki.metadata;
+		const heroImage = assets?.images?.painting || assets?.images?.head_big || null;
 
 		const description =
 			metadata.teaser ||
@@ -54,11 +67,15 @@ export async function generateMetadata({ params }: LoreDetailPageProps): Promise
 				title: `${displayName} Lore | Lore of Dawn`,
 				description,
 				type: "article",
+				images: heroImage
+					? [{ url: heroImage, width: 800, height: 800, alt: `${displayName} Lore` }]
+					: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Lore of Dawn" }],
 			},
 			twitter: {
-				card: "summary",
+				card: "summary_large_image",
 				title: `${displayName} Lore | Lore of Dawn`,
 				description,
+				images: heroImage ? [heroImage] : ["/og-image.png"],
 			},
 		};
 	} catch {

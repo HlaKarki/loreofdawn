@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import type { Metadata } from "next";
 import { DataTable } from "./_components/data-table";
 import { TABLE_CONFIG } from "./_config/table-styles";
 import { TableSkeleton } from "./_components/table-skeleton";
@@ -7,6 +8,25 @@ import type { ConsolidatedHeroOptional } from "@repo/database";
 import { UpdatedAtLabel } from "../(landing)/_utils";
 import { RankSelector } from "./_components/rank-selector";
 import { BarChart3, Crown, Scale, Ghost } from "lucide-react";
+
+export const metadata: Metadata = {
+	title: "Statistics - Hero Win Rates, Pick Rates & Ban Rates",
+	description:
+		"Complete Mobile Legends hero statistics table with live win rates, pick rates, and ban rates. Compare all heroes and find the best performers for your rank.",
+	openGraph: {
+		title: "MLBB Hero Statistics | Lore of Dawn",
+		description:
+			"Complete Mobile Legends hero statistics with live win rates, pick rates, and ban rates.",
+		images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Lore of Dawn Statistics" }],
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "MLBB Hero Statistics | Lore of Dawn",
+		description:
+			"Complete Mobile Legends hero statistics with live win rates, pick rates, and ban rates.",
+		images: ["/og-image.png"],
+	},
+};
 
 export const dynamic = "force-dynamic";
 

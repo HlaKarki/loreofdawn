@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import type { Metadata } from "next";
 import { makeUrl } from "@/lib/utils.api";
 import type { ConsolidatedHeroOptional, QuadrantDataType, StatsByRolesType } from "@repo/database";
 import type { RedditPostType } from "@repo/utils";
@@ -8,6 +9,25 @@ import { QuadrantChart } from "./_components/quadrantChart";
 import { CommunityPosts } from "./_components/communityPosts";
 import { RankSelector } from "../stats/_components/rank-selector";
 import { Crown, Gem, Users } from "lucide-react";
+
+export const metadata: Metadata = {
+	title: "Meta Report - Tier Lists & Competitive Picks",
+	description:
+		"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks. See which heroes dominate each rank.",
+	openGraph: {
+		title: "MLBB Meta Report | Lore of Dawn",
+		description:
+			"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks.",
+		images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Lore of Dawn Meta Report" }],
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "MLBB Meta Report | Lore of Dawn",
+		description:
+			"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks.",
+		images: ["/og-image.png"],
+	},
+};
 
 export type StatsByRolesResponse = {
 	rank: string;
