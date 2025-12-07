@@ -45,7 +45,11 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 					<div>
 						<div className="mb-2 flex flex-wrap gap-1.5">
 							{hero.profile.roles.map((role) => (
-								<Badge key={role.title} variant="outline" className="border-border/40 bg-background/60 backdrop-blur-sm text-xs">
+								<Badge
+									key={role.title}
+									variant="outline"
+									className="border-border/40 bg-background/60 backdrop-blur-sm text-xs"
+								>
 									{tidyLabel(role.title)}
 								</Badge>
 							))}
@@ -59,31 +63,46 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 					{/* Stats row */}
 					<div className="flex flex-wrap items-center gap-4 text-sm">
 						<div className="flex items-center gap-1.5">
-							<span className="font-semibold text-emerald-500">{formatPercent(hero.meta?.win_rate)}</span>
+							<span className="font-semibold text-emerald-500">
+								{formatPercent(hero.meta?.win_rate)}
+							</span>
 							<span className="text-muted-foreground">WR</span>
 						</div>
 						<div className="flex items-center gap-1.5">
-							<span className="font-semibold text-sky-500">{formatPercent(hero.meta?.pick_rate, 2)}</span>
+							<span className="font-semibold text-sky-500">
+								{formatPercent(hero.meta?.pick_rate, 2)}
+							</span>
 							<span className="text-muted-foreground">PR</span>
 						</div>
 						<div className="flex items-center gap-1.5">
-							<span className="font-semibold text-amber-500">{formatPercent(hero.meta?.ban_rate)}</span>
+							<span className="font-semibold text-amber-500">
+								{formatPercent(hero.meta?.ban_rate)}
+							</span>
 							<span className="text-muted-foreground">BR</span>
 						</div>
 					</div>
 
 					{/* Actions */}
 					<div className="flex flex-wrap gap-2">
-						<Button asChild size="sm" className="gap-1.5 bg-amber-500 text-amber-950 hover:bg-amber-600">
+						<Button
+							asChild
+							size="sm"
+							className="gap-1.5 bg-amber-500 text-amber-950 hover:bg-amber-600"
+						>
 							<Link href={`/lores/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
 								<BookOpen className="h-3.5 w-3.5" />
 								Read lore
 							</Link>
 						</Button>
-						<Button asChild variant="secondary" size="sm" className="gap-1.5 bg-background/60 backdrop-blur-sm">
+						<Button
+							asChild
+							variant="secondary"
+							size="sm"
+							className="gap-1.5 bg-background/60 backdrop-blur-sm"
+						>
 							<Link href={`/heroes/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
 								<BarChart3 className="h-3.5 w-3.5" />
-								View profile
+								View Hero
 							</Link>
 						</Button>
 					</div>
