@@ -8,7 +8,11 @@ import { ClerkProvider } from "@clerk/nextjs";
 
 export default function Providers({ children }: { children: React.ReactNode }) {
 	return (
-		<ClerkProvider>
+		<ClerkProvider
+			afterSignOutUrl={"https://loreofdawn.com"}
+			signUpFallbackRedirectUrl={"https://loreofdawn.com"}
+			signInFallbackRedirectUrl={"https://loreofdawn.com"}
+		>
 			<ThemeProvider attribute="class" defaultTheme="dark" enableSystem disableTransitionOnChange>
 				<QueryClientProvider client={queryClient}>{children}</QueryClientProvider>
 				<Toaster richColors />
