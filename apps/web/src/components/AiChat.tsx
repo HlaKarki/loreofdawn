@@ -25,7 +25,7 @@ import { motion } from "motion/react";
 
 export const AiChat = () => {
 	const { getToken, isSignedIn } = useAuth();
-	const { openSignIn } = useClerk();
+	const { redirectToSignIn } = useClerk();
 	const queryClient = useQueryClient();
 	const [open, setOpen] = React.useState(false);
 	const { completion, input, handleInputChange, complete, isLoading } = useCompletion({
@@ -38,9 +38,9 @@ export const AiChat = () => {
 
 	const handleOpenChange = (nextOpen: boolean) => {
 		if (nextOpen && !isSignedIn) {
-			openSignIn?.({
-				afterSignInUrl: window.location.href,
-				afterSignUpUrl: window.location.href,
+			redirectToSignIn({
+				signInFallbackRedirectUrl: window.location.href,
+				signUpFallbackRedirectUrl: window.location.href,
 			});
 			return;
 		}
