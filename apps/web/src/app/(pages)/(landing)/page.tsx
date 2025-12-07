@@ -54,9 +54,8 @@ export default async function Home() {
 				topBanHero.profile.images.squarehead_big,
 				topBanHero.profile.images.head_big,
 				topBanHero.profile.images.painting,
-		  )
+			)
 		: null;
-
 
 	return (
 		<div className="min-h-screen">
@@ -64,11 +63,6 @@ export default async function Home() {
 				{/* Hero section - simplified and focused */}
 				<section className="relative mb-12">
 					<div className="text-center">
-						<div className="mb-6 inline-flex items-center gap-2 rounded-full border border-amber-500/20 bg-amber-500/10 px-4 py-1.5 text-sm font-medium text-amber-700 dark:text-amber-300">
-							<Sparkles className="h-4 w-4" />
-							Your Mobile Legends companion
-						</div>
-
 						<h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
 							Master the{" "}
 							<span className="bg-gradient-to-r from-amber-500 to-orange-500 bg-clip-text text-transparent">
@@ -77,8 +71,8 @@ export default async function Home() {
 						</h1>
 
 						<p className="mx-auto mb-8 max-w-2xl text-lg text-muted-foreground">
-							Explore {heroCount}+ heroes with live meta stats, deep lore, and matchup insights. Make
-							every draft count.
+							Explore {heroCount}+ heroes with live meta stats, deep lore, and matchup insights.
+							Make every draft count.
 						</p>
 
 						{/* Search */}
@@ -88,7 +82,11 @@ export default async function Home() {
 
 						{/* Quick actions */}
 						<div className="flex flex-wrap items-center justify-center gap-3">
-							<Button asChild size="lg" className="gap-2 bg-amber-500 text-foreground hover:bg-amber-600">
+							<Button
+								asChild
+								size="lg"
+								className="gap-2 bg-amber-500 text-foreground hover:bg-amber-600"
+							>
 								<Link href="/meta">
 									<TrendingUp className="h-4 w-4" />
 									View meta

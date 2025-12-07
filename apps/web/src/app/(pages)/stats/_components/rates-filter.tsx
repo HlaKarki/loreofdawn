@@ -169,7 +169,7 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 	const activeFilterCount = Object.values(activeValues).filter((v) => v !== "").length;
 
 	return (
-		<div className="flex items-center gap-2 flex-wrap">
+		<div className="flex items-center gap-2 flex-wrap min-w-0">
 			{/* Dropdown to add filters */}
 			<DropdownMenu>
 				<DropdownMenuTrigger asChild>
@@ -391,9 +391,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 
 			{/* Active Filter Pills */}
 			{activeValues.win_rate !== "" && (
-				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
-					<span>
-						Win Rate {activeOperators.win_rate === "lte" ? "≤" : "≥"} {activeValues.win_rate}%
+				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary h-8 sm:h-10 sm:px-4">
+					<span className="whitespace-nowrap">
+						WR {activeOperators.win_rate === "lte" ? "≤" : "≥"} {activeValues.win_rate}%
 					</span>
 					<button
 						onClick={() => handleClearFilter("win_rate")}
@@ -404,9 +404,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 				</div>
 			)}
 			{activeValues.ban_rate !== "" && (
-				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
-					<span>
-						Ban Rate {activeOperators.ban_rate === "lte" ? "≤" : "≥"} {activeValues.ban_rate}%
+				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary h-8 sm:h-10 sm:px-4">
+					<span className="whitespace-nowrap">
+						BR {activeOperators.ban_rate === "lte" ? "≤" : "≥"} {activeValues.ban_rate}%
 					</span>
 					<button
 						onClick={() => handleClearFilter("ban_rate")}
@@ -417,9 +417,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 				</div>
 			)}
 			{activeValues.pick_rate !== "" && (
-				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-4 py-1 text-xs font-medium text-primary h-10">
-					<span>
-						Pick Rate {activeOperators.pick_rate === "lte" ? "≤" : "≥"} {activeValues.pick_rate}%
+				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary h-8 sm:h-10 sm:px-4">
+					<span className="whitespace-nowrap">
+						PR {activeOperators.pick_rate === "lte" ? "≤" : "≥"} {activeValues.pick_rate}%
 					</span>
 					<button
 						onClick={() => handleClearFilter("pick_rate")}

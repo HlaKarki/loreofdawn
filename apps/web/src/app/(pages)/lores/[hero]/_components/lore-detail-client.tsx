@@ -7,7 +7,6 @@ import remarkGfm from "remark-gfm";
 import type { WikiTableData } from "@repo/database";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import {
 	ArrowLeftIcon,
 	BookMarkedIcon,
@@ -18,6 +17,7 @@ import {
 	MapPinIcon,
 	UsersIcon,
 	ZapIcon,
+	ChevronRightIcon,
 } from "lucide-react";
 import { cn, tidyLabel } from "@/lib/utils";
 
@@ -33,246 +33,214 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 	const sections = wiki.sections;
 
 	return (
-		<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-6 sm:px-6 lg:px-8">
+		<div className="mx-auto w-full max-w-4xl px-4 pb-16 sm:px-6 lg:px-8">
 			{/* Back Button */}
-			<div className="mb-6">
-				<Link href="/lores">
-					<Button variant="ghost" size="sm">
-						<ArrowLeftIcon className="mr-2 h-4 w-4" />
-						Back
-					</Button>
+			<div className="py-6">
+				<Link
+					href="/lores"
+					className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
+				>
+					<ArrowLeftIcon className="h-4 w-4" />
+					All Lores
 				</Link>
 			</div>
 
-			{/* Hero Header */}
-			<div className="mb-8 space-y-4">
-				<div className="flex flex-wrap items-start justify-between gap-4">
-					<div className="space-y-2">
-						<h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
-							{tidyLabel(wiki.hero)}
-						</h1>
-						{metadata.teaser && (
-							<p className="max-w-3xl text-lg text-muted-foreground">{metadata.teaser}</p>
-						)}
-					</div>
-					<div className="flex flex-wrap gap-2">
-						<Badge variant="secondary" className="text-xs">
-							{tidyLabel(metadata.storyType)}
+			{/* Header */}
+			<header className="mb-10">
+				{/* Badges */}
+				<div className="mb-4 flex flex-wrap items-center gap-2">
+					<Badge variant="secondary">{tidyLabel(metadata.storyType)}</Badge>
+					{metadata.storyArc && (
+						<Badge variant="outline" className="text-xs">
+							{tidyLabel(metadata.storyArc)}
 						</Badge>
-						{metadata.storyArc && (
-							<Badge variant="outline" className="text-xs">
-								{tidyLabel(metadata.storyArc)}
-							</Badge>
-						)}
-					</div>
+					)}
+					{metadata.epicnessScore > 70 && (
+						<Badge className="bg-amber-500 text-white">Epic Tale</Badge>
+					)}
 				</div>
+
+				{/* Title */}
+				<h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">
+					{tidyLabel(wiki.hero)}
+				</h1>
+
+				{/* Teaser */}
+				{metadata.teaser && <p className="mb-6 text-xl text-muted-foreground">{metadata.teaser}</p>}
 
 				{/* Hook Quote */}
 				{metadata.hook && (
-					<blockquote className="border-l-4 border-amber-500 bg-amber-500/5 p-4 text-base italic">
-						{metadata.hook}
+					<blockquote className="mb-6 border-l-4 border-amber-500 pl-4 text-lg italic text-foreground/80">
+						"{metadata.hook}"
 					</blockquote>
 				)}
 
-				{/* Metadata Tags */}
-				<div className="space-y-3">
-					{metadata.moods && metadata.moods.length > 0 && (
-						<div className="flex flex-wrap items-center gap-2">
-							<HeartIcon className="h-4 w-4 text-muted-foreground" />
-							<span className="text-sm font-medium">Moods:</span>
-							{metadata.moods.map((mood) => (
-								<Badge key={mood} variant="secondary" className="bg-amber-500/15 text-amber-800">
-									{tidyLabel(mood)}
-								</Badge>
-							))}
-						</div>
-					)}
-
-					{metadata.themes && metadata.themes.length > 0 && (
-						<div className="flex flex-wrap items-center gap-2">
-							<BookOpenIcon className="h-4 w-4 text-muted-foreground" />
-							<span className="text-sm font-medium">Themes:</span>
-							{metadata.themes.map((theme) => (
-								<Badge key={theme} variant="outline">
-									{tidyLabel(theme)}
-								</Badge>
-							))}
-						</div>
-					)}
-
-					{metadata.relationships?.faction && (
-						<div className="flex flex-wrap items-center gap-2">
-							<UsersIcon className="h-4 w-4 text-muted-foreground" />
-							<span className="text-sm font-medium">Faction:</span>
-							<Badge variant="secondary">{metadata.relationships.faction}</Badge>
-							{metadata.relationships.factionRole && (
-								<span className="text-sm text-muted-foreground">
-									({metadata.relationships.factionRole})
-								</span>
-							)}
-						</div>
-					)}
-
-					{metadata.locations && metadata.locations.length > 0 && (
-						<div className="flex flex-wrap items-center gap-2">
-							<MapPinIcon className="h-4 w-4 text-muted-foreground" />
-							<span className="text-sm font-medium">Locations:</span>
-							{metadata.locations.slice(0, 5).map((location) => (
-								<Badge key={location} variant="outline" className="text-xs">
-									{location}
-								</Badge>
-							))}
-						</div>
-					)}
-				</div>
-
-				{/* Stats */}
-				<div className="flex flex-wrap gap-3 text-sm text-muted-foreground">
-					<span className="flex items-center gap-1">
+				{/* Quick Stats */}
+				<div className="flex flex-wrap gap-4 text-sm text-muted-foreground">
+					<span className="flex items-center gap-1.5">
 						<ClockIcon className="h-4 w-4" />
 						{metadata.readingTimeMinutes} min read
 					</span>
 					{metadata.hasChapters && (
-						<span className="flex items-center gap-1">
+						<span className="flex items-center gap-1.5">
 							<BookMarkedIcon className="h-4 w-4" />
 							{metadata.chapterCount} chapters
 						</span>
 					)}
-					<span className="flex items-center gap-1">
+					<span className="flex items-center gap-1.5">
 						<UsersIcon className="h-4 w-4" />
 						{metadata.connectionsCount} connections
 					</span>
+					{metadata.wordCount > 0 && (
+						<span className="flex items-center gap-1.5">
+							<BookOpenIcon className="h-4 w-4" />
+							{metadata.wordCount.toLocaleString()} words
+						</span>
+					)}
 				</div>
-			</div>
 
-			<div className="my-6 h-px bg-border" />
+				{/* Tags */}
+				<div className="mt-6 flex flex-wrap gap-2">
+					{metadata.moods?.slice(0, 4).map((mood) => (
+						<Badge key={mood} variant="secondary" className="text-xs">
+							{tidyLabel(mood)}
+						</Badge>
+					))}
+					{metadata.themes?.slice(0, 4).map((theme) => (
+						<Badge key={theme} variant="outline" className="text-xs">
+							{tidyLabel(theme)}
+						</Badge>
+					))}
+					{metadata.relationships?.faction && (
+						<Badge variant="outline" className="text-xs">
+							{metadata.relationships.faction}
+						</Badge>
+					)}
+				</div>
+			</header>
+
+			<div className="mb-10 h-px bg-border" />
 
 			{/* Profile Section */}
 			{sections.profile?.markdown && (
-				<Card className="mb-6">
-					<CardHeader>
-						<CardTitle className="flex items-center gap-2">
-							<UsersIcon className="h-5 w-5 text-amber-600" />
-							Profile
-						</CardTitle>
-					</CardHeader>
-					<CardContent>
-						<div className="prose prose-slate dark:prose-invert max-w-none">
-							<ReactMarkdown remarkPlugins={[remarkGfm]}>{sections.profile.markdown}</ReactMarkdown>
-						</div>
-					</CardContent>
-				</Card>
+				<section className="mb-10">
+					<h2 className="mb-4 flex items-center gap-2 text-xl font-semibold">
+						<UsersIcon className="h-5 w-5 text-amber-500" />
+						Profile
+					</h2>
+					<div className="prose prose-slate dark:prose-invert max-w-none">
+						<ReactMarkdown remarkPlugins={[remarkGfm]}>{sections.profile.markdown.replaceAll('"', "")}</ReactMarkdown>
+					</div>
+				</section>
 			)}
 
-			{/* Tabs Navigation */}
-			<div className="mb-6 flex flex-wrap gap-2">
+			{/* Tabs */}
+			<div className="mb-6 flex flex-wrap gap-2 border-b border-border pb-4">
 				<Button
-					variant={activeTab === "story" ? "default" : "outline"}
+					variant="ghost"
 					size="sm"
 					onClick={() => setActiveTab("story")}
-					className={cn(activeTab === "story" && "bg-amber-600 text-white hover:bg-amber-600/90")}
+					className={cn(
+						"gap-2",
+						activeTab === "story" && "bg-amber-500/10 text-amber-700 dark:text-amber-400",
+					)}
 				>
-					<BookOpenIcon className="mr-2 h-4 w-4" />
-					Main Story
+					<BookOpenIcon className="h-4 w-4" />
+					Story
 				</Button>
 				{metadata.hasChapters && (
 					<Button
-						variant={activeTab === "chapters" ? "default" : "outline"}
+						variant="ghost"
 						size="sm"
 						onClick={() => setActiveTab("chapters")}
 						className={cn(
-							activeTab === "chapters" && "bg-amber-600 text-white hover:bg-amber-600/90",
+							"gap-2",
+							activeTab === "chapters" && "bg-amber-500/10 text-amber-700 dark:text-amber-400",
 						)}
 					>
-						<BookMarkedIcon className="mr-2 h-4 w-4" />
+						<BookMarkedIcon className="h-4 w-4" />
 						Chapters ({metadata.chapterCount})
 					</Button>
 				)}
 				{metadata.hasAbilityLore && (
 					<Button
-						variant={activeTab === "abilities" ? "default" : "outline"}
+						variant="ghost"
 						size="sm"
 						onClick={() => setActiveTab("abilities")}
 						className={cn(
-							activeTab === "abilities" && "bg-amber-600 text-white hover:bg-amber-600/90",
+							"gap-2",
+							activeTab === "abilities" && "bg-amber-500/10 text-amber-700 dark:text-amber-400",
 						)}
 					>
-						<ZapIcon className="mr-2 h-4 w-4" />
+						<ZapIcon className="h-4 w-4" />
 						Abilities
 					</Button>
 				)}
 				{metadata.hasTrivia && (
 					<Button
-						variant={activeTab === "trivia" ? "default" : "outline"}
+						variant="ghost"
 						size="sm"
 						onClick={() => setActiveTab("trivia")}
 						className={cn(
-							activeTab === "trivia" && "bg-amber-600 text-white hover:bg-amber-600/90",
+							"gap-2",
+							activeTab === "trivia" && "bg-amber-500/10 text-amber-700 dark:text-amber-400",
 						)}
 					>
-						<LightbulbIcon className="mr-2 h-4 w-4" />
+						<LightbulbIcon className="h-4 w-4" />
 						Trivia
 					</Button>
 				)}
 			</div>
 
 			{/* Tab Content */}
-			<div className="space-y-6">
+			<div className="mb-12">
 				{/* Main Story */}
 				{activeTab === "story" && sections.story?.markdown && (
-					<Card>
-						<CardHeader>
-							<CardTitle>Backstory</CardTitle>
-							{metadata.openingLine && (
-								<p className="text-sm italic text-muted-foreground">
-									&ldquo;{metadata.openingLine}&rdquo;
-								</p>
-							)}
-						</CardHeader>
-						<CardContent>
-							<div className="prose prose-slate dark:prose-invert max-w-none prose-headings:text-amber-900 dark:prose-headings:text-amber-400">
-								<ReactMarkdown remarkPlugins={[remarkGfm]}>{sections.story.markdown}</ReactMarkdown>
-							</div>
-						</CardContent>
-					</Card>
+					<section>
+						<h2 className="mb-2 text-2xl font-semibold">Backstory</h2>
+						{metadata.openingLine && (
+							<p className="mb-6 text-sm italic text-muted-foreground">"{metadata.openingLine}"</p>
+						)}
+						<div className="prose prose-slate dark:prose-invert max-w-none prose-headings:font-semibold prose-a:text-amber-600 dark:prose-a:text-amber-400">
+							<ReactMarkdown remarkPlugins={[remarkGfm]}>{sections.story.markdown.replaceAll('"', "")}</ReactMarkdown>
+						</div>
+					</section>
 				)}
 
-				{/* Side Story Chapters */}
+				{/* Chapters */}
 				{activeTab === "chapters" && sections.side_story?.chapters && (
-					<div className="space-y-4">
+					<div className="space-y-10">
 						{sections.side_story.chapters.map((chapter, index) => (
-							<Card key={index}>
-								<CardHeader>
-									<CardTitle className="flex items-center gap-2">
-										<BookMarkedIcon className="h-5 w-5 text-amber-600" />
-										Chapter {index + 1}: {chapter.title}
-									</CardTitle>
-								</CardHeader>
-								<CardContent>
-									<div className="prose prose-slate dark:prose-invert max-w-none">
-										<ReactMarkdown remarkPlugins={[remarkGfm]}>
-											{chapter.content.markdown}
-										</ReactMarkdown>
-									</div>
-								</CardContent>
-							</Card>
+							<section key={index}>
+								<div className="mb-4 flex items-center gap-3">
+									<span className="flex h-8 w-8 items-center justify-center rounded-full bg-amber-500/10 text-sm font-bold text-amber-600 dark:text-amber-400">
+										{index + 1}
+									</span>
+									<h2 className="text-xl font-semibold">{chapter.title}</h2>
+								</div>
+								<div className="prose prose-slate dark:prose-invert max-w-none">
+									<ReactMarkdown remarkPlugins={[remarkGfm]}>
+										{chapter.content.markdown.replaceAll('"', "")}
+									</ReactMarkdown>
+								</div>
+							</section>
 						))}
 					</div>
 				)}
 
 				{/* Abilities */}
 				{activeTab === "abilities" && sections.abilities && (
-					<div className="space-y-4">
+					<div className="space-y-8">
 						{sections.abilities.map((ability, index) => (
-							<Card key={index}>
-								<CardHeader>
-									<div className="flex items-start justify-between gap-4">
-										<div className="space-y-1">
-											<CardTitle className="flex items-center gap-2">
-												<ZapIcon className="h-5 w-5 text-amber-600" />
-												{ability.name}
-											</CardTitle>
-											<div className="flex flex-wrap gap-2">
+							<section key={index} className="rounded-xl border border-border/60 p-5">
+								<div className="mb-4 flex items-start justify-between gap-4">
+									<div className="flex items-center gap-3">
+										<div className="flex h-10 w-10 items-center justify-center rounded-lg bg-amber-500/10">
+											<ZapIcon className="h-5 w-5 text-amber-600 dark:text-amber-400" />
+										</div>
+										<div>
+											<h3 className="font-semibold">{ability.name}</h3>
+											<div className="flex flex-wrap gap-2 mt-1">
 												<Badge variant="secondary" className="text-xs">
 													{ability.slot}
 												</Badge>
@@ -283,75 +251,71 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 												)}
 											</div>
 										</div>
-										<div className="flex flex-wrap gap-2 text-sm">
-											{ability.cooldown !== undefined && ability.cooldown > 0 && (
-												<Badge variant="outline" className="text-xs">
-													CD: {ability.cooldown}s
-												</Badge>
-											)}
-											{ability.cost && (
-												<Badge variant="outline" className="text-xs">
-													Cost: {ability.cost}
-												</Badge>
-											)}
-										</div>
 									</div>
-								</CardHeader>
-								<CardContent>
-									<div className="prose prose-slate dark:prose-invert max-w-none prose-sm">
-										<ReactMarkdown remarkPlugins={[remarkGfm]}>
-											{ability.details.markdown}
-										</ReactMarkdown>
+									<div className="flex flex-wrap gap-2 text-xs">
+										{ability.cooldown !== undefined && ability.cooldown > 0 && (
+											<Badge variant="outline">CD: {ability.cooldown}s</Badge>
+										)}
+										{ability.cost && <Badge variant="outline">Cost: {ability.cost}</Badge>}
 									</div>
-								</CardContent>
-							</Card>
+								</div>
+								<div className="prose prose-slate dark:prose-invert max-w-none prose-sm">
+									<ReactMarkdown remarkPlugins={[remarkGfm]}>
+										{ability.details.markdown.replaceAll('"', "")}
+									</ReactMarkdown>
+								</div>
+							</section>
 						))}
 					</div>
 				)}
 
 				{/* Trivia */}
 				{activeTab === "trivia" && sections.trivia && (
-					<Card>
-						<CardHeader>
-							<CardTitle className="flex items-center gap-2">
-								<LightbulbIcon className="h-5 w-5 text-amber-600" />
-								Did You Know?
-							</CardTitle>
-						</CardHeader>
-						<CardContent>
-							<ul className="space-y-3">
-								{sections.trivia.map((fact, index) => (
-									<li key={index} className="flex gap-3">
-										<span className="text-amber-600">•</span>
-										<div className="prose prose-slate dark:prose-invert max-w-none prose-sm">
-											<ReactMarkdown remarkPlugins={[remarkGfm]}>{fact.markdown}</ReactMarkdown>
-										</div>
-									</li>
-								))}
-							</ul>
-						</CardContent>
-					</Card>
+					<section>
+						<h2 className="mb-6 flex items-center gap-2 text-xl font-semibold">
+							<LightbulbIcon className="h-5 w-5 text-amber-500" />
+							Did You Know?
+						</h2>
+						<ul className="space-y-4">
+							{sections.trivia.map((fact, index) => (
+								<li key={index} className="flex gap-3">
+									<span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-full bg-amber-500/10 text-xs font-bold text-amber-600 dark:text-amber-400">
+										{index + 1}
+									</span>
+									<div className="prose prose-slate dark:prose-invert max-w-none prose-sm prose-p:m-0">
+										<ReactMarkdown remarkPlugins={[remarkGfm]}>{fact.markdown.replaceAll('"', "")}</ReactMarkdown>
+									</div>
+								</li>
+							))}
+						</ul>
+					</section>
 				)}
 			</div>
 
-			{/* Relationships Section */}
+			{/* Relationships */}
 			{metadata.relationships && (
-				<Card className="mt-6">
-					<CardHeader>
-						<CardTitle className="flex items-center gap-2">
-							<UsersIcon className="h-5 w-5 text-amber-600" />
-							Relationships &amp; Connections
-						</CardTitle>
-					</CardHeader>
-					<CardContent className="space-y-4">
+				<section className="mb-12">
+					<h2 className="mb-6 flex items-center gap-2 text-xl font-semibold">
+						<UsersIcon className="h-5 w-5 text-amber-500" />
+						Relationships & Connections
+					</h2>
+
+					<div className="space-y-6">
 						{metadata.relationships.allies && metadata.relationships.allies.length > 0 && (
 							<div>
-								<h4 className="mb-2 text-sm font-semibold">Allies</h4>
+								<h4 className="mb-3 flex items-center gap-2 text-sm font-medium">
+									<span className="h-2 w-2 rounded-full bg-emerald-500" />
+									Allies
+								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.allies.map((ally) => (
 										<Link key={ally} href={`/lores/${ally}`}>
-											<Badge variant="secondary" className="cursor-pointer hover:bg-green-500/20">
+											<Badge
+												variant="secondary"
+												className="cursor-pointer transition-colors hover:bg-emerald-500/20"
+											>
 												{tidyLabel(ally)}
+												<ChevronRightIcon className="ml-1 h-3 w-3" />
 											</Badge>
 										</Link>
 									))}
@@ -361,12 +325,19 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 
 						{metadata.relationships.rivals && metadata.relationships.rivals.length > 0 && (
 							<div>
-								<h4 className="mb-2 text-sm font-semibold">Rivals &amp; Enemies</h4>
+								<h4 className="mb-3 flex items-center gap-2 text-sm font-medium">
+									<span className="h-2 w-2 rounded-full bg-red-500" />
+									Rivals & Enemies
+								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.rivals.map((rival) => (
 										<Link key={rival} href={`/lores/${rival}`}>
-											<Badge variant="secondary" className="cursor-pointer hover:bg-red-500/20">
+											<Badge
+												variant="secondary"
+												className="cursor-pointer transition-colors hover:bg-red-500/20"
+											>
 												{tidyLabel(rival)}
+												<ChevronRightIcon className="ml-1 h-3 w-3" />
 											</Badge>
 										</Link>
 									))}
@@ -376,12 +347,19 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 
 						{metadata.relationships.family && metadata.relationships.family.length > 0 && (
 							<div>
-								<h4 className="mb-2 text-sm font-semibold">Family</h4>
+								<h4 className="mb-3 flex items-center gap-2 text-sm font-medium">
+									<span className="h-2 w-2 rounded-full bg-blue-500" />
+									Family
+								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.family.map((member) => (
 										<Link key={member} href={`/lores/${member}`}>
-											<Badge variant="secondary" className="cursor-pointer hover:bg-blue-500/20">
+											<Badge
+												variant="secondary"
+												className="cursor-pointer transition-colors hover:bg-blue-500/20"
+											>
 												{tidyLabel(member)}
+												<ChevronRightIcon className="ml-1 h-3 w-3" />
 											</Badge>
 										</Link>
 									))}
@@ -391,12 +369,19 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 
 						{metadata.relationships.mentors && metadata.relationships.mentors.length > 0 && (
 							<div>
-								<h4 className="mb-2 text-sm font-semibold">Mentors &amp; Students</h4>
+								<h4 className="mb-3 flex items-center gap-2 text-sm font-medium">
+									<span className="h-2 w-2 rounded-full bg-purple-500" />
+									Mentors & Students
+								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.mentors.map((mentor) => (
 										<Link key={mentor} href={`/lores/${mentor}`}>
-											<Badge variant="secondary" className="cursor-pointer hover:bg-purple-500/20">
+											<Badge
+												variant="secondary"
+												className="cursor-pointer transition-colors hover:bg-purple-500/20"
+											>
 												{tidyLabel(mentor)}
+												<ChevronRightIcon className="ml-1 h-3 w-3" />
 											</Badge>
 										</Link>
 									))}
@@ -407,31 +392,60 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 						{metadata.relationships.relatedHeroes &&
 							metadata.relationships.relatedHeroes.length > 0 && (
 								<div>
-									<h4 className="mb-2 text-sm font-semibold">
+									<h4 className="mb-3 flex items-center gap-2 text-sm font-medium">
+										<span className="h-2 w-2 rounded-full bg-amber-500" />
 										Related Heroes ({metadata.relationships.relatedHeroes.length})
 									</h4>
 									<div className="flex flex-wrap gap-2">
-										{metadata.relationships.relatedHeroes.slice(0, 15).map((hero) => (
+										{metadata.relationships.relatedHeroes.slice(0, 12).map((hero) => (
 											<Link key={hero} href={`/lores/${hero}`}>
 												<Badge
 													variant="outline"
-													className="cursor-pointer hover:bg-amber-500/20 text-xs"
+													className="cursor-pointer text-xs transition-colors hover:bg-amber-500/10"
 												>
 													{tidyLabel(hero)}
+													<ChevronRightIcon className="ml-1 h-3 w-3" />
 												</Badge>
 											</Link>
 										))}
-										{metadata.relationships.relatedHeroes.length > 15 && (
+										{metadata.relationships.relatedHeroes.length > 12 && (
 											<Badge variant="outline" className="text-xs">
-												+{metadata.relationships.relatedHeroes.length - 15} more
+												+{metadata.relationships.relatedHeroes.length - 12} more
 											</Badge>
 										)}
 									</div>
 								</div>
 							)}
-					</CardContent>
-				</Card>
+
+						{metadata.locations && metadata.locations.length > 0 && (
+							<div>
+								<h4 className="mb-3 flex items-center gap-2 text-sm font-medium">
+									<MapPinIcon className="h-4 w-4 text-muted-foreground" />
+									Locations
+								</h4>
+								<div className="flex flex-wrap gap-2">
+									{metadata.locations.map((location) => (
+										<Badge key={location} variant="outline" className="text-xs">
+											{location}
+										</Badge>
+									))}
+								</div>
+							</div>
+						)}
+					</div>
+				</section>
 			)}
+
+			{/* Back to all lores */}
+			<div className="border-t border-border pt-8">
+				<Link
+					href="/lores"
+					className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
+				>
+					<ArrowLeftIcon className="h-4 w-4" />
+					Back to All Lores
+				</Link>
+			</div>
 		</div>
 	);
 };

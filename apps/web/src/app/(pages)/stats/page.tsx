@@ -127,7 +127,7 @@ export default async function StatsPage({
 	const rank = params.rank || "glory";
 
 	return (
-		<div className="container mx-auto flex max-w-7xl flex-col gap-6 px-4 pb-16 pt-8 sm:gap-8 sm:px-6 lg:px-8">
+		<div className="mx-auto flex w-full max-w-screen flex-col gap-6 overflow-x-hidden px-4 pb-16 pt-8 sm:gap-8 sm:px-6 lg:px-8">
 			<Suspense fallback={<TableSkeleton />}>
 				<StatsContent rank={rank} />
 			</Suspense>

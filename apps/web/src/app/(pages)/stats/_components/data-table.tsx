@@ -179,7 +179,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 	);
 
 	return (
-		<div className="w-full max-w-full space-y-4 overflow-x-hidden">
+		<div className="w-full max-w-full space-y-4 overflow-hidden">
 			{/* Filters and Column Visibility */}
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
 				{/* Search */}
@@ -208,7 +208,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 							}
 						}}
 					>
-						<SelectTrigger className="w-[140px] py-4.5">
+						<SelectTrigger className="w-[120px] sm:w-[140px]">
 							<SelectValue placeholder="All Roles" />
 						</SelectTrigger>
 						<SelectContent>
@@ -234,7 +234,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 							}
 						}}
 					>
-						<SelectTrigger className="w-[140px] py-4.5">
+						<SelectTrigger className="w-[120px] sm:w-[140px]">
 							<SelectValue placeholder="All Lanes" />
 						</SelectTrigger>
 						<SelectContent>
