@@ -35,13 +35,14 @@ export function UpdatedAtLabel({ date }: { date: number }) {
 
 	return (
 		<p className="text-xs text-muted-foreground">
-			Updated{" "}
+			Live from MLBB ·{" "}
 			<time dateTime={d.toISOString()}>
 				{d.toLocaleString(undefined, {
 					month: "short",
 					day: "numeric",
 					hour: "numeric",
 					minute: "2-digit",
+					timeZoneName: "short",
 				})}
 			</time>
 		</p>

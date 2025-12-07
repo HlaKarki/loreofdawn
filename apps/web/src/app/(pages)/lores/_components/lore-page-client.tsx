@@ -149,7 +149,7 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 	};
 
 	return (
-		<div className="mx-auto flex w-full max-w-6xl flex-col gap-10 px-4 pb-16 pt-8 sm:px-6 lg:px-8">
+		<div className="mx-auto flex w-full max-w-screen sm:max-w-7xl flex-col gap-10 px-4 pb-16 pt-8 sm:px-6 lg:px-8">
 			{/* Hero Section - Clean like home page */}
 			<section className="text-center">
 				<h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">
@@ -179,58 +179,66 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 				</div>
 
 				{/* Filters */}
-				<div className="mx-auto max-w-3xl space-y-4">
+				<div className="space-y-3">
 					{availableMoods.length > 0 && (
-						<div className="flex flex-wrap items-center justify-center gap-2">
-							<span className="text-sm text-muted-foreground">Mood:</span>
-							{availableMoods.slice(0, 6).map((mood) => (
-								<Button
-									key={mood}
-									type="button"
-									variant={selectedMoods.includes(mood) ? "default" : "outline"}
-									size="sm"
-									onClick={() => handleMoodToggle(mood)}
-									className={cn(
-										"h-8 rounded-full px-3 text-xs",
-										selectedMoods.includes(mood) && "bg-amber-500 text-amber-950 hover:bg-amber-600",
-									)}
-								>
-									{tidyLabel(mood)}
-								</Button>
-							))}
+						<div className="flex items-center justify-center gap-3">
+							<span className="shrink-0 text-sm text-muted-foreground">Mood:</span>
+							<div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none">
+								{availableMoods.slice(0, 8).map((mood) => (
+									<Button
+										key={mood}
+										type="button"
+										variant={selectedMoods.includes(mood) ? "default" : "outline"}
+										size="sm"
+										onClick={() => handleMoodToggle(mood)}
+										className={cn(
+											"h-8 shrink-0 rounded-full px-3 text-xs",
+											selectedMoods.includes(mood) &&
+												"bg-amber-500 text-amber-950 hover:bg-amber-600",
+										)}
+									>
+										{tidyLabel(mood)}
+									</Button>
+								))}
+							</div>
 						</div>
 					)}
 
 					{availableThemes.length > 0 && (
-						<div className="flex flex-wrap items-center justify-center gap-2">
-							<span className="text-sm text-muted-foreground">Theme:</span>
-							{availableThemes.slice(0, 6).map((theme) => (
-								<Button
-									key={theme}
-									type="button"
-									variant={selectedThemes.includes(theme) ? "default" : "outline"}
-									size="sm"
-									onClick={() => handleThemeToggle(theme)}
-									className={cn(
-										"h-8 rounded-full px-3 text-xs",
-										selectedThemes.includes(theme) && "bg-amber-500 text-amber-950 hover:bg-amber-600",
-									)}
-								>
-									{tidyLabel(theme)}
-								</Button>
-							))}
+						<div className="flex items-center justify-center gap-3">
+							<span className="shrink-0 text-sm text-muted-foreground">Theme:</span>
+							<div className="flex gap-2 overflow-x-auto pb-1 scrollbar-none">
+								{availableThemes.slice(0, 8).map((theme) => (
+									<Button
+										key={theme}
+										type="button"
+										variant={selectedThemes.includes(theme) ? "default" : "outline"}
+										size="sm"
+										onClick={() => handleThemeToggle(theme)}
+										className={cn(
+											"h-8 shrink-0 rounded-full px-3 text-xs",
+											selectedThemes.includes(theme) &&
+												"bg-amber-500 text-amber-950 hover:bg-amber-600",
+										)}
+									>
+										{tidyLabel(theme)}
+									</Button>
+								))}
+							</div>
 						</div>
 					)}
 
 					{filtersActive && (
-						<Button
-							variant="ghost"
-							size="sm"
-							onClick={handleReset}
-							className="text-muted-foreground"
-						>
-							Clear filters
-						</Button>
+						<div className="flex justify-center">
+							<Button
+								variant="ghost"
+								size="sm"
+								onClick={handleReset}
+								className="text-muted-foreground"
+							>
+								Clear filters
+							</Button>
+						</div>
 					)}
 				</div>
 			</section>
