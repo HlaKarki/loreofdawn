@@ -6,7 +6,7 @@ import { notFound } from "next/navigation";
 import { TableOfContents } from "../_components/table_of_content";
 import { makeUrl } from "@/lib/utils.api";
 import type { WikiTableData } from "@repo/database";
-import { HeaderWiki } from "@/app/(pages)/wiki/_components/header.wiki";
+import { HeaderWiki } from "@/app/(pages)/_wiki/_components/header.wiki";
 import { tidyLabel } from "@/lib/utils";
 
 type WikiPageProps = {

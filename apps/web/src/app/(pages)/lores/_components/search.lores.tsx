@@ -512,7 +512,7 @@ const LoreCard = ({ hero, dense = false }: LoreCardProps) => {
 						)}
 					</div>
 					<Link
-						href={`/wiki/${hero.profile.url_name}`}
+						href={`/lores/${hero.profile.url_name}`}
 						className="shrink-0 rounded-full bg-amber-500/15 px-3 py-1 text-xs font-medium text-amber-800 transition hover:bg-amber-500/25"
 					>
 						Read
@@ -530,7 +530,7 @@ const LoreCard = ({ hero, dense = false }: LoreCardProps) => {
 						))}
 					</div>
 					<Link
-						href={`/wiki/${hero.profile.url_name}`}
+						href={`/lores/${hero.profile.url_name}`}
 						className="text-sm text-amber-700 hover:underline"
 					>
 						Read full lore
@@ -589,7 +589,7 @@ const FeaturedLoreCard = ({ hero }: { hero: ConsolidatedHeroOptional }) => {
 			</div>
 			{loreExcerpt && <p className="text-sm leading-relaxed text-foreground/90">{loreExcerpt}</p>}
 			<div className="flex flex-wrap gap-2">
-				<Link href={`/wiki/${hero.profile.url_name}`} className="flex-1">
+				<Link href={`/lores/${hero.profile.url_name}`} className="flex-1">
 					<Button className="w-full bg-amber-600 text-amber-950 hover:bg-amber-600/90">
 						<BookOpenIcon className="mr-2 h-4 w-4" />
 						Read full lore

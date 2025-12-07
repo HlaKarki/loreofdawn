@@ -102,7 +102,7 @@ export function HeroOfTheDay({
 								<SparklesIcon className="mr-2 h-4 w-4" />
 								Discover Related Heroes
 							</Button>
-							<Link href={`/wiki/${hero.profile.url_name}`} className="flex-1">
+							<Link href={`/lores/${hero.profile.url_name}`} className="flex-1">
 								<Button variant="outline" className="w-full">
 									<BookOpenIcon className="mr-2 h-4 w-4" />
 									Read Full Lore

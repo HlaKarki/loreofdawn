@@ -163,7 +163,7 @@ export function HeroCard({
 						<SparklesIcon className="mr-1 h-4 w-4" />
 						View Connections
 					</Button>
-					<Link href={`/wiki/${hero.profile.url_name}`} className="flex-1">
+					<Link href={`/lores/${hero.profile.url_name}`} className="flex-1">
 						<Button size="sm" variant="default" className="w-full">
 							Read Lore
 						</Button>

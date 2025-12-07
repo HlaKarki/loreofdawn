@@ -33,7 +33,7 @@ export const HeroHeader = ({
 	);
 
 	const wikiHref =
-		`/wiki/${encodeURIComponent(data.name.trim().toLowerCase().replaceAll(" ", "_"))}` as const;
+		`/lores/${encodeURIComponent(data.name.trim().toLowerCase().replaceAll(" ", "_"))}` as const;
 
 	return (
 		<div className="relative mb-8 overflow-hidden rounded-xl px-4 md:px-0">
