@@ -7,8 +7,7 @@ import { StatsByRoles } from "./_components/statsByRoles";
 import { QuadrantChart } from "./_components/quadrantChart";
 import { CommunityPosts } from "./_components/communityPosts";
 import { RankSelector } from "../stats/_components/rank-selector";
-import { Badge } from "@/components/ui/badge";
-import { TrendingUp, Gem, Users } from "lucide-react";
+import { Crown, Gem, Users } from "lucide-react";
 
 export type StatsByRolesResponse = {
 	rank: string;
@@ -50,14 +49,46 @@ async function MetaContent({ rank }: { rank: string }) {
 			? [...statsByRoleData.data].sort((a, b) => b.averageWinRate - a.averageWinRate)[0]
 			: null;
 
+	const overviewCards = [
+		{
+			label: "Meta King",
+			value: metaKing?.profile.name ?? "—",
+			description: metaKing ? `${(metaKing.meta.ban_rate * 100).toFixed(1)}% ban rate` : "Loading...",
+			icon: Crown,
+			iconBg: "bg-amber-500/10",
+			iconColor: "text-amber-600",
+		},
+		{
+			label: "Hidden Gem",
+			value: hiddenGem?.profile.name ?? "—",
+			description: hiddenGem ? `${(hiddenGem.meta.win_rate * 100).toFixed(1)}% win rate` : "Loading...",
+			icon: Gem,
+			iconBg: "bg-emerald-500/10",
+			iconColor: "text-emerald-600",
+		},
+		{
+			label: "Dominant Role",
+			value: topRole ? `${topRole.role}s` : "—",
+			description: topRole ? `${(topRole.averageWinRate * 100).toFixed(1)}% avg win rate` : "Loading...",
+			icon: Users,
+			iconBg: "bg-sky-500/10",
+			iconColor: "text-sky-600",
+		},
+	];
+
 	return (
 		<>
 			{/* Header */}
-			<header className="mb-8 space-y-3">
-				<div className="flex flex-col gap-3 sm:flex-row sm:items-start sm:justify-between">
-					<div className="space-y-2">
-						<h1 className="text-3xl font-bold tracking-tight sm:text-4xl">Meta Insights</h1>
-						<p className="text-sm text-muted-foreground sm:text-base">
+			<header className="mb-8">
+				<div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+					<div>
+						<h1 className="text-3xl font-bold tracking-tight sm:text-4xl">
+							Meta{" "}
+							<span className="bg-gradient-to-r from-amber-500 to-orange-500 bg-clip-text text-transparent">
+								Insights
+							</span>
+						</h1>
+						<p className="mt-1 text-muted-foreground">
 							Current competitive landscape and hero trends
 						</p>
 					</div>
@@ -66,63 +97,24 @@ async function MetaContent({ rank }: { rank: string }) {
 			</header>
 
 			{/* Meta Snapshot (Overview Cards) */}
-			<div className="mb-12 grid grid-cols-1 gap-4 sm:grid-cols-3">
-				<div className="rounded-xl border border-border/70 bg-card/70 p-4 transition-colors hover:bg-accent/5">
-					<div className="mb-2 flex items-center gap-2">
-						<div className="rounded-lg bg-green-500/15 p-2">
-							<TrendingUp className="h-4 w-4 text-green-700 dark:text-green-400" />
-						</div>
-						<div className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-							Meta King
-						</div>
-					</div>
-					{metaKing && (
-						<>
-							<div className="text-xl font-bold">{metaKing.profile.name}</div>
-							<div className="mt-1 text-sm text-muted-foreground">
-								{(metaKing.meta.ban_rate * 100).toFixed(1)}% ban rate
+			<div className="mb-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
+				{overviewCards.map((card) => (
+					<div
+						key={card.label}
+						className="rounded-2xl border border-border/60 bg-card p-4 transition-colors hover:bg-accent/5"
+					>
+						<div className="mb-3 flex items-center justify-between">
+							<span className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
+								{card.label}
+							</span>
+							<div className={`flex h-8 w-8 items-center justify-center rounded-lg ${card.iconBg}`}>
+								<card.icon className={`h-4 w-4 ${card.iconColor}`} />
 							</div>
-						</>
-					)}
-				</div>
-
-				<div className="rounded-xl border border-border/70 bg-card/70 p-4 transition-colors hover:bg-accent/5">
-					<div className="mb-2 flex items-center gap-2">
-						<div className="rounded-lg bg-amber-500/15 p-2">
-							<Gem className="h-4 w-4 text-amber-700 dark:text-amber-400" />
 						</div>
-						<div className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-							Hidden Gem
-						</div>
+						<div className="text-xl font-bold capitalize">{card.value}</div>
+						<p className="mt-1 text-sm text-muted-foreground">{card.description}</p>
 					</div>
-					{hiddenGem && (
-						<>
-							<div className="text-xl font-bold">{hiddenGem.profile.name}</div>
-							<div className="mt-1 text-sm text-muted-foreground">
-								{(hiddenGem.meta.win_rate * 100).toFixed(1)}% win rate
-							</div>
-						</>
-					)}
-				</div>
-
-				<div className="rounded-xl border border-border/70 bg-card/70 p-4 transition-colors hover:bg-accent/5">
-					<div className="mb-2 flex items-center gap-2">
-						<div className="rounded-lg bg-blue-500/15 p-2">
-							<Users className="h-4 w-4 text-blue-700 dark:text-blue-400" />
-						</div>
-						<div className="text-xs font-medium uppercase tracking-wide text-muted-foreground">
-							Dominant Role
-						</div>
-					</div>
-					{topRole && (
-						<>
-							<div className="text-xl font-bold capitalize">{topRole.role}s</div>
-							<div className="mt-1 text-sm text-muted-foreground">
-								{(topRole.averageWinRate * 100).toFixed(1)}% win rate
-							</div>
-						</>
-					)}
-				</div>
+				))}
 			</div>
 
 			{/* Meta Picks */}

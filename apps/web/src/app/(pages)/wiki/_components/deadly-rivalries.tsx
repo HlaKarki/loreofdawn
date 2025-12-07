@@ -35,7 +35,7 @@ export function DeadlyRivalries({ rivalries, onDiscoverPair }: DeadlyRivalriesPr
 
 			<div className="grid grid-cols-1 gap-4 sm:grid-cols-2 md:gap-6 lg:grid-cols-3">
 				{rivalries.map((rivalry, index) => (
-					<Card key={index} className="group overflow-hidden hover:border-red-500 hover:shadow-lg">
+					<Card key={index} className="group overflow-hidden rounded-2xl border-border/60 hover:border-red-500 hover:shadow-lg">
 						<CardContent className="p-6">
 							{/* VS Layout */}
 							<div className="mb-4 flex items-center justify-center gap-4">

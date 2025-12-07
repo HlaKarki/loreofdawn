@@ -329,7 +329,7 @@ export function DataTable({ data, rank }: DataTableProps) {
 			</div>
 
 			{/* Table */}
-			<div className="w-full overflow-hidden rounded-lg border bg-card shadow-sm">
+			<div className="w-full overflow-hidden rounded-2xl border border-border/60 bg-card shadow-sm">
 				<div className="w-full overflow-x-auto overscroll-x-none">
 					<Table className="table-fixed" style={{ width: "inherit" }}>
 						<TableHeader>

@@ -159,13 +159,13 @@ export const QuadrantChart = ({ data, rank }: { data: QuadrantDataType[]; rank: 
 				</div>
 				<Badge
 					variant="outline"
-					className="w-fit gap-1.5 border-primary/40 bg-primary/5 px-2.5 py-1 text-xs font-semibold capitalize sm:px-3 sm:py-1.5"
+					className="w-fit gap-1.5 border-amber-500/30 bg-amber-500/5 px-2.5 py-1 text-xs font-semibold capitalize sm:px-3 sm:py-1.5"
 				>
 					Rank: {rank}
 				</Badge>
 			</div>
 
-			<Card className="border-border/60 bg-gradient-to-br from-card via-card to-card/50">
+			<Card className="rounded-2xl border-border/60 bg-gradient-to-br from-card via-card to-card/50">
 				<CardHeader className="space-y-3 pb-3 sm:space-y-4 sm:pb-4">
 
 					<div className="flex flex-wrap gap-1.5 sm:gap-2">

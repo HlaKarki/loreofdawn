@@ -50,7 +50,7 @@ export function HeroOfTheDay({
 				</p>
 			</div>
 
-			<Card className="overflow-hidden border-2 border-amber-500 shadow-lg">
+			<Card className="overflow-hidden rounded-2xl border-2 border-amber-500 shadow-lg">
 				<div className="grid grid-cols-1 gap-0 md:grid-cols-2">
 					{/* Hero Image */}
 					<div className="relative h-64 md:h-auto">

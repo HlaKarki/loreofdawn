@@ -47,7 +47,7 @@ export function HeroCard({
 	if (!isDiscovered) {
 		return (
 			<Card
-				className="group cursor-pointer overflow-hidden border-2 pt-0 transition-all hover:border-amber-400 hover:shadow-lg"
+				className="group cursor-pointer overflow-hidden rounded-2xl border-2 border-border/60 pt-0 transition-all hover:border-amber-400 hover:shadow-lg"
 				onClick={handleClick}
 			>
 				{/* Blurred Hero Image */}
@@ -83,10 +83,10 @@ export function HeroCard({
 	// Discovered State (with optional relationship-linked styling)
 	return (
 		<Card
-			className={`group overflow-hidden pt-0 transition-all ${
+			className={`group overflow-hidden rounded-2xl pt-0 transition-all ${
 				isHighlighted
 					? "animate-glow border-2 border-purple-500 shadow-lg shadow-purple-500/50"
-					: "border hover:border-amber-400 hover:shadow-lg"
+					: "border border-border/60 hover:border-amber-400 hover:shadow-lg"
 			}`}
 		>
 			{/* Hero Image */}

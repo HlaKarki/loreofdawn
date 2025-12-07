@@ -13,9 +13,9 @@ import {
 const RANK_OPTIONS = [
 	{ value: "overall", label: "Overall" },
 	{ value: "glory", label: "Glory" },
-	{ value: "epic", label: "Epic" },
-	{ value: "legend", label: "Legend" },
-	{ value: "mythic", label: "Mythic" },
+	// { value: "epic", label: "Epic" },
+	// { value: "legend", label: "Legend" },
+	// { value: "mythic", label: "Mythic" },
 ] as const;
 
 const STORAGE_KEY = "stats-rank-preference";
@@ -55,9 +55,9 @@ export function RankSelector() {
 
 	return (
 		<div className="flex items-center gap-2">
-			<span className="text-sm text-muted-foreground">Rank</span>
+			<span className="text-sm text-muted-foreground">Rank:</span>
 			<Select value={rank} onValueChange={setRank}>
-				<SelectTrigger className="w-[140px]">
+				<SelectTrigger className="w-[120px] border-amber-500/30 bg-amber-500/5 font-medium">
 					<SelectValue />
 				</SelectTrigger>
 				<SelectContent>

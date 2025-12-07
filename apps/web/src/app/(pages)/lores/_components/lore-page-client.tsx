@@ -171,7 +171,10 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 
 					<div className="space-y-2">
 						<h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
-							Explore epic tales &amp; legends
+							Explore epic{" "}
+							<span className="bg-gradient-to-r from-amber-500 to-orange-500 bg-clip-text text-transparent">
+								tales &amp; legends
+							</span>
 						</h1>
 						<p className="max-w-3xl text-lg text-muted-foreground">
 							Discover {stats.total} hero stories enriched with themes, moods, relationships, and
@@ -364,7 +367,7 @@ const StatCard = ({
 	value: string | number;
 	subtitle: string;
 }) => (
-	<div className="rounded-2xl border border-border/80 bg-background/70 p-4">
+	<div className="rounded-2xl border border-border/60 bg-background/70 p-4">
 		<div className="flex items-center gap-2 text-sm font-semibold">
 			<Icon className="h-4 w-4 text-amber-600" />
 			{label}
@@ -381,7 +384,7 @@ const LoreCard = ({ wiki }: { wiki: WikiListing }) => {
 
 	return (
 		<Link href={`/lores/${wiki.urlName}`}>
-			<Card className="group h-full overflow-hidden border-border/70 bg-card/80 shadow-sm transition hover:-translate-y-1 hover:border-amber-400/70">
+			<Card className="group h-full overflow-hidden rounded-2xl border-border/60 bg-card/80 shadow-sm transition hover:-translate-y-1 hover:border-amber-400/70">
 				<CardContent className="space-y-3 p-5">
 					<div className="flex items-start justify-between gap-3">
 						<div className="space-y-1 flex-1">

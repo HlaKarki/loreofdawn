@@ -106,7 +106,7 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => 
 
 			<div className="space-y-6">
 				<div className="grid gap-4 lg:grid-cols-[2fr,1fr]">
-					<Card className="border-border/80 bg-card/70">
+					<Card className="rounded-2xl border-border/60 bg-card/70">
 						<CardHeader className="space-y-4">
 							<div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
 								<div className="flex items-start gap-3">
@@ -151,7 +151,7 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => 
 						<CardContent>
 							<div className="grid grid-cols-1 gap-3 sm:grid-cols-3">
 								{summaryMetrics.map(({ label, value, helper, accent, icon: Icon }) => (
-									<Card key={label} className="border-border/70 bg-background/80 py-4">
+									<Card key={label} className="rounded-xl border-border/60 bg-background/80 py-4">
 										<CardHeader className="flex flex-row items-center gap-3 px-4">
 											<div className="rounded-lg border border-border/60 bg-muted/40 p-2 text-muted-foreground">
 												<Icon className="h-4 w-4" />
@@ -174,7 +174,7 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => 
 						</CardContent>
 					</Card>
 
-					<Card className="border-border/80 bg-card/70">
+					<Card className="rounded-2xl border-border/60 bg-card/70">
 						<CardHeader className="space-y-4">
 							<div className="flex items-center justify-between text-[11px] uppercase tracking-wide text-muted-foreground">
 								<CardDescription className="text-[11px] uppercase tracking-wide text-muted-foreground">
@@ -212,7 +212,7 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => 
 										accent: rolePalette.ban,
 									},
 								].map(({ label, value, accent }) => (
-									<Card key={label} className="border-border/70 bg-background/70 py-3">
+									<Card key={label} className="rounded-xl border-border/60 bg-background/70 py-3">
 										<CardHeader className="px-4 py-0">
 											<CardDescription className="text-[11px] uppercase tracking-wide">
 												{label}
@@ -253,7 +253,7 @@ export const StatsByRoles = ({ data, lastUpdated, rank }: StatsByRolesProps) => 
 					const overlayGradient = makeOverlay(statusColor);
 
 					return (
-						<Card key={stat.role} className="relative overflow-hidden border-border/80 bg-card/80">
+						<Card key={stat.role} className="relative overflow-hidden rounded-2xl border-border/60 bg-card/80">
 							<div
 								className="pointer-events-none absolute inset-0 opacity-50"
 								style={{ backgroundImage: overlayGradient }}

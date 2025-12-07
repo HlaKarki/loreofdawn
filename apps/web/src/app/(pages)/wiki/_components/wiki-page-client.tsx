@@ -57,7 +57,12 @@ export function WikiPageClient({ heroes }: WikiPageClientProps) {
 		<div className="mx-auto flex w-full max-w-7xl flex-col gap-6 px-4 pb-16 sm:px-6 lg:px-8">
 			{/* Header */}
 			<header className="flex flex-col gap-2 pt-6">
-				<h1 className="text-4xl font-bold tracking-tight">Hero Encyclopedia</h1>
+				<h1 className="text-4xl font-bold tracking-tight">
+					Hero{" "}
+					<span className="bg-gradient-to-r from-amber-500 to-orange-500 bg-clip-text text-transparent">
+						Encyclopedia
+					</span>
+				</h1>
 				<p className="text-muted-foreground">
 					Discover {heroes.length} unique heroes through relationships and exploration
 				</p>

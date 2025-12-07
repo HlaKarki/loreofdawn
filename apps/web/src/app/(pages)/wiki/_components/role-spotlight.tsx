@@ -53,7 +53,7 @@ export function RoleSpotlight({ role, heroes, isDiscovered, onDiscover }: RoleSp
 			</div>
 
 			{/* Horizontal Scroll */}
-			<ScrollArea className="w-full whitespace-nowrap rounded-lg border">
+			<ScrollArea className="w-full whitespace-nowrap rounded-2xl border border-border/60">
 				<div className="flex gap-4 p-4">
 					{heroes.map((hero) => {
 						const discovered = isDiscovered(hero.profile.url_name);
@@ -61,7 +61,7 @@ export function RoleSpotlight({ role, heroes, isDiscovered, onDiscover }: RoleSp
 						return (
 							<Card
 								key={hero.profile.id}
-								className={`inline-block w-48 flex-shrink-0 cursor-pointer overflow-hidden transition-all hover:shadow-lg ${
+								className={`inline-block w-48 flex-shrink-0 cursor-pointer overflow-hidden rounded-xl border-border/60 transition-all hover:shadow-lg ${
 									discovered
 										? "hover:border-amber-400"
 										: "opacity-60 hover:border-amber-400 hover:opacity-80"

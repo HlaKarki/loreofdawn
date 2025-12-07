@@ -66,7 +66,7 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 				{data.map((post) => (
 					<Card
 						key={post.id}
-						className="overflow-hidden hover:shadow-md transition-shadow cursor-pointer group"
+						className="overflow-hidden rounded-2xl border-border/60 hover:shadow-md transition-shadow cursor-pointer group"
 					>
 						<a href={post.permalink} target="_blank" rel="noopener noreferrer">
 							<CardContent className="p-3 sm:p-4">

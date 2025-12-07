@@ -37,7 +37,7 @@ export function PerfectPairings({ pairings, onDiscoverPair }: PerfectPairingsPro
 				{pairings.map((pairing, index) => (
 					<Card
 						key={index}
-						className="group overflow-hidden hover:border-green-500 hover:shadow-lg"
+						className="group overflow-hidden rounded-2xl border-border/60 hover:border-green-500 hover:shadow-lg"
 					>
 						<CardContent className="p-6">
 							{/* Overlapping Portraits */}
