@@ -11,11 +11,12 @@ import {
 	DrawerTitle,
 	DrawerTrigger,
 } from "./ui/drawer";
+import { Dialog, DialogContent, DialogTitle } from "./ui/dialog";
 import React from "react";
 import { Textarea } from "./ui/textarea";
 import { ArrowUp, X } from "lucide-react";
 import Markdown from "react-markdown";
-import { useAuth, useClerk } from "@clerk/nextjs";
+import { SignIn, useAuth } from "@clerk/nextjs";
 import { useCompletion } from "@ai-sdk/react";
 import { makeUrl } from "@/lib/utils.api";
 import { useQueryClient } from "@tanstack/react-query";
@@ -25,9 +26,9 @@ import { motion } from "motion/react";
 
 export const AiChat = () => {
 	const { getToken, isSignedIn } = useAuth();
-	const { redirectToSignIn } = useClerk();
 	const queryClient = useQueryClient();
 	const [open, setOpen] = React.useState(false);
+	const [showAuthModal, setShowAuthModal] = React.useState(false);
 	const { completion, input, handleInputChange, complete, isLoading } = useCompletion({
 		api: makeUrl("/v1/ai/ask"),
 		streamProtocol: "text",
@@ -36,12 +37,12 @@ export const AiChat = () => {
 		},
 	});
 
+	const [returnUrl, setReturnUrl] = React.useState("/");
+
 	const handleOpenChange = (nextOpen: boolean) => {
 		if (nextOpen && !isSignedIn) {
-			redirectToSignIn({
-				signInFallbackRedirectUrl: window.location.href,
-				signUpFallbackRedirectUrl: window.location.href,
-			});
+			setReturnUrl(window.location.href);
+			setShowAuthModal(true);
 			return;
 		}
 		setOpen(nextOpen);
@@ -57,8 +58,23 @@ export const AiChat = () => {
 		});
 	};
 
+	// Close auth modal and open drawer once user signs in
+	React.useEffect(() => {
+		if (isSignedIn && showAuthModal) {
+			setShowAuthModal(false);
+			setOpen(true);
+		}
+	}, [isSignedIn, showAuthModal]);
+
 	return (
 		<div className={"fixed bottom-4 right-4 z-50"}>
+			<Dialog open={showAuthModal} onOpenChange={setShowAuthModal}>
+				<DialogContent className="sm:max-w-md p-0 border-none bg-transparent shadow-none">
+					<DialogTitle className="sr-only">Sign in</DialogTitle>
+					<SignIn routing="hash" fallbackRedirectUrl={returnUrl} signUpUrl="/sign-up" />
+				</DialogContent>
+			</Dialog>
+
 			<Drawer open={open} onOpenChange={handleOpenChange}>
 				<DrawerTrigger asChild>
 					<div className="relative flex items-center justify-center group">
