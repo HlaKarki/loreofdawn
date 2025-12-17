@@ -19,9 +19,9 @@ export function ExportCsv({ data, rank }: ExportCsvProps) {
 			hero.profile.name,
 			hero.profile.roles[0]?.title || "Unknown",
 			hero.profile.lanes[0]?.title || "Unknown",
-			formatPercentage(hero.meta.win_rate),
-			formatPercentage(hero.meta.pick_rate),
-			formatPercentage(hero.meta.ban_rate),
+			formatPercentage(hero.meta?.win_rate ?? 0),
+			formatPercentage(hero.meta?.pick_rate ?? 0),
+			formatPercentage(hero.meta?.ban_rate ?? 0),
 			hero.profile.difficulty ? `${hero.profile.difficulty}/100` : "N/A",
 		]);
 

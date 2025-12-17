@@ -105,7 +105,7 @@ async function StatsContent({ rank }: { rank: string }) {
 						</p>
 					</div>
 					<div className="flex items-center gap-3">
-						<UpdatedAtLabel date={tableData[0].meta.updatedAt} />
+						{tableData[0] && <UpdatedAtLabel date={tableData[0].meta.updatedAt} />}
 						<RankSelector />
 					</div>
 				</div>

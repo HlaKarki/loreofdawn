@@ -95,9 +95,13 @@ export function DataTable({ data, rank }: DataTableProps) {
 
 		// Filter data based on rate filters
 		return data.filter((hero) => {
+			// Skip heroes without meta data
+			if (!hero.meta) return false;
+
 			// Check all active filters - hero must pass all of them
 			return rateFilters.every((filter) => {
-				const value = hero.meta[filter.type];
+				// Use non-null assertion since we checked above
+				const value = hero.meta![filter.type];
 
 				// Check min condition
 				if (filter.min !== undefined && value < filter.min) {

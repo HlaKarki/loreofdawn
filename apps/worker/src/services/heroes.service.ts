@@ -76,11 +76,11 @@ export class HeroService {
 		const includeMatchups = include.includes("matchups");
 		const includeGraph = include.includes("graph");
 
-		// Build the query
+		// Build the query - use INNER JOIN for meta to exclude heroes without stats
 		let query = this.db
 			.select()
 			.from(heroProfileTable)
-			.leftJoin(
+			.innerJoin(
 				heroMetaDataTable,
 				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
 			)
@@ -171,11 +171,12 @@ export class HeroService {
 		// Transform results based on what was requested
 		return results.map((row) => {
 			const profile = row.hero_profiles;
+			const meta = row.hero_metas;
 
 			return {
 				profile,
-				// Conditionally include meta, matchups, graph
-				...(includeMeta && row.hero_metas && { meta: row.hero_metas }),
+				meta, // Always included (INNER JOIN)
+				// Matchups and graph are optional (LEFT JOIN)
 				...(includeMatchups && row.hero_matchups && { matchups: row.hero_matchups }),
 				...(includeGraph && row.hero_graphs && { graph: row.hero_graphs }),
 			};
@@ -216,7 +217,9 @@ export class HeroService {
 	}
 
 	/**
-	 * Get consolidated data profile with matchups, meta, and graph data (LEFT JOIN version)
+	 * Get consolidated data profile with matchups, meta, and graph data
+	 * Uses INNER JOIN for meta to ensure hero has stats
+	 * Uses LEFT JOIN for matchups and graph (optional)
 	 */
 	async getHeroProfile(name: string, rank: string) {
 		const normalizedName = name.trim().toLowerCase().replaceAll("_", " ");
@@ -224,13 +227,13 @@ export class HeroService {
 		const result = await this.db
 			.select()
 			.from(heroProfileTable)
+			.innerJoin(
+				heroMetaDataTable,
+				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
+			)
 			.leftJoin(
 				heroMatchupTable,
 				and(ilike(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
-			)
-			.leftJoin(
-				heroMetaDataTable,
-				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
 			)
 			.leftJoin(
 				heroGraphDataTable,
@@ -267,7 +270,7 @@ export class HeroService {
 				heroCount: sql<number>`COUNT(*)`,
 			})
 			.from(heroProfileTable)
-			.leftJoin(
+			.innerJoin(
 				heroMetaDataTable,
 				and(
 					ilike(heroProfileTable.name, heroMetaDataTable.name),
@@ -282,7 +285,8 @@ export class HeroService {
 	}
 
 	/**
-	 * Seed KV cache with data data for a specific data and rank
+	 * Seed KV cache with hero data for a specific hero and rank
+	 * Only caches heroes that have meta data (INNER JOIN)
 	 */
 	async seedHeroCache(heroName: string, rank: string): Promise<void> {
 		const normalizedName = heroName.trim().toLowerCase().replaceAll("_", " ");
@@ -290,13 +294,13 @@ export class HeroService {
 		const result = await this.db
 			.select()
 			.from(heroProfileTable)
+			.innerJoin(
+				heroMetaDataTable,
+				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
+			)
 			.leftJoin(
 				heroMatchupTable,
 				and(ilike(heroProfileTable.name, heroMatchupTable.name), eq(heroMatchupTable.rank, rank)),
-			)
-			.leftJoin(
-				heroMetaDataTable,
-				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
 			)
 			.leftJoin(
 				heroGraphDataTable,
@@ -343,6 +347,7 @@ export class HeroService {
 
 	/**
 	 * Get data points for Quadrant Graph
+	 * Uses INNER JOIN to only return heroes with meta data
 	 */
 	async getQuadrantData(rank: string = "overall") {
 		return await this.db
@@ -355,7 +360,7 @@ export class HeroService {
 				banRate: heroMetaDataTable.ban_rate,
 			})
 			.from(heroProfileTable)
-			.leftJoin(
+			.innerJoin(
 				heroMetaDataTable,
 				and(ilike(heroProfileTable.name, heroMetaDataTable.name), eq(heroMetaDataTable.rank, rank)),
 			);
@@ -382,6 +387,7 @@ export class HeroService {
 	/**
 	 * Get full table data
 	 * Includes hero_profiles and hero_metas
+	 * Uses INNER JOIN to only return heroes with meta data
 	 */
 	async getTableData(rank: string = "overall") {
 		return await this.db
@@ -390,7 +396,7 @@ export class HeroService {
 				meta: heroMetaDataTable,
 			})
 			.from(heroProfileTable)
-			.leftJoin(
+			.innerJoin(
 				heroMetaDataTable,
 				and(
 					ilike(heroProfileTable.name, heroMetaDataTable.name),

@@ -5,7 +5,7 @@ import type { Env } from "@/types";
 import { createDb } from "@/db";
 import { heroRolesEnum } from "@repo/database";
 
-const cv = "v1.0.2";
+const cv = "v1.0.1";
 
 export const heroesRouter = new Hono<Env>();
 
@@ -33,7 +33,7 @@ heroesRouter.get("/", async (c) => {
 	const limitNum = limit ? parseInt(limit, 10) : 10;
 	const includeFields = include ? include.split(",") : [];
 
-	const shaKey = await cacheKvLayer.shaCacheKey("heroes:query:v0", undefined, queryParams);
+	const shaKey = await cacheKvLayer.shaCacheKey("heroes:query:v1", undefined, queryParams);
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
 
 	return cacheKvLayer.respond(c, shaKey, async () => {
@@ -43,7 +43,7 @@ heroesRouter.get("/", async (c) => {
 			roles,
 			limit: limitNum,
 			sort,
-			rank,
+			rank: rank ?? "overall",
 			include: includeFields,
 			minBanRate: minBanRate ? parseFloat(minBanRate) : undefined,
 			minWinRate: minWinRate ? parseFloat(minWinRate) : undefined,

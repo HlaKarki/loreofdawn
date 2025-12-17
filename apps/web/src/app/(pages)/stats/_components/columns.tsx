@@ -201,7 +201,7 @@ export const createColumns = (
 			</SortableHeader>
 		),
 		cell: ({ row }) => {
-			const winRate = row.original.meta.win_rate;
+			const winRate = row.original.meta?.win_rate ?? 0;
 			const colorClass = getWinRateColor(winRate);
 
 			return (
@@ -227,7 +227,7 @@ export const createColumns = (
 			</SortableHeader>
 		),
 		cell: ({ row }) => {
-			const banRate = row.original.meta.ban_rate;
+			const banRate = row.original.meta?.ban_rate ?? 0;
 
 			return (
 				<div
@@ -252,7 +252,7 @@ export const createColumns = (
 			</SortableHeader>
 		),
 		cell: ({ row }) => {
-			const pickRate = row.original.meta.pick_rate;
+			const pickRate = row.original.meta?.pick_rate ?? 0;
 
 			return (
 				<div

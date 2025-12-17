@@ -11,7 +11,7 @@ type TopThreeProps = {
 };
 
 export const TopThree = ({ data, title = "Top Heroes", description }: TopThreeProps) => {
-	const updatedAt = (data.length && data[0].meta.updatedAt) ?? undefined;
+	const updatedAt = data.length > 0 ? data[0]?.meta?.updatedAt : undefined;
 
 	return (
 		<div className="mb-12">

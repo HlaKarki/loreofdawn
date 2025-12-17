@@ -73,7 +73,9 @@ async function MetaContent({ rank }: { rank: string }) {
 		{
 			label: "Meta King",
 			value: metaKing?.profile.name ?? "—",
-			description: metaKing ? `${(metaKing.meta.ban_rate * 100).toFixed(1)}% ban rate` : "Loading...",
+			description: metaKing?.meta
+				? `${(metaKing.meta.ban_rate * 100).toFixed(1)}% ban rate`
+				: "Loading...",
 			icon: Crown,
 			iconBg: "bg-amber-500/10",
 			iconColor: "text-amber-600",
@@ -81,7 +83,9 @@ async function MetaContent({ rank }: { rank: string }) {
 		{
 			label: "Hidden Gem",
 			value: hiddenGem?.profile.name ?? "—",
-			description: hiddenGem ? `${(hiddenGem.meta.win_rate * 100).toFixed(1)}% win rate` : "Loading...",
+			description: hiddenGem?.meta
+				? `${(hiddenGem.meta.win_rate * 100).toFixed(1)}% win rate`
+				: "Loading...",
 			icon: Gem,
 			iconBg: "bg-emerald-500/10",
 			iconColor: "text-emerald-600",
@@ -89,7 +93,9 @@ async function MetaContent({ rank }: { rank: string }) {
 		{
 			label: "Dominant Role",
 			value: topRole ? `${topRole.role}s` : "—",
-			description: topRole ? `${(topRole.averageWinRate * 100).toFixed(1)}% avg win rate` : "Loading...",
+			description: topRole
+				? `${(topRole.averageWinRate * 100).toFixed(1)}% avg win rate`
+				: "Loading...",
 			icon: Users,
 			iconBg: "bg-sky-500/10",
 			iconColor: "text-sky-600",
@@ -147,7 +153,7 @@ async function MetaContent({ rank }: { rank: string }) {
 			{/* Stats by Role */}
 			<StatsByRoles
 				data={statsByRoleData.data}
-				lastUpdated={topThreeData[0]?.meta.updatedAt}
+				lastUpdated={topThreeData[0]?.meta?.updatedAt}
 				rank={rank}
 			/>
 
