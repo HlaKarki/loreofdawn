@@ -1,73 +1,132 @@
-# loreofdawn
+# Lore of Dawn
 
-This project was created with [Better-T-Stack](https://github.com/AmanVarshney01/create-better-t-stack), a modern TypeScript stack that combines Next.js, Hono, TRPC, and more.
+A comprehensive Mobile Legends companion platform that combines real-time hero analytics with curated lore content. Built to help players make data-driven decisions and explore the rich storytelling universe of Mobile Legends: Bang Bang.
+
+**Live:** [loreofdawn.com](https://loreofdawn.com)
 
 ## Features
 
-- **TypeScript** - For type safety and improved developer experience
-- **Next.js** - Full-stack React framework
-- **TailwindCSS** - Utility-first CSS for rapid UI development
-- **shadcn/ui** - Reusable UI components
-- **Hono** - Lightweight, performant server framework
-- **tRPC** - End-to-end type-safe APIs
-- **Bun** - Runtime environment
-- **Drizzle** - TypeScript-first ORM
-- **PostgreSQL** - Database engine
-- **Authentication** - Better-Auth
-- **Turborepo** - Optimized monorepo build system
-- **PWA** - Progressive Web App support
+### Hero Analytics
+- **Live Meta Statistics** - Real-time win rates, pick rates, and ban rates by rank
+- **Hero Matchups** - Data-driven counter picks and synergies
+- **Performance Tracking** - Historical trends and quadrant visualizations
+- **Advanced Filtering** - Search by role, lane, difficulty, and performance metrics
 
-## Getting Started
+### Lore Library
+- **Complete Hero Stories** - All hero backstories in an organized, readable format
+- **Smart Tagging** - AI-powered metadata for moods, themes, and character relationships
+- **Featured Content** - Hero of the day and curated story recommendations
+- **Search & Discovery** - Find stories by mood, theme, or character connections
 
-First, install the dependencies:
+### AI Assistant
+- **Natural Language Queries** - Ask questions about heroes, meta, and matchups
+- **Data-Backed Answers** - Powered by live database statistics
+- **Credit System** - Stripe-integrated monetization with account tiers
 
-```bash
-bun install
-```
-## Database Setup
+## Tech Stack
 
-This project uses PostgreSQL with Drizzle ORM.
+### Frontend
+- **Next.js 15** with React 19 and TypeScript
+- **TailwindCSS v4** for styling
+- **shadcn/ui** component library
+- **Clerk** for authentication
 
-1. Make sure you have a PostgreSQL database set up.
-2. Update your `apps/server/.env` file with your PostgreSQL connection details.
+### Backend
+- **Cloudflare Workers** - Edge API with global caching
+- **Hono** - Lightweight, high-performance server framework
+- **Drizzle ORM** with PostgreSQL (Supabase)
+- **Cloudflare Hyperdrive** - Connection pooling and query acceleration
+- **Cloudflare KV** - Edge caching layer
+- **Durable Objects** - Rate limiting
 
-3. Apply the schema to your database:
-```bash
-bun db:push
-```
+### Data Pipeline
+- **Automated Cron Jobs** - Regular data synchronization
+- **API Integration** - Mobile Legends Wiki and game data APIs
+- **Content Processing** - AI-powered metadata extraction and tagging
 
-
-Then, run the development server:
-
-```bash
-bun dev
-```
-
-Open [http://localhost:3001](http://localhost:3001) in your browser to see the web application.
-The API is running at [http://localhost:3000](http://localhost:3000).
-
-
-
-
-
-
+### Payments
+- **Stripe** - Subscription management with webhooks
 
 ## Project Structure
 
 ```
 loreofdawn/
 ├── apps/
-│   ├── web/         # Frontend application (Next.js)
-│   └── server/      # Backend API (Hono, TRPC)
+│   ├── web/         # Next.js frontend
+│   ├── worker/      # Cloudflare Workers edge API
+│   ├── server/      # Sync server for data pipeline
+│   └── crons/       # Scheduled tasks for data updates
+├── packages/
+│   ├── database/    # Drizzle schema and types
+│   └── utils/       # Shared utilities
 ```
 
-## Available Scripts
+## Getting Started
 
-- `bun dev`: Start all applications in development mode
-- `bun build`: Build all applications
-- `bun dev:web`: Start only the web application
-- `bun dev:server`: Start only the server
-- `bun check-types`: Check TypeScript types across all apps
-- `bun db:push`: Push schema changes to database
-- `bun db:studio`: Open database studio UI
-- `cd apps/web && bun generate-pwa-assets`: Generate PWA assets
+### Prerequisites
+- Bun runtime
+- PostgreSQL database (or Supabase account)
+- Cloudflare account (for Workers deployment)
+
+### Installation
+
+```bash
+# Install dependencies
+bun install
+
+# Set up environment variables
+cp apps/web/.env.example apps/web/.env
+cp apps/worker/.dev.vars.example apps/worker/.dev.vars
+
+# Push database schema
+cd packages/database
+bun db:push
+```
+
+### Development
+
+```bash
+# Run all apps in development mode
+bun dev
+
+# Or run individual apps
+bun dev:web      # Frontend (http://localhost:1201)
+bun dev:worker   # Worker API (http://localhost:8788)
+bun dev:server   # Sync server (http://localhost:3000)
+```
+
+### Database
+
+```bash
+# Generate migrations
+bun db:generate
+
+# Apply migrations
+bun db:push
+
+# Open Drizzle Studio
+bun db:studio
+```
+
+## Environment Variables
+
+### Web (`apps/web/.env`)
+- `NEXT_PUBLIC_SERVER_URL` - Worker API endpoint
+- `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` - Clerk public key
+- `CLERK_SECRET_KEY` - Clerk secret key
+
+### Worker (`apps/worker/.dev.vars`)
+- `OPENAI_API_KEY` - OpenAI API key for AI features
+- `CLERK_SECRET_KEY` - Clerk authentication
+- `STRIPE_SECRET_KEY` - Stripe payments
+- `CLOUDFLARE_HYPERDRIVE_LOCAL_CONNECTION_STRING_HYPERDRIVE` - Local DB connection
+
+## Deployment
+
+### Frontend (Railway)
+
+### Worker (Cloudflare)
+```bash
+cd apps/worker
+wrangler deploy
+```
