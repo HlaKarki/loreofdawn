@@ -4,31 +4,31 @@
 	"private": true,
 	"scripts": {
 		"deploy": "wrangler deploy",
-		"dev": "concurrently -n \"wrangler,proxy\" -c \"cyan,green\" \"wrangler dev --remote\" \"bun proxy.js\"",
+		"dev": "concurrently -n \"wrangler,proxy\" -c \"cyan,green\" \"wrangler dev\" \"bun proxy.js\"",
 		"dev:local": "wrangler dev --host 0.0.0.0",
 		"start": "wrangler dev",
 		"cf-typegen": "wrangler types",
 		"proxy": "bun proxy.js"
 	},
 	"dependencies": {
-		"@ai-sdk/deepseek": "^1.0.23",
-		"@ai-sdk/google": "^2.0.23",
-		"@ai-sdk/openai": "^2.0.68",
-		"@clerk/backend": "^2.19.1",
+		"@ai-sdk/deepseek": "^1.0.35",
+		"@ai-sdk/google": "^2.0.62",
+		"@ai-sdk/openai": "^2.0.99",
+		"@clerk/backend": "^2.33.0",
 		"@repo/database": "workspace:*",
 		"@repo/utils": "workspace:*",
-		"ai": "^5.0.76",
-		"drizzle-orm": "^0.44.2",
-		"hono": "^4.6.14",
-		"postgres": "^3.4.5",
+		"ai": "^5.0.153",
+		"drizzle-orm": "^0.44.7",
+		"hono": "^4.12.7",
+		"postgres": "^3.4.8",
 		"react-markdown": "^10.1.0",
 		"stripe": "^19.3.1",
-		"svix": "^1.81.0",
-		"zod": "^3.24.1"
+		"svix": "^1.88.0",
+		"zod": "^3.25.76"
 	},
 	"devDependencies": {
 		"concurrently": "^9.2.1",
-		"typescript": "^5.5.2",
-		"wrangler": "^4.47.0"
+		"typescript": "^5.9.3",
+		"wrangler": "^4.72.0"
 	}
 }
