@@ -1,0 +1,44 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "worker",
+	"main": "src/index.ts",
+	"compatibility_date": "2025-10-08",
+	"compatibility_flags": ["nodejs_compat"],
+	"observability": {
+		"enabled": true,
+	},
+	"triggers": {
+		"crons": ["2 */3 * * *"],
+	},
+	"hyperdrive": [
+		{
+			"binding": "HYPERDRIVE",
+			"id": "be8e312c9c714138a820adc977a4d18c",
+		},
+		{
+			"binding": "HYPERDRIVE_READONLY",
+			"id": "4bffbb5be0344cd6af960f6838bc06a2",
+		},
+	],
+	"kv_namespaces": [
+		{
+			"binding": "KV",
+			"id": "3bf3564221ef4c26a25a64da50529059",
+			"preview_id": "556d6a796ffe4153ba3794880f158452",
+		},
+	],
+	"durable_objects": {
+		"bindings": [
+			{
+				"name": "RateLimiter",
+				"class_name": "RateLimitBucket",
+			},
+		],
+	},
+	"migrations": [
+		{
+			"tag": "v1",
+			"new_classes": ["RateLimitBucket"],
+		},
+	],
+}
