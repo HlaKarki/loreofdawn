@@ -42,7 +42,6 @@ const formatPercent = (value?: number, digits = 1) =>
 const resolveImageSrc = (...sources: (string | undefined | null)[]) =>
 	sources.find((s) => s && s.trim() !== "") || null;
 
-const toSlug = (name: string) => name.toLowerCase().replace(/\s+/g, "-");
 
 export function QuickStats() {
 	const [rank, setRank] = useState("glory");
@@ -213,7 +212,7 @@ export function QuickStats() {
 								stat.hero.profile.images.squarehead_big,
 								stat.hero.profile.images.head_big,
 							);
-							const heroSlug = toSlug(stat.hero.profile.name);
+							const heroSlug = stat.hero.profile.url_name;
 							const delta = stat.value - stat.average;
 							const progress = Math.min(100, Math.max(8, (stat.value / maxRate) * 100));
 

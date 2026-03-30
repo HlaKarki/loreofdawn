@@ -47,7 +47,7 @@ export const MetaTeaser = ({ metaKings }: MetaTeaserProps) => {
 					return (
 						<Link
 							key={hero.profile.id}
-							href={`/heroes/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}
+							href={`/heroes/${hero.profile.url_name}`}
 							className="group flex items-center gap-3 rounded-xl border border-border/40 bg-background/50 p-3 transition-colors hover:border-border hover:bg-background"
 						>
 							{/* Rank */}
