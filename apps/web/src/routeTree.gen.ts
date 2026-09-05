@@ -10,8 +10,17 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as HeroesRouteImport } from './routes/heroes'
+import { Route as LoresRouteImport } from './routes/lores'
 import { Route as ManifestDotwebmanifestRouteImport } from './routes/manifest[.]webmanifest'
+import { Route as MetaRouteImport } from './routes/meta'
 import { Route as RobotsDottxtRouteImport } from './routes/robots[.]txt'
+import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as StatsRouteImport } from './routes/stats'
+import { Route as HeroesIndexRouteImport } from './routes/heroes.index'
+import { Route as HeroesHeroRouteImport } from './routes/heroes.$hero'
+import { Route as LoresIndexRouteImport } from './routes/lores.index'
+import { Route as LoresHeroRouteImport } from './routes/lores.$hero'
 import { Route as SignInSplatRouteImport } from './routes/sign-in.$'
 import { Route as SignUpSplatRouteImport } from './routes/sign-up.$'
 
@@ -20,15 +29,60 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const HeroesRoute = HeroesRouteImport.update({
+  id: '/heroes',
+  path: '/heroes',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const LoresRoute = LoresRouteImport.update({
+  id: '/lores',
+  path: '/lores',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ManifestDotwebmanifestRoute = ManifestDotwebmanifestRouteImport.update({
   id: '/manifest.webmanifest',
   path: '/manifest.webmanifest',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MetaRoute = MetaRouteImport.update({
+  id: '/meta',
+  path: '/meta',
   getParentRoute: () => rootRouteImport,
 } as any)
 const RobotsDottxtRoute = RobotsDottxtRouteImport.update({
   id: '/robots.txt',
   path: '/robots.txt',
   getParentRoute: () => rootRouteImport,
+} as any)
+const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
+  id: '/sitemap.xml',
+  path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const StatsRoute = StatsRouteImport.update({
+  id: '/stats',
+  path: '/stats',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HeroesIndexRoute = HeroesIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => HeroesRoute,
+} as any)
+const HeroesHeroRoute = HeroesHeroRouteImport.update({
+  id: '/$hero',
+  path: '/$hero',
+  getParentRoute: () => HeroesRoute,
+} as any)
+const LoresIndexRoute = LoresIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => LoresRoute,
+} as any)
+const LoresHeroRoute = LoresHeroRouteImport.update({
+  id: '/$hero',
+  path: '/$hero',
+  getParentRoute: () => LoresRoute,
 } as any)
 const SignInSplatRoute = SignInSplatRouteImport.update({
   id: '/sign-in/$',
@@ -43,54 +97,109 @@ const SignUpSplatRoute = SignUpSplatRouteImport.update({
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/heroes': typeof HeroesRouteWithChildren
+  '/lores': typeof LoresRouteWithChildren
   '/manifest.webmanifest': typeof ManifestDotwebmanifestRoute
+  '/meta': typeof MetaRoute
   '/robots.txt': typeof RobotsDottxtRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/stats': typeof StatsRoute
+  '/heroes/$hero': typeof HeroesHeroRoute
+  '/lores/$hero': typeof LoresHeroRoute
   '/sign-in/$': typeof SignInSplatRoute
   '/sign-up/$': typeof SignUpSplatRoute
+  '/heroes/': typeof HeroesIndexRoute
+  '/lores/': typeof LoresIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/manifest.webmanifest': typeof ManifestDotwebmanifestRoute
+  '/meta': typeof MetaRoute
   '/robots.txt': typeof RobotsDottxtRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/stats': typeof StatsRoute
+  '/heroes/$hero': typeof HeroesHeroRoute
+  '/lores/$hero': typeof LoresHeroRoute
   '/sign-in/$': typeof SignInSplatRoute
   '/sign-up/$': typeof SignUpSplatRoute
+  '/heroes': typeof HeroesIndexRoute
+  '/lores': typeof LoresIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/heroes': typeof HeroesRouteWithChildren
+  '/lores': typeof LoresRouteWithChildren
   '/manifest.webmanifest': typeof ManifestDotwebmanifestRoute
+  '/meta': typeof MetaRoute
   '/robots.txt': typeof RobotsDottxtRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
+  '/stats': typeof StatsRoute
+  '/heroes/$hero': typeof HeroesHeroRoute
+  '/lores/$hero': typeof LoresHeroRoute
   '/sign-in/$': typeof SignInSplatRoute
   '/sign-up/$': typeof SignUpSplatRoute
+  '/heroes/': typeof HeroesIndexRoute
+  '/lores/': typeof LoresIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
   fullPaths:
     | '/'
+    | '/heroes'
+    | '/lores'
     | '/manifest.webmanifest'
+    | '/meta'
     | '/robots.txt'
+    | '/sitemap.xml'
+    | '/stats'
+    | '/heroes/$hero'
+    | '/lores/$hero'
     | '/sign-in/$'
     | '/sign-up/$'
+    | '/heroes/'
+    | '/lores/'
   fileRoutesByTo: FileRoutesByTo
   to:
     | '/'
     | '/manifest.webmanifest'
+    | '/meta'
     | '/robots.txt'
+    | '/sitemap.xml'
+    | '/stats'
+    | '/heroes/$hero'
+    | '/lores/$hero'
     | '/sign-in/$'
     | '/sign-up/$'
+    | '/heroes'
+    | '/lores'
   id:
     | '__root__'
     | '/'
+    | '/heroes'
+    | '/lores'
     | '/manifest.webmanifest'
+    | '/meta'
     | '/robots.txt'
+    | '/sitemap.xml'
+    | '/stats'
+    | '/heroes/$hero'
+    | '/lores/$hero'
     | '/sign-in/$'
     | '/sign-up/$'
+    | '/heroes/'
+    | '/lores/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  HeroesRoute: typeof HeroesRouteWithChildren
+  LoresRoute: typeof LoresRouteWithChildren
   ManifestDotwebmanifestRoute: typeof ManifestDotwebmanifestRoute
+  MetaRoute: typeof MetaRoute
   RobotsDottxtRoute: typeof RobotsDottxtRoute
+  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
+  StatsRoute: typeof StatsRoute
   SignInSplatRoute: typeof SignInSplatRoute
   SignUpSplatRoute: typeof SignUpSplatRoute
 }
@@ -104,11 +213,32 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/heroes': {
+      id: '/heroes'
+      path: '/heroes'
+      fullPath: '/heroes'
+      preLoaderRoute: typeof HeroesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/lores': {
+      id: '/lores'
+      path: '/lores'
+      fullPath: '/lores'
+      preLoaderRoute: typeof LoresRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/manifest.webmanifest': {
       id: '/manifest.webmanifest'
       path: '/manifest.webmanifest'
       fullPath: '/manifest.webmanifest'
       preLoaderRoute: typeof ManifestDotwebmanifestRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/meta': {
+      id: '/meta'
+      path: '/meta'
+      fullPath: '/meta'
+      preLoaderRoute: typeof MetaRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/robots.txt': {
@@ -117,6 +247,48 @@ declare module '@tanstack/react-router' {
       fullPath: '/robots.txt'
       preLoaderRoute: typeof RobotsDottxtRouteImport
       parentRoute: typeof rootRouteImport
+    }
+    '/sitemap.xml': {
+      id: '/sitemap.xml'
+      path: '/sitemap.xml'
+      fullPath: '/sitemap.xml'
+      preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/stats': {
+      id: '/stats'
+      path: '/stats'
+      fullPath: '/stats'
+      preLoaderRoute: typeof StatsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/heroes/': {
+      id: '/heroes/'
+      path: '/'
+      fullPath: '/heroes/'
+      preLoaderRoute: typeof HeroesIndexRouteImport
+      parentRoute: typeof HeroesRoute
+    }
+    '/heroes/$hero': {
+      id: '/heroes/$hero'
+      path: '/$hero'
+      fullPath: '/heroes/$hero'
+      preLoaderRoute: typeof HeroesHeroRouteImport
+      parentRoute: typeof HeroesRoute
+    }
+    '/lores/': {
+      id: '/lores/'
+      path: '/'
+      fullPath: '/lores/'
+      preLoaderRoute: typeof LoresIndexRouteImport
+      parentRoute: typeof LoresRoute
+    }
+    '/lores/$hero': {
+      id: '/lores/$hero'
+      path: '/$hero'
+      fullPath: '/lores/$hero'
+      preLoaderRoute: typeof LoresHeroRouteImport
+      parentRoute: typeof LoresRoute
     }
     '/sign-in/$': {
       id: '/sign-in/$'
@@ -135,10 +307,40 @@ declare module '@tanstack/react-router' {
   }
 }
 
+interface HeroesRouteChildren {
+  HeroesHeroRoute: typeof HeroesHeroRoute
+  HeroesIndexRoute: typeof HeroesIndexRoute
+}
+
+const HeroesRouteChildren: HeroesRouteChildren = {
+  HeroesHeroRoute: HeroesHeroRoute,
+  HeroesIndexRoute: HeroesIndexRoute,
+}
+
+const HeroesRouteWithChildren =
+  HeroesRoute._addFileChildren(HeroesRouteChildren)
+
+interface LoresRouteChildren {
+  LoresHeroRoute: typeof LoresHeroRoute
+  LoresIndexRoute: typeof LoresIndexRoute
+}
+
+const LoresRouteChildren: LoresRouteChildren = {
+  LoresHeroRoute: LoresHeroRoute,
+  LoresIndexRoute: LoresIndexRoute,
+}
+
+const LoresRouteWithChildren = LoresRoute._addFileChildren(LoresRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  HeroesRoute: HeroesRouteWithChildren,
+  LoresRoute: LoresRouteWithChildren,
   ManifestDotwebmanifestRoute: ManifestDotwebmanifestRoute,
+  MetaRoute: MetaRoute,
   RobotsDottxtRoute: RobotsDottxtRoute,
+  SitemapDotxmlRoute: SitemapDotxmlRoute,
+  StatsRoute: StatsRoute,
   SignInSplatRoute: SignInSplatRoute,
   SignUpSplatRoute: SignUpSplatRoute,
 }
