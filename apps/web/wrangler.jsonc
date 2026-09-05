@@ -1,7 +1,7 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
 	"name": "loreofdawn-site",
-	"main": "@tanstack/react-start/server-entry",
+	"main": "src/server.ts",
 	"compatibility_date": "2026-09-01",
 	"compatibility_flags": ["nodejs_compat"],
 	"observability": {
