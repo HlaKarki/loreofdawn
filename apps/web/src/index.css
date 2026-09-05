@@ -15,9 +15,6 @@
 @theme {
     --font-sans: "Inter", "Geist", ui-sans-serif, system-ui, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-}
-
-:root {
     --font-geist-sans: "Geist Variable", ui-sans-serif, system-ui, sans-serif;
     --font-geist-mono: "Geist Mono Variable", ui-monospace, SFMono-Regular, Menlo, monospace;
     --font-quicksand: "Quicksand", ui-sans-serif, system-ui, sans-serif;
