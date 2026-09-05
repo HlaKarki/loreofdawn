@@ -40,6 +40,7 @@ export const Route = createFileRoute("/lores/")({
 			{ name: "twitter:title", content: socialTitle },
 			{ name: "twitter:description", content: socialDescription },
 			{ name: "twitter:image", content: ogImage },
+			{ property: "og:url", content: "https://loreofdawn.com/lores" },
 		],
 		links: [{ rel: "canonical", href: "https://loreofdawn.com/lores" }],
 	}),

@@ -61,6 +61,10 @@ export const Route = createFileRoute("/heroes/$hero")({
 				},
 				{ property: "og:title", content: `${displayName} | Lore of Dawn` },
 				{ property: "og:description", content: description },
+				{
+					property: "og:url",
+					content: `https://loreofdawn.com/heroes/${profile.url_name}`,
+				},
 				...(heroImage
 					? [
 							{ property: "og:image", content: heroImage },

@@ -72,6 +72,7 @@ export const Route = createFileRoute("/lores/$hero")({
 				},
 				{ property: "og:title", content: socialTitle },
 				{ property: "og:description", content: description },
+				{ property: "og:url", content: `https://loreofdawn.com/lores/${heroName}` },
 				{ property: "og:image", content: image },
 				{ property: "og:image:width", content: heroImage ? "800" : "1200" },
 				{ property: "og:image:height", content: heroImage ? "800" : "630" },

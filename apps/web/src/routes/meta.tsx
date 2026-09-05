@@ -70,6 +70,7 @@ export const Route = createFileRoute("/meta")({
 			{ name: "twitter:title", content: socialTitle },
 			{ name: "twitter:description", content: socialDescription },
 			{ name: "twitter:image", content: ogImage },
+			{ property: "og:url", content: "https://loreofdawn.com/meta" },
 		],
 		links: [{ rel: "canonical", href: "https://loreofdawn.com/meta" }],
 	}),

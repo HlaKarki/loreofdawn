@@ -47,6 +47,7 @@ export const Route = createFileRoute("/stats")({
 			{ name: "twitter:title", content: socialTitle },
 			{ name: "twitter:description", content: socialDescription },
 			{ name: "twitter:image", content: ogImage },
+			{ property: "og:url", content: "https://loreofdawn.com/stats" },
 		],
 		links: [{ rel: "canonical", href: "https://loreofdawn.com/stats" }],
 	}),

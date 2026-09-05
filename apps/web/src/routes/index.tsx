@@ -28,6 +28,7 @@ export const Route = createFileRoute("/")({
 		};
 	},
 	head: () => ({
+		meta: [{ property: "og:url", content: "https://loreofdawn.com" }],
 		links: [{ rel: "canonical", href: "https://loreofdawn.com" }],
 	}),
 	component: Home,

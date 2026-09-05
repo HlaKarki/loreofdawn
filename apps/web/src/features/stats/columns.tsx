@@ -1,3 +1,4 @@
+import { Link } from "@tanstack/react-router";
 import { type ColumnDef } from "@tanstack/react-table";
 import { ArrowUp, ArrowDown } from "lucide-react";
 import type { ConsolidatedHeroOptional } from "@repo/database";
@@ -134,8 +135,10 @@ export const createColumns = (
 			// Compact mode: no image, just name
 			if (!densityConfig.showHeroImage) {
 				return (
-					<a
-						href={`/heroes/${encodeURIComponent(urlName)}?rank=overall`}
+					<Link
+						to="/heroes/$hero"
+						params={{ hero: urlName }}
+						search={{ rank: "overall" }}
 						className="flex items-center justify-center py-1 cursor-pointer transition-opacity hover:opacity-80 group"
 					>
 						<span
@@ -147,14 +150,16 @@ export const createColumns = (
 						>
 							{tidyLabel(name)}
 						</span>
-					</a>
+					</Link>
 				);
 			}
 
 			// Normal/Comfortable mode: show image
 			return (
-				<a
-					href={`/heroes/${encodeURIComponent(urlName)}?rank=overall`}
+				<Link
+					to="/heroes/$hero"
+					params={{ hero: urlName }}
+					search={{ rank: "overall" }}
 					className="flex flex-col items-center gap-1.5 py-1 cursor-pointer transition-opacity hover:opacity-80 group"
 				>
 					<div
@@ -180,7 +185,7 @@ export const createColumns = (
 					>
 						{tidyLabel(name)}
 					</span>
-				</a>
+				</Link>
 			);
 		},
 		size: densityConfig.showHeroImage

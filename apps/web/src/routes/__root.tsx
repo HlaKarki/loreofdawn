@@ -51,7 +51,6 @@ export const Route = createRootRoute({
 			},
 			{ property: "og:type", content: "website" },
 			{ property: "og:locale", content: "en_US" },
-			{ property: "og:url", content: siteConfig.url },
 			{ property: "og:site_name", content: siteConfig.name },
 			{ property: "og:title", content: siteConfig.name },
 			{ property: "og:description", content: siteConfig.description },

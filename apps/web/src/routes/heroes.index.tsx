@@ -25,6 +25,7 @@ const formatPercent = (value?: number, digits = 1) =>
 
 export const Route = createFileRoute("/heroes/")({
 	head: () => ({
+		meta: [{ property: "og:url", content: "https://loreofdawn.com/heroes" }],
 		links: [{ rel: "canonical", href: "https://loreofdawn.com/heroes" }],
 	}),
 	component: HeroesPage,
