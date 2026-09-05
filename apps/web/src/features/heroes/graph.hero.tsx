@@ -42,7 +42,7 @@ function nicePaddedDomain(min: number, max: number, pad = 0.15): [number, number
 
 function formatXAxisDate(d: string) {
 	const dt = new Date(d + "T00:00:00Z");
-	return dt.toLocaleDateString(undefined, { month: "short", day: "numeric" });
+	return dt.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
 }
 
 export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
@@ -115,14 +115,16 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 							{isDualAxis ? "Metrics Comparison" : `${CHART_CONFIG[leftMetric].label} over time`}
 						</h3>
 						<p className="text-xs md:text-sm text-muted-foreground">
-							{new Date(data.trend_start!).toLocaleDateString(undefined, {
+							{new Date(data.trend_start!).toLocaleDateString("en-US", {
 								month: "short",
 								day: "numeric",
+								timeZone: "UTC",
 							})}{" "}
 							–{" "}
-							{new Date(data.trend_end!).toLocaleDateString(undefined, {
+							{new Date(data.trend_end!).toLocaleDateString("en-US", {
 								month: "short",
 								day: "numeric",
+								timeZone: "UTC",
 							})}
 						</p>
 					</div>
