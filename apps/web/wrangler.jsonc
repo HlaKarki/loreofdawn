@@ -1,0 +1,14 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "loreofdawn-site",
+	"main": "src/server.ts",
+	"compatibility_date": "2026-09-01",
+	"compatibility_flags": ["nodejs_compat"],
+	"observability": {
+		"enabled": true,
+	},
+	"routes": [
+		{ "pattern": "loreofdawn.com", "custom_domain": true },
+		{ "pattern": "www.loreofdawn.com", "custom_domain": true },
+	],
+}

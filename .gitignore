@@ -20,3 +20,5 @@ dist
 
 .DS_Store
 apps/*.DS_Store
+
+!apps/web/worker-configuration.d.ts

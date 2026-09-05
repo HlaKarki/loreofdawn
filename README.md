@@ -26,7 +26,7 @@ A comprehensive Mobile Legends companion platform that combines real-time hero a
 ## Tech Stack
 
 ### Frontend
-- **Next.js 15** with React 19 and TypeScript
+- **TanStack Start** (React 19, Vite) on Cloudflare Workers with TypeScript
 - **TailwindCSS v4** for styling
 - **shadcn/ui** component library
 - **Clerk** for authentication
@@ -52,7 +52,7 @@ A comprehensive Mobile Legends companion platform that combines real-time hero a
 ```
 loreofdawn/
 ├── apps/
-│   ├── web/         # Next.js frontend
+│   ├── web/         # TanStack Start frontend (Cloudflare Worker)
 │   ├── worker/      # Cloudflare Workers edge API
 │   ├── server/      # Sync server for data pipeline
 │   └── crons/       # Scheduled tasks for data updates
@@ -111,9 +111,9 @@ bun db:studio
 ## Environment Variables
 
 ### Web (`apps/web/.env`)
-- `NEXT_PUBLIC_SERVER_URL` - Worker API endpoint
-- `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` - Clerk public key
-- `CLERK_SECRET_KEY` - Clerk secret key
+- `VITE_SERVER_URL` - Worker API endpoint
+- `VITE_CLERK_PUBLISHABLE_KEY` - Clerk public key
+- `CLERK_SECRET_KEY` - Clerk secret key (in `apps/web/.dev.vars` locally, a Worker secret in production)
 
 ### Worker (`apps/worker/.dev.vars`)
 - `OPENAI_API_KEY` - OpenAI API key for AI features
@@ -123,7 +123,11 @@ bun db:studio
 
 ## Deployment
 
-### Frontend (Railway)
+### Frontend (Cloudflare Workers)
+```bash
+cd apps/web
+bun run deploy
+```
 
 ### Worker (Cloudflare)
 ```bash

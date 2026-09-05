@@ -1,5 +1,3 @@
-"use client";
-
 import { cn } from "@/lib/utils";
 import { Button } from "./ui/button";
 import {
@@ -16,7 +14,7 @@ import React from "react";
 import { Textarea } from "./ui/textarea";
 import { ArrowUp, X } from "lucide-react";
 import Markdown from "react-markdown";
-import { SignIn, useAuth } from "@clerk/nextjs";
+import { SignIn, useAuth } from "@clerk/tanstack-react-start";
 import { useCompletion } from "@ai-sdk/react";
 import { makeUrl } from "@/lib/utils.api";
 import { useQueryClient } from "@tanstack/react-query";

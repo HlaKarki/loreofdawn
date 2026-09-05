@@ -1,8 +1,6 @@
-"use client";
-
 import { cn } from "@/lib/utils";
-import { UserButton } from "@clerk/nextjs";
-import { usePathname } from "next/navigation";
+import { UserButton } from "@clerk/tanstack-react-start";
+import { Link, useLocation } from "@tanstack/react-router";
 import { useEffect, useRef, useState } from "react";
 
 const links = [
@@ -12,11 +10,11 @@ const links = [
 	{ to: "/heroes", label: "Heroes" },
 	{ to: "/stats", label: "Stats" },
 	{ to: "/meta", label: "Meta" },
-];
+] as const;
 
 export default function Header() {
 	const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-	const pathname = usePathname();
+	const pathname = useLocation().pathname;
 	const headerRef = useRef<HTMLElement>(null);
 
 	// Close mobile menu on outside click
@@ -79,7 +77,7 @@ export default function Header() {
 			>
 				{/* Left: Logo + Brand */}
 				<div className="flex items-center gap-3">
-					<a href="/" aria-label="Lore of Dawn Home" className="flex items-center gap-2">
+					<Link to="/" aria-label="Lore of Dawn Home" className="flex items-center gap-2">
 						<img
 							src="/logos/lod-white.svg"
 							alt="LoreOfDawn logo"
@@ -88,7 +86,7 @@ export default function Header() {
 								e.currentTarget.style.display = "none";
 							}}
 						/>
-					</a>
+					</Link>
 				</div>
 
 				{/* Desktop Nav */}
@@ -97,9 +95,9 @@ export default function Header() {
 						const isActive = to === "/" ? pathname === "/" : (pathname?.startsWith(to) ?? false);
 
 						return (
-							<a
+							<Link
 								key={to}
-								href={to}
+								to={to}
 								className={cn(
 									"relative transition-colors",
 									"text-muted-foreground hover:text-foreground",
@@ -116,7 +114,7 @@ export default function Header() {
 									)}
 									suppressHydrationWarning
 								/>
-							</a>
+							</Link>
 						);
 					})}
 				</nav>
@@ -177,9 +175,9 @@ export default function Header() {
 						const isActive = to === "/" ? pathname === "/" : (pathname?.startsWith(to) ?? false);
 
 						return (
-							<a
+							<Link
 								key={to}
-								href={to}
+								to={to}
 								onClick={() => setMobileMenuOpen(false)}
 								className={cn(
 									"rounded-md px-2 py-2 text-sm font-medium",
@@ -191,7 +189,7 @@ export default function Header() {
 								suppressHydrationWarning
 							>
 								<span>{label}</span>
-							</a>
+							</Link>
 						);
 					})}
 				</div>

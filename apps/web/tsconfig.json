@@ -12,32 +12,12 @@
 		"resolveJsonModule": true,
 		"isolatedModules": true,
 		"verbatimModuleSyntax": true,
-		"jsx": "preserve",
-		"incremental": true,
-		"plugins": [
-			{
-				"name": "next"
-			}
-		],
+		"jsx": "react-jsx",
+		"types": ["vite/client", "node"],
 		"paths": {
-			"@/*": ["./src/*", "../server/src/*"],
-			"server/*": ["../server/*"]
+			"@/*": ["./src/*"]
 		}
 	},
-	"include": [
-		"./**/*.ts",
-		"./**/*.tsx",
-		"./.next/types/**/*.ts",
-		"./next-env.d.ts",
-		".next/types/**/*.ts"
-	],
-	"exclude": ["./node_modules"],
-	"references": [
-		{
-			"path": "../server"
-		},
-		{
-			"path": "../../packages/utils"
-		}
-	]
+	"include": ["src", "vite.config.ts", "worker-configuration.d.ts"],
+	"exclude": ["_legacy", "dist", ".wrangler", "node_modules"]
 }
