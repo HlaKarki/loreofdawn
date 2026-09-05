@@ -1,8 +1,8 @@
-import Image from "next/image";
 import type { MlHeroProfile } from "@repo/database";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { tidyLabel } from "@/lib/utils";
-import { resolveImageSrc } from "./header.hero";
+import { Img } from "@/components/img";
+import { resolveImageSrc } from "@/lib/images";
 
 export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 	return (
@@ -24,12 +24,11 @@ export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 											key={h.id}
 											className="group relative aspect-square overflow-hidden rounded"
 										>
-											<Image
+											<Img
 												src={resolveImageSrc(h.image)}
 												alt={tidyLabel(h.name)}
-												fill
 												sizes={"256px"}
-												className="object-cover"
+												className="absolute inset-0 h-full w-full object-cover"
 											/>
 											<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
 												<span className="block break-words text-[11px] font-medium leading-snug text-white">
@@ -62,12 +61,11 @@ export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 											key={h.id}
 											className="group relative aspect-square overflow-hidden rounded"
 										>
-											<Image
+											<Img
 												src={resolveImageSrc(h.image)}
 												alt={tidyLabel(h.name)}
-												fill
 												sizes={"256px"}
-												className="object-cover"
+												className="absolute inset-0 h-full w-full object-cover"
 											/>
 											<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
 												<span className="block break-words text-[11px] font-medium leading-snug text-white">
@@ -100,12 +98,11 @@ export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 											key={h.id}
 											className="group relative aspect-square overflow-hidden rounded"
 										>
-											<Image
+											<Img
 												src={resolveImageSrc(h.image)}
 												alt={tidyLabel(h.name)}
-												fill
 												sizes={"256px"}
-												className="object-cover"
+												className="absolute inset-0 h-full w-full object-cover"
 											/>
 											<div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/90 via-black/60 to-transparent px-1.5 pb-1.5 pt-6 opacity-0 transition group-hover:opacity-100">
 												<span className="block break-words text-[11px] font-medium leading-snug text-white">

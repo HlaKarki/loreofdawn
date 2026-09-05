@@ -1,9 +1,9 @@
 import type { ConsolidatedHero, MlMatchupSummary } from "@repo/database";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { tidyLabel } from "@/lib/utils";
-import Image from "next/image";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
-import { resolveImageSrc } from "./header.hero";
+import { Img } from "@/components/img";
+import { resolveImageSrc } from "@/lib/images";
 
 function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: string }) {
 	return (
@@ -47,12 +47,11 @@ export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
 								>
 									<div className="relative h-12 w-12 shrink-0">
-										<Image
+										<Img
 											src={resolveImageSrc(teammate.image)}
 											alt={tidyLabel(teammate.name)}
-											fill
 											sizes="256px"
-											className="object-cover"
+											className="absolute inset-0 h-full w-full object-cover"
 										/>
 									</div>
 									<div className="flex-1">
@@ -97,12 +96,11 @@ export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
 								>
 									<div className="relative h-12 w-12 shrink-0">
-										<Image
+										<Img
 											src={resolveImageSrc(counter.image)}
 											alt={tidyLabel(counter.name)}
-											fill
 											sizes="256px"
-											className="object-cover"
+											className="absolute inset-0 h-full w-full object-cover"
 										/>
 									</div>
 									<div className="flex-1">
@@ -147,12 +145,11 @@ export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
 								>
 									<div className="relative h-12 w-12 shrink-0">
-										<Image
+										<Img
 											src={resolveImageSrc(teammate.image)}
 											alt={tidyLabel(teammate.name)}
-											fill
 											sizes="256px"
-											className="object-cover"
+											className="absolute inset-0 h-full w-full object-cover"
 										/>
 									</div>
 									<div className="flex-1">
@@ -197,12 +194,11 @@ export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 									className="flex items-center gap-3 rounded-lg border bg-card/50 p-3"
 								>
 									<div className="relative h-12 w-12 shrink-0">
-										<Image
+										<Img
 											src={resolveImageSrc(counter.image)}
 											alt={tidyLabel(counter.name)}
-											fill
 											sizes="256px"
-											className="object-cover"
+											className="absolute inset-0 h-full w-full object-cover"
 										/>
 									</div>
 									<div className="flex-1">

@@ -1,8 +1,8 @@
-import Image from "next/image";
 import { tidyLabel } from "@/lib/utils";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import type { MlHeroProfile } from "@repo/database";
-import { resolveImageSrc } from "./header.hero";
+import { Img } from "@/components/img";
+import { resolveImageSrc } from "@/lib/images";
 
 export const HeroSkills = ({ data }: { data: MlHeroProfile }) => {
 	if (data.skills?.length < 1) {
@@ -19,12 +19,11 @@ export const HeroSkills = ({ data }: { data: MlHeroProfile }) => {
 				{data.skills.map((skill, idx) => (
 					<div key={idx} className="flex gap-3 rounded-lg border bg-card/50 p-3 sm:gap-4 sm:p-4">
 						<div className="relative h-12 w-12 shrink-0 overflow-hidden rounded-lg border bg-gradient-to-br from-amber-500/20 to-purple-500/20 sm:h-14 sm:w-14">
-							<Image
+							<Img
 								src={resolveImageSrc(skill.icon)}
 								alt={tidyLabel(skill.name)}
-								fill
 								sizes={"256px"}
-								className="object-cover"
+								className="absolute inset-0 h-full w-full object-cover"
 							/>
 						</div>
 						<div className="flex-1 min-w-0">

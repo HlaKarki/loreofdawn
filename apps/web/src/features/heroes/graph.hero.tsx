@@ -1,5 +1,3 @@
-"use client";
-
 import type { MlGraphData } from "@repo/database";
 import {
 	Area,

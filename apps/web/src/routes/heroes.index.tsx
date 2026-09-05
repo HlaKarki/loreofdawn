@@ -1,14 +1,12 @@
-"use client";
-
+import { Link, createFileRoute } from "@tanstack/react-router";
 import { useState, useMemo, useEffect } from "react";
-import Link from "next/link";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { Input } from "@/components/ui/input";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { makeUrl } from "@/lib/utils.api";
 import { tidyLabel } from "@/lib/utils";
-import { resolveImageSrc } from "./_components/header.hero";
+import { resolveImageSrc } from "@/lib/images";
 import { Search, SlidersHorizontal, ArrowUpDown, Loader2 } from "lucide-react";
 
 const ROLES = ["All", "Tank", "Fighter", "Assassin", "Mage", "Marksman", "Support"] as const;
@@ -25,7 +23,14 @@ type SortOption = (typeof SORT_OPTIONS)[number]["value"];
 const formatPercent = (value?: number, digits = 1) =>
 	value === undefined ? "—" : `${(value * 100).toFixed(digits)}%`;
 
-export default function HeroesPage() {
+export const Route = createFileRoute("/heroes/")({
+	head: () => ({
+		links: [{ rel: "canonical", href: "https://loreofdawn.com/heroes" }],
+	}),
+	component: HeroesPage,
+});
+
+function HeroesPage() {
 	const [heroes, setHeroes] = useState<ConsolidatedHeroOptional[]>([]);
 	const [isLoading, setIsLoading] = useState(true);
 	const [search, setSearch] = useState("");
@@ -201,7 +206,9 @@ export default function HeroesPage() {
 						return (
 							<Link
 								key={hero.profile.id}
-								href={`/heroes/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}?rank=overall`}
+								to="/heroes/$hero"
+								params={{ hero: hero.profile.name.toLowerCase().replace(/\s+/g, "-") }}
+								search={{ rank: "overall" }}
 								className="group flex gap-4 rounded-xl border border-border/60 bg-card p-4 transition-colors hover:border-border hover:bg-accent/30"
 							>
 								{/* Hero image */}

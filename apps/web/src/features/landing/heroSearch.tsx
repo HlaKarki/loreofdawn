@@ -1,7 +1,5 @@
-"use client";
-
 import { useState, useEffect, useRef, useMemo } from "react";
-import { useRouter } from "next/navigation";
+import { useNavigate } from "@tanstack/react-router";
 import type { MlMetaSummary } from "@repo/database";
 import { Input } from "@/components/ui/input";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
@@ -33,7 +31,7 @@ export function HeroSearch() {
 	const [isLoading, setIsLoading] = useState(false);
 	const [selectedIndex, setSelectedIndex] = useState(0);
 	const inputRef = useRef<HTMLInputElement>(null);
-	const router = useRouter();
+	const navigate = useNavigate();
 
 	// Fetch heroes on mount
 	useEffect(() => {
@@ -87,7 +85,7 @@ export function HeroSearch() {
 
 	// Navigate to hero
 	const navigateToHero = (hero: MlMetaSummary) => {
-		router.push(`/heroes/${encodeURIComponent(hero.url_name)}?rank=overall`);
+		navigate({ to: "/heroes/$hero", params: { hero: hero.url_name }, search: { rank: "overall" } });
 		setSearchQuery("");
 		setIsOpen(false);
 		inputRef.current?.blur();

@@ -1,9 +1,9 @@
-import Link from "next/link";
+import { Link } from "@tanstack/react-router";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { ArrowRight, Flame } from "lucide-react";
-import { resolveImageSrc } from "../../heroes/_components/header.hero";
+import { resolveImageSrc } from "@/lib/images";
 
 const formatPercent = (value?: number, digits = 1) =>
 	value === undefined ? "—" : `${(value * 100).toFixed(digits)}%`;
@@ -47,7 +47,8 @@ export const MetaTeaser = ({ metaKings }: MetaTeaserProps) => {
 					return (
 						<Link
 							key={hero.profile.id}
-							href={`/heroes/${hero.profile.url_name}`}
+							to="/heroes/$hero"
+							params={{ hero: hero.profile.url_name }}
 							className="group flex items-center gap-3 rounded-xl border border-border/40 bg-background/50 p-3 transition-colors hover:border-border hover:bg-background"
 						>
 							{/* Rank */}
@@ -90,7 +91,7 @@ export const MetaTeaser = ({ metaKings }: MetaTeaserProps) => {
 			<div className="mt-4 flex items-center justify-between border-t border-border/40 pt-4">
 				<p className="text-sm text-muted-foreground">Prepare your bans before queue</p>
 				<Button asChild variant="ghost" size="sm" className="gap-1">
-					<Link href="/meta">
+					<Link to="/meta">
 						View all
 						<ArrowRight className="h-4 w-4" />
 					</Link>

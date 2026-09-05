@@ -1,6 +1,4 @@
-"use client";
-
-import { useRouter, useSearchParams } from "next/navigation";
+import { useNavigate, useSearch } from "@tanstack/react-router";
 import { Button } from "@/components/ui/button";
 
 const RANKS = [
@@ -11,17 +9,12 @@ const RANKS = [
 	// { value: "mythic", label: "Mythic" },
 ] as const;
 
-type HeroRankSelectorProps = {
-	heroName: string;
-};
+export function HeroRankSelector() {
+	const navigate = useNavigate();
+	const currentRank = useSearch({ from: "/heroes/$hero", select: (s) => s.rank }) || "overall";
 
-export function HeroRankSelector({ heroName }: HeroRankSelectorProps) {
-	const router = useRouter();
-	const searchParams = useSearchParams();
-	const currentRank = searchParams.get("rank") || "overall";
-
-	const handleRankChange = (rank: string) => {
-		router.push(`/heroes/${heroName}?rank=${rank}`);
+	const handleRankChange = (rank: (typeof RANKS)[number]["value"]) => {
+		navigate({ to: ".", search: (prev) => ({ ...prev, rank }) });
 	};
 
 	return (

@@ -1,11 +1,10 @@
-import type { Route } from "next";
-import Link from "next/link";
+import { Link } from "@tanstack/react-router";
 import { ArrowRight, Flame, Gem, Scroll, Trophy } from "lucide-react";
 
 type QuickAccessCard = {
 	title: string;
 	description: string;
-	href: Route;
+	href: "/lores" | "/heroes" | "/stats" | "/meta";
 	icon: React.ReactNode;
 	iconBg: string;
 	iconColor: string;
@@ -62,7 +61,7 @@ export const QuickAccessCards = ({ heroCount = 130 }: QuickAccessCardsProps) => 
 				{cards.map((card) => (
 					<Link
 						key={card.href}
-						href={card.href}
+						to={card.href}
 						className="group flex flex-col rounded-xl border border-border/60 bg-card p-4 transition-colors hover:border-border hover:bg-accent/30"
 					>
 						<div

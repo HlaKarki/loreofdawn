@@ -1,7 +1,5 @@
-"use client";
-
 import { useEffect, useMemo, useState } from "react";
-import Link from "next/link";
+import { Link } from "@tanstack/react-router";
 import { formatDistanceToNow } from "date-fns";
 import { makeUrl } from "@/lib/utils.api";
 import { tidyLabel } from "@/lib/utils";
@@ -21,6 +19,8 @@ const RANKS = [
 	{ value: "overall", label: "Overall" },
 	{ value: "glory", label: "Glory" },
 ] as const;
+
+type Rank = (typeof RANKS)[number]["value"];
 
 type StatKey = "ban_rate" | "pick_rate" | "win_rate";
 
@@ -44,7 +44,7 @@ const resolveImageSrc = (...sources: (string | undefined | null)[]) =>
 
 
 export function QuickStats() {
-	const [rank, setRank] = useState("glory");
+	const [rank, setRank] = useState<Rank>("glory");
 	const [heroes, setHeroes] = useState<ConsolidatedHeroOptional[]>([]);
 	const [isLoading, setIsLoading] = useState(true);
 
@@ -171,7 +171,7 @@ export function QuickStats() {
 					</div>
 				</div>
 
-				<Select value={rank} onValueChange={setRank}>
+				<Select value={rank} onValueChange={(value) => setRank(value as Rank)}>
 					<SelectTrigger className="h-9 w-[112px] border-border/60 text-xs">
 						<SelectValue />
 					</SelectTrigger>
@@ -219,7 +219,9 @@ export function QuickStats() {
 							return (
 								<Link
 									key={stat.label}
-									href={`/heroes/${heroSlug}?rank=${rank}`}
+									to="/heroes/$hero"
+									params={{ hero: heroSlug }}
+									search={{ rank }}
 									className="group relative flex flex-col gap-3 overflow-hidden px-5 py-4 transition-colors hover:bg-accent/30"
 								>
 									<div className="pointer-events-none absolute inset-0 bg-gradient-to-r from-amber-500/10 via-transparent to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
@@ -296,7 +298,7 @@ export function QuickStats() {
 						size="sm"
 						className="gap-1.5 text-muted-foreground hover:text-foreground"
 					>
-						<Link href="/meta">
+						<Link to="/meta">
 							<Target className="h-3.5 w-3.5" />
 							View meta report
 						</Link>

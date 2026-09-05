@@ -1,10 +1,10 @@
-import Link from "next/link";
+import { Link } from "@tanstack/react-router";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import type { ConsolidatedHeroOptional } from "@repo/database";
 import { tidyLabel } from "@/lib/utils";
 import { BookOpen, BarChart3, Star } from "lucide-react";
-import { resolveImageSrc } from "../../heroes/_components/header.hero";
+import { resolveImageSrc } from "@/lib/images";
 
 type HeroOfTheDayProps = {
 	hero: ConsolidatedHeroOptional | null;
@@ -16,6 +16,7 @@ const formatPercent = (value?: number, digits = 1) =>
 export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 	if (!hero) return null;
 
+	const heroSlug = hero.profile.name.toLowerCase().replace(/\s+/g, "-");
 	const image = resolveImageSrc(
 		hero.profile.images.painting,
 		hero.profile.images.squarehead_big,
@@ -89,7 +90,7 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 							size="sm"
 							className="gap-1.5 bg-amber-500 text-amber-950 hover:bg-amber-600"
 						>
-							<Link href={`/lores/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
+							<Link to="/lores/$hero" params={{ hero: heroSlug }}>
 								<BookOpen className="h-3.5 w-3.5" />
 								Read lore
 							</Link>
@@ -100,7 +101,7 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 							size="sm"
 							className="gap-1.5 bg-background/60 backdrop-blur-sm"
 						>
-							<Link href={`/heroes/${hero.profile.name.toLowerCase().replace(/\s+/g, "-")}`}>
+							<Link to="/heroes/$hero" params={{ hero: heroSlug }}>
 								<BarChart3 className="h-3.5 w-3.5" />
 								View Hero
 							</Link>

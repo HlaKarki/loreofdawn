@@ -1,18 +1,10 @@
-import Image from "next/image";
+import { Link } from "@tanstack/react-router";
+import { Img } from "@/components/img";
+import { resolveImageSrc } from "@/lib/images";
 import { tidyLabel } from "@/lib/utils";
-import Link from "next/link";
 import { Card, CardContent } from "@/components/ui/card";
 import { ArrowRight, BookOpen } from "lucide-react";
 import type { MlHeroProfile, MlMetaSummary } from "@repo/database";
-
-export const resolveImageSrc = (...values: Array<string | null | undefined>) => {
-	for (const value of values) {
-		if (value && value.trim().length > 0) {
-			return value;
-		}
-	}
-	return "/placeholder.svg";
-};
 
 export const HeroHeader = ({
 	data,
@@ -32,18 +24,16 @@ export const HeroHeader = ({
 		data.images.squarehead,
 	);
 
-	const wikiHref =
-		`/lores/${encodeURIComponent(data.name.trim().toLowerCase().replaceAll(" ", "_"))}` as const;
+	const wikiSlug = data.name.trim().toLowerCase().replaceAll(" ", "_");
 
 	return (
 		<div className="relative mb-8 overflow-hidden rounded-xl px-4 md:px-0">
 			<div className="absolute inset-0 opacity-20">
-				<Image
+				<Img
 					src={bannerImage}
 					alt=""
-					fill
 					sizes="100vw"
-					className="object-cover object-top"
+					className="absolute inset-0 h-full w-full object-cover object-top"
 					priority
 				/>
 			</div>
@@ -53,12 +43,11 @@ export const HeroHeader = ({
 					<div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
 						<div className="flex items-end gap-4">
 							<div className="relative h-28 w-28 shrink-0 overflow-hidden rounded-xl border-2 border-amber-500/20 bg-gradient-to-br from-amber-500/10 to-purple-500/10 sm:h-42 sm:w-42">
-								<Image
+								<Img
 									src={primaryPortrait}
 									alt={tidyLabel(data.name)}
-									fill
 									sizes={"256px"}
-									className="object-cover"
+									className="absolute inset-0 h-full w-full object-cover"
 									priority
 								/>
 							</div>
@@ -87,7 +76,7 @@ export const HeroHeader = ({
 												key={idx}
 												className="flex items-center gap-1 text-xs font-medium text-primary"
 											>
-												<Image
+												<Img
 													src={role.icon || "/placeholder.svg"}
 													alt={tidyLabel(role.title)}
 													width={14}
@@ -110,7 +99,7 @@ export const HeroHeader = ({
 										.filter((lane) => tidyLabel(lane.title).trim())
 										.map((lane, idx) => (
 											<div key={idx} className="flex items-center gap-1 text-xs font-medium">
-												<Image
+												<Img
 													src={lane.icon || "/placeholder.svg"}
 													alt={tidyLabel(lane.title)}
 													width={14}
@@ -157,7 +146,8 @@ export const HeroHeader = ({
 
 					{/* Lore */}
 					<Link
-						href={wikiHref}
+						to="/lores/$hero"
+						params={{ hero: wikiSlug }}
 						className="group inline-block "
 						aria-label={`Explore the complete wiki entry for ${tidyLabel(data.name)}`}
 					>
