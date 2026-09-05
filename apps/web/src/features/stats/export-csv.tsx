@@ -1,9 +1,7 @@
-"use client";
-
 import { Button } from "@/components/ui/button";
 import { Download } from "lucide-react";
 import type { ConsolidatedHeroOptional } from "@repo/database";
-import { formatPercentage } from "../_config/table-styles";
+import { formatPercentage } from "./table-styles";
 
 interface ExportCsvProps {
 	data: ConsolidatedHeroOptional[];

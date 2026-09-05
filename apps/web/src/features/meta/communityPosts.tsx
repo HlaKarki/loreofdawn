@@ -1,5 +1,3 @@
-"use client";
-
 import type { RedditPostType } from "@repo/utils";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -13,7 +11,7 @@ import {
 	ImagesIcon,
 } from "lucide-react";
 import { formatDistanceToNow } from "date-fns";
-import Image from "next/image";
+import { Img } from "@/components/img";
 
 function formatScore(score: number): string {
 	if (score >= 1000) {
@@ -120,12 +118,10 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 									{/* Thumbnail */}
 									{post.thumbnail && (
 										<div className="hidden sm:block w-24 h-24 flex-shrink-0 rounded overflow-hidden bg-muted relative">
-											<Image
+											<Img
 												src={post.thumbnail}
 												alt=""
-												fill
-												className="object-cover"
-												unoptimized
+												className="absolute inset-0 h-full w-full object-cover"
 												onError={(e) => {
 													e.currentTarget.style.display = "none";
 												}}

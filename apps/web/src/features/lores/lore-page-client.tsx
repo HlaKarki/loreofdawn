@@ -1,9 +1,7 @@
-"use client";
-
 import { useMemo, useState } from "react";
-import Link from "next/link";
+import { Link } from "@tanstack/react-router";
 import Fuse from "fuse.js";
-import type { WikiListing } from "../page";
+import type { WikiMetadata } from "@repo/database";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
@@ -11,14 +9,19 @@ import {
 	BookOpenIcon,
 	BookMarkedIcon,
 	ClockIcon,
-	HeartIcon,
 	SearchIcon,
 	StarIcon,
 	UsersIcon,
 	ArrowRight,
-	Sparkles,
 } from "lucide-react";
 import { cn, tidyLabel } from "@/lib/utils";
+
+export type WikiListing = {
+	hero: string;
+	urlName: string;
+	metadata: WikiMetadata;
+	lastUpdated: number | null;
+};
 
 type LorePageClientProps = {
 	wikis: WikiListing[];
@@ -322,7 +325,8 @@ const LoreCard = ({ wiki }: { wiki: WikiListing }) => {
 
 	return (
 		<Link
-			href={`/lores/${wiki.urlName}`}
+			to="/lores/$hero"
+			params={{ hero: wiki.urlName }}
 			className="group flex flex-col rounded-2xl border border-border/60 bg-card p-5 transition-all hover:-translate-y-1 hover:border-amber-500/50 hover:shadow-lg"
 		>
 			<div className="mb-2 flex items-start justify-between gap-3">
@@ -380,7 +384,8 @@ const LoreCard = ({ wiki }: { wiki: WikiListing }) => {
 const FeaturedLoreCard = ({ wiki }: { wiki: WikiListing }) => {
 	return (
 		<Link
-			href={`/lores/${wiki.urlName}`}
+			to="/lores/$hero"
+			params={{ hero: wiki.urlName }}
 			className="group block rounded-2xl border-2 border-amber-500/50 bg-gradient-to-br from-amber-500/5 via-background to-background p-6 transition-all hover:border-amber-500 hover:shadow-lg sm:p-8"
 		>
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">

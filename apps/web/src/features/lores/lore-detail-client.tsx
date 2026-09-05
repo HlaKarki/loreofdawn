@@ -1,7 +1,5 @@
-"use client";
-
 import { useState } from "react";
-import Link from "next/link";
+import { Link } from "@tanstack/react-router";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import type { WikiTableData } from "@repo/database";
@@ -37,7 +35,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 			{/* Back Button */}
 			<div className="py-6">
 				<Link
-					href="/lores"
+					to="/lores"
 					className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
 				>
 					<ArrowLeftIcon className="h-4 w-4" />
@@ -309,7 +307,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.allies.map((ally) => (
-										<Link key={ally} href={`/lores/${ally}`}>
+										<Link key={ally} to="/lores/$hero" params={{ hero: ally }}>
 											<Badge
 												variant="secondary"
 												className="cursor-pointer transition-colors hover:bg-emerald-500/20"
@@ -331,7 +329,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.rivals.map((rival) => (
-										<Link key={rival} href={`/lores/${rival}`}>
+										<Link key={rival} to="/lores/$hero" params={{ hero: rival }}>
 											<Badge
 												variant="secondary"
 												className="cursor-pointer transition-colors hover:bg-red-500/20"
@@ -353,7 +351,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.family.map((member) => (
-										<Link key={member} href={`/lores/${member}`}>
+										<Link key={member} to="/lores/$hero" params={{ hero: member }}>
 											<Badge
 												variant="secondary"
 												className="cursor-pointer transition-colors hover:bg-blue-500/20"
@@ -375,7 +373,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 								</h4>
 								<div className="flex flex-wrap gap-2">
 									{metadata.relationships.mentors.map((mentor) => (
-										<Link key={mentor} href={`/lores/${mentor}`}>
+										<Link key={mentor} to="/lores/$hero" params={{ hero: mentor }}>
 											<Badge
 												variant="secondary"
 												className="cursor-pointer transition-colors hover:bg-purple-500/20"
@@ -398,7 +396,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 									</h4>
 									<div className="flex flex-wrap gap-2">
 										{metadata.relationships.relatedHeroes.slice(0, 12).map((hero) => (
-											<Link key={hero} href={`/lores/${hero}`}>
+											<Link key={hero} to="/lores/$hero" params={{ hero }}>
 												<Badge
 													variant="outline"
 													className="cursor-pointer text-xs transition-colors hover:bg-amber-500/10"
@@ -439,7 +437,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 			{/* Back to all lores */}
 			<div className="border-t border-border pt-8">
 				<Link
-					href="/lores"
+					to="/lores"
 					className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors"
 				>
 					<ArrowLeftIcon className="h-4 w-4" />

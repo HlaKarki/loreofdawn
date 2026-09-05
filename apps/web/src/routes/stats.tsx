@@ -1,40 +1,52 @@
-import { Suspense } from "react";
-import type { Metadata } from "next";
-import { DataTable } from "./_components/data-table";
-import { TABLE_CONFIG } from "./_config/table-styles";
-import { TableSkeleton } from "./_components/table-skeleton";
-import { makeUrl } from "@/lib/utils.api";
 import type { ConsolidatedHeroOptional } from "@repo/database";
-import { UpdatedAtLabel } from "../(landing)/_utils";
-import { RankSelector } from "./_components/rank-selector";
-import { BarChart3, Crown, Scale, Ghost } from "lucide-react";
+import { Await, createFileRoute } from "@tanstack/react-router";
+import { BarChart3, Crown, Ghost, Scale } from "lucide-react";
+import { z } from "zod";
+import { UpdatedAtLabel } from "@/components/updated-at-label";
+import { DataTable } from "@/features/stats/data-table";
+import { RankSelector } from "@/features/stats/rank-selector";
+import { TableSkeleton } from "@/features/stats/table-skeleton";
+import { TABLE_CONFIG } from "@/features/stats/table-styles";
+import { makeUrl } from "@/lib/utils.api";
 
-export const metadata: Metadata = {
-	title: "Statistics - Hero Win Rates, Pick Rates & Ban Rates",
-	description:
-		"Complete Mobile Legends hero statistics table with live win rates, pick rates, and ban rates. Compare all heroes and find the best performers for your rank.",
-	openGraph: {
-		title: "MLBB Hero Statistics | Lore of Dawn",
-		description:
-			"Complete Mobile Legends hero statistics with live win rates, pick rates, and ban rates.",
-		images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Lore of Dawn Statistics" }],
-	},
-	twitter: {
-		card: "summary_large_image",
-		title: "MLBB Hero Statistics | Lore of Dawn",
-		description:
-			"Complete Mobile Legends hero statistics with live win rates, pick rates, and ban rates.",
-		images: ["/og-image.png"],
-	},
-};
+const title = "Statistics - Hero Win Rates, Pick Rates & Ban Rates | Lore of Dawn";
+const description =
+	"Complete Mobile Legends hero statistics table with live win rates, pick rates, and ban rates. Compare all heroes and find the best performers for your rank.";
+const socialTitle = "MLBB Hero Statistics | Lore of Dawn";
+const socialDescription =
+	"Complete Mobile Legends hero statistics with live win rates, pick rates, and ban rates.";
+const ogImage = "https://loreofdawn.com/og-image.png";
 
-export const dynamic = "force-dynamic";
+const fetchTableData = (rank: string) =>
+	fetch(makeUrl(`/v1/heroes/table?rank=${rank}`)).then(
+		(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
+	);
 
-async function StatsContent({ rank }: { rank: string }) {
-	// fetch real data
-	const tableDataResponse = await fetch(makeUrl(`/v1/heroes/table?rank=${rank}`));
-	const tableData = (await tableDataResponse.json()) as ConsolidatedHeroOptional[];
+export const Route = createFileRoute("/stats")({
+	validateSearch: z.object({ rank: z.enum(["overall", "glory"]).optional().catch("glory") }),
+	loaderDeps: ({ search }) => ({ rank: search.rank ?? "glory" }),
+	loader: ({ deps: { rank } }) => ({ tableData: fetchTableData(rank) }),
+	head: () => ({
+		meta: [
+			{ title },
+			{ name: "description", content: description },
+			{ property: "og:title", content: socialTitle },
+			{ property: "og:description", content: socialDescription },
+			{ property: "og:image", content: ogImage },
+			{ property: "og:image:width", content: "1200" },
+			{ property: "og:image:height", content: "630" },
+			{ property: "og:image:alt", content: "Lore of Dawn Statistics" },
+			{ name: "twitter:card", content: "summary_large_image" },
+			{ name: "twitter:title", content: socialTitle },
+			{ name: "twitter:description", content: socialDescription },
+			{ name: "twitter:image", content: ogImage },
+		],
+		links: [{ rel: "canonical", href: "https://loreofdawn.com/stats" }],
+	}),
+	component: StatsPage,
+});
 
+function StatsContent({ rank, tableData }: { rank: string; tableData: ConsolidatedHeroOptional[] }) {
 	// Calculate overview stats using centralized config
 	const totalHeroes = tableData.length;
 	const balancedHeroes = tableData.filter(
@@ -138,19 +150,15 @@ async function StatsContent({ rank }: { rank: string }) {
 	);
 }
 
-export default async function StatsPage({
-	searchParams,
-}: {
-	searchParams: Promise<{ rank?: string }>;
-}) {
-	const params = await searchParams;
-	const rank = params.rank || "glory";
+function StatsPage() {
+	const rank = Route.useSearch().rank ?? "glory";
+	const { tableData } = Route.useLoaderData();
 
 	return (
 		<div className="mx-auto flex w-full max-w-screen sm:max-w-7xl flex-col gap-6 overflow-x-hidden px-4 pb-16 pt-8 sm:gap-8 sm:px-6 lg:px-8">
-			<Suspense fallback={<TableSkeleton />}>
-				<StatsContent rank={rank} />
-			</Suspense>
+			<Await promise={tableData} fallback={<TableSkeleton />}>
+				{(data) => <StatsContent rank={rank} tableData={data} />}
+			</Await>
 		</div>
 	);
 }

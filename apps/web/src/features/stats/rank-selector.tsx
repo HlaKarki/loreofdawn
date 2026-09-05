@@ -1,7 +1,5 @@
-"use client";
-
-import { useQueryState, parseAsString } from "nuqs";
-import { useEffect } from "react";
+import { useNavigate, useSearch } from "@tanstack/react-router";
+import { useCallback, useEffect } from "react";
 import {
 	Select,
 	SelectContent,
@@ -18,17 +16,24 @@ const RANK_OPTIONS = [
 	// { value: "mythic", label: "Mythic" },
 ] as const;
 
+type Rank = (typeof RANK_OPTIONS)[number]["value"];
+
 const STORAGE_KEY = "stats-rank-preference";
 
 export function RankSelector() {
-	const [rank, setRank] = useQueryState(
-		"rank",
-		parseAsString.withDefault("glory").withOptions({
-			// Scroll to top when rank changes (optional)
-			scroll: false,
-			// Use shallow routing to avoid full page reload
-			shallow: false,
-		}),
+	const navigate = useNavigate();
+	const search = useSearch({ strict: false }) as { rank?: Rank };
+	const rank = search.rank ?? "glory";
+
+	const setRank = useCallback(
+		(value: Rank) => {
+			navigate({
+				to: ".",
+				search: (prev) => ({ ...prev, rank: value }),
+				resetScroll: false,
+			});
+		},
+		[navigate],
 	);
 
 	// Save to localStorage whenever rank changes
@@ -47,7 +52,7 @@ export function RankSelector() {
 			if (!hasRankParam) {
 				const savedRank = localStorage.getItem(STORAGE_KEY);
 				if (savedRank && RANK_OPTIONS.some((opt) => opt.value === savedRank)) {
-					setRank(savedRank);
+					setRank(savedRank as Rank);
 				}
 			}
 		}
@@ -56,7 +61,7 @@ export function RankSelector() {
 	return (
 		<div className="flex items-center gap-2">
 			<span className="text-sm text-muted-foreground">Rank:</span>
-			<Select value={rank} onValueChange={setRank}>
+			<Select value={rank} onValueChange={(value) => setRank(value as Rank)}>
 				<SelectTrigger className="w-[120px] border-amber-500/30 bg-amber-500/5 font-medium">
 					<SelectValue />
 				</SelectTrigger>

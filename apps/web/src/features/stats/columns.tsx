@@ -1,18 +1,16 @@
-"use client";
-
 import { type ColumnDef } from "@tanstack/react-table";
 import { ArrowUp, ArrowDown } from "lucide-react";
 import type { ConsolidatedHeroOptional } from "@repo/database";
-import Image from "next/image";
+import { Img } from "@/components/img";
 import {
 	TABLE_CONFIG,
 	getWinRateColor,
 	getDifficultyColor,
 	formatPercentage,
-} from "../_config/table-styles";
+} from "./table-styles";
 import { getRoleIcon, getLaneIcon } from "@/lib/get-game-assets";
 import { cn, tidyLabel } from "@/lib/utils";
-import { resolveImageSrc } from "../../heroes/_components/header.hero";
+import { resolveImageSrc } from "@/lib/images";
 import type { TableDensity } from "./density-toggle";
 
 /**
@@ -166,11 +164,10 @@ export const createColumns = (
 							height: `${densityConfig.heroImageSize}px`,
 						}}
 					>
-						<Image
+						<Img
 							src={avatarUrl}
 							alt={name}
-							fill
-							className="object-cover"
+							className="absolute inset-0 h-full w-full object-cover"
 							sizes={`${densityConfig.heroImageSize}px`}
 						/>
 					</div>
@@ -282,7 +279,12 @@ export const createColumns = (
 			return (
 				<div className="flex flex-col items-center gap-1 py-1">
 					<div className={cn("relative flex-shrink-0", densityConfig.iconSize)}>
-						<Image src={roleIcon} alt={role} fill className="object-contain" sizes="28px" />
+						<Img
+							src={roleIcon}
+							alt={role}
+							className="absolute inset-0 h-full w-full object-contain"
+							sizes="28px"
+						/>
 					</div>
 					<span className={cn(densityConfig.fontSize.cellMuted, "text-center")}>
 						{tidyLabel(role)}
@@ -309,7 +311,12 @@ export const createColumns = (
 			return (
 				<div className="flex flex-col items-center gap-1 py-1">
 					<div className={cn("relative flex-shrink-0", densityConfig.iconSize)}>
-						<Image src={laneIcon} alt={lane} fill className="object-contain" sizes="28px" />
+						<Img
+							src={laneIcon}
+							alt={lane}
+							className="absolute inset-0 h-full w-full object-contain"
+							sizes="28px"
+						/>
 					</div>
 					<span className={cn(densityConfig.fontSize.cellMuted, "text-center")}>
 						{tidyLabel(lane)}

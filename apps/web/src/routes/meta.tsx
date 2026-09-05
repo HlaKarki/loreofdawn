@@ -1,33 +1,14 @@
-import { Suspense } from "react";
-import type { Metadata } from "next";
-import { makeUrl } from "@/lib/utils.api";
 import type { ConsolidatedHeroOptional, QuadrantDataType, StatsByRolesType } from "@repo/database";
 import type { RedditPostType } from "@repo/utils";
-import { TopThree } from "./_components/topThree";
-import { StatsByRoles } from "./_components/statsByRoles";
-import { QuadrantChart } from "./_components/quadrantChart";
-import { CommunityPosts } from "./_components/communityPosts";
-import { RankSelector } from "../stats/_components/rank-selector";
+import { Await, createFileRoute } from "@tanstack/react-router";
 import { Crown, Gem, Users } from "lucide-react";
-
-export const metadata: Metadata = {
-	title: "Meta Report - Tier Lists & Competitive Picks",
-	description:
-		"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks. See which heroes dominate each rank.",
-	openGraph: {
-		title: "MLBB Meta Report | Lore of Dawn",
-		description:
-			"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks.",
-		images: [{ url: "/og-image.png", width: 1200, height: 630, alt: "Lore of Dawn Meta Report" }],
-	},
-	twitter: {
-		card: "summary_large_image",
-		title: "MLBB Meta Report | Lore of Dawn",
-		description:
-			"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks.",
-		images: ["/og-image.png"],
-	},
-};
+import { z } from "zod";
+import { CommunityPosts } from "@/features/meta/communityPosts";
+import { QuadrantChart } from "@/features/meta/quadrantChart";
+import { StatsByRoles } from "@/features/meta/statsByRoles";
+import { TopThree } from "@/features/meta/topThree";
+import { RankSelector } from "@/features/stats/rank-selector";
+import { makeUrl } from "@/lib/utils.api";
 
 export type StatsByRolesResponse = {
 	rank: string;
@@ -43,23 +24,59 @@ const quadrantQuery = (rank: string) => `/v1/heroes/quadrant_data?rank=${rank}`;
 const statsByRoleQuery = (rank: string) => `/v1/heroes/stats_by_role?rank=${rank}`;
 const communityPostsQuery = `/v1/community/posts?type=hot`;
 
-export const dynamic = "force-dynamic";
+const title = "Meta Report - Tier Lists & Competitive Picks | Lore of Dawn";
+const description =
+	"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks. See which heroes dominate each rank.";
+const socialTitle = "MLBB Meta Report | Lore of Dawn";
+const socialDescription =
+	"Stay ahead of the MLBB meta with live tier lists, ban rates, win rates, and competitive hero picks.";
+const ogImage = "https://loreofdawn.com/og-image.png";
 
-async function MetaContent({ rank }: { rank: string }) {
-	const [topThreeData, statsByRoleData, hiddenGemData, quadrantData, communityPostsData] =
-		await Promise.all([
-			fetch(makeUrl(topThreeQuery(rank))).then(
-				(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
-			),
-			fetch(makeUrl(statsByRoleQuery(rank))).then((r) => r.json() as Promise<StatsByRolesResponse>),
-			fetch(makeUrl(hiddenGemQuery(rank))).then(
-				(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
-			),
-			fetch(makeUrl(quadrantQuery(rank))).then((r) => r.json() as Promise<QuadrantDataType[]>),
-			fetch(makeUrl(communityPostsQuery)).then(
-				(r) => r.json() as Promise<{ posts: RedditPostType[] }>,
-			),
-		]);
+const fetchMeta = (rank: string) =>
+	Promise.all([
+		fetch(makeUrl(topThreeQuery(rank))).then((r) => r.json() as Promise<ConsolidatedHeroOptional[]>),
+		fetch(makeUrl(statsByRoleQuery(rank))).then((r) => r.json() as Promise<StatsByRolesResponse>),
+		fetch(makeUrl(hiddenGemQuery(rank))).then(
+			(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
+		),
+		fetch(makeUrl(quadrantQuery(rank))).then((r) => r.json() as Promise<QuadrantDataType[]>),
+		fetch(makeUrl(communityPostsQuery)).then(
+			(r) => r.json() as Promise<{ posts: RedditPostType[] }>,
+		),
+	]);
+
+export const Route = createFileRoute("/meta")({
+	validateSearch: z.object({ rank: z.enum(["overall", "glory"]).optional().catch("glory") }),
+	loaderDeps: ({ search }) => ({ rank: search.rank ?? "glory" }),
+	loader: ({ deps: { rank } }) => ({ meta: fetchMeta(rank) }),
+	head: () => ({
+		meta: [
+			{ title },
+			{ name: "description", content: description },
+			{ property: "og:title", content: socialTitle },
+			{ property: "og:description", content: socialDescription },
+			{ property: "og:image", content: ogImage },
+			{ property: "og:image:width", content: "1200" },
+			{ property: "og:image:height", content: "630" },
+			{ property: "og:image:alt", content: "Lore of Dawn Meta Report" },
+			{ name: "twitter:card", content: "summary_large_image" },
+			{ name: "twitter:title", content: socialTitle },
+			{ name: "twitter:description", content: socialDescription },
+			{ name: "twitter:image", content: ogImage },
+		],
+		links: [{ rel: "canonical", href: "https://loreofdawn.com/meta" }],
+	}),
+	component: MetaPage,
+});
+
+function MetaContent({
+	rank,
+	data,
+}: {
+	rank: string;
+	data: Awaited<ReturnType<typeof fetchMeta>>;
+}) {
+	const [topThreeData, statsByRoleData, hiddenGemData, quadrantData, communityPostsData] = data;
 
 	// Calculate meta snapshot data
 	const metaKing = topThreeData[0];
@@ -187,19 +204,15 @@ function MetaLoadingSkeleton() {
 	);
 }
 
-export default async function MetaPage({
-	searchParams,
-}: {
-	searchParams: Promise<{ rank?: string }>;
-}) {
-	const params = await searchParams;
-	const rank = params.rank || "glory";
+function MetaPage() {
+	const rank = Route.useSearch().rank ?? "glory";
+	const { meta } = Route.useLoaderData();
 
 	return (
 		<div className="container mx-auto max-w-6xl px-4 py-6 sm:py-8">
-			<Suspense fallback={<MetaLoadingSkeleton />}>
-				<MetaContent rank={rank} />
-			</Suspense>
+			<Await promise={meta} fallback={<MetaLoadingSkeleton />}>
+				{(data) => <MetaContent rank={rank} data={data} />}
+			</Await>
 		</div>
 	);
 }

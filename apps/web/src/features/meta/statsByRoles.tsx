@@ -10,7 +10,7 @@ import {
 } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import type { StatsByRolesType } from "@repo/database";
-import { UpdatedAtLabel } from "../_utils";
+import { UpdatedAtLabel } from "@/components/updated-at-label";
 import { tidyLabel } from "@/lib/utils";
 
 const rolePalette = {

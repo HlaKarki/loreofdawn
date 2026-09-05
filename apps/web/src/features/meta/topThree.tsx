@@ -1,7 +1,7 @@
-import { resolveImageSrc } from "../../heroes/_components/header.hero";
+import { resolveImageSrc } from "@/lib/images";
 import { Badge } from "@/components/ui/badge";
 import type { ConsolidatedHeroOptional } from "@repo/database";
-import { UpdatedAtLabel } from "../_utils";
+import { UpdatedAtLabel } from "@/components/updated-at-label";
 import { tidyLabel } from "@/lib/utils";
 
 type TopThreeProps = {
