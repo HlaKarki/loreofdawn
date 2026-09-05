@@ -21,8 +21,7 @@
 		"db:generate": "turbo -F server db:generate",
 		"db:migrate": "turbo -F server db:migrate",
 		"format": "prettier . --write",
-		"format:check": "prettier . --check",
-		"start": "bun run --filter web start"
+		"format:check": "prettier . --check"
 	},
 	"dependencies": {
 		"@radix-ui/react-tooltip": "^1.2.8"
