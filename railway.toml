@@ -1,4 +1,0 @@
-[service."loreofdawn.server"]
-root = "."
-build = "bun install --frozen-lockfile && bun run --filter server build"
-start = "bun run --filter server start"

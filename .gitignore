@@ -12,7 +12,6 @@ wrangler.toml.backup
 wrangler.local.jsonc
 worker-configuration.d.ts
 
-apps/server/scripts/funcs.ts
 apps/web/scripts/funcs.ts
 
 dist
