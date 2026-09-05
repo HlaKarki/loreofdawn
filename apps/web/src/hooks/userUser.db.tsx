@@ -1,4 +1,4 @@
-import { useAuth } from "@clerk/nextjs";
+import { useAuth } from "@clerk/tanstack-react-start";
 import { useQuery } from "@tanstack/react-query";
 import { makeUrl } from "@/lib/utils.api";
 import type { userSchemaType } from "@repo/database";

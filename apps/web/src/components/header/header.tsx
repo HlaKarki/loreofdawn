@@ -1,8 +1,6 @@
-"use client";
-
 import { cn } from "@/lib/utils";
-import { UserButton } from "@clerk/nextjs";
-import { usePathname } from "next/navigation";
+import { UserButton } from "@clerk/tanstack-react-start";
+import { useLocation } from "@tanstack/react-router";
 import { useEffect, useRef, useState } from "react";
 
 const links = [
@@ -16,7 +14,7 @@ const links = [
 
 export default function Header() {
 	const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-	const pathname = usePathname();
+	const pathname = useLocation().pathname;
 	const headerRef = useRef<HTMLElement>(null);
 
 	// Close mobile menu on outside click
