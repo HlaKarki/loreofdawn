@@ -45,9 +45,16 @@ const fetchMeta = (rank: string) =>
 		),
 	]);
 
+const rankSchema = z.enum(["overall", "glory"]).catch("glory");
+
+// validateSearch output is what the server canonicalises the URL to, so an
+// unknown rank is normalised in loaderDeps instead of here — otherwise
+// /meta and /meta?rank=bogus both 307 to /meta?rank=glory.
 export const Route = createFileRoute("/meta")({
-	validateSearch: z.object({ rank: z.enum(["overall", "glory"]).optional().catch("glory") }),
-	loaderDeps: ({ search }) => ({ rank: search.rank ?? "glory" }),
+	validateSearch: z.object({
+		rank: z.string().optional(),
+	}),
+	loaderDeps: ({ search }) => ({ rank: rankSchema.parse(search.rank) }),
 	loader: ({ deps: { rank } }) => ({ meta: fetchMeta(rank) }),
 	head: () => ({
 		meta: [
@@ -205,7 +212,7 @@ function MetaLoadingSkeleton() {
 }
 
 function MetaPage() {
-	const rank = Route.useSearch().rank ?? "glory";
+	const rank = rankSchema.parse(Route.useSearch().rank);
 	const { meta } = Route.useLoaderData();
 
 	return (

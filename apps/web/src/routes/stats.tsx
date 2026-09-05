@@ -22,9 +22,16 @@ const fetchTableData = (rank: string) =>
 		(r) => r.json() as Promise<ConsolidatedHeroOptional[]>,
 	);
 
+const rankSchema = z.enum(["overall", "glory"]).catch("glory");
+
+// validateSearch output is what the server canonicalises the URL to, so an
+// unknown rank is normalised in loaderDeps instead of here — otherwise
+// /stats and /stats?rank=bogus both 307 to /stats?rank=glory.
 export const Route = createFileRoute("/stats")({
-	validateSearch: z.object({ rank: z.enum(["overall", "glory"]).optional().catch("glory") }),
-	loaderDeps: ({ search }) => ({ rank: search.rank ?? "glory" }),
+	validateSearch: z.object({
+		rank: z.string().optional(),
+	}),
+	loaderDeps: ({ search }) => ({ rank: rankSchema.parse(search.rank) }),
 	loader: ({ deps: { rank } }) => ({ tableData: fetchTableData(rank) }),
 	head: () => ({
 		meta: [
@@ -151,7 +158,7 @@ function StatsContent({ rank, tableData }: { rank: string; tableData: Consolidat
 }
 
 function StatsPage() {
-	const rank = Route.useSearch().rank ?? "glory";
+	const rank = rankSchema.parse(Route.useSearch().rank);
 	const { tableData } = Route.useLoaderData();
 
 	return (

@@ -1,5 +1,6 @@
 import { useNavigate, useSearch } from "@tanstack/react-router";
 import { useCallback, useEffect } from "react";
+import { z } from "zod";
 import {
 	Select,
 	SelectContent,
@@ -18,12 +19,14 @@ const RANK_OPTIONS = [
 
 type Rank = (typeof RANK_OPTIONS)[number]["value"];
 
+const rankSchema = z.enum(["overall", "glory"]).catch("glory");
+
 const STORAGE_KEY = "stats-rank-preference";
 
 export function RankSelector() {
 	const navigate = useNavigate();
-	const search = useSearch({ strict: false }) as { rank?: Rank };
-	const rank = search.rank ?? "glory";
+	const search = useSearch({ strict: false }) as { rank?: string };
+	const rank = rankSchema.parse(search.rank);
 
 	const setRank = useCallback(
 		(value: Rank) => {
