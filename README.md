@@ -34,6 +34,7 @@ A comprehensive Mobile Legends companion platform that combines real-time hero a
 ### Backend
 - **Cloudflare Workers** - Edge API with global caching
 - **Hono** - Lightweight, high-performance server framework
+- **ML stats sync** - 3-hourly cron in the Worker pulls hero stats from the game API into Supabase, then reseeds KV
 - **Drizzle ORM** with PostgreSQL (Supabase)
 - **Cloudflare Hyperdrive** - Connection pooling and query acceleration
 - **Cloudflare KV** - Edge caching layer
@@ -53,9 +54,7 @@ A comprehensive Mobile Legends companion platform that combines real-time hero a
 loreofdawn/
 ├── apps/
 │   ├── web/         # TanStack Start frontend (Cloudflare Worker)
-│   ├── worker/      # Cloudflare Workers edge API
-│   ├── server/      # Sync server for data pipeline
-│   └── crons/       # Scheduled tasks for data updates
+│   └── worker/      # Cloudflare Workers edge API + ML stats sync cron
 ├── packages/
 │   ├── database/    # Drizzle schema and types
 │   └── utils/       # Shared utilities
@@ -78,8 +77,7 @@ bun install
 cp apps/web/.env.example apps/web/.env
 cp apps/worker/.dev.vars.example apps/worker/.dev.vars
 
-# Push database schema
-cd packages/database
+# Push database schema (packages/database reads DATABASE_URL)
 bun db:push
 ```
 
@@ -92,7 +90,14 @@ bun dev
 # Or run individual apps
 bun dev:web      # Frontend (http://localhost:1201)
 bun dev:worker   # Worker API (http://localhost:8788)
-bun dev:server   # Sync server (http://localhost:3000)
+```
+
+### ML stats sync
+
+The Worker's cron (`0 */3 * * *`) runs the ML sync and then reseeds KV. Trigger a run by hand with:
+
+```bash
+curl -X POST https://cf-api.loreofdawn.com/internal/sync -H "Authorization: Bearer $SYNC_SECRET_TOKEN"
 ```
 
 ### Database
@@ -120,6 +125,8 @@ bun db:studio
 - `CLERK_SECRET_KEY` - Clerk authentication
 - `STRIPE_SECRET_KEY` - Stripe payments
 - `CLOUDFLARE_HYPERDRIVE_LOCAL_CONNECTION_STRING_HYPERDRIVE` - Local DB connection
+- `ML_BASE_URL`, `ML_FIRST_ID`, `ML_SECOND_ID_{HERO,MATCHUP,META,GRAPH}` - ML stats API endpoints for the sync cron
+- `SYNC_SECRET_TOKEN` - Bearer token for `POST /internal/sync`
 
 ## Deployment
 

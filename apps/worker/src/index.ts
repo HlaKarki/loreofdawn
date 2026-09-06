@@ -6,6 +6,7 @@ import { errorHandler } from "@/middleware/error";
 import { HeroService } from "@/services/heroes.service";
 import type { Env, Bindings } from "@/types";
 import { createDb } from "@/db";
+import { runMlSync } from "@/services/ml-sync/run";
 export { RateLimitBucket } from "@/durable-objects/rateLimitBucket";
 
 const allowedOrigins = new Set([
@@ -38,13 +39,14 @@ app.use("*", errorHandler);
 // Mount API routes
 app.route("/", apiRouter);
 
-/**
- * Cron job: Seed KV cache with all data data
- * Runs on a schedule to pre-populate the cache
- */
 const scheduled: ExportedHandlerScheduledHandler<Bindings> = async (_event, env, _ctx) => {
-	console.log("🔄 Starting KV seed job...");
 	const db = createDb(env.HYPERDRIVE.connectionString);
+
+	const summary = await runMlSync(db, env);
+	const log = summary.ok ? console.log : console.error;
+	log(`[ml-sync] ${summary.ok ? "ok" : "FAILED"} in ${summary.durationMs}ms`, JSON.stringify(summary.stages));
+
+	console.log("🔄 Starting KV seed job...");
 	const heroService = new HeroService(db, env.KV);
 	const heroes_list = await heroService.getHeroList();
 

@@ -12,6 +12,13 @@ export type Bindings = {
 	STRIPE_WEBHOOK_SECRET: string;
 	STRIPE_PRICE_ID_MASTER: string;
 	STRIPE_PRICE_ID_MYTHICAL: string;
+	ML_BASE_URL: string;
+	ML_FIRST_ID: string;
+	ML_SECOND_ID_HERO: string;
+	ML_SECOND_ID_MATCHUP: string;
+	ML_SECOND_ID_META: string;
+	ML_SECOND_ID_GRAPH: string;
+	SYNC_SECRET_TOKEN: string;
 };
 
 export type Variables = {
