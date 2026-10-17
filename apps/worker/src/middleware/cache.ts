@@ -99,6 +99,8 @@ class CacheKvLayer {
 		Logger.info(pathname, { message: `KV missed: ${cacheKey}` });
 
 		const fresh = await compute();
+		// Callers return { error } instead of throwing, so skip caching it or one failure is served for the whole TTL.
+		if (fresh !== null && typeof fresh === "object" && Object.hasOwn(fresh, "error")) return fresh;
 
 		await c.env.KV.put(cacheKey, JSON.stringify(fresh), {
 			expirationTtl: ttlSeconds ?? this.ttlSeconds,
