@@ -4,6 +4,7 @@ import { cacheKvLayer } from "@/middleware/cache";
 import type { Env } from "@/types";
 import { createDb } from "@/db";
 import { heroRolesEnum } from "@repo/database";
+import { requireSyncToken } from "@/middleware/syncToken";
 
 const cv = "v1.0.1";
 
@@ -151,7 +152,7 @@ heroesRouter.get("/quadrant_data", async (c) => {
  * DELETE /v1/heroes/:name
  * Delete cache for a hero (all ranks) or all heroes
  */
-heroesRouter.delete("/:name", async (c) => {
+heroesRouter.delete("/:name", requireSyncToken, async (c) => {
 	const name = c.req.param("name")?.trim().toLowerCase();
 
 	if (!name) {
