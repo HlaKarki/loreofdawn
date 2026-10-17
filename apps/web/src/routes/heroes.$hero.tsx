@@ -88,7 +88,7 @@ export const Route = createFileRoute("/heroes/$hero")({
 });
 
 function HeroPage() {
-	const { hero_name, profile, matchups, meta, graph } = Route.useLoaderData();
+	const { profile, matchups, meta, graph } = Route.useLoaderData();
 	const displayName = tidyLabel(profile.name);
 
 	return (
@@ -97,7 +97,7 @@ function HeroPage() {
 				items={[
 					{ name: "Home", url: "https://loreofdawn.com" },
 					{ name: "Heroes", url: "https://loreofdawn.com/heroes" },
-					{ name: displayName, url: `https://loreofdawn.com/heroes/${hero_name}` },
+					{ name: displayName, url: `https://loreofdawn.com/heroes/${profile.url_name}` },
 				]}
 			/>
 			<div className="mx-auto w-full max-w-6xl px-4 pb-16 pt-6 sm:px-6 lg:px-8">
