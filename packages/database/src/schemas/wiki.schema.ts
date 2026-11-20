@@ -9,16 +9,21 @@ import {
 	uuid,
 } from "drizzle-orm/pg-core";
 import { WikiMetadata, type AiMarkdownResponse } from "../types/wiki.types";
+import { readonlySelectPolicy } from "./policies";
 
-export const wikisTable = pgTable("wikis", {
-	id: uuid("id").defaultRandom().primaryKey(),
-	hero: text("hero").notNull().unique(),
-	urlName: text("urlName").notNull().unique(),
-	markdown: text("markdown").notNull(),
-	sections: jsonb("sections").$type<AiMarkdownResponse>().notNull(),
-	metadata: jsonb("metadata").$type<WikiMetadata>().notNull(),
-	lastUpdated: bigint("last_updated", { mode: "number" }),
-}).enableRLS();
+export const wikisTable = pgTable(
+	"wikis",
+	{
+		id: uuid("id").defaultRandom().primaryKey(),
+		hero: text("hero").notNull().unique(),
+		urlName: text("urlName").notNull().unique(),
+		markdown: text("markdown").notNull(),
+		sections: jsonb("sections").$type<AiMarkdownResponse>().notNull(),
+		metadata: jsonb("metadata").$type<WikiMetadata>().notNull(),
+		lastUpdated: bigint("last_updated", { mode: "number" }),
+	},
+	() => [readonlySelectPolicy()],
+).enableRLS();
 
 export const wikiAnalyticsTable = pgTable("wiki_analytics", {
 	id: uuid("id").defaultRandom().primaryKey(),
