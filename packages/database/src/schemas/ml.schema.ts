@@ -8,6 +8,7 @@ import {
 	index,
 	real,
 } from "drizzle-orm/pg-core";
+import { readonlySelectPolicy } from "./policies";
 import type { MlGraphPoint, MlHeroProfile, MlMatchupSubHeroSummary } from "../types/ml.types";
 
 export const heroProfileTable = pgTable(
@@ -29,7 +30,7 @@ export const heroProfileTable = pgTable(
 		relation: jsonb("relation").$type<MlHeroProfile["relation"]>().notNull(),
 		source_link: text("source_link"),
 	},
-	(t) => [index("hero_profile_name_idx").on(t.name)],
+	(t) => [index("hero_profile_name_idx").on(t.name), readonlySelectPolicy()],
 ).enableRLS();
 
 export const heroMatchupTable = pgTable(
@@ -49,6 +50,7 @@ export const heroMatchupTable = pgTable(
 		primaryKey({ columns: [t.id, t.rank] }),
 		index("hero_matchup_name_idx").on(t.name),
 		index("hero_matchup_rank_idx").on(t.rank),
+		readonlySelectPolicy(),
 	],
 ).enableRLS();
 
@@ -68,6 +70,7 @@ export const heroMetaDataTable = pgTable(
 		primaryKey({ columns: [t.id, t.rank] }),
 		index("hero_meta_name_idx").on(t.name),
 		index("hero_meta_rank_idx").on(t.rank),
+		readonlySelectPolicy(),
 	],
 ).enableRLS();
 
@@ -87,6 +90,7 @@ export const heroGraphDataTable = pgTable(
 		primaryKey({ columns: [t.id, t.rank] }),
 		index("hero_graph_name_idx").on(t.name),
 		index("hero_graph_rank_idx").on(t.rank),
+		readonlySelectPolicy(),
 	],
 ).enableRLS();
 
@@ -98,5 +102,5 @@ export const heroesListTable = pgTable(
 		display_name: text("display_name").notNull(),
 		updatedAt: bigint("updatedAt", { mode: "number" }).notNull(),
 	},
-	(t) => [index("ml_heroes_list_table_idx").on(t.id)],
+	(t) => [index("ml_heroes_list_table_idx").on(t.id), readonlySelectPolicy()],
 ).enableRLS();
