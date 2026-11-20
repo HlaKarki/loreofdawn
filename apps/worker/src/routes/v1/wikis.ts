@@ -4,6 +4,7 @@ import { cacheKvLayer } from "@/middleware/cache";
 import type { Env } from "@/types";
 import { HeroService } from "@/services/heroes.service";
 import { createDb } from "@/db";
+import { requireSyncToken } from "@/middleware/syncToken";
 
 export const wikisRouter = new Hono<Env>();
 
@@ -53,7 +54,7 @@ wikisRouter.get("/:name", async (c) => {
 	);
 });
 
-wikisRouter.delete("/:name", async (c) => {
+wikisRouter.delete("/:name", requireSyncToken, async (c) => {
 	const name = c.req.param("name")?.trim().toLowerCase();
 
 	if (!name) {

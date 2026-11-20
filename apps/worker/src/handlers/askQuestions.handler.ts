@@ -20,8 +20,9 @@ const input_schema = z.object({
 });
 
 /**
- * Converts natural language questions into SQL queries using AI, executes them safely
- * on a read-only database connection, and optionally returns AI-generated natural language responses.
+ * Converts natural language questions into SQL queries using AI, executes the generated SQL
+ * on the read-only HYPERDRIVE_READONLY connection, and optionally returns AI-generated natural
+ * language responses. Credits and hero metadata use the read-write HYPERDRIVE connection.
  *
  * @param {Context} c - Hono Context
  */
@@ -44,8 +45,8 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		return c.json({ error: "Invalid request", details: validation.error.errors }, 400);
 	}
 
-	// Create single DB instance
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
+	const readonlyDb = createDb(c.env.HYPERDRIVE_READONLY.connectionString);
 
 	const creditService = new CreditService(db);
 	const heroService = new HeroService(db, c.env.KV);
@@ -92,7 +93,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		c,
 		`queryResult:${shaSqlResult}`,
 		async () => {
-			return await DbService.executeSqlQuery(sqlResult.sql, db);
+			return await DbService.executeSqlQuery(sqlResult.sql, readonlyDb);
 		},
 		{ ttlSeconds: 60 * 60 }, // 1 hour,
 	);

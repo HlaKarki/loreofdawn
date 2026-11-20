@@ -16,7 +16,7 @@ const formatPercent = (value?: number, digits = 1) =>
 export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 	if (!hero) return null;
 
-	const heroSlug = hero.profile.name.toLowerCase().replace(/\s+/g, "-");
+	const heroSlug = hero.profile.url_name;
 	const image = resolveImageSrc(
 		hero.profile.images.painting,
 		hero.profile.images.squarehead_big,

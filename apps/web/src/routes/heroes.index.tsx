@@ -208,7 +208,7 @@ function HeroesPage() {
 							<Link
 								key={hero.profile.id}
 								to="/heroes/$hero"
-								params={{ hero: hero.profile.name.toLowerCase().replace(/\s+/g, "-") }}
+								params={{ hero: hero.profile.url_name }}
 								search={{ rank: "overall" }}
 								className="group flex gap-4 rounded-xl border border-border/60 bg-card p-4 transition-colors hover:border-border hover:bg-accent/30"
 							>
