@@ -32,7 +32,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		);
 	}
 
-	const validation = input_schema.safeParse(await c.req.json());
+	const validation = input_schema.safeParse(await c.req.json().catch(() => null));
 	if (!validation.success) {
 		return c.json({ error: "Invalid request", details: validation.error.errors }, 400);
 	}

@@ -23,7 +23,7 @@ subscriptionRouter.post("/checkout", requireAuth, async (c) => {
 		return c.json({ error: "Unauthorized" }, 401);
 	}
 
-	const validation = checkoutSchema.safeParse(await c.req.json());
+	const validation = checkoutSchema.safeParse(await c.req.json().catch(() => null));
 	if (!validation.success) {
 		return c.json({ error: "Invalid request", details: validation.error.errors }, 400);
 	}
