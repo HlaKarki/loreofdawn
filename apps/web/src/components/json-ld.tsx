@@ -17,8 +17,7 @@ export function WebsiteJsonLd() {
 		"@type": "WebSite",
 		name: "Lore of Dawn",
 		url: "https://loreofdawn.com",
-		description:
-			"Master Mobile Legends: Bang Bang with live meta stats, hero lore, matchup insights, and tier lists.",
+		description: "Win, pick and ban rates, matchups and lore for every Mobile Legends hero.",
 		potentialAction: {
 			"@type": "SearchAction",
 			target: {

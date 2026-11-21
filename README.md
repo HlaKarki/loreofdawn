@@ -1,6 +1,6 @@
 # Lore of Dawn
 
-A comprehensive Mobile Legends companion platform that combines real-time hero analytics with curated lore content. Built to help players make data-driven decisions and explore the rich storytelling universe of Mobile Legends: Bang Bang.
+Win, pick and ban rates, matchups and lore for every Mobile Legends hero.
 
 **Live:** [loreofdawn.com](https://loreofdawn.com)
 
