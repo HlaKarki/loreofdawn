@@ -1,10 +1,6 @@
 import { createMiddleware } from "hono/factory";
 import type { Env } from "@/types";
 
-/**
- * Global error handling middleware
- * Catches all errors and returns a consistent JSON error response
- */
 export const errorHandler = createMiddleware<Env>(async (c, next) => {
 	try {
 		await next();

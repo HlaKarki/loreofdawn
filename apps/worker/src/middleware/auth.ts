@@ -3,7 +3,6 @@ import { Env } from "@/types";
 import { verifyToken } from "@clerk/backend";
 
 export const requireAuth = createMiddleware<Env>(async (c, next) => {
-	// Skip auth for OPTIONS requests (CORS preflight)
 	if (c.req.method === "OPTIONS") {
 		return next();
 	}

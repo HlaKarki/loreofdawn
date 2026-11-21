@@ -25,15 +25,12 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 
 	return (
 		<section className="group relative h-full overflow-hidden rounded-2xl border border-border/60 bg-card">
-			{/* Background image with gradient overlay */}
 			<div className="absolute inset-0">
 				<img src={image} alt="" className="h-full w-full object-cover object-top" />
 				<div className="absolute inset-0 bg-gradient-to-t from-card via-card/90 to-card/40" />
 			</div>
 
-			{/* Content */}
 			<div className="relative flex h-full flex-col justify-end p-5 sm:p-6">
-				{/* Badge */}
 				<div className="mb-auto flex items-center gap-2">
 					<Badge className="gap-1.5 bg-amber-500 text-amber-950 hover:bg-amber-500">
 						<Star className="h-3 w-3" />
@@ -41,7 +38,6 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 					</Badge>
 				</div>
 
-				{/* Hero info */}
 				<div className="mt-32 space-y-4 sm:mt-40">
 					<div>
 						<div className="mb-2 flex flex-wrap gap-1.5">
@@ -61,7 +57,6 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 						</p>
 					</div>
 
-					{/* Stats row */}
 					<div className="flex flex-wrap items-center gap-4 text-sm">
 						<div className="flex items-center gap-1.5">
 							<span className="font-semibold text-emerald-500">
@@ -83,7 +78,6 @@ export const HeroOfTheDay = ({ hero }: HeroOfTheDayProps) => {
 						</div>
 					</div>
 
-					{/* Actions */}
 					<div className="flex flex-wrap gap-2">
 						<Button
 							asChild

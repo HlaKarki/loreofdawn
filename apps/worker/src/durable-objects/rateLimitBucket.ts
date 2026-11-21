@@ -3,12 +3,6 @@ type Bucket = {
 	lastMs: number;
 };
 
-export type RateLimitBucketReturnType = {
-	allowed: true;
-	remaining?: number;
-	retryAfter?: number;
-};
-
 export class RateLimitBucket {
 	constructor(
 		private state: DurableObjectState,
@@ -22,7 +16,6 @@ export class RateLimitBucket {
 		const windowSeconds = Number(url.searchParams.get("windowSecond") ?? 60);
 		const refillMs = capacity / (windowSeconds * 1000);
 
-		// load current state
 		let bucket = await this.state.storage.get<Bucket>("bucket");
 
 		const now = Date.now();
@@ -38,18 +31,13 @@ export class RateLimitBucket {
 			bucket.lastMs = now;
 		}
 
-		// see if token can be reduced by 1
 		const isValid = bucket.tokens >= 1;
 		if (isValid) {
 			bucket.tokens -= 1;
 		}
 
-		// persistence
 		await this.state.storage.put("bucket", bucket);
 
-		// helpful headers
-		// 1 -> refillMs
-		// capacity -> refillMs
 		const secondsToCapacity = (capacity - bucket.tokens) / (refillMs * 1000);
 		const retryAfter = isValid ? 0 : Math.ceil((1 - bucket.tokens) / (refillMs * 1000));
 		const headers = new Headers({

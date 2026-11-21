@@ -8,10 +8,6 @@ import { Logger } from "@repo/utils";
 import type { Context } from "hono";
 import type { Env } from "@/types";
 
-/**
- * Stripe webhook handler
- * Handles subscription lifecycle events
- */
 export const stripeWebhookHandler = async (c: Context<Env>) => {
 	const pathname = new URL(c.req.url).pathname;
 	const WEBHOOK_SECRET = c.env.STRIPE_WEBHOOK_SECRET;
@@ -74,7 +70,6 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					return c.json({ error: "Missing user ID" }, 400);
 				}
 
-				// Get subscription to find the price ID
 				const subscription = await stripeService.getSubscription(subscriptionId);
 				const priceId = subscription.items.data[0]?.price.id;
 
@@ -83,14 +78,12 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					return c.json({ error: "Missing price ID" }, 400);
 				}
 
-				// Determine tier from price ID
 				const tier = getTierFromPriceId(priceId, tierIds);
 				if (!tier) {
 					Logger.error(pathname, { message: `Unknown price ID: ${priceId}` });
 					return c.json({ error: "Unknown price ID" }, 400);
 				}
 
-				// Update user with subscription details and tier
 				await userService.updateSubscription(clerkUserId, {
 					stripe_customer_id: customerId,
 					stripe_subscription_id: subscriptionId,
@@ -98,7 +91,7 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					tier,
 				});
 
-				// Credits will be allocated by invoice.paid event (billing_reason: subscription_create)
+				// invoice.paid also fires for the first payment, so credits get allocated there.
 
 				Logger.info(pathname, {
 					clerkUserId,
@@ -118,12 +111,10 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					break;
 				}
 
-				// get new price id
 				const priceId = subscription.items.data[0]?.price.id;
 				const tier = getTierFromPriceId(priceId, tierIds);
 
 				if (tier) {
-					// handle upgrade/downgrade
 					await userService.updateSubscription(clerkUserId, {
 						tier,
 						stripe_subscription_status: subscription.status,
@@ -137,7 +128,6 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 						message: "Subscription tier changed, credits reset",
 					});
 				} else {
-					// simply change status
 					await userService.updateSubscription(clerkUserId, {
 						stripe_subscription_status: subscription.status,
 					});
@@ -160,14 +150,12 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					break;
 				}
 
-				// Downgrade to free tier
 				await userService.updateSubscription(clerkUserId, {
 					stripe_subscription_id: undefined,
 					stripe_subscription_status: undefined,
 					tier: "free",
 				});
 
-				// Allocate free tier credits
 				await creditService.resetCreditsForTier(clerkUserId, "free");
 
 				Logger.info(pathname, {
@@ -186,7 +174,6 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					break;
 				}
 
-				// Get subscription to find user
 				const subscription = await stripeService.getSubscription(subscriptionId);
 				const clerkUserId = subscription.metadata?.clerk_user_id;
 
@@ -195,14 +182,12 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					break;
 				}
 
-				// Get user to determine tier
 				const user = await userService.getUserByClerkId(clerkUserId);
 				if (!user) {
 					Logger.error(pathname, { message: `User not found: ${clerkUserId}` });
 					break;
 				}
 
-				// Renew credits for the billing period (includes both initial and renewal invoices)
 				if (
 					invoice.billing_reason === "subscription_cycle" ||
 					invoice.billing_reason === "subscription_create"
@@ -235,7 +220,6 @@ export const stripeWebhookHandler = async (c: Context<Env>) => {
 					break;
 				}
 
-				// Update subscription status
 				await userService.updateSubscription(clerkUserId, {
 					stripe_subscription_status: "past_due",
 				});

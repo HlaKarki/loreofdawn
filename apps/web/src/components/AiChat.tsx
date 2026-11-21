@@ -56,7 +56,6 @@ export const AiChat = () => {
 		});
 	};
 
-	// Close auth modal and open drawer once user signs in
 	React.useEffect(() => {
 		if (isSignedIn && showAuthModal) {
 			setShowAuthModal(false);
@@ -86,7 +85,6 @@ export const AiChat = () => {
 							}}
 						/>
 
-						{/* Main pulse */}
 						<motion.span
 							className="absolute h-[65px] w-[65px] rounded-full border border-primary/30"
 							animate={{

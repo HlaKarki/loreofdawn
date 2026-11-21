@@ -19,7 +19,7 @@ export const useUserDb = () => {
 
 			return (await response.json()) as userSchemaType;
 		},
-		staleTime: 15 * 60 * 1000, // 15 minutes
+		staleTime: 15 * 60 * 1000,
 	});
 
 	return {

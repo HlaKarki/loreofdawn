@@ -12,9 +12,6 @@ import {
 const RANK_OPTIONS = [
 	{ value: "overall", label: "Overall" },
 	{ value: "glory", label: "Glory" },
-	// { value: "epic", label: "Epic" },
-	// { value: "legend", label: "Legend" },
-	// { value: "mythic", label: "Mythic" },
 ] as const;
 
 type Rank = (typeof RANK_OPTIONS)[number]["value"];
@@ -39,14 +36,12 @@ export function RankSelector() {
 		[navigate],
 	);
 
-	// Save to localStorage whenever rank changes
 	useEffect(() => {
 		if (typeof window !== "undefined") {
 			localStorage.setItem(STORAGE_KEY, rank);
 		}
 	}, [rank]);
 
-	// Load from localStorage on mount if no URL param
 	useEffect(() => {
 		if (typeof window !== "undefined") {
 			const urlParams = new URLSearchParams(window.location.search);

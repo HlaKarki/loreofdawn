@@ -4,7 +4,6 @@ import {
 	DropdownMenu,
 	DropdownMenuContent,
 	DropdownMenuGroup,
-	DropdownMenuItem,
 	DropdownMenuLabel,
 	DropdownMenuSeparator,
 	DropdownMenuTrigger,
@@ -50,7 +49,6 @@ export function FilterPresets({ currentFilters, onLoadPreset }: FilterPresetsPro
 	const [saveDialogOpen, setSaveDialogOpen] = useState(false);
 	const [presetName, setPresetName] = useState("");
 
-	// Load presets from localStorage
 	useEffect(() => {
 		if (typeof window !== "undefined") {
 			const saved = localStorage.getItem(STORAGE_KEY);
@@ -64,7 +62,6 @@ export function FilterPresets({ currentFilters, onLoadPreset }: FilterPresetsPro
 		}
 	}, []);
 
-	// Save presets to localStorage
 	const saveToStorage = (newPresets: FilterPreset[]) => {
 		if (typeof window !== "undefined") {
 			localStorage.setItem(STORAGE_KEY, JSON.stringify(newPresets));
@@ -163,7 +160,6 @@ export function FilterPresets({ currentFilters, onLoadPreset }: FilterPresetsPro
 				</DropdownMenuContent>
 			</DropdownMenu>
 
-			{/* Save Preset Dialog */}
 			<Dialog open={saveDialogOpen} onOpenChange={setSaveDialogOpen}>
 				<DialogContent className="sm:max-w-[425px]">
 					<DialogHeader>

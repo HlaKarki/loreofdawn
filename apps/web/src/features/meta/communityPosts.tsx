@@ -69,27 +69,22 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 						<a href={post.permalink} target="_blank" rel="noopener noreferrer">
 							<CardContent className="p-3 sm:p-4">
 								<div className="flex gap-3 sm:gap-4">
-									{/* Vote count */}
 									<div className="flex flex-col items-center justify-start gap-1 min-w-[40px] sm:min-w-[48px]">
 										<ArrowUpIcon className="w-4 h-4 sm:w-5 sm:h-5 text-muted-foreground" />
 										<span className="text-xs sm:text-sm font-semibold">{formatScore(post.score)}</span>
 									</div>
 
-									{/* Post content */}
 									<div className="flex-1 min-w-0">
-										{/* Flair */}
 										{post.flair && (
 											<Badge variant="secondary" className="mb-2">
 												{post.flair}
 											</Badge>
 										)}
 
-										{/* Title */}
 										<h3 className="text-base sm:text-lg font-semibold mb-2 group-hover:text-primary transition-colors line-clamp-2">
 											{post.title}
 										</h3>
 
-										{/* Metadata */}
 										<div className="flex items-center gap-3 text-xs text-muted-foreground flex-wrap">
 											{getPostTypeIcon(post.postType) && (
 												<>
@@ -107,7 +102,6 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 											</div>
 										</div>
 
-										{/* Content preview */}
 										{post.content && (
 											<p className="mt-2 text-sm text-muted-foreground line-clamp-2">
 												{post.content}
@@ -115,7 +109,6 @@ export const CommunityPosts = ({ data }: { data: RedditPostType[] }) => {
 										)}
 									</div>
 
-									{/* Thumbnail */}
 									{post.thumbnail && (
 										<div className="hidden sm:block w-24 h-24 flex-shrink-0 rounded overflow-hidden bg-muted relative">
 											<Img

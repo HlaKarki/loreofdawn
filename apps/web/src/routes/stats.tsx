@@ -24,9 +24,7 @@ const fetchTableData = (rank: string) =>
 
 const rankSchema = z.enum(["overall", "glory"]).catch("glory");
 
-// validateSearch output is what the server canonicalises the URL to, so an
-// unknown rank is normalised in loaderDeps instead of here — otherwise
-// /stats and /stats?rank=bogus both 307 to /stats?rank=glory.
+// The server 307s to whatever validateSearch returns, so default rank in loaderDeps instead.
 export const Route = createFileRoute("/stats")({
 	validateSearch: z.object({
 		rank: z.string().optional(),
@@ -55,7 +53,6 @@ export const Route = createFileRoute("/stats")({
 });
 
 function StatsContent({ rank, tableData }: { rank: string; tableData: ConsolidatedHeroOptional[] }) {
-	// Calculate overview stats using centralized config
 	const totalHeroes = tableData.length;
 	const balancedHeroes = tableData.filter(
 		(h) =>
@@ -110,7 +107,6 @@ function StatsContent({ rank, tableData }: { rank: string; tableData: Consolidat
 
 	return (
 		<>
-			{/* Header */}
 			<header className="flex flex-col gap-4">
 				<div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
 					<div>
@@ -131,7 +127,6 @@ function StatsContent({ rank, tableData }: { rank: string; tableData: Consolidat
 				</div>
 			</header>
 
-			{/* Overview Cards */}
 			<div className="grid grid-cols-2 gap-3 sm:gap-4 lg:grid-cols-4">
 				{overviewCards.map((card) => (
 					<div
@@ -152,7 +147,6 @@ function StatsContent({ rank, tableData }: { rank: string; tableData: Consolidat
 				))}
 			</div>
 
-			{/* Full Hero Table */}
 			<DataTable data={tableData} rank={rank} />
 		</>
 	);

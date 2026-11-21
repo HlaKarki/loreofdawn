@@ -7,7 +7,6 @@ import { resolveImageSrc } from "@/lib/images";
 export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 	return (
 		<div className="mb-6 grid gap-6 lg:grid-cols-3">
-			{/* Strong Against */}
 			{data.relation?.strong_against?.length > 0 && (
 				<Card>
 					<CardHeader>
@@ -44,7 +43,6 @@ export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 				</Card>
 			)}
 
-			{/* Weak Against */}
 			{data.relation?.weak_against?.length > 0 && (
 				<Card>
 					<CardHeader>
@@ -81,7 +79,6 @@ export const HeroRelationship = ({ data }: { data: MlHeroProfile }) => {
 				</Card>
 			)}
 
-			{/* Compatible With */}
 			{data.relation?.compatible_with?.length > 0 && (
 				<Card>
 					<CardHeader>

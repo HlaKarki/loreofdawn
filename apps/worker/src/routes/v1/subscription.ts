@@ -15,10 +15,6 @@ const checkoutSchema = z.object({
 	cancelUrl: z.string().url(),
 });
 
-/**
- * POST /subscription/checkout
- * Create a Stripe checkout session for subscription
- */
 subscriptionRouter.post("/checkout", requireAuth, async (c) => {
 	const pathname = new URL(c.req.url).pathname;
 	const clerkUserId = c.get("clerkUserId");
@@ -44,7 +40,6 @@ subscriptionRouter.post("/checkout", requireAuth, async (c) => {
 			return c.json({ error: "User not found" }, 404);
 		}
 
-		// Check if user already has an active subscription
 		if (user.stripe_subscription_status === "active") {
 			return c.json(
 				{
@@ -57,11 +52,9 @@ subscriptionRouter.post("/checkout", requireAuth, async (c) => {
 			);
 		}
 
-		// Get price ID based on tier
 		const priceId =
 			tier === "master" ? c.env.STRIPE_PRICE_ID_MASTER : c.env.STRIPE_PRICE_ID_MYTHICAL;
 
-		// Create checkout session
 		const session = await stripeService.createCheckoutSession({
 			priceId,
 			customerEmail: user.email,
@@ -94,10 +87,6 @@ subscriptionRouter.post("/checkout", requireAuth, async (c) => {
 	}
 });
 
-/**
- * GET /subscription/status
- * Get current subscription status
- */
 subscriptionRouter.get("/status", requireAuth, async (c) => {
 	const pathname = new URL(c.req.url).pathname;
 	const clerkUserId = c.get("clerkUserId");
@@ -135,10 +124,6 @@ subscriptionRouter.get("/status", requireAuth, async (c) => {
 	}
 });
 
-/**
- * POST /subscription/cancel
- * Cancel current subscription
- */
 subscriptionRouter.post("/cancel", requireAuth, async (c) => {
 	const pathname = new URL(c.req.url).pathname;
 	const clerkUserId = c.get("clerkUserId");
@@ -161,7 +146,6 @@ subscriptionRouter.post("/cancel", requireAuth, async (c) => {
 			return c.json({ error: "No active subscription" }, 400);
 		}
 
-		// Cancel subscription in Stripe
 		await stripeService.cancelSubscription(user.stripe_subscription_id);
 
 		Logger.info(pathname, {
@@ -186,10 +170,6 @@ subscriptionRouter.post("/cancel", requireAuth, async (c) => {
 	}
 });
 
-/**
- * POST /subscription/portal
- * Get Stripe customer portal link
- */
 subscriptionRouter.post("/portal", requireAuth, async (c) => {
 	const pathname = new URL(c.req.url).pathname;
 	const clerkUserId = c.get("clerkUserId");

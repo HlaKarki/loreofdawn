@@ -10,7 +10,6 @@ const cV = "v1.0.1";
 function transformRedditPost(post: any): RedditPostType {
 	const data = post.data;
 
-	// Determine post type
 	let postType: "text" | "image" | "video" | "link" | "gallery" = "text";
 	if (data.is_gallery) {
 		postType = "gallery";
@@ -22,10 +21,9 @@ function transformRedditPost(post: any): RedditPostType {
 		postType = "link";
 	}
 
-	// Get the best thumbnail - try preview images first, fall back to thumbnail
 	let thumbnail: string | null = null;
 	if (data.preview?.images?.[0]?.source?.url) {
-		// Decode HTML entities in the URL
+		// Reddit HTML-escapes preview URLs, so turn &amp; back into &.
 		thumbnail = data.preview.images[0].source.url.replace(/&amp;/g, "&");
 	} else if (
 		data.thumbnail &&
@@ -93,11 +91,11 @@ communityRouter.get("/posts", async (c) => {
 						.map(transformRedditPost);
 
 					return { posts: transformedPosts };
-				} catch (error) {
+				} catch {
 					return { posts: [] };
 				}
 			},
-			{ ttlSeconds: 300 }, // 5 minutes cache
+			{ ttlSeconds: 300 },
 		)) ?? c.json({ posts: [] })
 	);
 });

@@ -2,17 +2,14 @@ import type { userTableTier } from "../types/users.types";
 
 export interface TierConfig {
 	credits_monthly: number;
-	rate_limit_capacity: number; // requests per window
+	rate_limit_capacity: number;
 	rate_limit_window_seconds: number;
 	stripe_price_id: string | null;
 	display_name: string;
 	description: string;
 }
 
-/**
- * Base tier configuration without Stripe price IDs
- * Price IDs are injected at runtime from environment variables
- */
+// Stripe price IDs come from env vars at runtime, so they are left out here.
 const BASE_TIER_CONFIG: Record<userTableTier, Omit<TierConfig, "stripe_price_id">> = {
 	free: {
 		credits_monthly: 50,
@@ -37,10 +34,6 @@ const BASE_TIER_CONFIG: Record<userTableTier, Omit<TierConfig, "stripe_price_id"
 	},
 };
 
-/**
- * Get tier configuration for a specific tier
- * For tiers that don't require price IDs (like 'free'), you can omit the price IDs
- */
 export function getTierConfig(
 	tier: userTableTier,
 	priceIds?: { master?: string; mythical?: string }
@@ -60,9 +53,6 @@ export function getTierConfig(
 	};
 }
 
-/**
- * Get tier from Stripe price ID
- */
 export function getTierFromPriceId(
 	priceId: string,
 	priceIds: { master: string; mythical: string }
@@ -76,9 +66,6 @@ export function getTierFromPriceId(
 	return null;
 }
 
-/**
- * Check if a tier requires a paid subscription
- */
 export function isPaidTier(tier: userTableTier): boolean {
 	return tier !== "free";
 }

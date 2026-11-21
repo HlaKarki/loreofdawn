@@ -19,7 +19,7 @@ class CacheKvLayer {
 		const cached = await cache.match(this.cacheUrlFor(cacheKey));
 		if (!cached) return null;
 
-		console.log("✓️ Cache hit: ", cacheKey);
+		console.log("Cache hit: ", cacheKey);
 		return cached;
 	}
 
@@ -39,7 +39,7 @@ class CacheKvLayer {
 		const kvData = await c.env.KV.get(cacheKey, "json");
 		if (!kvData) return null;
 
-		console.log("✓ KV hit: ", cacheKey);
+		console.log("KV hit: ", cacheKey);
 
 		const response = c.json(kvData);
 		await this.writeCache(cacheKey, kvData, response.headers);
@@ -121,12 +121,10 @@ class CacheKvLayer {
 
 		const payload = JSON.stringify({ q: normalized, ...opts });
 
-		// hash with SHA-256
 		const encoder = new TextEncoder();
 		const data = encoder.encode(payload);
 		const hashBuffer = await crypto.subtle.digest("SHA-256", data);
 
-		// convert to base64url for compact readability
 		const hashArray = Array.from(new Uint8Array(hashBuffer));
 		const base64url = btoa(String.fromCharCode(...hashArray))
 			.replace(/\+/g, "-")

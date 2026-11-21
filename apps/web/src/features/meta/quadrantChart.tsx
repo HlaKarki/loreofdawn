@@ -1,4 +1,4 @@
-import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import {
 	ScatterChart,
@@ -19,11 +19,9 @@ const CustomDot = (props: any) => {
 	const size = 10 + payload.banRate * 60;
 	const radius = size / 2;
 
-	// Show avatar for ban rate > 0.1 (10%)
 	const showAvatar = payload.banRate > 0.1;
 
 	if (showAvatar) {
-		// Sanitize hero name for valid clipPath ID
 		const clipId = `clip-${payload.name.replace(/[^a-zA-Z0-9]/g, "-")}`;
 
 		return (

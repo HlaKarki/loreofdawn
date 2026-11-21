@@ -9,13 +9,8 @@ export class CreditService {
 		this.db = db;
 	}
 
-	/**
-	 * Atomically check and deduct 1 credit from user's balance
-	 * @throws Error if user has insufficient credits
-	 * @returns Updated credits_remaining
-	 */
 	async useCredit(clerkUserId: string): Promise<{ credits_remaining: number }> {
-		// Atomic check-and-deduct using UPDATE with WHERE clause
+		// The balance check sits in the WHERE, so two requests can't both spend the last credit.
 		const [result] = await this.db
 			.update(usersTable)
 			.set({
@@ -27,7 +22,6 @@ export class CreditService {
 			)
 			.returning({ credits_remaining: usersTable.credits_remaining });
 
-		// If no rows updated, user had insufficient credits
 		if (!result) {
 			throw new Error("Insufficient credits");
 		}
@@ -35,9 +29,6 @@ export class CreditService {
 		return result;
 	}
 
-	/**
-	 * Check if user has sufficient credits without deducting
-	 */
 	async hasCredits(clerkUserId: string): Promise<boolean> {
 		const [user] = await this.db
 			.select({ credits_remaining: usersTable.credits_remaining })
@@ -48,16 +39,12 @@ export class CreditService {
 		return user ? user.credits_remaining >= 1 : false;
 	}
 
-	/**
-	 * Allocate credits to a user based on their tier
-	 * Used for subscription renewals and tier upgrades
-	 */
 	async allocateCredits(
 		clerkUserId: string,
 		amount: number,
 	): Promise<{ credits_remaining: number; credits_total: number }> {
 		const now = Date.now();
-		const resetAt = now + 30 * 24 * 60 * 60 * 1000; // 30 days from now
+		const resetAt = now + 30 * 24 * 60 * 60 * 1000;
 
 		const [result] = await this.db
 			.update(usersTable)
@@ -80,9 +67,6 @@ export class CreditService {
 		return result;
 	}
 
-	/**
-	 * Reset credits based on user's tier (for subscription renewals)
-	 */
 	async resetCreditsForTier(clerkUserId: string, tier: userTableTier): Promise<{
 		credits_remaining: number;
 		credits_total: number;
@@ -91,9 +75,6 @@ export class CreditService {
 		return await this.allocateCredits(clerkUserId, tierConfig.credits_monthly);
 	}
 
-	/**
-	 * Get user's credit balance
-	 */
 	async getCreditBalance(clerkUserId: string): Promise<{
 		credits_remaining: number;
 		credits_total: number;

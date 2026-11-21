@@ -91,27 +91,3 @@ export function BreadcrumbJsonLd({ items }: BreadcrumbJsonLdProps) {
 
 	return <JsonLd data={data} />;
 }
-
-type FAQJsonLdProps = {
-	questions: Array<{
-		question: string;
-		answer: string;
-	}>;
-};
-
-export function FAQJsonLd({ questions }: FAQJsonLdProps) {
-	const data = {
-		"@context": "https://schema.org",
-		"@type": "FAQPage",
-		mainEntity: questions.map((q) => ({
-			"@type": "Question",
-			name: q.question,
-			acceptedAnswer: {
-				"@type": "Answer",
-				text: q.answer,
-			},
-		})),
-	};
-
-	return <JsonLd data={data} />;
-}

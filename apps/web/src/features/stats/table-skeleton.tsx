@@ -11,7 +11,6 @@ import {
 export function TableSkeleton({ rows = 20, columns = 8 }: { rows?: number; columns?: number }) {
 	return (
 		<div className="space-y-4">
-			{/* Filter Skeletons */}
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
 				<Skeleton className="h-10 w-full max-w-sm" />
 				<div className="flex gap-2">
@@ -20,7 +19,6 @@ export function TableSkeleton({ rows = 20, columns = 8 }: { rows?: number; colum
 				</div>
 			</div>
 
-			{/* Table Skeleton */}
 			<div className="overflow-hidden rounded-lg border bg-card shadow-sm">
 				<Table>
 					<TableHeader>
@@ -49,7 +47,6 @@ export function TableSkeleton({ rows = 20, columns = 8 }: { rows?: number; colum
 				</Table>
 			</div>
 
-			{/* Pagination Skeleton */}
 			<div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
 				<Skeleton className="h-4 w-48" />
 				<div className="flex items-center gap-2">

@@ -1,35 +1,12 @@
-/**
- * Enhanced Wiki Types
- * Designed for rich lore discovery and search UX
- */
-
 import z from "zod/v3";
 
-// ============================================================================
-// TYPE DEFINITIONS (Flexible strings with examples for AI guidance)
-// ============================================================================
-
-// Story mood - Examples: tragic, heroic, mysterious, dark, comedic, romantic, epic, melancholic, triumphant, vengeful
 export type StoryMood = string;
 
-// Story theme - Examples: revenge, redemption, betrayal, family, power, sacrifice, love, loss, honor, destiny, corruption, loyalty, freedom, justice
 export type StoryTheme = string;
 
-// Story arc - Examples: origin, fall_from_grace, rise_to_power, redemption_arc, tragedy, coming_of_age, quest, ongoing
 export type StoryArc = string;
 
-// Story type - Examples: full_backstory, side_story, multi_chapter, snippet, ability_lore, mixed
 export type StoryType = string;
-
-// ============================================================================
-// CORE WIKI METADATA
-// ============================================================================
-
-// ============================================================================
-// RELATIONSHIPS
-//
-// Hero relationships mentioned in lore
-// ============================================================================
 
 export const WikiRelationshipsZod = z.object({
 	relatedHeroes: z
@@ -93,7 +70,6 @@ export const WikiRelationshipsZod = z.object({
 export type WikiRelationships = z.infer<typeof WikiRelationshipsZod>;
 
 export const WikiMetadataAiGeneratedZod = z.object({
-	// Story classification
 	storyType: z
 		.string()
 		.describe(
@@ -105,10 +81,8 @@ export const WikiMetadataAiGeneratedZod = z.object({
 			"Character's narrative progression. Common examples: 'origin' (beginning), 'fall_from_grace' (descent), 'rise_to_power' (ascent), 'redemption_arc' (atonement), 'tragedy' (downfall), 'coming_of_age' (growth), 'quest' (journey), 'ongoing' (unresolved). Use similar terms if these don't fit perfectly. Null if no clear arc exists.",
 		),
 
-	// Relationships
 	relationships: WikiRelationshipsZod,
 
-	// Emotional & thematic tags
 	moods: z
 		.array(z.string())
 		.describe(
@@ -120,7 +94,6 @@ export const WikiMetadataAiGeneratedZod = z.object({
 			"Array of core thematic elements (1-3 themes). Common examples: 'revenge' (vengeance), 'redemption' (atonement), 'betrayal' (treachery), 'family' (kinship), 'power' (dominance), 'sacrifice' (selflessness), 'love' (devotion), 'loss' (grief), 'honor' (integrity), 'destiny' (fate), 'corruption' (moral decay), 'loyalty' (allegiance), 'freedom' (liberation), 'justice' (righteousness). Choose themes that resonate most strongly.",
 		),
 
-	// Hooks & teasers
 	hook: z
 		.string()
 		.nullable()
@@ -139,7 +112,6 @@ export const WikiMetadataAiGeneratedZod = z.object({
 			"The opening line of the hero's story. Should be impactful, atmospheric, and set the tone for the entire narrative. If the actual first line from the source material is compelling, use it verbatim. If not, craft a better opening that captures the story's essence and draws readers in immediately. Think of iconic book openings.",
 		),
 
-	// Visual & style
 	dominantColor: z
 		.string()
 		.nullable()
@@ -147,7 +119,6 @@ export const WikiMetadataAiGeneratedZod = z.object({
 			"Hex color code (e.g., '#8B4513' for brown, '#4A0E4E' for dark purple) representing the hero's visual identity and thematic essence. Used for dynamic UI backgrounds, cards, and theming. Choose based on: hero's element (fire=red/orange, ice=blue, nature=green), personality (dark/brooding=deep colors, cheerful=bright), or visual design. Must be valid hex format.",
 		),
 
-	// Content richness flags
 	hasBackstory: z
 		.boolean()
 		.describe(
@@ -184,7 +155,6 @@ export const WikiMetadataAiGeneratedZod = z.object({
 			"Array of all side story chapter titles in sequential order. Empty array [] if no chapters. Used for table of contents, navigation, and search. Each title should be concise and meaningful (e.g., ['Moonless Night', 'Journey Out', 'Farewell at the Edge']).",
 		),
 
-	// Searchable content
 	plotKeywords: z
 		.array(z.string())
 		.describe(
@@ -204,77 +174,44 @@ export const WikiMetadataAiGeneratedZod = z.object({
 
 export type WikiMetadataAiGenerated = z.infer<typeof WikiMetadataAiGeneratedZod>;
 
-/**
- * Rich metadata for wiki content - stored in wikis.metadata JSONB column
- */
+// Stored in the wikis.metadata JSONB column.
 export interface WikiMetadata extends WikiMetadataAiGenerated {
-	// Content metrics
 	wordCount: number;
 	readingTimeMinutes: number;
 	coverImage: string | null;
 
-	// Quality indicators
 	artworkCount: number;
 	hasVoiceLines: boolean;
 
-	// Scoring (calculated/curated)
-	rarityScore: number; // 0-100: How unique/rare is this lore?
-	epicnessScore: number; // 0-100: Scale of story (personal vs world-ending)
-	mysteryLevel: number; // 0-100: How many unanswered questions?
-	connectionsCount: number; // How many other heroes mentioned?
+	rarityScore: number; // 0-100
+	epicnessScore: number; // 0-100
+	mysteryLevel: number; // 0-100
+	connectionsCount: number;
 
-	// Auto-generated
 	createdAt: number;
 	updatedAt: number;
 }
 
-// ============================================================================
-// ANALYTICS (Separate table - frequently updated)
-// ============================================================================
-
-/**
- * Engagement metrics - stored in wiki_analytics table
- */
+// Stored in the wiki_analytics table.
 export interface WikiAnalytics {
 	hero: string; // Foreign key to wikis.hero
 
-	// Engagement
 	viewCount: number;
 	uniqueViewers: number;
-	averageReadTime: number; // Seconds
-	completionRate: number; // 0-1: % who read to end
+	averageReadTime: number; // seconds
+	completionRate: number; // 0-1
 
-	// Ratings
 	upvotes: number;
 	downvotes: number;
 	rating: number; // Calculated: upvotes / (upvotes + downvotes)
 
-	// Trending
 	viewsLast7Days: number;
 	viewsLast30Days: number;
-	trendingScore: number; // Calculated based on recent spike
+	trendingScore: number;
 
-	// Timestamps
 	lastViewed: Date;
 	updatedAt: Date;
 }
-
-// ============================================================================
-// COMBINED TYPES (What the API returns)
-// ============================================================================
-
-/**
- * Lightweight wiki list item for search/discovery pages
- * This is what GET /v1/wikis should return
- */
-
-/**
- * Search-optimized wiki data (what Fuse.js will search)
- */
-
-// ============================================================================
-// FILTER/SORT OPTIONS (For the frontend)
-// ============================================================================
 
 export interface WikiFilterOptions {
 	moods?: StoryMood[];
@@ -282,36 +219,29 @@ export interface WikiFilterOptions {
 	storyTypes?: StoryType[];
 	factions?: string[];
 
-	// Range filters
 	minWordCount?: number;
 	maxWordCount?: number;
 	minRating?: number;
 	minCompleteness?: number;
 
-	// Boolean filters
 	hasChapters?: boolean;
 	hasSideStory?: boolean;
 	hasAbilityLore?: boolean;
 
-	// Trending/popular
-	trending?: boolean; // Only show trending
+	trending?: boolean;
 	minViews?: number;
 }
 
 export type WikiSortOption =
-	| "recent" // updatedAt DESC
-	| "popular" // viewCount DESC
-	| "trending" // trendingScore DESC
-	| "rated" // rating DESC
-	| "longest" // wordCount DESC
-	| "shortest" // wordCount ASC
-	| "connected" // connectionsCount DESC
-	| "mysterious" // mysteryLevel DESC
-	| "epic"; // epicnessScore DESC
-
-// ============================================================================
-// REQUEST/RESPONSE TYPES (For API)
-// ============================================================================
+	| "recent"
+	| "popular"
+	| "trending"
+	| "rated"
+	| "longest"
+	| "shortest"
+	| "connected"
+	| "mysterious"
+	| "epic";
 
 export interface GetWikiListRequest {}
 
@@ -321,19 +251,12 @@ export interface GetWikiSearchRequest {}
 
 export interface GetWikiSearchResponse {}
 
-// ============================================================================
-// UTILITY TYPES
-// ============================================================================
-
-/**
- * Analytics increment payload
- */
 export interface WikiAnalyticsIncrement {
 	hero: string;
 	viewIncrement?: number;
 	upvoteIncrement?: number;
 	downvoteIncrement?: number;
-	readTime?: number; // Seconds spent reading
+	readTime?: number; // seconds
 }
 
 export const AiMarkdownResponseZod = z.object({

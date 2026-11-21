@@ -1,43 +1,29 @@
-/**
- * Centralized configuration for stats table styling
- * Adjust colors, thresholds, and spacing from this single file
- */
-
 export const TABLE_CONFIG = {
-	// Win Rate Color Thresholds
 	winRate: {
-		high: 0.52, // Above this = green
-		low: 0.48, // Below this = red
-		// Between high and low = yellow
+		high: 0.52,
+		low: 0.48,
 	},
 
-	// Colors (Tailwind classes)
 	colors: {
-		// Win Rate
 		winRate: {
 			high: "text-green-500",
 			balanced: "text-yellow-500",
 			low: "text-red-500",
 		},
-		// Pick Rate
 		pickRate: "text-blue-500",
-		// Ban Rate
 		banRate: "text-purple-500",
-		// Trends
 		trend: {
 			rising: "text-green-500",
 			falling: "text-red-500",
 			stable: "text-muted-foreground",
 		},
-		// Difficulty
 		difficulty: {
-			easy: "text-green-500", // 0-40
-			medium: "text-yellow-500", // 41-70
-			hard: "text-red-500", // 71-100
+			easy: "text-green-500",
+			medium: "text-yellow-500",
+			hard: "text-red-500",
 		},
 	},
 
-	// Typography (responsive)
 	typography: {
 		header: "text-xs sm:text-sm font-semibold",
 		cellDefault: "text-xs sm:text-sm",
@@ -45,13 +31,11 @@ export const TABLE_CONFIG = {
 		cellMuted: "text-xs sm:text-sm text-muted-foreground",
 	},
 
-	// Spacing & Layout
 	spacing: {
 		cellPadding: "px-4 py-3",
 		headerPadding: "px-4 py-3",
 	},
 
-	// Cell Alignment
 	alignment: {
 		hero: "text-left",
 		role: "text-left",
@@ -63,7 +47,6 @@ export const TABLE_CONFIG = {
 		difficulty: "text-center",
 	},
 
-	// Overview Cards
 	overview: {
 		balancedHeroes: {
 			min: 0.45,
@@ -73,14 +56,11 @@ export const TABLE_CONFIG = {
 			min: 0.05,
 		},
 		forgottenHeroes: {
-			max: 0.01, // Pick rate
+			max: 0.01,
 		},
 	},
 } as const;
 
-/**
- * Helper function to get win rate color
- */
 export function getWinRateColor(winRate: number): string {
 	if (winRate > TABLE_CONFIG.winRate.high) {
 		return TABLE_CONFIG.colors.winRate.high;
@@ -91,9 +71,6 @@ export function getWinRateColor(winRate: number): string {
 	return TABLE_CONFIG.colors.winRate.balanced;
 }
 
-/**
- * Helper function to get difficulty color
- */
 export function getDifficultyColor(difficulty: number): string {
 	if (difficulty <= 40) {
 		return TABLE_CONFIG.colors.difficulty.easy;
@@ -104,9 +81,6 @@ export function getDifficultyColor(difficulty: number): string {
 	return TABLE_CONFIG.colors.difficulty.hard;
 }
 
-/**
- * Helper function to format percentage
- */
 export function formatPercentage(value: number, decimals: number = 1): string {
 	return `${(value * 100).toFixed(decimals)}%`;
 }

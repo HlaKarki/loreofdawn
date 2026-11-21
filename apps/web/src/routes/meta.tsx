@@ -47,9 +47,7 @@ const fetchMeta = (rank: string) =>
 
 const rankSchema = z.enum(["overall", "glory"]).catch("glory");
 
-// validateSearch output is what the server canonicalises the URL to, so an
-// unknown rank is normalised in loaderDeps instead of here — otherwise
-// /meta and /meta?rank=bogus both 307 to /meta?rank=glory.
+// The server 307s to whatever validateSearch returns, so default rank in loaderDeps instead.
 export const Route = createFileRoute("/meta")({
 	validateSearch: z.object({
 		rank: z.string().optional(),
@@ -86,7 +84,6 @@ function MetaContent({
 }) {
 	const [topThreeData, statsByRoleData, hiddenGemData, quadrantData, communityPostsData] = data;
 
-	// Calculate meta snapshot data
 	const metaKing = topThreeData[0];
 	const hiddenGem = hiddenGemData[0];
 	const topRole =
@@ -129,7 +126,6 @@ function MetaContent({
 
 	return (
 		<>
-			{/* Header */}
 			<header className="mb-8">
 				<div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
 					<div>
@@ -147,7 +143,6 @@ function MetaContent({
 				</div>
 			</header>
 
-			{/* Meta Snapshot (Overview Cards) */}
 			<div className="mb-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
 				{overviewCards.map((card) => (
 					<div
@@ -168,31 +163,26 @@ function MetaContent({
 				))}
 			</div>
 
-			{/* Meta Picks */}
 			<TopThree
 				data={topThreeData}
 				title="Meta Picks"
 				description="Heroes popping off in the current meta."
 			/>
 
-			{/* Stats by Role */}
 			<StatsByRoles
 				data={statsByRoleData.data}
 				lastUpdated={topThreeData[0]?.meta?.updatedAt}
 				rank={rank}
 			/>
 
-			{/* Hidden Gems */}
 			<TopThree
 				data={hiddenGemData}
 				title="Hidden Gems"
 				description="Underplayed heroes with standout win rates worth trying."
 			/>
 
-			{/* Quadrant Chart */}
 			<QuadrantChart data={quadrantData} rank={rank} />
 
-			{/* Community Posts */}
 			<CommunityPosts data={communityPostsData.posts} />
 		</>
 	);
