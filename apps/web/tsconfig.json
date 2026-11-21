@@ -19,5 +19,5 @@
 		}
 	},
 	"include": ["src", "vite.config.ts", "worker-configuration.d.ts"],
-	"exclude": ["_legacy", "dist", ".wrangler", "node_modules"]
+	"exclude": ["dist", ".wrangler", "node_modules"]
 }

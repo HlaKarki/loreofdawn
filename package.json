@@ -11,24 +11,18 @@
 		"dev": "turbo dev",
 		"build": "turbo build",
 		"check-types": "turbo check-types",
-		"dev:native": "turbo -F native dev",
 		"dev:web": "turbo -F web dev",
 		"dev:worker": "turbo -F worker dev",
 		"app": "turbo dev -F web -F worker",
 		"db:push": "turbo -F @repo/database db:push",
 		"db:studio": "turbo -F @repo/database db:studio",
-		"db:generate": "turbo -F @repo/database db:generate",
-		"db:migrate": "turbo -F @repo/database db:migrate",
 		"format": "prettier . --write",
 		"format:check": "prettier . --check"
-	},
-	"dependencies": {
-		"@radix-ui/react-tooltip": "^1.2.8"
 	},
 	"devDependencies": {
 		"oxlint": "^1.12.0",
 		"prettier": "^3.6.2",
 		"turbo": "^2.5.4"
 	},
-	"packageManager": "bun@1.2.10"
+	"packageManager": "bun@1.4.0"
 }
