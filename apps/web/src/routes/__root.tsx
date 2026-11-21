@@ -9,8 +9,7 @@ import appCss from "@/index.css?url";
 
 const siteConfig = {
 	name: "Lore of Dawn",
-	description:
-		"Master Mobile Legends: Bang Bang with live meta stats, hero lore, matchup insights, and tier lists. Explore 130+ heroes and make every draft count.",
+	description: "Win, pick and ban rates, matchups and lore for every Mobile Legends hero.",
 	url: "https://loreofdawn.com",
 	ogImage: "/og-image.png",
 	twitterHandle: "@loreofdawn",
