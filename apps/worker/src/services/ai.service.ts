@@ -42,10 +42,10 @@ export class AiService {
 				this.model_name = "gpt-5-mini";
 				break;
 			case "gpt-5-nano":
-				this.model = openai("gpt-4o-mini");
-				this.model_name = "gpt-4o-mini";
+				this.model = openai("gpt-5-nano");
+				this.model_name = "gpt-5-nano";
 				break;
-			default:
+			case "flash-lite":
 				this.model = google("gemini-2.5-flash-lite");
 				this.model_name = "gemini-2.5-flash-lite";
 		}

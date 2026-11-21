@@ -10,7 +10,6 @@ import {
 	BookMarkedIcon,
 	BookOpenIcon,
 	ClockIcon,
-	HeartIcon,
 	LightbulbIcon,
 	MapPinIcon,
 	UsersIcon,
@@ -32,7 +31,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 
 	return (
 		<div className="mx-auto w-full max-w-4xl px-4 pb-16 sm:px-6 lg:px-8">
-			{/* Back Button */}
 			<div className="py-6">
 				<Link
 					to="/lores"
@@ -43,9 +41,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 				</Link>
 			</div>
 
-			{/* Header */}
 			<header className="mb-10">
-				{/* Badges */}
 				<div className="mb-4 flex flex-wrap items-center gap-2">
 					<Badge variant="secondary">{tidyLabel(metadata.storyType)}</Badge>
 					{metadata.storyArc && (
@@ -58,22 +54,18 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 					)}
 				</div>
 
-				{/* Title */}
 				<h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">
 					{tidyLabel(wiki.hero)}
 				</h1>
 
-				{/* Teaser */}
 				{metadata.teaser && <p className="mb-6 text-xl text-muted-foreground">{metadata.teaser}</p>}
 
-				{/* Hook Quote */}
 				{metadata.hook && (
 					<blockquote className="mb-6 border-l-4 border-amber-500 pl-4 text-lg italic text-foreground/80">
 						"{metadata.hook}"
 					</blockquote>
 				)}
 
-				{/* Quick Stats */}
 				<div className="flex flex-wrap gap-4 text-sm text-muted-foreground">
 					<span className="flex items-center gap-1.5">
 						<ClockIcon className="h-4 w-4" />
@@ -97,7 +89,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 					)}
 				</div>
 
-				{/* Tags */}
 				<div className="mt-6 flex flex-wrap gap-2">
 					{metadata.moods?.slice(0, 4).map((mood) => (
 						<Badge key={mood} variant="secondary" className="text-xs">
@@ -119,7 +110,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 
 			<div className="mb-10 h-px bg-border" />
 
-			{/* Profile Section */}
 			{sections.profile?.markdown && (
 				<section className="mb-10">
 					<h2 className="mb-4 flex items-center gap-2 text-xl font-semibold">
@@ -132,7 +122,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 				</section>
 			)}
 
-			{/* Tabs */}
 			<div className="mb-6 flex flex-wrap gap-2 border-b border-border pb-4">
 				<Button
 					variant="ghost"
@@ -190,9 +179,7 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 				)}
 			</div>
 
-			{/* Tab Content */}
 			<div className="mb-12">
-				{/* Main Story */}
 				{activeTab === "story" && sections.story?.markdown && (
 					<section>
 						<h2 className="mb-2 text-2xl font-semibold">Backstory</h2>
@@ -205,7 +192,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 					</section>
 				)}
 
-				{/* Chapters */}
 				{activeTab === "chapters" && sections.side_story?.chapters && (
 					<div className="space-y-10">
 						{sections.side_story.chapters.map((chapter, index) => (
@@ -226,7 +212,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 					</div>
 				)}
 
-				{/* Abilities */}
 				{activeTab === "abilities" && sections.abilities && (
 					<div className="space-y-8">
 						{sections.abilities.map((ability, index) => (
@@ -267,7 +252,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 					</div>
 				)}
 
-				{/* Trivia */}
 				{activeTab === "trivia" && sections.trivia && (
 					<section>
 						<h2 className="mb-6 flex items-center gap-2 text-xl font-semibold">
@@ -290,7 +274,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 				)}
 			</div>
 
-			{/* Relationships */}
 			{metadata.relationships && (
 				<section className="mb-12">
 					<h2 className="mb-6 flex items-center gap-2 text-xl font-semibold">
@@ -434,7 +417,6 @@ export const LoreDetailClient = ({ wiki }: LoreDetailClientProps) => {
 				</section>
 			)}
 
-			{/* Back to all lores */}
 			<div className="border-t border-border pt-8">
 				<Link
 					to="/lores"

@@ -19,15 +19,7 @@ const input_schema = z.object({
 	stream: z.boolean().default(true),
 });
 
-/**
- * Converts natural language questions into SQL queries using AI, executes the generated SQL
- * on the read-only HYPERDRIVE_READONLY connection, and optionally returns AI-generated natural
- * language responses. Credits and hero metadata use the read-write HYPERDRIVE connection.
- *
- * @param {Context} c - Hono Context
- */
 export const askQuestionsHandler = async (c: Context<Env>) => {
-	// authenticating middleware which gives me userId
 	const pathname = new URL(c.req.url).pathname;
 
 	const clerkUserId = c.get("clerkUserId");
@@ -46,6 +38,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 	}
 
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
+	// The model writes this SQL, so it only ever runs as readonly_user.
 	const readonlyDb = createDb(c.env.HYPERDRIVE_READONLY.connectionString);
 
 	const creditService = new CreditService(db);
@@ -55,7 +48,6 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 	const input = validation.data;
 	Logger.info(pathname, { ip, ...validation.data });
 
-	// Check if user has credits (non-deducting check)
 	const hasCredits = await creditService.hasCredits(clerkUserId);
 	if (!hasCredits) {
 		Logger.warn(pathname, { ip, clerkUserId, message: "Insufficient credits" });
@@ -75,7 +67,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		async () => {
 			return await heroService.getHeroListForAi();
 		},
-		{ ttlSeconds: 60 * 60 * 24 }, // 24 hours
+		{ ttlSeconds: 60 * 60 * 24 },
 	);
 	const aiService = new AiService(input.model);
 
@@ -95,7 +87,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		async () => {
 			return await DbService.executeSqlQuery(sqlResult.sql, readonlyDb);
 		},
-		{ ttlSeconds: 60 * 60 }, // 1 hour,
+		{ ttlSeconds: 60 * 60 },
 	);
 
 	if ("error" in queryResult) {
@@ -103,7 +95,6 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		return c.json({ error: "Query failed", details: queryResult.error }, 500);
 	}
 
-	// Generate AI response
 	let aiResponse;
 	if (input.ai) {
 		const prompt = buildResponsePrompt(queryResult);
@@ -121,7 +112,6 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 		}
 	}
 
-	// charge the credit - all operations succeeded
 	let creditsRemaining: number;
 	try {
 		const result = await creditService.useCredit(clerkUserId);
@@ -132,8 +122,7 @@ export const askQuestionsHandler = async (c: Context<Env>) => {
 			message: "Credit deducted successfully",
 		});
 	} catch (error) {
-		// Race condition: User had credits initially but now doesn't
-		// This is rare but can happen with concurrent requests
+		// A concurrent request can spend the last credit after the check above, so the deduct can still fail.
 		Logger.error(pathname, {
 			ip,
 			clerkUserId,

@@ -10,9 +10,6 @@ export class StripeService {
 		});
 	}
 
-	/**
-	 * Create a Stripe checkout session for subscription
-	 */
 	async createCheckoutSession(params: {
 		priceId: string;
 		customerEmail: string;
@@ -46,9 +43,6 @@ export class StripeService {
 		return await this.stripe.checkout.sessions.create(sessionParams);
 	}
 
-	/**
-	 * Create a customer portal session for managing subscriptions
-	 */
 	async createPortalSession(
 		customerId: string,
 		returnUrl: string,
@@ -59,30 +53,18 @@ export class StripeService {
 		});
 	}
 
-	/**
-	 * Cancel a subscription
-	 */
 	async cancelSubscription(subscriptionId: string): Promise<Stripe.Subscription> {
 		return await this.stripe.subscriptions.cancel(subscriptionId);
 	}
 
-	/**
-	 * Retrieve a subscription
-	 */
 	async getSubscription(subscriptionId: string): Promise<Stripe.Subscription> {
 		return await this.stripe.subscriptions.retrieve(subscriptionId);
 	}
 
-	/**
-	 * Retrieve a customer
-	 */
 	async getCustomer(customerId: string): Promise<Stripe.Customer> {
 		return (await this.stripe.customers.retrieve(customerId)) as Stripe.Customer;
 	}
 
-	/**
-	 * Create or update a customer
-	 */
 	async upsertCustomer(params: {
 		email: string;
 		name: string;
@@ -104,9 +86,6 @@ export class StripeService {
 		});
 	}
 
-	/**
-	 * Construct webhook event from request
-	 */
 	async constructWebhookEvent(payload: string, signature: string, webhookSecret: string): Promise<Stripe.Event> {
 		return await this.stripe.webhooks.constructEventAsync(payload, signature, webhookSecret);
 	}

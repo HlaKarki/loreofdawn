@@ -15,15 +15,11 @@ const allowedOrigins = new Set([
 	"https://cf-api.loreofdawn.com",
 	"https://clerk.auth.loreofdawn.com",
 	"https://api.clerk.com",
-	"https://clerk.auth.loreofdawn.com/.well-known/jwks.json",
 	"http://localhost:1201",
-	"http://10.0.0.148:1201",
-	"https://loreofdawn-site.hla-htuncs.workers.dev",
 ]);
 
 export const app = new Hono<Env>();
 
-// Global middleware
 app.use("*", logger());
 app.use(
 	"*",
@@ -36,7 +32,6 @@ app.use(
 );
 app.use("*", errorHandler);
 
-// Mount API routes
 app.route("/", apiRouter);
 
 const scheduled: ExportedHandlerScheduledHandler<Bindings> = async (_event, env, _ctx) => {
@@ -46,7 +41,7 @@ const scheduled: ExportedHandlerScheduledHandler<Bindings> = async (_event, env,
 	const log = summary.ok ? console.log : console.error;
 	log(`[ml-sync] ${summary.ok ? "ok" : "FAILED"} in ${summary.durationMs}ms`, JSON.stringify(summary.stages));
 
-	console.log("🔄 Starting KV seed job...");
+	console.log("Starting KV seed job...");
 	const heroService = new HeroService(db, env.KV);
 	const heroes_list = await heroService.getHeroList();
 
@@ -60,13 +55,13 @@ const scheduled: ExportedHandlerScheduledHandler<Bindings> = async (_event, env,
 				await heroService.seedHeroCache(hero.display_name, rank);
 				seeded++;
 			} catch (error) {
-				console.error(`❌ Failed to seed ${hero.display_name}:${rank}`, error);
+				console.error(`Failed to seed ${hero.display_name}:${rank}`, error);
 				failed++;
 			}
 		}
 	}
 
-	console.log(`✅ KV seed complete: ${seeded} seeded, ${failed} failed`);
+	console.log(`KV seed complete: ${seeded} seeded, ${failed} failed`);
 };
 
 export default {

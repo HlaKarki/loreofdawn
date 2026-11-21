@@ -1,4 +1,4 @@
-import type { ConsolidatedHero, MlMatchupSummary } from "@repo/database";
+import type { MlMatchupSummary } from "@repo/database";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { tidyLabel } from "@/lib/utils";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
@@ -8,7 +8,6 @@ import { resolveImageSrc } from "@/lib/images";
 function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: string }) {
 	return (
 		<>
-			{/* Mobile: Show abbreviated with popover */}
 			<Popover>
 				<PopoverTrigger asChild>
 					<span className="cursor-help sm:hidden">
@@ -20,7 +19,6 @@ function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: s
 					<p className="text-xs">{full}</p>
 				</PopoverContent>
 			</Popover>
-			{/* Desktop: Show full text */}
 			<span className="hidden sm:inline">
 				<span className="text-muted-foreground">{full}</span>{" "}
 				<span className="font-medium text-foreground">{value}</span>
@@ -32,7 +30,6 @@ function StatLabel({ abbr, full, value }: { abbr: string; full: string; value: s
 export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 	return (
 		<div className="grid gap-6 lg:grid-cols-2">
-			{/* Best Teammates */}
 			{data.most_compatible && data.most_compatible.length > 0 && (
 				<Card>
 					<CardHeader>
@@ -81,7 +78,6 @@ export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 				</Card>
 			)}
 
-			{/* Worst Matchups */}
 			{data.worst_counter && data.worst_counter.length > 0 && (
 				<Card>
 					<CardHeader>
@@ -130,7 +126,6 @@ export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 				</Card>
 			)}
 
-			{/* Least Compatible */}
 			{data.least_compatible && data.least_compatible.length > 0 && (
 				<Card>
 					<CardHeader>
@@ -179,7 +174,6 @@ export const HeroMatchup = ({ data }: { data: MlMatchupSummary }) => {
 				</Card>
 			)}
 
-			{/* Best Counters */}
 			{data.best_counter && data.best_counter.length > 0 && (
 				<Card>
 					<CardHeader>

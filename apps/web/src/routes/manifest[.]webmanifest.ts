@@ -1,12 +1,12 @@
 import { createFileRoute } from "@tanstack/react-router";
 
 const manifest = {
-	name: "loreofdawn",
-	short_name: "loreofdawn",
-	description: "my pwa app",
+	name: "Lore of Dawn",
+	short_name: "Lore of Dawn",
+	description: "Live meta stats, hero lore and matchups for Mobile Legends: Bang Bang.",
 	start_url: "/",
 	display: "standalone",
-	background_color: "#ffffff",
+	background_color: "#0a0a0a",
 	theme_color: "#000000",
 	icons: [
 		{

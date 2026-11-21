@@ -6,10 +6,8 @@ import { internalRouter } from "./internal";
 
 export const apiRouter = new Hono<Env>();
 
-// versioned routes
 apiRouter.route("/v1", v1Router);
 
-// webhook routes (clerk)
 apiRouter.route("/webhooks", webhooksRouter);
 
 apiRouter.route("/internal", internalRouter);

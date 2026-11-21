@@ -20,8 +20,8 @@ const rolePalette = {
 	meta: "var(--color-chart-1)",
 	weak: "var(--color-chart-5)",
 	balanced: "var(--color-chart-3)",
-	overlayStrength: 22, // percentage used in the gradient blend
-	barBlend: 70, // percentage used in bar gradients
+	overlayStrength: 22,
+	barBlend: 70,
 } as const;
 
 const makeOverlay = (color: string) =>

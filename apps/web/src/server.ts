@@ -1,8 +1,7 @@
 import handler from "@tanstack/react-start/server-entry";
 import { setClerkSecretKey } from "./clerk-secret";
 
-// Clerk's middleware reads CLERK_SECRET_KEY from process.env, which stayed empty on the
-// deployed Worker; the binding is handed over explicitly instead.
+// Clerk's middleware got an empty CLERK_SECRET_KEY from process.env on the deployed Worker, so pass the binding in.
 export default {
 	fetch(request: Request, env: Cloudflare.Env) {
 		const url = new URL(request.url);

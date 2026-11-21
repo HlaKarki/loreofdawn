@@ -6,7 +6,6 @@ export default function Footer() {
 		<footer className="border-t mt-16">
 			<div className="container mx-auto max-w-3xl px-4 py-8">
 				<div className="flex flex-col items-center gap-6 text-center">
-					{/* Disclaimer */}
 					<div className="text-xs text-muted-foreground max-w-2xl">
 						<p>
 							This site is not endorsed by Moonton and does not reflect the views or opinions of
@@ -16,7 +15,6 @@ export default function Footer() {
 						</p>
 					</div>
 
-					{/* Copyright */}
 					<div className="text-xs text-muted-foreground flex items-center gap-3">
 						<span>© {new Date().getFullYear()} Lore of Dawn</span>
 						<span>·</span>

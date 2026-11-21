@@ -46,23 +46,18 @@ function formatXAxisDate(d: string) {
 }
 
 export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
-	// Single by default: only one metric selected initially
 	const [selectedMetrics, setSelectedMetrics] = React.useState<Metric[]>(["win_rate"]);
 	const [multi, setMulti] = React.useState(false);
 
 	const toggleMetric = (metric: Metric) => {
 		if (!multi) {
-			// Single-select mode: always switch to the clicked metric
 			setSelectedMetrics([metric]);
 			return;
 		}
-		// Multi-select mode (max 2)
 		setSelectedMetrics((prev) => {
 			if (prev.includes(metric)) {
-				// If removing would leave none, keep one
 				return prev.length > 1 ? prev.filter((m) => m !== metric) : prev;
 			}
-			// Add if room, else replace the second slot for quick compare
 			if (prev.length < 2) return [...prev, metric];
 			return [prev[0], metric];
 		});
@@ -107,7 +102,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 
 	return (
 		<div className="mt-6 md:mt-10 rounded-xl md:rounded-2xl border border-border/60 p-3 md:p-6 select-none">
-			{/* Header + Controls */}
 			<div className="mb-3 md:mb-4 flex flex-col gap-2 md:gap-3">
 				<div className="flex items-start justify-between gap-2">
 					<div>
@@ -129,7 +123,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 						</p>
 					</div>
 
-					{/* Multi toggle */}
 					<div className="inline-flex items-center gap-2 rounded-lg border border-border/60 bg-card/60 px-2.5 py-1.5 text-xs shadow-sm md:px-3 md:text-sm">
 						<Switch
 							id="hero-multi-toggle"
@@ -154,8 +147,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 				<div className="flex flex-wrap gap-1.5 md:gap-2">
 					{(["win_rate", "ban_rate", "pick_rate"] as Metric[]).map((m) => {
 						const isSelected = selectedMetrics.includes(m);
-						// In single mode there’s no “disabled” state—click always switches.
-						// In multi mode, allow up to 2 selections.
 						const atCapacity = multi && !isSelected && selectedMetrics.length >= 2;
 
 						return (
@@ -187,7 +178,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 				</div>
 			</div>
 
-			{/* Chart */}
 			<div className="h-[240px] md:h-[320px] w-full">
 				<ResponsiveContainer>
 					<AreaChart data={points} margin={{ left: 0, right: 0, top: 10, bottom: 0 }}>
@@ -213,7 +203,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 							tick={{ fontSize: 11 }}
 						/>
 
-						{/* Left Y-axis */}
 						<YAxis
 							yAxisId="left"
 							domain={leftDomain}
@@ -224,7 +213,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 							tick={{ fontSize: 11 }}
 						/>
 
-						{/* Right Y-axis (only in multi with 2 metrics) */}
 						{isDualAxis && (
 							<YAxis
 								yAxisId="right"
@@ -238,7 +226,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 							/>
 						)}
 
-						{/* mean reference lines */}
 						<ReferenceLine
 							yAxisId="left"
 							y={leftStats.mean}
@@ -287,7 +274,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 							}}
 						/>
 
-						{/* Left metric area */}
 						<Area
 							yAxisId="left"
 							type="monotone"
@@ -299,7 +285,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 							activeDot={{ r: 3 }}
 						/>
 
-						{/* Right metric area (only in multi with 2 metrics) */}
 						{isDualAxis && rightMetric && (
 							<Area
 								yAxisId="right"
@@ -316,7 +301,6 @@ export const HeroGraph: React.FC<{ data: MlGraphData }> = ({ data }) => {
 				</ResponsiveContainer>
 			</div>
 
-			{/* Tiny legend with current range context */}
 			<div className="mt-2 md:mt-3 flex flex-wrap items-center gap-3 md:gap-4 text-[10px] md:text-xs text-muted-foreground">
 				<div className="flex items-center gap-1.5">
 					<div

@@ -4,9 +4,6 @@ import { Button } from "@/components/ui/button";
 const RANKS = [
 	{ value: "overall", label: "Overall" },
 	{ value: "glory", label: "Glory" },
-	// { value: "epic", label: "Epic" },
-	// { value: "legend", label: "Legend" },
-	// { value: "mythic", label: "Mythic" },
 ] as const;
 
 export function HeroRankSelector() {

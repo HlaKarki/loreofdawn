@@ -153,7 +153,6 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 
 	return (
 		<div className="mx-auto flex w-full max-w-screen sm:max-w-7xl flex-col gap-10 px-4 pb-16 pt-8 sm:px-6 lg:px-8">
-			{/* Hero Section - Clean like home page */}
 			<section className="text-center">
 				<h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl">
 					Explore epic{" "}
@@ -167,7 +166,6 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 					emotion and find your next favorite lore.
 				</p>
 
-				{/* Search */}
 				<div className="mx-auto mb-6 max-w-xl">
 					<div className="relative">
 						<SearchIcon className="pointer-events-none absolute left-4 top-1/2 h-5 w-5 -translate-y-1/2 text-muted-foreground" />
@@ -181,7 +179,6 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 					</div>
 				</div>
 
-				{/* Filters */}
 				<div className="space-y-3">
 					{availableMoods.length > 0 && (
 						<div className="flex items-center justify-center gap-3">
@@ -246,7 +243,6 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 				</div>
 			</section>
 
-			{/* Featured Lore of the Day */}
 			{!filtersActive && loreOfTheDay && (
 				<section>
 					<div className="mb-4 flex items-center gap-2">
@@ -258,7 +254,6 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 				</section>
 			)}
 
-			{/* Curated Picks */}
 			{!filtersActive && featuredLores.length > 0 && (
 				<section>
 					<div className="mb-4 flex items-center gap-2">
@@ -273,7 +268,6 @@ export const LorePageClient = ({ wikis }: LorePageClientProps) => {
 				</section>
 			)}
 
-			{/* All Lores Grid */}
 			<section>
 				<div className="mb-4 flex flex-wrap items-center justify-between gap-3">
 					<div>

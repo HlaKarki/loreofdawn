@@ -43,7 +43,6 @@ export const UserCredits = () => {
 				</button>
 			</PopoverTrigger>
 			<PopoverContent className="w-72 ml-2 p-0 overflow-hidden" sideOffset={8}>
-				{/* Header */}
 				<div
 					className={cn(
 						"relative bg-gradient-to-br p-3 pb-4",
@@ -80,7 +79,6 @@ export const UserCredits = () => {
 				</div>
 
 				<div className="p-3 space-y-3 bg-background">
-					{/* Progress */}
 					<div className="space-y-1.5">
 						<div className="flex justify-between text-xs">
 							<span className="text-muted-foreground">Usage</span>
@@ -103,7 +101,6 @@ export const UserCredits = () => {
 						</div>
 					</div>
 
-					{/* Upgrade Button */}
 					<Button
 						className={cn("w-full h-8 text-xs font-semibold transition-all", config.upgradeButton)}
 						onClick={() => console.log("clicked")}

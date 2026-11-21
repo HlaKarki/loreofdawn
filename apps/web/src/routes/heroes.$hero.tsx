@@ -15,9 +15,7 @@ import { makeUrl } from "@/lib/utils.api";
 
 const rankSchema = z.enum(["overall", "glory"]).catch("overall");
 
-// validateSearch output is what the server canonicalises the URL to, so an
-// unknown rank is normalised in loaderDeps instead of here — otherwise
-// /heroes/x and /heroes/x?rank=bogus both 307 to /heroes/x?rank=overall.
+// The server 307s to whatever validateSearch returns, so default rank in loaderDeps instead.
 export const Route = createFileRoute("/heroes/$hero")({
 	validateSearch: z.object({
 		rank: z.string().optional(),

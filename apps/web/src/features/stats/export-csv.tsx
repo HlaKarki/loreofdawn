@@ -10,7 +10,6 @@ interface ExportCsvProps {
 
 export function ExportCsv({ data, rank }: ExportCsvProps) {
 	const handleExport = () => {
-		// Build CSV content
 		const headers = ["Hero", "Role", "Lane", "Win Rate", "Pick Rate", "Ban Rate", "Difficulty"];
 
 		const rows = data.map((hero) => [
@@ -23,13 +22,11 @@ export function ExportCsv({ data, rank }: ExportCsvProps) {
 			hero.profile.difficulty ? `${hero.profile.difficulty}/100` : "N/A",
 		]);
 
-		// Combine headers and rows
 		const csvContent = [
 			headers.join(","),
 			...rows.map((row) => row.map((cell) => `"${cell}"`).join(",")),
 		].join("\n");
 
-		// Create blob and download
 		const blob = new Blob([csvContent], { type: "text/csv;charset=utf-8;" });
 		const link = document.createElement("a");
 		const url = URL.createObjectURL(blob);

@@ -60,7 +60,6 @@ export const HeroHeader = ({
 						</div>
 					</div>
 
-					{/* Roles and Lanes */}
 					<div className="flex flex-wrap gap-3">
 						{data.roles.filter((role) => tidyLabel(role.title).trim()).length > 0 && (
 							<div className="flex items-center gap-1.5 rounded-lg border border-primary/20 bg-primary/5 px-2.5 py-1.5">
@@ -122,7 +121,6 @@ export const HeroHeader = ({
 						)}
 					</div>
 
-					{/* Key Stats */}
 					<div className="grid grid-cols-3 gap-2 sm:gap-3">
 						<div className="rounded-lg border bg-card p-2 sm:p-4">
 							<div className="text-xs text-muted-foreground sm:text-sm">Win Rate</div>
@@ -144,7 +142,6 @@ export const HeroHeader = ({
 						</div>
 					</div>
 
-					{/* Lore */}
 					<Link
 						to="/lores/$hero"
 						params={{ hero: wikiSlug }}

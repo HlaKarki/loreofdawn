@@ -40,7 +40,6 @@ function Home() {
 	return (
 		<div className="min-h-screen">
 			<div className="container mx-auto max-w-6xl px-4 py-8 sm:py-12">
-				{/* Hero section - simplified and focused */}
 				<section className="relative mb-12">
 					<div className="text-center">
 						<h1 className="mb-4 text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
@@ -55,12 +54,10 @@ function Home() {
 							Make every draft count.
 						</p>
 
-						{/* Search */}
 						<div className="mx-auto mb-8 max-w-xl">
 							<HeroSearch />
 						</div>
 
-						{/* Quick actions */}
 						<div className="flex flex-wrap items-center justify-center gap-3">
 							<Button
 								asChild
@@ -88,13 +85,11 @@ function Home() {
 					</div>
 				</section>
 
-				{/* Hero of the Day + Quick Stats */}
 				<section className="mb-12 grid grid-cols-1 gap-6 lg:grid-cols-2">
 					<HeroOfTheDay hero={heroOfTheDay} />
 					<QuickStats />
 				</section>
 
-				{/* Quick access */}
 				<QuickAccessCards heroCount={heroCount} />
 			</div>
 		</div>

@@ -6,10 +6,6 @@ import { Logger } from "@repo/utils";
 import type { Context } from "hono";
 import type { Env } from "@/types";
 
-/**
- * Clerk webhook handler
- * Receives events from Clerk and syncs user data to database
- */
 export const clerkWebhookHandler = async (c: Context<Env>) => {
 	const pathname = new URL(c.req.url).pathname;
 	const WEBHOOK_SECRET = c.env.CLERK_WEBHOOK_SECRET;
@@ -19,7 +15,6 @@ export const clerkWebhookHandler = async (c: Context<Env>) => {
 		return c.json({ error: "Webhook secret not configured" }, 500);
 	}
 
-	// Get headers for verification
 	const svix_id = c.req.header("svix-id");
 	const svix_timestamp = c.req.header("svix-timestamp");
 	const svix_signature = c.req.header("svix-signature");
@@ -29,10 +24,8 @@ export const clerkWebhookHandler = async (c: Context<Env>) => {
 		return c.json({ error: "Missing svix headers" }, 400);
 	}
 
-	// Get raw body for verification
 	const payload = await c.req.text();
 
-	// Verify webhook signature
 	const wh = new Webhook(WEBHOOK_SECRET);
 	let evt: WebhookEvent;
 
@@ -49,7 +42,6 @@ export const clerkWebhookHandler = async (c: Context<Env>) => {
 
 	const eventType = evt.type;
 
-	// Create single DB instance for this request (Hyperdrive best practice)
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
 	const userService = new UserService(db);
 
@@ -57,7 +49,7 @@ export const clerkWebhookHandler = async (c: Context<Env>) => {
 		case "user.created": {
 			const { id, email_addresses, image_url, first_name, last_name } = evt.data;
 
-			Logger.info(pathname, { message: `📝 User created: ${id}` });
+			Logger.info(pathname, { message: `User created: ${id}` });
 			try {
 				await userService.createUser({
 					clerk_user_id: id,
@@ -67,11 +59,11 @@ export const clerkWebhookHandler = async (c: Context<Env>) => {
 					tier: "free",
 					credits_remaining: 50,
 					credits_total: 50,
-					credits_reset_at: Date.now() + 30 * 24 * 60 * 60 * 1000, // 30 days
+					credits_reset_at: Date.now() + 30 * 24 * 60 * 60 * 1000,
 				});
-				Logger.info(pathname, { message: "✅ User synced to database" });
+				Logger.info(pathname, { message: "User synced to database" });
 			} catch (error) {
-				Logger.error(pathname, { message: `❌ Failed to sync user: ${error}` });
+				Logger.error(pathname, { message: `Failed to sync user: ${error}` });
 				return c.json({ error: "Failed to create user" }, 500);
 			}
 			break;
@@ -86,9 +78,9 @@ export const clerkWebhookHandler = async (c: Context<Env>) => {
 					name: `${first_name || ""} ${last_name || ""}`.trim(),
 					imageUrl: image_url,
 				});
-				Logger.info(pathname, { message: `✅ User updated: ${id}` });
+				Logger.info(pathname, { message: `User updated: ${id}` });
 			} catch (error) {
-				Logger.error(pathname, { message: `❌ Failed to update user: ${error}` });
+				Logger.error(pathname, { message: `Failed to update user: ${error}` });
 				return c.json({ error: "Failed to update user" }, 500);
 			}
 			break;
@@ -98,21 +90,21 @@ export const clerkWebhookHandler = async (c: Context<Env>) => {
 			const { id } = evt.data;
 
 			if (!id) {
-				Logger.error(pathname, { message: "❌ Missing user ID" });
+				Logger.error(pathname, { message: "Missing user ID" });
 				return c.json({ error: "Missing user ID" }, 400);
 			}
 			try {
 				await userService.deleteUser(id);
-				Logger.warn(pathname, { message: `✅ User deleted from database: ${id}` });
+				Logger.warn(pathname, { message: `User deleted from database: ${id}` });
 			} catch (error) {
-				Logger.error(pathname, { message: `❌ Failed to delete user: ${error}` });
+				Logger.error(pathname, { message: `Failed to delete user: ${error}` });
 				return c.json({ error: "Failed to delete user" }, 500);
 			}
 			break;
 		}
 
 		default:
-			Logger.info(pathname, { message: `ℹ️ Unhandled event type: ${eventType}` });
+			Logger.info(pathname, { message: `Unhandled event type: ${eventType}` });
 	}
 
 	return c.json({ success: true });

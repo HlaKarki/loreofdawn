@@ -5,7 +5,6 @@ import { useEffect, useRef, useState } from "react";
 
 const links = [
 	{ to: "/", label: "Home" },
-	// { to: "/wiki", label: "Wikis" },
 	{ to: "/lores", label: "Lores" },
 	{ to: "/heroes", label: "Heroes" },
 	{ to: "/stats", label: "Stats" },
@@ -17,7 +16,6 @@ export default function Header() {
 	const pathname = useLocation().pathname;
 	const headerRef = useRef<HTMLElement>(null);
 
-	// Close mobile menu on outside click
 	useEffect(() => {
 		if (!mobileMenuOpen) return;
 
@@ -32,7 +30,6 @@ export default function Header() {
 		return () => document.removeEventListener("click", handleClickOutside);
 	}, [mobileMenuOpen]);
 
-	// Close mobile menu on Escape key
 	useEffect(() => {
 		if (!mobileMenuOpen) return;
 
@@ -46,7 +43,6 @@ export default function Header() {
 		return () => document.removeEventListener("keydown", handleEscape);
 	}, [mobileMenuOpen]);
 
-	// Prevent body scroll when mobile menu is open
 	useEffect(() => {
 		if (mobileMenuOpen) {
 			document.body.style.overflow = "hidden";
@@ -68,14 +64,12 @@ export default function Header() {
 				"bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/70",
 			)}
 		>
-			{/* Inner wrapper with horizontal padding + max width */}
 			<div
 				className={cn(
 					"mx-auto flex h-16 max-w-6xl items-center justify-between gap-3",
 					"px-3 sm:px-4 lg:px-6",
 				)}
 			>
-				{/* Left: Logo + Brand */}
 				<div className="flex items-center gap-3">
 					<Link to="/" aria-label="Lore of Dawn Home" className="flex items-center gap-2">
 						<img
@@ -89,7 +83,6 @@ export default function Header() {
 					</Link>
 				</div>
 
-				{/* Desktop Nav */}
 				<nav className="hidden -translate-x-1/8 items-center gap-6 text-sm font-medium sm:flex">
 					{links.map(({ to, label }) => {
 						const isActive = to === "/" ? pathname === "/" : (pathname?.startsWith(to) ?? false);
@@ -119,18 +112,15 @@ export default function Header() {
 					})}
 				</nav>
 
-				{/* Right: User + Mobile toggle */}
 				<div className="flex items-center gap-2">
-					{/* Desktop user profile - reserved space even when empty */}
+					{/* UserButton renders nothing until Clerk loads, so this fixed box keeps the header from shifting */}
 					<div className="hidden sm:flex items-center">
 						<div className="w-[36px] h-[36px] flex items-center justify-center">
 							<UserButton />
 						</div>
 					</div>
 
-					{/* Mobile: user + burger */}
 					<div className="flex items-center gap-2 sm:hidden">
-						{/* Reserved space for mobile user button */}
 						<div className="w-[32px] h-[32px] flex items-center justify-center">
 							<UserButton />
 						</div>
@@ -142,7 +132,6 @@ export default function Header() {
 							aria-label="Toggle navigation"
 							aria-expanded={mobileMenuOpen}
 						>
-							{/* Two-line burger that animates into an X */}
 							<div className="flex flex-col items-center justify-center gap-[5px]">
 								<span
 									className={cn(
@@ -162,7 +151,6 @@ export default function Header() {
 				</div>
 			</div>
 
-			{/* Mobile nav panel */}
 			<nav
 				className={cn(
 					"sm:hidden overflow-hidden transition-all duration-200 ease-out",

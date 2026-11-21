@@ -9,7 +9,6 @@ import { communityRouter } from "./community";
 
 export const v1Router = new Hono<Env>();
 
-// Mount v1 routes
 v1Router.route("/heroes", heroesRouter);
 v1Router.route("/wikis", wikisRouter);
 v1Router.route("/ai", aiRouter);

@@ -11,16 +11,16 @@ import {
 import { Sliders, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-export type RateFilterType = "win_rate" | "pick_rate" | "ban_rate";
+type RateFilterType = "win_rate" | "pick_rate" | "ban_rate";
 
-export type RateOperator = "lte" | "gte"; // less than or equal, greater than or equal
+type RateOperator = "lte" | "gte";
 
 export interface RateFilter {
 	type: RateFilterType;
 	label: string;
 	min?: number;
 	max?: number;
-	sortBy?: boolean; // Indicates this filter should trigger sorting
+	sortBy?: boolean;
 }
 
 interface RatesFilterProps {
@@ -29,7 +29,6 @@ interface RatesFilterProps {
 }
 
 export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) {
-	// Input values (what user is typing)
 	const [inputValues, setInputValues] = useState<{
 		win_rate: string;
 		ban_rate: string;
@@ -40,7 +39,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 		pick_rate: "",
 	});
 
-	// Active filter values (what's currently applied)
 	const [activeValues, setActiveValues] = useState<{
 		win_rate: string;
 		ban_rate: string;
@@ -51,7 +49,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 		pick_rate: "",
 	});
 
-	// Operator states (lte = ≤, gte = ≥)
 	const [operators, setOperators] = useState<{
 		win_rate: RateOperator;
 		ban_rate: RateOperator;
@@ -62,7 +59,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 		pick_rate: "lte",
 	});
 
-	// Active operators (what's currently applied)
 	const [activeOperators, setActiveOperators] = useState<{
 		win_rate: RateOperator;
 		ban_rate: RateOperator;
@@ -74,12 +70,10 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 	});
 
 	const handleInputChange = (type: RateFilterType, value: string) => {
-		// Only allow numbers and decimal point
 		if (value !== "" && !/^\d*\.?\d*$/.test(value)) {
 			return;
 		}
 
-		// Update input value
 		setInputValues({ ...inputValues, [type]: value });
 	};
 
@@ -93,20 +87,16 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 	const handleSetFilter = (type: RateFilterType) => {
 		const value = inputValues[type];
 
-		// Update active values and operators
 		const newActiveValues = { ...activeValues, [type]: value };
 		const newActiveOperators = { ...activeOperators, [type]: operators[type] };
 		setActiveValues(newActiveValues);
 		setActiveOperators(newActiveOperators);
 
-		// Build filter array
 		const filters: RateFilter[] = [];
 
-		// Process each rate type
 		Object.entries(newActiveValues).forEach(([rateType, val]) => {
 			if (val !== "" && !isNaN(Number(val))) {
 				const numValue = Number(val);
-				// Convert percentage to decimal (e.g., 52 -> 0.52)
 				const decimalValue = numValue > 1 ? numValue / 100 : numValue;
 				const operator = newActiveOperators[rateType as RateFilterType];
 				const operatorSymbol = operator === "lte" ? "≤" : "≥";
@@ -114,19 +104,15 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 				filters.push({
 					type: rateType as RateFilterType,
 					label: `${operatorSymbol}${numValue}%`,
-					// Use min for gte (>=), max for lte (<=)
 					...(operator === "lte" ? { max: decimalValue } : { min: decimalValue }),
-					sortBy: true, // Enable sorting for this column
+					sortBy: true,
 				});
 			}
 		});
 
-		// Trigger filter change
 		onFilterChange(filters);
 
-		// If there's an active filter, trigger sorting by that column
 		if (filters.length > 0 && onSortChange) {
-			// Sort by the first active filter
 			const sortColumn = `meta.${filters[0].type}`;
 			onSortChange(sortColumn);
 		}
@@ -135,10 +121,9 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 	const handleClearFilter = (type: RateFilterType) => {
 		setInputValues({ ...inputValues, [type]: "" });
 		setActiveValues({ ...activeValues, [type]: "" });
-		setOperators({ ...operators, [type]: "lte" }); // Reset to default
+		setOperators({ ...operators, [type]: "lte" });
 		setActiveOperators({ ...activeOperators, [type]: "lte" });
 
-		// Rebuild filters without this type
 		const newActiveValues = { ...activeValues, [type]: "" };
 		const filters: RateFilter[] = [];
 
@@ -168,7 +153,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 
 	return (
 		<div className="flex items-center gap-2 flex-wrap min-w-0">
-			{/* Dropdown to add filters */}
 			<DropdownMenu>
 				<DropdownMenuTrigger asChild>
 					<Button
@@ -194,7 +178,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 					<DropdownMenuSeparator />
 
 					<div className="p-4 space-y-4">
-						{/* Win Rate Input */}
 						<div className="space-y-2">
 							<label htmlFor="win-rate-input" className="text-xs font-semibold text-foreground">
 								Win Rate (%)
@@ -258,7 +241,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 
 						<DropdownMenuSeparator />
 
-						{/* Ban Rate Input */}
 						<div className="space-y-2">
 							<label htmlFor="ban-rate-input" className="text-xs font-semibold text-foreground">
 								Ban Rate (%)
@@ -322,7 +304,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 
 						<DropdownMenuSeparator />
 
-						{/* Pick Rate Input */}
 						<div className="space-y-2">
 							<label htmlFor="pick-rate-input" className="text-xs font-semibold text-foreground">
 								Pick Rate (%)
@@ -387,7 +368,6 @@ export function RatesFilter({ onFilterChange, onSortChange }: RatesFilterProps) 
 				</DropdownMenuContent>
 			</DropdownMenu>
 
-			{/* Active Filter Pills */}
 			{activeValues.win_rate !== "" && (
 				<div className="flex items-center gap-1 rounded-full bg-primary/10 px-3 py-1 text-xs font-medium text-primary h-8 sm:h-10 sm:px-4">
 					<span className="whitespace-nowrap">

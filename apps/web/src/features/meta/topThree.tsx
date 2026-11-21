@@ -38,7 +38,6 @@ export const TopThree = ({ data, title = "Top Heroes", description }: TopThreePr
 								key={hero.profile.id}
 								className="overflow-hidden rounded-2xl border border-border/60 bg-card"
 							>
-								{/* Hero Image */}
 								<div className="relative h-48">
 									<img
 										src={image}
@@ -50,7 +49,6 @@ export const TopThree = ({ data, title = "Top Heroes", description }: TopThreePr
 								</div>
 
 								<div className="p-4">
-									{/* Roles */}
 									<div className="flex gap-2 mb-3 flex-wrap">
 										{hero.profile.roles.map((role) => (
 											<Badge key={role.title} variant="secondary" className="bg-background/60">
@@ -59,7 +57,6 @@ export const TopThree = ({ data, title = "Top Heroes", description }: TopThreePr
 										))}
 									</div>
 
-									{/* Stats */}
 									{hero.meta && (
 										<div className="grid grid-cols-3 gap-2 text-sm">
 											<div>

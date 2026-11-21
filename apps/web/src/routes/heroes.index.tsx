@@ -59,7 +59,6 @@ function HeroesPage() {
 	const filteredHeroes = useMemo(() => {
 		let result = [...heroes];
 
-		// Filter by search
 		if (search.trim()) {
 			const searchLower = search.toLowerCase();
 			result = result.filter((hero) =>
@@ -67,7 +66,6 @@ function HeroesPage() {
 			);
 		}
 
-		// Filter by role
 		if (selectedRole !== "All") {
 			result = result.filter((hero) =>
 				hero.profile.roles.some(
@@ -76,7 +74,6 @@ function HeroesPage() {
 			);
 		}
 
-		// Sort
 		result.sort((a, b) => {
 			let comparison = 0;
 			switch (sortBy) {
@@ -104,7 +101,7 @@ function HeroesPage() {
 			setSortDesc(!sortDesc);
 		} else {
 			setSortBy(option);
-			setSortDesc(option !== "name"); // Default descending for stats, ascending for name
+			setSortDesc(option !== "name");
 		}
 	};
 
@@ -118,7 +115,6 @@ function HeroesPage() {
 
 	return (
 		<div className="container mx-auto max-w-6xl px-4 pb-16 pt-8">
-			{/* Header */}
 			<header className="mb-8">
 				<h1 className="mb-2 text-3xl font-bold tracking-tight sm:text-4xl">Heroes</h1>
 				<p className="text-muted-foreground">
@@ -126,9 +122,7 @@ function HeroesPage() {
 				</p>
 			</header>
 
-			{/* Filters */}
 			<div className="mb-6 space-y-4">
-				{/* Search */}
 				<div className="relative">
 					<Search className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
 					<Input
@@ -140,7 +134,6 @@ function HeroesPage() {
 					/>
 				</div>
 
-				{/* Role filters */}
 				<div className="flex flex-wrap gap-2">
 					{ROLES.map((role) => (
 						<Button
@@ -159,7 +152,6 @@ function HeroesPage() {
 					))}
 				</div>
 
-				{/* Sort options */}
 				<div className="flex items-center gap-2 text-sm">
 					<SlidersHorizontal className="h-4 w-4 text-muted-foreground" />
 					<span className="text-muted-foreground">Sort by:</span>
@@ -184,12 +176,10 @@ function HeroesPage() {
 				</div>
 			</div>
 
-			{/* Results count */}
 			<p className="mb-4 text-sm text-muted-foreground">
 				Showing {filteredHeroes.length} of {heroes.length} heroes
 			</p>
 
-			{/* Hero grid */}
 			{filteredHeroes.length > 0 ? (
 				<div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
 					{filteredHeroes.map((hero) => {
@@ -212,7 +202,6 @@ function HeroesPage() {
 								search={{ rank: "overall" }}
 								className="group flex gap-4 rounded-xl border border-border/60 bg-card p-4 transition-colors hover:border-border hover:bg-accent/30"
 							>
-								{/* Hero image */}
 								<div className="h-16 w-16 shrink-0 overflow-hidden rounded-lg border border-border/60">
 									{image ? (
 										<img
@@ -227,7 +216,6 @@ function HeroesPage() {
 									)}
 								</div>
 
-								{/* Hero info */}
 								<div className="min-w-0 flex-1">
 									<div className="mb-1 flex items-start justify-between gap-2">
 										<h3 className="truncate font-semibold group-hover:text-amber-600">
@@ -240,7 +228,6 @@ function HeroesPage() {
 										)}
 									</div>
 
-									{/* Role badges */}
 									<div className="mb-2 flex flex-wrap gap-1">
 										{hero.profile.roles.slice(0, 2).map((role) => (
 											<Badge
@@ -253,7 +240,6 @@ function HeroesPage() {
 										))}
 									</div>
 
-									{/* Stats */}
 									<div className="flex items-center gap-3 text-xs">
 										<span
 											className={

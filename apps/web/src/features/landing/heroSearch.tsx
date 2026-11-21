@@ -10,7 +10,6 @@ import { makeUrl } from "@/lib/utils.api";
 
 const MAX_RESULTS = 8;
 
-// Generate a consistent color based on hero name
 const getAvatarColor = (name: string) => {
 	const colors = [
 		"bg-amber-500/20 text-amber-700 dark:text-amber-300",
@@ -33,7 +32,6 @@ export function HeroSearch() {
 	const inputRef = useRef<HTMLInputElement>(null);
 	const navigate = useNavigate();
 
-	// Fetch heroes on mount
 	useEffect(() => {
 		async function fetchHeroes() {
 			setIsLoading(true);
@@ -53,7 +51,6 @@ export function HeroSearch() {
 		fetchHeroes();
 	}, []);
 
-	// Initialize Fuse.js
 	const fuse = useMemo(() => {
 		if (heroes.length === 0) return null;
 
@@ -65,7 +62,6 @@ export function HeroSearch() {
 		});
 	}, [heroes]);
 
-	// Search results
 	const results = useMemo(() => {
 		if (!searchQuery.trim() || !fuse) return [];
 
@@ -73,7 +69,6 @@ export function HeroSearch() {
 		return searchResults.slice(0, MAX_RESULTS).map((result) => result.item);
 	}, [searchQuery, fuse]);
 
-	// Handle input change
 	useEffect(() => {
 		if (searchQuery.trim()) {
 			setIsOpen(true);
@@ -83,7 +78,6 @@ export function HeroSearch() {
 		}
 	}, [searchQuery]);
 
-	// Navigate to hero
 	const navigateToHero = (hero: MlMetaSummary) => {
 		navigate({ to: "/heroes/$hero", params: { hero: hero.url_name }, search: { rank: "overall" } });
 		setSearchQuery("");
@@ -91,7 +85,6 @@ export function HeroSearch() {
 		inputRef.current?.blur();
 	};
 
-	// Keyboard navigation
 	const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
 		if (!isOpen || results.length === 0) return;
 
@@ -164,14 +157,12 @@ export function HeroSearch() {
 										}`}
 										onMouseEnter={() => setSelectedIndex(index)}
 									>
-										{/* Avatar with initial */}
 										<div
 											className={`flex h-10 w-10 shrink-0 items-center justify-center rounded-lg text-sm font-semibold ${getAvatarColor(hero.name)}`}
 										>
 											{hero.name.charAt(0).toUpperCase()}
 										</div>
 
-										{/* Hero info */}
 										<div className="min-w-0 flex-1">
 											<div className="flex items-center gap-2">
 												<span className="truncate font-medium">{hero.name}</span>

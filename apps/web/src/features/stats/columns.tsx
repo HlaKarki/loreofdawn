@@ -12,11 +12,7 @@ import {
 import { getRoleIcon, getLaneIcon } from "@/lib/get-game-assets";
 import { cn, tidyLabel } from "@/lib/utils";
 import { resolveImageSrc } from "@/lib/images";
-import type { TableDensity } from "./density-toggle";
 
-/**
- * Reusable sortable header component with left border accent for sorted state
- */
 const SortableHeader = ({
 	column,
 	children,
@@ -33,7 +29,7 @@ const SortableHeader = ({
 			className={cn(
 				"relative flex items-center gap-2 cursor-pointer select-none hover:text-foreground",
 				"justify-center border-l-4 border-transparent",
-				densityConfig.header, // Apply density padding here
+				densityConfig.header,
 				densityConfig.fontSize.header,
 				isSorted && "border-l-4  border-primary text-primary",
 			)}
@@ -58,13 +54,13 @@ const SortableHeader = ({
 
 const INDEX_SIZE = 40;
 const HERO_SIZE = 60;
-const HERO_SIZE_COMPACT = 50; // narrower without image
-const HERO_SIZE_COMFORTABLE = 70; // wider with larger image
+const HERO_SIZE_COMPACT = 50;
+const HERO_SIZE_COMFORTABLE = 70;
 const RATES_SIZE = 98;
 
 interface DensityConfig {
-	cell: string; // padding classes for cells
-	header: string; // padding classes for headers
+	cell: string;
+	header: string;
 	showHeroImage: boolean;
 	heroImageSize: number;
 	fontSize: {
@@ -94,7 +90,6 @@ export const createColumns = (
 			</div>
 		),
 		cell: ({ row, table }) => {
-			// Get index within current page's visible rows (1-based)
 			const rows = table.getRowModel().rows;
 			const index = rows.findIndex((r) => r.id === row.id) + 1;
 			return (
@@ -110,7 +105,6 @@ export const createColumns = (
 	{
 		id: "profile.name",
 		accessorKey: "profile.name",
-		// header: ({ column }) => <SortableHeader column={column} densityConfig={densityConfig}>Hero</SortableHeader>,
 		header: () => (
 			<div
 				className={cn(
@@ -132,7 +126,6 @@ export const createColumns = (
 			);
 			const urlName = row.original.profile.url_name;
 
-			// Compact mode: no image, just name
 			if (!densityConfig.showHeroImage) {
 				return (
 					<Link
@@ -154,7 +147,6 @@ export const createColumns = (
 				);
 			}
 
-			// Normal/Comfortable mode: show image
 			return (
 				<Link
 					to="/heroes/$hero"

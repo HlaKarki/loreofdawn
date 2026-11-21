@@ -62,21 +62,21 @@ export interface MlHeroApiRecord {
 				roadsorticon1: string;
 				roadsorticon2: string;
 				roadsortlabel: string[];
-				smallmap: string; // data card
-				sorticon1: string; // mage icon
-				sorticon2: string; // marksman icon
+				smallmap: string;
+				sorticon1: string;
+				sorticon2: string;
 				sortid: {
 					data: {
-						sort_icon: string; // mage icon
-						sort_title: string; // mage
+						sort_icon: string;
+						sort_title: string;
 					};
 					updatedAt: number;
 					updatedUser: string;
 				}[];
 				painting: string;
-				sortlabel: string[]; // mage, marksman
-				speciality: string[]; // damage, crowd control
-				story: string; // short sympnosis of the data's story
+				sortlabel: string[];
+				speciality: string[];
+				story: string;
 				tale: string;
 				squarehead: string;
 				squareheadbig: string;
@@ -239,7 +239,7 @@ export interface MlHeroProfile {
 		description: string;
 		icon: string;
 		name: string;
-		tags: string[]; // buff, cc, etc..
+		tags: string[];
 	}[];
 	lanes: {
 		icon: string;

@@ -1,6 +1,5 @@
 node_modules
 .turbo
-.next
 dist
 bun.lock
 *.log

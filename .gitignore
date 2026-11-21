@@ -1,6 +1,5 @@
 node_modules
 .turbo
-.alchemy
 .env*
 /.idea/
 .vscode
@@ -8,16 +7,12 @@ node_modules
 # Wrangler (Cloudflare Workers)
 .wrangler
 .dev.vars
-wrangler.toml.backup
 wrangler.local.jsonc
 worker-configuration.d.ts
-
-apps/web/scripts/funcs.ts
 
 dist
 .claude
 
 .DS_Store
-apps/*.DS_Store
 
 !apps/web/worker-configuration.d.ts

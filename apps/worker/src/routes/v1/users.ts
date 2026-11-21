@@ -6,10 +6,6 @@ import { createDb } from "@/db";
 
 export const usersRouter = new Hono<Env>();
 
-/**
- *
- * GET /v1/users/me
- */
 usersRouter.get("/me", requireAuth, async (c) => {
 	const clerkUserId = c.get("clerkUserId");
 	if (!clerkUserId) return c.json({ error: "User not found" }, 404);

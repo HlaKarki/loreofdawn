@@ -7,9 +7,6 @@
 			"inputs": ["$TURBO_DEFAULT$", ".env*"],
 			"outputs": ["dist/**"]
 		},
-		"lint": {
-			"dependsOn": ["^lint"]
-		},
 		"check-types": {
 			"dependsOn": ["^check-types"]
 		},
@@ -22,14 +19,6 @@
 			"persistent": true
 		},
 		"db:studio": {
-			"cache": false,
-			"persistent": true
-		},
-		"db:migrate": {
-			"cache": false,
-			"persistent": true
-		},
-		"db:generate": {
 			"cache": false,
 			"persistent": true
 		}

@@ -10,9 +10,6 @@ export class UserService {
 		this.db = db;
 	}
 
-	/**
-	 * Create a new user in the database
-	 */
 	async createUser(data: userSchemaType) {
 		const now = Date.now();
 
@@ -34,9 +31,6 @@ export class UserService {
 		}
 	}
 
-	/**
-	 * Update an existing user by clerk_user_id
-	 */
 	async updateUser(
 		clerkUserId: string,
 		data: {
@@ -63,9 +57,6 @@ export class UserService {
 		}
 	}
 
-	/**
-	 * Delete a user by clerk_user_id
-	 */
 	async deleteUser(clerkUserId: string) {
 		try {
 			const [user] = await this.db
@@ -81,9 +72,6 @@ export class UserService {
 		}
 	}
 
-	/**
-	 * Get a user by clerk_user_id
-	 */
 	async getUserByClerkId(clerkUserId: string) {
 		try {
 			const [user] = await this.db
@@ -99,9 +87,6 @@ export class UserService {
 		}
 	}
 
-	/**
-	 * Update user's subscription details
-	 */
 	async updateSubscription(
 		clerkUserId: string,
 		data: {

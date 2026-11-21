@@ -9,7 +9,7 @@ import type {
 } from "@repo/database";
 import { MlApiError, type MlSyncEnv } from "./types";
 
-export type MlRecordFilter = { hero_id?: number; counter: boolean; rank: 9 | 101 };
+type MlRecordFilter = { hero_id?: number; counter: boolean; rank: 9 | 101 };
 
 type MlResponse<T> = { code: number; message: string; data: { records: T[] } };
 

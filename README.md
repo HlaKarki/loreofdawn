@@ -103,15 +103,14 @@ curl -X POST https://cf-api.loreofdawn.com/internal/sync -H "Authorization: Bear
 ### Database
 
 ```bash
-# Generate migrations
-bun db:generate
-
-# Apply migrations
+# Push schema changes (reads DATABASE_URL)
 bun db:push
 
 # Open Drizzle Studio
 bun db:studio
 ```
+
+Schema changes ship with `db:push`, so the repo keeps no migration files. Grants that Drizzle can't express live in `packages/database/sql/` and are applied by hand.
 
 ## Environment Variables
 

@@ -8,10 +8,6 @@ import { requireSyncToken } from "@/middleware/syncToken";
 
 export const wikisRouter = new Hono<Env>();
 
-/**
- * GET /v1/wikis
- * List all wikis with metadata
- */
 wikisRouter.get("/", async (c) => {
 	const cacheKey = "wikis:all";
 
@@ -23,15 +19,11 @@ wikisRouter.get("/", async (c) => {
 			return await wikiService.getAllWikis();
 		},
 		{
-			ttlSeconds: 60 * 60 * 6, // 2 hours
+			ttlSeconds: 60 * 60 * 6,
 		},
 	);
 });
 
-/**
- * GET /v1/wikis/:name
- * Get wiki content for a hero
- */
 wikisRouter.get("/:name", async (c) => {
 	const name = c.req.param("name")?.trim().toLowerCase();
 

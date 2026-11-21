@@ -8,7 +8,6 @@ import {
 	heroRolesEnum,
 	StatsByRolesType,
 	MlMetaSummary,
-	ConsolidatedHeroOptional,
 } from "@repo/database";
 import { and, eq, ilike, sql, desc, asc } from "drizzle-orm";
 import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
@@ -23,9 +22,6 @@ export class HeroService {
 		this.KV = KV;
 	}
 
-	/**
-	 * Get all heroes for seeding purposes
-	 */
 	async getHeroList() {
 		const heroes = await this.db.select().from(heroesListTable);
 
@@ -36,16 +32,13 @@ export class HeroService {
 		return heroes;
 	}
 
-	/**
-	 * Query heroes with filters, sorting, and pagination
-	 */
 	async queryHeroes(params: {
 		name?: string;
 		roles?: heroRolesEnum[];
 		limit?: number;
 		sort?: string;
 		rank?: string;
-		include?: string[]; // ["meta", "matchups", "graph", "full"]
+		include?: string[];
 		minBanRate?: number;
 		minWinRate?: number;
 		minPickRate?: number;
@@ -68,15 +61,10 @@ export class HeroService {
 			maxPickRate,
 		} = params;
 
-		// Auto-include meta if sorting by meta fields
-		const needsMetaForSort =
-			sort &&
-			(sort.includes("win_rate") || sort.includes("pick_rate") || sort.includes("ban_rate"));
-		const includeMeta = include.includes("meta") || needsMetaForSort;
 		const includeMatchups = include.includes("matchups");
 		const includeGraph = include.includes("graph");
 
-		// Build the query - use INNER JOIN for meta to exclude heroes without stats
+		// Heroes without stats have no meta row, so the INNER JOIN leaves them out.
 		let query = this.db
 			.select()
 			.from(heroProfileTable)
@@ -97,7 +85,6 @@ export class HeroService {
 			)
 			.$dynamic();
 
-		// Apply filters
 		const conditions = [];
 
 		if (name) {
@@ -143,7 +130,6 @@ export class HeroService {
 			query = query.where(and(...conditions));
 		}
 
-		// Apply sorting
 		if (sort) {
 			const orderClauses = sort.split(",").map((field) => {
 				const isDesc = field.startsWith("-");
@@ -165,29 +151,21 @@ export class HeroService {
 			query = query.orderBy(asc(heroProfileTable.name));
 		}
 
-		// Execute query
 		const results = await query.limit(Math.min(limit, 500));
 
-		// Transform results based on what was requested
 		return results.map((row) => {
 			const profile = row.hero_profiles;
 			const meta = row.hero_metas;
 
 			return {
 				profile,
-				meta, // Always included (INNER JOIN)
-				// Matchups and graph are optional (LEFT JOIN)
+				meta,
 				...(includeMatchups && row.hero_matchups && { matchups: row.hero_matchups }),
 				...(includeGraph && row.hero_graphs && { graph: row.hero_graphs }),
 			};
 		});
 	}
 
-	/**
-	 * Get comprehensive list of heroes with their roles, lanes, and specialities
-	 * Returns a formatted string that helps AI understand hero classifications
-	 * e.g. "Miya (marksman, gold lane, damage/push), Fanny (assassin, jungle, burst/mobility)"
-	 */
 	async getHeroListForAi(): Promise<string> {
 		const heroes = await this.db
 			.select({
@@ -198,7 +176,6 @@ export class HeroService {
 			})
 			.from(heroProfileTable);
 
-		// Format: "HeroName (role1/role2, lane1/lane2, speciality1/speciality2)"
 		const formatted = heroes.map((hero) => {
 			const roles = (hero.roles as any[])?.map((r) => r.title?.toLowerCase()).filter(Boolean) || [];
 			const lanes = (hero.lanes as any[])?.map((l) => l.title?.toLowerCase()).filter(Boolean) || [];
@@ -216,11 +193,6 @@ export class HeroService {
 		return formatted.join(", ");
 	}
 
-	/**
-	 * Get consolidated data profile with matchups, meta, and graph data
-	 * Uses INNER JOIN for meta to ensure hero has stats
-	 * Uses LEFT JOIN for matchups and graph (optional)
-	 */
 	async getHeroProfile(name: string, rank: string) {
 		const normalizedName = name.trim().toLowerCase().replaceAll("_", " ");
 
@@ -284,10 +256,6 @@ export class HeroService {
 		};
 	}
 
-	/**
-	 * Seed KV cache with hero data for a specific hero and rank
-	 * Only caches heroes that have meta data (INNER JOIN)
-	 */
 	async seedHeroCache(heroName: string, rank: string): Promise<void> {
 		const normalizedName = heroName.trim().toLowerCase().replaceAll("_", " ");
 
@@ -325,9 +293,6 @@ export class HeroService {
 		}
 	}
 
-	/**
-	 * Get all assets related to a data
-	 */
 	async getHeroAssets(name: string): Promise<{
 		images: HeroAssets;
 		lanes: { icon: string; title: string }[];
@@ -345,10 +310,6 @@ export class HeroService {
 		return assets;
 	}
 
-	/**
-	 * Get data points for Quadrant Graph
-	 * Uses INNER JOIN to only return heroes with meta data
-	 */
 	async getQuadrantData(rank: string = "overall") {
 		return await this.db
 			.select({
@@ -366,9 +327,6 @@ export class HeroService {
 			);
 	}
 
-	/**
-	 * Get full meta profile for a specific hero or all
-	 */
 	async getMetaProfile(name: string, rank: string): Promise<MlMetaSummary[]> {
 		switch (name) {
 			case "all":
@@ -384,11 +342,6 @@ export class HeroService {
 		}
 	}
 
-	/**
-	 * Get full table data
-	 * Includes hero_profiles and hero_metas
-	 * Uses INNER JOIN to only return heroes with meta data
-	 */
 	async getTableData(rank: string = "overall") {
 		return await this.db
 			.select({
