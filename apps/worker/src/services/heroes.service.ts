@@ -10,6 +10,7 @@ import {
 	MlMetaSummary,
 } from "@repo/database";
 import { and, eq, ilike, sql, desc, asc } from "drizzle-orm";
+import { HTTPException } from "hono/http-exception";
 import { PostgresJsDatabase } from "drizzle-orm/postgres-js";
 import { Bindings } from "@/types";
 
@@ -218,7 +219,7 @@ export class HeroService {
 			.limit(1);
 
 		if (!result[0]) {
-			throw new Error("Hero not found");
+			throw new HTTPException(404, { message: "Hero not found" });
 		}
 
 		return {
@@ -307,6 +308,11 @@ export class HeroService {
 			.from(heroProfileTable)
 			.where(ilike(heroProfileTable.name, name))
 			.limit(1);
+
+		if (!assets) {
+			throw new HTTPException(404, { message: "Hero not found" });
+		}
+
 		return assets;
 	}
 

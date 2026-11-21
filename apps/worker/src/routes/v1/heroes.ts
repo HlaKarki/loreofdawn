@@ -63,10 +63,14 @@ heroesRouter.get("/list", async (c) => {
 });
 
 heroesRouter.get("/meta", async (c) => {
-	const { name: n, rank: r } = c.req.query();
-	const [name, rank] = [n.toLowerCase(), r.toLowerCase()];
+	const name = c.req.query("name")?.trim().toLowerCase();
+	const rank = c.req.query("rank")?.trim().toLowerCase() || "overall";
 
-	const cacheKey = `${cv}:heroes:meta:${name}`;
+	if (!name) {
+		return c.json({ error: "name is required" }, 400);
+	}
+
+	const cacheKey = `${cv}:heroes:meta:${name}:${rank}`;
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
 
 	const data = await cacheKvLayer.tryFetch(
@@ -169,8 +173,8 @@ heroesRouter.delete("/:name", requireSyncToken, async (c) => {
 });
 
 heroesRouter.get("/table", async (c) => {
-	const { rank } = c.req.query();
-	const cacheKey = `${cv}:heroes:table:${rank.toLowerCase()}`;
+	const rank = c.req.query("rank")?.trim().toLowerCase() || "overall";
+	const cacheKey = `${cv}:heroes:table:${rank}`;
 
 	const db = createDb(c.env.HYPERDRIVE.connectionString);
 	const payload = await cacheKvLayer.tryFetch(
