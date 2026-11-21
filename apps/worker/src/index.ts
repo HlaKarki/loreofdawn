@@ -30,7 +30,7 @@ app.use(
 		allowHeaders: ["Content-Type", "Authorization", "User-Agent", "user-agent"],
 	}),
 );
-app.use("*", errorHandler);
+app.onError(errorHandler);
 
 app.route("/", apiRouter);
 
